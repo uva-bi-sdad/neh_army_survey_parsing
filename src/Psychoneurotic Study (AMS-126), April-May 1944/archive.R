@@ -1,6 +1,7 @@
 
 # data files
 codebook <- readLines("data/original/Psychoneurotic Study (AMS-126), April-May 1944/Technical Documentation/AMS-126_ Psychoneurotic Study 04-05_1944, codebook.AMS0126.CDBK")
+codebook_raw <- readr::read_file("data/original/Psychoneurotic Study (AMS-126), April-May 1944/Technical Documentation/AMS-126_ Psychoneurotic Study 04-05_1944, codebook.AMS0126.CDBK")
 answer_file <- "data/original/Psychoneurotic Study (AMS-126), April-May 1944/Electronic Records/AMS-126_ Psychoneurotic Study 04-05_1944, data.AMS126.CLEAN"
 
 # function - return all column widths of a single card
@@ -13,6 +14,7 @@ col_pos_lngth <- function(card) {
     as.numeric(substr(multicolumn_positions, regexpr("-", multicolumn_positions) + 1, nchar(multicolumn_positions)))
   data.table::data.table(col_first_pos = first_columns, col_last_pos = last_columns, col_lngth = last_columns - first_columns + 1)
 }
+
 
 # determine nmber of cards
 cards <- grep("CARD [1-9]", codebook)
@@ -65,4 +67,16 @@ for (c in card_ls) {
 answers_parsed <-  read.fwf(answer_file, list(card_col_widths[[1]][, col_lngth], card_col_widths[[2]][, col_lngth]))
 
 
+
+for (i in grep("COL", codebook, value = FALSE)) {
+  start <- i - 2
+  start2 <- i - 1
+  mc <- codebook[start:i]
+  mc2 <- codebook[i]
+  conct <- rbind(mc, mc2)
+  print(conct)
+  
+  # mc_positions <- sub(".* ([0-9]{1,2}-[0-9]{1,2}).*", "\\1", mc)
+  # print(mc_positions)
+}
 
