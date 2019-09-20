@@ -10,7 +10,3 @@ add_duplicate_rows <- function(df, rownum, dupnum) {
   dtf <- rbindlist(list(dt1, dt2))
   return(dtf)
 }
-
-my_df <- data.frame(col1 = c("A", "B", "C"), col2 = c(1, 2, 3))
-
-add_duplicate_rows(my_df, 2, 3)

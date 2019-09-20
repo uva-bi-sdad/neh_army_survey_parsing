@@ -2,7 +2,7 @@
 functions <- list.files("src/functions/", full.names = TRUE)
 for (f in functions) source(f)
 # SET STUDY FOLDER
-study_folder <- "data/original/Survey of Hospital Patients (AMS-193), July 1945"
+study_folder <- "data/original/Psychiatric Study (AMS-74), September 1943"
 # CREATE SESSION VARIABLES
 set_session_variables(study_folder)
 # IMPORT CODEBOOK
@@ -14,7 +14,20 @@ questions <- extract_questions(codebook_lines)
 # CHECK FOR SPECIAL INSTRUCTIONS
 check_instructions()
 # SPECIAL RULES FOR JUST THIS SURVEY
+combine_indicies <- which(str_detect(questions, "Q.[34]\\."))
+combined_questions <- paste(questions[combine_indicies], collapse = "")
+questions[combine_indicies[1]] <- combined_questions
+questions[[combine_indicies[2]]] <- NULL
 
+combine_indicies <- which(str_detect(questions, "Q.48[AB]\\."))
+combined_questions <- paste(questions[combine_indicies], collapse = "")
+questions[combine_indicies[1]] <- combined_questions
+questions[[combine_indicies[2]]] <- NULL
+
+combine_indicies <- which(str_detect(questions, "Q.59[AB]\\."))
+combined_questions <- paste(questions[combine_indicies], collapse = "")
+questions[combine_indicies[1]] <- combined_questions
+questions[[combine_indicies[2]]] <- NULL
 # PARSE TO QUESTIONS AND OPTIONS
 questions <- parse_questions(questions)
 # EXTRACT QUESTION COLUMN WIDTHS

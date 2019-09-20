@@ -2,7 +2,7 @@
 functions <- list.files("src/functions/", full.names = TRUE)
 for (f in functions) source(f)
 # SET STUDY FOLDER
-study_folder <- "data/original/Survey of Hospital Patients (AMS-193), July 1945"
+study_folder <- "data/original/Trends in Attitudes (AMS-210), March-April 1945"
 # CREATE SESSION VARIABLES
 set_session_variables(study_folder)
 # IMPORT CODEBOOK
