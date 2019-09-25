@@ -1,3 +1,4 @@
+library(readr)
 import_codebook <- function(folder) {
   ## set codebook path
   codebook_file_path <- list.files(folder, pattern = "*.CDBK", full.names = TRUE)[1]
