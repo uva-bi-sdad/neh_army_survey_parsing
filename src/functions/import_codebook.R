@@ -10,6 +10,8 @@ import_codebook <- function(folder) {
   #codebook_raw <- readr::read_file(paste0(codebook_file_path, ".ascii"))
   codebook_lines <- readr::read_lines(paste0(codebook_file_path, ".ascii")) %>% 
     stringr::str_remove("^[0-9]") %>% 
+    stringr::str_remove("^_") %>%
+    stringr::str_remove("^-") %>%
     stringr::str_remove("^.*ROPER.*PAGE.*$")
   codebook_lines <- codebook_lines[nchar(codebook_lines) > 0L]
   return(codebook_lines)

@@ -2,6 +2,7 @@ check_instructions <- function(codebook, code = "X") {
   unlist(stringr::str_match_all(codebook, paste0("\\s", code, "\\.\\s.*")))
 }
 
+# COLUMNS CODED TOGETHER
 fix_coded_together <- function(instructions, questions) {
   #browser()
   o <- stringr::str_match(instructions, "[\\s\\.]([1-9][0-9]?[0-9]?[A-Z]?).*?\\s.*?([1-9][0-9]?[0-9]?[A-Z]?).*?[Cc][Oo][Dd][Ee][Dd]\\s[Tt][Oo][Gg][Ee][Tt][Hh][Ee][Rr]")
@@ -18,3 +19,5 @@ fix_coded_together <- function(instructions, questions) {
   }
   questions
 }
+
+
