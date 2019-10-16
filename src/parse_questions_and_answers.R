@@ -1,21 +1,24 @@
-library(magrittr)
-library(data.table)
+# LOAD LIBRARIES
+source("src/libraries.R")
 
-parse_questions_and_answers <- function(study_folder_path) {
-  print(study_folder_path)
-  # LOAD FUNCTIONS
-  functions <- list.files("src/functions/", full.names = TRUE)
-  for (f in functions) source(f)
-  # SET STUDY FOLDER
-  study_folder <- study_folder_path
+# LOAD FUNCTIONS
+functions <- list.files("src/functions/", full.names = TRUE)
+for (f in functions) source(f)
+
+parse_questions_and_answers <- function(codebook_file_path, answer_file_path) {
+  print(codebook_file_path)
+  readr::write_lines(codebook_file_path, "logs/log", append = TRUE)
+  # # SET STUDY FOLDER
+  # study_folder <- study_folder_path
+  
   # CREATE SESSION VARIABLES
-  set_session_variables(study_folder)
+  set_session_variables(codebook_file_path)
   # IMPORT CODEBOOK
   print("import codebook")
-  codebook_lines <- import_codebook(codebook_folder)
+  codebook_lines <- import_codebook_file(codebook_file_path)
   # IMPORT ANSWER FILE
   print("import answers")
-  answerlines <- import_answer_file(answer_folder)
+  answerlines <- import_answer_file(answer_file_path)
   # CHECK INSTRUCTIONS
   instructions <- check_instructions(codebook_lines)
   print(instructions)
@@ -42,6 +45,7 @@ parse_questions_and_answers <- function(study_folder_path) {
   print("parse answers with col widths")
   prsd <- parse_answer_rows(colwidths, answer_rows_file = "data/working/temp.fwf")
   print(prsd[1,])
+  write.table(prsd[1,], "logs/log", append = TRUE, row.names = F, col.names = F)
   #browser()
   # WRITE OUTPUT FILES
   write_output_files(dir = "data/working/", questions, prsd)
@@ -50,16 +54,9 @@ parse_questions_and_answers <- function(study_folder_path) {
   #browser()
 }
 
+qs_n_as <- find_all_answer_and_codebook_files()
+for (i in 1:nrow(qs_n_as)) {
+  parse_questions_and_answers(qs_n_as[i, codebook_file], qs_n_as[i, answer_file])
+}
 
-dirs <- list.dirs("data/original", recursive = F)
-for (d in dirs[57:83]) parse_questions_and_answers(d)
 
-parse_questions_and_answers("data/original/Attitudes of (or towards) Negroes (PS-32), March 1943")
-parse_questions_and_answers("data/original/Attitudes in Air Transport Command (AMS-141), July 1944")
-parse_questions_and_answers("data/original/Attitudes in the Caribbean (AMS-115), January-February 1944")
-parse_questions_and_answers("data/original/Attitudes of Negro Quartermaster Troops (AMS-174), October 1944")
-parse_questions_and_answers("data/original/Attitudes of Army Nurses (AMS-192), January 1945")
-parse_questions_and_answers("data/original/Attitudes toward Branch of Service (AMS-44), April 1943")
-parse_questions_and_answers("data/original/Attitudes toward the War and Further Duty (AMS-212), May 1945")
-parse_questions_and_answers("data/original/Returnees_ Reactions to Enemy and Further Duty (AMS-211), June 1945")
-parse_questions_and_answers("data/original/Methodological Study of the Measurement of Intensity (AMS-215), June 1945")
