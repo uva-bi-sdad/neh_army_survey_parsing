@@ -5,6 +5,9 @@ source("src/libraries.R")
 functions <- list.files("src/functions/", full.names = TRUE)
 for (f in functions) source(f)
 
+# RESET LOG
+rm("logs/log")
+
 parse_questions_and_answers <- function(codebook_file_path, answer_file_path) {
   print(codebook_file_path)
   readr::write_lines(codebook_file_path, "logs/log", append = TRUE)
@@ -59,4 +62,6 @@ for (i in 1:nrow(qs_n_as)) {
   parse_questions_and_answers(qs_n_as[i, codebook_file], qs_n_as[i, answer_file])
 }
 
+now <- qs_n_as[codebook_file %like% "044I"]
+parse_questions_and_answers(now[1, codebook_file], now[1, answer_file])
 
