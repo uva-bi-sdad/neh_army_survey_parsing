@@ -62,6 +62,6 @@ for (i in 1:nrow(qs_n_as)) {
   parse_questions_and_answers(qs_n_as[i, codebook_file], qs_n_as[i, answer_file])
 }
 
-now <- qs_n_as[codebook_file %like% "044I"]
+now <- qs_n_as_2[codebook_file %like% "0212"]
 parse_questions_and_answers(now[1, codebook_file], now[1, answer_file])
 

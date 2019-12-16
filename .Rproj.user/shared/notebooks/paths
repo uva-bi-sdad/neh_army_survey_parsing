@@ -53,6 +53,8 @@
 /home/ads7fg/git/neh_army_survey_parsing/data/working/AMS0199_questions.csv="DC01ECD1"
 /home/ads7fg/git/neh_army_survey_parsing/data/working/AMS0210_answers.csv="886958DF"
 /home/ads7fg/git/neh_army_survey_parsing/data/working/AMS0210_questions.csv="A64E7030"
+/home/ads7fg/git/neh_army_survey_parsing/data/working/AMS0212_answers.csv="DCEF0C9F"
+/home/ads7fg/git/neh_army_survey_parsing/data/working/AMS0212_questions.csv="FE431CDB"
 /home/ads7fg/git/neh_army_survey_parsing/data/working/AMS032N_answers.csv="FEFA007"
 /home/ads7fg/git/neh_army_survey_parsing/data/working/AMS032N_questions.csv="E0E055E6"
 /home/ads7fg/git/neh_army_survey_parsing/data/working/AMS032W_answers.csv="C6BCAE5E"
@@ -83,3 +85,4 @@
 /home/ads7fg/git/neh_army_survey_parsing/src/functions/write_output_files.R="AA42470B"
 /home/ads7fg/git/neh_army_survey_parsing/src/libraries.R="E96C422B"
 /home/ads7fg/git/neh_army_survey_parsing/src/parse_questions_and_answers.R="88CF7258"
+/home/ads7fg/git/neh_army_survey_parsing/src/test_file_lengths.R="3FE90D41"

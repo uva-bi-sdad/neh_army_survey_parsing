@@ -930,7 +930,7 @@
              23   0. NO ANSWER                                                   
 1                                                                                
 0        ROPER CENTER - AMS0085                      PAGE  23                    
-0                Q.74E. NUMBER OF ITEMS CHECKED.                                     
+0                E. NUMBER OF ITEMS CHECKED.                                     
 0                C. COL. 19.                                                     
 0          1004   1. CHECKED 3, RANKED 3                                         
              16   2. CHECKED 3, RANK NOT INDICATED                               
@@ -1225,7 +1225,7 @@
 0           736   1. YES                                                         
             274   2. NO                                                          
              38   0. NO ANSWER                                                   
-0                Q.100E. NUMBER OF MOVIES SEEN:                                       
+0                E. NUMBER OF MOVIES SEEN:                                       
 0                C. COL. 49.                                                     
 0            97   1. SAW 1 MOVIE                                                 
             131   2. SAW 2 MOVIES                                                
