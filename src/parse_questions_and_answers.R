@@ -46,7 +46,12 @@ parse_questions_and_answers <- function(codebook_file_path, answer_file_path) {
   prsd <- parse_answer_rows(colwidths, answer_rows_file = "data/working/temp.fwf")
   print(prsd[1,])
   write.table(prsd[1,], "logs/log", append = TRUE, row.names = F, col.names = F)
+  # UPDATE PARSED ANSWERS WITH QUESTION NAMES
   #browser()
+  q_names <- stringr::str_match(questions$V1, "^([a-zA-Z0-9.]+)\\s")[,2] %>% 
+    make.unique()
+  colnames(prsd) <- q_names
+  
   # WRITE OUTPUT FILES
   write_output_files(dir = "data/working/", questions, prsd)
   # CLEANUP
