@@ -1,63 +1,117 @@
+library(dplyr)
+library(stringr)
+library(haven)
+
 answerscsv <- read.csv("data/working/AMS0035_answers.csv")
 questionsscsv <- read.csv("data/working/AMS0035_questions.csv", header = F)
 
-
+# SPLIT OUT QUESTION NIICKNAME AND FULL QUESTION USING ASTERICS
 codebook_raw <- data.frame(id = 1:nrow(questionsscsv), "raw" = questionsscsv[,1]) %>% 
   mutate(q_nickname = names(answerscsv),
-         # q_nickname = stringr::str_extract(raw, 
-         # "(Q\\.\\d*\\.?[[:alpha:]]?|V\\.\\d*\\.?[[:alpha:]]?|(CARD|DECK|BALLOT|FORM)\\.?\\s*(\\d*|[[:alpha:]])\\.)"),
-         # q_nickname = ifelse(!is.na(q_nickname), q_nickname, stringr::str_extract(raw, "X.([^.]+)")), #X.([^.]+)
+         meta = ifelse(stringr::str_detect(raw, "^(CARD|DECK|BALLOT|FORM)"), 1, 0),
+         continued = ifelse(stringr::str_detect(raw, "CONTINUED"), 1, 0 ),
          q_asterisk = stringr::str_detect(raw, "\\*"),
-         question = stringr::str_extract(raw, "Q\\..*\\*"))
+         q_colon = stringr::str_detect(raw, "(Q|V|X)\\..*\\:"), 
+         question = ifelse(q_asterisk == TRUE, stringr::str_extract(raw, "Q\\..*\\*"), 
+                           ifelse(q_colon == TRUE, stringr::str_extract(raw, "(Q|V|X)\\..*\\:"), 
+                                  ifelse(continued == 1, q_nickname, 
+                                         ifelse(meta == 1, q_nickname, "missing!")))))
 
-
+# PREPARE PARATHESES FOR REGEX
 codebook_raw$question <- stringr::str_replace_all(stringr::str_replace_all(codebook_raw$question, "\\(", "\\\\\\("), "\\)", "\\\\\\)")
 
+# GET ANSWER OPTIONS
 codebook_raw <- codebook_raw %>% 
   mutate(code_raw_text_minus_question = stringr::str_remove(raw, pattern = question))
 
-codes <- codebook_raw %>% 
-  transmute(id, q_nickname, code_raw_text_minus_question, 
-            codes_raw = stringr::str_extract_all(code_raw_text_minus_question, "\\d?\\d\\.\\s?")) %>%
+# GET NUMERIC CODES FOR ANSWERS THEN GET TEXT CODES FOR ANSWERS
+codes_nested <- codebook_raw %>% 
+  transmute(id, q_nickname, meta, code_raw_text_minus_question, 
+            codes_raw = stringr::str_extract_all(code_raw_text_minus_question, "\\d?\\d\\."),
+            exceptions = ifelse( meta == 1, "meta", ifelse(lengths(codes_raw) == 0, "no codes identified", NA))) 
+
+codes <- codes_nested %>% 
   tidyr::unnest(c("codes_raw")) %>% 
-  mutate(codes = stringr::str_extract(codes_raw, "^\\d\\d?"))
+  mutate(codes = stringr::str_extract(codes_raw, "^\\d\\d?"),
+         response_raw = str_remove(str_extract(code_raw_text_minus_question, pattern = paste0(codes, "\\.(.+?(\\d\\.|$))")), "\\d\\.$"),
+         responses = str_squish(str_remove(response_raw, "^\\d\\.")))
 
-responses <- codebook_raw %>% 
-  transmute(id, q_nickname, code_raw_text_minus_question, 
-            responses_raw = stringr::str_split(code_raw_text_minus_question, "\\d\\.")) %>%
-  tidyr::unnest(c("responses_raw")) %>%
-  mutate(responses_raw = stringr::str_squish(responses_raw)) %>% 
-  filter(responses_raw != "*" & dataplumbr::var.is_blank(responses_raw) == FALSE) 
+codes_renested <- codes %>% group_by(id, q_nickname, exceptions) %>% summarise(codes = list(codes))
+response_nested <- codes %>% group_by(id, q_nickname) %>% summarise(response = list(responses))
 
 
-### PRINT EXAMPLE TO SHARE WITH PROJECT GROUP
+### REVIEW
+# HOW TO TREAT THE META QUESTIONS?
 
-check = codes %>% count(id, q_nickname) %>% left_join(responses %>% count(id, q_nickname), by = c("id", "q_nickname")) %>% mutate(check = n.x - n.y)
+codes_nested
+response_nested
+codes 
+final_codebook <- codes_nested %>% 
+  select(id, q_nickname, exceptions) %>% 
+  left_join(codes_renested %>% select(id, q_nickname, codes), by = c("id", "q_nickname")) %>%
+  left_join(response_nested %>% ungroup(), by = c("id", "q_nickname")) %>% 
+  transmute(id,  q_nickname, exceptions, codes, labels = response) %>% 
+  left_join(codebook_raw %>% select(id, q_nickname, question), by = c("id", "q_nickname"))
 
-exampleqs <- check %>% filter(check == 0) %>% .$id
-exampleas <- answerscsv[,exampleqs]
+head(final_codebook)
 
-examplecodebook <- codebook_raw %>% filter(id %in%exampleqs)
-examplecodes <- codes %>% filter(id %in% exampleqs)
-exampleresponses <- responses %>% filter(id %in% exampleqs)
-example_response_text <- data.frame(id = examplecodes$id, q_nickname = examplecodes$q_nickname, codes = examplecodes$codes, labels = exampleresponses$responses_raw)
+manual_exceptions <- c(16)
+#16 - codes are not provided in question. answers are mostly transferred from prior survey without information in the provided question text
+final_codebook <- final_codebook %>% mutate(exceptions = ifelse(id %in% manual_exceptions, "manually removed", exceptions))
 
-#
-example_data <- as.data.frame(apply(exampleas, MARGIN = 2, FUN = factor))
+# Check! Are there always the same number of numeric codes and text answers? 
+final_codebook %>% mutate(check = lengths(codes) - lengths(labels)) %>% filter(check != 0)
 
 
-for (i in 1:ncol(example_data)) {
-  # example_response_text %>% filter(q_nickname == colnames(example_data[i])) %>% .$labels
-  response_text <- factor(example_response_text %>% filter(q_nickname == colnames(example_data[i])) %>% .$labels )
-  levels(example_data[,i]) <- response_text
-  attr(example_data[,i], "labels") <- response_text
-  names(attr(example_data[,i], "labels")) <- response_text
-  attr(example_data[,i], "label") <- examplecodebook$question[i]
-  names(attr(example_data[,i], "label")) <- examplecodebook$question[i]
+## TASK: WRITE OUT AS SAV FILE
+
+# turn all variables in answers into factor
+answers <- as.data.frame(apply(answerscsv, MARGIN = 2, FUN = factor))
+
+# STRUCTURE FOR .SAV
+for (i in 1:ncol(answers)) { #:ncol(answers)
+  #Determine if the question is an exception to the rule for labels
+  codebook_row <- final_codebook %>% filter(q_nickname == colnames(answers[i]))
+  exception = is.na(codebook_row$exceptions)
+  
+  ## IF the question is not an exception, 
+  ## THEN use the labels as generated by code above
+  ## ALSO make sure all labels are 120 characters or fewer
+  if (exception == TRUE) {
+    response_text <- unlist(codebook_row %>% .$labels )
+    response_text <- ifelse(nchar(response_text) > 120, str_extract(response_text, "^.{0,120}"), response_text)
+    # REATTACH OPTION NUMBER AND OPTION TEXT
+    levels(answers[,i]) <- response_text
+    
+  }
+  
+  ## IF the question IS an exception, 
+  ## THEN use the default levels from when you turned answers into a factor
+  ## ALSO make sure all labels are 120 characters or fewer
+  else {  # REATTACH OPTION NUMBER AND OPTION TEXT
+    response_text <- levels(answers[,i]) 
+    response_text <- ifelse(nchar(response_text) > 120, str_extract(response_text, "^.{0,120}"), response_text)
+  }
+  
+  # BODY OF THE TEXT
+  attr(answers[,i], "labels") <- response_text
+  names(attr(answers[,i], "labels")) <- response_text
+  # COLUMN NAME - SHOULD BE QEUSTION TEXT
+  attr(answers[,i], "label") <- final_codebook$question[i]
+  names(attr(answers[,i], "label")) <- final_codebook$question[i]
+  
+  # FOR FUTURE CHECKS, KEEP THE BIGGEST SIZE LABEL 
+  sizes[[i]] <- max(nchar(response_text))
 }
 
-example_data_min2cols <- example_data[,colnames(example_data) %in% c("Q.20C.", "Q.27.") == FALSE]
+# CHECK IF ANY LABELS THAT ARE TOO LONG
+tibble(columns = colnames(answers),
+       sizes = as.numeric(t(sizes))) %>%
+  filter(sizes > 120)
 
-str(example_data_min2cols)
+# WRITE SPSS FILE
+write_sav(answers, "test9.sav")
 
-write_sav(example_data_min2cols, "test8.sav")
+
+# NOTE I HAVE TO MOVE THIS FILE TO THE HOME DIRECTORY FOLDER 
+# DUE TO CATALINA ISSUES, SPSS WON'T READ ANY FOLDER BUT MY HOME DIRECTORY
