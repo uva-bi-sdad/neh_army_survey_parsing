@@ -10,7 +10,7 @@ survey_codes <- unique(str_match(csvs, "(AMS.+)_")[,2])
 
 for (j in 1:length(survey_codes)) {
   print(paste("workin on", survey_codes[j]))
-  files <- list.files("data/working/", pattern = paste0(survey_codes[j], "*"), full.names = T)
+  files <- list.files("data/working/", pattern = paste0(survey_codes[j], ".*s.csv"), full.names = T)
   answerscsv <- read.csv(files[1], stringsAsFactors = F)
   questionscsv <- read.csv(files[2], stringsAsFactors = F, header = F)
   
@@ -27,12 +27,12 @@ for (j in 1:length(survey_codes)) {
     # parse codes
     .[, codes := str_match_all(codes_raw, "\\s[0-9X]{1,3}\\.")] %>% 
     # fix parentheses for future regex
-    .[, question := str_replace_all(question, "\\(", "\\\\\\(")] %>%
+    #.[, question := str_replace_all(question, "\\(", "\\\\\\(")] %>%
     .[, codes_raw := str_replace_all(codes_raw, "\\(", "\\\\\\(")] %>%
-    .[, question := str_replace_all(question, "\\)", "\\\\\\)")] %>% 
+    #.[, question := str_replace_all(question, "\\)", "\\\\\\)")] %>% 
     .[, codes_raw := str_replace_all(codes_raw, "\\)", "\\\\\\)")] %>% 
     # fix asterics for future regex
-    .[, question := str_replace_all(question, "\\*", "\\\\\\*")] %>% 
+    #.[, question := str_replace_all(question, "\\*", "\\\\\\*")] %>% 
     .[, codes_raw := str_replace_all(codes_raw, "\\*", "\\\\\\*")] %>% 
     # parse question
     .[, question := str_remove(str_remove(str_remove(raw, q_nickname), codes_raw), "\\.")] %>%
@@ -45,12 +45,13 @@ for (j in 1:length(survey_codes)) {
   dt_out <- data.table()
   # then for each question
   for (i in 1:nrow(codebook_raw)) {
+    print(i)
     # get column name
     col_name <- codebook_raw[i,]$q_nickname
     # get question
     question <- codebook_raw[i,]$question
     # get answers
-    answers <- answerscsv[, i]
+    answers <- as.numeric(answerscsv[, i])
     # get answer options
     answer_options <- parse_answer_options(codebook_dt = codebook_raw, 
                                            rownum = i, 
