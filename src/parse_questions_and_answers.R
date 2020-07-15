@@ -25,6 +25,7 @@ parse_questions_and_answers <- function(codebook_file_path, answer_file_path) {
   # CHECK INSTRUCTIONS
   instructions <- check_instructions(codebook_lines)
   print(instructions)
+  browser()
   # FIX NOT USED COLUMNS
   codebook_lines <- fix_col_not_used(instructions, codebook_lines)
   # EXTRACT QUESTIONS
@@ -62,4 +63,9 @@ qs_n_as <- find_all_answer_and_codebook_files()
 for (i in 1:nrow(qs_n_as)) {
   parse_questions_and_answers(qs_n_as[i, codebook_file], qs_n_as[i, answer_file])
 }
+
+parse_questions_and_answers(qs_n_as[answer_file %like% "100C"][1]$codebook_file, qs_n_as[answer_file %like% "100C"][1]$answer_file)
+
+
+parse_questions_and_answers("data/original/Survey of Enlisted Men Overseas and Survey of Combat Infantrymen (AMS-100), February, January, and January-April 1944/Technical Documentation/AMS-100C_ Survey of Combat Infantrymen 01-04_1944, codebook.AMS100C.CDBK.ascii", "data/original/Survey of Enlisted Men Overseas and Survey of Combat Infantrymen (AMS-100), February, January, and January-April 1944/Electronic Records/AMS-100C_ Survey of Combat Infantrymen 01-04_1944, data.AMS100C.CLEAN")
 

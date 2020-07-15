@@ -73,7 +73,7 @@ for (j in 1:length(survey_codes)) {
   }
   
   # write spss file
-  write_sav(dt_out, paste0("data/working/", survey_codes[j],".sav"))
+    write_sav(dt_out, paste0("./", survey_codes[j],".sav"))
 }
 
 
