@@ -2,6 +2,7 @@ set_session_variables <- function(codebook_file_path) {
   study_code <<- stringr::str_match(codebook_file_path, "[Cc][Oo][Dd][Ee][Bb][Oo][Oo][Kk]\\.(.+)\\.[Cc][Dd][Bb][Kk]")[, 2]
   question_file <<- paste0(study_code, "_questions.csv")
   answer_file <<- paste0(study_code, "_answers.csv")
+  question_prefix <<- paste0("S", str_replace(str_replace(study_code, "AMS", ""), "^00", "0"), ".")
 }
 
 # set_session_variables <- function(folder) {

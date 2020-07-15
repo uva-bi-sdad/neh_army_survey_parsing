@@ -13,7 +13,7 @@ parse_questions_and_answers <- function(codebook_file_path, answer_file_path) {
   readr::write_lines(codebook_file_path, "logs/log", append = TRUE)
   # # SET STUDY FOLDER
   # study_folder <- study_folder_path
-  
+  #browser()
   # CREATE SESSION VARIABLES
   set_session_variables(codebook_file_path)
   # IMPORT CODEBOOK
@@ -25,7 +25,6 @@ parse_questions_and_answers <- function(codebook_file_path, answer_file_path) {
   # CHECK INSTRUCTIONS
   instructions <- check_instructions(codebook_lines)
   print(instructions)
-  browser()
   # FIX NOT USED COLUMNS
   codebook_lines <- fix_col_not_used(instructions, codebook_lines)
   # EXTRACT QUESTIONS
@@ -34,6 +33,13 @@ parse_questions_and_answers <- function(codebook_file_path, answer_file_path) {
   # CHECK FOR JOINED QUESTIONS
   print("fix combined questions")
   questions <- fix_coded_together(instructions, questions)
+  # FIX QUESTION ODDITIES
+  #browser()
+  print("fix question oddities")
+  questions <- fix_oddities(questions)
+  # REFORMAT QUESTION NUMBERS
+  print("rename questions")
+  questions <- format_question_numbers(questions, question_prefix)
   # PARSE TO QUESTIONS AND OPTIONS
   print("parse questions")
   questions <- parse_questions(questions)
@@ -64,8 +70,6 @@ for (i in 1:nrow(qs_n_as)) {
   parse_questions_and_answers(qs_n_as[i, codebook_file], qs_n_as[i, answer_file])
 }
 
-parse_questions_and_answers(qs_n_as[answer_file %like% "100C"][1]$codebook_file, qs_n_as[answer_file %like% "100C"][1]$answer_file)
+parse_questions_and_answers(qs_n_as[answer_file %like% "76"][1]$codebook_file, qs_n_as[answer_file %like% "76"][1]$answer_file)
 
-
-parse_questions_and_answers("data/original/Survey of Enlisted Men Overseas and Survey of Combat Infantrymen (AMS-100), February, January, and January-April 1944/Technical Documentation/AMS-100C_ Survey of Combat Infantrymen 01-04_1944, codebook.AMS100C.CDBK.ascii", "data/original/Survey of Enlisted Men Overseas and Survey of Combat Infantrymen (AMS-100), February, January, and January-April 1944/Electronic Records/AMS-100C_ Survey of Combat Infantrymen 01-04_1944, data.AMS100C.CLEAN")
 

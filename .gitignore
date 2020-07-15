@@ -4,3 +4,4 @@
 .Ruserdata
 core.*
 .DS_Store
+.Rproj.user
