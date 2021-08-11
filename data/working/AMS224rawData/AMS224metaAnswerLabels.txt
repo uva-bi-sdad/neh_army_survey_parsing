@@ -1,0 +1,340 @@
+{
+  "S224.Q1": {
+    "0.0": "NO ANSWER",
+    "1.0": "6 MONTHS OR LESS",
+    "2.0": "OVER 6 MONTHS UP TO A YEAR",
+    "3.0": "OVER 1 YEAR UP TO 1 1/2 YEARS",
+    "4.0": "OVER 1 1/2 YEARS UP TO 2 YEARS",
+    "5.0": "OVER 2 YEARS UP TO 2 1/2 YEARS",
+    "6.0": "OVER 2 1/2 YEARS UP TO 3 YEARS",
+    "7.0": "OVER 3 YEARS"
+  },
+  "S224.Q2": {
+    "0.0": "NO ANSWER",
+    "1.0": "NO, I HAVE NOT BEEN IN COMBAT NOR UNDER ANY KIND OF ENEMY FIRE FROM THE GROUND OR AIR",
+    "2.0": "I HAVE NOT BEEN IN ACTUAL COMBAT, BUT I HAVE BEEN UNDER SOME KIND OF ENEMY FIRE (GROUND OR AIR)",
+    "3.0": "I HAVE BEEN IN ACTUAL COMBAT WITH THE ENEMY"
+  },
+  "S224.Q3": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN 6TH GRADE",
+    "2.0": "FINISHED 6TH GRADE",
+    "3.0": "FINISHED 7TH GRADE",
+    "4.0": "FINISHED 8TH GRADE",
+    "5.0": "SOME HIGH SCHOOL, BUT DIDN'T FINISH",
+    "6.0": "GRADUATED FROM HIGH SCHOOL",
+    "7.0": "SOME COLLEGE BUT DID NOT FINISH",
+    "8.0": "GRADUATED FROM COLLEGE"
+  },
+  "S224.Q4A": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN 8 DAYS",
+    "2.0": "8 DAYS TO 14 DAYS",
+    "3.0": "15 DAYS TO 21 DAYS",
+    "4.0": "22 DAYS TO 28 DAYS",
+    "5.0": "29 DAYS TO 35 DAYS",
+    "6.0": "36 DAYS OR MORE"
+  },
+  "S224.Q4B": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN 15 DAYS",
+    "2.0": "15 DAYS TO 28 DAYS",
+    "3.0": "29 DAYS TO 42 DAYS",
+    "4.0": "43 DAYS TO 56 DAYS",
+    "5.0": "57 DAYS TO 70 DAYS",
+    "6.0": "71 DAYS OR MORE"
+  },
+  "S224.Q4C": {
+    "0.0": "NO ANSWER",
+    "1.0": "NO",
+    "2.0": "YES, LESS THAN 1 MONTH",
+    "3.0": "YES, 1-3 MONTHS",
+    "4.0": "YES, 3-6 MONTHS",
+    "5.0": "YES, 6 MONTHS - 1 YEAR",
+    "6.0": "YES, OVER 1 YEAR"
+  },
+  "S224.Q5A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, BECAUSE OF AN INJURY OR WOUND RECEIVED IN COMBAT",
+    "2.0": "NO"
+  },
+  "S224.Q5B": {
+    "0.0": "NO ANSWER",
+    "1.0": "HEAD, FACE, OR NECK",
+    "2.0": "HANDS, ARMS, FEET OR LEGS",
+    "3.0": "CHEST",
+    "4.0": "BACK OR SPINE",
+    "5.0": "OTHER PARTS OF THE BODY",
+    "6.0": "UNCLASSIFIED AND COMBINED",
+    "7.0": "SICKNESS (ALL TYPES)",
+    "8.0": "UNCLASSIFIED"
+  },
+  "S224.Q6A": {
+    "0.0": "NO ANSWER",
+    "1.0": "HAVE ENOUGH",
+    "2.0": "DO NOT HAVE ENOUGH",
+    "3.0": "UNDECIDED"
+  },
+  "S224.Q6B": {
+    "0.0": "NO ANSWER",
+    "1.0": "HAVE ENOUGH",
+    "2.0": "DO NOT HAVE ENOUGH",
+    "3.0": "UNDECIDED"
+  },
+  "S224.Q6C": {
+    "0.0": "NO ANSWER",
+    "1.0": "HAVE ENOUGH",
+    "2.0": "DO NOT HAVE ENOUGH",
+    "3.0": "UNDECIDED"
+  },
+  "S224.Q6D": {
+    "0.0": "NO ANSWER",
+    "1.0": "HAVE ENOUGH",
+    "2.0": "DO NOT HAVE ENOUGH",
+    "3.0": "UNDECIDED"
+  },
+  "S224.Q6E": {
+    "0.0": "NO ANSWER",
+    "1.0": "HAVE ENOUGH",
+    "2.0": "DO NOT HAVE ENOUGH",
+    "3.0": "UNDECIDED"
+  },
+  "S224.Q6F": {
+    "0.0": "NO ANSWER",
+    "1.0": "HAVE ENOUGH",
+    "2.0": "DO NOT HAVE ENOUGH",
+    "3.0": "UNDECIDED"
+  },
+  "S224.Q7A": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY GOOD",
+    "NaN": "QUESTION 7B NOT CODED.",
+    "2.0": "GOOD",
+    "3.0": "FAIR",
+    "4.0": "POOR",
+    "5.0": "VERY POOR"
+  },
+  "S224.Q8": {
+    "0.0": "NO ANSWER",
+    "1.0": "NO",
+    "2.0": "YES, BUT NOTHING SPECIFIED",
+    "3.0": "YES, AND SOMETHING SPECIFIED"
+  },
+  "S224.Q9": {
+    "0.0": "NO ANSWER",
+    "1.0": "FEEL THAT THERE WAS NO MORE PAPER WORK THAN WAS NECESSARY - WITH COMMENT",
+    "2.0": "FEEL THAT THERE WAS NO MORE PAPER WORK THAN WAS NECESSARY - WITH NO COMMENT",
+    "3.0": "FEEL THERE WAS TOO MUCH UNNECESSARY PAPER WORK - WITH COMMENT",
+    "4.0": "FEEL THERE WAS TOO MUCH UNNECESSARY PAPER WORK WITH NO COMMENT"
+  },
+  "S224.Q10A": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY GOOD",
+    "2.0": "GOOD",
+    "3.0": "FAIR",
+    "4.0": "POOR",
+    "5.0": "VERY POOR"
+  },
+  "S224.Q10B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY GOOD",
+    "2.0": "GOOD",
+    "3.0": "FAIR",
+    "4.0": "POOR",
+    "5.0": "VERY POOR",
+    "6.0": "NO ANSWER"
+  },
+  "S224.Q10C": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY GOOD",
+    "NaN": "QUESTIONS 11A AND 11B NOT CODED.",
+    "2.0": "GOOD",
+    "3.0": "FAIR",
+    "4.0": "POOR",
+    "5.0": "VERY POOR"
+  },
+  "S224.Q12A": {
+    "0.0": "NO ANSWER",
+    "1.0": "DO NOT GET ANY MILITARY DRILL",
+    "2.0": "NOT NEARLY ENOUGH",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "ABOUT THE RIGHT AMOUNT",
+    "5.0": "A LITTLE TOO MUCH",
+    "6.0": "A GREAT DEAL TOO MUCH"
+  },
+  "S224.Q12B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "DO NOT HAVE ANY FORMATIONS",
+    "2.0": "NOT NEARLY ENOUGH",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "ABOUT THE RIGHT NUMBER",
+    "5.0": "A LITTLE TOO MANY",
+    "6.0": "A GREAT DEAL TOO MUCH",
+    "7.0": "NO ANSWER"
+  },
+  "S224.Q12C": {
+    "0.0": "NO ANSWER",
+    "1.0": "DO NOT HAVE ANY",
+    "2.0": "NOT NEARLY ENOUGH",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "ABOUT THE RIGHT AMOUNT",
+    "5.0": "A LITTLE TOO MUCH",
+    "6.0": "A GREAT DEAL TOO MUCH"
+  },
+  "S224.Q12D": {
+    "0.0": "NO ANSWER",
+    "1.0": "DO NOT HAVE ANY",
+    "2.0": "NOT NEARLY ENOUGH",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "ABOUT THE RIGHT AMOUNT",
+    "5.0": "A LITTLE TOO MUCH",
+    "6.0": "A GREAT DEAL TOO MUCH"
+  },
+  "S224.Q13A": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY OFTEN",
+    "2.0": "FAIRLY OFTEN",
+    "3.0": "NOT VERY OFTEN",
+    "4.0": "PRACTICALLY NEVER"
+  },
+  "S224.Q13B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY OFTEN",
+    "2.0": "FAIRLY OFTEN",
+    "3.0": "NOT VERY OFTEN",
+    "4.0": "PRACTICALLY NEVER",
+    "5.0": "NO ANSWER"
+  },
+  "S224.Q14A": {
+    "0.0": "NO ANSWER",
+    "1.0": "ABOUT AS GOOD AS IT COULD BE UNDER THE CIRCUMSTANCES",
+    "2.0": "COULD BE IMPROVED BUT IT WOULDN'T MAKE TOO MUCH DIFFERENCE TO ME",
+    "3.0": "COULD BE IMPROVED AND IT WOULD HELP A LOT IF IT WERE",
+    "4.0": "UNCERTAIN"
+  },
+  "S224.Q14B": {
+    "0.0": "NO ANSWER",
+    "1.0": "ABOUT AS GOOD AS IT COULD BE UNDER THE CIRCUMSTANCES",
+    "2.0": "COULD BE IMPROVED BUT IT WOULDN'T MAKE TOO MUCH DIFFERENCE TO ME",
+    "3.0": "COULD BE IMPROVED AND IT WOULD HELP A LOT IF IT WERE",
+    "4.0": "UNCERTAIN"
+  },
+  "S224.Q15": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY WELL SATISFIED",
+    "2.0": "FAIRLY WELL SATISFIED",
+    "3.0": "NOT VERY WELL SATISFIED",
+    "4.0": "NOT SATISFIED AT ALL"
+  },
+  "S224.Q16": {
+    "1.0": "HAVE TOO MUCH FREE TIME WITH NOTHING TO DO",
+    "2.0": "HAVE ABOUT THE RIGHT AMOUNT OF FREE TIME",
+    "4.0": "DO NOT HAVE NEARLY ENOUGH FREE TIME",
+    "NaN": "NA",
+    "0.0": "NO ANSWER",
+    "3.0": "DO NOT HAVE QUITE ENOUGH FREE TIME"
+  },
+  "S224.Q17A": {
+    "0.0": "NO ANSWER TO Q.17A, BUT ANSWERS Q.17B",
+    "1.0": "VERY WELL SATISFIED",
+    "2.0": "FAIRLY WELL SATISFIED",
+    "3.0": "NOT VERY WELL SATISFIED",
+    "4.0": "NOT SATISFIED AT ALL",
+    "5.0": "ENTIRE Q.17 NOT ANSWERED"
+  },
+  "S224.Q17B": {
+    "0.0": "NO ANSWER TO Q.17B, BUT ANSWERS Q.17A",
+    "1.0": "VERY WELL SATISFIED",
+    "2.0": "FAIRLY WELL SATISFIED",
+    "3.0": "NOT VERY WELL SATISFIED",
+    "4.0": "NOT SATISFIED AT ALL",
+    "5.0": "ENTIRE Q.17 NOT ANSWERED"
+  },
+  "S224.Q18A": {
+    "0.0": "NO ANSWER",
+    "1.0": "NO",
+    "2.0": "YES, UNSPECIFIED",
+    "3.0": "YES, MORE THAN 1 PER WEEK",
+    "4.0": "YES, LESS THAN 1 PER WEEK",
+    "5.0": "YES, 1 PER WEEK"
+  },
+  "S224.Q18B": {
+    "0.0": "NO ANSWER",
+    "1.0": "DO NOT HAVE ANY AT ALL",
+    "2.0": "HAVE TOO FEW",
+    "3.0": "HAVE ABOUT THE RIGHT NUMBER",
+    "4.0": "HAVE TOO MANY"
+  },
+  "S224.Q19A": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY OFTEN",
+    "2.0": "FAIRLY OFTEN",
+    "3.0": "JUST ONCE IN A WHILE",
+    "4.0": "PRACTICALLY NEVER",
+    "5.0": "HAVEN'T ANY IDEA"
+  },
+  "S224.Q19B": {
+    "0.0": "NO ANSWER",
+    "2.0": "I THINK PATIENTS GET POORER ATTENTION OR TREATMENT BECAUSE OF THESE INSPECTIONS",
+    "NaN": "QUESTION 20 NOT CODED.",
+    "1.0": "I THINK PATIENTS GET BETTER ATTENTION OR TREATMENT BECAUSE OF THESE INSPECTIONS",
+    "3.0": "I THINK THESE INSPECTIONS HAVE NO EFFECT ON THE ATTENTION OR TREATMENT THE PATIENTS GET"
+  },
+  "S224.Q21A": {
+    "0.0": "NO ANSWER",
+    "1.0": "TOO LITTLE ATTENTION",
+    "2.0": "TOO MUCH ATTENTION",
+    "3.0": "ABOUT THE RIGHT AMOUNT"
+  },
+  "S224.Q21B": {
+    "0.0": "NO ANSWER",
+    "1.0": "TOO LITTLE ATTENTION",
+    "2.0": "TOO MUCH ATTENTION",
+    "3.0": "ABOUT THE RIGHT AMOUNT"
+  },
+  "S224.Q22": {
+    "0.0": "NO ANSWER",
+    "1.0": "NO",
+    "2.0": "YES, WITH COMMENT",
+    "3.0": "YES, WITH NO COMMENT"
+  },
+  "S224.Q23": {
+    "0.0": "NO ANSWER",
+    "1.0": "UNDER 25 POINTS",
+    "2.0": "25 POINTS TO 44 POINTS",
+    "3.0": "45 POINTS TO 64 POINTS",
+    "4.0": "65 POINTS TO 84 POINTS",
+    "5.0": "85 POINTS TO 104 POINTS",
+    "6.0": "105 POINTS AND OVER",
+    "7.0": "I DO NOT KNOW, I HAVE NOT FIGURED IT"
+  },
+  "S224.Q24": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, I THINK I PROBABLY WILL BE",
+    "2.0": "NO, I DON'T THINK SO",
+    "3.0": "HAVE NO IDEA"
+  },
+  "S224.Q25": {
+    "1.0": "MADE A COMMENT",
+    "2.0": "MADE NO COMMENT"
+  },
+  "S224.V26": {
+    "1.0": "REHABILITATION PATIENTS",
+    "2.0": "AMBULATORY PATIENTS",
+    "3.0": "BED PATIENTS",
+    "4.0": "NON-REHABILITATION, BUT UNKNOWN WHETHER AMBULATORY OR BED PATIENTS",
+    "5.0": "UNCLASSIFIED"
+  },
+  "S224.V27": {
+    "0.0": "UNKNOWN",
+    "1.0": "108TH GENERAL",
+    "2.0": "221ST GENERAL",
+    "3.0": "2ND GENERAL",
+    "4.0": "203RD GENERAL",
+    "5.0": "1ST GENERAL",
+    "6.0": "68TH GENERAL",
+    "7.0": "76TH GENERAL",
+    "8.0": "15TH GENERAL",
+    "9.0": "65TH GENERAL"
+  }
+}

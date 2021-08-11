@@ -1,0 +1,914 @@
+{
+  "FORM": {
+    "1.0": "S-63A",
+    "2.0": "S-63B",
+    "3.0": "S-63C",
+    "4.0": "S-63D",
+    "5.0": "S-63E",
+    "6.0": "S-63F",
+    "7.0": "S-63G"
+  },
+  "S63B.Q1": {
+    "0.0": "NO ANSWER",
+    "1.0": "PRIVATE",
+    "2.0": "PRIVATE FIRST CLASS",
+    "3.0": "TECHNICIAN 5TH GRADE, OR CORPORAL",
+    "4.0": "TECHNICIAN 4TH GRADE, OR SERGEANT",
+    "5.0": "TECHNICIAN 3RD GRADE, OR STAFF SERGEANT",
+    "6.0": "TECHNICAL SERGEANT",
+    "7.0": "MASTER SERGEANT OR FIRST SERGEANT"
+  },
+  "S63B.Q2": {
+    "0.0": "NO ANSWER",
+    "1.0": "18 YEARS OR YOUNGER",
+    "2.0": "19",
+    "3.0": "20",
+    "4.0": "21",
+    "5.0": "22",
+    "6.0": "23",
+    "7.0": "24",
+    "8.0": "25",
+    "9.0": "26-29",
+    "10.0": "30-34",
+    "11.0": "35 YEARS AND OVER"
+  },
+  "S63B.Q3": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN 6TH GRADE",
+    "2.0": "FINISHED 6TH GRADE",
+    "3.0": "FINISHED 7TH GRADE",
+    "4.0": "FINISHED 8TH GRADE",
+    "5.0": "SOME HIGH SCHOOL BUT DID NOT FINISH",
+    "6.0": "GRADUATED FROM HIGH SCHOOL",
+    "7.0": "SOME COLLEGE BUT DID NOT FINISH",
+    "8.0": "GRADUATED FROM COLLEGE"
+  },
+  "S63B.Q4": {
+    "0.0": "NO ANSWER",
+    "1.0": "NEW ENGLAND",
+    "2.0": "MIDDLE ATLANTIC",
+    "3.0": "EAST NORTH CENTRAL",
+    "4.0": "WEST NORTH CENTRAL",
+    "5.0": "SOUTH ATLANTIC",
+    "6.0": "EAST SOUTH CENTRAL",
+    "7.0": "WEST SOUTH CENTRAL",
+    "8.0": "MOUNTAIN",
+    "9.0": "PACIFIC",
+    "10.0": "FOREIGN - U.S. POSSESSION",
+    "11.0": "FOREIGN - NOT U.S.",
+    "12.0": "U.S. - STATE NOT SPECIFIED"
+  },
+  "S63B.Q5": {
+    "0.0": "NO ANSWER",
+    "1.0": "ON A FARM OR IN THE COUNTRY",
+    "2.0": "IN A SMALL TOWN \\(FEWER THAN 2,500 PEOPLE\\)",
+    "3.0": "IN A TOWN \\(WITH BETWEEN 2,500 AND 25,000 PEOPLE\\)",
+    "4.0": "IN A CITY \\(BETWEEN 25,000 AND 100,000 PEOPLE\\)",
+    "5.0": "IN A LARGE CITY \\(MORE THAN 100,000 PEOPLE\\)"
+  },
+  "S63B.Q6.x": {
+    "0.0": "NO ANSWER",
+    "1.0": "SINGLE",
+    "2.0": "DIVORCED OR SEPARATED",
+    "3.0": "WIDOWED",
+    "4.0": "MARRIED BEFORE ENTERING THE ARMY",
+    "5.0": "MARRIED AFTER ENTERING THE ARMY",
+    "6.0": "MARRIED BUT NO ANSWER TO WHEN"
+  },
+  "S63B.Q8": {
+    "0.0": "NO ANSWER",
+    "1.0": "HAVE NO CHILDREN",
+    "2.0": "HAVE ONE CHILD",
+    "3.0": "HAVE TWO CHILDREN",
+    "4.0": "HAVE THREE OR MORE CHILDREN",
+    "5.0": "I'M NOT MARRIED"
+  },
+  "S63B.Q9": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "I'M NOT MARRIED"
+  },
+  "S63B.Q10": {
+    "0.0": "NO ANSWER",
+    "1.0": "I WAS DRAFTED",
+    "2.0": "I VOLUNTEERED",
+    "3.0": "I WAS IN THE NATIONAL GUARD",
+    "4.0": "I WAS IN ROTC"
+  },
+  "S63B.Q11": {
+    "0.0": "NO ANSWER",
+    "1.0": "3 MONTHS OR LESS",
+    "2.0": "OVER 3 MONTHS UP TO 6 MONTHS",
+    "3.0": "OVER 6 MONTHS UP TO 9 MONTHS",
+    "4.0": "OVER 9 MONTHS UP TO 1 YEAR",
+    "5.0": "OVER 1 YEAR UP TO 2 YEARS",
+    "6.0": "OVER 2 YEARS"
+  },
+  "S63B.Q12": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, THE ARMY HAS CLASSIFIED ME AS LIMITED SERVICE",
+    "2.0": "NO, THE ARMY HAS NOT CLASSIFIED ME AS LIMITED SERVICE",
+    "3.0": "I DON'T KNOW WHETHER THE ARMY HAS CLASSIFIED ME AS LIMITED SERVICE OR NOT"
+  },
+  "S63B.Q14": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "SAME AS I DID BEFORE ENTERING THE ARMY",
+    "2.0": "SOME OTHER KIND OF WORK",
+    "3.0": "UNDECIDED",
+    "4.0": "NO ANSWER"
+  },
+  "S63B.Q15": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I CAME INTO THE ARMY RIGHT OUT OF SCHOOL",
+    "2.0": "1 YEAR OR LESS",
+    "3.0": "OVER 1 YEAR UP TO 2 YEARS",
+    "4.0": "OVER 2 YEARS UP TO 3 YEARS",
+    "5.0": "OVER 3 YEARS UP TO 4 YEARS",
+    "6.0": "OVER 4 YEARS UP TO 5 YEARS",
+    "7.0": "OVER 5 YEARS",
+    "8.0": "NO ANSWER"
+  },
+  "S63B.Q16A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED",
+    "4.0": "NO ANSWER"
+  },
+  "S63B.Q17A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED",
+    "4.0": "NO ANSWER"
+  },
+  "S63B.Q19": {
+    "0.0": "NO ANSWER",
+    "1.0": "3 MONTHS OR LESS",
+    "2.0": "OVER 3 MONTHS UP TO 6 MONTHS",
+    "3.0": "OVER 6 MONTHS UP TO 9 MONTHS",
+    "4.0": "OVER 9 MONTHS UP TO 1 YEAR",
+    "5.0": "OVER 1 YEAR"
+  },
+  "S63B.Q20": {
+    "0.0": "NO ANSWER",
+    "1.0": "ENGINEERS",
+    "2.0": "FIELD ARTILLERY",
+    "3.0": "QUARTERMASTER CORPS",
+    "4.0": "INFANTRY",
+    "5.0": "MEDICAL DEPARTMENT",
+    "6.0": "ARMORED FORCE",
+    "7.0": "SIGNAL CORPS",
+    "8.0": "COAST ARTILLERY AND ANTI-AIRCRAFT",
+    "9.0": "AIR CORPS",
+    "10.0": "TRANSPORTATION CORPS",
+    "11.0": "ORDNANCE DEPARTMENT",
+    "12.0": "CHEMICAL WARFARE SERVICE",
+    "13.0": "MILITARY POLICE",
+    "14.0": "CAVALRY",
+    "15.0": "FINANCE",
+    "16.0": "OTHER"
+  },
+  "S63B.Q21": {
+    "0.0": "NO ANSWER",
+    "1.0": "ENGINEERS",
+    "2.0": "FIELD ARTILLERY",
+    "3.0": "QUARTERMASTER CORPS",
+    "4.0": "INFANTRY",
+    "5.0": "MEDICAL DEPARTMENT",
+    "6.0": "ARMORED FORCE",
+    "7.0": "SIGNAL CORPS",
+    "8.0": "COAST ARTILLERY AND ANTI-AIRCRAFT",
+    "9.0": "AIR CORPS",
+    "10.0": "TRANSPORTATION CORPS",
+    "11.0": "ORDNANCE DEPARTMENT",
+    "12.0": "CHEMICAL WARFARE SERVICE",
+    "13.0": "MILITARY POLICE",
+    "14.0": "CAVALRY",
+    "15.0": "FINANCE",
+    "16.0": "OTHER"
+  },
+  "S63B.Q22": {
+    "0.0": "NO ANSWER",
+    "1.0": "THREE OR MORE TIMES A WEEK",
+    "2.0": "TWICE A WEEK",
+    "3.0": "ONCE A WEEK",
+    "4.0": "ONCE EVERY 2 OR 3 WEEKS",
+    "5.0": "ONCE A MONTH",
+    "6.0": "LESS THAN ONCE A MONTH",
+    "7.0": "NEVER",
+    "8.0": "I LIVE OFF THE POST IN A TOWN OR CITY"
+  },
+  "S63B.Q23": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, VERY PROUD",
+    "2.0": "YES, FAIRLY PROUD",
+    "3.0": "NO, NOT PROUD",
+    "4.0": "UNDECIDED"
+  },
+  "S63B.Q24": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH INTERESTED",
+    "2.0": "A LITTLE BUT NOT MUCH",
+    "3.0": "NOT INTERESTED AT ALL"
+  },
+  "S63B.Q25": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED"
+  },
+  "S63B.Q26": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I USUALLY FEEL IT IS NOT WORTHWHILE",
+    "2.0": "I USUALLY FEEL IT IS WORTHWHILE",
+    "3.0": "UNDECIDED",
+    "4.0": "NO ANSWER"
+  },
+  "S63B.Q27": {
+    "0.0": "NO ANSWER",
+    "1.0": "I FEEL PRETTY SURE I CAN MAKE GOOD",
+    "2.0": "I AM NOT SO SURE I CAN MAKE GOOD",
+    "3.0": "UNDECIDED"
+  },
+  "S63B.Q28": {
+    "0.0": "NO ANSWER",
+    "1.0": "I HAVE A PRETTY GOOD TIME",
+    "2.0": "IT'S ABOUT FIFTY-FIFTY",
+    "3.0": "I HAVE A PRETTY ROTTEN TIME"
+  },
+  "S63B.Q29": {
+    "0.0": "NO ANSWER",
+    "1.0": "I AM USUALLY IN GOOD SPIRITS",
+    "2.0": "I AM IN GOOD SPIRITS SOME OF THE TIME AND IN LOW SPIRITS SOME OF THE TIME",
+    "3.0": "I AM USUALLY IN LOW SPIRITS"
+  },
+  "S63B.Q30": {
+    "0.0": "NO ANSWER",
+    "1.0": "I AM HARDLY EVER WORRIED AND UPSET",
+    "2.0": "I AM SOMETIMES WORRIED AND UPSET",
+    "3.0": "I AM OFTEN WORRIED AND UPSET"
+  },
+  "S63B.Q31": {
+    "0.0": "NO ANSWER",
+    "1.0": "IN A COMBAT OUTFIT OVERSEAS",
+    "2.0": "IN A NON-COMBAT OUTFIT OVERSEAS",
+    "3.0": "IN AN OUTFIT THAT WILL STAY IN THE UNITED STATES"
+  },
+  "S63B.Q32": {
+    "0.0": "NO ANSWER",
+    "1.0": "AS A SOLDIER",
+    "2.0": "AS A WAR WORKER",
+    "3.0": "UNDECIDED"
+  },
+  "S63B.Q33": {
+    "0.0": "NO ANSWER",
+    "1.0": "MOST OF THE TIME",
+    "2.0": "MUCH OF THE TIME",
+    "3.0": "NOT VERY OFTEN",
+    "4.0": "NEVER"
+  },
+  "S63B.Q34": {
+    "0.0": "NO ANSWER",
+    "1.0": "THREE OR MORE TIMES A WEEK",
+    "2.0": "TWICE A WEEK",
+    "3.0": "ONCE A WEEK",
+    "4.0": "ONCE EVERY TWO OR THREE WEEKS",
+    "5.0": "ONCE A MONTH",
+    "6.0": "LESS THAN ONCE A MONTH",
+    "7.0": "NEVER",
+    "8.0": "WE DON'T HAVE ANY REGULAR MOVIES HERE IN CAMP"
+  },
+  "S63B.Q35.1": {
+    "1.0": "MONDAY",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q35.2": {
+    "1.0": "TUESDAY
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q35.3": {
+    "1.0": "WEDNESDAY
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q35.4": {
+    "1.0": "THURSDAY
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q35.5": {
+    "1.0": "FRIDAY
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q35.6": {
+    "1.0": "SATURDAY
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q35.7": {
+    "1.0": "SUNDAY
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q35.8": {
+    "1.0": "THREE OR MORE CHECKED
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q35.9": {
+    "1.0": "DID NOT GO TO REGULAR MOVIES IN CAMP DURING PAST SEVEN DAYS
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q35.10": {
+    "1.0": "WE DON'T HAVE ANY REGULAR MOVIES HERE IN CAMP
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q35.11": {
+    "1.0": "NO ANSWER
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q36": {
+    "0.0": "NO ANSWER",
+    "1.0": "THREE OR MORE TIMES A WEEK",
+    "2.0": "TWICE A WEEK",
+    "3.0": "ONCE A WEEK",
+    "4.0": "ONCE EVERY TWO OR THREE WEEKS",
+    "5.0": "ONCE A MONTH",
+    "6.0": "LESS THAN ONCE A MONTH",
+    "7.0": "NEVER"
+  },
+  "S63B.Q37.1": {
+    "1.0": "MONDAY",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q37.2": {
+    "1.0": "TUESDAY
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q37.3": {
+    "1.0": "WEDNESDAY
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q37.4": {
+    "1.0": "THURSDAY
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q37.5": {
+    "1.0": "FRIDAY
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q37.6": {
+    "1.0": "SATURDAY
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q37.7": {
+    "1.0": "SUNDAY
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q37.8": {
+    "1.0": "DID NOT GO TO MOVIES IN A TOWN OR CITY DURING PAST SEVEN DAYS
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q37.9": {
+    "1.0": "THREE OR MORE CHECKED
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q37.10": {
+    "1.0": "NO ANSWER
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q38.1": {
+    "1.0": "STORIES ABOUT THE ARMY, NAVY, OR AVIATION",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q38.2": {
+    "1.0": "LIGHT COMEDY WITH CLEVER LINES
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q38.3": {
+    "1.0": "DANGER, EXCITEMENT AND ADVENTURE
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q38.4": {
+    "1.0": "ROMANCE AND MARRIAGE
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q38.5": {
+    "1.0": "DETECTIVE-MYSTERY
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q38.6": {
+    "1.0": "COMEDY WITH MUSIC AND DANCING
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q38.7": {
+    "1.0": "FUNNY OR COMICAL
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q38.8": {
+    "1.0": "SERIOUS DRAMA
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q38.9": {
+    "1.0": "HISTORICAL
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q38.10": {
+    "1.0": "OTHER KINDS
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q38.11": {
+    "1.0": "I DON'T GO TO THE MOVIES
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q38.12": {
+    "1.0": "NO ANSWER
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q39.1": {
+    "1.0": "TRAVELOGUES",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q39.2": {
+    "1.0": "CARTOONS
+    "2.0": "NOT CHOSEN"
+  },
+  "FORM..1": {
+    "1.0": "S-63A",
+    "2.0": "S-63B",
+    "3.0": "S-63C",
+    "4.0": "S-63D",
+    "5.0": "S-63E",
+    "6.0": "S-63F",
+    "7.0": "S-63G"
+  },
+  "S63B.Q39.3": {
+    "1.0": "SHORT COMEDIES",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q39.4": {
+    "1.0": "NEWS REELS
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q39.5": {
+    "1.0": "PICTURES SUCH AS MARCH OF TIME
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q39.6": {
+    "1.0": "SPORTS REELS
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q39.7": {
+    "1.0": "HISTORICAL SHORTS
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q39.8": {
+    "1.0": "PICTURES OF VAUDEVILLE ACTS
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q39.9": {
+    "1.0": "PICTURES OF DANCE BANDS AND SINGERS
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q39.10": {
+    "1.0": "OTHER KINDS
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q39.11": {
+    "1.0": "I DON'T GO TO THE MOVIES
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q39.12": {
+    "1.0": "NO ANSWER
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q40": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I WOULD LIKE THEM TO SHOW MORE WAR PICTURES",
+    "2.0": "THEY SHOW ABOUT THE RIGHT NUMBER OF WAR PICTURES",
+    "3.0": "I WOULD LIKE THEM TO SHOW FEWER WAR PICTURES",
+    "4.0": "I DON'T GO TO THE MOVIES",
+    "5.0": "NO ANSWER"
+  },
+  "S63B.Q41": {
+    "1.0": "THE MOVIES ARE AT THE HOURS OR TIMES WHEN I CAN MOST EASILY GO",
+    "2.0": "I COULD MORE EASILY GO AT SOME OTHER HOURS OR TIMES",
+    "3.0": "WE DON'T HAVE ANY REGULAR MOVIES HERE IN CAMP",
+    "4.0": "NO ANSWER"
+  },
+  "S63B.Q42A": {
+    "0.0": "NO ANSWER",
+    "1.0": "I USUALLY LIKE THE DOUBLE FEATURE PROGRAMS BEST",
+    "2.0": "I USUALLY LIKE THE SINGLE FEATURE PROGRAMS BEST",
+    "3.0": "I DON'T LIKE EITHER ONE",
+    "4.0": "UNDECIDED",
+    "5.0": "WE DON'T HAVE ANY REGULAR MOVIES HERE IN CAMP",
+    "6.0": "I DON'T GO TO THE MOVIES IN CAMP"
+  },
+  "S63B.Q43": {
+    "1.0": "I AM VERY WELL SATISFIED",
+    "2.0": "I AM PRETTY WELL SATISFIED",
+    "3.0": "I AM NOT SO WELL SATISFIED",
+    "4.0": "I AM NOT SATISFIED AT ALL",
+    "5.0": "NO ANSWER"
+  },
+  "S63B.Q46": {
+    "1.0": "IT IS ABSOLUTELY NECESSARY",
+    "2.0": "IT IS OF GREAT IMPORTANCE",
+    "3.0": "IT IS OF MEDIUM IMPORTANCE",
+    "4.0": "IT IS OF LITTLE IMPORTANCE",
+    "5.0": "IT IS OF NO IMPORTANCE AT ALL",
+    "6.0": "NO ANSWER"
+  },
+  "S63B.Q47": {
+    "0.0": "NO ANSWER",
+    "1.0": "I HAVE NEVER SEEN ANY",
+    "2.0": "I HAVE SEEN ONE OR TWO",
+    "3.0": "I HAVE SEEN THREE OR FOUR",
+    "4.0": "I HAVE SEEN FIVE OR MORE",
+    "5.0": "DON'T KNOW",
+    "6.0": "WE DON'T HAVE ANY REGULAR MOVIES HERE IN CAMP",
+    "7.0": "I DON'T GO TO THE MOVIES IN CAMP"
+  },
+  "S63B.Q49A": {
+    "0.0": "NO ANSWER",
+    "1.0": "USUALLY",
+    "2.0": "ONLY PART OF THE TIME",
+    "3.0": "HARDLY EVER",
+    "4.0": "NO OPINION",
+    "5.0": "I GO TO AN OPEN-AIR THEATER IN CAMP",
+    "6.0": "I DON'T GO TO A THEATER IN CAMP"
+  },
+  "S63B.Q49B": {
+    "1.0": "USUALLY",
+    "2.0": "ONLY PART OF THE TIME",
+    "3.0": "HARDLY EVER",
+    "4.0": "NO OPINION",
+    "5.0": "I DON'T GO TO A THEATER IN CAMP",
+    "6.0": "NO ANSWER"
+  },
+  "S63B.Q49C": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY COMFORTABLE",
+    "2.0": "PRETTY COMFORTABLE",
+    "3.0": "NOT SO COMFORTABLE",
+    "4.0": "NOT COMFORTABLE AT ALL",
+    "5.0": "NO OPINION",
+    "6.0": "I DON'T GO TO A THEATER IN CAMP"
+  },
+  "S63B.Q49D": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, THERE ARE TOO MANY SEATS SAVED FOR OFFICERS",
+    "2.0": "NO, THERE ARE NOT TOO MANY SEATS SAVED FOR OFFICERS",
+    "3.0": "NO OPINION",
+    "4.0": "I DON'T GO TO A THEATER IN CAMP",
+    "5.0": "OFFICERS DON'T GO TO THIS THEATER"
+  },
+  "S63B.Q51": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, HAVE SEEN
+    "2.0": "YES, 2",
+    "3.0": "YES, 3",
+    "4.0": "YES, 4",
+    "5.0": "YES, 5",
+    "6.0": "YES, 6-9",
+    "7.0": "YES, 10 AND OVER",
+    "8.0": "YES, NO ANSWER TO HOW MANY",
+    "9.0": "NO, HAVE NOT SEEN ANY",
+    "10.0": "DON'T KNOW"
+  },
+  "S63B.Q52": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, HAVE SEEN
+    "2.0": "YES, 2",
+    "3.0": "YES, 3",
+    "4.0": "YES, 4",
+    "5.0": "YES, 5",
+    "6.0": "YES, 6-9",
+    "7.0": "YES, 10 AND OVER",
+    "8.0": "YES, NO ANSWER TO HOW MANY",
+    "9.0": "NO, HAVE NOT SEEN ANY",
+    "10.0": "DON'T KNOW"
+  },
+  "S63B.Q53": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, HAVE SEEN
+    "2.0": "YES, 2",
+    "3.0": "YES, 3",
+    "4.0": "YES, 4",
+    "5.0": "YES, 5",
+    "6.0": "YES, 6-9",
+    "7.0": "YES, 10 AND OVER",
+    "8.0": "YES, NO ANSWER TO HOW MANY",
+    "9.0": "NO, HAVE NOT SEEN ANY",
+    "10.0": "DON'T KNOW"
+  },
+  "S63B.Q54": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, HAVE SEEN
+    "2.0": "YES, 2",
+    "3.0": "YES, 3",
+    "4.0": "YES, 4",
+    "5.0": "YES, 5",
+    "6.0": "YES, 6-9",
+    "7.0": "YES, 10 AND OVER",
+    "8.0": "YES, NO ANSWER TO HOW MANY",
+    "9.0": "NO, HAVE NOT SEEN ANY",
+    "10.0": "DON'T KNOW"
+  },
+  "S63B.Q55": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, HAVE SEEN
+    "2.0": "YES, 2",
+    "3.0": "YES, 3",
+    "4.0": "YES, 4",
+    "5.0": "YES, 5",
+    "6.0": "YES, 6-9",
+    "7.0": "YES, 10 AND MORE",
+    "8.0": "YES, NO ANSWER TO HOW MANY",
+    "9.0": "NO, HAVE NOT SEEN ANY"
+  },
+  "S63B.Q56": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE THAN ONCE A WEEK",
+    "2.0": "ABOUT ONCE A WEEK",
+    "3.0": "ABOUT ONCE EVERY TWO WEEKS",
+    "4.0": "ABOUT ONCE A MONTH",
+    "5.0": "LESS THAN ONCE A MONTH",
+    "6.0": "DON'T HAVE THEM AT ALL",
+    "7.0": "DON'T KNOW"
+  },
+  "S63B.Q57": {
+    "0.0": "NO ANSWER",
+    "1.0": "OVER THE LOUD-SPEAKER",
+    "2.0": "FROM CAMP NEWSPAPERS",
+    "3.0": "FROM POSTERS AND BULLETIN BOARDS",
+    "4.0": "FROM OFFICERS AND NONCOMS",
+    "5.0": "FROM HEARING THE FELLOWS TALK ABOUT IT",
+    "6.0": "IN SOME OTHER WAY",
+    "7.0": "DON'T KNOW",
+    "8.0": "I HARDLY EVER FIND OUT ABOUT IT TILL AFTERWARDS",
+    "9.0": "THEY DON'T HAVE ANY STAGE SHOWS HERE IN THIS CAMP"
+  },
+  "S63B.Q58": {
+    "0.0": "NO ANSWER",
+    "1.0": "I HAVE SEEN ALL THEY'VE HAD",
+    "2.0": "I HAVE SEEN MOST OF THOSE THEY'VE HAD",
+    "3.0": "I HAVE SEEN ABOUT HALF OF THOSE THEY'VE HAD",
+    "4.0": "I HAVE SEEN ONLY A FEW OF THOSE THEY'VE HAD",
+    "5.0": "I HAVE SEEN NONE OF THOSE THEY'VE HAD",
+    "6.0": "THEY DON'T HAVE ANY STAGE SHOWS IN THIS CAMP CLOSE ENOUGH TO GET TO"
+  },
+  "S63B.Q60": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, SEVERAL TIMES",
+    "2.0": "YES, ONCE OR TWICE",
+    "3.0": "NO, NEVER",
+    "4.0": "THEY DON'T HAVE ANY STAGE SHOWS HERE IN THIS CAMP",
+    "5.0": "NO ANSWER"
+  },
+  "S63B.Q61": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "THEY DON'T HAVE ENOUGH",
+    "2.0": "THEY HAVE JUST ABOUT THE RIGHT NUMBER",
+    "3.0": "THEY HAVE TOO MANY",
+    "4.0": "NO OPINION",
+    "5.0": "NO ANSWER"
+  },
+  "S63B.Q63A": {
+    "1.0": "MORE THAN ONCE A WEEK",
+    "2.0": "ABOUT ONCE A WEEK",
+    "3.0": "ABOUT ONCE EVERY 2 OR 3 WEEKS",
+    "4.0": "ABOUT ONCE A MONTH",
+    "5.0": "ABOUT ONCE EVERY 2 OR 3 MONTHS",
+    "6.0": "LESS THAN ONCE EVERY 3 MONTHS",
+    "7.0": "NEVER",
+    "8.0": "NO ANSWER"
+  },
+  "S63B.Q63B": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE THAN ONCE A WEEK",
+    "2.0": "ABOUT ONCE A WEEK",
+    "3.0": "ABOUT ONCE EVERY 2 OR 3 WEEKS",
+    "4.0": "ABOUT ONCE A MONTH",
+    "5.0": "ABOUT ONCE EVERY 2 OR 3 MONTHS",
+    "6.0": "LESS THAN ONCE EVERY 3 MONTHS",
+    "7.0": "NEVER"
+  },
+  "S63B.Q64": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY GOOD",
+    "2.0": "PRETTY GOOD",
+    "3.0": "NOT SO GOOD",
+    "4.0": "ROTTEN",
+    "5.0": "UNDECIDED",
+    "6.0": "I HAVEN'T SEEN ANY USO TRAVELLING CAMPS SHOWS HERE IN THIS CAMP"
+  },
+  "S63B.Q65": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY GOOD",
+    "2.0": "PRETTY GOOD",
+    "3.0": "NOT SO GOOD",
+    "4.0": "ROTTEN",
+    "5.0": "UNDECIDED",
+    "6.0": "I HAVEN'T SEEN ANY STAGE SHOWS PUT ON BY CIVILIANS FROM NEARBY TOWNS HERE IN THIS CAMP"
+  },
+  "S63B.Q66": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY GOOD",
+    "2.0": "PRETTY GOOD",
+    "3.0": "NOT SO GOOD",
+    "4.0": "ROTTEN",
+    "5.0": "UNDECIDED",
+    "6.0": "I HAVEN'T SEEN ANY \"BIG TIME\" RADIO SHOWS HERE IN THIS CAMP",
+    "7.0": "NO ANSWER"
+  },
+  "S63B.Q67A": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY GOOD",
+    "2.0": "PRETTY GOOD",
+    "3.0": "NOT SO GOOD",
+    "4.0": "ROTTEN",
+    "5.0": "UNDECIDED",
+    "6.0": "I HAVEN'T SEEN ANY BIG SHOWS PUT ON BY SOLDIERS HERE IN THIS CAMP"
+  },
+  "S63B.Q67B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY GOOD",
+    "2.0": "PRETTY GOOD",
+    "3.0": "NOT SO GOOD",
+    "4.0": "ROTTEN",
+    "5.0": "UNDECIDED",
+    "6.0": "I HAVEN'T SEEN ANY LITTLE SHOWS PUT ON BY SOLDIERS HERE IN THIS CAMP"
+  },
+  "S63B.Q68": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NO ANSWER"
+  },
+  "S63B.Q69": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED",
+    "4.0": "NO ANSWER"
+  },
+  "S63B.Q70.1": {
+    "1.0": "MINSTREL SHOWS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q70.2": {
+    "1.0": "MUSICAL COMEDIES WITH POPULAR MUSIC
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q70.3": {
+    "1.0": "LIGHT OPERA OR OPERETTAS
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q70.4": {
+    "1.0": "GIRL DANCING SHOWS
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q70.5": {
+    "1.0": "PLAYS THAT ARE FUNNY
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q70.6": {
+    "1.0": "PLAYS THAT ARE SERIOUS
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q70.7": {
+    "1.0": "WELL-KNOWN DANCE BANDS
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q70.8": {
+    "1.0": "CONCERT ORCHESTRAS PLAYING CLASSICAL OR SEMI-CLASSICAL MUSIC
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q70.9": {
+    "1.0": "SINGERS OF POPULAR MUSIC
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q70.10": {
+    "1.0": "SINGERS OF CLASSICAL OR SEMI-CLASSICAL MUSIC
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q70.11": {
+    "1.0": "VAUDEVILLE ACTS
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q70.12": {
+    "1.0": "OTHER
+    "2.0": "NOT CHOSEN"
+  },
+  "S63B.Q71": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "IT IS ABSOLUTELY NECESSARY",
+    "2.0": "IT IS OF GREAT IMPORTANCE",
+    "3.0": "IT IS OF MEDIUM IMPORTANCE",
+    "4.0": "IT IS OF LITTLE IMPORTANCE",
+    "5.0": "IT IS OF NO IMPORTANCE AT ALL",
+    "6.0": "NO ANSWER"
+  },
+  "S63B.Q74A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "IMPORTANT",
+    "2.0": "UNCERTAIN",
+    "3.0": "NOT IMPORTANT",
+    "4.0": "NO ANSWER"
+  },
+  "S63B.Q74B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "IMPORTANT",
+    "2.0": "UNCERTAIN",
+    "3.0": "NOT IMPORTANT",
+    "4.0": "NO ANSWER"
+  },
+  "S63B.Q74C": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "IMPORTANT",
+    "2.0": "UNCERTAIN",
+    "3.0": "NOT IMPORTANT",
+    "4.0": "NO ANSWER"
+  },
+  "S63B.Q74D": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "IMPORTANT",
+    "2.0": "UNCERTAIN",
+    "3.0": "NOT IMPORTANT",
+    "4.0": "NO ANSWER"
+  },
+  "S63B.Q74E": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "IMPORTANT",
+    "2.0": "UNCERTAIN",
+    "3.0": "NOT IMPORTANT",
+    "4.0": "NO ANSWER"
+  },
+  "S63B.Q74F": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "IMPORTANT",
+    "2.0": "UNCERTAIN",
+    "3.0": "NOT IMPORTANT",
+    "4.0": "NO ANSWER"
+  },
+  "S63B.Q74G": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "IMPORTANT",
+    "2.0": "UNCERTAIN",
+    "3.0": "NOT IMPORTANT",
+    "4.0": "NO ANSWER"
+  },
+  "S63B.Q74H": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "IMPORTANT",
+    "2.0": "UNCERTAIN",
+    "3.0": "NOT IMPORTANT",
+    "4.0": "NO ANSWER"
+  },
+  "S63B.Q74I": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "IMPORTANT",
+    "2.0": "UNCERTAIN",
+    "3.0": "NOT IMPORTANT",
+    "4.0": "NO ANSWER"
+  },
+  "S63B.Q74J": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "IMPORTANT",
+    "2.0": "UNCERTAIN",
+    "3.0": "NOT IMPORTANT",
+    "4.0": "NO ANSWER"
+  },
+  "S63B.V75": {
+    "0.0": "CAMP MCCAIN, MS",
+    "1.0": "CAMP ADAIR, OR",
+    "2.0": "GOWEN FIELD, ID",
+    "3.0": "HAMILTON FIELD, CA",
+    "4.0": "CAMP ALAMAGORDO, NM",
+    "5.0": "CAMP HAAN, CA",
+    "6.0": "MARCH FIELD, CA",
+    "45.0": "CAMP CLAIBOURNE, LA",
+    "46.0": "CAMP FORREST, TN",
+    "50.0": "CAMP PHILLIP, KS",
+    "51.0": "FORT KNOX, KY",
+    "70.0": "JEFFERSON BARRACKS, MO",
+    "79.0": "SHEPPARD FIELD, TX",
+    "89.0": "CAMP BARKELEY, TX",
+    "NaN": "CODE OR NO DATA",
+    "11.0": "CAMP EDWARDS, MA",
+    "14.0": "FORT DEVENS, MA",
+    "48.0": "CAMP SHELBY, MS",
+    "59.0": "ARMY AIR BASE, NEW ORLEANS, LA",
+    "66.0": "FORT MEADE, SD",
+    "67.0": "FORT JACKSON, SC",
+    "78.0": "CAMP MAXEY, TX"
+  },
+  "FORM..2": {
+    "1.0": "S-63A",
+    "2.0": "S-63B",
+    "3.0": "S-63C",
+    "4.0": "S-63D",
+    "5.0": "S-63E",
+    "6.0": "S-63F",
+    "7.0": "S-63G"
+  }
+}

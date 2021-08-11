@@ -1,0 +1,850 @@
+{
+  "FORM": {
+    "1.0": "FORM A QUESTIONNAIRE",
+    "2.0": "FORM B QUESTIONNAIRE"
+  },
+  "S172.Q1": {
+    "0.0": "NO ANSWER",
+    "1.0": "PRIVATE OR PRIVATE FIRST CLASS",
+    "2.0": "CORPORAL OR TECHNICIAN 5TH GRADE",
+    "3.0": "SERGEANT OR TECHNICIAN 4TH GRADE",
+    "4.0": "1ST THREE GRADES"
+  },
+  "S172.Q2": {
+    "0.0": "NO ANSWER",
+    "1.0": "18 YEARS OLD",
+    "2.0": "19 YEARS OLD",
+    "3.0": "20 YEARS OLD",
+    "4.0": "21 YEARS OLD",
+    "5.0": "22 YEARS OLD",
+    "6.0": "23 YEARS OLD",
+    "7.0": "24 YEARS OLD",
+    "8.0": "25 YEARS OLD",
+    "9.0": "26-29 YEARS OLD",
+    "10.0": "30-34 YEARS OLD",
+    "11.0": "35 AND OVER"
+  },
+  "S172.Q3": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "DID NOT FINISH GRADE SCHOOL",
+    "2.0": "GRADUATED FROM GRADE SCHOOL",
+    "3.0": "SOME HIGH SCHOOL BUT DID NOT GRADUATE",
+    "4.0": "GRADUATED FROM HIGH SCHOOL",
+    "5.0": "WENT TO COLLEGE",
+    "6.0": "NO ANSWER"
+  },
+  "S172.Q4": {
+    "0.0": "NO ANSWER",
+    "1.0": "I VOLUNTEERED FOR THE REGULAR ARMY",
+    "2.0": "I VOLUNTEERED THROUGH SELECTIVE SERVICE",
+    "3.0": "I WAS IN THE NATIONAL GUARD",
+    "4.0": "I WAS DRAFTED",
+    "5.0": "SOME OTHER WAY"
+  },
+  "S172.Q5": {
+    "0.0": "NO ANSWER",
+    "1.0": "I WAS SENT BACK UNDER THE ROTATION PLAN",
+    "2.0": "I WAS SENT BACK FOR SOME OTHER REASON"
+  },
+  "S172.Q6": {
+    "0.0": "NO ANSWER",
+    "1.0": "12 MONTHS OR LESS",
+    "2.0": "OVER 12 MONTHS TO 18 MONTHS",
+    "3.0": "OVER 18 MONTHS TO 24 MONTHS",
+    "4.0": "OVER 24 MONTHS TO 30 MONTHS",
+    "5.0": "OVER 30 MONTHS TO 36 MONTHS",
+    "6.0": "OVER 36 MONTHS"
+  },
+  "S172.Q7": {
+    "0.0": "NO ANSWER",
+    "1.0": "ENGINEERS",
+    "2.0": "FIELD ARTILLERY",
+    "3.0": "QUARTERMASTER CORPS",
+    "4.0": "INFANTRY",
+    "5.0": "MEDICAL DEPARTMENT",
+    "6.0": "ARMORED FORCE",
+    "7.0": "SIGNAL CORPS",
+    "8.0": "COAST ARTILLERY",
+    "9.0": "ANTI-AIRCRAFT",
+    "10.0": "AIR CORPS",
+    "11.0": "TRANSPORTATION CORPS",
+    "12.0": "ORDNANCE DEPARTMENT",
+    "13.0": "CHEMICAL WARFARE SERVICE",
+    "14.0": "MILITARY POLICE",
+    "15.0": "TANK DESTROYER",
+    "16.0": "OTHER"
+  },
+  "S172.Q8": {
+    "0.0": "NO ANSWER",
+    "1.0": "EUROPEAN THEATRE (BRITISH ISLES, FRANCE)",
+    "2.0": "MEDITERRANEAN THEATRE (ITALY, NORTH AFRICA)",
+    "3.0": "CARIBBEAN, PANAMA",
+    "4.0": "SOUTHWEST PACIFIC AREA (AUSTRALIA, NEW GUINEA)",
+    "5.0": "SOUTH PACIFIC BASE COMMAND (NEW CALEDONIA, GUADALCANAL, ETC.)",
+    "6.0": "CENTRAL PACIFIC BASE COMMAND (HAWAII, KWAJALEIN, SAIPAN, ETC.)",
+    "7.0": "ALASKA, ALEUTIANS",
+    "8.0": "MIDDLE EAST (CAIRO, PALESTINE, IRAN)",
+    "9.0": "CHINA, BURMA, INDIA",
+    "10.0": "OTHER PLACE"
+  },
+  "S172.Q9": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S172.Q10": {
+    "0.0": "NO ANSWER",
+    "2.0": "YES, I HAVE BEEN UNDER ENEMY FIRE, BUT NOT IN ACTUAL COMBAT",
+    "NaN": "QUESTIONS 11A AND 11B CODED TOGETHER.",
+    "1.0": "NO",
+    "3.0": "YES, I HAVE BEEN IN ACTUAL COMBAT"
+  },
+  "S172.Q11A.x": {
+    "1.0": "NO TO PART A, ANY ANSWER TO PART B",
+    "2.0": "YES, SOME AND VERY MUCH",
+    "3.0": "YES, SOME AND QUITE A BIT",
+    "NaN": "QUESTIONS 12A AND 12B CODED TOGETHER.",
+    "4.0": "YES, SOME AND NOT SO MUCH",
+    "5.0": "YES, SOME AND NOT AT ALL",
+    "6.0": "YES, LOTS AND VERY MUCH",
+    "7.0": "YES, LOTS AND QUITE A BIT",
+    "8.0": "YES, LOTS AND NOT SO MUCH",
+    "9.0": "YES, LOTS AND NOT AT ALL",
+    "10.0": "NO ANSWER ON BOTH A AND B",
+    "11.0": "YES, SOME AND NO ANSWER",
+    "12.0": "YES, LOTS AND NO ANSWER"
+  },
+  "S172.Q12A.x": {
+    "1.0": "NO TO PART A, ANY ANSWER TO PART B",
+    "2.0": "YES, SOME AND VERY MUCH",
+    "3.0": "YES, SOME AND QUITE A BIT",
+    "NaN": "QUESTIONS 13A AND 13B CODED TOGETHER.",
+    "4.0": "YES, SOME AND NOT SO MUCH",
+    "5.0": "YES, SOME AND NOT AT ALL",
+    "6.0": "YES, LOTS AND VERY MUCH",
+    "7.0": "YES, LOTS AND QUITE A BIT",
+    "8.0": "YES, LOTS AND NOT SO MUCH",
+    "9.0": "YES, LOTS AND NOT AT ALL",
+    "10.0": "NO ANSWER ON BOTH A AND B",
+    "11.0": "YES, SOME AND NO ANSWER",
+    "12.0": "YES, LOTS AND NO ANSWER"
+  },
+  "S172.Q13A.x": {
+    "1.0": "NO TO PART A, ANY ANSWER TO PART B",
+    "2.0": "YES, SOME AND VERY MUCH",
+    "3.0": "YES, SOME AND QUITE A BIT",
+    "NaN": "QUESTIONS 14A AND 14B CODED TOGETHER.",
+    "4.0": "YES, SOME AND NOT SO MUCH",
+    "5.0": "YES, SOME AND NOT AT ALL",
+    "6.0": "YES, LOTS AND VERY MUCH",
+    "7.0": "YES, LOTS AND QUITE A BIT",
+    "8.0": "YES, LOTS AND NOT SO MUCH",
+    "9.0": "YES, LOTS AND NOT AT ALL",
+    "10.0": "NO ANSWER ON BOTH A AND B",
+    "11.0": "YES, SOME AND NO ANSWER",
+    "12.0": "YES, LOTS AND NO ANSWER"
+  },
+  "S172.Q14A.x": {
+    "1.0": "NO TO PART A, ANY ANSWER TO PART B",
+    "2.0": "YES, SOME AND VERY MUCH",
+    "3.0": "YES, SOME AND QUITE A BIT",
+    "NaN": "QUESTIONS 15A AND 15B CODED TOGETHER.",
+    "4.0": "YES, SOME AND NOT SO MUCH",
+    "5.0": "YES, SOME AND NOT AT ALL",
+    "6.0": "YES, LOTS AND VERY MUCH",
+    "7.0": "YES, LOTS AND QUITE A BIT",
+    "8.0": "YES, LOTS AND NOT SO MUCH",
+    "9.0": "YES, LOTS AND NOT AT ALL",
+    "10.0": "NO ANSWER ON BOTH A AND B",
+    "11.0": "YES, SOME AND NO ANSWER",
+    "12.0": "YES, LOTS AND NO ANSWER"
+  },
+  "S172.Q15A.x": {
+    "1.0": "NO TO PART A, ANY ANSWER TO PART B",
+    "2.0": "YES, SOME AND VERY MUCH",
+    "3.0": "YES, SOME AND QUITE A BIT",
+    "4.0": "YES, SOME AND NOT SO MUCH",
+    "5.0": "YES, SOME AND NOT AT ALL",
+    "6.0": "YES, LOTS AND VERY MUCH",
+    "7.0": "YES, LOTS AND QUITE A BIT",
+    "8.0": "YES, LOTS AND NOT SO MUCH",
+    "9.0": "YES, LOTS AND NOT AT ALL",
+    "10.0": "NO ANSWER ON BOTH A AND B",
+    "11.0": "YES, SOME AND NO ANSWER",
+    "12.0": "YES, LOTS AND NO ANSWER"
+  },
+  "S172.Q16A.x": {
+    "1.0": "NO TO PART A, ANY ANSWER TO PART B",
+    "2.0": "YES, SOME AND VERY MUCH",
+    "3.0": "YES, SOME AND QUITE A BIT",
+    "4.0": "YES, SOME AND NOT SO MUCH",
+    "5.0": "YES, SOME AND NOT AT ALL",
+    "6.0": "YES, LOTS AND VERY MUCH",
+    "7.0": "YES, LOTS AND QUITE A BIT",
+    "8.0": "YES, LOTS AND NOT SO MUCH",
+    "9.0": "YES, LOTS AND NOT AT ALL",
+    "10.0": "NO ANSWER ON BOTH A AND B",
+    "11.0": "YES, SOME AND NO ANSWER",
+    "12.0": "YES, LOTS AND NO ANSWER"
+  },
+  "S172.Q17A.x": {
+    "1.0": "NO TO PART A, ANY ANSWER TO PART B",
+    "2.0": "YES, SOME AND VERY MUCH",
+    "3.0": "YES, SOME AND QUITE A BIT",
+    "4.0": "YES, SOME AND NOT SO MUCH",
+    "5.0": "YES, SOME AND NOT AT ALL",
+    "6.0": "YES, LOTS AND VERY MUCH",
+    "7.0": "YES, LOTS AND QUITE A BIT",
+    "8.0": "YES, LOTS AND NOT SO MUCH",
+    "9.0": "YES, LOTS AND NOT AT ALL",
+    "10.0": "NO ANSWER ON BOTH A AND B",
+    "11.0": "YES, SOME AND NO ANSWER",
+    "12.0": "YES, LOTS AND NO ANSWER"
+  },
+  "S172.Q18A.x": {
+    "1.0": "NO TO PART A, ANY ANSWER TO PART B",
+    "2.0": "YES, SOME AND VERY MUCH",
+    "3.0": "YES, SOME AND QUITE A BIT",
+    "4.0": "YES, SOME AND NOT SO MUCH",
+    "5.0": "YES, SOME AND NOT AT ALL",
+    "6.0": "YES, LOTS AND VERY MUCH",
+    "7.0": "YES, LOTS AND QUITE A BIT",
+    "8.0": "YES, LOTS AND NOT SO MUCH",
+    "9.0": "YES, LOTS AND NOT AT ALL",
+    "10.0": "NO ANSWER ON BOTH A AND B",
+    "11.0": "YES, SOME AND NO ANSWER",
+    "12.0": "YES, LOTS AND NO ANSWER"
+  },
+  "S172.Q19A.x": {
+    "1.0": "NO TO PART A, ANY ANSWER TO PART B",
+    "2.0": "YES, SOME AND VERY MUCH",
+    "3.0": "YES, SOME AND QUITE A BIT",
+    "NaN": "QUESTIONS 20A AND 20B CODED TOGETHER.",
+    "4.0": "YES, SOME AND NOT SO MUCH",
+    "5.0": "YES, SOME AND NOT AT ALL",
+    "6.0": "YES, LOTS AND VERY MUCH",
+    "7.0": "YES, LOTS AND QUITE A BIT",
+    "8.0": "YES, LOTS AND NOT SO MUCH",
+    "9.0": "YES, LOTS AND NOT AT ALL",
+    "10.0": "NO ANSWER ON BOTH A AND B",
+    "11.0": "YES, SOME AND NO ANSWER",
+    "12.0": "YES, LOTS AND NO ANSWER"
+  },
+  "S172.Q20A.x": {
+    "1.0": "NO TO PART A, ANY ANSWER TO PART B",
+    "2.0": "YES, SOME AND VERY MUCH",
+    "3.0": "YES, SOME AND QUITE A BIT",
+    "NaN": "QUESTIONS 21A AND 21B CODED TOGETHER.",
+    "4.0": "YES, SOME AND NOT SO MUCH",
+    "5.0": "YES, SOME AND NOT AT ALL",
+    "6.0": "YES, LOTS AND VERY MUCH",
+    "7.0": "YES, LOTS AND QUITE A BIT",
+    "8.0": "YES, LOTS AND NOT SO MUCH",
+    "9.0": "YES, LOTS AND NOT AT ALL",
+    "10.0": "NO ANSWER ON BOTH A AND B",
+    "11.0": "YES, SOME AND NO ANSWER",
+    "12.0": "YES, LOTS AND NO ANSWER"
+  },
+  "S172.Q21A.x": {
+    "1.0": "NO TO PART A, ANY ANSWER TO PART B",
+    "2.0": "YES, SOME AND VERY MUCH",
+    "3.0": "YES, SOME AND QUITE A BIT",
+    "NaN": "QUESTIONS 22A AND 22B CODED TOGETHER.",
+    "4.0": "YES, SOME AND NOT SO MUCH",
+    "5.0": "YES, SOME AND NOT AT ALL",
+    "6.0": "YES, LOTS AND VERY MUCH",
+    "7.0": "YES, LOTS AND QUITE A BIT",
+    "8.0": "YES, LOTS AND NOT SO MUCH",
+    "9.0": "YES, LOTS AND NOT AT ALL",
+    "10.0": "NO ANSWER ON BOTH A AND B",
+    "11.0": "YES, SOME AND NO ANSWER",
+    "12.0": "YES, LOTS AND NO ANSWER"
+  },
+  "S172.Q22A.x": {
+    "1.0": "NO TO PART A, ANY ANSWER TO PART B",
+    "2.0": "YES, SOME AND VERY MUCH",
+    "3.0": "YES, SOME AND QUITE A BIT",
+    "4.0": "YES, SOME AND NOT SO MUCH",
+    "5.0": "YES, SOME AND NOT AT ALL",
+    "6.0": "YES, LOTS AND VERY MUCH",
+    "7.0": "YES, LOTS AND QUITE A BIT",
+    "8.0": "YES, LOTS AND NOT SO MUCH",
+    "9.0": "YES, LOTS AND NOT AT ALL",
+    "10.0": "NO ANSWER ON BOTH A AND B",
+    "11.0": "YES, SOME AND NO ANSWER",
+    "12.0": "YES, LOTS AND NO ANSWER"
+  },
+  "S172.Q23A": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY HIGH",
+    "NaN": "Q.23B AND Q.24 NOT CODED BY SURVEY ORGANIZATION.",
+    "2.0": "FAIRLY HIGH",
+    "3.0": "JUST SO-SO",
+    "4.0": "FAIRLY LOW",
+    "5.0": "VERY LOW"
+  },
+  "S172.Q25": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT IS A GOOD IDEA IN ALL WAYS",
+    "2.0": "IT IS A GOOD IDEA IN MOST WAYS, BUT NOT IN OTHER WAYS",
+    "3.0": "IT IS A POOR IDEA IN MOST WAYS, BUT NOT IN OTHER WAYS",
+    "4.0": "IT IS A POOR IDEA IN ALL WAYS"
+  },
+  "S172.Q26": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT IS BETTER HERE",
+    "2.0": "IT IS ABOUT THE SAME",
+    "3.0": "IT IS WORSE HERE"
+  },
+  "S172.Q28": {
+    "0.0": "NO ANSWER",
+    "1.0": "DRAFT ALL YOUNG MEN FOR A CERTAIN AMOUNT OF TRAINING",
+    "2.0": "GO BACK TO TAKING VOLUNTEERS ONLY",
+    "3.0": "UNDECIDED"
+  },
+  "S172.Q29": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY GOOD PHYSICAL CONDITION",
+    "2.0": "GOOD PHYSICAL CONDITION",
+    "3.0": "FAIR PHYSICAL CONDITION",
+    "4.0": "POOR PHYSICAL CONDITION",
+    "5.0": "VERY POOR PHYSICAL CONDITION"
+  },
+  "S172.Q30A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, OFTEN",
+    "2.0": "YES, SOMETIMES",
+    "3.0": "NO, NEVER"
+  },
+  "S172.Q30B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NEARLY ALL THE TIME",
+    "2.0": "PRETTY OFTEN",
+    "3.0": "NOT VERY OFTEN",
+    "4.0": "NEVER"
+  },
+  "S172.Q30C": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ALMOST NEVER"
+  },
+  "S172.Q30D": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ALMOST NEVER"
+  },
+  "S172.Q30E": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ALMOST NEVER"
+  },
+  "S172.Q30F": {
+    "0.0": "NO ANSWER",
+    "1.0": "I AM HARDLY EVER WORRIED AND UPSET",
+    "2.0": "I AM SOMETIMES WORRIED AND UPSET",
+    "3.0": "I AM OFTEN WORRIED AND UPSET"
+  },
+  "S172.Q30G": {
+    "0.0": "NO ANSWER",
+    "1.0": "I HAVE A PRETTY GOOD TIME",
+    "2.0": "IT'S ABOUT FIFTY-FIFTY",
+    "3.0": "I HAVE A PRETTY ROTTEN TIME"
+  },
+  "S172.Q30H": {
+    "0.0": "NO ANSWER",
+    "1.0": "I AM USUALLY IN GOOD SPIRITS",
+    "2.0": "I AM IN GOOD SPIRITS SOME OF THE TIME IN LOW SPIRITS SOME OF THE TIME",
+    "3.0": "I AM USUALLY IN LOW SPIRITS"
+  },
+  "S172.Q31A": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "SOME BUT NOT MANY",
+    "3.0": "NONE"
+  },
+  "S172.Q31B": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "SOME BUT NOT MANY",
+    "3.0": "NONE"
+  },
+  "S172.Q31C": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "SOME BUT NOT MANY",
+    "3.0": "NONE"
+  },
+  "S172.Q31D": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "SOME BUT NOT MANY",
+    "3.0": "NONE"
+  },
+  "S172.Q31E": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "SOME BUT NOT MANY",
+    "3.0": "NONE"
+  },
+  "S172.Q31F": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "SOME BUT NOT MANY",
+    "3.0": "NONE"
+  },
+  "S172.Q32A": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "SOME BUT NOT MUCH",
+    "3.0": "NONE"
+  },
+  "S172.Q32B": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "SOME BUT NOT MUCH",
+    "3.0": "NONE"
+  },
+  "S172.Q32C": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "SOME BUT NOT MUCH",
+    "3.0": "NONE"
+  },
+  "S172.Q32D": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "SOME BUT NOT MUCH",
+    "3.0": "NONE"
+  },
+  "S172.Q32E": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "SOME BUT NOT MUCH",
+    "3.0": "NONE"
+  },
+  "S172.Q32F": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "SOME BUT NOT MUCH",
+    "3.0": "NONE"
+  },
+  "S172.Q32G": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "SOME BUT NOT MUCH",
+    "3.0": "NONE"
+  },
+  "S172.Q33": {
+    "0.0": "NO ANSWER",
+    "1.0": "DOING MORE THAN HER SHARE",
+    "2.0": "DOING HER SHARE",
+    "3.0": "NOT DOING HER SHARE",
+    "4.0": "UNDECIDED"
+  },
+  "S172.Q34": {
+    "0.0": "NO ANSWER",
+    "1.0": "DOING MORE THAN HER SHARE",
+    "2.0": "DOING HER SHARE",
+    "3.0": "NOT DOING HER SHARE",
+    "4.0": "UNDECIDED"
+  },
+  "S172.Q35": {
+    "0.0": "NO ANSWER",
+    "1.0": "DOING MORE THAN HER SHARE",
+    "2.0": "DOING HER SHARE",
+    "3.0": "NOT DOING HER SHARE",
+    "4.0": "UNDECIDED"
+  },
+  "S172.Q36": {
+    "1.0": "DOING MORE THAN HER SHARE",
+    "2.0": "DOING HER SHARE",
+    "4.0": "UNDECIDED",
+    "NaN": "COLS. 77-80 NOT USED. CARD 2",
+    "0.0": "NO ANSWER",
+    "3.0": "NOT DOING HER SHARE"
+  },
+  "FORM..1": {
+    "1.0": "FORM A QUESTIONNAIRE",
+    "2.0": "FORM B QUESTIONNAIRE"
+  },
+  "S172.Q37": {
+    "0.0": "NO ANSWER",
+    "1.0": "DOING MORE THAN HER SHARE",
+    "2.0": "DOING HER SHARE",
+    "3.0": "NOT DOING HER SHARE",
+    "4.0": "UNDECIDED"
+  },
+  "S172.Q38A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED"
+  },
+  "S172.Q38B.1": {
+    "1.0": "ARGENTINA",
+    "2.0": "NOT CHOSEN"
+  },
+  "S172.Q38B.2": {
+    "1.0": "CHINA
+    "2.0": "NOT CHOSEN"
+  },
+  "S172.Q38B.3": {
+    "1.0": "ENGLAND 3663",
+    "2.0": "NOT CHOSEN"
+  },
+  "S172.Q38B.4": {
+    "1.0": "FRANCE
+    "2.0": "NOT CHOSEN"
+  },
+  "S172.Q38B.5": {
+    "1.0": "GERMANY
+    "2.0": "NOT CHOSEN"
+  },
+  "S172.Q38B.6": {
+    "1.0": "ITALY
+    "2.0": "NOT CHOSEN"
+  },
+  "S172.Q38B.7": {
+    "1.0": "JAPAN
+    "2.0": "NOT CHOSEN"
+  },
+  "S172.Q38B.8": {
+    "1.0": "RUSSIA
+    "2.0": "NOT CHOSEN"
+  },
+  "S172.Q38B.9": {
+    "1.0": "UNITED STATES
+    "2.0": "NOT CHOSEN"
+  },
+  "S172.Q38B.10": {
+    "1.0": "OTHER
+    "2.0": "NOT CHOSEN"
+  },
+  "S172.Q38B.11": {
+    "1.0": "NO ANSWER
+    "2.0": "NOT CHOSEN"
+  },
+  "S172.Q38C1.1": {
+    "1.0": "ARGENTINA",
+    "2.0": "NOT CHOSEN"
+  },
+  "S172.Q38C1.2": {
+    "1.0": "CHINA
+    "2.0": "NOT CHOSEN"
+  },
+  "S172.Q38C1.3": {
+    "1.0": "ENGLAND 3978",
+    "2.0": "NOT CHOSEN"
+  },
+  "S172.Q38C1.4": {
+    "1.0": "FRANCE
+    "2.0": "NOT CHOSEN"
+  },
+  "S172.Q38C1.5": {
+    "1.0": "GERMANY
+    "2.0": "NOT CHOSEN"
+  },
+  "S172.Q38C1.6": {
+    "1.0": "ITALY
+    "2.0": "NOT CHOSEN"
+  },
+  "S172.Q38C1.7": {
+    "1.0": "JAPAN
+    "2.0": "NOT CHOSEN"
+  },
+  "S172.Q38C1.8": {
+    "1.0": "RUSSIA
+    "2.0": "NOT CHOSEN"
+  },
+  "S172.Q38C1.9": {
+    "1.0": "UNITED STATES
+    "2.0": "NOT CHOSEN"
+  },
+  "S172.Q38C1.10": {
+    "1.0": "OTHER
+    "2.0": "NOT CHOSEN"
+  },
+  "S172.Q38C1.11": {
+    "1.0": "NO ANSWER
+    "2.0": "NOT CHOSEN"
+  },
+  "S172.Q38C2.1": {
+    "1.0": "ARGENTINA",
+    "2.0": "NOT CHOSEN"
+  },
+  "S172.Q38C2.2": {
+    "1.0": "CHINA
+    "2.0": "NOT CHOSEN"
+  },
+  "S172.Q38C2.3": {
+    "1.0": "ENGLAND 4182",
+    "2.0": "NOT CHOSEN"
+  },
+  "S172.Q38C2.4": {
+    "1.0": "FRANCE
+    "2.0": "NOT CHOSEN"
+  },
+  "S172.Q38C2.5": {
+    "1.0": "GERMANY
+    "2.0": "NOT CHOSEN"
+  },
+  "S172.Q38C2.6": {
+    "1.0": "ITALY
+    "2.0": "NOT CHOSEN"
+  },
+  "S172.Q38C2.7": {
+    "1.0": "JAPAN
+    "2.0": "NOT CHOSEN"
+  },
+  "S172.Q38C2.8": {
+    "1.0": "RUSSIA
+    "2.0": "NOT CHOSEN"
+  },
+  "S172.Q38C2.9": {
+    "1.0": "UNITED STATES
+    "2.0": "NOT CHOSEN"
+  },
+  "S172.Q38C2.10": {
+    "1.0": "OTHER
+    "2.0": "NOT CHOSEN"
+  },
+  "S172.Q38C2.11": {
+    "1.0": "NO ANSWER
+    "2.0": "NOT CHOSEN"
+  },
+  "S172.Q39A": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY FAVORABLE",
+    "2.0": "FAIRLY FAVORABLE",
+    "3.0": "RATHER UNFAVORABLE",
+    "4.0": "VERY UNFAVORABLE",
+    "5.0": "NO OPINION"
+  },
+  "S172.Q40A": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY FAVORABLE",
+    "2.0": "FAIRLY FAVORABLE",
+    "3.0": "RATHER UNFAVORABLE",
+    "4.0": "VERY UNFAVORABLE",
+    "5.0": "NO OPINION"
+  },
+  "S172.Q41A": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY FAVORABLE",
+    "2.0": "FAIRLY FAVORABLE",
+    "3.0": "RATHER UNFAVORABLE",
+    "4.0": "VERY UNFAVORABLE",
+    "5.0": "NO OPINION"
+  },
+  "S172.Q42A": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY FAVORABLE",
+    "2.0": "FAIRLY FAVORABLE",
+    "3.0": "RATHER UNFAVORABLE",
+    "4.0": "VERY UNFAVORABLE",
+    "5.0": "NO OPINION"
+  },
+  "S172.Q43A": {
+    "0.0": "NO ANSWER",
+    "1.0": "WE WILL GET ALONG VERY WELL",
+    "2.0": "WE WILL DISAGREE ABOUT SOME THINGS BUT MANAGE TO GET ALONG",
+    "3.0": "WE WILL HAVE SOME SERIOUS DISAGREEMENTS BUT WE WON'T FIGHT EACH OTHER",
+    "4.0": "WE WILL VERY LIKELY FIGHT EACH OTHER SOONER OR LATER",
+    "5.0": "UNDECIDED"
+  },
+  "S172.Q43B": {
+    "0.0": "NO ANSWER",
+    "1.0": "WE WILL GET ALONG VERY WELL",
+    "2.0": "WE WILL DISAGREE ABOUT SOME THINGS BUT MANAGE TO GET ALONG",
+    "3.0": "WE WILL HAVE SOME SERIOUS DISAGREEMENTS BUT WE WON'T FIGHT EACH OTHER",
+    "4.0": "WE WILL VERY LIKELY FIGHT EACH OTHER SOONER OR LATER",
+    "5.0": "UNDECIDED"
+  },
+  "S172.Q43C": {
+    "0.0": "NO ANSWER",
+    "1.0": "WE WILL GET ALONG VERY WELL",
+    "2.0": "WE WILL DISAGREE ABOUT SOME THINGS BUT MANAGE TO GET ALONG",
+    "3.0": "WE WILL HAVE SOME SERIOUS DISAGREEMENTS BUT WE WON'T FIGHT EACH OTHER",
+    "4.0": "WE WILL VERY LIKELY FIGHT EACH OTHER SOONER OR LATER",
+    "5.0": "UNDECIDED"
+  },
+  "S172.Q43D": {
+    "0.0": "NO ANSWER SPLIT. A FORM.",
+    "1.0": "WE WILL GET ALONG VERY WELL",
+    "2.0": "WE WILL DISAGREE ABOUT SOME THINGS BUT MANAGE TO GET ALONG",
+    "3.0": "WE WILL HAVE SOME SERIOUS DISAGREEMENTS BUT WE WON'T FIGHT EACH OTHER",
+    "NaN": "QUESTIONS 44A AND 44B CODED TOGETHER.",
+    "4.0": "WE WILL VERY LIKELY FIGHT EACH OTHER SOONER OR LATER",
+    "5.0": "UNDECIDED"
+  },
+  "S172.Q44A.x": {
+    "0.0": "NO ANSWER",
+    "1.0": "SATISFIED",
+    "2.0": "DISSATISFIED AND RUSSIA TO BLAME",
+    "3.0": "DISSATISFIED AND ENGLAND TO BLAME",
+    "4.0": "DISSATISFIED AND UNITED STATES TO BLAME",
+    "NaN": "QUESTIONS 45A AND 45B CODED TOGETHER.",
+    "5.0": "DISSATISFIED AND NO ANSWER",
+    "6.0": "UNDECIDED",
+    "9.0": "INAPPLICABLE (B FORM)"
+  },
+  "S172.Q45A.x": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES TO PART A AND YES TO PART B",
+    "2.0": "YES AND NO",
+    "3.0": "YES AND UNDECIDED",
+    "4.0": "YES AND NO ANSWER",
+    "5.0": "NO AND ANY ANSWER TO PART B",
+    "6.0": "UNDECIDED AND ANY ANSWER TO PART B",
+    "9.0": "INAPPLICABLE (B FORM)"
+  },
+  "S172.Q44": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "DON'T KNOW",
+    "9.0": "INAPPLICABLE (A FORM)"
+  },
+  "S172.Q45": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE OFTEN THAN ONCE A WEEK",
+    "2.0": "ONCE A WEEK",
+    "3.0": "ONCE OR TWICE A MONTH",
+    "4.0": "LESS OFTEN THAN ONCE A MONTH",
+    "5.0": "NOT AT ALL",
+    "6.0": "MY OUTFIT DID NOT HAVE SUCH MEETINGS",
+    "9.0": "INAPPLICABLE (A FORM)"
+  },
+  "S172.Q46": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, THEY USUALLY HAD A CHANCE TO TALK",
+    "2.0": "THEY HAD A CHANCE TO TALK SOMETIMES, BUT NOT USUALLY",
+    "3.0": "NO, THEY HARDLY EVER HAD A CHANCE TO TALK",
+    "4.0": "MY OUTFIT DID NOT HAVE SUCH MEETINGS",
+    "9.0": "INAPPLICABLE (A FORM)"
+  },
+  "S172.Q47": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT IS VERY IMPORTANT",
+    "2.0": "IT IS FAIRLY IMPORTANT",
+    "3.0": "IT IS NOT SO IMPORTANT",
+    "4.0": "IT IS NOT IMPORTANT AT ALL",
+    "9.0": "INAPPLICABLE (A FORM)"
+  },
+  "S172.Q48A": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW",
+    "3.0": "DISAGREE",
+    "9.0": "INAPPLICABLE (A FORM)"
+  },
+  "S172.Q48B": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW",
+    "3.0": "DISAGREE",
+    "9.0": "INAPPLICABLE (A FORM)"
+  },
+  "S172.Q48C": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW",
+    "3.0": "DISAGREE",
+    "9.0": "INAPPLICABLE (A FORM)"
+  },
+  "S172.Q48D": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW",
+    "3.0": "DISAGREE",
+    "9.0": "INAPPLICABLE (A FORM)"
+  },
+  "S172.Q48E": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW",
+    "3.0": "DISAGREE",
+    "9.0": "INAPPLICABLE (A FORM)"
+  },
+  "S172.Q48F": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW",
+    "3.0": "DISAGREE",
+    "9.0": "INAPPLICABLE (A FORM)"
+  },
+  "S172.Q49": {
+    "0.0": "NO ANSWER",
+    "1.0": "THE CRIMEA CONFERENCE HAS MADE WAR MUCH LESS LIKELY",
+    "2.0": "THE CRIMEA CONFERENCE HAS MADE WAR SOMEWHAT LESS LIKELY",
+    "3.0": "THE CRIMEA CONFERENCE HASN'T MADE ANY DIFFERENCE",
+    "9.0": "INAPPLICABLE (A FORM)"
+  },
+  "S172.V52": {
+    "0.0": "ORIGINAL PUNCH
+    "1.0": "ORIGINAL PUNCH
+    "2.0": "ORIGINAL PUNCH
+    "3.0": "ORIGINAL PUNCH
+    "4.0": "ORIGINAL PUNCH
+    "5.0": "ORIGINAL PUNCH
+    "6.0": "ORIGINAL PUNCH
+    "7.0": "ORIGINAL PUNCH
+    "8.0": "ORIGINAL PUNCH
+    "9.0": "ORIGINAL PUNCH X",
+    "10.0": "ORIGINAL BLANK"
+  },
+  "S172.V54": {
+    "0.0": "ORIGINAL PUNCH OF 0",
+    "1.0": "ORIGINAL PUNCH OF 1",
+    "2.0": "ORIGINAL PUNCH OF 2",
+    "3.0": "ORIGINAL PUNCH OF 3",
+    "4.0": "ORIGINAL PUNCH OF 4",
+    "5.0": "ORIGINAL PUNCH OF 5",
+    "6.0": "ORIGINAL PUNCH OF 6",
+    "7.0": "ORIGINAL PUNCH OF 7",
+    "8.0": "ORIGINAL PUNCH OF 8",
+    "9.0": "ORIGINAL PUNCH OF 9",
+    "10.0": "ORIGINAL PUNCH OF X",
+    "11.0": "ORIGINAL PUNCH OF V",
+    "12.0": "BLANK"
+  },
+  "S172.V55": {
+    "1.0": "ORIGINAL PUNCH OF 6",
+    "2.0": "ORIGINAL PUNCH OF 7",
+    "3.0": "ORIGINAL PUNCH OF 8",
+    "4.0": "ORIGINAL PUNCH OF 9",
+    "5.0": "ORIGINAL PUNCH OF X",
+    "6.0": "ORIGINAL PUNCH OF V",
+    "9.0": "BLANK"
+  },
+  "S172.V56": {
+    "1.0": "ORIGINAL PUNCH OF 6",
+    "2.0": "ORIGINAL PUNCH OF 7",
+    "3.0": "ORIGINAL PUNCH OF 8",
+    "4.0": "ORIGINAL PUNCH OF 9",
+    "5.0": "ORIGINAL PUNCH OF X",
+    "9.0": "BLANK"
+  },
+  "S172.V57": {
+    "1.0": "LAKE PLACID",
+    "2.0": "ATLANTIC CITY",
+    "3.0": "ASHEVILLE",
+    "4.0": "MIAMI",
+    "5.0": "HOT SPRINGS",
+    "6.0": "SANTA BARBARA",
+    "7.0": "CAMP BUTNER (FT. OGLETHORPE)",
+    "8.0": "FT. SAM HOUSTON",
+    "9.0": "ARMY AIR FORCE REDISTRIBUTION CENTER #1 (ATLANTIC CITY)",
+    "10.0": "ARMY AIR FORCE REDISTRIBUTION CENTER #2 (MIAMI)",
+    "11.0": "ARMY AIR FORCE REDISTRIBUTION CENTER #3 (SANTA MONIA)",
+    "12.0": "ARMY AIR FORCE REDISTRIBUTION CENTER #4 (SANTA ANNA)"
+  },
+  "S172.V58": {
+    "3.0": "MARCH",
+    "4.0": "APRIL",
+    "5.0": "MAY"
+  }
+}

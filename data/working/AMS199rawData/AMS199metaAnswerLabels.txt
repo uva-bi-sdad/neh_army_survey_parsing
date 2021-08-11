@@ -1,0 +1,492 @@
+{
+  "S199.Q1": {
+    "0.0": "NO ANSWER",
+    "1.0": "RIFLE",
+    "2.0": "MACHINE GUN SECTION - LIGHT AND HEAVY",
+    "3.0": "MORTAR SECTION",
+    "4.0": "TANK CREW",
+    "5.0": "GUN CREW - FIELD ARTILLERY",
+    "6.0": "ANTI-TANK",
+    "7.0": "HEADQUARTERS COMPANY",
+    "8.0": "CANNON CO.",
+    "9.0": "HEAVY WEAPONS",
+    "10.0": "MEDICS",
+    "11.0": "TANK DESTROYER",
+    "12.0": "ARMORED CAR",
+    "13.0": "ANTI-AIRCRAFT",
+    "14.0": "BN. HQ.",
+    "15.0": "DIV. ARTY. HQ.",
+    "16.0": "SIGNAL",
+    "17.0": "COMBAT ENGR.",
+    "18.0": "M.P.",
+    "19.0": "REGIMENT HQ.",
+    "20.0": "RECON. PLT.",
+    "21.0": "FIELD ARTILLERY MOBILE INCLUDING FORWARD OBSERVERS"
+  },
+  "S199.Q2": {
+    "1.0": "NO DAYS IN COMBAT",
+    "2.0": "1-29 DAYS (LESS THAN 1 MONTH)",
+    "3.0": "30-44 DAYS (1 MONTH UP TO 1 1/2 MONTHS)",
+    "4.0": "45-59 DAYS (1 1/2 UP TO 2 MONTHS)",
+    "5.0": "60-74 DAYS (2 UP TO 2 1/2 MONTHS)",
+    "6.0": "75-104 DAYS (2 1/2 UP TO 3 MONTHS)",
+    "7.0": "105-134 DAYS (3 UP TO 3 1/2 MONTHS)",
+    "8.0": "135-149 DAYS (3 1/2 UP TO 4 MONTHS)",
+    "9.0": "NO ANSWER"
+  },
+  "S199.Q3.1": {
+    "1.0": "JACKET, COMBAT",
+    "NaN": "JACKET, COMBAT",
+    "2.0": "NOT CHOSEN"
+  },
+  "S199.Q3.2": {
+    "1.0": "JACKET, FIELD, 43 (BUSH JACKET) 397",
+    "NaN": "JACKET, FIELD, 43 \\(BUSH JACKET\\) 397",
+    "2.0": "NOT CHOSEN"
+  },
+  "S199.Q3.3": {
+    "1.0": "JACKET, FIELD, O.D. 573",
+    "NaN": "JACKET, FIELD, O.D. 573",
+    "2.0": "NOT CHOSEN"
+  },
+  "S199.Q3.4": {
+    "1.0": "NONE OF THESE THREE CHECKED 1107",
+    "2.0": "NOT CHOSEN"
+  },
+  "S199.Q3.5": {
+    "1.0": "JACKET, PILE 1059",
+    "NaN": "JACKET, PILE 1059",
+    "2.0": "NOT CHOSEN"
+  },
+  "S199.Q3.6": {
+    "1.0": "JACKET, FIELD, WOOL (BATTLE JACKET) 1095",
+    "NaN": "JACKET, FIELD, WOOL \\(BATTLE JACKET\\) 1095",
+    "2.0": "NOT CHOSEN"
+  },
+  "S199.Q3.7": {
+    "1.0": "MACKINAW 987",
+    "NaN": "MACKINAW 987",
+    "2.0": "NOT CHOSEN"
+  },
+  "S199.Q3.8": {
+    "1.0": "SOMETHING ELSE 1071",
+    "NaN": "SOMETHING ELSE 1071",
+    "2.0": "NOT CHOSEN"
+  },
+  "S199.Q3.9": {
+    "1.0": "NONE OF THESE CHECKED 276",
+    "2.0": "NOT CHOSEN"
+  },
+  "S199.Q4": {
+    "0.0": "NO ANSWER",
+    "1.0": "(A) JACKET, COMBAT",
+    "2.0": "(B) JACKET, FIELD, 43 (BUSH JACKET)",
+    "3.0": "(C) JACKET, FIELD, O.D.",
+    "4.0": "(D) JACKET, PILE",
+    "5.0": "(E) JACKET, FIELD, WOOL (BATTLE JACKET)",
+    "6.0": "(F) MACKINAW",
+    "7.0": "(G) SOMETHING ELSE",
+    "8.0": "CAN'T TELL WHICH IS 1ST CHOICE"
+  },
+  "S199.Q5A": {
+    "0.0": "NO ANSWER OR NO INDICATION OF MORE THAN FIRST CHOICE",
+    "1.0": "(A) JACKET, COMBAT",
+    "2.0": "(B) JACKET, FIELD, 43 (BUSH JACKET)",
+    "3.0": "(C) JACKET, FIELD, O.D.",
+    "4.0": "(D) JACKET, PILE",
+    "5.0": "(E) JACKET, FIELD, WOOL (BATTLE JACKET)",
+    "6.0": "(F) MACKINAW",
+    "7.0": "(G) SOMETHING ELSE",
+    "8.0": "MORE THAN ONE CHECKED BUT CAN'T TELL WHICH IS FIRST AND SECOND CHOICE"
+  },
+  "S199.V5B.1": {
+    "1.0": "CHECKED \"A\" AND ANOTHER ITEM",
+    "2.0": "NOT CHOSEN"
+  },
+  "S199.V5B.2": {
+    "1.0": "CHECKED \"B\" AND ANOTHER ITEM 1112",
+    "2.0": "NOT CHOSEN"
+  },
+  "S199.V5B.3": {
+    "1.0": "CHECKED \"C\" AND ANOTHER ITEM 1127",
+    "2.0": "NOT CHOSEN"
+  },
+  "S199.V5B.4": {
+    "1.0": "CHECKED \"D\" AND ANOTHER ITEM 1114",
+    "2.0": "NOT CHOSEN"
+  },
+  "S199.V5B.5": {
+    "1.0": "CHECKED \"E\" AND ANOTHER ITEM 1125",
+    "2.0": "NOT CHOSEN"
+  },
+  "S199.V5B.6": {
+    "1.0": "CHECKED \"F\" AND ANOTHER ITEM 1126",
+    "2.0": "NOT CHOSEN"
+  },
+  "S199.V5B.7": {
+    "1.0": "CHECKED \"G\" AND ANOTHER ITEM 1128",
+    "2.0": "NOT CHOSEN"
+  },
+  "S199.V5B.8": {
+    "1.0": "QUESTIONS 4 AND 5 ANSWERED CORRECTLY, OR NO INDETERMINATE ANSWERS AS TO FIRST AND SECOND CHOICE 27",
+    "2.0": "NOT CHOSEN"
+  },
+  "S199.V5B.9": {
+    "1.0": "NO ANSWER 1126",
+    "2.0": "NOT CHOSEN"
+  },
+  "S199.Q6": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, HAVE WORN THIS TYPE SWEATER",
+    "2.0": "HAVE WORN OTHER KINDS OF SWEATERS BUT NOT THIS TYPE",
+    "3.0": "NO, HAVE NOT WORN ANY KIND OF SWEATER IN COMBAT"
+  },
+  "S199.Q7": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, NEED A SWEATER OF THIS TYPE",
+    "2.0": "NEED SOME OTHER TYPE OF SWEATER",
+    "3.0": "NO, DON'T NEED A SWEATER FOR COMBAT WEAR"
+  },
+  "S199.Q8.1": {
+    "0.0": "NO ANSWER",
+    "1.0": "(A) JACKET, COMBAT",
+    "2.0": "(B) JACKET, FIELD 43 (BUSH JACKET)",
+    "3.0": "(C) JACKET, FIELD, O.D.",
+    "4.0": "(D) JACKET, PILE",
+    "5.0": "(E) JACKET, FIELD, WOOL (BATTLE JACKET)",
+    "6.0": "(F) MACKINAW",
+    "7.0": "(G) SOMETHING ELSE",
+    "8.0": "SWEATER"
+  },
+  "S199.Q8.2": {
+    "0.0": "NO ANSWER",
+    "1.0": "(A) JACKET, COMBAT",
+    "2.0": "(B) JACKET, FIELD 43 (BUSH JACKET)",
+    "3.0": "(C) JACKET, FIELD, O.D.",
+    "4.0": "(D) JACKET, PILE",
+    "5.0": "(E) JACKET, FIELD, WOOL (BATTLE JACKET)",
+    "6.0": "(F) MACKINAW",
+    "7.0": "(G) SOMETHING ELSE",
+    "8.0": "SWEATER"
+  },
+  "S199.Q8.3": {
+    "0.0": "NO ANSWER",
+    "1.0": "(A) JACKET, COMBAT",
+    "2.0": "(B) JACKET, FIELD 43 (BUSH JACKET)",
+    "3.0": "(C) JACKET, FIELD, O.D.",
+    "4.0": "(D) JACKET, PILE",
+    "5.0": "(E) JACKET, FIELD, WOOL (BATTLE JACKET)",
+    "6.0": "(F) MACKINAW",
+    "7.0": "(G) SOMETHING ELSE",
+    "8.0": "SWEATER"
+  },
+  "S199.Q9.1": {
+    "0.0": "NO ANSWER",
+    "1.0": "(A) JACKET, COMBAT",
+    "2.0": "(B) JACKET, FIELD 43 (BUSH JACKET)",
+    "3.0": "(C) JACKET, FIELD, O.D.",
+    "4.0": "(D) JACKET, PILE",
+    "5.0": "(E) JACKET, FIELD, WOOL (BATTLE JACKET)",
+    "6.0": "(F) MACKINAW",
+    "7.0": "(G) SOMETHING ELSE",
+    "8.0": "SWEATER"
+  },
+  "S199.Q9.2": {
+    "0.0": "NO ANSWER'",
+    "1.0": "(A) JACKET, COMBAT",
+    "2.0": "(B) JACKET, FIELD 43 (BUSH JACKET)",
+    "3.0": "(C) JACKET, FIELD, O.D.",
+    "4.0": "(D) JACKET, PILE",
+    "5.0": "(E) JACKET, FIELD, WOOL (BATTLE JACKET)",
+    "6.0": "(F) MACKINAW",
+    "7.0": "(G) SOMETHING ELSE",
+    "8.0": "SWEATER"
+  },
+  "S199.Q9.3": {
+    "0.0": "NO ANSWER",
+    "1.0": "(A) JACKET, COMBAT",
+    "2.0": "(B) JACKET, FIELD 43 (BUSH JACKET)",
+    "3.0": "(C) JACKET, FIELD, O.D.",
+    "4.0": "(D) JACKET, PILE",
+    "5.0": "(E) JACKET, FIELD, WOOL (BATTLE JACKET)",
+    "6.0": "(F) MACKINAW",
+    "7.0": "(G) SOMETHING ELSE",
+    "8.0": "SWEATER"
+  },
+  "S199.Q10": {
+    "0.0": "NO ANSWER",
+    "1.0": "(A) TROUSERS, WOOL (REGULAR OD)",
+    "2.0": "(B) TROUSERS, FIELD, WOOL (WITH BUTTON TAB AT THE BOTTOM)",
+    "3.0": "(C) TROUSERS, FIELD, COTTON (WINDPROOF OUTER TROUSERS)",
+    "4.0": "(D) TROUSERS, COMBAT, WINTER",
+    "5.0": "(E) TROUSERS, RAIN (RUBBERIZED)",
+    "6.0": "(F) SOMETHING ELSE",
+    "7.0": "CAN'T TELL WHICH IS 1ST CHOICE"
+  },
+  "S199.Q11A": {
+    "0.0": "NO ANSWER",
+    "1.0": "(A) TROUSERS, WOOL (REGULAR OD)",
+    "2.0": "(B) TROUSERS, FIELD, WOOL (WITH BUTTON TAB AT THE BOTTOM)",
+    "3.0": "(C) TROUSERS, FIELD, COTTON (WINDPROOF OUTER TROUSERS)",
+    "4.0": "(D) TROUSERS, COMBAT, WINTER",
+    "5.0": "(E) TROUSERS, RAIN (RUBBERIZED)",
+    "6.0": "(F) SOMETHING ELSE",
+    "7.0": "CAN'T TELL WHICH IS 1ST CHOICE"
+  },
+  "S199.V11B.1": {
+    "1.0": "CHECKED \"A\" AND ANOTHER ITEM",
+    "2.0": "NOT CHOSEN"
+  },
+  "S199.V11B.2": {
+    "1.0": "CHECKED \"B\" AND ANOTHER ITEM 1119",
+    "2.0": "NOT CHOSEN"
+  },
+  "S199.V11B.3": {
+    "1.0": "CHECKED \"C\" AND ANOTHER ITEM 1120",
+    "2.0": "NOT CHOSEN"
+  },
+  "S199.V11B.4": {
+    "1.0": "CHECKED \"D\" AND ANOTHER ITEM 1107",
+    "2.0": "NOT CHOSEN"
+  },
+  "S199.V11B.5": {
+    "1.0": "CHECKED \"E\" AND ANOTHER ITEM 1126",
+    "2.0": "NOT CHOSEN"
+  },
+  "S199.V11B.6": {
+    "1.0": "CHECKED \"F\" AND ANOTHER ITEM 1128",
+    "2.0": "NOT CHOSEN"
+  },
+  "S199.V11B.7": {
+    "1.0": "QUESTIONS 10 AND 11 WERE ANSWERED CORRECTLY OR NO INDETERMINATE ANSWERS AS TO FIRST AND SECOND CHOICE 42",
+    "2.0": "NOT CHOSEN"
+  },
+  "S199.V11B.8": {
+    "1.0": "NO ANSWER 1113",
+    "2.0": "NOT CHOSEN"
+  },
+  "S199.Q12.1": {
+    "0.0": "NO ANSWER",
+    "1.0": "TROUSERS, WOOL (REGULAR O.D.)",
+    "2.0": "TROUSERS, FIELD, WOOL (WITH BUTTON TAB)",
+    "3.0": "TROUSERS, FIELD, COTTON (WINDPROOF OUTER TROUSERS)",
+    "4.0": "TROUSERS, COMBAT, WINTER",
+    "5.0": "TROUSERS, RAIN (RUBBERIZED)",
+    "6.0": "SOMETHING ELSE"
+  },
+  "S199.Q12.2": {
+    "0.0": "NO ANSWER",
+    "1.0": "TROUSERS, WOOL (REGULAR O.D.) 37",
+    "2.0": "TROUSERS, FIELD, WOOL (WITH BUTTON TAB) 146",
+    "3.0": "TROUSERS, FIELD, COTTON (WINDPROOF OUTER TROUSERS) 646",
+    "4.0": "TROUSERS, COMBAT, WINTER 39",
+    "5.0": "TROUSERS, RAIN (RUBBERIZED) 4",
+    "6.0": "SOMETHING ELSE 199"
+  },
+  "S199.Q13.1": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONE WOOL OR WOOL, NUMBER NOT SPECIFIED (COTTON NOT MENTIONED)",
+    "2.0": "TWO OR MORE WOOL",
+    "3.0": "COTTON (WOOL NOT MENTIONED)",
+    "4.0": "TWO COTTON",
+    "5.0": "COTTON AND WOOL",
+    "6.0": "COTTON AND TWO WOOL",
+    "7.0": "ONE ITEM, TYPE NOT MENTIONED",
+    "8.0": "TWO ITEMS, TYPE NOT MENTIONED"
+  },
+  "S199.Q13.2": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONE WOOL OR WOOL, NUMBER NOT SPECIFIED (COTTON NOT MENTIONED) 52",
+    "2.0": "TWO OR MORE WOOL 84",
+    "3.0": "COTTON (WOOL NOT MENTIONED) 0",
+    "4.0": "TWO COTTON 153",
+    "5.0": "COTTON AND WOOL 3",
+    "6.0": "COTTON AND TWO WOOL 175",
+    "7.0": "ONE ITEM, TYPE NOT MENTIONED 25",
+    "8.0": "TWO ITEMS, TYPE NOT MENTIONED 38"
+  },
+  "S199.Q13.3": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONE WOOL OR WOOL, NUMBER NOT SPECIFIED (COTTON NOT MENTIONED) 41",
+    "2.0": "TWO OR MORE WOOL 3",
+    "3.0": "COTTON (WOOL NOT MENTIONED)",
+    "4.0": "TWO COTTON 11",
+    "5.0": "COTTON AND WOOL 3",
+    "6.0": "COTTON AND TWO WOOL 185",
+    "7.0": "ONE ITEM, TYPE NOT MENTIONED 34",
+    "8.0": "TWO ITEMS, TYPE NOT MENTIONED 79"
+  },
+  "S199.Q13.4": {
+    "0.0": "NO ANSWER",
+    "1.0": "JACKET COMBAT 10",
+    "2.0": "JACKET, FIELD 43 (BUSH JACKET) 6",
+    "3.0": "JACKET, FIELD, O.D. 0",
+    "4.0": "JACKET, PILE 1",
+    "5.0": "JACKET, FIELD, WOOL 0",
+    "6.0": "MACKINAW 5",
+    "7.0": "FIELD JACKET (KIND NOT SPECIFIED) 556",
+    "8.0": "\"HIGH NECK SWEATER\" OR \"COMBAT SWEATER\" 11",
+    "9.0": "SLEEVELESS SWEATER 491",
+    "10.0": "SWEATER (TYPE NOT SPECIFIED) 6",
+    "11.0": "OTHER 31"
+  },
+  "S199.Q13.5": {
+    "0.0": "NO ANSWER",
+    "1.0": "JACKET COMBAT 339",
+    "2.0": "JACKET, FIELD 43 (BUSH JACKET) 140",
+    "3.0": "JACKET, FIELD, O.D. 21",
+    "4.0": "JACKET, PILE 5",
+    "5.0": "JACKET, FIELD, WOOL 21",
+    "6.0": "MACKINAW 229",
+    "7.0": "FIELD JACKET (KIND NOT SPECIFIED) 2",
+    "8.0": "\"HIGH NECK SWEATER\" OR \"COMBAT SWEATER\" 16",
+    "9.0": "SLEEVELESS SWEATER 9",
+    "10.0": "SWEATER (TYPE NOT SPECIFIED) 5",
+    "11.0": "OTHER 140"
+  },
+  "S199.Q13.6": {
+    "0.0": "NO ANSWER",
+    "1.0": "JACKET COMBAT 54",
+    "2.0": "JACKET, FIELD 43 (BUSH JACKET) 14",
+    "3.0": "JACKET, FIELD, O.D. 34",
+    "4.0": "JACKET, PILE 3",
+    "5.0": "JACKET, FIELD, WOOL 36",
+    "6.0": "MACKINAW 23",
+    "7.0": "FIELD JACKET (KIND NOT SPECIFIED) 2",
+    "8.0": "\"HIGH NECK SWEATER\" OR \"COMBAT SWEATER\" 1",
+    "9.0": "SLEEVELESS SWEATER 14",
+    "10.0": "SWEATER (TYPE NOT SPECIFIED) 17",
+    "11.0": "OTHER 911"
+  },
+  "S199.Q13.7": {
+    "0.0": "NO ANSWER",
+    "1.0": "TROUSERS, WOOL (REGULAR O.D.) 10",
+    "2.0": "TROUSERS, FIELD, WOOL (WITH BUTTON TAB) 21",
+    "3.0": "TROUSERS, FIELD, COTTON 62",
+    "4.0": "TROUSERS, COMBAT, WINTER 0",
+    "5.0": "TROUSERS, RAIN (RUBBERIZED)",
+    "7.0": "FIELD TROUSERS (WOOL OR COTTON NOT SPECIFIED) 4",
+    "8.0": "FATIGUES 0",
+    "9.0": "OTHER 47",
+    "16.0": "WOOL TROUSERS (TYPE NOT SPECIFIED) 71"
+  },
+  "S199.Q13.8": {
+    "0.0": "NO ANSWER",
+    "1.0": "TROUSERS, WOOL (REGULAR O.D.) 3",
+    "2.0": "TROUSERS, FIELD, WOOL (WITH BUTTON TAB) 133",
+    "3.0": "TROUSERS, FIELD, COTTON",
+    "5.0": "TROUSERS, RAIN (RUBBERIZED) 8",
+    "6.0": "WOOL TROUSERS (TYPE NOT SPECIFIED) 59",
+    "7.0": "FIELD TROUSERS (WOOL OR COTTON NOT SPECIFIED) 30",
+    "8.0": "FATIGUES 1",
+    "9.0": "OTHER 580",
+    "234.0": "TROUSERS, COMBAT, WINTER 3"
+  },
+  "S199.Q13.9": {
+    "0.0": "NO ANSWER",
+    "1.0": "TROUSERS, WOOL (REGULAR O.D.) 1",
+    "2.0": "TROUSERS, FIELD, WOOL (WITH BUTTON TAB) 6",
+    "3.0": "TROUSERS, FIELD, COTTON 28",
+    "4.0": "TROUSERS, COMBAT, WINTER 0",
+    "5.0": "TROUSERS, RAIN (RUBBERIZED) 0",
+    "6.0": "WOOL TROUSERS (TYPE NOT SPECIFIED) 0",
+    "7.0": "FIELD TROUSERS (WOOL OR COTTON NOT SPECIFIED) 7",
+    "8.0": "FATIGUES 0",
+    "9.0": "OTHER 1085"
+  },
+  "S199.Q13.10": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "OVERCOAT AND RAINCOAT 504",
+    "2.0": "OVERCOAT ONLY 52",
+    "3.0": "RAINCOAT ONLY 48",
+    "4.0": "ONE (NO INDICATION WHICH) 504",
+    "5.0": "NO ANSWER 1"
+  },
+  "S199.Q13.11": {
+    "0.0": "NO ANSWER",
+    "1.0": "SCARF ONLY 111",
+    "2.0": "HOOD ONLY 33",
+    "3.0": "SOMETHING ELSE ONLY 154",
+    "4.0": "SCARF AND HOOD ONLY 61",
+    "5.0": "SCARF, HOOD AND OTHER ONLY 62",
+    "6.0": "SCARF AND OTHER (NO HOOD) 27",
+    "7.0": "HOOD AND OTHER (NO SCARF) 19",
+    "8.0": "SCARF AND WOOL HAT 29",
+    "9.0": "WOOL CAP 14",
+    "10.0": "ITEMS FOR HANDS AND FEET 450"
+  },
+  "S199.Q16.1": {
+    "1.0": "JACKET OF SOME TYPE",
+    "2.0": "NOT CHOSEN"
+  },
+  "S199.Q16.2": {
+    "1.0": "TROUSERS OF SOME TYPE 1044",
+    "2.0": "NOT CHOSEN"
+  },
+  "S199.Q16.3": {
+    "1.0": "OVERSHOES AND ARCTICS 1077",
+    "2.0": "NOT CHOSEN"
+  },
+  "S199.Q16.4": {
+    "1.0": "SHOES (OTHER THAN OVERSHOES) 906",
+    "2.0": "NOT CHOSEN"
+  },
+  "S199.Q16.5": {
+    "1.0": "GLOVES OR MITTENS (TRIGGER FINGER MENTIONED) 1111",
+    "2.0": "NOT CHOSEN"
+  },
+  "S199.Q16.6": {
+    "1.0": "GLOVES OR MITTENS (NO MENTION OF TRIGGER FINGER) 844",
+    "2.0": "NOT CHOSEN"
+  },
+  "S199.Q16.7": {
+    "1.0": "LINED HOOD 1116",
+    "2.0": "NOT CHOSEN"
+  },
+  "S199.Q16.8": {
+    "1.0": "HOODS - NO MENTION OF LINING 968",
+    "2.0": "NOT CHOSEN"
+  },
+  "S199.Q16.9": {
+    "1.0": "SOCKS OR WOOL SOCKS OR BETTER FITTING SOCKS 1039",
+    "2.0": "NOT CHOSEN"
+  },
+  "S199.Q16.10": {
+    "1.0": "OVERCOAT OF SOME TYPE 1110",
+    "2.0": "NOT CHOSEN"
+  },
+  "S199.Q16.11": {
+    "1.0": "OTHER ITEM OR ITEMS 989",
+    "2.0": "NOT CHOSEN"
+  },
+  "S199.Q16.12": {
+    "1.0": "NO ANSWER 377",
+    "NaN": "COL. 80 NOT USED. CARD 2",
+    "2.0": "NOT CHOSEN"
+  },
+  "S199.V17": {
+    "1.0": "1ST DIVISION",
+    "2.0": "29TH DIVISION",
+    "3.0": "3RD ARMORED",
+    "4.0": "14TH ARMORED",
+    "5.0": "82ND AIRBORNE",
+    "6.0": "9TH INFANTRY DIVISION"
+  },
+  "S199.V18": {
+    "1.0": "HEAVY WEAPONS",
+    "2.0": "RIFLE",
+    "3.0": "TANKS",
+    "4.0": "ARTILLERY",
+    "5.0": "GLIDER INFANTRY",
+    "6.0": "PARA. INFANTRY",
+    "7.0": "RECON. PLATOON",
+    "8.0": "INFANTRY - 1ST DIV.",
+    "9.0": "OTHER",
+    "10.0": "MIXED GROUPS"
+  },
+  "S199.V20": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ENLISTED MEN",
+    "2.0": "OFFICERS"
+  }
+}

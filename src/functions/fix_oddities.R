@@ -5,11 +5,11 @@ fix_apostrophes <- function(str_v) {
 fix_asterisks <- function(str_v) {
   q_lns <- str_which(str_v, "^Q")
   for (ln in q_lns) {
-    str_v[ln] <- str_replace_all(str_v[ln], "[a-zA-Z ]\\*( |\\.|\\))", "?\\1")
+    str_v[ln] <- str_replace_all(str_v[ln], "([a-zA-Z ])\\*( |\\.|\\))", "\\1?\\2")
   }
   v_lns <- str_which(str_v, "^V")
   for (ln in v_lns) {
-    str_v[ln] <- str_replace_all(str_v[ln], "[a-zA-Z ]\\*( |\\.|\\))", "\\1")
+    str_v[ln] <- str_replace_all(str_v[ln], "([a-zA-Z ])\\*( |\\.|\\))", "\\1\\2")
   }
   str_v  
 }

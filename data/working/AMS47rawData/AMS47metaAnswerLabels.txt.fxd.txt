@@ -1,0 +1,518 @@
+{
+  "S47.Q1": {
+    "0.0": "NO ANSWER",
+    "1.0": "1943",
+    "2.0": "DECEMBER 1942",
+    "3.0": "NOVEMBER 1942",
+    "4.0": "OCTOBER 1942",
+    "5.0": "SEPTEMBER 1942",
+    "6.0": "PRIOR TO SEPTEMBER 1942"
+  },
+  "S47.Q2": {
+    "0.0": "NO ANSWER",
+    "1.0": "I WAS DRAFTED",
+    "2.0": "I VOLUNTEERED",
+    "3.0": "I WAS IN THE NATIONAL GUARD"
+  },
+  "S47.Q3": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "NO",
+    "2.0": "YES (DEPENDENTS WHO NEEDED MY SUPPORT, THE IMPORTANCE OF MY JOB, MY PHYSICAL CONDITION WAS NOT GOOD, OTHER REASONS)",
+    "3.0": "NO ANSWER"
+  },
+  "S47.Q4": {
+    "0.0": "NO ANSWER",
+    "1.0": "SINGLE",
+    "2.0": "MARRIED",
+    "3.0": "DIVORCED",
+    "4.0": "SEPARATED",
+    "5.0": "WIDOWED"
+  },
+  "S47.Q5A": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN A YEAR OR JUST \"1943\" - NOT OVER A YEAR",
+    "2.0": "ONE YEAR - ABOUT A YEAR",
+    "3.0": "OVER ONE YEAR BUT LESS THAN TWO, OR JUST \"1944\" - AT LEAST A YEAR",
+    "4.0": "TWO YEARS",
+    "5.0": "OVER TWO YEARS BUT LESS THAN THREE, OR JUST \"1945\" - AT LEAST TWO YEARS",
+    "6.0": "THREE YEARS",
+    "7.0": "OVER THREE YEARS",
+    "8.0": "INDEFINITE ANSWER INDICATING A SHORT TIME - E.G. \"NOT LONG\"",
+    "9.0": "INDEFINITE ANSWER INDICATING A LONG TIME - E.G. \"SEVERAL YEARS YET\"",
+    "10.0": "INDEFINITE ANSWER WITH NO INDICATION OF TIME - E.G. \"WILL LAST UNTIL WE STOP IT\"",
+    "11.0": "DON'T KNOW, UNDECIDED"
+  },
+  "S47.Q5B": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN A YEAR OR JUST \"1943\" - NOT OVER A YEAR",
+    "2.0": "ONE YEAR - ABOUT A YEAR",
+    "3.0": "OVER ONE YEAR BUT LESS THAN TWO, OR JUST \"1944\" - AT LEAST A YEAR",
+    "4.0": "TWO YEARS",
+    "5.0": "OVER TWO YEARS BUT LESS THAN THREE, OR JUST \"1945\" - AT LEAST TWO YEARS",
+    "6.0": "THREE YEARS",
+    "7.0": "OVER THREE YEARS",
+    "8.0": "INDEFINITE ANSWER INDICATING A SHORT TIME - E.G. \"NOT LONG\"",
+    "9.0": "INDEFINITE ANSWER INDICATING A LONG TIME - E.G. \"SEVERAL YEARS YET\"",
+    "10.0": "INDEFINITE ANSWER WITH NO INDICATION OF TIME - E.G. \"WILL LAST UNTIL WE STOP IT\"",
+    "11.0": "DON'T KNOW, UNDECIDED"
+  },
+  "S47.Q6": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "0-4 DAYS",
+    "2.0": "5-7 DAYS",
+    "3.0": "8-9 DAYS",
+    "4.0": "10-14 DAYS",
+    "5.0": "15-21 DAYS",
+    "6.0": "22-30 DAYS",
+    "7.0": "OVER 30 DAYS",
+    "8.0": "NO ANSWER"
+  },
+  "S47.Q7": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, VERY WELL",
+    "2.0": "YES, FAIRLY WELL",
+    "3.0": "NO, POORLY",
+    "4.0": "NO, VERY POORLY",
+    "5.0": "UNDECIDED"
+  },
+  "S47.Q8": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT IS GOOD QUALITY, AND WELL PREPARED",
+    "2.0": "IT IS GOOD QUALITY, BUT POORLY PREPARED",
+    "3.0": "IT IS POOR QUALITY, BUT WELL PREPARED",
+    "4.0": "IT IS POOR QUALITY, AND POORLY PREPARED",
+    "5.0": "UNDECIDED"
+  },
+  "S47.Q9": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT IS VERY GOOD",
+    "2.0": "IT IS FAIRLY GOOD",
+    "3.0": "IT IS RATHER POOR",
+    "4.0": "IT IS VERY POOR",
+    "5.0": "UNDECIDED"
+  },
+  "S47.Q10": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, VERY MUCH",
+    "2.0": "YES, A LITTLE",
+    "3.0": "NO, NOT PARTICULARLY",
+    "4.0": "NO, NONE AT ALL",
+    "5.0": "UNDECIDED"
+  },
+  "S47.Q11": {
+    "0.0": "NO ANSWER",
+    "1.0": "SATISFIED AND IN GOOD SPIRITS",
+    "2.0": "I AM UP HALF THE TIME AND DOWN HALF THE TIME",
+    "3.0": "DISSATISFIED AND IN LOW SPIRITS"
+  },
+  "S47.Q12": {
+    "0.0": "NO ANSWER",
+    "1.0": "THERE IS NOT MUCH TO IT",
+    "2.0": "THERE MAY BE SOMETHING TO IT, BUT I'M STILL DOUBTFUL",
+    "3.0": "THERE'S A LOT TO IT",
+    "4.0": "NO OPINION"
+  },
+  "S47.Q13": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, TOO MANY SEEM USELESS",
+    "2.0": "NO, I USED TO THINK SO, BUT DON'T NOW",
+    "3.0": "NO, I NEVER THOUGHT SO",
+    "4.0": "NO OPINION"
+  },
+  "S47.Q14": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "A VERY GOOD CHANCE",
+    "2.0": "A FAIRLY GOOD CHANCE",
+    "3.0": "NOT MUCH OF A CHANCE",
+    "4.0": "NO CHANCE AT ALL",
+    "5.0": "UNDECIDED",
+    "6.0": "NO ANSWER"
+  },
+  "S47.Q15": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN 6TH GRADE",
+    "2.0": "FINISHED 6TH GRADE",
+    "3.0": "FINISHED 7TH GRADE",
+    "4.0": "FINISHED 8TH GRADE",
+    "5.0": "SOME HIGH SCHOOL",
+    "6.0": "GRADUATED FROM HIGH SCHOOL",
+    "7.0": "SOME COLLEGE BUT DID NOT FINISH",
+    "8.0": "GRADUATED FROM COLLEGE"
+  },
+  "S47.Q16": {
+    "0.0": "NO ANSWER",
+    "1.0": "I HAVE A PRETTY GOOD TIME",
+    "2.0": "IT IS ABOUT FIFTY-FIFTY",
+    "3.0": "I HAVE A PRETTY ROTTEN TIME"
+  },
+  "S47.Q17": {
+    "0.0": "NO ANSWER",
+    "1.0": "I FEEL PRETTY SURE I CAN MAKE GOOD",
+    "2.0": "I AM NOT SO SURE I CAN MAKE GOOD",
+    "3.0": "UNDECIDED"
+  },
+  "S47.Q18": {
+    "0.0": "NO ANSWER",
+    "1.0": "I AM HARDLY EVER WORRIED AND UPSET",
+    "2.0": "I AM SOMETIMES WORRIED AND UPSET",
+    "3.0": "I AM OFTEN WORRIED AND UPSET"
+  },
+  "S47.Q19": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "NO, I NEVER HAD A JOB THAT REALLY SUITED ME",
+    "2.0": "YES, I HAVE HAD A JOB I REALLY LIKED",
+    "3.0": "NO ANSWER"
+  },
+  "S47.Q20": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, I WOULD LIKE IT VERY MUCH",
+    "2.0": "YES, I MIGHT LIKE IT, BUT I'M NOT SURE",
+    "3.0": "NO, I DON'T THINK I WOULD LIKE IT",
+    "4.0": "NO, I WOULD NOT LIKE IT AT ALL",
+    "5.0": "NO OPINION"
+  },
+  "S47.Q21": {
+    "0.0": "NO ANSWER",
+    "1.0": "AS A SOLDIER",
+    "2.0": "AS A WAR WORKER",
+    "3.0": "UNDECIDED"
+  },
+  "S47.Q22": {
+    "0.0": "NO ANSWER",
+    "1.0": "IN A COMBAT OUTFIT OVERSEAS",
+    "2.0": "IN A NON-COMBAT OUTFIT OVERSEAS",
+    "3.0": "IN AN OUTFIT THAT WILL STAY IN THE UNITED STATES"
+  },
+  "S47.Q23": {
+    "0.0": "NO ANSWER",
+    "1.0": "I'M READY TO GO AND I WANT TO GET INTO THE REAL FIGHTING SOON",
+    "2.0": "I'D LIKE TO GET IN ON THE FIGHTING BEFORE IT'S OVER BUT I DON'T THINK I'M READY YET",
+    "3.0": "I HOPE I WON'T HAVE TO GO, BUT IF I DO, I THINK I'LL DO ALL RIGHT",
+    "4.0": "I HOPE I WON'T HAVE TO GO, BECAUSE I DON'T THINK I'LL EVER BE GOOD AS A FIGHTER",
+    "5.0": "NONE OF THE ABOVE FITS ME, TOO OLD FOR COMBAT DUTY",
+    "6.0": "NONE OF THE ABOVE FITS ME, NOT PHYSICALLY FIT FOR COMBAT DUTY",
+    "7.0": "NONE OF THE ABOVE FITS ME. SHOULD BE IN WAR INDUSTRY",
+    "8.0": "CHECK \"1\", BUT QUALIFIES BY ASKING FOR FURLOUGH, WIFE'S PERMISSION, ETC.",
+    "9.0": "WOULD PREFER TO BE INSTRUCTOR",
+    "10.0": "OTHER COMMENTS INDICATING THAT MAN DOES NOT WISH COMBAT",
+    "11.0": "ALL OTHER"
+  },
+  "S47.Q24": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, I AM LIMITED SERVICE",
+    "2.0": "NO, I AM NOT LIMITED SERVICE",
+    "3.0": "DON'T KNOW"
+  },
+  "S47.Q25": {
+    "0.0": "NO ANSWER",
+    "1.0": "19 YEARS OR YOUNGER",
+    "2.0": "20 YEARS",
+    "3.0": "21 TO 24",
+    "4.0": "25 TO 27",
+    "5.0": "28 TO 29",
+    "6.0": "30 TO 34",
+    "7.0": "35 TO 37",
+    "8.0": "38 YEARS OR OLDER"
+  },
+  "S47.Q26": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "IT WILL NOT BE VERY HARD",
+    "2.0": "IT WILL BE A TOUGH JOB BUT OUR LOSSES SHOULDN'T BE TOO HEAVY",
+    "3.0": "IT WILL BE A VERY TOUGH JOB, WITH HEAVY LOSSES OF MEN AND MATERIALS",
+    "4.0": "NO ANSWER"
+  },
+  "S47.Q27": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "IT WILL NOT BE VERY HARD",
+    "2.0": "IT WILL BE A TOUGH JOB BUT OUR LOSSES SHOULDN'T BE TOO HEAVY",
+    "3.0": "IT WILL BE A VERY TOUGH JOB, WITH HEAVY LOSSES OF MEN AND MATERIALS",
+    "4.0": "NO ANSWER"
+  },
+  "S47.Q28": {
+    "0.0": "NO ANSWER",
+    "1.0": "I HAVE WONDERED A GREAT DEAL ABOUT IT",
+    "2.0": "I HAVE WONDERED FAIRLY OFTEN ABOUT IT",
+    "3.0": "I HAVE HARDLY EVER WONDERED ABOUT IT",
+    "4.0": "I HAVE NEVER WONDERED ABOUT IT"
+  },
+  "S47.Q29": {
+    "0.0": "NO ANSWER",
+    "1.0": "I HAVE WONDERED A GREAT DEAL ABOUT IT",
+    "2.0": "I HAVE WONDERED FAIRLY OFTEN ABOUT IT",
+    "3.0": "I HAVE HARDLY EVER WONDERED ABOUT IT",
+    "4.0": "I HAVE NEVER WONDERED ABOUT IT"
+  },
+  "S47.Q30": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I HAVE WONDERED A GREAT DEAL ABOUT IT",
+    "2.0": "I HAVE WONDERED FAIRLY OFTEN ABOUT IT",
+    "3.0": "I HAVE HARDLY EVER WONDERED ABOUT IT",
+    "4.0": "I HAVE NEVER WONDERED ABOUT IT",
+    "5.0": "NO ANSWER"
+  },
+  "S47.Q31": {
+    "0.0": "NO ANSWER",
+    "1.0": "I HAVE WONDERED A GREAT DEAL ABOUT IT",
+    "2.0": "I HAVE WONDERED FAIRLY OFTEN ABOUT IT",
+    "3.0": "I HAVE HARDLY EVER WONDERED ABOUT IT",
+    "4.0": "I HAVE NEVER WONDERED ABOUT IT"
+  },
+  "S47.Q32": {
+    "0.0": "NO ANSWER",
+    "1.0": "I HAVE WONDERED A GREAT DEAL ABOUT IT",
+    "2.0": "I HAVE WONDERED FAIRLY OFTEN ABOUT IT",
+    "3.0": "I HAVE HARDLY EVER WONDERED ABOUT IT",
+    "4.0": "I HAVE NEVER WONDERED ABOUT IT"
+  },
+  "S47.Q33": {
+    "0.0": "NO ANSWER",
+    "1.0": "I HAVE WONDERED A GREAT DEAL ABOUT IT",
+    "2.0": "I HAVE WONDERED FAIRLY OFTEN ABOUT IT",
+    "3.0": "I HAVE HARDLY EVER WONDERED ABOUT IT",
+    "4.0": "I HAVE NEVER WONDERED ABOUT IT"
+  },
+  "S47.Q34": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALMOST ALL OF THEM ARE",
+    "2.0": "A GOOD MANY ARE",
+    "3.0": "SOME, BUT NOT MANY ARE",
+    "4.0": "HARDLY ANY ARE",
+    "5.0": "NO OPINION"
+  },
+  "S47.Q35": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALMOST ALL OF THEM ARE",
+    "2.0": "A GOOD MANY ARE",
+    "3.0": "SOME, BUT NOT MANY ARE",
+    "4.0": "HARDLY ANY ARE",
+    "5.0": "NO OPINION"
+  },
+  "S47.Q36": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ALMOST ALL OF THEM ARE",
+    "2.0": "A GOOD MANY ARE",
+    "3.0": "SOME, BUT NOT MANY ARE",
+    "4.0": "HARDLY ANY ARE",
+    "5.0": "NO OPINION",
+    "6.0": "NO ANSWER"
+  },
+  "S47.Q38": {
+    "0.0": "NO ANSWER",
+    "1.0": "ON A FARM OR IN THE COUNTRY",
+    "2.0": "IN A SMALL TOWN (FEWER THAN 2,500 PEOPLE)",
+    "3.0": "IN A TOWN (WITH BETWEEN 2,500 AND 25,000 PEOPLE)",
+    "4.0": "IN A CITY (BETWEEN 25,000 AND 100,000 PEOPLE)",
+    "5.0": "IN A LARGE CITY (MORE THAN 100,000 PEOPLE)"
+  },
+  "S47.Q39J": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "AGREE",
+    "2.0": "IN DOUBT",
+    "NaN": "DOCUMENTATION FOR COL. 52 \\(Q.39\\) NOT PROVIDED BY SURVEY ORGANIZATION. SEE ALSO V.5",
+    "3.0": "DISAGREE",
+    "4.0": "NO ANSWER"
+  },
+  "S47.Q40": {
+    "0.0": "NO ANSWER",
+    "1.0": "ENGLAND",
+    "2.0": "RUSSIA",
+    "3.0": "CHINA",
+    "4.0": "UNITED STATES",
+    "5.0": "DON'T KNOW"
+  },
+  "S47.Q40A": {
+    "0.0": "NO ANSWER",
+    "1.0": "ENGLAND",
+    "2.0": "RUSSIA",
+    "3.0": "CHINA",
+    "4.0": "UNITED STATES",
+    "5.0": "DON'T KNOW"
+  },
+  "S47.Q41": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY GOOD FIGHTERS",
+    "2.0": "GOOD FIGHTERS",
+    "3.0": "FAIR FIGHTERS",
+    "4.0": "POOR FIGHTERS",
+    "5.0": "DON'T KNOW"
+  },
+  "S47.Q42": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY GOOD FIGHTERS",
+    "2.0": "GOOD FIGHTERS",
+    "3.0": "FAIR FIGHTERS",
+    "4.0": "POOR FIGHTERS",
+    "5.0": "DON'T KNOW"
+  },
+  "S47.Q43A": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY GOOD",
+    "2.0": "GOOD",
+    "3.0": "FAIR",
+    "4.0": "POOR",
+    "5.0": "DON'T KNOW"
+  },
+  "S47.Q43B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY GOOD",
+    "2.0": "GOOD",
+    "3.0": "FAIR",
+    "4.0": "POOR",
+    "5.0": "DON'T KNOW"
+  },
+  "S47.Q43C": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY GOOD",
+    "2.0": "GOOD",
+    "3.0": "FAIR",
+    "4.0": "POOR",
+    "5.0": "DON'T KNOW"
+  },
+  "S47.Q44": {
+    "0.0": "NO ANSWER",
+    "1.0": "WILL COOPERATE",
+    "2.0": "WILL NOT",
+    "3.0": "DON'T KNOW"
+  },
+  "S47.Q45": {
+    "0.0": "NO ANSWER",
+    "1.0": "WILL COOPERATE",
+    "2.0": "WILL NOT",
+    "3.0": "DON'T KNOW"
+  },
+  "S47.Q46": {
+    "0.0": "NO ANSWER",
+    "1.0": "WILL COOPERATE",
+    "2.0": "WILL NOT",
+    "3.0": "DON'T KNOW"
+  },
+  "S47.Q46A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NO ANSWER",
+    "9.0": "INAPPLICABLE"
+  },
+  "S47.Q46B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ONE DAY - 36 HOURS",
+    "2.0": "TWO DAYS",
+    "3.0": "THREE DAYS",
+    "4.0": "FOUR DAYS",
+    "5.0": "FIVE DAYS",
+    "6.0": "SIX DAYS",
+    "7.0": "SEVEN DAYS",
+    "8.0": "EIGHT DAYS",
+    "9.0": "NINE DAYS",
+    "10.0": "TEN DAYS OR MORE",
+    "98.0": "NO PASS OR NO ANSWER",
+    "99.0": "INAPPLICABLE"
+  },
+  "S47.Q46C": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "APRIL 1943",
+    "2.0": "MARCH 1943",
+    "3.0": "FEBRUARY 1943",
+    "4.0": "JANUARY 1943",
+    "5.0": "DECEMBER 1942",
+    "6.0": "NOVEMBER 1942",
+    "7.0": "OCTOBER 1942",
+    "8.0": "SEPTEMBER 1942",
+    "9.0": "PRIOR TO SEPTEMBER 1942",
+    "98.0": "NO PASS OR NO ANSWER",
+    "99.0": "INAPPLICABLE"
+  },
+  "S47.Q46D": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "APRIL 1943 OR JUST \"APRIL\"",
+    "2.0": "MARCH 1943 OR JUST \"MARCH\"",
+    "3.0": "FEBRUARY 1943",
+    "4.0": "JANUARY 1943",
+    "5.0": "DECEMBER 1942",
+    "6.0": "NOVEMBER 1942",
+    "7.0": "OCTOBER 1942",
+    "8.0": "SEPTEMBER 1942",
+    "9.0": "PRIOR TO SEPTEMBER 1942",
+    "98.0": "NO PAY OR NO ANSWER",
+    "99.0": "INAPPLICABLE"
+  },
+  "S47.Q46E": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "DON'T KNOW OR UNCERTAIN",
+    "4.0": "NO ANSWER",
+    "9.0": "INAPPLICABLE"
+  },
+  "S47.Q47A": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW OR UNCERTAIN",
+    "3.0": "DISAGREE"
+  },
+  "S47.Q47B": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW OR UNCERTAIN",
+    "3.0": "DISAGREE"
+  },
+  "S47.Q47C": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW OR UNCERTAIN",
+    "3.0": "DISAGREE"
+  },
+  "S47.Q47D": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW OR UNCERTAIN",
+    "3.0": "DISAGREE"
+  },
+  "S47.Q47E": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW OR UNCERTAIN",
+    "3.0": "DISAGREE"
+  },
+  "S47.Q47F": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW OR UNCERTAIN",
+    "3.0": "DISAGREE"
+  },
+  "S47.Q47G": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW OR UNCERTAIN",
+    "3.0": "DISAGREE"
+  },
+  "S47.Q47H": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW OR UNCERTAIN",
+    "3.0": "DISAGREE"
+  },
+  "S47.Q48": {
+    "0.0": "NO ANSWER",
+    "1.0": "MOST OF THEM ARE FAIR",
+    "2.0": "ABOUT HALF ARE, HALF ARE NOT",
+    "3.0": "MOST OF THEM ARE NOT FAIR",
+    "4.0": "UNDECIDED"
+  },
+  "S47.Q49": {
+    "0.0": "NO ANSWER",
+    "1.0": "PRIVATE OR PRIVATE FIRST CLASS",
+    "2.0": "CORPORAL OR TECHNICIAN 5TH GRADE",
+    "3.0": "SERGEANT (ANY GRADE) OR TECHNICIAN 3RD OR 4TH GRADE"
+  },
+  "S47.V52": {
+    "0.0": "NO ANSWER",
+    "1.0": "FEBRUARY, MARCH, APRIL 1943",
+    "2.0": "NOVEMBER OR DECEMBER 1942, JANUARY 1943",
+    "3.0": "AUGUST, SEPTEMBER, OCTOBER 1943",
+    "4.0": "MAY, JUNE, JULY 1942",
+    "5.0": "MAY, 1941, APRIL 1942",
+    "6.0": "APRIL 1941 OR BEFORE",
+    "9.0": "INAPPLICABLE"
+  }
+}

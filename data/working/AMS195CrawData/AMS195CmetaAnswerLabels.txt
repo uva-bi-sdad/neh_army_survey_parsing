@@ -1,0 +1,443 @@
+{
+  "FORM": {
+    "1.0": "S-195A",
+    "2.0": "S-195B",
+    "3.0": "S-195C"
+  },
+  "S195C.Q1": {
+    "0.0": "NO ANSWER",
+    "1.0": "PRIVATE",
+    "2.0": "PRIVATE FIRST CLASS",
+    "3.0": "NONCOM (CORPORAL OR ANY GRADE OF SERGEANT OR TECHNICIAN)",
+    "4.0": "SOME OTHER RANK OR GRADE"
+  },
+  "S195C.Q2": {
+    "0.0": "NO ANSWER",
+    "1.0": "19 YEARS OR YOUNGER",
+    "2.0": "20 TO 24 YEARS",
+    "3.0": "25 TO 29 YEARS",
+    "4.0": "30 TO 34 YEARS",
+    "5.0": "35 YEARS OR OLDER"
+  },
+  "S195C.Q3": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN 6TH GRADE",
+    "2.0": "FINISHED 6TH GRADE",
+    "3.0": "FINISHED 7TH GRADE",
+    "4.0": "FINISHED 8TH GRADE",
+    "5.0": "SOME HIGH SCHOOL BUT DID NOT FINISH",
+    "6.0": "GRADUATED FROM HIGH SCHOOL",
+    "7.0": "SOME COLLEGE BUT DID NOT FINISH",
+    "8.0": "GRADUATED FROM COLLEGE"
+  },
+  "S195C.Q4A": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY NECESSARY",
+    "2.0": "PRETTY NECESSARY",
+    "3.0": "NOT SO NECESSARY",
+    "4.0": "NOT NECESSARY AT ALL",
+    "5.0": "UNDECIDED"
+  },
+  "S195C.Q4B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT STRONGLY AT ALL",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "FAIRLY STRONGLY",
+    "4.0": "VERY STRONGLY"
+  },
+  "S195C.Q5A": {
+    "0.0": "NO ANSWER",
+    "1.0": "I WOULD ADVISE HER TO JOIN",
+    "2.0": "I WOULD ADVISE HER NOT TO JOIN",
+    "3.0": "UNDECIDED"
+  },
+  "S195C.Q5B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT STRONGLY AT ALL",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "FAIRLY STRONGLY",
+    "4.0": "VERY STRONGLY"
+  },
+  "S195C.Q6A": {
+    "0.0": "NO ANSWER",
+    "1.0": "THE WAC DOES MORE IMPORTANT JOBS",
+    "2.0": "THE WAC DOES LESS IMPORTANT JOBS",
+    "3.0": "THE JOBS ARE EQUALLY IMPORTANT"
+  },
+  "S195C.Q6B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT STRONGLY AT ALL",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "FAIRLY STRONGLY",
+    "4.0": "VERY STRONGLY"
+  },
+  "S195C.Q7A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "UNDECIDED",
+    "3.0": "NO"
+  },
+  "S195C.Q7B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT STRONGLY AT ALL",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "FAIRLY STRONGLY",
+    "4.0": "VERY STRONGLY"
+  },
+  "S195C.Q8A": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "UNDECIDED"
+  },
+  "S195C.Q8B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT STRONGLY AT ALL",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "FAIRLY STRONGLY",
+    "4.0": "VERY STRONGLY"
+  },
+  "S195C.Q9A": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "UNDECIDED"
+  },
+  "S195C.Q9B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT STRONGLY AT ALL",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "FAIRLY STRONGLY",
+    "4.0": "VERY STRONGLY"
+  },
+  "S195C.Q10A": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "UNDECIDED"
+  },
+  "S195C.Q10B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT STRONGLY AT ALL",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "FAIRLY STRONGLY",
+    "4.0": "VERY STRONGLY"
+  },
+  "S195C.Q11A": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "UNDECIDED"
+  },
+  "S195C.Q11B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT STRONGLY AT ALL",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "FAIRLY STRONGLY",
+    "4.0": "VERY STRONGLY"
+  },
+  "S195C.Q12A": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "UNDECIDED"
+  },
+  "S195C.Q12B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT STRONGLY AT ALL",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "FAIRLY STRONGLY",
+    "4.0": "VERY STRONGLY"
+  },
+  "S195C.Q13A": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "UNDECIDED"
+  },
+  "S195C.Q13B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT STRONGLY AT ALL",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "FAIRLY STRONGLY",
+    "4.0": "VERY STRONGLY"
+  },
+  "S195C.Q14A": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "UNDECIDED"
+  },
+  "S195C.Q14B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT STRONGLY AT ALL",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "FAIRLY STRONGLY",
+    "4.0": "VERY STRONGLY"
+  },
+  "S195C.Q15A": {
+    "0.0": "NO ANSWER",
+    "1.0": "I HAVE A PRETTY GOOD TIME",
+    "2.0": "IT'S ABOUT FIFTY-FIFTY",
+    "3.0": "I HAVE A PRETTY ROTTEN TIME"
+  },
+  "S195C.Q15B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY STRONGLY",
+    "2.0": "FAIRLY STRONGLY",
+    "3.0": "NOT STRONGLY"
+  },
+  "S195C.Q16A": {
+    "1.0": "MUCH BETTER THAN I EXPECTED",
+    "2.0": "BETTER THAN I EXPECTED",
+    "3.0": "ABOUT THE SAME AS I EXPECTED",
+    "4.0": "WORSE THAN I EXPECTED",
+    "5.0": "MUCH WORSE THAN I EXPECTED"
+  },
+  "S195C.Q16B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY STRONGLY",
+    "2.0": "FAIRLY STRONGLY",
+    "3.0": "NOT STRONGLY"
+  },
+  "S195C.Q17A": {
+    "0.0": "NO ANSWER",
+    "1.0": "I FEEL PRETTY SURE I CAN MAKE GOOD",
+    "2.0": "I AM NOT SO SURE I CAN MAKE GOOD",
+    "3.0": "UNDECIDED"
+  },
+  "S195C.Q17B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY STRONGLY",
+    "2.0": "FAIRLY STRONGLY",
+    "3.0": "NOT STRONGLY"
+  },
+  "S195C.Q18A": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY HIGH",
+    "2.0": "FAIRLY HIGH",
+    "3.0": "JUST SO-SO",
+    "4.0": "FAIRLY LOW",
+    "5.0": "VERY LOW"
+  },
+  "S195C.Q18B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY STRONGLY",
+    "2.0": "FAIRLY STRONGLY",
+    "3.0": "NOT STRONGLY"
+  },
+  "S195C.Q19A": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT IS RUN VERY WELL",
+    "2.0": "IT IS RUN PRETTY WELL",
+    "3.0": "IT IS NOT RUN SO WELL",
+    "4.0": "IT IS RUN VERY POORLY",
+    "5.0": "UNDECIDED"
+  },
+  "S195C.Q19B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY STRONGLY",
+    "2.0": "FAIRLY STRONGLY",
+    "3.0": "NOT STRONGLY"
+  },
+  "S195C.Q20A": {
+    "0.0": "NO ANSWER",
+    "1.0": "THERE'S A LOT TO IT",
+    "2.0": "THERE MAY BE SOMETHING TO IT, BUT I'M STILL DOUBTFUL",
+    "3.0": "THERE IS NOT MUCH TO IT",
+    "4.0": "NO OPINION"
+  },
+  "S195C.Q20B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY STRONGLY",
+    "2.0": "FAIRLY STRONGLY",
+    "3.0": "NOT STRONGLY"
+  },
+  "S195C.Q21A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, VERY MUCH",
+    "2.0": "YES, A LITTLE",
+    "3.0": "UNDECIDED",
+    "4.0": "NO, NOT PARTICULARLY",
+    "5.0": "NO, NONE AT ALL"
+  },
+  "S195C.Q21B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY STRONGLY",
+    "2.0": "FAIRLY STRONGLY",
+    "3.0": "NOT STRONGLY"
+  },
+  "S195C.Q22A": {
+    "0.0": "NO ANSWER",
+    "1.0": "I AM HARDLY EVER WORRIED AND UPSET",
+    "2.0": "I AM SOMETIMES WORRIED AND UPSET",
+    "3.0": "I AM OFTEN WORRIED AND UPSET"
+  },
+  "S195C.Q22B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY STRONGLY",
+    "2.0": "FAIRLY STRONGLY",
+    "3.0": "NOT STRONGLY"
+  },
+  "S195C.Q23A": {
+    "0.0": "NO ANSWER",
+    "1.0": "A GREAT DEAL",
+    "2.0": "QUITE A BIT",
+    "3.0": "A LITTLE",
+    "4.0": "NONE"
+  },
+  "S195C.Q23B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY STRONGLY",
+    "2.0": "FAIRLY STRONGLY",
+    "3.0": "NOT STRONGLY"
+  },
+  "S195C.Q24A": {
+    "0.0": "NO ANSWER",
+    "1.0": "I HARDLY EVER FEEL LONESOME",
+    "2.0": "I SOMETIMES FEEL LONESOME",
+    "3.0": "I OFTEN FEEL LONESOME"
+  },
+  "S195C.Q24B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY STRONGLY",
+    "2.0": "FAIRLY STRONGLY",
+    "3.0": "NOT STRONGLY"
+  },
+  "S195C.Q25A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, ONE OF THE BEST",
+    "2.0": "YES, ALTHOUGH MAYBE NOT ONE OF THE BEST",
+    "3.0": "UNDECIDED",
+    "4.0": "NO, NOT YET, BUT I WILL BE",
+    "5.0": "NO, AND I DON'T THINK I EVER WILL BE"
+  },
+  "S195C.Q25B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY STRONGLY",
+    "2.0": "FAIRLY STRONGLY",
+    "3.0": "NOT STRONGLY"
+  },
+  "S195C.Q26A": {
+    "0.0": "NO ANSWER",
+    "1.0": "I WORRY A LOT",
+    "2.0": "I WORRY A LITTLE",
+    "3.0": "I DON'T WORRY AT ALL"
+  },
+  "S195C.Q26B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY STRONGLY",
+    "2.0": "FAIRLY STRONGLY",
+    "3.0": "NOT STRONGLY"
+  },
+  "S195C.Q27A": {
+    "0.0": "NO ANSWER",
+    "1.0": "I AM VERY WELL ADJUSTED",
+    "2.0": "I AM FAIRLY WELL ADJUSTED",
+    "3.0": "I AM NOT SO WELL ADJUSTED",
+    "4.0": "I AM VERY POORLY ADJUSTED"
+  },
+  "S195C.Q27B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY STRONGLY",
+    "2.0": "FAIRLY STRONGLY",
+    "3.0": "NOT STRONGLY"
+  },
+  "S195C.Q28A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, I THINK IT COULD",
+    "2.0": "NO, I THINK IT COULD NOT",
+    "3.0": "UNDECIDED"
+  },
+  "S195C.Q28B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY SURE",
+    "2.0": "FAIRLY SURE",
+    "3.0": "NOT SURE"
+  },
+  "S195C.Q29A": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "UNDECIDED"
+  },
+  "S195C.Q29B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY SURE",
+    "2.0": "FAIRLY SURE",
+    "3.0": "NOT SURE"
+  },
+  "S195C.Q30A": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "UNDECIDED"
+  },
+  "S195C.Q30B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY SURE",
+    "2.0": "FAIRLY SURE",
+    "3.0": "NOT SURE"
+  },
+  "S195C.Q31A": {
+    "0.0": "NO ANSWER",
+    "1.0": "DRAFT ALL YOUNG MEN FOR A CERTAIN AMOUNT OF TRAINING",
+    "2.0": "GO BACK TO TAKING VOLUNTEERS ONLY",
+    "3.0": "UNDECIDED"
+  },
+  "S195C.Q31B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY SURE",
+    "2.0": "FAIRLY SURE",
+    "3.0": "NOT SURE"
+  },
+  "S195C.Q32A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, I WOULD WANT HIM TO HAVE ARMY TRAINING",
+    "2.0": "NO, I WOULD NOT WANT HIM TO HAVE ARMY TRAINING",
+    "3.0": "UNDECIDED"
+  },
+  "S195C.Q32B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY SURE",
+    "2.0": "FAIRLY SURE",
+    "3.0": "NOT SURE"
+  },
+  "S195C.Q33A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, THEY SHOULD BE MADE TO TAKE MILITARY TRAINING",
+    "2.0": "NO, THEY SHOULD NOT BE MADE TO TAKE MILITARY TRAINING",
+    "3.0": "UNDECIDED"
+  },
+  "S195C.Q33B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY SURE",
+    "2.0": "FAIRLY SURE",
+    "3.0": "NOT SURE"
+  },
+  "S195C.Q34A": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "UNDECIDED"
+  },
+  "S195C.Q34B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY SURE",
+    "2.0": "FAIRLY SURE",
+    "3.0": "NOT SURE"
+  },
+  "S195C.Q35": {
+    "1.0": "VERY MUCH",
+    "2.0": "PRETTY MUCH",
+    "4.0": "NOT AT ALL",
+    "NaN": "QUESTION 36 NOT CODED.",
+    "0.0": "NO ANSWER",
+    "3.0": "NOT SO MUCH"
+  },
+  "FORM..1": {
+    "1.0": "S-195A",
+    "2.0": "S-195B",
+    "3.0": "S-195C"
+  }
+}

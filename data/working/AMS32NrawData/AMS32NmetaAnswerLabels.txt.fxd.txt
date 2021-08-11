@@ -1,0 +1,1047 @@
+{
+  "FORM": {
+    "1.0": "Sample of Negro enlisted men",
+    "2.0": "Sample of White enlisted men"
+  },
+  "S32N.VI": {
+    "1.0": "Cross-section cases",
+    "2.0": "All other cases"
+  },
+  "S32N.Q1": {
+    "0.0": "No Answer",
+    "1.0": "19 years or younger",
+    "2.0": "20 years",
+    "3.0": "21 to 24 years",
+    "4.0": "25 to
+    "5.0": "28 to 29 years",
+    "6.0": "30 to 34 years",
+    "7.0": "35 years or older"
+  },
+  "S32N.Q2": {
+    "0.0": "No code or no data - 3 - AMS-032N",
+    "1.0": "Less than 4th grade",
+    "2.0": "Finished 4th grade",
+    "3.0": "Finished 5th grade",
+    "4.0": "Finished 6th grade",
+    "5.0": "Finished 7th grade",
+    "6.0": "Finished 8th grade",
+    "7.0": "Some high school or trade school",
+    "8.0": "Graduated from high school",
+    "9.0": "Some college but did not finish",
+    "10.0": "Graduated from college",
+    "11.0": "No Answer"
+  },
+  "S32N.Q3": {
+    "1.0": "I was drafted",
+    "2.0": "I volunteered",
+    "4.0": "No Answer",
+    "NaN": "Questions 4-5: Codes for branches of service which were not printed on original questionnaire not provided by survey org",
+    "0.0": "No code or no data",
+    "3.0": "I was in the National Guard"
+  },
+  "S32N.Q4": {
+    "0.0": "No code or no data - 4 - AMS-032N",
+    "1.0": "Cavalry",
+    "2.0": "Engineers",
+    "3.0": "Infantry",
+    "4.0": "Field artillery",
+    "5.0": "Signal corps",
+    "6.0": "Medical corps",
+    "7.0": "Ordnance Department",
+    "8.0": "Quartermaster Corps",
+    "9.0": "Chemical Warfare",
+    "10.0": "Armored Force (Tank Corps)",
+    "11.0": "Undesignated Code (possibly Air Corps)",
+    "12.0": "Undesignated Code",
+    "13.0": "Undesignated Code",
+    "14.0": "Undesignated Code"
+  },
+  "S32N.Q5.1": {
+    "1.0": "Cavalry",
+    "2.0": "Not chosen"
+  },
+  "S32N.Q5.2": {
+    "1.0": "Engineers
+    "2.0": "Not chosen"
+  },
+  "S32N.Q5.3": {
+    "1.0": "Infantry
+    "2.0": "Not chosen"
+  },
+  "S32N.Q5.4": {
+    "1.0": "Field Artillery
+    "2.0": "Not chosen"
+  },
+  "S32N.Q5.5": {
+    "1.0": "Signal Corps
+    "2.0": "Not chosen"
+  },
+  "S32N.Q5.6": {
+    "1.0": "Medical Corps
+    "2.0": "Not chosen"
+  },
+  "S32N.Q5.7": {
+    "1.0": "Ordnance Department
+    "2.0": "Not chosen"
+  },
+  "S32N.Q5.8": {
+    "1.0": "Quartermaster Corps
+    "2.0": "Not chosen"
+  },
+  "S32N.Q5.9": {
+    "1.0": "Armored Force (Tank Corps)
+    "2.0": "Not chosen - 5 - AMS-032N"
+  },
+  "S32N.Q5.10": {
+    "1.0": "Chemical Warfare
+    "2.0": "Not chosen"
+  },
+  "S32N.Q5.11": {
+    "1.0": "Undesignated code (possibly Air Corps)
+    "2.0": "Not chosen"
+  },
+  "S32N.Q5.12": {
+    "1.0": "Other branches, undesignated
+    "2.0": "Not chosen"
+  },
+  "S32N.Q5.13": {
+    "1.0": "No answer to Q.5
+    "2.0": "Not chosen"
+  },
+  "S32N.Q6": {
+    "0.0": "No Answer",
+    "1.0": "A very good chance",
+    "2.0": "A fairly good chance",
+    "3.0": "Undecided",
+    "4.0": "Not much of a chance",
+    "5.0": "No chance at all"
+  },
+  "S32N.Q7": {
+    "0.0": "No code or no data - 6 - AMS-032N",
+    "1.0": "It is very good",
+    "2.0": "It is fairly good",
+    "3.0": "It is poor",
+    "4.0": "It is very poor",
+    "5.0": "Don't know",
+    "6.0": "No Answer"
+  },
+  "S32N.Q7A.1": {
+    "1.0": "Criticisms of operation (too crowded, too infrequent, too small, wait too long, schedules irregular, prices too high, etc.)",
+    "2.0": "Not chosen"
+  },
+  "S32N.Q7A.2": {
+    "1.0": "Civilians treated better than soldiers
+    "2.0": "Not chosen"
+  },
+  "S32N.Q7A.3": {
+    "1.0": "Officers treated better than enlisted men
+    "2.0": "Not chosen"
+  },
+  "S32N.Q7A.4": {
+    "1.0": "Whites treated better than Negroes, \"segregation\", any racial comment
+    "2.0": "Not chosen"
+  },
+  "S32N.Q7A.5": {
+    "1.0": "Merely a repetitious restatement of check-list answers (service is awful)
+    "2.0": "Not chosen"
+  },
+  "S32N.Q7A.6": {
+    "1.0": "Other
+    "2.0": "Not chosen"
+  },
+  "S32N.Q7A.7": {
+    "1.0": "No comment
+    "2.0": "Not chosen - 7"
+  },
+  "S32N.Q8": {
+    "0.0": "No Answer",
+    "1.0": "Yes, I would want to very much",
+    "2.0": "Yes, I might want to, but I'm not sure",
+    "3.0": "No, I don't think I would want to",
+    "4.0": "No, I would not want to at all",
+    "5.0": "Undecided"
+  },
+  "S32N.Q9": {
+    "0.0": "No Answer",
+    "1.0": "Yes, I would want to very much",
+    "2.0": "Yes, I might want to, but I'm not sure",
+    "3.0": "No, I don't think I would want to",
+    "4.0": "No, I would not want to at all",
+    "5.0": "Undecided"
+  },
+  "S32N.Q10": {
+    "0.0": "No Answer",
+    "1.0": "I would rather stay here",
+    "2.0": "I would rather go to some other camp",
+    "3.0": "Undecided"
+  },
+  "S32N.Q11": {
+    "0.0": "No code or no data",
+    "1.0": "Any general mention of \"North\" (any place outside the South, anywhere a Negro's treated like a man, anywhere North, etc.)",
+    "2.0": "Any general mention of \"South\"",
+    "3.0": "Any general mention of \"West\"",
+    "4.0": "\"Anywhere as long as it's U.S.\"",
+    "5.0": "No answer, \"Anywhere\"",
+    "6.0": "Inapplicable (Q.10 coded 1)",
+    "11.0": "Maine",
+    "12.0": "New Hampshire",
+    "13.0": "Vermont",
+    "14.0": "Massachusetts",
+    "15.0": "Rhode Island",
+    "16.0": "Connecticut",
+    "21.0": "New York",
+    "22.0": "New Jersey",
+    "23.0": "Pennsylvania",
+    "31.0": "Ohio",
+    "32.0": "Indiana",
+    "33.0": "Illinois",
+    "34.0": "Michigan",
+    "35.0": "Wisconsin",
+    "41.0": "Minnesota",
+    "42.0": "Iowa",
+    "43.0": "Missouri",
+    "44.0": "North Dakota",
+    "45.0": "South Dakota",
+    "46.0": "Nebraska",
+    "47.0": "Kansas",
+    "51.0": "Delaware",
+    "52.0": "Maryland",
+    "53.0": "District of Columbia",
+    "54.0": "Virginia",
+    "55.0": "West Virginia",
+    "56.0": "North Carolina",
+    "57.0": "South Carolina",
+    "58.0": "Georgia",
+    "59.0": "Florida",
+    "61.0": "Kentucky",
+    "62.0": "Tennessee",
+    "63.0": "Alabama",
+    "64.0": "Mississippi",
+    "71.0": "Arkansas",
+    "72.0": "Louisiana",
+    "73.0": "Oklahoma",
+    "74.0": "Texas",
+    "81.0": "Montana",
+    "82.0": "Idaho",
+    "83.0": "Wyoming",
+    "84.0": "Colorado",
+    "85.0": "New Mexico",
+    "86.0": "Arizona",
+    "87.0": "Utah",
+    "88.0": "Nevada",
+    "91.0": "Washington",
+    "92.0": "Oregon",
+    "93.0": "California",
+    "94.0": "Alaska",
+    "95.0": "Hawaii"
+  },
+  "S32N.Q12": {
+    "0.0": "No code or no data",
+    "1.0": "In a camp in the North",
+    "2.0": "In a camp in the South",
+    "3.0": "In a camp in the West",
+    "4.0": "Undecided",
+    "5.0": "No Answer"
+  },
+  "S32N.Q12A.1": {
+    "1.0": "Closer to home, or family",
+    "2.0": "Not chosen"
+  },
+  "S32N.Q12A.2": {
+    "1.0": "Habit (used to the South, or North, born there, etc.)
+    "2.0": "Not chosen - 10"
+  },
+  "S32N.Q12A.3": {
+    "1.0": "(Negro only) racial and/or sectional differences (better treatment in North, discrimination in south, etc.)
+    "2.0": "Not chosen"
+  },
+  "S32N.Q12A.4": {
+    "1.0": "Prefer climate
+    "2.0": "Not chosen"
+  },
+  "S32N.Q12A.5": {
+    "1.0": "Adventure (want to see places where I haven't been)
+    "2.0": "Not chosen"
+  },
+  "S32N.Q12A.6": {
+    "1.0": "Farther from home (so I won't be close enough to home to feel homesick)
+    "2.0": "Not chosen"
+  },
+  "S32N.Q12A.7": {
+    "1.0": "Restatement of preference without reasons given (I just like the South better)
+    "2.0": "Not chosen"
+  },
+  "S32N.Q12A.8": {
+    "1.0": "Better Army training (specific military training)
+    "2.0": "Not chosen"
+  },
+  "S32N.Q12A.9": {
+    "1.0": "Other
+    "2.0": "Not chosen"
+  },
+  "S32N.Q12A.10": {
+    "1.0": "No comment
+    "2.0": "Not chosen - 11"
+  },
+  "S32N.Q14": {
+    "0.0": "No Answer -
+    "1.0": "On a farm or in the country",
+    "2.0": "In a small town (fewer than 2,500 people)",
+    "3.0": "In a town (with between 2,500 and 25,000 people)",
+    "4.0": "In a city (between 25,000 and 100,000 people)",
+    "5.0": "In a large city (more than 100,000 people)"
+  },
+  "S32N.Q15": {
+    "0.0": "No Answer",
+    "1.0": "Most of them are fair",
+    "2.0": "About half are; half are not",
+    "3.0": "Most of them are not fair",
+    "4.0": "Undecided"
+  },
+  "S32N.Q16": {
+    "0.0": "No Answer",
+    "1.0": "Private or private first class",
+    "2.0": "Corporal or technician 5th grade",
+    "3.0": "Sergeant (any grade) or technician 3rd or 4th grade"
+  },
+  "S32N.Q17": {
+    "0.0": "No code or no data -
+    "1.0": "Yes",
+    "2.0": "No",
+    "3.0": "Undecided",
+    "4.0": "Inapplicable (already noncom)",
+    "5.0": "No Answer"
+  },
+  "S32N.Q18": {
+    "0.0": "No Answer",
+    "1.0": "Yes",
+    "2.0": "No",
+    "3.0": "Undecided"
+  },
+  "S32N.Q18A.1": {
+    "1.0": "Lack of education",
+    "2.0": "Not chosen"
+  },
+  "S32N.Q18A.2": {
+    "1.0": "Health, physical condition, or age disqualify
+    "2.0": "Not chosen"
+  },
+  "S32N.Q18A.3": {
+    "1.0": "Not in Army long enough, need more experience
+    "2.0": "Not chosen"
+  },
+  "S32N.Q18A.4": {
+    "1.0": "Not good at (or don't want to) handling men or giving orders
+    "2.0": "Not chosen"
+  },
+  "S32N.Q18A.5": {
+    "1.0": "Simple statement of \"I'm not qualified\" - but no mention of reasons why not qualified
+    "2.0": "Not chosen"
+  },
+  "S32N.Q18A.6": {
+    "1.0": "Too much responsibility or work
+    "2.0": "Not chosen"
+  },
+  "S32N.Q18A.7": {
+    "1.0": "Would lose or be limited in choice of friends because of rank
+    "2.0": "Not chosen - 15"
+  },
+  "S32N.Q18A.8": {
+    "1.0": "Dislike or criticism of C.O.'s, including criticism of training of C.O.'s
+    "2.0": "Not chosen"
+  },
+  "S32N.Q18A.9": {
+    "1.0": "Belief that being a C.O. means staying in Army after the war
+    "2.0": "Not chosen"
+  },
+  "S32N.Q18A.10": {
+    "1.0": "Repetition of check list answer (I'd rather be a private or a non-com, I don't want to be a C.O., etc.)
+    "2.0": "Not chosen"
+  },
+  "S32N.Q18A.11": {
+    "1.0": "(Negro only) Racial objections (Negro officers have no prestige; treated like privates; receive prejudiced treatment, have little opportunity for promotion, etc.)",
+    "2.0": "Not chosen"
+  },
+  "S32N.Q18A.12": {
+    "1.0": "Other
+    "2.0": "Not chosen"
+  },
+  "S32N.Q18A.13": {
+    "1.0": "Inapplicable, no comment
+    "2.0": "Not chosen - 16"
+  },
+  "S32N.Q19": {
+    "0.0": "No Answer",
+    "1.0": "12/1/42 - present; 3 months or less",
+    "2.0": "9/1/42 - 11/30/42; 3 months up to 6 months",
+    "3.0": "3/1/42 - 8/31/42; 6 months up to 1 year",
+    "4.0": "3/1/41 - 2/28/42; 1 year up to 2 years",
+    "5.0": "Before 3/1/41; over 2 years"
+  },
+  "S32N.Q20": {
+    "0.0": "No code or no data",
+    "1.0": "Very much interested",
+    "2.0": "A little but not much",
+    "3.0": "Not interested at all",
+    "4.0": "No Answer"
+  },
+  "S32N.Q21": {
+    "0.0": "No code or no data -
+    "1.0": "Combat job",
+    "2.0": "Non-combat, professional or clerical",
+    "3.0": "Non-combat, skilled",
+    "4.0": "Non-combat, semi-skilled and unskilled",
+    "5.0": "Combat and technical",
+    "6.0": "Basic training",
+    "7.0": "Unclassified",
+    "8.0": "No Answer"
+  },
+  "S32N.Q22": {
+    "0.0": "No code or no data",
+    "1.0": "Yes, all of the time",
+    "2.0": "Yes, most of the time",
+    "3.0": "No, often do not",
+    "4.0": "No, almost never do",
+    "5.0": "Undecided",
+    "6.0": "No Answer"
+  },
+  "S32N.Q23": {
+    "1.0": "I have a pretty good time",
+    "2.0": "It is about fifty-fifty",
+    "4.0": "No Answer",
+    "NaN": "Col. 80 not used. CARD 2",
+    "0.0": "No code or no data",
+    "3.0": "I have a pretty rotten time"
+  },
+  "S32N.V1": {
+    "1.0": "Cross-section cases",
+    "2.0": "All other cases"
+  },
+  "S32N.Q24": {
+    "0.0": "No code or no data",
+    "1.0": "I usually feel it is not worthwhile",
+    "2.0": "I usually feel it is worthwhile",
+    "3.0": "Undecided",
+    "4.0": "No Answer"
+  },
+  "S32N.Q25": {
+    "0.0": "No Answer -
+    "1.0": "Yes, very proud",
+    "2.0": "Yes, fairly proud",
+    "3.0": "No, not proud",
+    "4.0": "Undecided"
+  },
+  "S32N.Q26": {
+    "0.0": "No Answer",
+    "1.0": "I am hardly ever worried and upset",
+    "2.0": "I am sometimes",
+    "3.0": "I am often worried and upset"
+  },
+  "S32N.Q27": {
+    "0.0": "No code or no data",
+    "1.0": "I feel pretty sure I can make good",
+    "2.0": "I am not so sure I can make good",
+    "3.0": "Undecided",
+    "4.0": "No Answer"
+  },
+  "S32N.Q28": {
+    "0.0": "No Answer",
+    "1.0": "Satisfied and in good spirits",
+    "2.0": "I am up half the time and down half the time",
+    "3.0": "Dissatisfied and in low spirits"
+  },
+  "S32N.Q29": {
+    "1.0": "Less than a year or just \"1943\"",
+    "2.0": "One year",
+    "3.0": "Over one to less than two years, \"1944\"",
+    "4.0": "Two years",
+    "5.0": "Over two but less than three years, \"1945\"",
+    "6.0": "Three years",
+    "7.0": "Over three years",
+    "8.0": "Indefinite answer indicating a short time (not long)",
+    "9.0": "Indefinite answer indicating a long time (several years yet) -
+    "10.0": "Indefinite answer with no indication of time (will last until we stop it)",
+    "11.0": "Don't know, undecided",
+    "12.0": "No Answer"
+  },
+  "S32N.Q30": {
+    "0.0": "No code or no data",
+    "1.0": "In a combat outfit overseas",
+    "2.0": "In a non-combat outfit overseas",
+    "3.0": "In an outfit that will stay in the United States",
+    "4.0": "No Answer"
+  },
+  "S32N.Q31": {
+    "0.0": "No Answer",
+    "1.0": "I would rather have an actual fighting job",
+    "2.0": "I would rather have some other job",
+    "3.0": "Undecided"
+  },
+  "S32N.Q32": {
+    "0.0": "No code or no data -
+    "1.0": "As a soldier",
+    "2.0": "As a war worker",
+    "3.0": "Undecided",
+    "4.0": "No Answer"
+  },
+  "S32N.Q33": {
+    "0.0": "No code or no data",
+    "1.0": "Yes",
+    "2.0": "No",
+    "3.0": "Undecided",
+    "4.0": "No Answer"
+  },
+  "S32N.Q34": {
+    "0.0": "No code or no data -
+    "1.0": "Civil War or race war in U.S.",
+    "2.0": "Dark against light races on an International scale",
+    "3.0": "Russia with dark allies only (China, Japan, Africa, India) against any other nation or combination of nations",
+    "4.0": "Russia with one or more of axis nations besides Japan against any other nation or combination of nations",
+    "5.0": "Russia with one or more allied nations besides China against any other nation or combination of nations",
+    "6.0": "Russia with no allies against any other nation or combination of nations",
+    "7.0": "Communism vs. Capitalism",
+    "8.0": "World War III - any line up like World Wars I and II - (same set up as last time, those defeated now fighting the winners)",
+    "9.0": "Russia is involved, but everything else is indeterminable",
+    "10.0": "Race war but whether U.S. or International not stated",
+    "11.0": "Unclassifiable combinations",
+    "12.0": "No answer, don't know, inapplicable"
+  },
+  "S32N.Q35": {
+    "0.0": "No Answer",
+    "1.0": "Things are a lot better",
+    "2.0": "Things are a little better, but not much",
+    "3.0": "I don't see any difference",
+    "4.0": "Things are a little worse",
+    "5.0": "Things are a lot worse",
+    "6.0": "Don't know"
+  },
+  "S32N.Q36": {
+    "0.0": "No Answer",
+    "1.0": "Single, and not engaged",
+    "2.0": "Single and engaged",
+    "3.0": "Married",
+    "4.0": "Divorced",
+    "5.0": "Separated (before you went into the Army)",
+    "6.0": "Widowed"
+  },
+  "S32N.Q37": {
+    "0.0": "No code or no data",
+    "1.0": "I'm not married",
+    "2.0": "Married before entering the Army",
+    "3.0": "Married after entering the Army",
+    "4.0": "No Answer"
+  },
+  "S32N.Q38": {
+    "0.0": "No code or no data",
+    "1.0": "I'm not married",
+    "2.0": "Have no children",
+    "3.0": "Have one child",
+    "4.0": "Have two children",
+    "5.0": "Have three or more children",
+    "6.0": "No Answer"
+  },
+  "S32N.Q39": {
+    "0.0": "No code or no data -
+    "1.0": "I'm not married",
+    "2.0": "Yes",
+    "3.0": "No",
+    "4.0": "Don't know",
+    "5.0": "No Answer"
+  },
+  "S32N.Q40": {
+    "0.0": "No code or no data",
+    "1.0": "Easier than before the war",
+    "2.0": "About the same",
+    "3.0": "Harder than before the war",
+    "4.0": "Undecided",
+    "5.0": "No Answer"
+  },
+  "S32N.Q41": {
+    "0.0": "No code or no data",
+    "1.0": "Will help me to get a better job",
+    "2.0": "Will not help me to get a better job",
+    "3.0": "Undecided",
+    "4.0": "No Answer"
+  },
+  "S32N.Q42": {
+    "0.0": "No code or no data -
+    "1.0": "Yes",
+    "2.0": "No",
+    "3.0": "Undecided",
+    "4.0": "No Answer"
+  },
+  "S32N.Q42A": {
+    "0.0": "No code or no data",
+    "1.0": "Yes, statement of patriotism, duty, etc. (this is my country, I am an American, protect my country and home)",
+    "2.0": "Yes, idealistic aims (we're all fighting for freedom, we got to see that this doesn't happen again)",
+    "3.0": "Yes, answer indicating things could be worse and any racialist comment (nobody wants to go back to the feudal age, we know where we stand here - nobody knows what the axis would do)",
+    "4.0": "Yes, unclassified answer",
+    "5.0": "Yes, no comment",
+    "6.0": "No, political or isolationist answer and uninformed about war aims (we wouldn't be in it except for big shots in Washington, D.C., let the British fight their own war)",
+    "7.0": "No, racialist answer (we are 'Jim-crowed, I am a Negro, the axis attacked the white man)",
+    "8.0": "No, sore at the draft (I should never have been drafted, I have flat feet)",
+    "9.0": "No, unclassified answers",
+    "10.0": "No, no comment",
+    "11.0": "Undecided, racialist comments",
+    "12.0": "Undecided, other comments",
+    "13.0": "Undecided, no comment",
+    "14.0": "No answer to Q.42"
+  },
+  "S32N.Q43": {
+    "0.0": "No code or no data -
+    "1.0": "It will be a complete victory for us",
+    "2.0": "We will win, but it won't be a complete victory",
+    "3.0": "It will end in a draw",
+    "4.0": "The other side has a pretty good chance of winning",
+    "5.0": "Undecided",
+    "6.0": "No Answer"
+  },
+  "S32N.Q44": {
+    "0.0": "No Answer",
+    "1.0": "More rights and privileges than before the war",
+    "2.0": "Less rights and privileges than before the war",
+    "3.0": "About the same as before the war",
+    "4.0": "Undecided"
+  },
+  "S32N.Q45": {
+    "0.0": "No Answer",
+    "1.0": "Yes",
+    "2.0": "No",
+    "3.0": "Undecided"
+  },
+  "S32N.Q46": {
+    "0.0": "No code or no data -
+    "1.0": "Yes",
+    "2.0": "No",
+    "3.0": "Undecided",
+    "4.0": "No Answer"
+  },
+  "S32N.Q47": {
+    "0.0": "No Answer",
+    "1.0": "Yes",
+    "2.0": "No",
+    "3.0": "Undecided"
+  },
+  "S32N.Q48": {
+    "0.0": "No Answer",
+    "2.0": "We should keep on fighting until they are crushed",
+    "NaN": "Q.49. not coded by survey organization.",
+    "1.0": "We should talk peace now",
+    "3.0": "Undecided"
+  },
+  "S32N.Q50": {
+    "0.0": "No Answer",
+    "1.0": "Try hardest to make things better for the Negro",
+    "2.0": "Try hardest to win the war first",
+    "3.0": "Try to do both at the same time",
+    "4.0": "Undecided"
+  },
+  "S32N.Q50A": {
+    "0.0": "No code or no data -
+    "11.0": "Try hardest to make things better for the Negro: this is our best, only, most opportune time, chance, etc.",
+    "12.0": "Better for the Negro: if conditions were bettered Negroes would support the war (have improved morale)",
+    "13.0": "Better for the Negro: ought to establish democracy at home before we try to give it to the world",
+    "14.0": "Better for the Negro: a matter of division of labor (soldiers will work to win the war; civilians, to make things better for the Negro)",
+    "15.0": "Better for the Negro: a simple statement of Negro sufferings (Negroes have a hard time)",
+    "16.0": "Better for the Negro: a statement indicating acceptance of a \"both\" position (at the same time we should try to win the war)",
+    "17.0": "Better for the Negro: other comments",
+    "18.0": "Better for the Negro: no comments",
+    "21.0": "Try hardest to win the war first: the war is most important now",
+    "22.0": "Win the war: there will be more time or a better chance to improve Negro conditions after the war, or \"things will be better\"",
+    "23.0": "Win the war: after the war concentrate on improving Negro conditions -
+    "24.0": "Win the war: Negroes can (must or will) demonstrate or earn in the war their right to better treatment, or, things will naturally be better",
+    "25.0": "Win the war: a statement indicating a \"both\" position (at the same time we should try to better conditions)",
+    "26.0": "Win the war: other comments",
+    "27.0": "Win the war: no comments",
+    "31.0": "Try to do both at the same time: this is the best or only way to improve things, the opportune moment, the proper method",
+    "32.0": "Both: Negroes have a duty both to themselves and their country",
+    "33.0": "Both: A matter of division of labor (civilians can do both; soldiers cannot)",
+    "34.0": "Both: It will have a good effect on Negro morale",
+    "35.0": "Both: A simple statement of Negro sufferings (negroes in America do not have an equal chance)",
+    "36.0": "Both: a statement implying \"win the war first\" (war must be finished before Negro can do better)",
+    "37.0": "Both: A statement implying \"better for the Negro first\" (try to get Negroes their rights)",
+    "38.0": "Both: other comment",
+    "39.0": "Both: no comment",
+    "41.0": "Undecided: Comment implying win war first",
+    "42.0": "Undecided: Comment implying better for Negroes",
+    "43.0": "Undecided: Comment implying both",
+    "44.0": "Undecided: Comment not classifiable",
+    "45.0": "Undecided: No comment or comment merely repeats undecided",
+    "51.0": "No Answer: Comment implying win the war first",
+    "52.0": "No Answer: Comment implying better for Negro",
+    "53.0": "No Answer: Comment implying both",
+    "54.0": "No Answer: Comment unclassifiable",
+    "55.0": "No Answer: No comment"
+  },
+  "S32N.Q51": {
+    "0.0": "No code or no data",
+    "1.0": "Better",
+    "2.0": "About the same",
+    "3.0": "Worse",
+    "4.0": "Undecided",
+    "5.0": "No Answer"
+  },
+  "S32N.Q51A": {
+    "0.0": "No code or no data",
+    "1.0": "Better: a militant answer (we will take it, demand it; fight for it)",
+    "2.0": "Better: an historical answer (gains were made after last war, present improvements already visible because we are now more intelligent or educated)",
+    "3.0": "Better: a virtue will be rewarded answer (it will be because it ought to be, after whites have seen our patriotism, they will change their attitude, we are all fighting together, whites will realize the futulity of their position, we are showing we are lo",
+    "4.0": "Better: racial contacts answer and war is bringing us closer (there will be more association and better understanding between whites and Negroes through contacts in Army, etc.)",
+    "5.0": "Better: a statement of the specific ways in which it will be better (we'll be allowed to vote, there'll be less discrimination, we will be better educated)",
+    "6.0": "Better: a war aims answer (that is what we're fighting this war for, we're all fighting for the same thing, etc.)",
+    "7.0": "Better: an inevitability of change answer (wars always change things, changes are always occurring, Negroes can't be kept down forever, promised by God)",
+    "8.0": "Better: other answer",
+    "9.0": "Better: no answer",
+    "11.0": "About the same: an historical answer (nothing changed after the last war, haven't seen any sign of change so far, etc.)",
+    "12.0": "About the same: a time perspective answer (only time can change things like this, it will take generations to modify race attitudes, a war won't do it - it'll take education, etc.)",
+    "13.0": "About the same: a distrustful cynical answer and militant (whites always make promises when they need us, then take them back after the war)",
+    "14.0": "About the same: a resigned accepting answer (whites won't let Negroes rise, we'll never get further than the level whites have set for us, wars won't alter white attitudes, things will always be the same, white people hate Negroes)",
+    "15.0": "About the same: other answer",
+    "16.0": "About the same: no answer",
+    "21.0": "Worse: an historical answer (things are getting worse now, look at how they're treating Negro soldiers)",
+    "22.0": "Worse: a resigned defeated answer (whites are never going to treat Negroes fairly, etc)",
+    "23.0": "Worse: a prediction of reaction after the war (Negroes will lose the gains they've made southerners will act more harshly in order to stamp out any ideas the Negroes may have gotten in the Army, etc.)",
+    "24.0": "Worse: other answer",
+    "25.0": "Worse: no answer",
+    "31.0": "Undecided: with or without comments",
+    "32.0": "No answer to Q.50, with or without comments"
+  },
+  "S32N.Q52": {
+    "0.0": "No code or no data",
+    "1.0": "Better off after the war than before",
+    "2.0": "Worse off after the war than before",
+    "3.0": "About the same",
+    "4.0": "Undecided",
+    "5.0": "No Answer"
+  },
+  "S32N.Q53": {
+    "0.0": "No code or no data",
+    "1.0": "Better off after the war than before",
+    "2.0": "Worse off after the war than before",
+    "3.0": "About the same",
+    "4.0": "Undecided",
+    "5.0": "No Answer"
+  },
+  "S32N.Q54": {
+    "0.0": "No code or no data",
+    "1.0": "They will have more rights and privileges than before the war",
+    "2.0": "They will have less rights and privileges than before the war",
+    "3.0": "About the same",
+    "4.0": "Undecided",
+    "5.0": "No Answer"
+  },
+  "S32N.Q54A": {
+    "0.0": "No code or no data",
+    "1.0": "More rights and privileges: militant answer (we will take it, demand it; fight for it)",
+    "2.0": "More: historical answer (gains were made after last war, present improvements already visible)",
+    "3.0": "More: virtue will be rewarded answer (it will be because it ought to be, after whites have seen our patriotism, they will change their attitude, we are helping to win the war so should be treated better, we are all fighting together, whites will realize t",
+    "4.0": "More: racial contacts answer (there will be more association and better understanding between whites and Negroes through contacts in Army, etc.)",
+    "5.0": "More: statement of the specific ways in which it will be better (we'll be allowed to vote, there'll be less discrimination)",
+    "6.0": "More: a war aims answer (that's what we're fighting this war for, we're all fighting for the same thing, etc.)",
+    "7.0": "More: Inevitability of change answer (wars always change things, changes are always occurring, Negroes can't be kept down forever)",
+    "8.0": "More: other answer",
+    "9.0": "More: no answer",
+    "11.0": "About the same: an historical answer (nothing changed after the last war, haven't seen any signs of change so far, etc.)",
+    "12.0": "About the same: time perspective answer (only time can change things like this, it will take generations to modify race attitudes, etc.)",
+    "13.0": "About the same: distrustful cynical answer (whites always make promises when they need us, then take them back after the war)",
+    "14.0": "About the same: resigned accepting answer (whites won't let Negroes rise, we'll never get further than the level whites have set for us, wars won't alter white attitudes, things will always be the same, white people hate Negroes)",
+    "15.0": "About the same: other answer",
+    "16.0": "About the same: no answer",
+    "21.0": "Less rights and privileges: an historical answer (things are getting worse now, look at how they're treating Negro soldiers)",
+    "22.0": "Less: resigned defeated answer (whites are never going to treat Negroes fair, etc.)",
+    "23.0": "Less: prediction of reaction after the war (Negroes will lose the gains they've made, southerners will act more harshly in order to stamp out any ideas the Negroes may have gotten in the Army, etc.)",
+    "24.0": "Less: other answer",
+    "25.0": "Less: no answer",
+    "31.0": "Undecided: with or without comments",
+    "32.0": "No answer to Q.54, with or without comments"
+  },
+  "S32N.Q55": {
+    "0.0": "No code or no data",
+    "1.0": "Better off",
+    "2.0": "Worse off",
+    "3.0": "About the same",
+    "4.0": "Undecided",
+    "5.0": "No Answer"
+  },
+  "S32N.Q56": {
+    "0.0": "No Answer",
+    "1.0": "Better off",
+    "2.0": "Worse off",
+    "3.0": "About the same",
+    "4.0": "Undecided"
+  },
+  "S32N.Q57": {
+    "0.0": "No code or no data",
+    "1.0": "Doing more than their share",
+    "2.0": "Doing just about their share",
+    "3.0": "Doing less than their share",
+    "4.0": "Undecided",
+    "5.0": "No Answer"
+  },
+  "S32N.Q58": {
+    "0.0": "No Answer",
+    "1.0": "Yes",
+    "2.0": "No",
+    "3.0": "Undecided"
+  },
+  "S32N.Q59": {
+    "0.0": "No code or no data",
+    "1.0": "Doing more than their share",
+    "2.0": "Doing just about their share",
+    "3.0": "Doing less than their share",
+    "4.0": "Undecided",
+    "5.0": "No Answer"
+  },
+  "S32N.Q60": {
+    "0.0": "No Answer",
+    "1.0": "Most of them will",
+    "2.0": "A good many will",
+    "3.0": "Only a few will",
+    "4.0": "None of them will",
+    "5.0": "Undecided"
+  },
+  "S32N.Q61": {
+    "0.0": "No Answer",
+    "1.0": "Almost always fair",
+    "2.0": "Usually fair, but sometimes not",
+    "3.0": "Usually not fair",
+    "4.0": "Undecided"
+  },
+  "S32N.Q62": {
+    "0.0": "No Answer",
+    "1.0": "A very good chance",
+    "2.0": "A fairly good chance",
+    "3.0": "Not much of a chance",
+    "4.0": "No chance at all",
+    "5.0": "Undecided"
+  },
+  "S32N.Q63": {
+    "0.0": "No Answer",
+    "1.0": "Negro lieutenants from the North",
+    "2.0": "Negro lleutenants from the South",
+    "3.0": "It wouldn't make any difference to me",
+    "4.0": "Undecided"
+  },
+  "S32N.Q64": {
+    "0.0": "No code or no data",
+    "1.0": "White lieutenants from the North",
+    "2.0": "White lieutenants from the South",
+    "3.0": "It wouldn't make any difference to me",
+    "4.0": "Undecided",
+    "5.0": "No Answer"
+  },
+  "S32N.Q65": {
+    "0.0": "No code or no data",
+    "1.0": "White lieutenants from the North",
+    "2.0": "Negro lieutenants from the North",
+    "3.0": "It wouldn't make any difference to me",
+    "4.0": "Undecided",
+    "5.0": "No Answer"
+  },
+  "S32N.Q66": {
+    "0.0": "No Answer",
+    "1.0": "White lieutenants from the South",
+    "2.0": "Negro lieutenants from the South",
+    "3.0": "It wouldn't make any difference to me",
+    "4.0": "Undecided"
+  },
+  "S32N.Q67": {
+    "0.0": "No Answer",
+    "1.0": "A very good chance",
+    "2.0": "A fairly good chance",
+    "3.0": "Not much of a chance",
+    "4.0": "No chance at all",
+    "5.0": "Undecided"
+  },
+  "S32N.Q68": {
+    "0.0": "No code or no data",
+    "1.0": "All of them are white",
+    "2.0": "Some are white and some are Negro",
+    "3.0": "All of them are Negro",
+    "4.0": "No Answer"
+  },
+  "S32N.Q69": {
+    "0.0": "No code or no data",
+    "1.0": "Town police are usually fair",
+    "2.0": "About half are; half are not",
+    "3.0": "Town police are usually not fair",
+    "4.0": "Undecided",
+    "5.0": "No Answer"
+  },
+  "S32N.Q70": {
+    "0.0": "No code or no data",
+    "1.0": "White M.P.'s are usually fair",
+    "2.0": "About half are; half are not",
+    "3.0": "White M.P.'s are usually not fair",
+    "4.0": "Undecided",
+    "5.0": "No Answer"
+  },
+  "S32N.Q71": {
+    "0.0": "No code or no data",
+    "1.0": "Negro M.P.'s are usually fair",
+    "2.0": "About half are; half are not",
+    "3.0": "Negro M.P.'s are usually not fair",
+    "4.0": "Undecided",
+    "5.0": "No Answer"
+  },
+  "S32N.Q72": {
+    "0.0": "No code or no data",
+    "1.0": "They will be treated better if we have a short war",
+    "2.0": "They will be treated better if we have a long war",
+    "3.0": "It won't make any difference how long the war lasts",
+    "4.0": "Undecided",
+    "5.0": "No Answer"
+  },
+  "S32N.Q73": {
+    "0.0": "No Answer",
+    "1.0": "Yes",
+    "2.0": "No",
+    "3.0": "Don't know"
+  },
+  "S32N.Q74": {
+    "0.0": "No Answer",
+    "1.0": "It is a good idea",
+    "2.0": "It is a poor idea",
+    "3.0": "Undecided"
+  },
+  "S32N.Q74A": {
+    "0.0": "No Answer",
+    "11.0": "Good idea: the existence of prejudice (whites don't want to be with colored, there might be trouble and misunderstanding, it's necessary in the locality where I'm stationed etc.)",
+    "12.0": "Good idea: because of principle (the race ought to be kept separate, Negroes and whites should associate with own race only, the idea is all right, but the Negro accommodations should be equal to the whites, etc.)",
+    "13.0": "Good idea: comment cannot clearly be classified as either existence of prejudice or as principle (we just don't mix, we never would get along, each one would know his own place)",
+    "14.0": "Good idea: no comment",
+    "21.0": "Poor idea: and statements of equality, democracy, justice, etc. as principles (that's what we're fighting for - democracy, why not - we're all fighting for the same thing, we're all American soldiers)",
+    "22.0": "Poor idea: belief or hope that closer association would bring better understanding between the races (we'll never improve conditions until we intermingle and learn to understand each other, a friendlier feeling would be promoted, the whites would see what",
+    "23.0": "Poor idea: other comments",
+    "24.0": "Poor idea: no comments",
+    "31.0": "Undecided: existence of prejudice",
+    "32.0": "Undecided: principle",
+    "33.0": "Undecided: not clearly existence of prejudice or principle",
+    "34.0": "Undecided: no comment"
+  },
+  "S32N.Q75": {
+    "0.0": "No code or no data",
+    "1.0": "Yes",
+    "2.0": "No",
+    "3.0": "Don't know",
+    "4.0": "No service club (volunteered)",
+    "5.0": "No Answer"
+  },
+  "S32N.Q76": {
+    "0.0": "No code or no data",
+    "1.0": "It is a good idea",
+    "2.0": "It is a good idea",
+    "3.0": "Undecided",
+    "4.0": "No Answer"
+  },
+  "S32N.Q76A": {
+    "0.0": "No Answer",
+    "11.0": "Good idea: the existence of prejudice (whites don't want to be with colored, there might be trouble and misunderstanding, it's necessary in the locality where I'm stationed etc.)",
+    "12.0": "Good idea: because of principle (the races ought to be kept separate, Negroes and whites should associate with own race only, the idea is all right, but the Negro accomodations should be equal to the whites, etc.)",
+    "13.0": "Good idea: comment cannot clearly be classified as either existence or prejudice or as principle (we just don't mix, we never would get along, each one would know his own place)",
+    "14.0": "Good idea: no comment",
+    "21.0": "Poor idea: and statements of equality, democracy, justice, etc. as principles (that's what we're fighting for - democracy, why not - we're all fighting for the same thing, we're all American soldiers)",
+    "22.0": "Poor idea: belief or hope that closer association would bring better understanding between the races (we'll never improve conditions until we intermingle and learn to understand each other, a friendlier feeling would be promoted, the whites would see what",
+    "23.0": "Poor idea: other comments",
+    "24.0": "Poor idea: no comments",
+    "31.0": "Undecided: existence of prejudice",
+    "32.0": "Undecided: principle",
+    "33.0": "Undecided: not clearly existence of prejudice or principle",
+    "34.0": "Undecided: no comment"
+  },
+  "S32N.Q77": {
+    "0.0": "No code or no data",
+    "1.0": "They should be in separate outfits",
+    "2.0": "They should be together in the same outfits",
+    "3.0": "It doesn't make any difference",
+    "4.0": "Undecided",
+    "5.0": "No Answer"
+  },
+  "S32N.Q77A": {
+    "0.0": "No code or no data",
+    "11.0": "Separate outfits: the existence of prejudice (whites don't want to be with colored, there might be trouble and misunderstanding, it's necessary in the locality where I'm stationed etc.)",
+    "12.0": "Separate outfits: because of principle (the races ought to be kept separate, Negroes and whites should associate with own race only, the idea is all right, but the Negro accommodations should be equal to the whites, etc.)",
+    "13.0": "Separate outfits: comment cannot clearly be classified as either existence of prejudice or as principle (we just don't mix, we never would get along, each one would know his own place)",
+    "14.0": "Separate outfits: no comment",
+    "21.0": "Same outfits: statements of equality, democracy, justice, etc. as principles (that's what we're fighting for - democracy, why not - we're all fighting for the same things, we're all American soldiers)",
+    "22.0": "Same outfits: belief or hope that closer association would bring better understanding between the races (we'll never improve conditions until we intermingle and learn to understand each other, a friendlier feeling would be promoted, the whites would see w",
+    "23.0": "Same outfits: other comment",
+    "24.0": "Same outfits: no comment",
+    "31.0": "Doesn't make any difference: comment implies non-segregation because of belief in democracy, etc.",
+    "32.0": "Doesn't make any difference: comment implies non-segregation because of hope that association will bring understanding",
+    "33.0": "Doesn't make any difference: comment implies acceptance of segregation because of the existence of prejudice",
+    "34.0": "Doesn't make any difference: comment implies acceptance of segregation on principle",
+    "35.0": "Doesn't make any difference: comment unclassified",
+    "36.0": "Doesn't make any difference: no comment",
+    "41.0": "Undecided: existence of prejudice",
+    "42.0": "Undecided: principle",
+    "44.0": "Undecided: no comment",
+    "51.0": "Comment implies non-segregation but codes 31 and 32 do not apply",
+    "NaN": "Col. 80 not used. CARD 3",
+    "43.0": "Undecided: unclassifiable comment",
+    "52.0": "No Answer"
+  },
+  "FORM.1": {
+    "1.0": "Sample of Negro enlisted men",
+    "2.0": "Sample of White enlisted men"
+  },
+  "S32N.V2": {
+    "1.0": "Cross-section cases",
+    "2.0": "All other cases"
+  },
+  "S32N.V78": {
+    "0.0": "Score of
+    "1.0": "Score of
+    "2.0": "Score of
+    "3.0": "Score of
+    "4.0": "Score of
+    "5.0": "Score of
+    "6.0": "Score of
+    "9.0": "No code or no data"
+  },
+  "S32N.V81": {
+    "1.0": "Score of
+    "NaN": "NA",
+    "2.0": "Score of
+    "3.0": "Score of
+    "9.0": "No code or no data"
+  },
+  "S32N.V85": {
+    "1.0": "Combat outfit overseas, actual fighting job, soldier",
+    "2.0": "Combat outfit overseas, actual fighting job, other",
+    "3.0": "Combat outfit overseas, other job, soldier",
+    "4.0": "Combat outfit overseas, other job, other",
+    "5.0": "Noncombat outfit overseas, actual fighting job, soldier",
+    "6.0": "Noncombat outfit overseas, actual fighting job, other",
+    "7.0": "Noncombat outfit overseas, other job, soldier",
+    "8.0": "Noncombat outfit overseas, other job, other",
+    "9.0": "Outfit in U.S., actual fighting job, soldier",
+    "10.0": "Outfit in U.S., actual fighting job, other",
+    "11.0": "Outfit in U.S., other job, soldier",
+    "12.0": "Outfit in U.S., other job, other",
+    "13.0": "No Answer"
+  },
+  "S32N.V86": {
+    "0.0": "No code or no data",
+    "1.0": "Tuskegee: Northern",
+    "2.0": "Tuskegee: Border state",
+    "3.0": "Tuskegee: Southern",
+    "4.0": "Huachuca: Northern",
+    "5.0": "Huachuca: Border state",
+    "6.0": "Huachuca: Southern",
+    "7.0": "Northern: Northern men",
+    "8.0": "Northern: Border state men",
+    "9.0": "Northern: Southern",
+    "10.0": "Southern: Northern men",
+    "11.0": "Southern: Border state men",
+    "12.0": "Southern: Southern men"
+  },
+  "S32N.V.13": {
+    "0.0": "No code or no data",
+    "1.0": "AGCT I, II, III, IV: classroom administration",
+    "2.0": "AGCT V: classroom administration",
+    "3.0": "AGCT V: personal interview",
+    "4.0": "AGCT unknown: classroom administration",
+    "5.0": "AGCT unknown: personal interview"
+  }
+}

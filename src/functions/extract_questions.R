@@ -1,6 +1,6 @@
 extract_questions <- function(lines) {
   
-  question_indicies <- which(stringr::str_detect(lines, "^\\s*[QVN]\\.\\.?\\s?\\s?[0-9][0-9]?[0-9]?[a-zA-Z]?\\."))
+  question_indicies <- which(stringr::str_detect(lines, "^\\s*[QVN]\\.\\.?\\s?\\s?[0-9][0-9]?[0-9]?[a-zA-Z]?[0-9]?[0-9]?\\."))
   weird_question_indices <- which(stringr::str_detect(lines, "^\\s*V\\..*?Cross"))
   weird_question_indices_2 <- which(stringr::str_detect(lines, "QUESTION\\s[0-9][0-9]?[a-zA-Z]?\\sCONTINUED"))
   admin_qs_indicies <- which(stringr::str_detect(lines, "(^\\s*CARD\\.?\\s+$|^\\s*DECK\\.?(\\s|#|[0-9])+$|^\\s*BALLOT\\.?\\s+$|^\\s*FORM\\.?:?\\s+$)"))

@@ -1,0 +1,718 @@
+{
+  "FORM": {
+    "1.0": "S-135A - A FORM",
+    "2.0": "S-135B - B FORM"
+  },
+  "S135B.Q1": {
+    "0.0": "NO ANSWER",
+    "1.0": "PILOT",
+    "2.0": "CO-PILOT",
+    "3.0": "NAVIGATOR",
+    "4.0": "BOMBARDIER",
+    "5.0": "ENGINEER",
+    "6.0": "RADIO OPERATOR",
+    "7.0": "GUNNER, BALL TURRET (B.T.)",
+    "8.0": "GUNNER, TAIL",
+    "9.0": "GUNNER, WAIST (\"RIGHT WAIST\", LEFT WAIST\", ETC. AS WAIST GUNNER)",
+    "10.0": "GUNNER, POSITION NOT SPECIFIED AND OTHER GUNNERS",
+    "11.0": "BOMBARDIER AND NAVIGATOR BOTH CHECKED",
+    "12.0": "OTHER (EXCEPT \"ENLISTED BOMBARDIER\", \"GUNNER BOMBARDIER\")"
+  },
+  "S135B.Q2A": {
+    "0.0": "NO ANSWER",
+    "1.0": "AUGUST, 1943 OR EARLIER",
+    "2.0": "SEPTEMBER, OCTOBER, 1943",
+    "3.0": "NOVEMBER, 1943",
+    "4.0": "DECEMBER, 1943",
+    "5.0": "JANUARY, 1944",
+    "6.0": "FEBRUARY, 1944",
+    "7.0": "MARCH, 1944",
+    "8.0": "APRIL, 1944",
+    "9.0": "MAY 1-15, 1944",
+    "10.0": "MAY 16-31, 1944",
+    "11.0": "JUNE, 1944"
+  },
+  "S135B.Q2B": {
+    "0.0": "NO ANSWER",
+    "1.0": "AUGUST, 1943 OR EARLIER",
+    "2.0": "SEPTEMBER, OCTOBER, 1943",
+    "3.0": "NOVEMBER, 1943",
+    "4.0": "DECEMBER, 1943",
+    "5.0": "JANUARY, 1944",
+    "6.0": "FEBRUARY, 1944",
+    "7.0": "MARCH, 1944",
+    "8.0": "APRIL, 1944",
+    "9.0": "MAY 1-15, 1944",
+    "10.0": "MAY 16-31, 1944",
+    "11.0": "JUNE, 1944"
+  },
+  "S135B.Q3": {
+    "1.0": "MAJORS",
+    "2.0": "CAPTAIN",
+    "3.0": "1ST LIEUTENANT",
+    "4.0": "2ND LIEUTENANT",
+    "5.0": "FLIGHT OFFICER",
+    "6.0": "MASTER SERGEANT OR TECHNICAL SERGEANT",
+    "7.0": "STAFF SERGEANT OR TECHNICIAN 3RD GRADE",
+    "8.0": "SERGEANT OR TECHNICIAN 4TH GRADE",
+    "9.0": "CORPORAL OR TECHNICIAN 5TH GRADE",
+    "10.0": "PRIVATE OR PRIVATE FIRST CLASS"
+  },
+  "S135B.Q4": {
+    "0.0": "NO ANSWER",
+    "1.0": "18 YEARS OR LESS",
+    "2.0": "19 YEARS",
+    "3.0": "20",
+    "4.0": "21",
+    "5.0": "22",
+    "6.0": "23",
+    "7.0": "24",
+    "8.0": "25",
+    "9.0": "26-29 YEARS",
+    "10.0": "30-34 YEARS",
+    "11.0": "35 YEARS AND OVER"
+  },
+  "S135B.Q5A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "BETTER SATISFIED THAN I WOULD BE WITH ANY OTHER COMBAT FLYING ASSIGNMENT",
+    "2.0": "AS WELL SATISFIED AS I WOULD BE WITH ANY OTHER",
+    "3.0": "WOULD BE BETTER SATISFIED IN SOME OTHER TYPE OF COMBAT FLYING ASSIGNMENT, SPECIFIES AN ASSIGNMENT",
+    "4.0": "WOULD BE BETTER SATISFIED IN SOME OTHER TYPE OF COMBAT FLYING ASSIGNMENT, NO ASSIGNMENT SPECIFIED",
+    "5.0": "NO ANSWER"
+  },
+  "S135B.Q5B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "BETTER FITTED FOR MY PRESENT ASSIGNMENT THAN FOR ANY OTHER",
+    "2.0": "AS WELL FITTED FOR MY PRESENT ASSIGNMENT AS FOR ANY OTHER",
+    "3.0": "FEEL BETTER FITTED FOR SOME OTHER TYPE OF COMBAT FLYING ASSIGNMENT, SPECIFIES AN ASSIGNMENT",
+    "4.0": "FEEL BETTER FITTED FOR SOME OTHER TYPE OF COMBAT FLYING ASSIGNMENT, NO ASSIGNMENT SPECIFIED",
+    "5.0": "NO ANSWER"
+  },
+  "S135B.Q6A.1": {
+    "1.0": "1 COMBAT MISSION",
+    "97.0": "97 COMBAT MISSIONS",
+    "98.0": "NONE",
+    "99.0": "NO ANSWER"
+  },
+  "S135B.Q6A.2": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONE COMBAT MISSION ABORTED 203",
+    "2.0": "TWO 109",
+    "3.0": "THREE 57",
+    "4.0": "FOUR 44",
+    "5.0": "FIVE 25",
+    "6.0": "SIX 12",
+    "7.0": "SEVEN 8",
+    "8.0": "EIGHT 3",
+    "9.0": "NINE 25",
+    "10.0": "TEN OR MORE COMBAT MISSIONS ABORTED 655",
+    "11.0": "NONE 17"
+  },
+  "S135B.Q6B": {
+    "0.0": "NO ANSWER",
+    "1.0": "1 OR 2 COMBAT MISSIONS",
+    "2.0": "3 OR 4",
+    "3.0": "5 OR 6",
+    "4.0": "7 OR 8",
+    "5.0": "9 OR 10",
+    "6.0": "11 OR 12",
+    "7.0": "13 OR 14",
+    "8.0": "15-19 COMBAT MISSIONS",
+    "9.0": "20-24 COMBAT MISSIONS",
+    "10.0": "25 OR MORE COMBAT MISSIONS",
+    "11.0": "NONE"
+  },
+  "S135B.Q7": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, I'M PRETTY SURE I WOULD",
+    "2.0": "YES, I THINK I WOULD, BUT I'M NOT SURE",
+    "3.0": "NO, I DON'T THINK I WOULD",
+    "4.0": "NO, I'M SURE I WOULD NOT"
+  },
+  "S135B.Q8": {
+    "0.0": "NO ANSWER",
+    "1.0": "EXCELLENT",
+    "2.0": "VERY GOOD",
+    "3.0": "FAIRLY GOOD",
+    "4.0": "NOT SO GOOD",
+    "5.0": "NOT GOOD AT ALL"
+  },
+  "S135B.Q9A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED",
+    "4.0": "YES, WITH QUALIFYING COMMENT",
+    "5.0": "NO, WITH QUALIFYING COMMENT",
+    "6.0": "UNDECIDED, WITH QUALIFYING COMMENT",
+    "7.0": "NOTHING CHECKED, BUT COMMENT WRITTEN IN"
+  },
+  "S135B.Q9B": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED",
+    "4.0": "YES, WITH QUALIFYING COMMENT",
+    "5.0": "NO, WITH QUALIFYING COMMENT",
+    "6.0": "UNDECIDED, WITH QUALIFYING COMMENT"
+  },
+  "S135B.Q10": {
+    "0.0": "NO ANSWER",
+    "1.0": "A VERY IMPORTANT PART",
+    "2.0": "A FAIRLY IMPORTANT PART",
+    "3.0": "NOT A VERY IMPORTANT PART",
+    "4.0": "NOT IMPORTANT AT ALL"
+  },
+  "S135B.Q11": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I FEEL THAT THEY ARE VERY MUCH AWARE OF OUR NEEDS",
+    "2.0": "I FEEL THAT THEY ARE FAIRLY WELL AWARE OF OUR NEEDS",
+    "NaN": "QUESTION 11A NOT CODED.",
+    "3.0": "I FEEL THAT THEY DON'T KNOW VERY MUCH ABOUT OUR REAL PROBLEMS AND NEEDS",
+    "4.0": "NO ANSWER"
+  },
+  "S135B.Q12": {
+    "0.0": "NO ANSWER",
+    "1.0": "NO, SPECIFIES B-17, FORT, ETC.",
+    "2.0": "NO, SPECIFIES B-24, LIBERATOR, ETC.",
+    "3.0": "NO SPECIFIES B-29",
+    "4.0": "NO, SPECIFIES ANY OTHER TYPE OF PLANE (OTHER THAN B-17, B-24 OR B-29)",
+    "5.0": "NO, SPECIFIES LATER MODEL OF SOME PLANE (E.G. 17-G, ETC.)",
+    "6.0": "NO, DOES NOT SPECIFY",
+    "7.0": "YES",
+    "8.0": "UNCERTAIN"
+  },
+  "S135B.Q13A": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONE DAY IN A ROW",
+    "2.0": "TWO DAYS IN A ROW",
+    "3.0": "THREE DAYS IN A ROW",
+    "4.0": "FOUR DAYS IN A ROW",
+    "5.0": "FIVE DAYS IN A ROW",
+    "6.0": "ONE OR TWO DAYS IN A ROW",
+    "7.0": "TWO OR THREE DAYS IN A ROW",
+    "8.0": "THREE OR FOUR DAYS IN A ROW",
+    "9.0": "FOUR OR FIVE DAYS IN A ROW",
+    "10.0": "MORE THAN FIVE DAYS IN A ROW",
+    "11.0": "QUALIFIED ANSWER WRITTEN IN, WITH NO PERIOD OF TIME INDICATED"
+  },
+  "S135B.Q13B": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN 15 MISSIONS",
+    "2.0": "15 MISSIONS",
+    "3.0": "16-19 MISSIONS",
+    "4.0": "20 MISSIONS",
+    "5.0": "21-24 MISSIONS",
+    "6.0": "25 MISSIONS",
+    "7.0": "26-29 MISSIONS",
+    "8.0": "30 MISSIONS",
+    "9.0": "MORE THAN 30 MISSIONS",
+    "10.0": "QUALIFIED OR INDEFINITE ANSWER",
+    "11.0": "QUESTION MISUNDERSTOOD (FROM FREE COMMENT)"
+  },
+  "S135B.Q14A.1": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONE COMBAT MISSION",
+    "2.0": "TWO",
+    "3.0": "THREE",
+    "4.0": "FOUR",
+    "5.0": "FIVE",
+    "6.0": "SIX",
+    "7.0": "SEVEN",
+    "8.0": "EIGHT",
+    "9.0": "NINE",
+    "10.0": "TEN COMBAT MISSIONS",
+    "11.0": "NONE"
+  },
+  "S135B.Q14A.2": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONE MISSION 88",
+    "2.0": "TWO 122",
+    "3.0": "THREE 178",
+    "4.0": "FOUR 206",
+    "5.0": "FIVE 239",
+    "6.0": "SIX 244",
+    "7.0": "SEVEN 155",
+    "8.0": "EIGHT 86",
+    "9.0": "NINE 118",
+    "10.0": "TEN MISSIONS 52",
+    "11.0": "NONE 15"
+  },
+  "S135B.Q14B.1": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONE COMBAT MISSION",
+    "2.0": "TWO",
+    "3.0": "THREE",
+    "4.0": "FOUR",
+    "5.0": "FIVE",
+    "6.0": "SIX",
+    "7.0": "SEVEN",
+    "8.0": "EIGHT",
+    "9.0": "NINE",
+    "10.0": "TEN COMBAT MISSIONS",
+    "11.0": "NONE"
+  },
+  "S135B.Q14B.2": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONE MISSION 549",
+    "2.0": "TWO 479",
+    "3.0": "THREE 39",
+    "4.0": "FOUR 6",
+    "5.0": "FIVE",
+    "6.0": "SIX 2",
+    "7.0": "SEVEN",
+    "8.0": "EIGHT 1",
+    "9.0": "NINE 1",
+    "10.0": "TEN MISSIONS 134",
+    "11.0": "NONE 37"
+  },
+  "S135B.Q14C": {
+    "0.0": "NO ANSWER",
+    "NaN": "QUALIFIED OR INDEFINITE ANSWERS Q.14C: ONE NUMBER GIVEN INCLUDING TURNBACKS, ANOTHER NUMBER NOT INCLUDING THESE, ETC.",
+    "1.0": "ONE DAY IN A ROW",
+    "2.0": "TWO",
+    "3.0": "THREE",
+    "4.0": "FOUR",
+    "5.0": "FIVE",
+    "6.0": "SIX",
+    "7.0": "SEVEN",
+    "8.0": "EIGHT",
+    "9.0": "NINE",
+    "10.0": "TEN OR MORE DAYS IN A ROW",
+    "11.0": "QUALIFIED OR INDEFINITE"
+  },
+  "S135B.Q15A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, USUALLY",
+    "2.0": "YES, ONCE IN A WHILE",
+    "3.0": "NO",
+    "4.0": "CHECKS FIRST CATEGORY, BUT CROSSES OUT \"USUALLY\" AND WRITES IN \"ALWAYS\"",
+    "5.0": "NO ANSWER"
+  },
+  "S135B.Q15B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NO ANSWER"
+  },
+  "S135B.Q16": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ON THE WHOLE THEY ARE LESS DIFFICULT NOW THAN THEY WERE",
+    "2.0": "THEY ARE ABOUT THE SAME AS THEY WERE",
+    "3.0": "ON THE WHOLE THEY ARE MORE DIFFICULT NOW THAN THEY WERE",
+    "4.0": "HAVEN'T BEEN FLYING LONG ENOUGH TO SAY",
+    "5.0": "NO ANSWER"
+  },
+  "S135B.Q17": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY GOOD",
+    "2.0": "FAIRLY GOOD",
+    "3.0": "NOT SO GOOD",
+    "NaN": "QUESTION 17A NOT CODED.",
+    "4.0": "NOT GOOD AT ALL",
+    "5.0": "NO OPINION"
+  },
+  "S135B.Q18": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "DON'T KNOW",
+    "4.0": "NO ANSWER"
+  },
+  "S135B.Q19": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "PRACTICALLY NEVER HAVE FELT THIS",
+    "2.0": "HAVE FELT THIS OCCASIONALLY",
+    "3.0": "HAVE FELT THIS QUITE OFTEN",
+    "4.0": "BERLIN MENTIONED WITH CATEGORY 1, \"PRACTICALLY NEVER\"",
+    "5.0": "BERLIN MENTIONED WITH CATEGORY 2, \"HAVE FELT THIS OCCASIONALLY\"",
+    "6.0": "BERLIN MENTIONED WITH CATEGORY 3, \"HAVE FELT THIS QUITE OFTEN\"",
+    "7.0": "NO ANSWER"
+  },
+  "S135B.Q20": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, QUITE OFTEN",
+    "2.0": "YES, SOMETIMES",
+    "3.0": "NO, NEVER",
+    "4.0": "BERLIN MENTIONED WITH CATEGORY 1, \"YES, QUITE OFTEN\"",
+    "5.0": "BERLIN MENTIONED WITH CATEGORY 2, \"YES, SOMETIMES\"",
+    "6.0": "BERLIN MENTIONED WITH CATEGORY 3, \"NO, NEVER\""
+  },
+  "S135B.Q21": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY GOOD PHYSICAL CONDITION",
+    "2.0": "GOOD PHYSICAL CONDITION",
+    "3.0": "FAIR PHYSICAL CONDITION",
+    "4.0": "POOR PHYSICAL CONDITION",
+    "5.0": "VERY POOR PHYSICAL CONDITION"
+  },
+  "S135B.Q22": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY GOOD",
+    "2.0": "GOOD",
+    "3.0": "FAIR",
+    "4.0": "POOR",
+    "5.0": "VERY POOR"
+  },
+  "S135B.Q23": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY GOOD",
+    "2.0": "GOOD",
+    "3.0": "FAIR",
+    "4.0": "POOR",
+    "5.0": "VERY POOR",
+    "6.0": "DID NOT GO TO A TRAINING CENTER IN ETO"
+  },
+  "S135B.Q24A": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE THAN ENOUGH",
+    "2.0": "ABOUT THE RIGHT AMOUNT",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "NOT NEARLY ENOUGH",
+    "5.0": "DOES NOT APPLY TO ME"
+  },
+  "S135B.Q24B": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE THAN ENOUGH",
+    "2.0": "ABOUT THE RIGHT AMOUNT",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "NOT NEARLY ENOUGH",
+    "5.0": "DOES NOT APPLY TO ME"
+  },
+  "S135B.Q24C": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE THAN ENOUGH",
+    "2.0": "ABOUT THE RIGHT AMOUNT",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "NOT NEARLY ENOUGH",
+    "5.0": "DOES NOT APPLY TO ME"
+  },
+  "S135B.Q24D": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE THAN ENOUGH",
+    "2.0": "ABOUT THE RIGHT AMOUNT",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "NOT NEARLY ENOUGH",
+    "5.0": "DOES NOT APPLY TO ME"
+  },
+  "S135B.Q24E": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE THAN ENOUGH",
+    "2.0": "ABOUT THE RIGHT AMOUNT",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "NOT NEARLY ENOUGH",
+    "5.0": "DOES NOT APPLY TO ME"
+  },
+  "S135B.Q24F": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE THAN ENOUGH",
+    "2.0": "ABOUT THE RIGHT AMOUNT",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "NOT NEARLY ENOUGH",
+    "5.0": "DOES NOT APPLY TO ME"
+  },
+  "S135B.Q24G": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "MORE THAN ENOUGH",
+    "2.0": "ABOUT THE RIGHT AMOUNT",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "NOT NEARLY ENOUGH",
+    "5.0": "DOES NOT APPLY TO ME",
+    "6.0": "NO ANSWER"
+  },
+  "S135B.Q25A": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE THAN ENOUGH",
+    "2.0": "ABOUT THE RIGHT AMOUNT",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "NOT NEARLY ENOUGH",
+    "5.0": "DOES NOT APPLY TO ME"
+  },
+  "S135B.Q25B": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE THAN ENOUGH",
+    "2.0": "ABOUT THE RIGHT AMOUNT",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "NOT NEARLY ENOUGH",
+    "5.0": "DOES NOT APPLY TO ME"
+  },
+  "S135B.Q25C": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE THAN ENOUGH",
+    "2.0": "ABOUT THE RIGHT AMOUNT",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "NOT NEARLY ENOUGH",
+    "5.0": "DOES NOT APPLY TO ME"
+  },
+  "S135B.Q25D": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE THAN ENOUGH",
+    "2.0": "ABOUT THE RIGHT AMOUNT",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "NOT NEARLY ENOUGH",
+    "5.0": "DOES NOT APPLY TO ME"
+  },
+  "S135B.Q25E": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "MORE THAN ENOUGH",
+    "2.0": "ABOUT THE RIGHT AMOUNT",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "NOT NEARLY ENOUGH",
+    "5.0": "DOES NOT APPLY TO ME",
+    "6.0": "NO ANSWER"
+  },
+  "S135B.Q25F": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE THAN ENOUGH",
+    "2.0": "ABOUT THE RIGHT AMOUNT",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "NOT NEARLY ENOUGH",
+    "5.0": "DOES NOT APPLY TO ME"
+  },
+  "S135B.Q25G": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE THAN ENOUGH",
+    "2.0": "ABOUT THE RIGHT AMOUNT",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "NOT NEARLY ENOUGH",
+    "5.0": "DOES NOT APPLY TO ME"
+  },
+  "S135B.Q25H": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE THAN ENOUGH",
+    "2.0": "ABOUT THE RIGHT AMOUNT",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "NOT NEARLY ENOUGH",
+    "5.0": "DOES NOT APPLY TO ME"
+  },
+  "S135B.Q25I": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, ONE OR MORE KINDS SPECIFIED",
+    "2.0": "YES, AND NOTHING SPECIFIED",
+    "3.0": "NO",
+    "4.0": "NO ANSWER"
+  },
+  "S135B.Q26A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "1-9 HOURS",
+    "2.0": "10-19 HOURS",
+    "3.0": "20-29 HOURS",
+    "4.0": "30-39 HOURS",
+    "5.0": "40-49 HOURS",
+    "6.0": "50-74 HOURS",
+    "7.0": "75-99 HOURS",
+    "8.0": "100-149 HOURS",
+    "9.0": "150 OR MORE HOURS",
+    "10.0": "NONE",
+    "11.0": "NO ANSWER"
+  },
+  "S135B.Q26B": {
+    "0.0": "NO ANSWER",
+    "NaN": "COLS. 79-80 NOT USED. CARD 2",
+    "1.0": "1 HOUR",
+    "2.0": "2 HOURS",
+    "3.0": "3 HOURS",
+    "4.0": "4 HOURS",
+    "5.0": "5 HOURS",
+    "6.0": "6 HOURS",
+    "7.0": "7 OR 8 HOURS",
+    "8.0": "9 OR 10 HOURS",
+    "9.0": "11-15 HOURS",
+    "10.0": "16 OR MORE HOURS",
+    "11.0": "NONE"
+  },
+  "FORM..1": {
+    "1.0": "S-135A - A FORM",
+    "2.0": "S-135B - B FORM"
+  },
+  "S135B.Q26C": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "1-9 HOURS",
+    "2.0": "10-19 HOURS",
+    "3.0": "20-29 HOURS",
+    "4.0": "30-39 HOURS",
+    "5.0": "40-49 HOURS",
+    "6.0": "50-74 HOURS",
+    "7.0": "75-99 HOURS",
+    "8.0": "100-149 HOURS",
+    "9.0": "150 OR MORE HOURS",
+    "10.0": "NONE",
+    "11.0": "NO ANSWER"
+  },
+  "S135B.Q26D": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "1-9 HOURS",
+    "2.0": "10-19 HOURS",
+    "3.0": "20-29 HOURS",
+    "4.0": "30-39 HOURS",
+    "5.0": "40-49 HOURS",
+    "6.0": "50-74 HOURS",
+    "7.0": "75-99 HOURS",
+    "8.0": "100-149 HOURS",
+    "9.0": "150 OR MORE HOURS",
+    "10.0": "NONE",
+    "11.0": "NO ANSWER"
+  },
+  "S135B.Q27A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "LESS THAN 100 ROUNDS",
+    "2.0": "100-199 ROUNDS",
+    "3.0": "200-499 ROUNDS",
+    "4.0": "500-999 ROUNDS",
+    "5.0": "1000-1999 ROUNDS",
+    "6.0": "2000-4999 ROUNDS",
+    "7.0": "5000-9999 ROUNDS",
+    "8.0": "10,000 OR MORE ROUNDS",
+    "9.0": "NONE",
+    "10.0": "NO ANSWER"
+  },
+  "S135B.Q27B": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN 100 ROUNDS",
+    "2.0": "100-199 ROUNDS",
+    "3.0": "200-499 ROUNDS",
+    "4.0": "500-999 ROUNDS",
+    "5.0": "1000-1999 ROUNDS",
+    "6.0": "2000-4999 ROUNDS",
+    "7.0": "5000-9999 ROUNDS",
+    "8.0": "10,000 OR MORE ROUNDS",
+    "9.0": "NONE"
+  },
+  "S135B.Q28A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, ON A NUMBER OF OCCASIONS",
+    "2.0": "YES, ONCE OR TWICE",
+    "3.0": "NO, NEVER",
+    "4.0": "NO ANSWER"
+  },
+  "S135B.Q28B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "TOO STRICT",
+    "2.0": "ABOUT RIGHT",
+    "3.0": "NOT STRICT ENOUGH",
+    "4.0": "DON'T KNOW",
+    "5.0": "NO ANSWER"
+  },
+  "S135B.Q29A": {
+    "0.0": "NO ANSWER",
+    "2.0": "NO",
+    "NaN": "QUESTIONS 29B AND 29C NOT CODED.",
+    "1.0": "YES",
+    "3.0": "NOT SURE"
+  },
+  "S135B.Q30A": {
+    "0.0": "NO ANSWER",
+    "1.0": "PUNISH THE LEADERS, BUT NOT THE ORDINARY GERMANS",
+    "2.0": "MAKE THE ORDINARY GERMAN PEOPLE SUFFER PLENTY",
+    "3.0": "WIPE OUT THE WHOLE GERMAN NATION"
+  },
+  "S135B.Q30B": {
+    "0.0": "NO ANSWER",
+    "1.0": "PUNISH THE LEADERS, BUT NOT THE ORDINARY JAPANESE",
+    "2.0": "MAKE THE ORDINARY JAPANESE PEOPLE SUFFER PLENTY",
+    "3.0": "WIPE OUT THE WHOLE JAPANESE NATION"
+  },
+  "S135B.Q31A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, IT MATTERS QUITE A BIT TO ME WHAT THEY SAY",
+    "2.0": "NO, IT DOESN'T MAKE ANY PARTICULAR DIFFERENCE TO ME WHAT THEY SAY",
+    "3.0": "NO ANSWER"
+  },
+  "S135B.Q31B": {
+    "0.0": "NO ANSWER",
+    "1.0": "TOO MUCH CREDIT",
+    "2.0": "ABOUT THE RIGHT AMOUNT OF CREDIT",
+    "3.0": "TOO LITTLE CREDIT",
+    "4.0": "I DON'T READ THEM OFTEN ENOUGH TO SAY"
+  },
+  "S135B.Q32A": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALMOST EVERY DAY",
+    "2.0": "THREE OR FOUR TIMES A WEEK",
+    "3.0": "ONCE OR TWICE A WEEK",
+    "4.0": "LESS THAN ONCE A WEEK",
+    "5.0": "ALMOST NEVER"
+  },
+  "S135B.Q32B": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALMOST EVERY DAY",
+    "2.0": "THREE OR FOUR TIMES A WEEK",
+    "3.0": "ONCE OR TWICE A WEEK",
+    "4.0": "LESS THAN ONCE A WEEK",
+    "5.0": "ALMOST NEVER"
+  },
+  "S135B.Q33": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "WOULD USUALLY RATHER READ \"STARS AND STRIPES\"",
+    "2.0": "WOULD USUALLY RATHER READ SOME BRITISH NEWSPAPER",
+    "3.0": "WOULD JUST AS SOON READ ONE AS THE OTHER",
+    "4.0": "NO OPINION",
+    "5.0": "NO ANSWER"
+  },
+  "S135B.Q34": {
+    "0.0": "NO ANSWER",
+    "1.0": "A VERY GOOD JOB",
+    "2.0": "A GOOD JOB",
+    "3.0": "A FAIR JOB",
+    "4.0": "A POOR JOB",
+    "5.0": "A VERY POOR JOB"
+  },
+  "S135B.Q35": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ALMOST EVERY DAY",
+    "2.0": "THREE OR FOUR TIMES A WEEK",
+    "3.0": "ONCE OR TWICE A WEEK",
+    "4.0": "LESS THAN ONCE A WEEK",
+    "5.0": "ALMOST NEVER",
+    "6.0": "NO ANSWER"
+  },
+  "S135B.Q36A": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALMOST EVERY DAY",
+    "2.0": "THREE OR FOUR TIMES A WEEK",
+    "3.0": "ONCE OR TWICE A WEEK",
+    "4.0": "LESS THAN ONCE A WEEK",
+    "5.0": "ALMOST NEVER"
+  },
+  "S135B.Q36B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "TOO MUCH CREDIT",
+    "2.0": "ABOUT THE RIGHT AMOUNT OF CREDIT",
+    "3.0": "TOO LITTLE CREDIT",
+    "4.0": "I DON'T LISTEN TO THEM OFTEN ENOUGH TO SAY",
+    "5.0": "NO ANSWER"
+  },
+  "S135B.Q37A": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALMOST EVERY DAY",
+    "2.0": "THREE OR FOUR TIMES A WEEK",
+    "3.0": "ONCE OR TWICE A WEEK",
+    "4.0": "LESS THAN ONCE A WEEK",
+    "5.0": "ALMOST NEVER"
+  },
+  "S135B.Q37B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY LITTLE TRUTH IN WHAT THEY SAY",
+    "2.0": "SOME TRUTH IN WHAT THEY SAY",
+    "NaN": "QUESTION 38 NOT CODED.",
+    "3.0": "A GOOD DEAL OF TRUTH IN WHAT THEY SAY",
+    "4.0": "NO OPINION"
+  },
+  "S135B.V39": {
+    "1.0": "1ST DIVISION - 398TH HEAVY BOMBER - B-17",
+    "2.0": "1ST DIVISION - 305TH HEAVY BOMBER - B-17",
+    "3.0": "1ST DIVISION - 306TH HEAVY BOMBER - B-17",
+    "4.0": "1ST DIVISION - 379TH HEAVY BOMBER - B-17",
+    "5.0": "1ST DIVISION - 351ST HEAVY BOMBER - B-17",
+    "6.0": "2ND DIVISION - 389TH HEAVY BOMBER - B-24",
+    "7.0": "2ND DIVISION - 44TH HEAVY BOMBER - B-24",
+    "8.0": "2ND DIVISION - 446TH HEAVY BOMBER - B-24",
+    "9.0": "2ND DIVISION - 448TH HEAVY BOMBER - B-24",
+    "10.0": "2ND DIVISION - 458TH HEAVY BOMBER - B-24",
+    "11.0": "3RD DIVISION - 486TH HEAVY BOMBER - B-24",
+    "12.0": "3RD DIVISION - 385TH HEAVY BOMBER - B-17",
+    "13.0": "3RD DIVISION - 447TH HEAVY BOMBER - B-17",
+    "14.0": "3RD DIVISION - 95TH HEAVY BOMBER - B-17",
+    "15.0": "3RD DIVISION - 388TH HEAVY BOMBER - B-17"
+  }
+}

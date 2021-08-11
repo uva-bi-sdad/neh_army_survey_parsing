@@ -1,0 +1,971 @@
+{
+  "FORM": {
+    "1.0": "S-100A",
+    "2.0": "S-10XX",
+    "3.0": "S-100C",
+    "4.0": "S-100D",
+    "5.0": "S-100E",
+    "6.0": "S-100F",
+    "7.0": "S-100G"
+  },
+  "S100B.Q1": {
+    "0.0": "NO ANSWER",
+    "1.0": "PRIVATE",
+    "2.0": "PRIVATE FIRST CLASS",
+    "3.0": "CORPORAL OR TECHNICIAN 5TH GRADE",
+    "4.0": "SERGEANT OR TECHNICIAN 4TH GRADE",
+    "5.0": "STAFF SERGEANT OR TECHNICIAN 3RD GRADE",
+    "6.0": "TECHNICAL SERGEANT, MASTER SERGEANT, OR FIRST SERGEANT"
+  },
+  "S100B.Q2": {
+    "0.0": "NO ANSWER",
+    "1.0": "ENGINEERS",
+    "2.0": "FIELD ARTILLERY",
+    "3.0": "QUARTERMASTER CORPS",
+    "4.0": "INFANTRY",
+    "5.0": "MEDICAL DEPARTMENT",
+    "6.0": "ARMORED FORCE",
+    "7.0": "SIGNAL CORPS",
+    "8.0": "COAST ARTILLERY AND ANTI-AIRCRAFT",
+    "9.0": "AIR CORPS",
+    "10.0": "TRANSPORTATION CORPS",
+    "11.0": "ORDNANCE DEPARTMENT",
+    "12.0": "CHEMICAL WARFARE SERVICE",
+    "13.0": "MILITARY POLICE"
+  },
+  "S100B.Q3": {
+    "0.0": "NO ANSWER",
+    "1.0": "ENGINEERS",
+    "2.0": "FIELD ARTILLERY",
+    "3.0": "QUARTERMASTER CORPS",
+    "4.0": "INFANTRY",
+    "5.0": "MEDICAL DEPARTMENT",
+    "6.0": "ARMORED FORCE",
+    "7.0": "SIGNAL CORPS",
+    "8.0": "COAST ARTILLERY AND ANTI-AIRCRAFT",
+    "9.0": "AIR CORPS",
+    "10.0": "TRANSPORTATION CORPS",
+    "11.0": "ORDNANCE DEPARTMENT",
+    "12.0": "CHEMICAL WARFARE SERVICE",
+    "13.0": "MILITARY POLICE"
+  },
+  "S100B.Q4.1": {
+    "0.0": "NO ANSWER",
+    "1.0": "JANUARY",
+    "2.0": "FEBRUARY",
+    "3.0": "MARCH",
+    "4.0": "APRIL",
+    "5.0": "MAY",
+    "6.0": "JUNE",
+    "7.0": "JULY",
+    "8.0": "AUGUST",
+    "9.0": "SEPTEMBER",
+    "10.0": "OCTOBER",
+    "11.0": "NOVEMBER",
+    "12.0": "DECEMBER"
+  },
+  "S100B.Q4.2": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "1940 OR EARLIER 576",
+    "2.0": "1941 1143",
+    "3.0": "1942 161",
+    "NaN": "QUESTION 5A NOT CODED.",
+    "4.0": "1943 2",
+    "5.0": "1944 21",
+    "6.0": "NO ANSWER 3"
+  },
+  "S100B.Q5B": {
+    "0.0": "NONE",
+    "1.0": "1 DAY",
+    "365.0": "365 DAYS",
+    "999.0": "NO ANSWER"
+  },
+  "S100B.Q6": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALL OR MOST OF THE TIME",
+    "2.0": "SOME OF THE TIME",
+    "3.0": "LITTLE OR NONE OF THE TIME"
+  },
+  "S100B.Q7": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE THAN HALF OF THE MEN HAVE BEEN CASUALTIES",
+    "2.0": "BETWEEN A QUARTER AND A HALF HAVE BEEN CASUALTIES",
+    "3.0": "LESS THAN A QUARTER HAVE BEEN CASUALTIES",
+    "4.0": "DON'T KNOW"
+  },
+  "S100B.Q8A": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONE",
+    "2.0": "TWO",
+    "3.0": "THREE",
+    "4.0": "FOUR",
+    "5.0": "FIVE",
+    "6.0": "SIX",
+    "7.0": "NONE"
+  },
+  "S100B.Q8B": {
+    "0.0": "NO ANSWER",
+    "1.0": "I HAVE MORE CONFIDENCE",
+    "2.0": "I HAVE LESS CONFIDENCE",
+    "3.0": "I HAVE ABOUT THE SAME AMOUNT OF CONFIDENCE"
+  },
+  "S100B.Q8C": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONE",
+    "2.0": "TWO",
+    "3.0": "THREE",
+    "4.0": "FOUR",
+    "5.0": "FIVE",
+    "6.0": "SIX",
+    "7.0": "NONE"
+  },
+  "S100B.Q9": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, VERY PROUD",
+    "2.0": "YES, FAIRLY PROUD",
+    "3.0": "NO, NOT PROUD",
+    "4.0": "UNDECIDED"
+  },
+  "S100B.Q10": {
+    "0.0": "NO ANSWER",
+    "1.0": "I AM USUALLY IN GOOD SPIRITS",
+    "2.0": "I AM IN GOOD SPIRITS SOME OF THE TIME AND IN LOW SPIRITS SOME OF THE TIME",
+    "3.0": "I AM USUALLY IN LOW SPIRITS"
+  },
+  "S100B.Q11": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE IMPORTANT THAN MOST ANY OTHER SOLDIER,S JOB",
+    "2.0": "IMPORTANT, BUT NO MORE SO THAN MANY OTHERS",
+    "3.0": "NOT VERY IMPORTANT COMPARED WITH WHAT OTHER SOLDIERS CAN DO"
+  },
+  "S100B.Q12A": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY GOOD",
+    "2.0": "FAIRLY GOOD",
+    "3.0": "NOT VERY GOOD",
+    "4.0": "NOT GOOD AT ALL"
+  },
+  "S100B.Q12B": {
+    "0.0": "NO ANSWER",
+    "1.0": "A VERY IMPORTANT PART",
+    "2.0": "A FAIRLY IMPORTANT PART",
+    "3.0": "NOT A VERY IMPORTANT PART",
+    "4.0": "NOT IMPORTANT AT ALL"
+  },
+  "S100B.Q13": {
+    "0.0": "NO ANSWER",
+    "1.0": "I USUALLY FEEL IT IS WORTHWHILE",
+    "2.0": "I USUALLY FEEL IT IS NOT WORTHWHILE",
+    "3.0": "UNDECIDED"
+  },
+  "S100B.Q14": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, ALMOST ALWAYS",
+    "2.0": "YES, SOMETIMES",
+    "NaN": "QUESTIONS 15A AND 15B TO BE CODED TOGETHER.",
+    "3.0": "NO, NEVER",
+    "4.0": "UNDECIDED"
+  },
+  "S100B.Q15A.x": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, I FELT ALL THE MORE LIKE KILLING THEM",
+    "2.0": "YES, I FELT THAT THEY ARE MEN JUST LIKE US AND IT IS TOO BAD THAT WE HAVE TO BE FIGHTING THEM",
+    "3.0": "YES, I DIDN'T HAVE ANY FEELING ONE WAY OR ANOTHER",
+    "4.0": "YES, SOME OTHER FEELING",
+    "5.0": "YES, NO ANSWER",
+    "6.0": "NO"
+  },
+  "S100B.Q16": {
+    "0.0": "NO ANSWER",
+    "1.0": "AS MUCH AS THEY COULD",
+    "2.0": "THEY COULD HAVE GIVEN US A LITTLE MORE",
+    "3.0": "THEY COULD HAVE GIVEN US A GREAT DEAL MORE"
+  },
+  "S100B.Q17": {
+    "0.0": "NO ANSWER",
+    "1.0": "AS MUCH AS THEY COULD",
+    "2.0": "COULD HAVE DONE SOMEWHAT MORE",
+    "3.0": "COULD HAVE DONE A GREAT DEAL MORE"
+  },
+  "S100B.Q18A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S100B.Q18B": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S100B.Q19": {
+    "0.0": "NO ANSWER",
+    "1.0": "PURPLE HEART",
+    "2.0": "SILVER STAR",
+    "3.0": "DISTINGUISHED SERVICE CROSS",
+    "4.0": "PURPLE HEART AND SILVER STAR",
+    "5.0": "PURPLE HEART AND DISTINGUISHED SERVICE CROSS",
+    "6.0": "SILVER STAR AND DISTINGUISHED SERVICE CROSS",
+    "7.0": "PURPLE HEART, SILVER STAR AND DISTINGUISHED SERVICE CROSS",
+    "8.0": "NONE OF THE THREE (PURPLE HEART, SILVER STAR, DISTINGUISHED SERVICE CROSS)",
+    "9.0": "OTHER"
+  },
+  "S100B.Q20A": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALL MEN I KNOW WHO GOT THEM REALLY DESERVED THEM",
+    "2.0": "A FEW MEN I KNOW WHO GOT THEM DID NOT DESERVE THEM",
+    "3.0": "MANY MEN I KNOW WHO GOT THEM DID NOT DESERVE THEM"
+  },
+  "S100B.Q20B": {
+    "0.0": "NO ANSWER",
+    "1.0": "MANY MEN I KNOW DESERVED SILVER STARS BUT DID NOT GET THEM",
+    "2.0": "A FEW MEN I KNOW DESERVED SILVER STARS BUT DID NOT GET THEM",
+    "3.0": "NOBODY I KNOW DESERVED A SILVER STAR BUT DID NOT GET IT"
+  },
+  "S100B.Q21": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT WAS MORE FRIGHTENING THE MORE I SAW OF IT",
+    "2.0": "IT WAS LESS FRIGHTENING THE MORE I SAW OF IT",
+    "NaN": "CODES 01-04 PRECODED ON QUESTIONNAIRE, OTHER RESPONSES VOLUNTEERED.",
+    "3.0": "IT WAS NEVER FRIGHTENING",
+    "4.0": "IT STAYED FRIGHTENING ALL THE TIME"
+  },
+  "S100B.Q22": {
+    "0.0": "NO ANSWER",
+    "1.0": "I WANT VERY MUCH TO GET INTO IT AS SOON AS POSSIBLE",
+    "2.0": "I AM READY TO GO ANY TIME",
+    "3.0": "I HOPE I WON'T HAVE TO GO BUT IF I GO I THINK I WILL DO ALL RIGHT",
+    "4.0": "I HOPE I WON'T HAVE TO GO BECAUSE I DON,T THINK I WOULD DO VERY WELL",
+    "5.0": "HAVE DONE MY SHARE, LET OTHERS FIGHT",
+    "6.0": "NEED A REST OR FURLOUGH FIRST",
+    "7.0": "COULDN'T STAND IT, AFRAID, NERVES SHOT",
+    "8.0": "PHYSICAL CONDITION",
+    "9.0": "QUALIFIED ACCEPTANCE",
+    "10.0": "REFUSAL (MISCELLANEOUS)",
+    "11.0": "ALL OTHER"
+  },
+  "S100B.Q23": {
+    "0.0": "NO ANSWER",
+    "1.0": "I AM HARDLY EVER WORRIED AND UPSET",
+    "2.0": "I AM SOMETIMES WORRIED AND UPSET",
+    "3.0": "I AM OFTEN WORRIED AND UPSET"
+  },
+  "S100B.Q24": {
+    "0.0": "NO ANSWER",
+    "1.0": "I HAVE A PRETTY GOOD TIME",
+    "2.0": "IT'S ABOUT FIFTY-FIFTY",
+    "3.0": "I HAVE A PRETTY ROTTEN TIME"
+  },
+  "S100B.Q25A": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALL OF OUR EQUIPMENT IS BETTER",
+    "2.0": "MOST OF OUR EQUIPMENT IS BETTER",
+    "3.0": "OUR EQUIPMENT IS ABOUT THE SAME AS THAT OF THE JAPANESE ARMY",
+    "4.0": "MOST OF OUR EQUIPMENT IS WORSE",
+    "5.0": "ALL OF OUR EQUIPMENT IS WORSE",
+    "6.0": "DON'T KNOW"
+  },
+  "S100B.Q25B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NO JAPANESE WEAPONS ARE BETTER THAN OURS",
+    "2.0": "SOME JAPANESE WEAPONS ARE BETTER THAN OURS"
+  },
+  "S100B.Q26": {
+    "0.0": "NO ANSWER",
+    "1.0": "HE DID MUCH BETTER THAN AVERAGE",
+    "2.0": "HE DID BETTER THAN AVERAGE",
+    "3.0": "SAME AS AVERAGE",
+    "4.0": "HE DID WORSE THAN AVERAGE",
+    "5.0": "HE DID MUCH WORSE THAN AVERAGE",
+    "6.0": "ANY OTHER ANSWER"
+  },
+  "S100B.Q27": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALL OF THEM ARE",
+    "2.0": "MOST OF THEM ARE",
+    "3.0": "ABOUT HALF OF THEM ARE",
+    "4.0": "FEW OF THEM ARE",
+    "5.0": "NONE OF THEM ARE"
+  },
+  "S100B.Q28A": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALL OF THEM ARE",
+    "2.0": "MOST OF THEM ARE",
+    "3.0": "ABOUT HALF OF THEM ARE",
+    "4.0": "FEW OF THEM ARE",
+    "5.0": "NONE OF THEM ARE"
+  },
+  "S100B.Q28B": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALL OF THEM ARE",
+    "2.0": "MOST OF THEM ARE",
+    "3.0": "ABOUT HALF OF THEM ARE",
+    "4.0": "FEW OF THEM ARE",
+    "5.0": "NONE OF THEM ARE"
+  },
+  "S100B.Q28C": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALL OF THEM DO",
+    "2.0": "MOST OF THEM DO",
+    "3.0": "ABOUT HALF OF THEM DO",
+    "4.0": "FEW OF THEM DO",
+    "5.0": "NONE OF THEM DO"
+  },
+  "S100B.Q29": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ONLY ONCE IN A GREAT WHILE",
+    "4.0": "NEVER"
+  },
+  "S100B.Q30": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED"
+  },
+  "S100B.Q31": {
+    "0.0": "NO ANSWER",
+    "1.0": "WORSE AFTER THE WAR THAN BEFORE THE WAR",
+    "2.0": "SAME AFTER THE WAR AS BEFORE THE WAR",
+    "3.0": "BETTER AFTER THE WAR THAN BEFORE THE WAR",
+    "4.0": "UNDECIDED"
+  },
+  "S100B.Q32A": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT WILL NOT BE VERY HARD",
+    "2.0": "IT WILL BE A TOUGH JOB, BUT OUR LOSSES WON'T BE HEAVY",
+    "3.0": "IT WILL BE A TOUGH JOB, WITH HEAVY LOSSES OF MEN AND EQUIPMENT"
+  },
+  "S100B.Q32B": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT WILL NOT BE VERY HARD",
+    "2.0": "IT WILL BE A TOUGH JOB, BUT OUR LOSSES WON'T BE HEAVY",
+    "3.0": "IT WILL BE A TOUGH JOB, WITH HEAVY LOSSES OF MEN AND EQUIPMENT"
+  },
+  "S100B.Q33": {
+    "0.0": "NO ANSWER",
+    "1.0": "A VERY GOOD CHANCE",
+    "2.0": "A FAIRLY GOOD CHANCE",
+    "3.0": "NOT MUCH OF A CHANCE",
+    "4.0": "NO CHANCE AT ALL",
+    "5.0": "UNDECIDED"
+  },
+  "S100B.Q34": {
+    "0.0": "NO ANSWER",
+    "1.0": "I THOUGHT IT WAS O.K.",
+    "2.0": "I THOUGHT IT WAS BAD",
+    "3.0": "I DID NOT CARE MUCH ONE WAY OR THE OTHER",
+    "4.0": "THIS DID NOT HAPPEN IN MY COMPANY"
+  },
+  "S100B.Q35A": {
+    "0.0": "NO ANSWER",
+    "1.0": "GOOD",
+    "2.0": "POOR",
+    "3.0": "NO OPINION"
+  },
+  "S100B.Q35B": {
+    "0.0": "NO ANSWER",
+    "1.0": "GOOD",
+    "2.0": "POOR",
+    "3.0": "NO OPINION"
+  },
+  "S100B.Q35C": {
+    "0.0": "NO ANSWER",
+    "1.0": "GOOD",
+    "2.0": "POOR",
+    "3.0": "NO OPINION"
+  },
+  "S100B.Q35D": {
+    "0.0": "NO ANSWER",
+    "1.0": "GOOD",
+    "2.0": "POOR",
+    "3.0": "NO OPINION"
+  },
+  "S100B.Q35E": {
+    "0.0": "NO ANSWER",
+    "1.0": "GOOD",
+    "2.0": "POOR",
+    "3.0": "NO OPINION"
+  },
+  "S100B.Q35F": {
+    "0.0": "NO ANSWER",
+    "1.0": "GOOD",
+    "2.0": "POOR",
+    "3.0": "NO OPINION"
+  },
+  "S100B.Q35G": {
+    "0.0": "NO ANSWER",
+    "1.0": "GOOD",
+    "2.0": "POOR",
+    "3.0": "NO OPINION"
+  },
+  "S100B.Q35H": {
+    "0.0": "NO ANSWER",
+    "1.0": "GOOD",
+    "2.0": "POOR",
+    "3.0": "NO OPINION"
+  },
+  "S100B.Q35I": {
+    "0.0": "NO ANSWER",
+    "1.0": "GOOD",
+    "2.0": "POOR",
+    "3.0": "NO OPINION"
+  },
+  "S100B.Q36": {
+    "0.0": "NO ANSWER",
+    "1.0": "WE USUALLY GOT WHAT WE NEEDED",
+    "2.0": "WE OFTEN DID NOT GET WHAT WE NEEDED",
+    "3.0": "WE SELDOM GOT WHAT WE NEEDED"
+  },
+  "S100B.Q37": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, MOSTLY LIES",
+    "2.0": "YES, MOSTLY LIES, BUT MAYBE A LITTLE MORE TRUTH THAN WE CARE TO ADMIT",
+    "3.0": "YES, A LOT OF TRUTH IN WHAT THEY SAID",
+    "4.0": "YES, NO ANSWER",
+    "5.0": "NO"
+  },
+  "S100B.Q38A": {
+    "0.0": "NO ANSWER",
+    "1.0": "PUNISH THE LEADERS, BUT NOT THE ORDINARY JAPANESE",
+    "2.0": "MAKE THE ORDINARY JAPANESE SUFFER PLENTY",
+    "3.0": "WIPE OUT THE WHOLE JAPANESE NATION"
+  },
+  "S100B.Q38B": {
+    "0.0": "NO ANSWER",
+    "1.0": "PUNISH THE LEADERS, BUT NOT THE ORDINARY GERMANS",
+    "2.0": "MAKE THE ORDINARY GERMAN PEOPLE SUFFER PLENTY",
+    "3.0": "WIPE OUT THE WHOLE GERMAN NATION"
+  },
+  "S100B.Q39A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, OFTEN",
+    "2.0": "YES, SOMETIMES",
+    "3.0": "NO, NEVER"
+  },
+  "S100B.Q39B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ALMOST NEVER"
+  },
+  "S100B.Q39C": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, OFTEN",
+    "2.0": "YES, SOMETIMES",
+    "3.0": "NO, NEVER"
+  },
+  "S100B.Q39D": {
+    "0.0": "NO ANSWER",
+    "1.0": "NEARLY ALL THE TIME",
+    "2.0": "PRETTY OFTEN",
+    "3.0": "NOT VERY OFTEN",
+    "4.0": "NEVER"
+  },
+  "S100B.Q39E": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, OFTEN",
+    "2.0": "YES, SOMETIMES",
+    "3.0": "NO, NEVER"
+  },
+  "S100B.Q39F": {
+    "0.0": "NO ANSWER",
+    "1.0": "I USUALLY WENT AROUND BY MYSELF",
+    "2.0": "I USUALLY WENT AROUND WITH JUST ONE OR TWO OTHERS",
+    "3.0": "I USUALLY WENT AROUND WITH A BUNCH OF OTHERS"
+  },
+  "S100B.Q39G": {
+    "0.0": "NO ANSWER",
+    "1.0": "USUALLY LIKED BETTER TO BE BY MYSELF",
+    "2.0": "USUALLY LIKED BETTER TO BE WITH OTHER PEOPLE",
+    "3.0": "UNDECIDED"
+  },
+  "S100B.Q39H": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "FORM..1": {
+    "1.0": "S-100A",
+    "2.0": "S-10XX",
+    "3.0": "S-100C",
+    "4.0": "S-100D",
+    "5.0": "S-100E",
+    "6.0": "S-100F",
+    "7.0": "S-100G Q.40XXXXXXW IS A LIST OF THINGS COMMONLY FEARED BY CHILDREN. SOME OF THEM ARE IMPORTANT IN MEDICAL HISTORIES, BUT"
+  },
+  "S100B.Q40A": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL"
+  },
+  "S100B.Q40B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL"
+  },
+  "S100B.Q40C": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL"
+  },
+  "S100B.Q40D": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL"
+  },
+  "S100B.Q40E": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL"
+  },
+  "S100B.Q41": {
+    "0.0": "NO ANSWER",
+    "1.0": "REALLY LIKED FIGHTING",
+    "2.0": "DIDN'T PARTICULARLY LIKE IT OR DISLIKE IT",
+    "3.0": "DIDN'T LIKE FIGHTING AT ALL"
+  },
+  "S100B.Q42": {
+    "0.0": "NO ANSWER",
+    "1.0": "BEFORE GOING INTO COMBAT",
+    "2.0": "DURING COMBAT",
+    "3.0": "AFTER COMBAT",
+    "4.0": "ALL THREE CHECKED",
+    "5.0": "UNDECIDED"
+  },
+  "S100B.Q43A": {
+    "0.0": "NO ANSWER",
+    "1.0": "OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ONCE",
+    "4.0": "NEVER"
+  },
+  "S100B.Q43B": {
+    "0.0": "NO ANSWER",
+    "1.0": "OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ONCE",
+    "4.0": "NEVER"
+  },
+  "S100B.Q43C": {
+    "0.0": "NO ANSWER",
+    "1.0": "OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ONCE",
+    "4.0": "NEVER"
+  },
+  "S100B.Q43D": {
+    "0.0": "NO ANSWER",
+    "1.0": "OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ONCE",
+    "4.0": "NEVER"
+  },
+  "S100B.Q43E": {
+    "0.0": "NO ANSWER",
+    "1.0": "OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ONCE",
+    "4.0": "NEVER"
+  },
+  "S100B.Q43F": {
+    "0.0": "NO ANSWER",
+    "1.0": "OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ONCE",
+    "4.0": "NEVER"
+  },
+  "S100B.Q43G": {
+    "0.0": "NO ANSWER",
+    "1.0": "OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ONCE",
+    "4.0": "NEVER"
+  },
+  "S100B.Q43H": {
+    "0.0": "NO ANSWER",
+    "1.0": "OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ONCE",
+    "4.0": "NEVER"
+  },
+  "S100B.Q43I": {
+    "0.0": "NO ANSWER",
+    "1.0": "OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ONCE",
+    "4.0": "NEVER"
+  },
+  "S100B.Q43J": {
+    "0.0": "NO ANSWER",
+    "1.0": "OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ONCE",
+    "4.0": "NEVER"
+  },
+  "S100B.Q44A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S100B.Q44B": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S100B.Q45": {
+    "0.0": "NO ANSWER",
+    "1.0": "MOST OF THEM SHOULD BE TREATED AS SICK MEN",
+    "2.0": "MOST OF THEM SHOULD BE TREATED AS COWARDS AND PUNISHED",
+    "3.0": "MOST OF THEM SHOULD BE TREATED SOME OTHER WAY"
+  },
+  "S100B.Q46": {
+    "0.0": "NO ANSWER",
+    "NaN": "QUESTIONS 47A AND 47B NOT CODED.",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S100B.Q48A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED"
+  },
+  "S100B.Q48B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY GOOD PHYSICAL CONDITION",
+    "2.0": "GOOD PHYSICAL CONDITION",
+    "3.0": "FAIR PHYSICAL CONDITION",
+    "4.0": "POOR PHYSICAL CONDITION",
+    "5.0": "VERY POOR PHYSICAL CONDITION"
+  },
+  "S100B.Q49A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED"
+  },
+  "S100B.Q49B": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED"
+  },
+  "S100B.Q50A": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT HELPED A LOT",
+    "2.0": "IT HELPED SOME",
+    "3.0": "IT HELPED A LITTLE",
+    "4.0": "IT DID NOT HELP AT ALL",
+    "5.0": "I DIDN'T THINK OF IT"
+  },
+  "S100B.Q50B": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT HELPED A LOT",
+    "2.0": "IT HELPED SOME",
+    "3.0": "IT HELPED A LITTLE",
+    "4.0": "IT DID NOT HELP AT ALL",
+    "5.0": "I DIDN'T THINK OF IT"
+  },
+  "S100B.Q50C": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT HELPED A LOT",
+    "2.0": "IT HELPED SOME",
+    "3.0": "IT HELPED A LITTLE",
+    "4.0": "IT DID NOT HELP AT ALL",
+    "5.0": "I DIDN'T THINK OF IT"
+  },
+  "S100B.Q50D": {
+    "0.0": "NO ANSWER",
+    "1.0": "THEY HELPED A LOT",
+    "2.0": "THEY HELPED SOME",
+    "3.0": "THEY HELPED A LITTLE",
+    "4.0": "THEY DID NOT HELP AT ALL",
+    "5.0": "I DIDN'T HAVE SUCH THOUGHTS"
+  },
+  "S100B.Q50E": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT HELPED A LOT",
+    "2.0": "IT HELPED SOME",
+    "3.0": "IT HELPED A LITTLE",
+    "NaN": "QUESTIONS 51A, 51B AND 51C NOT CODED.",
+    "4.0": "IT DID NOT HELP AT ALL",
+    "5.0": "I DIDN'T THINK OF IT"
+  },
+  "S100B.Q51D": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY SATISFIED",
+    "2.0": "SATISFIED",
+    "3.0": "VERY DISSATISFIED",
+    "4.0": "DISSATISFIED",
+    "5.0": "IT DOESN'T MAKE ANY DIFFERENCE TO ME"
+  },
+  "S100B.Q52": {
+    "0.0": "NO ANSWER",
+    "1.0": "DID NOT FINISH GRADE SCHOOL",
+    "2.0": "FINISHED GRADE SCHOOL",
+    "3.0": "HAD SOME HIGH SCHOOL, BUT DID NOT GRADUATE",
+    "4.0": "GRADUATED FROM HIGH SCHOOL",
+    "5.0": "HAD SOME COLLEGE, BUT DID NOT GRADUATE",
+    "6.0": "GRADUATED FROM COLLEGE"
+  },
+  "S100B.Q53": {
+    "0.0": "NO ANSWER",
+    "1.0": "SINGLE",
+    "2.0": "MARRIED AND HAVE NO CHILDREN",
+    "3.0": "MARRIED AND DO HAVE CHILDREN",
+    "4.0": "WIDOWED, DIVORCED, OR SEPARATED"
+  },
+  "S100B.Q54": {
+    "0.0": "NO ANSWER",
+    "1.0": "18 YEARS OR YOUNGER",
+    "2.0": "19",
+    "3.0": "20",
+    "4.0": "21",
+    "5.0": "22",
+    "6.0": "23",
+    "7.0": "24",
+    "8.0": "25",
+    "9.0": "26-29 YEARS",
+    "10.0": "30-34 YEARS",
+    "11.0": "35 YEARS OR OVER"
+  },
+  "S100B.Q55": {
+    "0.0": "NO ANSWER",
+    "1.0": "SIX MONTHS OR LESS",
+    "2.0": "MORE THAN 6 MONTHS BUT NOT OVER 1 YEAR",
+    "3.0": "MORE THAN 1 YEAR BUT NOT OVER 1 1/2 YEARS",
+    "4.0": "MORE THAN 1 1/2 YEARS"
+  },
+  "S100B.Q56": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S100B.Q57A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YOU WERE THOROUGHLY TRAINED",
+    "2.0": "YOU HAD SOME, BUT NOT ENOUGH TRAINING",
+    "3.0": "YOU HAD NO TRAINING"
+  },
+  "S100B.Q57B": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S100B.Q57C": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, THEY GET TOO MUCH",
+    "2.0": "NO, THEY NEED EVERYTHING THEY GET"
+  },
+  "S100B.Q58": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, THEY EXPLAINED AS MUCH AS THEY COULD",
+    "2.0": "NO, THEY COULD HAVE EXPLAINED A GREAT DEAL MORE",
+    "3.0": "NO, THEY COULD HAVE EXPLAINED A LITTLE MORE"
+  },
+  "S100B.Q59": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY WELL",
+    "2.0": "FAIRLY WELL",
+    "3.0": "NOT VERY WELL"
+  },
+  "S100B.Q60A": {
+    "0.0": "NO ANSWER",
+    "1.0": "HAD A LOT OF CONFIDENCE IN MYSELF",
+    "2.0": "HAD A FAIR AMOUNT OF CONFIDENCE IN MYSELF",
+    "3.0": "HAD LITTLE CONFIDENCE IN MYSELF",
+    "4.0": "HAD NO CONFIDENCE IN MYSELF"
+  },
+  "S100B.Q60B": {
+    "0.0": "NO ANSWER",
+    "1.0": "HAD MORE CONFIDENCE, THE MORE TIMES I WENT INTO COMBAT",
+    "2.0": "HAD LESS CONFIDENCE, THE MORE TIMES I WENT INTO COMBAT",
+    "3.0": "HAD ABOUT THE SAME AMOUNT OF CONFIDENCE IN MYSELF, THE MORE TIMES I WENT INTO COMBAT",
+    "4.0": "UNDECIDED"
+  },
+  "S100B.Q61": {
+    "0.0": "NO ANSWER",
+    "1.0": "WE SHOULD ACCEPT THE OFFER AND STOP FIGHTING NOW",
+    "2.0": "WE SHOULD CONSIDER THE OFFER AND TRY TO WORK OUT SOME PEACE TERMS WITH THEM",
+    "3.0": "WE SHOULD TURN DOWN THE OFFER AND KEEP ON FIGHTING UNTIL THEY GIVE UP COMPLETELY",
+    "4.0": "UNDECIDED"
+  },
+  "S100B.Q62": {
+    "0.0": "NO ANSWER",
+    "1.0": "WE SHOULD ACCEPT THE OFFER AND STOP FIGHTING NOW",
+    "2.0": "WE SHOULD CONSIDER THE OFFER AND TRY TO WORK OUT SOME PEACE TERMS WITH THEM",
+    "3.0": "WE SHOULD TURN DOWN THE OFFER AND KEEP ON FIGHTING UNTIL THEY GIVE UP COMPLETELY",
+    "4.0": "UNDECIDED"
+  },
+  "S100B.Q63.1": {
+    "1.0": "FINANCIAL MATTERS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S100B.Q63.2": {
+    "1.0": "MY HEALTH 1388",
+    "2.0": "NOT CHOSEN"
+  },
+  "S100B.Q63.3": {
+    "1.0": "THE PHYSICAL DANGER I MIGHT BE FACED WITH BEFORE THE WAR IS OVER 1759",
+    "2.0": "NOT CHOSEN"
+  },
+  "S100B.Q63.4": {
+    "1.0": "THE PROGRESS OF THE WAR 1998",
+    "2.0": "NOT CHOSEN"
+  },
+  "S100B.Q63.5": {
+    "1.0": "WHAT IS GOING TO HAPPEN TO ME AFTER THE WAR 1726",
+    "2.0": "NOT CHOSEN"
+  },
+  "S100B.Q63.6": {
+    "1.0": "BEING A LONG WAY FROM HOME 1658",
+    "2.0": "NOT CHOSEN"
+  },
+  "S100B.Q63.7": {
+    "1.0": "MATTERS CONCERNING MY FAMILY OR FRIENDS BACK HOME 1655",
+    "2.0": "NOT CHOSEN"
+  },
+  "S100B.Q63.8": {
+    "1.0": "THE WAY I AM GETTING ALONG IN THE ARMY",
+    "2.0": "NOT CHOSEN"
+  },
+  "S100B.Q63.9": {
+    "1.0": "NEWS ABOUT NATIONAL EVENTS IN THE U.S. 2066",
+    "2.0": "NOT CHOSEN"
+  },
+  "S100B.Q63.10": {
+    "1.0": "NOT KNOWING WHAT IS GOING TO HAPPEN NEXT 1783",
+    "2.0": "NOT CHOSEN"
+  },
+  "S100B.Q63.11": {
+    "1.0": "WHAT WILL HAPPEN IN THE U.S. AFTER THE WAR 1965",
+    "2.0": "NOT CHOSEN"
+  },
+  "S100B.Q63.12": {
+    "1.0": "WHETHER WE WILL GET WHAT WE ARE FIGHTING FOR 1880",
+    "2.0": "NOT CHOSEN"
+  },
+  "S100B.Q63.13": {
+    "1.0": "PURELY PERSONAL MATTERS NOT INCLUDED ABOVE (COLUMNS 56-67) 1840",
+    "2.0": "NOT CHOSEN"
+  },
+  "S100B.Q63.14": {
+    "1.0": "MORE THAN TWO CHECKED ABOVE (COLUMNS 56-67) 2021",
+    "2.0": "NOT CHOSEN"
+  },
+  "S100B.Q63.15": {
+    "1.0": "NO ANSWER 1999",
+    "2.0": "NOT CHOSEN"
+  },
+  "S100B.Q64": {
+    "0.0": "NO ANSWER",
+    "1.0": "USUALLY VERY GOOD",
+    "2.0": "USUALLY PRETTY GOOD",
+    "NaN": "QUESTION 65 NOT CODED.",
+    "3.0": "USUALLY PRETTY BAD",
+    "4.0": "USUALLY VERY BAD"
+  },
+  "S100B.V66": {
+    "0.0": "SCORE OF 0 - HIGH NUMBER SYMPTOMS",
+    "1.0": "SCORE OF 1",
+    "2.0": "SCORE OF 2",
+    "3.0": "SCORE OF 3",
+    "4.0": "SCORE OF 4",
+    "5.0": "SCORE OF 5",
+    "6.0": "SCORE OF 6",
+    "7.0": "SCORE OF 7",
+    "8.0": "SCORE OF 8",
+    "9.0": "SCORE OF 9",
+    "10.0": "SCORE OF 10",
+    "11.0": "SCORE OF 11",
+    "12.0": "SCORE OF 12",
+    "13.0": "SCORE OF 13",
+    "14.0": "SCORE OF 14",
+    "15.0": "SCORE OF 15",
+    "16.0": "SCORE OF 16 - LOW NUMBER SYMPTOMS"
+  },
+  "S100B.V66A": {
+    "1.0": "NUMBER WHO ANSWERED ALL QUESTIONS",
+    "2.0": "ALL OTHER CASES"
+  },
+  "S100B.V67": {
+    "0.0": "SCORE OF 0 - HIGH NUMBER SYMPTOMS",
+    "1.0": "SCORE OF 1",
+    "2.0": "SCORE OF 2",
+    "3.0": "SCORE OF 3",
+    "4.0": "SCORE OF 4",
+    "5.0": "SCORE OF 5",
+    "6.0": "SCORE OF 6",
+    "7.0": "SCORE OF 7",
+    "8.0": "SCORE OF 8",
+    "9.0": "SCORE OF 9",
+    "10.0": "SCORE OF 10",
+    "11.0": "SCORE OF 11",
+    "12.0": "SCORE OF 12",
+    "13.0": "SCORE OF 13",
+    "14.0": "SCORE OF 14",
+    "15.0": "SCORE OF 15",
+    "16.0": "SCORE OF 16 - LOW NUMBER SYMPTOMS"
+  },
+  "S100B.V68": {
+    "0.0": "SCORE OF 0 - LOW NUMBER CHILDHOOD FEARS",
+    "1.0": "SCORE OF 1 -",
+    "2.0": "SCORE OF 2 -",
+    "3.0": "SCORE OF 3 -",
+    "4.0": "SCORE OF 4 -",
+    "5.0": "SCORE OF 5 - HIGH NUMBER CHILDHOOD FEARS",
+    "9.0": "SCORE NOT TABULATED"
+  },
+  "S100B.V69": {
+    "0.0": "SCORE OF 0 - HIGH NUMBER SYMPTOMS",
+    "NaN": "COL. 80 NOT USED. CARD 3",
+    "1.0": "SCORE OF 1",
+    "2.0": "SCORE OF 2",
+    "3.0": "SCORE OF 3",
+    "4.0": "SCORE OF 4",
+    "5.0": "SCORE OF 5",
+    "6.0": "SCORE OF 6",
+    "7.0": "SCORE OF 7",
+    "8.0": "SCORE OF 8",
+    "9.0": "SCORE OF 9",
+    "10.0": "SCORE OF 10 - LOW NUMBER SYMPTOMS"
+  },
+  "FORM..2": {
+    "1.0": "S-100A",
+    "2.0": "S-10XX",
+    "3.0": "S-100C",
+    "4.0": "S-100D",
+    "5.0": "S-100E",
+    "6.0": "S-100F",
+    "7.0": "S-100G V.70XXXXXXHOSOMATIC SYMPTOMS SCORE\\* E. DERIVED FROM QUESTIONS 39A-39E."
+  },
+  "S100B.V70": {
+    "0.0": "SCORE OF 0 - LOW NUMBER COMPLAINTS 376",
+    "1.0": "SCORE OF 1 396",
+    "2.0": "SCORE OF 2 349",
+    "3.0": "SCORE OF 3 349",
+    "4.0": "SCORE OF 4 298",
+    "5.0": "SCORE OF 5 - HIGH NUMBER COMPLAINTS 2",
+    "9.0": "SCORE NOT TABULATED"
+  },
+  "S100B.V71": {
+    "0.0": "SCORE OF 0 - LOW NUMBER OF FEARS",
+    "1.0": "SCORE OF 1",
+    "2.0": "SCORE OF 2",
+    "3.0": "SCORE OF 3",
+    "4.0": "SCORE OF 4",
+    "5.0": "SCORE OF 5",
+    "6.0": "SCORE OF 6",
+    "7.0": "SCORE OF 7",
+    "8.0": "SCORE OF 8",
+    "9.0": "SCORE OF 9 - HIGH NUMBER OF FEARS",
+    "10.0": "NO ANSWERS",
+    "99.0": "SCORE NOT TABULATED"
+  }
+}

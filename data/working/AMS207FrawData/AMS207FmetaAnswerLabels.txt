@@ -1,0 +1,1070 @@
+{
+  "FORM": {
+    "1.0": "S-207F",
+    "2.0": "S-207G"
+  },
+  "S207F.Qi1": {
+    "0.0": "NO ANSWER",
+    "1.0": "6 MONTHS OR LESS",
+    "2.0": "OVER 6 MONTHS UP TO 1 YEAR",
+    "3.0": "OVER 1 YEAR UP TO 2 YEARS",
+    "4.0": "OVER 2 YEARS UP TO 3 YEARS",
+    "5.0": "OVER 3 YEARS UP TO 5 YEARS",
+    "6.0": "OVER 5 YEARS"
+  },
+  "S207F.Qi2": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONE MONTH OR LESS",
+    "2.0": "OVER ONE MONTH UP TO 2 MONTHS",
+    "3.0": "OVER 2 MONTHS UP TO 3 MONTHS",
+    "4.0": "OVER 3 MONTHS UP TO 6 MONTHS",
+    "5.0": "OVER 6 MONTHS UP TO 1 YEAR",
+    "6.0": "OVER ONE YEAR"
+  },
+  "S207F.Qi3": {
+    "0.0": "NO ANSWER",
+    "1.0": "1926 - 18 YEARS OLD",
+    "2.0": "1925 - 19 YEARS OLD",
+    "3.0": "1924 - 20 YEARS OLD",
+    "4.0": "1923 - 21 YEARS OLD",
+    "5.0": "1922 - 22 YEARS OLD",
+    "6.0": "1921 - 23 YEARS OLD",
+    "7.0": "1920 - 24 YEARS OLD",
+    "8.0": "1919 - 25 YEARS OLD",
+    "9.0": "1915-1918 - 26-29 YEARS OLD",
+    "10.0": "1910-1914 - 30-34 YEARS OLD",
+    "11.0": "1909 AND BEFORE - 35 YEARS OLD AND OVER"
+  },
+  "S207F.Qi4": {
+    "0.0": "NO ANSWER",
+    "1.0": "SINGLE",
+    "2.0": "MARRIED",
+    "3.0": "DIVORCED OR SEPARATED",
+    "4.0": "WIDOWED"
+  },
+  "S207F.Qi5": {
+    "0.0": "NO ANSWER",
+    "1.0": "AIRPLANE COMMANDER",
+    "2.0": "PILOT",
+    "3.0": "NAVIGATOR",
+    "4.0": "BOMBARDIER",
+    "5.0": "RADAR OBSERVER",
+    "6.0": "ENGINEER",
+    "7.0": "RADIO OPERATOR",
+    "8.0": "TAIL GUNNER",
+    "9.0": "CFC GUNNER",
+    "10.0": "BLISTER GUNNER"
+  },
+  "S207F.Qi6": {
+    "0.0": "NO ANSWER",
+    "1.0": "MAJOR",
+    "2.0": "CAPTAIN",
+    "3.0": "1ST LIEUTENANT",
+    "4.0": "2ND LIEUTENANT",
+    "5.0": "FLIGHT OFFICER",
+    "6.0": "MASTER SERGEANT",
+    "7.0": "TECHNICAL SERGEANT",
+    "8.0": "STAFF SERGEANT",
+    "9.0": "SERGEANT",
+    "10.0": "CORPORAL",
+    "11.0": "PRIVATE FIRST CLASS OR PRIVATE"
+  },
+  "S207F.Qi7": {
+    "0.0": "NO ANSWER",
+    "1.0": "3 MONTHS OR LESS",
+    "2.0": "OVER 3 MONTHS UP TO 6 MONTHS",
+    "3.0": "OVER 6 MONTHS UP TO 9 MONTHS",
+    "4.0": "OVER 9 MONTHS UP TO 12 MONTHS",
+    "5.0": "OVER 12 MONTHS UP TO 18 MONTHS",
+    "6.0": "OVER 18 MONTHS UP TO 24 MONTHS",
+    "7.0": "OVER 24 MONTHS"
+  },
+  "S207F.Qi8A": {
+    "0.0": "NO ANSWER",
+    "1.0": "PRIVATE FIRST CLASS OR PRIVATE",
+    "2.0": "CORPORAL",
+    "3.0": "BUCK SERGEANT",
+    "4.0": "STAFF SERGEANT",
+    "5.0": "TECHNICAL SERGEANT",
+    "6.0": "MASTER SERGEANT",
+    "7.0": "FLIGHT OFFICER",
+    "8.0": "1ST LIEUTENANT",
+    "9.0": "2ND LIEUTENANT",
+    "10.0": "CAPTAIN",
+    "11.0": "MAJOR",
+    "12.0": "HIGHER THAN MAJOR"
+  },
+  "S207F.Qi8B": {
+    "0.0": "NO ANSWER",
+    "1.0": "PRIVATE FIRST CLASS OR PRIVATE",
+    "2.0": "CORPORAL",
+    "3.0": "BUCK SERGEANT",
+    "4.0": "STAFF SERGEANT",
+    "5.0": "TECHNICAL SERGEANT",
+    "6.0": "MASTER SERGEANT",
+    "7.0": "FLIGHT OFFICER",
+    "8.0": "1ST LIEUTENANT",
+    "9.0": "2ND LIEUTENANT",
+    "10.0": "CAPTAIN",
+    "11.0": "MAJOR",
+    "12.0": "HIGHER THAN MAJOR"
+  },
+  "S207F.Qi9": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY WELL SATISFIED",
+    "2.0": "FAIRLY WELL SATISFIED",
+    "3.0": "SOMEWHAT DISSATISFIED",
+    "4.0": "VERY DISSATISFIED",
+    "5.0": "UNDECIDED"
+  },
+  "S207F.Qi10": {
+    "0.0": "NO ANSWER",
+    "1.0": "BECAUSE OF ABILITY",
+    "2.0": "BOOTLICKING OR PLAYING POLITICS",
+    "3.0": "LUCK",
+    "4.0": "BEEN IN THE ARMY A LONG TIME",
+    "5.0": "AUTOMATIC (\"UP TO T/O LIMITS,\" \"MASS PROMOTION,\" \"UP TO WHATEVER THE JOB CALLS FOR\"; LENGTH OF TIME IN GRADE, UNIT, ETC.; OPENINGS IN RATINGS)",
+    "6.0": "OTHER",
+    "7.0": "MISCELLANEOUS"
+  },
+  "S207F.Qi11": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT IS AS IMPORTANT AS ANY OTHER JOB I COULD DO",
+    "2.0": "IT IS FAIRLY IMPORTANT, BUT I COULD DO MORE IMPORTANT WORK",
+    "3.0": "IT HARDLY SEEMS IMPORTANT AT ALL"
+  },
+  "S207F.Qi12": {
+    "0.0": "NO ANSWER",
+    "1.0": "A VERY GOOD CHANCE",
+    "2.0": "A FAIRLY GOOD CHANCE",
+    "3.0": "NOT MUCH OF A CHANCE",
+    "4.0": "NO CHANCE AT ALL",
+    "5.0": "UNDECIDED"
+  },
+  "S207F.Qi13": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED"
+  },
+  "S207F.Qi14": {
+    "0.0": "NO ANSWER",
+    "1.0": "I HAVE TOO MUCH TO DO, BUT MOST OF IT IS NECESSARY",
+    "2.0": "I HAVE TOO MUCH TO DO AND A LOT OF IT IS UNNECESSARY",
+    "3.0": "I HAVE ABOUT THE RIGHT AMOUNT OF WORK TO DO",
+    "4.0": "I AM NOT KEPT VERY BUSY, BUT I DON'T MIND SITTING AROUND",
+    "5.0": "I DON'T HAVE ENOUGH TO DO, AND IT GETS PRETTY TIRESOME SITTING AROUND"
+  },
+  "S207F.Qi15": {
+    "0.0": "NO ANSWER",
+    "1.0": "I REALLY ENJOY MY WORK VERY MUCH",
+    "2.0": "I LIKE IT FAIRLY WELL",
+    "3.0": "I DISLIKE IT A LITTLE",
+    "4.0": "I DISLIKE IT VERY MUCH"
+  },
+  "S207F.Qi16": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S207F.Qi17": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S207F.Qi18": {
+    "0.0": "NO ANSWER",
+    "1.0": "I WANT TO GET OVERSEAS AS SOON AS POSSIBLE",
+    "2.0": "I'M READY TO GO WHENEVER I'M NEEDED",
+    "3.0": "I'D LIKE TO STAY IN THE U.S. FOR A FEW MONTHS, BUT THEN I'LL BE READY TO GO ANYWHERE",
+    "4.0": "I DON'T WANT TO GO OVERSEAS"
+  },
+  "S207F.Qi19": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY WELL",
+    "2.0": "FAIRLY WELL",
+    "3.0": "NOT VERY WELL",
+    "4.0": "NOT WELL AT ALL",
+    "5.0": "UNDECIDED"
+  },
+  "S207F.Qi20": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN 6 MONTHS",
+    "2.0": "EXACTLY 6 MONTHS",
+    "3.0": "MORE THAN 6 MONTHS UP TO BUT NOT INCLUDING 1 YEAR",
+    "4.0": "EXACTLY 1 YEAR",
+    "5.0": "MORE THAN 1 YEAR UP TO BUT NOT INCLUDING 18 MONTHS",
+    "6.0": "EXACTLY 18 MONTHS (1 1/2 YEARS)",
+    "7.0": "OVER 18 MONTHS UP TO 2 YEARS",
+    "8.0": "EXACTLY 2 YEARS",
+    "9.0": "OVER 2 YEARS UP TO BUT NOT INCLUDING 3 YEARS",
+    "10.0": "3 YEARS OR MORE"
+  },
+  "S207F.Qi21": {
+    "0.0": "NO ANSWER",
+    "1.0": "A VERY IMPORTANT PART",
+    "2.0": "A FAIRLY IMPORTANT PART",
+    "3.0": "NOT A VERY IMPORTANT PART",
+    "4.0": "NOT IMPORTANT AT ALL"
+  },
+  "S207F.Qi22": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ONLY ONCE IN A GREAT WHILE",
+    "4.0": "NEVER"
+  },
+  "S207F.Qi23": {
+    "0.0": "NO ANSWER",
+    "1.0": "NONE",
+    "2.0": "FEW",
+    "3.0": "ABOUT HALF",
+    "4.0": "MOST",
+    "5.0": "ALL",
+    "6.0": "DON'T KNOW"
+  },
+  "S207F.Qi24": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH SO",
+    "2.0": "FAIRLY MUCH SO",
+    "3.0": "NOT VERY MUCH",
+    "4.0": "NOT AT ALL"
+  },
+  "S207F.Qi25": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, IN MOST WAYS THEY DO",
+    "2.0": "IN SOME WAYS, YES, IN OTHER WAYS, NO",
+    "3.0": "NO, ON THE WHOLE THEY DO NOT GET A SQUARE DEAL"
+  },
+  "S207F.Qi26": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, IN MOST WAYS I HAVE",
+    "2.0": "IN SOME WAYS, YES, IN OTHER WAYS, NO",
+    "3.0": "NO, ON THE WHOLE I HAVE NOT GOTTEN A SQUARE DEAL"
+  },
+  "S207F.Qi27": {
+    "0.0": "NO ANSWER",
+    "1.0": "FAR TOO MANY PRIVILEGES COMPARED WITH ENLISTED MEN",
+    "2.0": "A FEW TOO MANY PRIVILEGES COMPARED WITH ENLISTED MEN",
+    "3.0": "ABOUT THE RIGHT NUMBER OF PRIVILEGES",
+    "4.0": "TOO FEW PRIVILEGES"
+  },
+  "S207F.Qi28A": {
+    "0.0": "NO ANSWER",
+    "1.0": "ABOUT AS GOOD AS IT COULD BE UNDER THE CIRCUMSTANCES",
+    "2.0": "COULD BE IMPROVED BUT IT WOULDN'T MAKE TOO MUCH DIFFERENCE TO ME",
+    "3.0": "COULD BE IMPROVED AND IT WOULD HELP A LOT IF IT WERE",
+    "4.0": "UNCERTAIN"
+  },
+  "S207F.Qi28B": {
+    "0.0": "NO ANSWER",
+    "1.0": "ABOUT AS GOOD AS THEY COULD BE UNDER THE CIRCUMSTANCES",
+    "2.0": "COULD BE IMPROVED BUT IT WOULDN'T MAKE TOO MUCH DIFFERENCE TO ME",
+    "3.0": "COULD BE IMPROVED AND IT WOULD HELP A LOT IF IT WERE",
+    "4.0": "UNCERTAIN"
+  },
+  "S207F.Qi28C": {
+    "0.0": "NO ANSWER",
+    "1.0": "ABOUT AS GOOD AS IT COULD BE UNDER THE CIRCUMSTANCES",
+    "2.0": "COULD BE IMPROVED BUT IT WOULDN'T MAKE TOO MUCH DIFFERENCE TO ME",
+    "NaN": "QUESTIONS 29 AND 30 NOT CODED.",
+    "3.0": "COULD BE IMPROVED AND IT WOULD HELP A LOT IF IT WERE",
+    "4.0": "UNCERTAIN"
+  },
+  "S207F.Qi31": {
+    "0.0": "NO ANSWER",
+    "1.0": "BOTHERS ME A GREAT DEAL",
+    "2.0": "BOTHERS ME QUITE A BIT",
+    "3.0": "DOESN'T BOTHER ME MUCH",
+    "4.0": "DOESN'T BOTHER ME AT ALL"
+  },
+  "S207F.Qi32": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT'S TOO STRICT BUT MOST OF IT IS NECESSARY",
+    "2.0": "IT'S TOO STRICT AND A LOT OF IT IS UNNECESSARY",
+    "3.0": "IT'S ABOUT RIGHT",
+    "4.0": "IT'S NOT STRICT ENOUGH"
+  },
+  "S207F.Qi33": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY WELL",
+    "2.0": "FAIRLY WELL",
+    "3.0": "NOT VERY WELL",
+    "4.0": "VERY POORLY"
+  },
+  "S207F.Qi34": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY SUCCESSFUL",
+    "2.0": "FAIRLY SUCCESSFUL",
+    "3.0": "NOT VERY SUCCESSFUL",
+    "4.0": "UNSUCCESSFUL",
+    "5.0": "NOT SURE"
+  },
+  "S207F.Qi35": {
+    "0.0": "NO ANSWER",
+    "1.0": "THEY HAVE A GOOD IDEA",
+    "2.0": "THEY HAVE A FAIR IDEA",
+    "3.0": "THEY KNOW LITTLE OR NOTHING ABOUT MY ABILITIES"
+  },
+  "S207F.Qi36": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALMOST ALWAYS",
+    "2.0": "USUALLY",
+    "3.0": "ABOUT HALF THE TIME",
+    "4.0": "USUALLY NOT",
+    "5.0": "ALMOST NEVER"
+  },
+  "S207F.Qi37": {
+    "0.0": "NO ANSWER",
+    "1.0": "PREFER B-29 OUTFIT",
+    "2.0": "B-17",
+    "3.0": "B-24",
+    "4.0": "ALL OTHER \"B'S\" (BOMBERS)",
+    "5.0": "ALL \"A\" SHIPS, SUCH AS A-26 (ATTACK)",
+    "6.0": "ALL \"P\" SHIPS, (PURSUIT OR FIGHTER)",
+    "7.0": "ALL OTHER SPECIFIED (MISCELLANEOUS)",
+    "8.0": "OTHER (NOT SPECIFIED)",
+    "9.0": "MAKES NO DIFFERENCE"
+  },
+  "S207F.Qi38": {
+    "0.0": "NO ANSWER",
+    "1.0": "WORK FOR AN EMPLOYER, ON SALARY, WAGES OR COMMISSION",
+    "2.0": "GO TO FULL-TIME SCHOOL OR COLLEGE",
+    "3.0": "FARM",
+    "4.0": "HAVE MY OWN BUSINESS",
+    "5.0": "I PLAN TO STAY IN THE ARMY",
+    "6.0": "I'M UNDECIDED WHAT I WILL DO",
+    "7.0": "ALL DOUBLE CHECKS"
+  },
+  "S207F.Qi39": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN 6TH GRADE",
+    "2.0": "FINISHED 6TH GRADE",
+    "3.0": "FINISHED 7TH GRADE",
+    "4.0": "FINISHED 8TH GRADE",
+    "5.0": "SOME HIGH SCHOOL BUT DID NOT FINISH",
+    "6.0": "GRADUATED FROM HIGH SCHOOL",
+    "7.0": "SOME COLLEGE BUT DID NOT FINISH",
+    "8.0": "GRADUATED FROM COLLEGE (EDUCATION BEYOND COLLEGE)"
+  },
+  "S207F.Qi40A1": {
+    "0.0": "NO ANSWER",
+    "1.0": "TOO LONG",
+    "2.0": "TOO SHORT",
+    "3.0": "ABOUT RIGHT"
+  },
+  "S207F.Qi40A2": {
+    "0.0": "NO ANSWER",
+    "1.0": "TOO MUCH UNNECESSARY INFORMATION",
+    "2.0": "NOT ENOUGH INFORMATION",
+    "3.0": "ABOUT THE RIGHT AMOUNT"
+  },
+  "S207F.Qi40A3": {
+    "0.0": "NO ANSWER",
+    "NaN": "QUESTION 40B NOT CODED.",
+    "1.0": "WELL PRESENTED",
+    "2.0": "POORLY PRESENTED"
+  },
+  "S207F.Qi41": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY HIGH",
+    "2.0": "HIGH",
+    "3.0": "JUST SO-SO",
+    "4.0": "LOW",
+    "5.0": "VERY LOW"
+  },
+  "S207F.Qi42.1": {
+    "1.0": "COMPLAINTS ABOUT UTILIZATION OF TIME (BAD SCHEDULING OF FLIGHTS, \"SWEATING\" OUT PLANES, WANTS TO DECIDE FOR SELF HOW TO WASTE TIME SINCE IT MUST BE WASTED); MORE LEISURE TIME",
+    "2.0": "NOT CHOSEN"
+  },
+  "S207F.Qi42.2": {
+    "1.0": "ALL GROUND SCHOOL COMPLAINTS (SCHOOL NO GOOD, JUST A TIME KILLING DEVICE, REPETITION OF SCHOOLING) 2061",
+    "2.0": "NOT CHOSEN"
+  },
+  "S207F.Qi42.3": {
+    "1.0": "PASS SITUATION BAD (OUGHT TO BE EASIER TO GET, AT LEAST ONE SUNDAY EVERY 2 WEEKS, ETC.) 1900",
+    "2.0": "NOT CHOSEN"
+  },
+  "S207F.Qi42.4": {
+    "1.0": "COMPLAINTS ON RATINGS AND PROMOTIONS (T/O NOT HIGH ENOUGH, ETC.) 1490",
+    "2.0": "NOT CHOSEN"
+  },
+  "S207F.Qi42.5": {
+    "1.0": "RECREATION AND SPORTS SHOULD BE IMPROVED (P.T. NOT GOOD, SPORTS PROGRAM INSTEAD) 2027",
+    "2.0": "NOT CHOSEN"
+  },
+  "S207F.Qi42.6": {
+    "1.0": "IMPROVE RELATIONS BETWEEN OFFICERS AND ENLISTED MEN (MORE PARTIES, GET TOGETHERS) 2064",
+    "2.0": "NOT CHOSEN"
+  },
+  "S207F.Qi42.7": {
+    "1.0": "FOOD NOT SATISFACTORY (IN-FLIGHT LUNCHES, PX NOT GOOD, HOT AND COLD DRINKS WHILE IN AIR) 1986",
+    "2.0": "NOT CHOSEN"
+  },
+  "S207F.Qi42.8": {
+    "1.0": "KEEP MEN INFORMED (DON'T KNOW WHAT GOES ON AND WHY); LENGTH OF TOUR 2045",
+    "2.0": "NOT CHOSEN"
+  },
+  "S207F.Qi42.9": {
+    "1.0": "COMPLAINTS OF AIRPLANE MAINTENANCE PLM 2084",
+    "2.0": "NOT CHOSEN"
+  },
+  "S207F.Qi42.10": {
+    "1.0": "INEFFICIENCY OF GROUP OPERATION: MEN NOT HANDLED FAIRLY; GIVE PRAISES WHEN DUE; GIVE MEN MORE RESPONSIBILITY; LESS RED TAPE; COOPERATION BETWEEN FLIGHT AND GROUND",
+    "2.0": "NOT CHOSEN"
+  },
+  "S207F.Qi42.11": {
+    "1.0": "MISCELLANEOUS 1408",
+    "2.0": "NOT CHOSEN"
+  },
+  "S207F.Qi42.12": {
+    "1.0": "NO ANSWER 1970",
+    "2.0": "NOT CHOSEN"
+  },
+  "S207F.Qi43": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "AS A SOLDIER",
+    "2.0": "AS A WAR WORKER",
+    "3.0": "UNDECIDED",
+    "4.0": "NO ANSWER"
+  },
+  "S207F.Qi44": {
+    "0.0": "NO ANSWER",
+    "1.0": "I ALMOST NEVER FEEL THAT WAY",
+    "2.0": "I FEEL THAT WAY ONLY ONCE IN A GREAT WHILE",
+    "3.0": "I FEEL THAT WAY FAIRLY OFTEN",
+    "4.0": "I FEEL THAT WAY NEARLY ALL OF THE TIME"
+  },
+  "S207F.Qi45": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, I'M SURE I COULD",
+    "2.0": "NO, I DON'T THINK I COULD",
+    "3.0": "I CAN'T SAY",
+    "4.0": "NO ANSWER"
+  },
+  "S207F.Qi46A": {
+    "0.0": "NO ANSWER",
+    "1.0": "OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ONCE",
+    "4.0": "NEVER"
+  },
+  "S207F.Qi46B": {
+    "0.0": "NO ANSWER",
+    "1.0": "OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ONCE",
+    "4.0": "NEVER"
+  },
+  "S207F.Qi46C": {
+    "0.0": "NO ANSWER",
+    "1.0": "OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ONCE",
+    "4.0": "NEVER"
+  },
+  "S207F.Qi46D": {
+    "0.0": "NO ANSWER",
+    "1.0": "OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ONCE",
+    "4.0": "NEVER"
+  },
+  "S207F.Qi46E": {
+    "0.0": "NO ANSWER",
+    "1.0": "OFTEN",
+    "2.0": "SOMETIMES",
+    "NaN": "COL. 80 NOT USED. CARD 2",
+    "3.0": "ONCE",
+    "4.0": "NEVER"
+  },
+  "FORM..1": {
+    "1.0": "S-207F",
+    "2.0": "S-207G"
+  },
+  "S207F.Qi46F": {
+    "0.0": "NO ANSWER",
+    "1.0": "OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ONCE",
+    "4.0": "NEVER"
+  },
+  "S207F.Qi46G": {
+    "0.0": "NO ANSWER",
+    "1.0": "OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ONCE",
+    "4.0": "NEVER"
+  },
+  "S207F.Qi46H": {
+    "0.0": "NO ANSWER",
+    "1.0": "OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ONCE",
+    "4.0": "NEVER"
+  },
+  "S207F.Qi47A": {
+    "0.0": "NO ANSWER",
+    "1.0": "OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ONCE",
+    "4.0": "NEVER"
+  },
+  "S207F.Qi47B": {
+    "0.0": "NO ANSWER",
+    "1.0": "OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ONCE",
+    "4.0": "NEVER"
+  },
+  "S207F.Qi47C": {
+    "0.0": "NO ANSWER",
+    "1.0": "OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ONCE",
+    "4.0": "NEVER"
+  },
+  "S207F.Qi47D": {
+    "0.0": "NO ANSWER",
+    "1.0": "OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ONCE",
+    "4.0": "NEVER"
+  },
+  "S207F.Qi47E": {
+    "0.0": "NO ANSWER",
+    "1.0": "OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ONCE",
+    "4.0": "NEVER"
+  },
+  "S207F.Qi47F": {
+    "0.0": "NO ANSWER",
+    "1.0": "OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ONCE",
+    "4.0": "NEVER"
+  },
+  "S207F.Qi48": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, I THINK WE WILL",
+    "2.0": "NO, I DOUBT IF WE WILL",
+    "3.0": "I CAN'T SAY ONE WAY OR THE OTHER"
+  },
+  "S207F.Qi49": {
+    "0.0": "NO ANSWER",
+    "1.0": "NEVER WORRY ABOUT IT",
+    "2.0": "HARDLY EVER WORRY ABOUT IT",
+    "3.0": "WORRY ABOUT IT FAIRLY OFTEN",
+    "4.0": "WORRY ABOUT IT VERY OFTEN"
+  },
+  "S207F.Qi50.1": {
+    "1.0": "NOT BOTHERED IN PARTICULAR (WILL WORRY LATER; THIS IS WAR; THEY SHOOT LIVE AMMO; THEY TRY TO KILL YOU)",
+    "2.0": "NOT CHOSEN"
+  },
+  "S207F.Qi50.2": {
+    "1.0": "SUICIDE ATTACKS (KAMAKAZE) (RAMMING IN MID-AIR) 1252",
+    "2.0": "NOT CHOSEN"
+  },
+  "S207F.Qi50.3": {
+    "1.0": "TREATMENT OF PRISONERS (TORTURING, ATROCITIES, CONCENTRATION CAMPS, BEING CAPTURED, BAD TREATMENT) 1576",
+    "2.0": "NOT CHOSEN"
+  },
+  "S207F.Qi50.4": {
+    "1.0": "KILLING PRISONERS (BEHEADING, DECAPITATING) 2035",
+    "2.0": "NOT CHOSEN"
+  },
+  "S207F.Qi50.5": {
+    "1.0": "FRONTAL OR NOSE ATTACKS (OUT OF THE SUN) 2125",
+    "2.0": "NOT CHOSEN"
+  },
+  "S207F.Qi50.6": {
+    "1.0": "AIR TO AIR BOMBING 2128",
+    "2.0": "NOT CHOSEN"
+  },
+  "S207F.Qi50.7": {
+    "1.0": "MISCELLANEOUS 2046",
+    "2.0": "NOT CHOSEN"
+  },
+  "S207F.Qi50.8": {
+    "1.0": "NO ANSWER 1768",
+    "2.0": "NOT CHOSEN"
+  },
+  "S207F.Qi51": {
+    "0.0": "NO ANSWER",
+    "1.0": "FLYING JOB HERE IN THE UNITED STATES",
+    "2.0": "GROUND JOB IN THE UNITED STATES",
+    "3.0": "GROUND JOB OVERSEAS",
+    "4.0": "FLYING COMBAT OVERSEAS",
+    "5.0": "FLYING NON-COMBAT OVERSEAS"
+  },
+  "S207F.Qi52A": {
+    "0.0": "NO ANSWER",
+    "1.0": "MUCH MORE INTERESTED THAN MOST KIDS",
+    "2.0": "SOMEWHAT MORE INTERESTED",
+    "3.0": "ABOUT THE SAME AS OTHER KIDS",
+    "4.0": "LESS INTERESTED THAN OTHER KIDS"
+  },
+  "S207F.Qi52B": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, A GOOD DEAL",
+    "2.0": "YES, SOME",
+    "3.0": "NO, NEVER"
+  },
+  "S207F.Qi52C": {
+    "0.0": "NO ANSWER",
+    "1.0": "DIDN'T LIKE FIGHTING AT ALL",
+    "2.0": "DIDN'T PARTICULARLY LIKE OR DISLIKE IT",
+    "3.0": "REALLY LIKED FIGHTING"
+  },
+  "S207F.Qi53": {
+    "0.0": "NO ANSWER",
+    "1.0": "I VOLUNTEERED FOR B-29,S",
+    "2.0": "I WAS ASSIGNED TO B-29,S"
+  },
+  "S207F.Qi54A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S207F.Qi54B": {
+    "0.0": "NO ANSWER",
+    "1.0": "I AM JUST AS WELL SATISFIED",
+    "2.0": "I AM SOMEWHAT DISSATISFIED WITH THE DEAL I GOT",
+    "3.0": "I AM VERY DISSATISFIED WITH THE DEAL I GOT"
+  },
+  "S207F.Qi55": {
+    "0.0": "NO ANSWER",
+    "1.0": "AT LEAST AS GOOD AS THE OTHERS",
+    "2.0": "PROBABLY BETTER THAN THE OTHERS",
+    "3.0": "MUCH BETTER THAN THE OTHERS",
+    "4.0": "NOT AS GOOD AS THE OTHERS"
+  },
+  "S207F.Qi56": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "461ST SQUADRON",
+    "2.0": "462ND SQUADRON",
+    "3.0": "463RD SQUADRON",
+    "4.0": "847",
+    "5.0": "NONE, NO ANSWER"
+  },
+  "S207F.Qi57": {
+    "0.0": "NO ANSWER",
+    "1.0": "AT LEAST AS GOOD AS OTHERS",
+    "2.0": "PROBABLY BETTER THAN OTHERS",
+    "3.0": "MUCH BETTER THAN OTHERS",
+    "4.0": "NOT AS GOOD AS OTHERS",
+    "5.0": "I DON'T KNOW ANYTHING ABOUT ANY OTHER BOMB GROUPS"
+  },
+  "S207F.Qi58A": {
+    "0.0": "NO ANSWER",
+    "1.0": "OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ONCE",
+    "4.0": "NEVER"
+  },
+  "S207F.Qi58B": {
+    "0.0": "NO ANSWER",
+    "1.0": "OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ONCE",
+    "4.0": "NEVER"
+  },
+  "S207F.Qi58C": {
+    "0.0": "NO ANSWER",
+    "1.0": "OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ONCE",
+    "4.0": "NEVER"
+  },
+  "S207F.Qi58D": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ONCE",
+    "4.0": "NEVER",
+    "5.0": "NO ANSWER"
+  },
+  "S207F.Qi58E": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ONCE",
+    "4.0": "NEVER",
+    "5.0": "NO ANSWER"
+  },
+  "S207F.Qi58F": {
+    "0.0": "NO ANSWER",
+    "1.0": "OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ONCE",
+    "4.0": "NEVER"
+  },
+  "S207F.Qi58G": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ONCE",
+    "4.0": "NEVER",
+    "5.0": "NO ANSWER"
+  },
+  "S207F.Qi58H": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ONCE",
+    "4.0": "NEVER",
+    "5.0": "NO ANSWER"
+  },
+  "S207F.Qi59": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, VERY WELL",
+    "2.0": "YES, FAIRLY WELL",
+    "3.0": "NO, HE DOES NOT",
+    "4.0": "I AM THE AIRPLANE COMMANDER",
+    "5.0": "UNDECIDED"
+  },
+  "S207F.Qi60": {
+    "0.0": "NO ANSWER",
+    "1.0": "MUCH BETTER THAN MOST",
+    "2.0": "SOMEWHAT BETTER THAN MOST",
+    "3.0": "AS GOOD AS MOST",
+    "4.0": "NOT AS GOOD AS MOST",
+    "5.0": "I AM THE AIRPLANE COMMANDER"
+  },
+  "S207F.Qi61": {
+    "0.0": "DON'T KNOW, NO ANSWER",
+    "1.0": "0 - 39 HOURS",
+    "2.0": "40 - 79 HOURS",
+    "3.0": "80 - 119 HOURS",
+    "4.0": "120 - 159 HOURS",
+    "5.0": "160 - 199 HOURS",
+    "6.0": "200 - 239 HOURS",
+    "7.0": "240 HOURS AND OVER"
+  },
+  "S207F.Qi62": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, VERY WELL",
+    "2.0": "YES, FAIRLY WELL",
+    "3.0": "NO, HE DOES NOT",
+    "4.0": "I AM THE NAVIGATOR",
+    "5.0": "UNDECIDED"
+  },
+  "S207F.Qi63": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY WELL",
+    "2.0": "FAIRLY WELL",
+    "3.0": "NOT VERY WELL",
+    "4.0": "NOT WELL AT ALL"
+  },
+  "S207F.Qi64": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "DON'T KNOW"
+  },
+  "S207F.Qi65": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, VERY MUCH",
+    "2.0": "YES, THAT WOULD BE ALL RIGHT",
+    "3.0": "IT DOES NOT MATTER WHETHER I'M IN THE LEAD CREW OR NOT",
+    "4.0": "I WOULD RATHER NOT BE IN THE LEAD CREW"
+  },
+  "S207F.Qi66": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "TOTAL HOURS OF FLYING TIME",
+    "2.0": "RANK",
+    "3.0": "POLITICS",
+    "4.0": "PERFORMANCE IN TRAINING OR COMBAT",
+    "5.0": "SOMETHING ELSE",
+    "6.0": "NO ANSWER"
+  },
+  "S207F.Qi67": {
+    "0.0": "NO ANSWER",
+    "1.0": "TOTAL HOURS OF FLYING TIME",
+    "2.0": "RANK",
+    "3.0": "POLITICS",
+    "4.0": "PERFORMANCE IN TRAINING OR COMBAT",
+    "5.0": "IT ALL DEPENDS ON HOW YOUR PRESENT A/C MAKES OUT",
+    "6.0": "SOMETHING ELSE"
+  },
+  "S207F.Qi68A": {
+    "0.0": "NO ANSWER",
+    "1.0": "15 MISSIONS OR UNDER",
+    "2.0": "20 MISSIONS",
+    "3.0": "25 MISSIONS",
+    "4.0": "30 MISSIONS",
+    "5.0": "35 MISSIONS",
+    "6.0": "40 MISSIONS",
+    "7.0": "45 MISSIONS",
+    "8.0": "50 MISSIONS",
+    "9.0": "OVER 50 MISSIONS"
+  },
+  "S207F.Qi68B": {
+    "0.0": "NO ANSWER",
+    "1.0": "15 MISSIONS OR UNDER",
+    "2.0": "20 MISSIONS",
+    "3.0": "25 MISSIONS",
+    "4.0": "30 MISSIONS",
+    "5.0": "35 MISSIONS",
+    "6.0": "40 MISSIONS",
+    "7.0": "45 MISSIONS",
+    "8.0": "50 MISSIONS",
+    "9.0": "OVER 50 MISSIONS"
+  },
+  "S207F.Qi68C": {
+    "0.0": "NO ANSWER",
+    "1.0": "UNDER 4 MISSIONS",
+    "2.0": "4 - 5 MISSIONS",
+    "3.0": "6 - 7 MISSIONS",
+    "4.0": "8 - 9 MISSIONS",
+    "5.0": "10 - 11 MISSIONS",
+    "6.0": "12 - 13 MISSIONS",
+    "7.0": "14 - 15 MISSIONS",
+    "8.0": "16 - 17 MISSIONS",
+    "9.0": "18 - 19 MISSIONS",
+    "10.0": "OVER 19 MISSIONS"
+  },
+  "S207F.Qi68D": {
+    "0.0": "NO ANSWER",
+    "1.0": "1 DAY",
+    "2.0": "2 DAYS",
+    "3.0": "3 DAYS",
+    "4.0": "4 DAYS",
+    "5.0": "5 DAYS",
+    "6.0": "6 DAYS",
+    "7.0": "7 DAYS",
+    "8.0": "8 DAYS",
+    "9.0": "9 DAYS",
+    "10.0": "10 DAYS",
+    "11.0": "MORE THAN 10 DAYS"
+  },
+  "S207F.Qi69": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, I'M SURE I COULD",
+    "2.0": "YES, I THINK SO",
+    "3.0": "I'M NOT SURE THAT I COULD"
+  },
+  "S207F.Qi70A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NO ANSWER"
+  },
+  "S207F.Qi70B": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT WOULD BE BETTER IF WE HAD MORE COMBAT RETURNEES IN OUR CREW",
+    "2.0": "I WOULD RATHER NOT HAVE COMBAT RETURNEES IN OUR CREW",
+    "3.0": "IT DOESN'T MATTER"
+  },
+  "S207F.Qi71": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, DOING VERY WELL",
+    "2.0": "YES, COMING ALONG O.K.",
+    "3.0": "NO, NOT DOING AS WELL AS COULD BE EXPECTED",
+    "4.0": "NO, DOING POORLY"
+  },
+  "S207F.Qi72": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S207F.Qi73": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NO ANSWER"
+  },
+  "S207F.Qi76": {
+    "0.0": "NO ANSWER",
+    "1.0": "THE LATEST B-29'S WILL BE EASIER TO MAINTAIN THAN THE 17'S",
+    "2.0": "JUST AS EASY TO MAINTAIN AS 17'S",
+    "3.0": "SOMEWHAT HARDER TO MAINTAIN THAN 17'S",
+    "4.0": "MUCH HARDER TO MAINTAIN THAN 17'S"
+  },
+  "S207F.Qi77": {
+    "0.0": "NO ANSWER",
+    "1.0": "WE SHOULD ACCEPT THE OFFER AND STOP FIGHTING NOW",
+    "2.0": "WE SHOULD CONSIDER THE OFFER AND TRY TO WORK OUT SOME PEACE TERMS WITH THEM",
+    "3.0": "WE SHOULD TURN DOWN THE OFFER AND KEEP ON FIGHTING UNTIL THEY GIVE UP COMPLETELY",
+    "4.0": "UNDECIDED"
+  },
+  "S207F.Qi78A": {
+    "0.0": "NO ANSWER",
+    "1.0": "PUNISH THE LEADERS, BUT NOT THE ORDINARY JAPANESE",
+    "2.0": "PUNISH THE ORDINARY JAPANESE PEOPLE AS WELL AS THE LEADERS",
+    "3.0": "WIPE OUT THE WHOLE JAPANESE NATION"
+  },
+  "S207F.Qi78B": {
+    "0.0": "NO ANSWER",
+    "1.0": "PUNISH THE LEADERS, BUT NOT THE ORDINARY GERMANS",
+    "2.0": "PUNISH THE ORDINARY GERMAN PEOPLE AS WELL AS THE LEADERS",
+    "3.0": "WIPE OUT THE WHOLE GERMAN NATION"
+  },
+  "S207F.Qi79": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "THEY WILL GIVE UP AND SURRENDER",
+    "2.0": "THEY WILL KEEP RIGHT ON FIGHTING TO THE VERY END",
+    "3.0": "NO ANSWER"
+  },
+  "S207F.Qi80": {
+    "0.0": "NO ANSWER",
+    "1.0": "I AGREE, THE JAP IS A GOOD PILOT AND VERY HARD TO DEFEAT",
+    "2.0": "I AGREE THAT THE JAP IS A GOOD PILOT BUT HE'S NOT TOO HARD TO DEFEAT",
+    "3.0": "I DISAGREE, HE'S NOT A GOOD PILOT AND NOT TOO HARD TO DEFEAT"
+  },
+  "S207F.Qi81": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT WILL NOT BE VERY HARD",
+    "2.0": "IT WILL BE A TOUGH JOB BUT OUR LOSSES WON'T BE TOO HEAVY",
+    "3.0": "IT WILL BE A TOUGH JOB, WITH HEAVY LOSSES OF MEN AND EQUIPMENT"
+  },
+  "S207F.Qi82": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALL OF THE TIME",
+    "2.0": "MOST OF THE TIME",
+    "3.0": "OFTEN DO NOT",
+    "4.0": "ALMOST NEVER DO"
+  },
+  "S207F.Qi83": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALL",
+    "2.0": "MOST",
+    "3.0": "ABOUT HALF",
+    "4.0": "ONLY A FEW",
+    "5.0": "ALMOST NONE"
+  },
+  "S207F.Qi84": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY WELL",
+    "2.0": "FAIRLY WELL",
+    "3.0": "NOT VERY WELL",
+    "4.0": "NOT WELL AT ALL",
+    "5.0": "UNDECIDED"
+  },
+  "S207F.Qii1": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY GOOD PHYSICAL CONDITION",
+    "2.0": "GOOD PHYSICAL CONDITION",
+    "3.0": "FAIR PHYSICAL CONDITION",
+    "4.0": "POOR PHYSICAL CONDITION",
+    "5.0": "VERY POOR PHYSICAL CONDITION"
+  },
+  "S207F.Qii1A": {
+    "0.0": "NO ANSWER",
+    "2.0": "NO",
+    "NaN": "COL. 80 NOT USED. CARD 3",
+    "1.0": "YES",
+    "3.0": "I DON'T KNOW"
+  },
+  "FORM..2": {
+    "1.0": "S-207F",
+    "2.0": "S-207G"
+  },
+  "S207F.Qii1B": {
+    "0.0": "NO ANSWER",
+    "2.0": "NO",
+    "NaN": "DATA FOR QUESTIONS 2A-20 NOT PROVIDED BY SURVEY ORGANIZATION. SEE QUESTION V.3D1.",
+    "1.0": "YES",
+    "3.0": "UNDECIDED"
+  },
+  "S207F.Qii3B": {
+    "0.0": "NO ANSWER",
+    "1.0": "I HAVE A PRETTY GOOD TIME",
+    "2.0": "IT'S ABOUT FIFTY-FIFTY",
+    "3.0": "I HAVE A PRETTY ROTTEN TIME"
+  },
+  "S207F.Qii3C": {
+    "0.0": "NO ANSWER",
+    "1.0": "I AM USUALLY IN GOOD SPIRITS",
+    "2.0": "I AM IN GOOD SPIRITS SOME OF THE TIME AND IN LOW SPIRITS SOME OF THE TIME",
+    "3.0": "I AM USUALLY IN LOW SPIRITS"
+  },
+  "S207F.Vii3D1": {
+    "0.0": "SCORE OF 0",
+    "1.0": "SCORE OF 1",
+    "2.0": "SCORE OF 2",
+    "3.0": "SCORE OF 3",
+    "4.0": "SCORE OF 4",
+    "5.0": "SCORE OF 5",
+    "6.0": "SCORE OF 6",
+    "7.0": "SCORE OF 7",
+    "8.0": "SCORE OF 8",
+    "9.0": "SCORE OF 9",
+    "10.0": "SCORE OF 10",
+    "11.0": "SCORE OF 11",
+    "12.0": "SCORE OF 12",
+    "13.0": "SCORE OF 13",
+    "14.0": "SCORE OF 14",
+    "15.0": "SCORE OF 15",
+    "16.0": "SCORE OF 16",
+    "17.0": "SCORE OF 17",
+    "18.0": "SCORE OF 18",
+    "19.0": "SCORE OF 19",
+    "20.0": "SCORE OF 20",
+    "21.0": "SCORE OF 21",
+    "22.0": "SCORE OF 22",
+    "23.0": "SCORE OF 23",
+    "24.0": "SCORE OF 24",
+    "25.0": "SCORE OF 25",
+    "26.0": "SCORE OF 26",
+    "27.0": "SCORE OF 27",
+    "28.0": "SCORE OF 28",
+    "29.0": "SCORE OF 29",
+    "30.0": "SCORE OF 30",
+    "99.0": "NO ANSWER"
+  },
+  "S207F.Vii3D2": {
+    "0.0": "SCORE OF 0",
+    "1.0": "SCORE OF 1",
+    "2.0": "SCORE OF 2",
+    "3.0": "SCORE OF 3",
+    "4.0": "SCORE OF 4",
+    "5.0": "SCORE OF 5",
+    "6.0": "SCORE OF 6",
+    "7.0": "SCORE OF 7",
+    "8.0": "SCORE OF 8",
+    "9.0": "SCORE OF 9",
+    "10.0": "SCORE OF 10",
+    "11.0": "SCORE OF 11",
+    "12.0": "SCORE OF 12",
+    "13.0": "SCORE OF 13",
+    "14.0": "SCORE OF 14",
+    "15.0": "SCORE OF 15",
+    "16.0": "SCORE OF 16",
+    "99.0": "NO ANSWER"
+  },
+  "S207F.Vii4A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ALL SUPERIORS",
+    "2.0": "MIXED SUPERIOR AND EXCELLENT",
+    "3.0": "ALL EXCELLENT",
+    "5.0": "ONE RATING KNOWN ONLY",
+    "NaN": "QUESTION 5 NOT CODED.",
+    "4.0": "AT LEAST ONE VERY SATISFACTORY OR LOWER",
+    "6.0": "NO ANSWER"
+  },
+  "S207F.Vii6": {
+    "0.0": "SCORE OF 0",
+    "1.0": "SCORE OF 1",
+    "2.0": "SCORE OF 2",
+    "3.0": "SCORE OF 3",
+    "4.0": "SCORE OF 4",
+    "5.0": "SCORE OF 5"
+  },
+  "S207F.Vii7": {
+    "1.0": "CAMP DAVIS - MONTHAN 489 BOMB GROUP",
+    "2.0": "CAMP GREAT BEND (ARMY AIR FORCE) - 435 SQUADRON",
+    "3.0": "CAMP GREAT BEND (ARMY AIR FORCE) - 460 SQUADRON",
+    "4.0": "CAMP GREAT BEND (ARMY AIR FORCE) - 507 SQUADRON",
+    "5.0": "CAMP PRATT - 461 SQUADRON",
+    "6.0": "CAMP PRATT - 462 SQUADRON",
+    "7.0": "CAMP PRATT - 463 SQUADRON",
+    "8.0": "CAMP SMOKEY HILL 382 GROUP - 420TH SQUADRON",
+    "9.0": "CAMP SMOKEY HILL 382 GROUP - 464TH SQUADRON",
+    "10.0": "CAMP SMOKEY HILL 382 GROUP - 872 SQUADRON",
+    "11.0": "CAMP WALKER 383 GROUP - 876TH SQUADRON",
+    "12.0": "CAMP WALKER 383 GROUP - 880TH SQUADRON",
+    "13.0": "CAMP WALKER 383 GROUP - 884TH SQUADRON"
+  }
+}

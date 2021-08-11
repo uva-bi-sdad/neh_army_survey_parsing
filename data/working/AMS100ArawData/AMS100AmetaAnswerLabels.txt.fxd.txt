@@ -1,0 +1,1019 @@
+{
+  "X": {
+    "1.0": "S-100A",
+    "2.0": "S-100B",
+    "3.0": "S-100C",
+    "4.0": "S-100D",
+    "5.0": "S-100E",
+    "6.0": "S-100F",
+    "7.0": "S-100G"
+  },
+  "S100A.Q1": {
+    "0.0": "NO ANSWER",
+    "1.0": "PRIVATE",
+    "2.0": "PRIVATE FIRST CLASS",
+    "3.0": "TECHNICIAN 5TH GRADE",
+    "4.0": "CORPORAL",
+    "5.0": "TECHNICIAN 4TH GRADE",
+    "6.0": "SERGEANT",
+    "7.0": "TECHNICIAN 3RD GRADE",
+    "8.0": "STAFF SERGEANT",
+    "9.0": "TECHNICAL SERGEANT",
+    "10.0": "MASTER SERGEANT OR FIRST SERGEANT",
+    "11.0": "OTHER"
+  },
+  "S100A.Q2": {
+    "0.0": "NO ANSWER",
+    "1.0": "18 YEARS OR YOUNGER",
+    "2.0": "19",
+    "3.0": "20",
+    "4.0": "21",
+    "5.0": "22",
+    "6.0": "23",
+    "7.0": "24",
+    "8.0": "25",
+    "9.0": "26-29",
+    "10.0": "30-34 YEARS",
+    "11.0": "35 YEARS AND OLDER"
+  },
+  "S100A.Q3": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN 6TH GRADE",
+    "2.0": "FINISHED 6TH GRADE",
+    "3.0": "FINISHED 7TH GRADE",
+    "4.0": "FINISHED 8TH GRADE",
+    "5.0": "SOME HIGH SCHOOL BUT DID NOT FINISH",
+    "6.0": "ATTENDED TRADE SCHOOL",
+    "7.0": "GRADUATED FROM HIGH SCHOOL",
+    "8.0": "SOME COLLEGE BUT DID NOT FINISH",
+    "9.0": "GRADUATED FROM COLLEGE"
+  },
+  "S100A.Q4": {
+    "0.0": "NO ANSWER",
+    "1.0": "SINGLE",
+    "2.0": "MARRIED",
+    "3.0": "DIVORCED OR SEPARATED",
+    "4.0": "WIDOWED"
+  },
+  "S100A.Q5": {
+    "0.0": "NO ANSWER",
+    "1.0": "I AM NOT MARRIED",
+    "2.0": "HAVE NO CHILDREN",
+    "3.0": "HAVE ONE CHILD",
+    "4.0": "HAVE TWO CHILDREN",
+    "5.0": "HAVE THREE OR MORE CHILDREN"
+  },
+  "S100A.Q6": {
+    "0.0": "NO ANSWER",
+    "1.0": "3 MONTHS OR LESS",
+    "2.0": "OVER 3 MONTHS UP TO 6 MONTHS",
+    "3.0": "OVER 6 MONTHS UP TO 9 MONTHS",
+    "4.0": "OVER 9 MONTHS UP TO 1 YEAR",
+    "5.0": "OVER 1 YEAR UP TO 2 YEARS",
+    "6.0": "OVER 2 YEARS UP TO 3 YEARS",
+    "7.0": "OVER 3 YEARS"
+  },
+  "S100A.Q7": {
+    "0.0": "NO ANSWER",
+    "1.0": "OVER 2 YEARS",
+    "2.0": "OVER 1 YEAR UP TO 2 YEARS",
+    "3.0": "OVER 6 MONTHS UP TO 1 YEAR",
+    "4.0": "OVER 3 MONTHS UP TO 6 MONTHS",
+    "5.0": "OVER 2 MONTHS UP TO 3 MONTHS",
+    "6.0": "OVER 1 MONTH UP TO 2 MONTHS",
+    "7.0": "1 MONTH OR LESS"
+  },
+  "S100A.Q8A": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN 5 MONTHS",
+    "2.0": "5 MONTHS",
+    "3.0": "6 MONTHS THROUGH 9 MONTHS",
+    "4.0": "10 MONTHS",
+    "5.0": "11 MONTHS THROUGH 14 MONTHS",
+    "6.0": "15 MONTHS THROUGH 18 MONTHS",
+    "7.0": "OVER 18 MONTHS"
+  },
+  "S100A.Q8B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NO ANSWER"
+  },
+  "S100A.Q9": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NO ANSWER"
+  },
+  "S100A.Q10": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NO ANSWER"
+  },
+  "S100A.Q11": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN 30 DAYS",
+    "2.0": "30 DAYS THROUGH 59 DAYS",
+    "3.0": "60 DAYS THROUGH 74 DAYS",
+    "4.0": "75 DAYS THROUGH 89 DAYS",
+    "5.0": "90 DAYS THROUGH 99 DAYS",
+    "6.0": "100 DAYS THROUGH 119 DAYS",
+    "7.0": "120 DAYS THROUGH 125 DAYS",
+    "8.0": "126 DAYS THROUGH 150 DAYS",
+    "9.0": "OVER 150 DAYS",
+    "10.0": "I HAVE NOT BEEN IN COMBAT DURING THE ITALIAN CAMPAIGN"
+  },
+  "S100A.V11A": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN 30 DAYS",
+    "2.0": "30-59",
+    "3.0": "60-89",
+    "4.0": "90-119",
+    "5.0": "120-149",
+    "6.0": "150-179",
+    "7.0": "180-209",
+    "8.0": "210-239",
+    "9.0": "240-269",
+    "10.0": "270-299",
+    "11.0": "300 DAYS AND OVER"
+  },
+  "S100A.Q12": {
+    "0.0": "NO ANSWER",
+    "1.0": "OVER 3 YEARS",
+    "2.0": "OVER 2 YEARS UP TO 3 YEARS",
+    "3.0": "OVER 1 YEAR UP TO 2 YEARS",
+    "4.0": "OVER 6 MONTHS UP TO 1 YEAR",
+    "5.0": "OVER 3 MONTHS UP TO 6 MONTHS",
+    "6.0": "OVER 2 MONTHS UP TO 3 MONTHS",
+    "7.0": "OVER 1 MONTH UP TO 2 MONTHS",
+    "8.0": "1 MONTH OR LESS"
+  },
+  "S100A.Q13": {
+    "0.0": "NO ANSWER",
+    "1.0": "ENGINEERS",
+    "2.0": "FIELD ARTILLERY",
+    "3.0": "QUARTERMASTER CORPS",
+    "4.0": "INFANTRY",
+    "5.0": "MEDICAL DEPARTMENT",
+    "6.0": "ARMORED FORCE",
+    "7.0": "SIGNAL CORPS",
+    "8.0": "COAST ARTILLERY AND ANTI-AIRCRAFT",
+    "9.0": "AIR CORPS",
+    "10.0": "TRANSPORTATION CORPS",
+    "11.0": "ORDNANCE DEPARTMENT",
+    "12.0": "CHEMICAL WARFARE SERVICE",
+    "13.0": "MILITARY POLICE",
+    "14.0": "OTHER"
+  },
+  "S100A.Q14": {
+    "0.0": "NO ANSWER",
+    "1.0": "SHOOTING JOBS, RIFLEMEN, GUNNERS, CANNONEERS, TANK MEN, ETC.",
+    "2.0": "MEDICS, LITTER BEARERS, FIRST AID MEN, ETC.",
+    "3.0": "LIAISON, SCOUT, RUNNERS, MESSENGERS, BAND MEN, ETC.",
+    "4.0": "RADIO AND TELEPHONE OPERATORS, WIRE MEN, ETC.",
+    "5.0": "DRIVERS, MECHANICS, ETC.",
+    "6.0": "COMPUTERS, SURVEY MEN",
+    "7.0": "CLERKS",
+    "8.0": "COOKS, MESS SERGEANTS",
+    "9.0": "OTHER",
+    "10.0": "JOB NOT IDENTIFIED FROM ANSWER"
+  },
+  "S100A.Q15": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, PURPLE HEART",
+    "2.0": "YES, SILVER STAR",
+    "3.0": "YES, GOOD CONDUCT",
+    "4.0": "YES, PURPLE HEART AND GOOD CONDUCT",
+    "5.0": "YES, COMBAT INFANTRY AND GOOD CONDUCT",
+    "6.0": "YES, SILVER STAR AND PURPLE HEART",
+    "7.0": "YES, OUTFIT CITATION",
+    "8.0": "YES, OTHER (NOT COMBINATION OF ANY OF ABOVE)",
+    "9.0": "YES, NO DECORATION NAMED",
+    "10.0": "NO"
+  },
+  "S100A.Q16A": {
+    "0.0": "NO ANSWER",
+    "1.0": "ENGINEERS",
+    "2.0": "FIELD ARTILLERY",
+    "3.0": "QUARTERMASTER CORPS",
+    "4.0": "INFANTRY",
+    "5.0": "MEDICAL DEPARTMENT",
+    "6.0": "ARMORED FORCE",
+    "7.0": "SIGNAL CORPS",
+    "8.0": "COAST ARTILLERY AND ANTI-AIRCRAFT",
+    "9.0": "AIR CORPS",
+    "10.0": "TRANSPORTATION CORPS",
+    "11.0": "ORDNANCE DEPARTMENT",
+    "12.0": "CHEMICAL WARFARE SERVICE",
+    "13.0": "MILITARY POLICE",
+    "14.0": "OTHER"
+  },
+  "S100A.Q16B": {
+    "0.0": "NO ANSWER",
+    "1.0": "ENGINEERS",
+    "2.0": "FIELD ARTILLERY",
+    "3.0": "QUARTERMASTER CORPS",
+    "4.0": "INFANTRY",
+    "5.0": "MEDICAL DEPARTMENT",
+    "6.0": "ARMORED FORCE",
+    "7.0": "SIGNAL CORPS",
+    "8.0": "COAST ARTILLERY AND ANTI-AIRCRAFT",
+    "9.0": "AIR CORPS",
+    "10.0": "TRANSPORTATION CORPS",
+    "11.0": "ORDNANCE DEPARTMENT",
+    "12.0": "CHEMICAL WARFARE SERVICE",
+    "13.0": "MILITARY POLICE",
+    "14.0": "OTHER"
+  },
+  "S100A.Q17A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, COMMENT WRITTEN IN",
+    "2.0": "YES, NO COMMENT WRITTEN IN",
+    "3.0": "NO"
+  },
+  "S100A.Q17B": {
+    "0.0": "NO ANSWER",
+    "1.0": "COMMENT WRITTEN IN",
+    "2.0": "NO COMMENT WRITTEN IN"
+  },
+  "S100A.Q17C": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "IN THE UNITED STATES",
+    "2.0": "IN AFRICA",
+    "3.0": "IN ENGLAND AND/OR IRELAND",
+    "4.0": "IN ITALY",
+    "5.0": "U.S. PLUS OTHER COUNTRY",
+    "6.0": "NO ANSWER"
+  },
+  "S100A.Q17D": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "COMMENT WRITTEN IN",
+    "2.0": "NO COMMENT WRITTEN IN",
+    "3.0": "NO ANSWER"
+  },
+  "S100A.Q17E": {
+    "0.0": "NO ANSWER",
+    "1.0": "IN THE UNITED STATES",
+    "2.0": "IN AFRICA",
+    "3.0": "IN ENGLAND AND/OR IRELAND",
+    "4.0": "IN ITALY",
+    "5.0": "IN U.S. PLUS OTHER COUNTRY"
+  },
+  "S100A.Q17F": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "COMMENT WRITTEN IN",
+    "2.0": "NO COMMENT WRITTEN IN",
+    "3.0": "NO ANSWER"
+  },
+  "S100A.Q18A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY IMPORTANT",
+    "2.0": "SOMEWHAT IMPORTANT",
+    "3.0": "NOT VERY IMPORTANT",
+    "4.0": "NO ANSWER"
+  },
+  "S100A.Q18B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY IMPORTANT",
+    "2.0": "SOMEWHAT IMPORTANT",
+    "3.0": "NOT VERY IMPORTANT"
+  },
+  "S100A.Q18C": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY IMPORTANT",
+    "2.0": "SOMEWHAT IMPORTANT",
+    "3.0": "NOT VERY IMPORTANT"
+  },
+  "S100A.Q18D": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY IMPORTANT",
+    "2.0": "SOMEWHAT IMPORTANT",
+    "3.0": "NOT VERY IMPORTANT"
+  },
+  "S100A.Q19": {
+    "0.0": "NO ANSWER",
+    "1.0": "COMMENT WRITTEN IN",
+    "2.0": "NO COMMENT WRITTEN IN"
+  },
+  "S100A.Q20": {
+    "0.0": "NO ANSWER",
+    "1.0": "TOO TOUGH",
+    "2.0": "ABOUT RIGHT",
+    "3.0": "NOT TOUGH ENOUGH",
+    "4.0": "UNDECIDED"
+  },
+  "S100A.Q21A": {
+    "0.0": "NO ANSWER",
+    "1.0": "TOO MUCH",
+    "2.0": "ABOUT RIGHT",
+    "3.0": "TOO LITTLE",
+    "4.0": "NONE"
+  },
+  "S100A.Q21B": {
+    "0.0": "NO ANSWER",
+    "1.0": "TOO MUCH",
+    "2.0": "ABOUT RIGHT",
+    "3.0": "TOO LITTLE",
+    "4.0": "NONE"
+  },
+  "S100A.Q21C": {
+    "0.0": "NO ANSWER",
+    "1.0": "TOO MUCH",
+    "2.0": "ABOUT RIGHT",
+    "3.0": "TOO LITTLE",
+    "4.0": "NONE"
+  },
+  "S100A.Q21D": {
+    "0.0": "NO ANSWER",
+    "1.0": "TOO MUCH",
+    "2.0": "ABOUT RIGHT",
+    "3.0": "TOO LITTLE",
+    "4.0": "NONE"
+  },
+  "S100A.Q21E": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "TOO MUCH",
+    "2.0": "ABOUT RIGHT",
+    "3.0": "TOO LITTLE",
+    "4.0": "NONE",
+    "5.0": "NO ANSWER"
+  },
+  "S100A.Q21F": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "TOO MUCH",
+    "2.0": "ABOUT RIGHT",
+    "3.0": "TOO LITTLE",
+    "4.0": "NONE",
+    "5.0": "NO ANSWER"
+  },
+  "S100A.Q21G": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "TOO MUCH",
+    "2.0": "ABOUT RIGHT",
+    "3.0": "TOO LITTLE",
+    "4.0": "NONE",
+    "5.0": "NO ANSWER"
+  },
+  "S100A.Q21H": {
+    "0.0": "NO ANSWER",
+    "1.0": "TOO MUCH",
+    "2.0": "ABOUT RIGHT",
+    "3.0": "TOO LITTLE",
+    "4.0": "NONE"
+  },
+  "S100A.Q21I": {
+    "0.0": "NO ANSWER",
+    "1.0": "TOO MUCH",
+    "2.0": "ABOUT RIGHT",
+    "3.0": "TOO LITTLE",
+    "4.0": "NONE"
+  },
+  "S100A.Q21J": {
+    "0.0": "NO ANSWER",
+    "1.0": "TOO MUCH",
+    "2.0": "ABOUT RIGHT",
+    "3.0": "TOO LITTLE",
+    "4.0": "NONE"
+  },
+  "S100A.Q21K": {
+    "0.0": "NO ANSWER",
+    "1.0": "TOO MUCH",
+    "2.0": "ABOUT RIGHT",
+    "3.0": "TOO LITTLE",
+    "4.0": "NONE"
+  },
+  "S100A.Q21L": {
+    "0.0": "NO ANSWER",
+    "1.0": "TOO MUCH",
+    "2.0": "ABOUT RIGHT",
+    "3.0": "TOO LITTLE",
+    "4.0": "NONE"
+  },
+  "S100A.Q21M": {
+    "0.0": "NO ANSWER",
+    "1.0": "TOO MUCH",
+    "2.0": "ABOUT RIGHT",
+    "3.0": "TOO LITTLE",
+    "4.0": "NONE"
+  },
+  "S100A.Q21N": {
+    "0.0": "NO ANSWER",
+    "1.0": "TOO MUCH",
+    "2.0": "ABOUT RIGHT",
+    "3.0": "TOO LITTLE",
+    "4.0": "NONE"
+  },
+  "S100A.Q21O": {
+    "0.0": "NO ANSWER",
+    "1.0": "TOO MUCH",
+    "2.0": "ABOUT RIGHT",
+    "3.0": "TOO LITTLE",
+    "4.0": "NONE"
+  },
+  "S100A.Q21P": {
+    "0.0": "NO ANSWER",
+    "1.0": "TOO MUCH",
+    "2.0": "ABOUT RIGHT",
+    "3.0": "TOO LITTLE",
+    "4.0": "NONE"
+  },
+  "S100A.Q21Q": {
+    "0.0": "NO ANSWER",
+    "1.0": "TOO MUCH",
+    "2.0": "ABOUT RIGHT",
+    "3.0": "TOO LITTLE",
+    "4.0": "NONE"
+  },
+  "S100A.Q21R": {
+    "0.0": "NO ANSWER",
+    "1.0": "TOO MUCH",
+    "2.0": "ABOUT RIGHT",
+    "3.0": "TOO LITTLE",
+    "4.0": "NONE"
+  },
+  "S100A.Q21S": {
+    "0.0": "NO ANSWER",
+    "1.0": "TOO MUCH",
+    "2.0": "ABOUT RIGHT",
+    "3.0": "TOO LITTLE",
+    "4.0": "NONE"
+  },
+  "S100A.Q21T": {
+    "0.0": "NO ANSWER",
+    "1.0": "TOO MUCH",
+    "2.0": "ABOUT RIGHT",
+    "3.0": "TOO LITTLE",
+    "4.0": "NONE"
+  },
+  "S100A.Q21U": {
+    "0.0": "NO ANSWER",
+    "1.0": "TOO MUCH",
+    "2.0": "ABOUT RIGHT",
+    "3.0": "TOO LITTLE",
+    "4.0": "NONE"
+  },
+  "S100A.Q21V": {
+    "0.0": "NO ANSWER",
+    "1.0": "TOO MUCH",
+    "2.0": "ABOUT RIGHT",
+    "3.0": "TOO LITTLE",
+    "4.0": "NONE"
+  },
+  "S100A.Q22": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "COMMENT WRITTEN IN",
+    "2.0": "NO COMMENT WRITTEN IN",
+    "3.0": "NO ANSWER"
+  },
+  "S100A.Q23": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "THEY ARE GOOD QUALITY AND PRETTY WELL TRAINED",
+    "2.0": "THEY ARE GOOD QUALITY AND NOT WELL TRAINED",
+    "3.0": "THEY ARE POOR QUALITY AND NOT WELL TRAINED",
+    "4.0": "NO ANSWER"
+  },
+  "S100A.Q24": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, I WOULD LIKE MORE",
+    "2.0": "WE HAVE ENOUGH ALREADY",
+    "3.0": "WE HAVE TOO MANY NOW",
+    "4.0": "UNDECIDED"
+  },
+  "S100A.Q25": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, I WOULD LIKE TO HAVE MORE",
+    "2.0": "WE HAVE ENOUGH ALREADY",
+    "3.0": "WE HAVE TOO MANY NOW",
+    "4.0": "UNDECIDED"
+  },
+  "S100A.Q26": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, I WOULD LIKE TO HAVE MORE",
+    "2.0": "WE HAVE ENOUGH ALREADY",
+    "3.0": "WE HAVE TOO MUCH NOW",
+    "4.0": "UNDECIDED"
+  },
+  "S100A.Q27": {
+    "0.0": "NO ANSWER",
+    "1.0": "CAUSES AND HISTORY LEADING UP TO THE WAR",
+    "2.0": "DAY BY DAY NEWS OF THE PROGRESS OF THE WAR",
+    "3.0": "WHY THE UNITED STATES FIGHTS ALL OVER THE WORLD",
+    "4.0": "AIMS OF THE WAR",
+    "5.0": "PLANS FOR AFTER THE WAR",
+    "6.0": "HOW THE ITALIAN CAMPAIGN FITS INTO THE LARGER PLAN OF THE WAR",
+    "7.0": "HOW MY UNIT'S OPERATIONS FIT INTO THE PLAN OF THE CAMPAIGN IN ITALY",
+    "8.0": "OUR RELATIONS WITH OUR ALLIES",
+    "9.0": "SOMETHING ELSE",
+    "10.0": "MORE THAN ONE CHECKED"
+  },
+  "S100A.Q28": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE THAN ONE CHECKED",
+    "2.0": "LECTURES",
+    "3.0": "MOTION PICTURES",
+    "4.0": "MATERIAL YOU CAN READ YOURSELF",
+    "5.0": "RADIO LECTURES AND PROGRAMS",
+    "6.0": "SOLDIER DISCUSSION GROUPS",
+    "7.0": "SOME OTHER WAY"
+  },
+  "S100A.Q29": {
+    "0.0": "NO ANSWER",
+    "1.0": "COMMENT WRITTEN IN",
+    "2.0": "NO COMMENT WRITTEN IN"
+  },
+  "NA.1": {
+    "1.0": "S-100A",
+    "2.0": "S-100B",
+    "3.0": "S-100C",
+    "4.0": "S-100D",
+    "5.0": "S-100E",
+    "6.0": "S-100F",
+    "7.0": "S-100G Q.30XXXXXXK THE NAME OF THE COMMANDING GENERAL OF THE MEDITERRANEAN THEATER OF OPERATIONS."
+  },
+  "S100A.Q30": {
+    "0.0": "NO ANSWER",
+    "1.0": "GEN. GEORGE C. MARSHALL
+    "2.0": "GEN. SIR HENRY MAITLAND WILSON (CORRECT ANSWER)
+    "3.0": "GEN. DOUGLAS MACARTHUR
+    "4.0": "GEN. SIR BERNARD MONTGOMERY 84"
+  },
+  "S100A.Q31": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "GEN. DWIGHT EISENHOWER",
+    "2.0": "GEN. SIR HENRY MAITLAND WILSON",
+    "3.0": "GEN. SIR BERNARD MONTGOMERY",
+    "4.0": "GEN. JACOB DEVERS (CORRECT ANSWER)",
+    "5.0": "NO ANSWER"
+  },
+  "S100A.Q32": {
+    "0.0": "NO ANSWER",
+    "1.0": "GEN. GEORGE C. MARSHALL",
+    "2.0": "GEN. SIR HAROLD ALEXANDER",
+    "3.0": "GEN. DWIGHT EISENHOWER (CORRECT ANSWER)",
+    "4.0": "GEN. DOUGLAS MACARTHUR"
+  },
+  "S100A.V32A": {
+    "1.0": "ONE CORRECT ANSWER",
+    "2.0": "TWO CORRECT ANSWERS",
+    "4.0": "FOUR CORRECT ANSWERS",
+    "NaN": "NA",
+    "0.0": "NO CODE OR NO DATA",
+    "3.0": "THREE CORRECT ANSWERS"
+  },
+  "S100A.Q33": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY WELL SATISFIED",
+    "2.0": "PRETTY WELL SATISFIED",
+    "3.0": "NOT SO WELL SATISFIED",
+    "4.0": "NOT SATISFIED AT ALL",
+    "5.0": "UNDECIDED",
+    "6.0": "NO ANSWER"
+  },
+  "S100A.Q34": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, VERY PROUD",
+    "2.0": "YES, FAIRLY PROUD",
+    "3.0": "NO, NOT SO PROUD",
+    "4.0": "UNDECIDED"
+  },
+  "S100A.Q35": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY WELL",
+    "2.0": "FAIRLY WELL",
+    "3.0": "NOT SO WELL",
+    "4.0": "POORLY",
+    "5.0": "UNDECIDED"
+  },
+  "S100A.Q36": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "IT IS VERY HIGH",
+    "2.0": "IT IS PRETTY HIGH",
+    "3.0": "IT IS JUST MEDIUM",
+    "4.0": "IT IS PRETTY LOW",
+    "5.0": "IT IS VERY LOW",
+    "6.0": "NO ANSWER"
+  },
+  "S100A.Q37": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "COMMENT WRITTEN IN",
+    "2.0": "NO COMMENT WRITTEN IN"
+  },
+  "S100A.V37A.1": {
+    "1.0": "GOOD OFFICERS, KEEPING PROMISES TO MEN",
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V37A.2": {
+    "1.0": "GOOD NON-COMS
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V37A.3": {
+    "1.0": "REST; REST PERIODS; FURLOUGHS (BUT NO MENTION OF HOME OR U.S.), PASSES
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V37A.4": {
+    "1.0": "EXPECTATION OF GETTING BACK TO U.S.; FURLOUGH TO U.S.
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V37A.5": {
+    "1.0": "WANT TO GET DEFINITE DATE FOR GOING HOME OR BACK TO U.S.
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V37A.6": {
+    "1.0": "ADEQUACY OF NEW, GOOD WAR NEWS
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V37A.7": {
+    "1.0": "SPECIAL SERVICE, MOVIES, SHOWS, RADIO, ENTERTAINMENT, BOOKS
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V37A.8": {
+    "1.0": "MAIL
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V37A.9": {
+    "1.0": "FOOD, DECENT PLACE TO LIVE; BETTER FIELD EQUIPMENT; BETTER SHELTER
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V37A.10": {
+    "1.0": "LITTLE LUXURIES: CANDY BARS, CIGARS, ETC.
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V37A.11": {
+    "1.0": "ARMY EFFICIENCY, ABSENCE OF CONFLICTING ORDERS
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V37A.12": {
+    "1.0": "BIVOUAC OR QUARTERS NEAR TOWN
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V37A.13": {
+    "1.0": "LESS DRILL AND INSPECTION AND OTHER DUTIES IN REST PERIOD
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V37A.14": {
+    "1.0": "LESS DRILL AND INSPECTION AND OTHER MINOR DETAILS (WITHOUT MENTION OF REST PERIOD), MORE FREEDOM
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V37A.15": {
+    "1.0": "STOP RUMORS
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V37A.16": {
+    "1.0": "CONFIDENCE IN OUTFIT, TEAMWORK
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V37A.17": {
+    "1.0": "COMPLETING A SUCCESSFUL MISSION, RECOGNITION OF SUCCESSFUL WORK - PRAISE
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V37A.18": {
+    "1.0": "ALL OTHER
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V37A.19": {
+    "1.0": "IRRELEVENT ANSWER (WHEN MAN IS OBVIOUSLY NOT ANSWERING QUESTION)
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V37A.20": {
+    "1.0": "NO ANSWER
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.Q38": {
+    "1.0": "COMMENT WRITTEN IN",
+    "2.0": "NO COMMENT WRITTEN IN"
+  },
+  "S100A.V38A.1": {
+    "1.0": "POOR OFFICERS, DON'T KEEP PROMISES, INCOMPETENT OFFICERS, FAVORITISM",
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V38A.2": {
+    "1.0": "POOR NON-COMS
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V38A.3": {
+    "1.0": "LACK OF REST, NO FURLOUGHS (BUT NO MENTION OF HOME OR U.S.); TOO LONG IN COMBAT
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V38A.4": {
+    "1.0": "NO CHANCE OF GETTING HOME (U.S.), NO DEFINITE DATE FOR GETTING TO U.S.
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V38A.5": {
+    "1.0": "BAD WAR NEWS, BAD HOMEFRONT NEWS, DEATHS OF BUDDIES
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V38A.6": {
+    "1.0": "NOT ENOUGH OR POOR SPECIAL SERVICE, MOVIES, SHOWS, RADIO, OR DANCES, ENTERTAINMENT, ASSOCIATION WITH WOMEN
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V38A.7": {
+    "1.0": "NO MAIL OR NOT ENOUGH MAIL
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V38A.8": {
+    "1.0": "POOR FOOD, BAD LIVING CONDITIONS (LEAKY SHELTERS, NO OVERCOATS)
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V38A.9": {
+    "1.0": "LACK OF LITTLE LUXURIES: CANDY BARS, CIGARS, CHEAP CIGARETTES, ETC.
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V38A.10": {
+    "1.0": "INEFFICIENCY IN ARMY, SNAFU, CONFLICTING ORDERS
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V38A.11": {
+    "1.0": "DON'T KNOW WHAT'S GOING ON
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V38A.12": {
+    "1.0": "BAD WEATHER
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V38A.13": {
+    "1.0": "SPECIAL ADVANTAGES OF OFFICERS, RANK PULLING
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V38A.14": {
+    "1.0": "TOO MUCH DRILL AND OBSERVATION OF MILITARY FORMS WHILE IN REST PERIOD
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V38A.15": {
+    "1.0": "TOO MUCH DRILL AND OBSERVATION OF MILITARY FORMS \\(WITHOUT MENTION OF REST PERIOD\\)
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V38A.16": {
+    "1.0": "RUMORS
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V38A.17": {
+    "1.0": "UNCERTAINTY ABOUT THE FUTURE
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V38A.18": {
+    "1.0": "ALL OTHERS
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V38A.19": {
+    "1.0": "IRRELEVANT ANSWER \\(WHEN MAN IS OBVIOUSLY NOT ANSWERING THE QUESTION\\)
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V38A.20": {
+    "1.0": "NO ANSWER
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.Q39": {
+    "1.0": "VERY SURE",
+    "2.0": "PRETTY SURE",
+    "3.0": "NOT SO SURE",
+    "4.0": "NOT SURE AT ALL",
+    "5.0": "UNDECIDED",
+    "6.0": "NO ANSWER"
+  },
+  "S100A.Q40": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ALL THE AMERICAN WEAPONS AND EQUIPMENT ARE BETTER THAN THOSE OF THE GERMAN ARMY",
+    "2.0": "SOME OF THE GERMAN WEAPONS AND EQUIPMENT ARE BETTER THAN THOSE OF THE AMERICAN ARMY (WEAPONS WRITTEN IN)",
+    "3.0": "SOME GERMAN WEAPONS BETTER (NO WEAPONS WRITTEN IN)",
+    "4.0": "NO ANSWER"
+  },
+  "S100A.Q41": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I REALLY HATE THEM AND WE SHOULD WIPE THEM OUT COMPLETELY",
+    "2.0": "I DON'T FEEL MUCH PERSONAL HATE FOR THEM",
+    "3.0": "WE MUST FIGHT THEM BUT THEY ARE PRETTY MUCH LIKE WE ARE",
+    "4.0": "SOME OTHER FEELING",
+    "5.0": "NO ANSWER"
+  },
+  "S100A.Q42": {
+    "0.0": "NO ANSWER",
+    "1.0": "I REALLY HATE THEM AND WE SHOULD WIPE THEM OUT COMPLETELY",
+    "2.0": "I DON'T FEEL MUCH PERSONAL HATE FOR THEM",
+    "3.0": "WE MUST FIGHT THEM BUT THEY ARE PRETTY MUCH LIKE WE ARE",
+    "4.0": "SOME OTHER FEELING"
+  },
+  "S100A.Q43A": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN 6 MONTHS",
+    "2.0": "6 THROUGH 9 MONTHS",
+    "3.0": "10 THROUGH 12 MONTHS",
+    "4.0": "13 THROUGH 17 MONTHS",
+    "5.0": "18 THROUGH 20 MONTHS",
+    "6.0": "21 THROUGH 23 MONTHS",
+    "7.0": "24 MONTHS",
+    "8.0": "25 THROUGH 29 MONTHS",
+    "9.0": "30 THROUGH 35 MONTHS",
+    "10.0": "36 MONTHS",
+    "11.0": "OVER 36 MONTHS"
+  },
+  "S100A.Q44": {
+    "0.0": "NO ANSWER",
+    "1.0": "30 DAYS OR LESS",
+    "2.0": "31 THROUGH 34 DAYS",
+    "3.0": "35 THROUGH 36 DAYS",
+    "4.0": "37 THROUGH 40 DAYS",
+    "5.0": "41 THROUGH 59 DAYS",
+    "6.0": "60 THROUGH 70 DAYS",
+    "7.0": "75 THROUGH 90 DAYS",
+    "8.0": "91 THROUGH 110 DAYS",
+    "9.0": "111 THROUGH 135 DAYS",
+    "10.0": "OVER 135 DAYS",
+    "11.0": "NO ACTIVE DUTY"
+  },
+  "S100A.Q45": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "WE SHOULD ACCEPT THE OFFER AND STOP FIGHTING NOW",
+    "2.0": "WE SHOULD CONSIDER THE OFFER AND TRY TO WORK OUT SOME PEACE TERMS WITH THEM",
+    "3.0": "WE SHOULD TURN DOWN THE OFFER AND KEEP ON FIGHTING UNTIL THEY GIVE UP COMPLETELY",
+    "4.0": "UNDECIDED",
+    "5.0": "NO ANSWER"
+  },
+  "S100A.Q46": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ONCE IN A GREAT WHILE",
+    "4.0": "NEVER"
+  },
+  "S100A.Q47": {
+    "0.0": "NO ANSWER",
+    "1.0": "BETTER",
+    "2.0": "ABOUT THE SAME",
+    "3.0": "WORSE",
+    "4.0": "UNDECIDED"
+  },
+  "S100A.Q48": {
+    "0.0": "NO ANSWER",
+    "1.0": "THEY ARE TRYING VERY HARD",
+    "2.0": "THEY ARE TRYING PRETTY HARD",
+    "3.0": "THEY ARE NOT TRYING SO HARD",
+    "4.0": "THEY ARE NOT TRYING AT ALL"
+  },
+  "S100A.Q49": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALL OF THEM",
+    "2.0": "MOST OF THEM",
+    "3.0": "ABOUT HALF OF THEM",
+    "4.0": "FEW OF THEM",
+    "5.0": "NONE OF THEM"
+  },
+  "S100A.Q50": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALL OF THEM DO",
+    "2.0": "MOST OF THEM DO",
+    "3.0": "ABOUT HALF OF THEM DO",
+    "4.0": "FEW OF THEM DO",
+    "5.0": "NONE OF THEM DO"
+  },
+  "S100A.Q51": {
+    "0.0": "NO ANSWER",
+    "1.0": "GEN. JACOB DEVERS",
+    "2.0": "GEN. SIR HAROLD ALEXANDER",
+    "3.0": "GEN. MARK W. CLARK",
+    "4.0": "GEN. DWIGHT EISENHOWER"
+  },
+  "S100A.Q52": {
+    "0.0": "NO ANSWER",
+    "1.0": "NO",
+    "2.0": "YES, COMMENT WRITTEN IN",
+    "3.0": "YES, NO COMMENT WRITTEN IN"
+  },
+  "S100A.Q53": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE FRIGHTENING",
+    "2.0": "LESS FRIGHTENING",
+    "3.0": "FRIGHTENING ALL THE TIME",
+    "4.0": "NEVER FRIGHTENING"
+  },
+  "S100A.Q54": {
+    "1.0": "COMMENT WRITTEN IN",
+    "NaN": "COL. 80 NOT USED. CARD 3",
+    "2.0": "NO COMMENT WRITTEN IN"
+  },
+  "NA.3": {
+    "1.0": "S-100A",
+    "2.0": "S-100B",
+    "3.0": "S-100C",
+    "4.0": "S-100D",
+    "5.0": "S-100E",
+    "6.0": "S-100F",
+    "7.0": "S-100G"
+  },
+  "S100A.V54A.1": {
+    "1.0": "PRAYER, FAITH IN THE LORD, READ BIBLE",
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V54A.2": {
+    "1.0": "KEEP BUSY, KEEP DOING SOMETHING
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V54A.3": {
+    "1.0": "BE CALM, DON'T WORRY, STRONG WILL POWER
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V54A.4": {
+    "1.0": "THINK ABOUT HOW IMPORTANT THE WAR IS, OR HOW IMPORTANT MY JOB IS
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V54A.5": {
+    "1.0": "KEEP DOWN, KEEP UNDER COVER, DIG A DEEPER TRENCH
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V54A.6": {
+    "1.0": "THINKING OR TALKING ABOUT SOMETHING BESIDES THE WAR AND FIGHTING
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V54A.7": {
+    "1.0": "NO USE WORRYING (IF NUMBER IS UP WILL GET IT, IF NOT WON'T GET IT)
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V54A.8": {
+    "1.0": "THINK OF HOME, GIRL FRIEND, FAMILY; THINK OF GETTING HOME
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V54A.9": {
+    "1.0": "THINK OF WHAT I'LL DO WHEN WAR IS OVER; THINK OF WHEN WAR IS OVER 1137",
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V54A.10": {
+    "1.0": "TALK TO SOMEONE; JOKE, LAUGH, CLOSE CONTACT WITH BUDDIES
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V54A.11": {
+    "1.0": "THINK ABOUT NOTHING BUT FIGHTING AND DOING MY JOB
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V54A.12": {
+    "1.0": "I'M NOT THE ONLY ONE IN TOUGH SPOT, THINK OF SUPPORT I'M GETTING; IT'S WORSE FOR THE ENEMY
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V54A.13": {
+    "1.0": "DRINKING, SMOKING, CHEWING GUM, EATING
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V54A.14": {
+    "1.0": "THINKING THAT OTHERS DEPEND ON ME, I HAVE TO DO WELL, I CAN'T BE A COWARD
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V54A.15": {
+    "1.0": "WAR WON'T LAST LONG; I'LL BE OUT OF THIS SOON; I'LL SOON GET RELIEF
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V54A.16": {
+    "1.0": "NOTHING CAN BE DONE TO KEEP COURAGE UP, ALWAYS AFRAID, JUST SWEAT IT OUT
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V54A.17": {
+    "1.0": "ALL OTHERS
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V54A.18": {
+    "1.0": "IRRELEVANT ANSWER (WHEN MAN IS OBVIOUSLY NOT ANSWERING THE QUESTION) REST, SLEEP - CHANGE OF ATMOSPHERE
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.V54A.19": {
+    "1.0": "NO ANSWER
+    "2.0": "NOT CHOSEN"
+  },
+  "S100A.Q55": {
+    "0.0": "NO ANSWER",
+    "1.0": "HATRED HELPS A LOT",
+    "2.0": "HATRED HELPS SOME BUT NOT A LOT",
+    "3.0": "HATRED HELPS VERY LITTLE OR NOT AT ALL",
+    "4.0": "UNDECIDED"
+  },
+  "S100A.Q56": {
+    "0.0": "NO ANSWER",
+    "1.0": "FIVE OR SIX TIMES A WEEK",
+    "2.0": "THREE OR FOUR TIMES A WEEK",
+    "3.0": "ONCE OR TWICE A WEEK",
+    "4.0": "LESS THAN ONCE A WEEK"
+  },
+  "S100A.Q57": {
+    "0.0": "NO ANSWER",
+    "1.0": "LIKE IT VERY MUCH",
+    "2.0": "LIKE IT PRETTY WELL",
+    "3.0": "DON'T LIKE IT SO MUCH",
+    "4.0": "DON'T LIKE IT AT ALL"
+  },
+  "S100A.Q58": {
+    "0.0": "NO ANSWER",
+    "1.0": "COMMENT WRITTEN IN",
+    "2.0": "COMMENT NOT WRITTEN IN"
+  },
+  "S100A.Q59": {
+    "0.0": "NO ANSWER",
+    "NaN": "QUESTION 60 NOT CODED.",
+    "1.0": "BELONG TO A REGIMENT",
+    "2.0": "I DON'T BELONG TO A REGIMENT"
+  },
+  "S100A.V62": {
+    "1.0": "34TH AND 45TH DIVISIONS, 1ST INSTALLATION",
+    "2.0": "36TH DIVISION, 1ST INSTALLATION",
+    "3.0": "13TH, 18TH, 71ST FA BRIGADES, 1ST INSTALLATION",
+    "4.0": "34TH AND 45TH DIVISION, 2ND INSTALLATION",
+    "5.0": "36TH DIVISION, 2ND INSTALLATION",
+    "6.0": "13TH, 18TH, 71ST FA BRIGADES, 2ND INSTALLATION"
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "S204.Q1": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN 6TH GRADE",
+    "2.0": "FINISHED 6TH GRADE",
+    "3.0": "FINISHED 7TH GRADE",
+    "4.0": "FINISHED 8TH GRADE",
+    "5.0": "SOME HIGH SCHOOL BUT DID NOT FINISH",
+    "6.0": "GRADUATED FROM HIGH SCHOOL",
+    "7.0": "SOME COLLEGE BUT DID NOT FINISH",
+    "8.0": "GRADUATED FROM COLLEGE"
+  },
+  "S204.Q2": {
+    "0.0": "NO ANSWER",
+    "1.0": "1-7 DAYS",
+    "2.0": "8-14 DAYS",
+    "3.0": "15-21 DAYS",
+    "4.0": "22-28 DAYS",
+    "5.0": "29-35 DAYS",
+    "6.0": "36-42 DAYS",
+    "7.0": "43-49 DAYS",
+    "8.0": "50-56 DAYS",
+    "9.0": "57-90 DAYS",
+    "10.0": "91-180 DAYS",
+    "11.0": "OVER 180 DAYS"
+  },
+  "S204.Q3": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONLY THIS ONE",
+    "2.0": "ONE BESIDES THIS ONE",
+    "3.0": "TWO BESIDES THIS ONE",
+    "4.0": "THREE BESIDES THIS ONE",
+    "5.0": "MORE THAN THREE BESIDES THIS ONE",
+    "6.0": "4",
+    "7.0": "5",
+    "8.0": "6",
+    "9.0": "7",
+    "10.0": "8",
+    "11.0": "9"
+  },
+  "S204.Q4": {
+    "0.0": "NO ANSWER",
+    "1.0": "FEBRUARY 1945",
+    "2.0": "JANUARY 1945",
+    "3.0": "DECEMBER 1944",
+    "4.0": "NOVEMBER 1944",
+    "5.0": "OCTOBER 1944",
+    "6.0": "SEPTEMBER 1944",
+    "7.0": "AUGUST 1944",
+    "8.0": "JULY 1944",
+    "9.0": "JUNE 1944",
+    "10.0": "BEFORE JUNE 1944",
+    "11.0": "NEVER OR NONE"
+  },
+  "S204.Q5": {
+    "0.0": "NO ANSWER",
+    "1.0": "FEBRUARY 1945",
+    "2.0": "JANUARY 1945",
+    "3.0": "DECEMBER 1944",
+    "4.0": "NOVEMBER 1944",
+    "5.0": "OCTOBER 1944",
+    "6.0": "SEPTEMBER 1944",
+    "7.0": "AUGUST 1944",
+    "8.0": "JULY 1944",
+    "9.0": "JUNE 1944",
+    "10.0": "BEFORE JUNE 1944",
+    "11.0": "NEVER OR NONE"
+  },
+  "S204.Q6": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "GENERAL SERVICE",
+    "2.0": "LIMITED ASSIGNMENT",
+    "3.0": "NO ANSWER"
+  },
+  "S204.Q7": {
+    "1.0": "LIMITED ASSIGNMENT CLASS 2 (LA-2)",
+    "2.0": "LIMITED ASSIGNMENT CLASS 3 (LA-3)",
+    "3.0": "LIMITED ASSIGNMENT CLASS 4 (LA-4)",
+    "4.0": "LIMITED ASSIGNMENT CLASS 5 (LA-5)",
+    "5.0": "DON'T KNOW WHAT CLASS I AM IN",
+    "6.0": "NO ANSWER"
+  },
+  "S204.Q8": {
+    "0.0": "NO ANSWER",
+    "1.0": "3 TO 6 MONTHS",
+    "2.0": "6 MONTHS TO 1 YEAR",
+    "3.0": "1 TO 2 YEARS",
+    "4.0": "IN MY CLASS THEY ARE NOT EXAMINED AGAIN",
+    "5.0": "DON'T KNOW HOW LONG IT IS"
+  },
+  "S204.Q9": {
+    "0.0": "NO ANSWER",
+    "1.0": "WOUNDED",
+    "2.0": "COMBAT EXHAUSTION",
+    "3.0": "TRENCH FOOT",
+    "4.0": "OTHER NON-BATTLE INJURY",
+    "5.0": "SOME OTHER REASON"
+  },
+  "S204.Q10": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S204.Q11": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALMOST ALL OF THEM ARE",
+    "NaN": "QUESTION 12 NOT CODED.",
+    "2.0": "MOST OF THEM ARE",
+    "3.0": "ALMOST HALF OF THEM ARE",
+    "4.0": "MOST OF THEM ARE NOT",
+    "5.0": "ALMOST ALL OF THEM ARE NOT"
+  },
+  "S204.Q13": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, THEY HAVE TOLD US ABOUT AS MUCH AS THEY CAN",
+    "2.0": "NO, THEY COULD HAVE TOLD US A LOT MORE",
+    "3.0": "NO ANSWER"
+  },
+  "S204.Q14": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT IS NECESSARY TO PUT THEM ON JOBS HERE",
+    "2.0": "THEY SHOULD BE SENT BACK TO THE U.S."
+  },
+  "S204.Q15": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, IT HAS TRIED ITS BEST",
+    "2.0": "IT HAS TRIED SOME BUT NOT HARD ENOUGH",
+    "3.0": "IT HAS HARDLY TRIED AT ALL"
+  },
+  "S204.Q16": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, IN MOST WAYS I HAVE",
+    "2.0": "IN SOME WAYS, YES, IN OTHER WAYS, NO",
+    "3.0": "NO, ON THE WHOLE I HAVE NOT GOTTEN A SQUARE DEAL"
+  },
+  "S204.Q17": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ONLY ONCE IN A GREAT WHILE",
+    "4.0": "NEVER"
+  },
+  "S204.Q18": {
+    "0.0": "NO ANSWER",
+    "1.0": "THE CADRE ARE TREATED QUITE A BIT BETTER",
+    "2.0": "THE CADRE ARE TREATED A LITTLE BETTER",
+    "3.0": "THEY ARE ALL TREATED ABOUT THE SAME",
+    "4.0": "THE CASUALS ARE TREATED A LITTLE BETTER THAN THE CADRE",
+    "5.0": "THE CASUALS ARE TREATED QUITE A BIT BETTER THAN THE CADRE"
+  },
+  "S204.Q19": {
+    "0.0": "NO ANSWER",
+    "1.0": "FEBRUARY 1945",
+    "2.0": "JANUARY 1945",
+    "3.0": "DECEMBER 1944",
+    "4.0": "NOVEMBER 1944",
+    "5.0": "OCTOBER 1944",
+    "6.0": "SEPTEMBER 1944",
+    "7.0": "AUGUST 1944",
+    "8.0": "JULY 1944",
+    "9.0": "JUNE 1944",
+    "10.0": "BEFORE JUNE 1944",
+    "11.0": "NEVER OR NONE"
+  },
+  "S204.Q20": {
+    "0.0": "NO ANSWER",
+    "1.0": "FEBRUARY 1945",
+    "2.0": "JANUARY 1945",
+    "3.0": "DECEMBER 1944",
+    "4.0": "NOVEMBER 1944",
+    "5.0": "OCTOBER 1944",
+    "6.0": "SEPTEMBER 1944",
+    "7.0": "AUGUST 1944",
+    "8.0": "JULY 1944",
+    "9.0": "JUNE 1944",
+    "10.0": "BEFORE JUNE 1944",
+    "11.0": "NEVER OR NONE"
+  },
+  "S204.Q21": {
+    "0.0": "NO ANSWER",
+    "1.0": "ABOUT AS GOOD AS THEY COULD BE",
+    "2.0": "COULD BE A BIT BETTER",
+    "3.0": "COULD BE A LOT BETTER"
+  },
+  "S204.Q22": {
+    "0.0": "NO ANSWER",
+    "1.0": "ABOUT AS GOOD AS THEY COULD BE",
+    "2.0": "COULD BE A BIT BETTER",
+    "3.0": "COULD BE A LOT BETTER"
+  },
+  "S204.Q23": {
+    "0.0": "NO ANSWER",
+    "1.0": "ABOUT AS MUCH AS WE SHOULD HAVE",
+    "2.0": "SHOULD HAVE A BIT MORE",
+    "3.0": "SHOULD HAVE A LOT MORE"
+  },
+  "S204.Q24": {
+    "0.0": "NO ANSWER",
+    "1.0": "ABOUT AS GOOD AS COULD BE",
+    "2.0": "COULD BE A BIT BETTER",
+    "3.0": "COULD BE A LOT BETTER"
+  },
+  "S204.Q25": {
+    "0.0": "NO ANSWER",
+    "1.0": "ABOUT AS GOOD AS THEY COULD BE",
+    "2.0": "COULD BE A BIT BETTER",
+    "3.0": "COULD BE A LOT BETTER"
+  },
+  "S204.Q26": {
+    "1.0": "COMMENT",
+    "2.0": "NO COMMENT"
+  }
+}

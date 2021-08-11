@@ -23,9 +23,7 @@ for (j in 1:length(survey_codes)) {
     # get question nickname
     .[, q_nickname := str_replace(names(answerscsv), "\\.$", "")] %>% 
     # get answer options
-    .[, codes_raw := str_match(raw, "\\s[0-9]?[0-9]?[0-9X]\\..*")] %>% 
-    # parse codes
-    .[, codes := str_match_all(codes_raw, "\\s[0-9X]{1,3}\\.")] %>% 
+    .[, codes_raw := str_match(raw, "\\s[0-9]?[0-9]?[0-9]\\..*")] %>% 
     # fix parentheses for future regex
     #.[, question := str_replace_all(question, "\\(", "\\\\\\(")] %>%
     .[, codes_raw := str_replace_all(codes_raw, "\\(", "\\\\\\(")] %>%
@@ -34,6 +32,9 @@ for (j in 1:length(survey_codes)) {
     # fix asterics for future regex
     #.[, question := str_replace_all(question, "\\*", "\\\\\\*")] %>% 
     .[, codes_raw := str_replace_all(codes_raw, "\\*", "\\\\\\*")] %>% 
+    .[, codes_raw := str_replace(codes_raw, " X. .*", "")] %>% 
+    # parse codes
+    .[, codes := str_match_all(codes_raw, "\\s[0-9]{1,3}\\.")] %>%
     # parse question
     .[, question := str_remove(str_remove(str_remove(raw, q_nickname), codes_raw), "\\.")] %>%
     # fill empty questions with q_nickname

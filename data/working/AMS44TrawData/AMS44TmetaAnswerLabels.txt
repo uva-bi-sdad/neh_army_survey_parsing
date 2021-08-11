@@ -1,0 +1,1394 @@
+{
+  "FORM": {
+    "1.0": "S-044T - TOTAL SAMPLE",
+    "2.0": "S-044X - CROSS SECTION",
+    "3.0": "S-044I - INFANTRY"
+  },
+  "S44T.Q1": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "PRIVATE OR PRIVATE FIRST CLASS",
+    "2.0": "CORPORAL OR TECHNICIAN 5TH GRADE",
+    "3.0": "SERGEANT (ANY GRADE) OR TECHNICIAN 3RD OR 4TH GRADE",
+    "4.0": "NO ANSWER"
+  },
+  "S44T.Q2": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "19 YEARS OR YOUNGER",
+    "2.0": "20 YEARS",
+    "3.0": "21 TO 24 YEARS",
+    "4.0": "25 TO 27 YEARS",
+    "5.0": "28 TO 29 YEARS",
+    "6.0": "30 TO 34 YEARS",
+    "7.0": "35 TO 37 YEARS",
+    "8.0": "38 YEARS OR OLDER",
+    "9.0": "NO ANSWER"
+  },
+  "S44T.Q3": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "SINGLE",
+    "2.0": "MARRIED",
+    "3.0": "DIVORCED",
+    "4.0": "SEPARATED",
+    "5.0": "WIDOWED",
+    "6.0": "NO ANSWER"
+  },
+  "S44T.Q4": {
+    "1.0": "NEW ENGLAND: CONNECTICUT, MAINE, MASSACHUSETTS, NEW HAMPSHIRE, RHODE ISLAND, VERMONT",
+    "2.0": "MIDDLE ATLANTIC: NEW JERSEY, NEW YORK, PENNSYLVANIA",
+    "3.0": "EAST NORTH CENTRAL: ILLINOIS, INDIANA, MICHIGAN, OHIO, WISCONSIN",
+    "4.0": "WEST NORTH CENTRAL: IOWA, KANSAS, MINNESOTA, MISSOURI, NEBRASKA, NORTH DAKOTA, SOUTH DAKOTA",
+    "5.0": "SOUTH ATLANTIC: DELAWARE, DISTRICT OF COLUMBIA, FLORIDA, GEORGIA, MARYLAND, NORTH CAROLINA, SOUTH CAROLINA, VIRGINIA, WEST VIRGINIA",
+    "6.0": "EAST SOUTH CENTRAL: ALABAMA, KENTUCKY, MISSISSIPPI, TENNESSEE",
+    "7.0": "WEST SOUTH CENTRAL: ARKANSAS, LOUISIANA, OKLAHOMA, TEXAS",
+    "8.0": "MOUNTAIN: ARIZONA, COLORADO, IDAHO, MONTANA, NEVADA, NEW MEXICO, UTAH, WYOMING",
+    "9.0": "PACIFIC: CALIFORNIA, OREGON, WASHINGTON",
+    "10.0": "FOREIGN - U.S. POSSESSION",
+    "11.0": "FOREIGN - NOT U.S.",
+    "12.0": "U.S. - STATE NOT SPECIFIED",
+    "13.0": "NO ANSWER"
+  },
+  "S44T.Q5": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I WAS DRAFTED",
+    "2.0": "I VOLUNTEERED",
+    "3.0": "I WAS IN THE NATIONAL GUARD",
+    "4.0": "NO ANSWER"
+  },
+  "S44T.Q6": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "3 MONTHS OR LESS",
+    "2.0": "OVER 3 MONTHS UP TO 6 MONTHS",
+    "3.0": "OVER 6 MONTHS UP TO 1 YEAR",
+    "4.0": "OVER 1 YEAR UP TO 2 YEARS",
+    "5.0": "OVER 2 YEARS",
+    "6.0": "NO ANSWER"
+  },
+  "S44T.Q7": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ON A FARM OR IN THE COUNTRY",
+    "2.0": "IN A SMALL TOWN (FEWER THAN 2,500 PEOPLE)",
+    "3.0": "IN A TOWN (WITH BETWEEN 2,500 AND 25,000 PEOPLE)",
+    "4.0": "IN A CITY (BETWEEN 25,000 AND 100,000 PEOPLE)",
+    "5.0": "IN A LARGE CITY (MORE THAN 100,000 PEOPLE)",
+    "6.0": "NO ANSWER"
+  },
+  "S44T.Q8": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "LESS THAN 6TH GRADE",
+    "2.0": "FINISHED 6TH GRADE",
+    "3.0": "FINISHED 7TH GRADE",
+    "4.0": "FINISHED 8TH GRADE",
+    "5.0": "SOME HIGH SCHOOL",
+    "6.0": "GRADUATED FROM HIGH SCHOOL",
+    "7.0": "SOME COLLEGE BUT DID NOT FINISH",
+    "8.0": "GRADUATED FROM COLLEGE",
+    "9.0": "NO ANSWER"
+  },
+  "S44T.Q9": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, I AM LIMITED SERVICE",
+    "2.0": "NO, I AM NOT LIMITED SERVICE",
+    "3.0": "DON'T KNOW",
+    "4.0": "NO ANSWER"
+  },
+  "S44T.Q10": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ENGINEERS",
+    "2.0": "FIELD ARTILLERY",
+    "3.0": "QUARTERMASTER CORPS",
+    "4.0": "INFANTRY",
+    "5.0": "MEDICAL DEPARTMENT",
+    "6.0": "ARMORED FORCE",
+    "7.0": "SIGNAL CORPS",
+    "8.0": "COAST ARTILLERY AND ANTI-AIRCRAFT",
+    "9.0": "AIR CORPS",
+    "10.0": "TRANSPORTATION CORPS",
+    "11.0": "ORDNANCE DEPARTMENT",
+    "12.0": "CHEMICAL WARFARE SERVICE",
+    "13.0": "MILITARY POLICE"
+  },
+  "S44T.Q11.1": {
+    "1.0": "ENGINEERS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q11.2": {
+    "1.0": "FIELD ARTILLERY 4320",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q11.3": {
+    "1.0": "QUARTERMASTER CORPS 4298",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q11.4": {
+    "1.0": "INFANTRY 3974",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q11.5": {
+    "1.0": "MEDICAL DEPARTMENT 4414",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q11.6": {
+    "1.0": "ARMORED FORCE 4419",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q11.7": {
+    "1.0": "SIGNAL CORPS 4422",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q11.8": {
+    "1.0": "COAST ARTILLERY AND ANTI-AIRCRAFT 4365",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q11.9": {
+    "1.0": "AIR CORPS 4408",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q11.10": {
+    "1.0": "TRANSPORTATION CORPS 4435",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q11.11": {
+    "1.0": "ORDNANCE DEPARTMENT 4418",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q11.12": {
+    "1.0": "CHEMICAL WARFARE SERVICE 4429",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q11.13": {
+    "1.0": "MILITARY POLICE 4422",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q11.14": {
+    "1.0": "OTHER 4316",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q11.15": {
+    "1.0": "I HAVEN'T BEEN IN ANY OTHER 1289",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q11.16": {
+    "1.0": "NO ANSWER 4262",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q12": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ARMY GROUND FORCES (A.G.F.)",
+    "2.0": "ARMY AIR FORCES (A.A.F.)",
+    "3.0": "ARMY SERVICE FORCES (A.S.F. - FORMERLY SERVICES OF SUPPLY, S.O.S.)",
+    "4.0": "DEFENSE COMMAND",
+    "5.0": "DON'T KNOW",
+    "6.0": "NO ANSWER"
+  },
+  "S44T.Q13": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "A GREAT DEAL",
+    "2.0": "A FAIR AMOUNT",
+    "3.0": "VERY LITTLE",
+    "4.0": "NEVER HEARD OF IT",
+    "5.0": "NO ANSWER"
+  },
+  "S44T.Q14.1": {
+    "1.0": "ENGINEERS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q14.2": {
+    "1.0": "FIELD ARTILLERY 3356",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q14.3": {
+    "1.0": "QUARTERMASTER CORPS 3379",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q14.4": {
+    "1.0": "INFANTRY 3846",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q14.5": {
+    "1.0": "MEDICAL DEPARTMENT 3799",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q14.6": {
+    "1.0": "ARMORED FORCE 3282",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q14.7": {
+    "1.0": "SIGNAL CORPS 3240",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q14.8": {
+    "1.0": "COAST ARTILLERY AND ANTI-AIRCRAFT 2975",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q14.9": {
+    "1.0": "AIR CORPS 3315",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q14.10": {
+    "1.0": "TRANSPORTATION CORPS 3173",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q14.11": {
+    "1.0": "ORDNANCE DEPARTMENT 3231",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q14.12": {
+    "1.0": "CHEMICAL WARFARE SERVICE 3629",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q14.13": {
+    "1.0": "MILITARY POLICE 3394",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q14.14": {
+    "1.0": "ALL HAVE BEEN FULLY EXPLAINED TO ME 3164",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q14.15": {
+    "1.0": "NONE HAVE BEEN EXPLAINED 4310",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q14.16": {
+    "1.0": "NO ANSWER 4083",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.V16C": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "\"YES\" CHECKED IN Q.16A (SO THAT Q.15 IS CODED IN COL. 57)",
+    "2.0": "\"NO\" CHECKED IN Q.16A AND NO ANSWER IN Q.16B (SO THAT Q.15 IS CODED IN COL. 57)",
+    "3.0": "\"NO\" CHECKED IN Q.16A AND Q.16B IS ANSWERED (SO THAT Q.16B IS CODED IN COL. 57)",
+    "4.0": "NO ANSWER TO EITHER Q.15 AND/OR Q.16"
+  },
+  "S44T.Q16D": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "COMBAT JOB",
+    "2.0": "NON-COMBAT, PROFESSIONAL OR CLERICAL",
+    "3.0": "NON-COMBAT SKILLED",
+    "4.0": "NON-COMBAT, SEMI-SKILLED AND UNSKILLED",
+    "5.0": "BASIC",
+    "6.0": "COMBAT AND TECHNICAL",
+    "7.0": "UNCLASSIFIED",
+    "8.0": "NO ANSWER"
+  },
+  "S44T.Q17A.x": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, I GOT THE ONE I ASKED FOR",
+    "2.0": "NO, I DID NOT GET THE ONE I ASKED FOR",
+    "3.0": "YES TO PART (A) AND A STATEMENT \"DIDN'T CHOOSE\"",
+    "4.0": "YES TO PART (A) AND NO ANSWER TO PART (B)",
+    "5.0": "NO TO PART (A)",
+    "6.0": "NO TO PART (A) AND YES TO PART (B)",
+    "7.0": "NO TO PART (A) AND NO TO PART (B)",
+    "8.0": "NO ANSWER TO EITHER PART (A) OR (B)"
+  },
+  "S44T.Q18": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED",
+    "4.0": "NO ANSWER"
+  },
+  "S44T.Q19": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, I WOULD FIT BETTER IN A DIFFERENT JOB",
+    "2.0": "NO, I AM BEST FITTED FOR MY PRESENT JOB",
+    "3.0": "NO ANSWER"
+  },
+  "S44T.Q20": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ENGINEERS",
+    "2.0": "FIELD ARTILLERY",
+    "3.0": "QUARTERMASTER CORPS",
+    "4.0": "INFANTRY",
+    "5.0": "MEDICAL DEPARTMENT",
+    "6.0": "ARMORED FORCE",
+    "7.0": "SIGNAL CORPS",
+    "8.0": "COAST ARTILLERY AND ANTI-AIRCRAFT",
+    "9.0": "AIR CORPS",
+    "10.0": "TRANSPORTATION CORPS",
+    "11.0": "ORDNANCE DEPARTMENT",
+    "12.0": "CHEMICAL WARFARE SERVICE",
+    "13.0": "MILITARY POLICE",
+    "14.0": "NO ANSWER"
+  },
+  "S44T.Q20A.1": {
+    "1.0": "FITTED FOR THE WORK: PREVIOUS TRAINING, EXPERIENCE AND EDUCATION; KNOW MOST ABOUT IT (EMPHASIS ON PREVIOUS TRAINING)",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q20A.2": {
+    "1.0": "USEFUL IN PEACE TIME OR IN CIVILIAN LIFE; CHANCE TO LEARN SOMETHING (EMPHASIS ON TRAINING FOR FUTURE) 4088",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q20A.3": {
+    "1.0": "CHANCE FOR ADVANCEMENT; CHANCE FOR PROMOTION (AS A PERSONAL AIM; NOT FOR DOING MOST FOR WAR EFFORT) 4300",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q20A.4": {
+    "1.0": "LIKES THE WORK; OR CONNECTED DUTIES; DESIRABLE WORK; INTERESTED IN WORK OR EQUIPMENT; LIKES CERTAIN JOB IN THIS BRANCH (NO CONNECTION WITH TRAINING; JUST LIKES THE WORK)",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q20A.5": {
+    "1.0": "CHANCE TO SEE ACTION; HAS EXCITEMENT; GETS INTO COMBAT OR FIGHTING (EMPHASIS ON PERSONAL AIMS; NO IMPLICATION OF BEING BEST FOR WAR EFFORT)",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q20A.6": {
+    "1.0": "IT IS MOST HIGHLY THOUGHT OF; OTHERS RECOMMENDED IT TO ME 4431",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q20A.7": {
+    "1.0": "IT IS SAFEST; LEAST DANGEROUS 4441",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q20A.8": {
+    "1.0": "EASIEST WORK; SOFTEST; \"GOLDBRICK\" 4434",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q20A.9": {
+    "1.0": "INDIVIDUAL'S PHYSICAL CAPACITY; \"I AM IN LIMITED SERVICE\"; \"I DON'T HAVE STRENGTH TO DO COMBAT WORK\" 4358",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q20A.10": {
+    "1.0": "I COULD DO MOST SERVICE FOR ARMY OR COUNTRY; CHANCE TO SHOW WHAT I COULD DO (FOR BENEFIT OF WAR EFFORT RATHER THAN FOR SELF); I COULD DO MOST GOOD; BEST WAY I CAN SERVE",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q20A.11": {
+    "1.0": "IMPORTANT (IN THE ARMY OR IN WINNING THE WAR); TOUGHEST JOB (NO MENTION OF \"I\") 4344",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q20A.12": {
+    "1.0": "IT IS BEST, OR HIGHEST, SERVICE (WITHOUT GIVING ANY REASON, SUCH AS \"IMPORTANT\" OR \"MOST HIGHLY THOUGHT OF\") 4361",
+    "2.0": "NOT CHOSEN E. OTHER MOTIVATION:"
+  },
+  "S44T.Q20A.13": {
+    "1.0": "I AM IN IT AND LIKE IT; I DON'T KNOW ABOUT THE OTHERS; I'M IN IT AND IT'S AS GOOD AS ANY (EMPHASIS ON \"I AM IN IT\") 41",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q20A.14": {
+    "1.0": "HIGH QUALITY PERSONNEL; BEST PEOPLE GO INTO IT 4440",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q20A.15": {
+    "1.0": "EFFICIENCY; LIKES WAY THINGS ARE RUN 4433",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q20A.16": {
+    "1.0": "UNINTELLIGIBLE OR IRRELEVANT COMMENT 4428",
+    "2.0": "NOT CHOSEN"
+  },
+  "FORM..1": {
+    "1.0": "S-044T - TOTAL SAMPLE",
+    "2.0": "S-044X - CROSS SECTION",
+    "3.0": "S-044I - INFANTRY"
+  },
+  "S44T.Q20A.17": {
+    "1.0": "DON'T KNOW; UNDECIDED",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q20A.18": {
+    "1.0": "OTHER COMMENTS 4398",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q21": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED",
+    "4.0": "NO ANSWER"
+  },
+  "S44T.Q22": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "THE KIND OF JOB I GET",
+    "2.0": "THE BRANCH OF THE ARMY I GET INTO",
+    "3.0": "IT MAKES NO DIFFERENCE",
+    "4.0": "BOTH ARE EQUALLY IMPORTANT",
+    "5.0": "DON'T KNOW",
+    "6.0": "NO ANSWER"
+  },
+  "S44T.Q23": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "DON'T KNOW",
+    "4.0": "NO ANSWER"
+  },
+  "S44T.Q24": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "DON'T KNOW",
+    "4.0": "NO ANSWER"
+  },
+  "S44T.Q25": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY WELL TRAINED",
+    "2.0": "FAIRLY WELL TRAINED",
+    "3.0": "POORLY TRAINED",
+    "4.0": "NO ANSWER"
+  },
+  "S44T.Q26": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY MUCH INTERESTED",
+    "2.0": "A LITTLE BUT NOT MUCH",
+    "3.0": "NOT INTERESTED AT ALL",
+    "4.0": "NO ANSWER"
+  },
+  "S44T.Q27": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I USUALLY FEEL IT IS NOT WORTHWHILE",
+    "2.0": "I USUALLY FEEL IT IS WORTHWHILE",
+    "3.0": "UNDECIDED",
+    "4.0": "NO ANSWER"
+  },
+  "S44T.Q28": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY SATISFIED",
+    "2.0": "SATISFIED",
+    "3.0": "IT DOES NOT MAKE ANY DIFFERENCE TO ME",
+    "4.0": "DISSATISFIED",
+    "5.0": "VERY DISSATISFIED",
+    "6.0": "NO ANSWER"
+  },
+  "S44T.Q29": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "A VERY GOOD CHANCE",
+    "2.0": "A FAIRLY GOOD CHANCE",
+    "3.0": "NOT MUCH OF A CHANCE",
+    "4.0": "NO CHANCE AT ALL",
+    "5.0": "UNDECIDED",
+    "6.0": "NO ANSWER"
+  },
+  "S44T.Q30": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "SATISFIED AND IN GOOD SPIRITS",
+    "2.0": "I AM UP HALF THE TIME AND DOWN HALF THE TIME",
+    "3.0": "DISSATISFIED AND IN LOW SPIRITS",
+    "4.0": "NO ANSWER"
+  },
+  "S44T.Q31": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I FEEL PRETTY SURE I CAN MAKE GOOD",
+    "2.0": "I AM NOT SO SURE I CAN MAKE GOOD",
+    "3.0": "UNDECIDED",
+    "4.0": "NO ANSWER"
+  },
+  "S44T.Q32": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I HAVE A PRETTY GOOD TIME",
+    "2.0": "IT IS ABOUT FIFTY-FIFTY",
+    "3.0": "I HAVE A PRETTY ROTTEN TIME",
+    "4.0": "NO ANSWER"
+  },
+  "S44T.Q33": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I AM HARDLY EVER WORRIED AND UPSET",
+    "2.0": "I AM SOMETIMES",
+    "3.0": "I AM OFTEN WORRIED AND UPSET",
+    "4.0": "NO ANSWER"
+  },
+  "S44T.Q34": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "IN A COMBAT OUTFIT OVERSEAS",
+    "2.0": "IN A NON-COMBAT OUTFIT OVERSEAS",
+    "3.0": "IN AN OUTFIT THAT WILL STAY IN THE UNITED STATES",
+    "4.0": "NO ANSWER"
+  },
+  "S44T.Q35": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I WOULD RATHER HAVE AN ACTUAL FIGHTING JOB",
+    "2.0": "I WOULD RATHER HAVE SOME OTHER JOB",
+    "3.0": "UNDECIDED",
+    "4.0": "NO ANSWER"
+  },
+  "S44T.Q36": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I'M READY TO GO AND I WANT TO GET INTO THE REAL FIGHTING SOON",
+    "2.0": "I'D LIKE TO GET IN ON THE FIGHTING, BEFORE IT'S OVER, BUT I DON'T THINK I'M READY YET",
+    "3.0": "I HOPE I WON'T HAVE TO GO, BUT IF I DO, I THINK I'LL DO ALL RIGHT",
+    "4.0": "I HOPE I WON'T HAVE TO GO BECAUSE I DON'T THINK I'LL EVER BE GOOD AS A FIGHTER",
+    "5.0": "TOO OLD FOR COMBAT DUTY",
+    "6.0": "NOT PHYSICALLY FIT FOR COMBAT DUTY",
+    "7.0": "SHOULD BE WAR INDUSTRY",
+    "8.0": "CHECKS \"01\", BUT QUALIFIES BY ASKING FOR FURLOUGH, WIFE'S PERMISSION, ETC.",
+    "9.0": "WOULD PREFER TO BE INSTRUCTOR",
+    "10.0": "OTHER COMMENTS INDICATING THAT MAN DOES NOT WISH COMBAT",
+    "11.0": "ALL OTHER",
+    "12.0": "NO ANSWER"
+  },
+  "S44T.Q37": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "AS A SOLDIER",
+    "2.0": "AS A WAR WORKER",
+    "3.0": "UNDECIDED",
+    "4.0": "NO ANSWER"
+  },
+  "S44T.Q38A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "MARRIED MEN WITH CHILDREN, NOT MAKING WAR MATERIALS",
+    "2.0": "SINGLE MEN MAKING WAR MATERIALS",
+    "3.0": "NO ANSWER"
+  },
+  "S44T.Q38B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "SINGLE MEN MAKING WAR MATERIALS",
+    "2.0": "SINGLE MEN WORKING ON FARMS",
+    "3.0": "NO ANSWER"
+  },
+  "S44T.Q38C": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "MARRIED MEN WITH CHILDREN, NOT MAKING WAR MATERIALS",
+    "2.0": "SINGLE MEN WORKING ON FARMS",
+    "3.0": "NO ANSWER"
+  },
+  "S44T.Q39": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "INCREASE SIZE OF ARMED FORCES",
+    "2.0": "INCREASE NUMBER OF FARM AND WAR WORKERS",
+    "3.0": "NO ANSWER"
+  },
+  "S44T.Q40": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ENGINEERS",
+    "2.0": "FIELD ARTILLERY",
+    "3.0": "QUARTERMASTER CORPS",
+    "4.0": "INFANTRY",
+    "5.0": "MEDICAL DEPARTMENT",
+    "6.0": "ARMORED FORCE",
+    "7.0": "SIGNAL CORPS",
+    "8.0": "COAST ARTILLERY AND ANTI-AIRCRAFT",
+    "9.0": "AIR CORPS",
+    "10.0": "TRANSPORTATION CORPS",
+    "11.0": "ORDNANCE DEPARTMENT",
+    "12.0": "CHEMICAL WARFARE SERVICE",
+    "13.0": "MILITARY POLICE",
+    "14.0": "UNDECIDED",
+    "15.0": "NO ANSWER"
+  },
+  "S44T.Q41": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ENGINEERS",
+    "2.0": "FIELD ARTILLERY",
+    "3.0": "QUARTERMASTER CORPS",
+    "4.0": "INFANTRY",
+    "5.0": "MEDICAL DEPARTMENT",
+    "6.0": "ARMORED FORCE",
+    "7.0": "SIGNAL CORPS",
+    "8.0": "COAST ARTILLERY AND ANTI-AIRCRAFT",
+    "9.0": "AIR CORPS",
+    "10.0": "TRANSPORTATION CORPS",
+    "11.0": "ORDNANCE DEPARTMENT",
+    "12.0": "CHEMICAL WARFARE SERVICE",
+    "13.0": "MILITARY POLICE",
+    "14.0": "UNDECIDED",
+    "15.0": "NO ANSWER"
+  },
+  "S44T.Q42": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ENGINEERS",
+    "2.0": "FIELD ARTILLERY",
+    "3.0": "QUARTERMASTER CORPS",
+    "4.0": "INFANTRY",
+    "5.0": "MEDICAL DEPARTMENT",
+    "6.0": "ARMORED FORCE",
+    "7.0": "SIGNAL CORPS",
+    "8.0": "COAST ARTILLERY AND ANTI-AIRCRAFT",
+    "9.0": "AIR CORPS",
+    "10.0": "TRANSPORTATION CORPS",
+    "11.0": "ORDNANCE DEPARTMENT",
+    "12.0": "CHEMICAL WARFARE SERVICE",
+    "13.0": "MILITARY POLICE",
+    "14.0": "UNDECIDED",
+    "15.0": "NO ANSWER"
+  },
+  "S44T.Q43": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ENGINEERS",
+    "2.0": "FIELD ARTILLERY",
+    "3.0": "QUARTERMASTER CORPS",
+    "4.0": "INFANTRY",
+    "5.0": "MEDICAL DEPARTMENT",
+    "6.0": "ARMORED FORCE",
+    "7.0": "SIGNAL CORPS",
+    "8.0": "COAST ARTILLERY AND ANTI-AIRCRAFT",
+    "9.0": "AIR CORPS",
+    "10.0": "TRANSPORTATION CORPS",
+    "11.0": "ORDNANCE DEPARTMENT",
+    "12.0": "CHEMICAL WARFARE SERVICE",
+    "13.0": "MILITARY POLICE",
+    "14.0": "UNDECIDED",
+    "15.0": "NO ANSWER"
+  },
+  "S44T.Q44": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ENGINEERS",
+    "2.0": "FIELD ARTILLERY",
+    "3.0": "QUARTERMASTER CORPS",
+    "4.0": "INFANTRY",
+    "5.0": "MEDICAL DEPARTMENT",
+    "6.0": "ARMORED FORCE",
+    "7.0": "SIGNAL CORPS",
+    "8.0": "COAST ARTILLERY AND ANTI-AIRCRAFT",
+    "9.0": "AIR CORPS",
+    "10.0": "TRANSPORTATION CORPS",
+    "11.0": "ORDNANCE DEPARTMENT",
+    "12.0": "CHEMICAL WARFARE SERVICE",
+    "13.0": "MILITARY POLICE",
+    "14.0": "UNDECIDED",
+    "15.0": "NO ANSWER"
+  },
+  "S44T.Q45": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ENGINEERS",
+    "2.0": "FIELD ARTILLERY",
+    "3.0": "QUARTERMASTER CORPS",
+    "4.0": "INFANTRY",
+    "5.0": "MEDICAL DEPARTMENT",
+    "6.0": "ARMORED FORCE",
+    "7.0": "SIGNAL CORPS",
+    "8.0": "COAST ARTILLERY AND ANTI-AIRCRAFT",
+    "9.0": "AIR CORPS",
+    "10.0": "TRANSPORTATION CORPS",
+    "11.0": "ORDNANCE DEPARTMENT",
+    "12.0": "CHEMICAL WARFARE SERVICE",
+    "13.0": "MILITARY POLICE",
+    "14.0": "UNDECIDED",
+    "15.0": "NO ANSWER"
+  },
+  "S44T.Q46": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ENGINEERS",
+    "2.0": "FIELD ARTILLERY",
+    "3.0": "QUARTERMASTER CORPS",
+    "4.0": "INFANTRY",
+    "5.0": "MEDICAL DEPARTMENT",
+    "6.0": "ARMORED FORCE",
+    "7.0": "SIGNAL CORPS",
+    "8.0": "COAST ARTILLERY AND ANTI-AIRCRAFT",
+    "9.0": "AIR CORPS",
+    "10.0": "TRANSPORTATION CORPS",
+    "11.0": "ORDNANCE DEPARTMENT",
+    "12.0": "CHEMICAL WARFARE SERVICE",
+    "13.0": "MILITARY POLICE",
+    "14.0": "UNDECIDED",
+    "15.0": "NO ANSWER"
+  },
+  "S44T.Q47": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ENGINEERS",
+    "2.0": "FIELD ARTILLERY",
+    "3.0": "QUARTERMASTER CORPS",
+    "4.0": "INFANTRY",
+    "5.0": "MEDICAL DEPARTMENT",
+    "6.0": "ARMORED FORCE",
+    "7.0": "SIGNAL CORPS",
+    "8.0": "COAST ARTILLERY AND ANTI-AIRCRAFT",
+    "9.0": "AIR CORPS",
+    "10.0": "TRANSPORTATION CORPS",
+    "11.0": "ORDNANCE DEPARTMENT",
+    "12.0": "CHEMICAL WARFARE SERVICE",
+    "13.0": "MILITARY POLICE",
+    "14.0": "UNDECIDED",
+    "15.0": "NO ANSWER"
+  },
+  "S44T.Q48": {
+    "1.0": "ONE OR TWO RIGHT",
+    "2.0": "THREE RIGHT",
+    "3.0": "FOUR RIGHT",
+    "4.0": "FIVE RIGHT",
+    "5.0": "SIX RIGHT",
+    "6.0": "SEVEN RIGHT",
+    "7.0": "EIGHT RIGHT",
+    "8.0": "NINE RIGHT",
+    "9.0": "TEN RIGHT",
+    "10.0": "ELEVEN RIGHT",
+    "11.0": "TWELVE RIGHT",
+    "12.0": "THIRTEEN RIGHT",
+    "13.0": "NO ANSWER"
+  },
+  "S44T.Q49": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ENGINEERS",
+    "2.0": "FIELD ARTILLERY",
+    "3.0": "QUARTERMASTER CORPS",
+    "4.0": "INFANTRY",
+    "5.0": "MEDICAL DEPARTMENT",
+    "6.0": "ARMORED FORCE",
+    "7.0": "SIGNAL CORPS",
+    "8.0": "COAST ARTILLERY AND ANTI-AIRCRAFT",
+    "9.0": "AIR CORPS",
+    "10.0": "TRANSPORTATION CORPS",
+    "11.0": "ORDNANCE DEPARTMENT",
+    "12.0": "CHEMICAL WARFARE SERVICE",
+    "13.0": "MILITARY POLICE",
+    "14.0": "UNDECIDED",
+    "15.0": "NO ANSWER"
+  },
+  "S44T.Q49B.1": {
+    "1.0": "MOST IMPORTANT WORK; MOST IMPORTANT IN WINNING THE WAR (EMPHASIS ON MOST)",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q49B.2": {
+    "1.0": "IMPORTANT (NO \"MOST\"); OTHERS DEPEND ON IT; SPECIFIC DUTIES ARE NECESSARY; IT IS NECESSARY 3934",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q49B.3": {
+    "1.0": "BECAUSE OF WHAT IT HAS DONE UP TO NOW; BEST RECORD SO FAR (EMPHASIS ON \"SO FAR\") 4372",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q49B.4": {
+    "1.0": "SIMPLE STATEMENT OF FUNCTIONS WITHOUT ANY REFERENCE TO IMPORTANCE 4098",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q49B.5": {
+    "1.0": "IT IS HIGHEST OR BEST OR SUPERIOR (NO REASON GIVEN SUCH AS \"IMPORTANT\" OR \"I LIKE IT\") 4326",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q49B.6": {
+    "1.0": "MOST DANGEROUS; HAS MOST COMBAT 4059",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q49B.7": {
+    "1.0": "DOES THE HARDEST WORK; HARD WORK; ROUGH LIFE (BUT NO WORDS \"DANGER\" OR \"COMBAT\" OR \"FIGHTING\") 4281",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q49B.8": {
+    "1.0": "RUNS MOST EFFICIENTLY; \"SATISFIED WITH WAY THINGS ARE REGULATED AND PUT IN ORDER\"; \"LIKES THE WAY THEY WORK\" (EMPHASIS ON ORGANIZATION)",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q49B.9": {
+    "1.0": "MOST ADVANCED; UP-TO-DATE, MODERN (IN EQUIPMENT OR ACTIVITY, NOT ORGANIZATION) 4333",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q49B.10": {
+    "1.0": "COOPERATION BETWEEN MEN AND OFFICERS; MEN OR UNITS WORK TOGETHER 4419",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q49B.11": {
+    "1.0": "I AM IN IT; I PICKED IT 4235",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q49B.12": {
+    "1.0": "LIKES THE WORK; HAS MOST INTERESTING WORK; I LIKE IT THE BEST; I WOULD LIKE TO BE IN IT 4148",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q49B.13": {
+    "1.0": "USEFUL IN PEACE TIME OR IN CIVILIAN LIFE; LEARN THE MOST 4309",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q49B.14": {
+    "1.0": "RAPID PROMOTION; PAYS MOST MONEY; CHANCE FOR ADVANCEMENT 4398",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q49B.15": {
+    "1.0": "I COULD DO MORE THERE; I AM BEST FITTED FOR IT 4425",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q49B.16": {
+    "1.0": "KNOW MORE ABOUT IT 4364",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q49B.17": {
+    "1.0": "BEST MEN; BETTER CLASS MEN; MOST INTELLIGENT MEN; STRICTEST REQUIREMENTS; BEST TRAINED MEN (EMPHASIS ON MEN) 4025",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q49B.18": {
+    "1.0": "IT IS THOUGHT MOST HIGHLY OF; MOST LIIKED UP TO 4428",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q49B.19": {
+    "1.0": "UNINTELLIGIBLE OR IRRELEVANT COMMENT 4427",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q49B.20": {
+    "1.0": "DON'T KNOW; UNDECIDED; CAN'T SEE WHY 4424",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q49B.21": {
+    "1.0": "OTHER COMMENTS 4105",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q50": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ENGINEERS",
+    "2.0": "FIELD ARTILLERY",
+    "3.0": "QUARTERMASTER CORPS",
+    "4.0": "INFANTRY",
+    "5.0": "MEDICAL DEPARTMENT",
+    "6.0": "ARMORED FORCE",
+    "7.0": "SIGNAL CORPS",
+    "8.0": "COAST ARTILLERY AND ANTI-AIRCRAFT",
+    "9.0": "AIR CORPS",
+    "10.0": "TRANSPORTATION CORPS",
+    "11.0": "ORDNANCE DEPARTMENT",
+    "12.0": "CHEMICAL WARFARE SERVICE",
+    "13.0": "MILITARY POLICE",
+    "14.0": "UNDECIDED",
+    "15.0": "NO ANSWER"
+  },
+  "FORM..2": {
+    "1.0": "S-044T - TOTAL SAMPLE",
+    "2.0": "S-044X - CROSS SECTION",
+    "3.0": "S-044I - INFANTRY Q.50XXXXXX DO YOU LIKE THIS BRANCH THE LEAST\\* E. UNDESIRABLE WORK:"
+  },
+  "S44T.Q50X.1": {
+    "1.0": "UNPLEASANT DUTIES; DIRTIEST JOBS; DISLIKES THE DUTIES (INCLUDING SPECIFIC DUTIES, SUCH AS MARCHING, CARING FOR WOUNDED)",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q50X.2": {
+    "1.0": "UNINTERESTED IN WORK; NOT INTERESTED 4299",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q50X.3": {
+    "1.0": "TOO TOUGH WORK; WORKS TOO HARD 4226",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q50X.4": {
+    "1.0": "NO PROMOTIONS; NO FUTURE",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q50X.5": {
+    "1.0": "DANGEROUS; TOO MUCH COMBAT",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q50X.6": {
+    "1.0": "NO FIGHTING; NO COMBAT; NO ACTION",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q50X.7": {
+    "1.0": "CAN'T LEARN ANYTHING (IMPLYING NOTHING USEFUL FOR CIVILIAN LIFE) 4388",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q50X.8": {
+    "1.0": "ARROGANT; \"SHOW OFF\"; ATTITUDE OF PERSONNEL UNFAIR; ABUSE THEIR POWER; BULLIES (BAD MEN)",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q50X.9": {
+    "1.0": "MAKES ENEMIES; BAD RELATIONS WITH OTHER SOLDIERS; HARD TO KEEP FRIENDS; YOU CAN'T KEEP YOUR FRIENDS (AS PART OF JOB, NOT NECESSARILY BAD MEN)",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q50X.10": {
+    "1.0": "LOW QUALITY PERSONNEL; LEAST TRAINING 4276",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q50X.11": {
+    "1.0": "\"CHICKEN SHIT\"; OBEYS LETTER OF LAW RATHER THAN SPIRIT 4441",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q50X.12": {
+    "1.0": "HAS POOREST DISCIPLINE 4438",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q50X.13": {
+    "1.0": "NO ONE LIKES IT; IT IS LOOKED DOWN UPON 4411",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q50X.14": {
+    "1.0": "UNIMPORTANT OR UNNECESSARY 4247",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q50X.15": {
+    "1.0": "TOO MUCH RESPONSIBILITY; IT IS FOR A MORE EDUCATED MAN THAN I AM; I AM PERSONALLY NOT FITTED FOR IT; CAN'T MEET REQUIREMENTS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q50X.16": {
+    "1.0": "NO RECOGNITION OF THE BRANCH; NO APPRECIATION; NO REWARDS 4430",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q50X.17": {
+    "1.0": "I AM IN IT; I HAVE BEEN IN IT 4396",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q50X.18": {
+    "1.0": "INEFFICIENT 4412",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q50X.19": {
+    "1.0": "MISUNDERSTOOD THE QUESTION (THOUGHT IT WAS THE BEST SINCE WANTED; REFER TO Q.20 OR Q.49) 4319",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q50X.20": {
+    "1.0": "REPETITION; I JUST DON'T LIKE IT 4394",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q50X.21": {
+    "1.0": "UNINTELLIGIBLE OR IRRELEVANT COMMENT 4429",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q50X.22": {
+    "1.0": "DON'T KNOW; UNDECIDED 4394",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q50X.23": {
+    "1.0": "I LIKE THEM ALL THE SAME; I LIKE THEM ALL WELL 4420",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q50X.24": {
+    "1.0": "OTHERS 4309",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.Q51A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "MACARTHUR",
+    "2.0": "EISENHOWER",
+    "3.0": "SOMERVELL",
+    "4.0": "PATTON",
+    "5.0": "ARNOLD",
+    "6.0": "MCNAIR",
+    "7.0": "MARSHALL",
+    "8.0": "DON'T KNOW",
+    "9.0": "NO ANSWER"
+  },
+  "S44T.Q51B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "MACARTHUR",
+    "2.0": "EISENHOWER",
+    "3.0": "SOMERVELL",
+    "4.0": "PATTON",
+    "5.0": "ARNOLD",
+    "6.0": "MCNAIR",
+    "7.0": "MARSHALL",
+    "8.0": "DON'T KNOW",
+    "9.0": "NO ANSWER"
+  },
+  "S44T.Q51C": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "MACARTHUR",
+    "2.0": "EISENHOWER",
+    "3.0": "SOMERVELL",
+    "4.0": "PATTON",
+    "5.0": "ARNOLD",
+    "6.0": "MCNAIR",
+    "7.0": "MARSHALL",
+    "8.0": "DON'T KNOW",
+    "9.0": "NO ANSWER"
+  },
+  "S44T.Q51D": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "MACARTHUR",
+    "2.0": "EISENHOWER",
+    "3.0": "SOMERVELL",
+    "4.0": "PATTON",
+    "5.0": "ARNOLD",
+    "6.0": "MCNAIR",
+    "7.0": "MARSHALL",
+    "8.0": "DON'T KNOW",
+    "9.0": "NO ANSWER"
+  },
+  "S44T.V51E": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ONE RIGHT",
+    "2.0": "TWO RIGHT",
+    "3.0": "THREE RIGHT",
+    "4.0": "FOUR RIGHT",
+    "5.0": "NONE",
+    "7.0": ""
+  },
+  "S44T.V52A.1": {
+    "1.0": "C.W. (CHEMICAL WARFARE)",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.V52A.2": {
+    "1.0": "E (ENGINEERS) 3281",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.V52A.3": {
+    "1.0": "M.D. (MEDICAL DEPARTMENT) 3563",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.V52A.4": {
+    "1.0": "M.P. (MILITARY POLICE) 4283",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.V52A.5": {
+    "1.0": "O (ORDNANCE) 3967",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.V52A.6": {
+    "1.0": "Q (QUARTERMASTER CORPS) 4026",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.V52A.7": {
+    "1.0": "S (SIGNAL CORPS) 3724",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.V52A.8": {
+    "1.0": "THREE OR MORE ARE TIED FOR HIGHEST 3537",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.V52A.9": {
+    "1.0": "NOTHING CODED BECAUSE FIVE OR MORE PAIRS CROSSED OUT 4147",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.V52B.1": {
+    "1.0": "C.W. (CHEMICAL WARFARE)",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.V52B.2": {
+    "1.0": "E (ENGINEERS) 4310",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.V52B.3": {
+    "1.0": "M.D. (MEDICAL DEPARTMENT) 4253",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.V52B.4": {
+    "1.0": "M.P. (MILITARY POLICE) 3127",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.V52B.5": {
+    "1.0": "O (ORDNANCE) 4244",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.V52B.6": {
+    "1.0": "Q (QUARTERMASTER CORPS) 4260",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.V52B.7": {
+    "1.0": "S (SIGNAL CORPS) 4329",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.V52B.8": {
+    "1.0": "THREE OR MORE ARE TIED FOR LOWEST 2098",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.V52B.9": {
+    "1.0": "NOTHING CODED BECAUSE FIVE OR MORE PAIRS CROSSED OUT 4147",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.V52C.1": {
+    "1.0": "A.F. (ARMORED FORCE)",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.V52C.2": {
+    "1.0": "C.A. (COAST ARTILLERY) 3489",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.V52C.3": {
+    "1.0": "F.A. (FIELD ARTILLERY) 3660",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.V52C.4": {
+    "1.0": "I. (INFANTRY) 3340",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.V52C.5": {
+    "1.0": "THREE OR MORE ARE TIED FOR HIGHEST 3640",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.V52C.6": {
+    "1.0": "NOTHING CODED BECAUSE FIVE OR MORE PAIRS CROSSED OUT 4148",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.V52D.1": {
+    "1.0": "A.F. (ARMORED FORCE)",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.V52D.2": {
+    "1.0": "C.A. (COAST ARTILLERY) 3190",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.V52D.3": {
+    "1.0": "F.A. (FIELD ARTILLERY) 3686",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.V52D.4": {
+    "1.0": "I. (INFANTRY) 2860",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.V52D.5": {
+    "1.0": "THREE OR MORE ARE TIED FOR LOWEST 3748",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.V52D.6": {
+    "1.0": "NOTHING CODED BECAUSE FIVE OR MORE PAIRS CROSSED OUT 4146",
+    "2.0": "NOT CHOSEN"
+  },
+  "S44T.V52E": {
+    "1.0": "AIR, SERVICE, GROUND",
+    "2.0": "AIR, GROUND, SERVICE",
+    "3.0": "GROUND, AIR, SERVICE",
+    "4.0": "GROUND, SERVICE, AIR",
+    "5.0": "SERVICE, AIR, GROUND",
+    "6.0": "SERVICE, GROUND, AIR",
+    "7.0": "GROUND (AIR, SERVICE)",
+    "8.0": "AIR (GROUND, SERVICE)",
+    "9.0": "SERVICE (GROUND, AIR)",
+    "10.0": "MEANINGLESS",
+    "11.0": "EVERYTHING ELSE",
+    "12.0": "TWO ON TOP",
+    "13.0": "NOTHING CODED"
+  },
+  "S44T.Q53A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "LESS THAN 1",
+    "2.0": "1 OR 2",
+    "3.0": "3 OR 4",
+    "4.0": "5 OR 6",
+    "5.0": "7 OR 8",
+    "6.0": "9 OR 10",
+    "7.0": "11 TO 15",
+    "8.0": "16 TO 25",
+    "9.0": "26 TO 50",
+    "10.0": "51 TO 100",
+    "11.0": "101 UP TO 1000",
+    "12.0": "NO ANSWER, DON'T KNOW"
+  },
+  "S44T.Q53B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "TOO HIGH",
+    "2.0": "TOO LOW",
+    "3.0": "ABOUT RIGHT",
+    "4.0": "NO ANSWER"
+  },
+  "S44T.Q54": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "1 MILLION OR LESS",
+    "2.0": "2 OR 3 MILLION",
+    "3.0": "4 OR 5 MILLION",
+    "4.0": "6 MILLION",
+    "5.0": "7 MILLION",
+    "6.0": "8 MILLION",
+    "7.0": "9 MILLION",
+    "8.0": "10 MILLION",
+    "9.0": "11 OR 12 MILLION",
+    "10.0": "13, 14 OR 15 MILLION",
+    "11.0": "16 TO 100 MILLION",
+    "12.0": "NO ANSWER, DON'T KNOW"
+  },
+  "S44T.Q55": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "1 MILLION OR LESS",
+    "2.0": "2 OR 3 MILLION",
+    "3.0": "4 OR 5 MILLION",
+    "4.0": "6 MILLION",
+    "5.0": "7 MILLION",
+    "6.0": "8 MILLION",
+    "7.0": "9 MILLION",
+    "8.0": "10 MILLION",
+    "9.0": "11 OR 12 MILLION",
+    "10.0": "13, 14 OR 15 MILLION",
+    "11.0": "16 TO 100 MILLION",
+    "12.0": "NO ANSWER, DON'T KNOW"
+  },
+  "FORM..3": {
+    "1.0": "S-044T - TOTAL SAMPLE",
+    "2.0": "S-044X - CROSS SECTION",
+    "3.0": "S-044I - INFANTRY"
+  },
+  "S44T.Q56": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "1 MILLION OR LESS",
+    "2.0": "2 OR 3 MILLION",
+    "3.0": "4 OR 5 MILLION",
+    "4.0": "6 MILLION",
+    "5.0": "7 MILLION",
+    "6.0": "8 MILLION",
+    "7.0": "9 MILLION",
+    "8.0": "10 MILLION",
+    "9.0": "11 OR 12 MILLION",
+    "10.0": "13, 14 OR 15 MILLION",
+    "11.0": "16 TO 100 MILLION",
+    "12.0": "NO ANSWER, DON'T KNOW"
+  },
+  "S44T.Q57A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "LESS THAN A YEAR OR JUST \"1943\"",
+    "2.0": "ONE YEAR",
+    "3.0": "OVER ONE YEAR BUT LESS THAN TWO OR JUST \"1944\"",
+    "4.0": "TWO YEARS",
+    "5.0": "OVER TWO YEARS BUT LESS THAN THREE OR JUST \"1945\"",
+    "6.0": "THREE YEARS",
+    "7.0": "OVER THREE YEARS",
+    "8.0": "INDEFINITE ANSWER INDICATING A SHORT TIME - E.G. \"NOT LONG\"",
+    "9.0": "INDEFINITE ANSWER INDICATING A LONG TIME - E.G. \"SEVERAL YEARS YET\"",
+    "10.0": "INDEFINITE ANSWER WITH NO INDICATION OF TIME - E.G. \"WILL LAST UNTIL WE STOP IT\"",
+    "11.0": "DON'T KNOW, UNDECIDED",
+    "12.0": "NO ANSWER"
+  },
+  "S44T.Q57B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "LESS THAN A YEAR OR JUST \"1943\"",
+    "2.0": "ONE YEAR",
+    "3.0": "OVER ONE YEAR BUT LESS THAN TWO OR JUST \"1944\"",
+    "4.0": "TWO YEARS",
+    "5.0": "OVER TWO YEARS BUT LESS THAN THREE OR JUST \"1945\"",
+    "6.0": "THREE YEARS",
+    "7.0": "OVER THREE YEARS",
+    "8.0": "INDEFINITE ANSWER INDICATING A SHORT TIME - E.G. \"NOT LONG\"",
+    "9.0": "INDEFINITE ANSWER INDICATING A LONG TIME - E.G. \"SEVERAL YEARS YET\"",
+    "10.0": "INDEFINITE ANSWER WITH NO INDICATION OF TIME - E.G. \"WILL LAST UNTIL WE STOP IT\"",
+    "11.0": "DON'T KNOW, UNDECIDED",
+    "12.0": "NO ANSWER"
+  },
+  "S44T.Q58A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "+2",
+    "2.0": "+1",
+    "3.0": "0",
+    "4.0": "-1",
+    "5.0": "-2"
+  },
+  "S44T.Q58B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "+2",
+    "2.0": "+1",
+    "3.0": "0",
+    "4.0": "-1",
+    "5.0": "-2"
+  },
+  "S44T.Q58C": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "+2",
+    "2.0": "+1",
+    "3.0": "0",
+    "4.0": "-1",
+    "5.0": "-2"
+  },
+  "S44T.Q58D": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "+2",
+    "2.0": "+1",
+    "3.0": "0",
+    "4.0": "-1",
+    "5.0": "-2"
+  },
+  "S44T.Q58E": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "+2",
+    "2.0": "+1",
+    "3.0": "0",
+    "4.0": "-1",
+    "5.0": "-2"
+  },
+  "S44T.Q58F": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "+2",
+    "2.0": "+1",
+    "3.0": "0",
+    "4.0": "-1",
+    "5.0": "-2"
+  },
+  "S44T.Q58G": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "+2",
+    "2.0": "+1",
+    "3.0": "0",
+    "4.0": "-1",
+    "5.0": "-2"
+  },
+  "S44T.Q58H": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "+2",
+    "2.0": "+1",
+    "3.0": "0",
+    "4.0": "-1",
+    "5.0": "-2"
+  },
+  "S44T.Q58I": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "+2",
+    "2.0": "+1",
+    "3.0": "0",
+    "4.0": "-1",
+    "5.0": "-2"
+  },
+  "S44T.Q58J": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "+2",
+    "2.0": "+1",
+    "3.0": "0",
+    "4.0": "-1",
+    "5.0": "-2"
+  },
+  "S44T.Q58K": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "+2",
+    "2.0": "+1",
+    "3.0": "0",
+    "4.0": "-1",
+    "5.0": "-2"
+  },
+  "S44T.Q58L": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "+2",
+    "2.0": "+1",
+    "3.0": "0",
+    "4.0": "-1",
+    "5.0": "-2"
+  },
+  "S44T.Q58M": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "+2",
+    "2.0": "+1",
+    "3.0": "0",
+    "4.0": "-1",
+    "5.0": "-2"
+  },
+  "S44T.V59A2": {
+    "1.0": "ORIGINAL SCORE OF 0",
+    "2.0": "ORIGINAL SCORE OF 1",
+    "3.0": "ORIGINAL SCORE OF 2",
+    "4.0": "ORIGINAL SCORE OF 3",
+    "5.0": "ORIGINAL SCORE OF 4",
+    "6.0": "ORIGINAL SCORE OF 5",
+    "7.0": "ORIGINAL SCORE OF 6",
+    "8.0": "ORIGINAL SCORE OF 7",
+    "9.0": "ORIGINAL SCORE OF 8",
+    "10.0": "ORIGINAL SCORE OF 9",
+    "11.0": "ORIGINAL SCORE OF X",
+    "12.0": "UNDESIGNATED"
+  },
+  "S44T.V60": {
+    "4.0": "SCORE OF 4",
+    "5.0": "SCORE OF 5",
+    "6.0": "SCORE OF 6",
+    "7.0": "NO CODE OR NO DATA",
+    "NaN": "NA",
+    "0.0": "SCORE OF 0",
+    "1.0": "SCORE OF 1",
+    "2.0": "SCORE OF 2",
+    "3.0": "SCORE OF 3"
+  },
+  "S44T.V61": {
+    "0.0": "SCORE OF 0",
+    "1.0": "SCORE OF 1",
+    "2.0": "SCORE OF 2",
+    "3.0": "SCORE OF 3",
+    "4.0": "SCORE OF 4",
+    "5.0": "SCORE OF 5",
+    "6.0": "SCORE OF 6",
+    "7.0": "NO CODE OR NO DATA"
+  },
+  "S44T.V62": {
+    "0.0": "SCORE OF 0",
+    "1.0": "SCORE OF 1",
+    "2.0": "SCORE OF 2",
+    "3.0": "SCORE OF 3",
+    "4.0": "NO CODE OR NO DATA"
+  },
+  "S44T.V63": {
+    "1.0": "CROSS-SECTION",
+    "2.0": "ALL OTHER CASES"
+  },
+  "S44T.V64": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ARMY SERVICE FORCES",
+    "2.0": "ARMY GROUND FORCES",
+    "3.0": "ARMY AIR FORCES",
+    "4.0": "DEFENSE COMMAND"
+  },
+  "S44T.V65": {
+    "1.0": "CAMP BEALE, CALIFORNIA A. 498 ARMD. FA BN. - FIELD ARTILLERY - AGF B. 45TH ARMD. REGT. - ARMORED - AGF C. 83RD MED. BN. ",
+    "2.0": "FORT BENNING, GEORGIA A. 3RD ARMD. REGT. - ARMORED - AGF B. 80TH ARMD. MED. BN. - MEDICAL - AGF C. 55TH ARMD. ENG. BN. -",
+    "3.0": "FT. BRAGG, NORTH CAROLINA A. 551 FA BN. - FIELD ARTILLERY - AGF B. 58 QM SALES CO. - QUARTERMASTER - AGF C. 503 ENG. L. ",
+    "4.0": "DALE MABRY FIELD, FLORIDA A. 306 FIGHTER SQ. - AIR CORPS - AAF B. 312 FIGHTER SQ. - AIR CORPS - AAF C. 441 FIGHTER SQ. -",
+    "5.0": "EDGEWOOD ARSNAL, MARYLAND A. MP FROM MP DET. - MP - ASF B. 760 CHEM. DEPOT CO. - CHEMICAL WARFARE - ASF C. 43RD CHEM. LA",
+    "6.0": "GEORGE FIELD, ILLINOIS A. 30TH, 707, 708, 710, 711 2 ENG. FLY TNG. SQ. - AIR CORPS - AAF B. 907TH QM SVC. CO. - QUARTERM",
+    "7.0": "CAMP GORDON - JOHNSON, FLORIDA A. 110 INF. REGT. - INFANTRY - AGF B. 103 MED. BN. - MEDICAL - AGF C. 728 ORD. L. MAINT. ",
+    "8.0": "CAMP MCCOY, WISCONSIN A. 9TH INF. REGT. - INFANTRY - AGF B. 2ND MED. BN. - MEDICAL - AGF C. 2ND QM CO. - QUARTERMASTER -",
+    "9.0": "FORT MEADE, MARYLAND A. 603 ENG. CAM. CO. - ENGINEER - ASF B. 172 QM BAKERY CO. - QUARTERMASTER - ASF C. SIG. PIDGEON CO",
+    "10.0": "PENSACOLA, FLORIDA A. 13TH CA REGT. - COAST ARTILLERY - DEF B. MED. DET. - MEDICAL - DEF",
+    "11.0": "CAMP VAN DORN A. SIGNAL DET. (SCU) - SIGNAL - ASF B. 99TH DIV. ART. - FIELD ARTILLERY - AGF C. 393RD INF. DIV. - INFAN",
+    "12.0": "CAMP WHITE, OREGON A. 361 INF. REGT. - INFANTRY - AGF B. 362 INF. REGT. - INFANTRY - AGF C. 316 MEDICAL BN. - MEDICAL - ",
+    "13.0": "WILL ROGERS FIELD, OKLAHOMA A. 416 BOMB GP. - AIR CORPS - AAF B. STATION HOSP. - MEDICAL - AAF C. 1742 ORD. M. MAINT. CO"
+  }
+}

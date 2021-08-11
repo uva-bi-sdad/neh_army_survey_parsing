@@ -1,0 +1,573 @@
+{
+  "PS4.Q1A.x": {
+    "0.0": "NO CODE OR NO DATA",
+    "NaN": "QUESTION 1C NOT CODED.",
+    "1.0": "YES, BUCK PRIVATE",
+    "2.0": "NO, PRIVATE FIRST CLASS",
+    "3.0": "NO, TECHNICIAN 5TH GRADE OR CORPORAL",
+    "4.0": "NO, TECHNICIAN 4TH GRADE OR SERGEANT",
+    "5.0": "NO, TECHNICIAN 3RD GRADE OR STAFF SERGEANT",
+    "6.0": "NO, TECHNICAL SERGEANT OR FIRST SERGEANT",
+    "7.0": "NO, MASTER SERGEANT",
+    "8.0": "NO ANSWER"
+  },
+  "PS4.Q2": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "19 YEARS OR UNDER",
+    "2.0": "20 YEARS",
+    "3.0": "21 TO 24 YEARS",
+    "4.0": "25 TO 27 YEARS",
+    "5.0": "28 TO 29 YEARS",
+    "6.0": "30 TO 34 YEARS",
+    "7.0": "35 YEARS AND OVER",
+    "8.0": "NO ANSWER"
+  },
+  "PS4.Q3": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "BEFORE OCTOBER, 1940",
+    "2.0": "OCTOBER, 1940 TO JUNE, 1941",
+    "3.0": "JULY, 1941 TO DECEMBER, 1941",
+    "4.0": "JANUARY, 1942 TO JUNE, 1942",
+    "5.0": "JULY OR AUGUST, 1942",
+    "6.0": "SEPTEMBER OR OCTOBER, 1942",
+    "7.0": "NO ANSWER"
+  },
+  "PS4.Q4": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ALABAMA",
+    "2.0": "ALASKA",
+    "3.0": "ARIZONA",
+    "4.0": "ARKANSAS",
+    "5.0": "CALIFORNIA",
+    "6.0": "COLORADO",
+    "7.0": "CONNECTICUT",
+    "8.0": "DELAWARE",
+    "9.0": "DISTRICT OF COLUMBIA",
+    "10.0": "FLORIDA",
+    "11.0": "GEORGIA",
+    "12.0": "IDAHO",
+    "13.0": "ILLINOIS",
+    "14.0": "INDIANA",
+    "15.0": "IOWA",
+    "16.0": "KANSAS",
+    "17.0": "KENTUCKY",
+    "18.0": "LOUISIANA",
+    "19.0": "MAINE",
+    "20.0": "MARYLAND",
+    "21.0": "MASSACHUSETTS",
+    "22.0": "MICHIGAN",
+    "23.0": "MINNESOTA",
+    "24.0": "MISSISSIPPI",
+    "25.0": "MISSOURI",
+    "26.0": "MONTANA",
+    "27.0": "NEBRASKA",
+    "28.0": "NEVADA",
+    "29.0": "NEW HAMPSHIRE",
+    "30.0": "NEW JERSEY",
+    "31.0": "NEW MEXICO",
+    "32.0": "NEW YORK",
+    "33.0": "NORTH CAROLINA",
+    "34.0": "NORTH DAKOTA",
+    "35.0": "OHIO",
+    "36.0": "OKLAHOMA",
+    "37.0": "OREGON",
+    "38.0": "PENNSYLVANIA",
+    "39.0": "RHODE ISLAND",
+    "40.0": "SOUTH CAROLINA",
+    "41.0": "SOUTH DAKOTA",
+    "42.0": "TENNESSEE",
+    "43.0": "TEXAS",
+    "44.0": "UTAH",
+    "45.0": "VERMONT",
+    "46.0": "VIRGINIA",
+    "47.0": "WASHINGTON",
+    "48.0": "WEST VIRGINIA",
+    "49.0": "WISCONSIN",
+    "50.0": "WYOMING",
+    "51.0": "PORTUGAL",
+    "52.0": "NORWAY",
+    "53.0": "PHILLIPPINE ISLANDS",
+    "54.0": "NO ANSWER"
+  },
+  "PS4.Q5": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ON A FARM OR IN THE COUNTRY",
+    "2.0": "IN A TOWN, WITH FEWER THAN 2,500 PEOPLE",
+    "3.0": "IN A CITY - 2,500 TO 25,000",
+    "4.0": "IN A CITY - OVER 25,000",
+    "5.0": "NO ANSWER"
+  },
+  "PS4.Q6": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN 6TH GRADE",
+    "2.0": "FINISHED 6TH GRADE",
+    "3.0": "FINISHED 7TH GRADE",
+    "4.0": "FINISHED 8TH GRADE",
+    "5.0": "SOME HIGH SCHOOL OR TRADE SCHOOL",
+    "6.0": "GRADUATED FROM HIGH SCHOOL",
+    "7.0": "SOME COLLEGE BUT DID NOT FINISH",
+    "8.0": "COLLEGE GRADUATE"
+  },
+  "PS4.Q7": {
+    "0.0": "NO CODE OR NO DATA",
+    "NaN": "QUESTION 8 NOT CODED.",
+    "1.0": "CORPS OF ENGINEERS",
+    "2.0": "FIELD ARTILLERY",
+    "3.0": "INFANTRY",
+    "4.0": "ARMORED (TANKS)",
+    "5.0": "QUARTERMASTER CORPS",
+    "6.0": "MEDICAL DEPARTMENT",
+    "7.0": "SIGNAL CORPS",
+    "8.0": "ORDNANCE DEPARTMENT",
+    "9.0": "MILITARY POLICE",
+    "10.0": "AIR CORPS",
+    "11.0": "COAST ARTILLERY CORPS OR ARMY MINE PLANTER SERVICE",
+    "12.0": "OTHER"
+  },
+  "PS4.Q9": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY SATISFIED",
+    "2.0": "SATISFIED",
+    "3.0": "IT DOES NOT MAKE ANY DIFFERENCE TO ME",
+    "4.0": "DISSATISFIED",
+    "5.0": "VERY DISSATISFIED",
+    "6.0": "NO ANSWER"
+  },
+  "PS4.Q10A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "GOOD",
+    "2.0": "FAIR",
+    "3.0": "POOR",
+    "4.0": "NO ANSWER"
+  },
+  "PS4.Q10B": {
+    "0.0": "NO ANSWER",
+    "1.0": "THOROUGH",
+    "2.0": "HURRIED"
+  },
+  "PS4.Q11": {
+    "1.0": "ORIGINAL PUNCH OF 1",
+    "2.0": "ORIGINAL PUNCH OF 2",
+    "3.0": "ORIGINAL PUNCH OF 3",
+    "5.0": "ORIGINAL PUNCH OF 5",
+    "NaN": "QUESTION 12 NOT CODED.",
+    "4.0": "ORIGINAL PUNCH OF 4",
+    "6.0": "ORIGINAL PUNCH OF 6",
+    "7.0": "ORIGINAL PUNCH OF 7",
+    "8.0": "ORIGINAL PUNCH OF 8",
+    "9.0": "ORIGINAL PUNCH OF 9",
+    "10.0": "ORIGINAL PUNCH OF 0",
+    "11.0": "ORIGINAL PUNCH OF X",
+    "12.0": "ORIGINAL PUNCH OF V"
+  },
+  "PS4.Q13": {
+    "1.0": "A DOCTOR (MEDICAL OFFICER)",
+    "2.0": "AN ENLISTED MAN",
+    "4.0": "DON'T KNOW WHO IT WAS",
+    "NaN": "QUESTIONS 14A AND 14B TO BE CODED TOGETHER.",
+    "0.0": "NO CODE OR NO DATA",
+    "3.0": "SOMEONE ELSE",
+    "9.0": "INAPPLICABLE, NO ANSWER"
+  },
+  "PS4.Q14A.x": {
+    "2.0": "YES, A DOCTOR (MEDICAL OFFICER)",
+    "4.0": "YES, SOMEONE ELSE",
+    "5.0": "YES, DON'T KNOW WHO IT WAS",
+    "9.0": "INAPPLICABLE, NO ANSWER",
+    "NaN": "QUESTION 15A NOT CODED.",
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "NO, DID NOT RECEIVE TREATMENT",
+    "3.0": "YES, AN ENLISTED MAN"
+  },
+  "PS4.Q15B": {
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "RIGHT AS FAR AS IT WENT BUT MORE SHOULD HAVE BEEN DONE",
+    "4.0": "DON'T KNOW",
+    "9.0": "INAPPLICABLE, NO ANSWER"
+  },
+  "PS4.Q16": {
+    "2.0": "PUT IN HOSPITAL",
+    "4.0": "SENT BACK TO REGULAR, GENERAL DUTY",
+    "9.0": "INAPPLICABLE, NO ANSWER",
+    "NaN": "QUESTIONS 17A AND 17B TO BE CODED TOGETHER.",
+    "1.0": "SENT TO HOSPITAL CLINIC",
+    "3.0": "SENT BACK TO LIGHT OR LIMITED DUTY",
+    "5.0": "TOLD TO RETURN FOR FURTHER OR LATER TREATMENT"
+  },
+  "PS4.Q17A.x": {
+    "0.0": "NO CODE OR NO DATA",
+    "NaN": "QUESTIONS 18A AND 18B TO BE CODED TOGETHER.",
+    "1.0": "YES, THIS IS WHAT THE DISPENSARY SHOULD HAVE DONE",
+    "2.0": "NO, SHOULD HAVE BEEN SENT TO HOSPITAL CLINIC",
+    "3.0": "NO, SHOULD HAVE BEEN PUT IN HOSPITAL",
+    "4.0": "NO, SHOULD HAVE BEEN MARKED \"SICK IN QUARTERS\"",
+    "5.0": "NO, SHOULD HAVE BEEN SENT BACK FOR LIGHT OR LIMITED DUTY",
+    "6.0": "NO, SHOULD HAVE BEEN SENT BACK TO REGULAR, GENERAL DUTY",
+    "7.0": "NO, SHOULD HAVE BEEN BROUGHT BACK FOR FURTHER TREATMENT",
+    "8.0": "NO, SOMETHING ELSE",
+    "9.0": "DON'T KNOW",
+    "10.0": "INAPPLICABLE, NO ANSWER"
+  },
+  "PS4.Q18A.x": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "NO, COMMANDER NOT NOTIFIED",
+    "2.0": "YES, BY NOTE OR LETTER",
+    "3.0": "YES, BY TELLING ME TO TELL HIM",
+    "4.0": "YES, BY OTHER MEANS",
+    "5.0": "DON'T KNOW",
+    "9.0": "INAPPLICABLE, NO ANSWER"
+  },
+  "PS4.Q18C": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "9.0": "INAPPLICABLE, NO ANSWER"
+  },
+  "PS4.Q19": {
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "RIGHT AS FAR AS IT WENT BUT MORE SHOULD HAVE BEEN DONE",
+    "4.0": "DON'T KNOW",
+    "9.0": "INAPPLICABLE, NO ANSWER"
+  },
+  "PS4.Q20A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "NO, NO DELAY",
+    "2.0": "LESS THAN 1 HOUR",
+    "3.0": "BETWEEN 1 AND 3 HOURS",
+    "4.0": "BETWEEN 3 AND 6 HOURS",
+    "5.0": "BETWEEN 6 AND 14 HOURS",
+    "6.0": "ONE DAY",
+    "7.0": "MORE THAN 1 DAY",
+    "8.0": "DON'T KNOW",
+    "9.0": "INAPPLICABLE, NO ANSWER"
+  },
+  "PS4.Q20B1": {
+    "1.0": "YES, BECAUSE, AN ATTEMPT WAS MADE TO KEEP ME FROM GOING ON SICK CALL",
+    "2.0": "YES, BECAUSE MY TROUBLE OCCURRED AFTER REGULAR SICK CALL",
+    "3.0": "YES, OTHER REASON",
+    "4.0": "NO",
+    "9.0": "INAPPLICABLE, NO ANSWER"
+  },
+  "PS4.Q20B2": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, BECAUSE A LOT OF PATIENTS WERE AHEAD OF ME",
+    "2.0": "YES, BECAUSE THE MEDICAL OFFICER CAUSED UNNECESSARY DELAY",
+    "3.0": "YES, BECAUSE OTHERS CAUSED UNNECESSARY DELAY",
+    "4.0": "NO",
+    "9.0": "INAPPLICABLE, NO ANSWER"
+  },
+  "PS4.Q20B3": {
+    "1.0": "YES, BECAUSE A LOT OF PATIENTS WERE AHEAD OF ME",
+    "2.0": "YES, BECAUSE THE MEDICAL OFFICER CAUSED UNNECESSARY DELAY",
+    "3.0": "YES, BECAUSE OTHERS CAUSED UNNECESSARY DELAY",
+    "4.0": "NO",
+    "9.0": "INAPPLICABLE, NO ANSWER"
+  },
+  "PS4.Q21": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "PS4.Q22A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "HAVE NEVER BEEN TO A DISPENSARY"
+  },
+  "PS4.Q23": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NO ANSWER"
+  },
+  "PS4.Q24": {
+    "0.0": "NO ANSWER",
+    "2.0": "NO",
+    "NaN": "QUESTIONS 25A AND 25B TO BE CODED TOGETHER.",
+    "1.0": "YES",
+    "3.0": "DON'T KNOW"
+  },
+  "PS4.Q25A.x": {
+    "0.0": "NO ANSWER",
+    "NaN": "QUESTIONS 26A AND 26B TO BE CODED TOGETHER.",
+    "1.0": "NO",
+    "2.0": "YES, WOULD BE SUSPECTED OF \"GOLD BRICKING\"",
+    "3.0": "YES, DIDN'T WANT TO MISS WORK",
+    "4.0": "YES, NOT WORTHWHILE, ATTENTION INSUFFICIENT, TOO MUCH TROUBLE",
+    "5.0": "YES, NOT URGENT",
+    "6.0": "YES, MISCELLANEOUS",
+    "7.0": "YES, DIDN'T TRUST ARMY DOCTORS",
+    "8.0": "YES, NO REASON"
+  },
+  "PS4.Q26A.x": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "NO",
+    "2.0": "YES, OFFICERS OR NON-COMS SAID NOTHING WAS WRONG",
+    "3.0": "YES, SPECIAL DUTY SUCH AS KP, RIFLE PRACTICE, ETC.",
+    "4.0": "YES, ARMY REGULATIONS (NOT TIME FOR SICK CALL)",
+    "5.0": "YES, NO REASON",
+    "6.0": "NO ANSWER"
+  },
+  "PS4.Q27": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, TOO TOUGH",
+    "2.0": "ABOUT AS TOUGH AS THEY HAVE TO BE",
+    "3.0": "NO, NOT TOUGH ENOUGH",
+    "4.0": "NO ANSWER"
+  },
+  "PS4.Q28": {
+    "0.0": "NO ANSWER",
+    "1.0": "NONE",
+    "2.0": "A FEW",
+    "3.0": "MANY",
+    "4.0": "DON'T KNOW"
+  },
+  "PS4.Q29": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "TOO OFTEN",
+    "2.0": "ABOUT AS OFTEN AS NECESSARY",
+    "3.0": "NOT OFTEN ENOUGH",
+    "4.0": "NO ANSWER"
+  },
+  "PS4.Q30": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "TOO OFTEN",
+    "2.0": "ABOUT AS OFTEN AS NECESSARY",
+    "3.0": "NOT OFTEN ENOUGH",
+    "4.0": "NO ANSWER"
+  },
+  "PS4.Q31": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "TOO OFTEN",
+    "2.0": "ABOUT AS OFTEN AS NECESSARY",
+    "NaN": "QUESTIONS 32A AND 32B TO BE CODED TOGETHER.",
+    "3.0": "NOT OFTEN ENOUGH",
+    "4.0": "NO ANSWER"
+  },
+  "PS4.Q32A.x": {
+    "0.0": "NO ANSWER",
+    "1.0": "NO",
+    "2.0": "YES, DOCTOR TO BLAME",
+    "3.0": "YES, ENLISTED MEN TO BLAME",
+    "4.0": "YES, NURSES TO BLAME",
+    "5.0": "YES, DOCTORS AND DISPENSARY",
+    "6.0": "YES, OFFICERS OR NCO - NOT MEDICAL",
+    "7.0": "YES, NO REASON OR DON'T KNOW"
+  },
+  "PS4.Q33A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, VERY GOOD",
+    "2.0": "YES, GOOD",
+    "3.0": "CAN'T DECIDE",
+    "4.0": "NO, POOR",
+    "5.0": "NO, VERY POOR"
+  },
+  "PS4.Q33B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ORIGINAL CODE OF V, ALL CASES"
+  },
+  "PS4.Q34": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "BETTER",
+    "2.0": "ABOUT THE SAME",
+    "3.0": "WORSE",
+    "4.0": "NO ANSWER"
+  },
+  "PS4.Q35": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "DON'T KNOW",
+    "4.0": "NO ANSWER"
+  },
+  "PS4.Q36": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "NO",
+    "2.0": "YES, SINCE APRIL, 1942",
+    "3.0": "YES, PRIOR TO APRIL, 1942",
+    "4.0": "YES, NO DATE",
+    "5.0": "NO ANSWER"
+  },
+  "PS4.Q37": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "NO",
+    "2.0": "YES, ON LEAVE",
+    "3.0": "YES, DIDN'T TRUST ARMY DOCTORS",
+    "4.0": "YES, MISCELLANEOUS",
+    "5.0": "YES, NO REASON",
+    "6.0": "NO ANSWER"
+  },
+  "PS4.Q38": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "BETTER IN ARMY",
+    "2.0": "BETTER IN CIVILIAN LIFE",
+    "3.0": "ABOUT SAME",
+    "NaN": "QUESTIONS 39A AND 39B TO BE CODED TOGETHER.",
+    "4.0": "NO OPINION YET",
+    "5.0": "NO ANSWER"
+  },
+  "PS4.Q39A.x": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "NO",
+    "2.0": "YES, WENT TO ARMY DENTIST",
+    "3.0": "YES, WENT TO CIVILIAN DENTIST",
+    "NaN": "QUESTIONS 39C AND 39D TO BE CODED TOGETHER.",
+    "4.0": "DIDN'T GO TO DENTIST",
+    "5.0": "NO ANSWER"
+  },
+  "PS4.Q39C.x": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "DIDN'T WANT TO MISS WORK",
+    "2.0": "REFUSED PERMISSION",
+    "3.0": "NOT URGENT",
+    "4.0": "ARMY DENTIST EXAMINED TEETH IN ROUTINE EXAM",
+    "5.0": "MISCELLANEOUS",
+    "6.0": "ON LEAVE",
+    "7.0": "DIDN'T TRUST ARMY DENTIST",
+    "8.0": "ARMY DENTIST DIDN'T DO NECESSARY WORK",
+    "9.0": "TOO MUCH DELAY",
+    "10.0": "WAITING FOR APPOINTMENT",
+    "11.0": "NO REASON",
+    "99.0": "INAPPLICABLE, NO ANSWER"
+  },
+  "PS4.Q40": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, VERY GOOD",
+    "2.0": "YES, GOOD",
+    "3.0": "CAN'T DECIDE",
+    "4.0": "NO, POOR",
+    "5.0": "NO, VERY POOR",
+    "6.0": "NO ANSWER"
+  },
+  "PS4.Q40A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ORIGINAL PUNCH OF V, ALL CASES"
+  },
+  "PS4.Q41": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "BETTER",
+    "2.0": "ABOUT SAME",
+    "3.0": "WORSE",
+    "4.0": "NO ANSWER"
+  },
+  "PS4.Q42": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "DON'T KNOW",
+    "4.0": "NO ANSWER"
+  },
+  "PS4.Q43": {
+    "1.0": "ORIGINAL PUNCH OF 1",
+    "2.0": "ORIGINAL PUNCH OF 2",
+    "3.0": "ORIGINAL PUNCH OF 3",
+    "4.0": "ORIGINAL PUNCH OF 4",
+    "5.0": "ORIGINAL PUNCH OF 5",
+    "6.0": "ORIGINAL PUNCH OF 6",
+    "7.0": "ORIGINAL PUNCH OF 7",
+    "8.0": "ORIGINAL PUNCH OF 8",
+    "9.0": "ORIGINAL PUNCH OF 9",
+    "10.0": "NO, DID NOT GO TO DENTIST",
+    "11.0": "ORIGINAL PUNCH OF X",
+    "12.0": "ORIGINAL PUNCH OF V"
+  },
+  "PS4.Q44": {
+    "0.0": "NO ANSWER",
+    "1.0": "BETTER IN ARMY",
+    "2.0": "BETTER IN CIVILIAN LIFE",
+    "3.0": "ABOUT SAME",
+    "4.0": "NO OPINION YET"
+  },
+  "PS4.Q45A": {
+    "0.0": "NO ANSWER",
+    "1.0": "TRUE",
+    "2.0": "NOT TRUE",
+    "3.0": "UNDECIDED"
+  },
+  "PS4.Q45B": {
+    "0.0": "NO ANSWER",
+    "1.0": "TRUE",
+    "2.0": "NOT TRUE",
+    "3.0": "UNDECIDED"
+  },
+  "PS4.Q45C": {
+    "0.0": "NO ANSWER",
+    "1.0": "TRUE",
+    "2.0": "NOT TRUE",
+    "3.0": "UNDECIDED"
+  },
+  "PS4.Q45D": {
+    "0.0": "NO ANSWER",
+    "1.0": "TRUE",
+    "2.0": "NOT TRUE",
+    "3.0": "UNDECIDED"
+  },
+  "PS4.Q45E": {
+    "0.0": "NO ANSWER",
+    "1.0": "TRUE",
+    "2.0": "NOT TRUE",
+    "3.0": "UNDECIDED"
+  },
+  "PS4.Q45F": {
+    "0.0": "NO ANSWER",
+    "1.0": "TRUE",
+    "2.0": "NOT TRUE",
+    "3.0": "UNDECIDED"
+  },
+  "PS4.Q45G": {
+    "0.0": "NO ANSWER",
+    "1.0": "TRUE",
+    "2.0": "NOT TRUE",
+    "3.0": "UNDECIDED"
+  },
+  "PS4.Q45H": {
+    "0.0": "NO ANSWER",
+    "1.0": "TRUE",
+    "2.0": "NOT TRUE",
+    "3.0": "UNDECIDED"
+  },
+  "PS4.Q45I": {
+    "0.0": "NO ANSWER",
+    "1.0": "TRUE",
+    "2.0": "NOT TRUE",
+    "3.0": "UNDECIDED"
+  },
+  "PS4.Q45J": {
+    "0.0": "NO ANSWER",
+    "1.0": "TRUE",
+    "2.0": "NOT TRUE",
+    "3.0": "UNDECIDED"
+  },
+  "PS4.Q45K": {
+    "0.0": "NO ANSWER",
+    "1.0": "TRUE",
+    "2.0": "NOT TRUE",
+    "3.0": "UNDECIDED"
+  },
+  "PS4.Q46": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "SATISFIED",
+    "2.0": "MIXED OPINION",
+    "3.0": "DISSATISFIED",
+    "4.0": "NO ANSWER"
+  },
+  "PS4.V47": {
+    "1.0": "CAMP ATTERBURY, IN. - 83RD DIV. STA. HOSP.",
+    "2.0": "CAMP BARKLEY, TEXAS - 90TH MTZD. DIV.",
+    "3.0": "FORT BENNING, GA. - 10TH ARMORED DIV., 802 F.A.",
+    "4.0": "BOWMAN FIELD, KY. - 314TH TROOP CARRIER, 73RD OBSERVATION GROUP",
+    "5.0": "FORT BRAGG, N.C. - 88 AIRBORNE INF. REGT., 194, 203, 228 F.A.",
+    "6.0": "CAMP EDWARDS, MS. - 36TH INF. DIV.",
+    "7.0": "KEESLER FIELD, MS. - AM AIR FORCE SCHOOL",
+    "8.0": "FORT KNOX, KY. - 8TH ARMORED DIV.",
+    "9.0": "FORT LEWIS, WA. - 44TH INF. DIV.",
+    "10.0": "FORT MACARTHUR, CA. - 3RD C.A. REGT.",
+    "11.0": "MARCH FIELD, CA. - AA TROOPS, SC MED. QM. COS.",
+    "12.0": "CAMP SHELBY, MS. - 85TH INF. DIV.",
+    "13.0": "FORT SHERIDAN, IL. - C.A. BTRS.",
+    "14.0": "FORT SILL, OK. - FARTC",
+    "15.0": "WESTOVER FIELD, MA. - MED. BOMB GROUP, 36, 26 BOMB GROUP"
+  }
+}

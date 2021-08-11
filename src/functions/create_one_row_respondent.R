@@ -1,15 +1,14 @@
-create_one_row_respondent <- function(answerlines) {
+create_one_row_respondent <- function(answerlines, id_pos_1 = 5, id_pos_2 = 8) {
   #browser()
   answerlines_ls <- answerlines
   
   # nlines <- max(as.numeric(substr(answerlines_ls, 1, 1)))
-  
+  #browser()
   ansdt <- as.data.table(t(as.data.table(strsplit(answerlines_ls, "\n"))))
   ansdt[, V1 := stringr::str_replace_all(stringr::str_trim(V1), " ", "0")]
-  ansdt[, idx := substr(V1, 5, 8)]
-  #browser()
+  ansdt[, idx := substr(V1, id_pos_1, id_pos_2)]
+
   sing <- ansdt[, .(nn = paste0(V1, collapse = "")), idx]
-  
   # sing[, nn := stringr::str_replace_all(stringr::str_trim(nn, side = "right"), " ", "0")]
   
   return(sing[, .(nn)])

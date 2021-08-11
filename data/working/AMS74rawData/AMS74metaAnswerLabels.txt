@@ -1,0 +1,838 @@
+{
+  "S74.Q1": {
+    "1.0": "18-19 YEARS",
+    "2.0": "20",
+    "3.0": "21-24",
+    "4.0": "25-27",
+    "5.0": "28-29",
+    "6.0": "30-34",
+    "7.0": "35 YEARS AND OVER",
+    "8.0": "NO ANSWER"
+  },
+  "S74.Q2": {
+    "0.0": "NO ANSWER",
+    "1.0": "GRADE OR GRAMMAR SCHOOL",
+    "2.0": "SOME HIGH SCHOOL BUT DID NOT FINISH",
+    "3.0": "GRADUATED FROM HIGH SCHOOL",
+    "NaN": "QUESTIONS 3 AND 4 TO BE CODED TOGETHER.",
+    "4.0": "SOME COLLEGE BUT DID NOT FINISH",
+    "5.0": "GRADUATED FROM COLLEGE"
+  },
+  "S74.Q3.x": {
+    "0.0": "NO ANSWER",
+    "1.0": "SINGLE",
+    "2.0": "MARRIED BEFORE ENTERING THE ARMY",
+    "3.0": "MARRIED AFTER ENTERING THE ARMY",
+    "4.0": "DIVORCED OR SEPARATED",
+    "5.0": "WIDOWED",
+    "6.0": "MARRIED, BUT NO INDICATION AS TO WHEN"
+  },
+  "S74.Q5": {
+    "0.0": "NO ANSWER",
+    "1.0": "ON A FARM OR IN THE COUNTRY",
+    "2.0": "IN A SMALL TOWN (FEWER THAN 2,500 PEOPLE)",
+    "3.0": "IN A TOWN (WITH BETWEEN 2,500 AND 25,000 PEOPLE)",
+    "4.0": "IN A CITY (BETWEEN 25,000 AND 100,000 PEOPLE)",
+    "5.0": "IN A LARGE CITY (MORE THAN 100,000 PEOPLE)"
+  },
+  "S74.Q6": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I WAS NOT DRAFTED - THIS QUESTION DOES NOT APPLY TO ME",
+    "2.0": "NO",
+    "3.0": "YES, BECAUSE OF DEPENDENTS WHO NEEDED MY SUPPORT",
+    "4.0": "YES, BECAUSE OF THE IMPORTANCE OF MY JOB",
+    "5.0": "YES, BECAUSE OF MY HEALTH OR PHYSICAL CONDITION",
+    "6.0": "YES, BECAUSE OF SOME OTHER REASON",
+    "7.0": "A COMBINATION OF 3 AND 4",
+    "8.0": "A COMBINATION OF 4-5",
+    "9.0": "A COMBINATION OF 3-4-5",
+    "10.0": "A COMBINATION OF 3-5",
+    "11.0": "NO ANSWER"
+  },
+  "S74.Q7": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALL OF THE TIME",
+    "2.0": "MOST OF THE TIME",
+    "3.0": "OFTEN DO NOT",
+    "4.0": "ALMOST NEVER DO",
+    "5.0": "UNDECIDED"
+  },
+  "S74.Q8": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, VERY PROUD",
+    "2.0": "YES, FAIRLY PROUD",
+    "3.0": "NO, NOT PROUD",
+    "4.0": "UNDECIDED"
+  },
+  "S74.Q9": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT IS RUN VERY WELL",
+    "2.0": "IT IS RUN PRETTY WELL",
+    "3.0": "IT IS NOT RUN SO WELL",
+    "4.0": "IT IS RUN VERY POORLY",
+    "5.0": "UNDECIDED"
+  },
+  "S74.Q10": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT OF IT",
+    "2.0": "SOME OF IT",
+    "3.0": "ONLY A LITTLE OF IT",
+    "4.0": "NONE OF IT"
+  },
+  "S74.Q11": {
+    "0.0": "NO ANSWER",
+    "1.0": "I USUALLY FEEL IT IS NOT WORTHWHILE",
+    "2.0": "I USUALLY FEEL IT IS WORTHWHILE",
+    "3.0": "UNDECIDED"
+  },
+  "S74.Q12": {
+    "0.0": "NO ANSWER",
+    "1.0": "I FEEL PRETTY SURE I CAN MAKE GOOD",
+    "2.0": "I AM NOT SO SURE I CAN MAKE GOOD",
+    "3.0": "UNDECIDED"
+  },
+  "S74.Q13": {
+    "0.0": "NO ANSWER",
+    "1.0": "I HAVE A PRETTY GOOD TIME",
+    "2.0": "IT'S ABOUT FIFTY-FIFTY",
+    "3.0": "I HAVE A PRETTY ROTTEN TIME"
+  },
+  "S74.Q14": {
+    "0.0": "NO ANSWER",
+    "1.0": "I AM USUALLY IN GOOD SPIRITS",
+    "2.0": "I AM IN GOOD SPIRITS SOME OF THE TIME AND IN LOW SPIRITS SOME OF THE TIME",
+    "3.0": "I AM USUALLY IN LOW SPIRITS"
+  },
+  "S74.Q15": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I AM HARDLY EVER WORRIED AND UPSET",
+    "2.0": "I AM SOMETIMES WORRIED AND UPSET",
+    "3.0": "I AM OFTEN WORRIED AND UPSET",
+    "4.0": "NO ANSWER"
+  },
+  "S74.Q16": {
+    "0.0": "NO ANSWER",
+    "1.0": "A VERY GOOD CHANCE",
+    "2.0": "A FAIRLY GOOD CHANCE",
+    "3.0": "NOT MUCH OF A CHANCE",
+    "4.0": "NO CHANCE AT ALL",
+    "5.0": "UNDECIDED"
+  },
+  "S74.Q17": {
+    "0.0": "NO ANSWER",
+    "1.0": "A VERY GOOD CHANCE",
+    "2.0": "A FAIRLY GOOD CHANCE",
+    "3.0": "NOT MUCH OF A CHANCE",
+    "4.0": "NO CHANCE AT ALL",
+    "5.0": "UNDECIDED"
+  },
+  "S74.Q18": {
+    "0.0": "NO ANSWER",
+    "1.0": "IN A COMBAT OUTFIT OVERSEAS",
+    "2.0": "IN A NON-COMBAT OUTFIT OVERSEAS",
+    "3.0": "IN AN OUTFIT THAT WILL STAY IN THE UNITED STATES"
+  },
+  "S74.Q19": {
+    "0.0": "NO ANSWER",
+    "1.0": "I WOULD RATHER BE A SOLDIER",
+    "2.0": "I WOULD RATHER BE A CIVILIAN DOING SOME KIND OF WORK NEEDED TO WIN THE WAR",
+    "3.0": "UNDECIDED"
+  },
+  "S74.Q20": {
+    "0.0": "NO ANSWER",
+    "1.0": "NO, I NEVER THOUGHT SO",
+    "2.0": "NO, I USED TO THINK SO, BUT DON'T NOW",
+    "3.0": "YES, TOO MANY SEEM USELESS",
+    "4.0": "UNDECIDED"
+  },
+  "S74.Q21": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "I THINK SO, BUT I'M NOT SURE",
+    "NaN": "QUESTION 22 NOT CODED.",
+    "3.0": "NO",
+    "4.0": "UNDECIDED"
+  },
+  "S74.Q23A.1": {
+    "0.0": "NO CODE OR NO DATA E. NUMBER OF \"B\" SPORTS CHECKED:",
+    "1.0": "ONE \"X\" SPORT CHECKED \"A LOT\" OR \"A LITTLE\"",
+    "NaN": "\"X\" STANDS FOR NON-BODY CONTACT SPORT. \"B\" STANDS FOR BODY CONTACT SPORT. E. NUMBER OF \"X\" SPORTS CHECKED:",
+    "2.0": "TWO \"X\" SPORTS CHECKED \"A LOT\" OR \"A LITTLE\"",
+    "3.0": "THREE \"X\" SPORTS CHECKED \"A LOT\" OR \"A LITTLE\"",
+    "4.0": "FOUR \"X\" SPORTS CHECKED \"A LOT\" OR \"A LITTLE\"",
+    "5.0": "NO \"X\" SPORT CHECKED \"A LOT\" OR \"A LITTLE\""
+  },
+  "S74.Q23A.2": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ONE \"B\" SPORT CHECKED \"A LOT\" OR \"A LITTLE\" 168",
+    "NaN": "\"X\" STANDS FOR NON-BODY CONTACT SPORT. \"B\" STANDS FOR BODY CONTACT SPORT. E. NUMBER OF \"X\" SPORTS CHECKED:  142",
+    "2.0": "TWO \"B\" SPORTS CHECKED \"A LOT\" OR \"A LITTLE\" 176",
+    "3.0": "THREE \"B\" SPORTS CHECKED \"A LOT\" OR \"A LITTLE\" 93",
+    "4.0": "FOUR \"B\" SPORTS CHECKED \"A LOT\" OR \"A LITTLE\" 5",
+    "5.0": "FIVE \"B\" SPORTS CHECKED \"A LOT\" OR \"A LITTLE\" 152",
+    "6.0": "NO \"B\" SPORTS CHECKED \"A LOT\" OR \"A LITTLE\""
+  },
+  "S74.Q23B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "NONE",
+    "2.0": "1-2 LISTED",
+    "3.0": "3-4 LISTED",
+    "4.0": "5 OR MORE LISTED",
+    "5.0": "NO ANSWER"
+  },
+  "S74.Q23C": {
+    "0.0": "NO ANSWER",
+    "1.0": "\"B\" SPORT MENTIONED",
+    "2.0": "\"X\" SPORT MENTIONED",
+    "3.0": "I HAVE NOT TAKEN PART IN ANY SPORTS",
+    "4.0": "NAMES SOME OTHER SPORT THAN THOSE IN CODES 1 AND 2",
+    "5.0": "COMBINATION OF 1 AND 2"
+  },
+  "S74.Q24": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT IS VERY GOOD",
+    "2.0": "IT IS FAIRLY GOOD",
+    "3.0": "IT IS POOR",
+    "4.0": "IT IS VERY POOR",
+    "5.0": "DON'T KNOW"
+  },
+  "S74.Q25": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED",
+    "4.0": "NO ANSWER"
+  },
+  "S74.Q26": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, OFTEN",
+    "2.0": "YES, SOMETIMES",
+    "3.0": "NO, NEVER"
+  },
+  "S74.Q27": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, OFTEN",
+    "2.0": "YES, SOMETIMES",
+    "3.0": "NO, NEVER"
+  },
+  "S74.Q28": {
+    "0.0": "NO ANSWER",
+    "1.0": "NEARLY ALL THE TIME",
+    "2.0": "PRETTY OFTEN",
+    "3.0": "NOT VERY OFTEN",
+    "4.0": "NEVER"
+  },
+  "S74.Q29": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, MANY TIMES",
+    "2.0": "YES, A FEW TIMES",
+    "3.0": "NO, NEVER"
+  },
+  "S74.Q30": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, OFTEN",
+    "2.0": "YES, A FEW TIMES",
+    "3.0": "NO, NEVER"
+  },
+  "S74.Q31": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, SEVERAL TIMES",
+    "2.0": "YES, A FEW TIMES",
+    "3.0": "NEVER HAD ANY"
+  },
+  "S74.Q32": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, OFTEN",
+    "2.0": "YES, A FEW TIMES",
+    "3.0": "NO, NEVER"
+  },
+  "S74.Q33": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, OFTEN",
+    "2.0": "YES, A FEW TIMES",
+    "3.0": "NO, NEVER"
+  },
+  "S74.Q34": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, OFTEN",
+    "2.0": "YES, SOMETIMES",
+    "3.0": "NO, NEVER"
+  },
+  "S74.Q35": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, OFTEN",
+    "2.0": "YES, SOMETIMES",
+    "3.0": "NO, NEVER"
+  },
+  "S74.Q36": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "UNDER 6 YEARS",
+    "2.0": "6-9",
+    "3.0": "10-13",
+    "4.0": "14-17",
+    "5.0": "18 OR MORE YEARS",
+    "6.0": "DON'T KNOW HOW OLD I WAS",
+    "7.0": "NEVER DID BITE MY FINGERNAILS",
+    "8.0": "NO ANSWER AT ALL",
+    "9.0": "NEVER HAVE STOPPED",
+    "10.0": "NO ANSWER AND \"NO\" IN Q.35"
+  },
+  "S74.Q37": {
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED",
+    "4.0": "NO ANSWER"
+  },
+  "S74.Q38": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, OFTEN",
+    "2.0": "YES, SOMETIMES",
+    "3.0": "NO, NEVER"
+  },
+  "S74.Q39": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ALMOST NEVER"
+  },
+  "S74.Q40": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED"
+  },
+  "S74.Q41": {
+    "0.0": "NO ANSWER",
+    "1.0": "REALLY LIKED FIGHTING",
+    "2.0": "DIDN'T PARTICULARLY LIKE IT OR DISLIKE IT",
+    "3.0": "DIDN'T LIKE FIGHTING AT ALL",
+    "4.0": "SOME OTHER WAY"
+  },
+  "S74.Q42": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY HIGH GRADES",
+    "2.0": "HIGH GRADES",
+    "3.0": "MEDIUM GRADES",
+    "4.0": "LOW GRADES",
+    "5.0": "VERY LOW GRADES"
+  },
+  "S74.Q43": {
+    "0.0": "NO ANSWER",
+    "1.0": "REALLY WANTED VERY MUCH TO GO",
+    "2.0": "DIDN'T CARE VERY MUCH WHETHER I WENT TO SCHOOL OR NOT",
+    "3.0": "DID NOT AT ALL WANT TO GO"
+  },
+  "S74.Q44": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY OFTEN",
+    "2.0": "SEVERAL TIMES",
+    "3.0": "ONLY ONCE OR TWICE IN ALL THE TIME I WAS IN SCHOOL",
+    "4.0": "NEVER",
+    "5.0": "NO ANSWER"
+  },
+  "S74.Q45": {
+    "0.0": "NO ANSWER",
+    "1.0": "I USUALLY WENT AROUND BY MYSELF",
+    "2.0": "I USUALLY WENT AROUND WITH JUST ONE OR TWO OTHERS",
+    "3.0": "I USUALLY WENT AROUND WITH A BUNCH OF OTHERS"
+  },
+  "S74.Q46": {
+    "0.0": "NO ANSWER",
+    "1.0": "USUALLY LIKE BETTER TO BE BY MYSELF",
+    "2.0": "USUALLY LIKE BETTER TO BE WITH OTHER PEOPLE",
+    "3.0": "UNDECIDED"
+  },
+  "S74.Q47.1": {
+    "1.0": "ONE",
+    "2.0": "NOT CHOSEN"
+  },
+  "S74.Q47.2": {
+    "1.0": "TWO 646",
+    "2.0": "NOT CHOSEN"
+  },
+  "S74.Q47.3": {
+    "1.0": "THREE 673",
+    "2.0": "NOT CHOSEN"
+  },
+  "S74.Q47.4": {
+    "1.0": "FOUR 683",
+    "2.0": "NOT CHOSEN"
+  },
+  "S74.Q47.5": {
+    "1.0": "FIVE 696",
+    "2.0": "NOT CHOSEN"
+  },
+  "S74.Q47.6": {
+    "1.0": "SIX OR SEVEN 664",
+    "2.0": "NOT CHOSEN"
+  },
+  "S74.Q47.7": {
+    "1.0": "EIGHT OR NINE 700",
+    "2.0": "NOT CHOSEN"
+  },
+  "S74.Q47.8": {
+    "1.0": "TEN OR ELEVEN 709",
+    "2.0": "NOT CHOSEN"
+  },
+  "S74.Q47.9": {
+    "1.0": "TWELVE OR THIRTEEN 727",
+    "2.0": "NOT CHOSEN"
+  },
+  "S74.Q47.10": {
+    "1.0": "FOURTEEN OR MORE 715",
+    "2.0": "NOT CHOSEN"
+  },
+  "S74.Q47.11": {
+    "1.0": "INCOMPLETE ENTRIES OR NO ANSWER 484",
+    "2.0": "NOT CHOSEN"
+  },
+  "S74.Q47.12": {
+    "1.0": "NONE 619",
+    "NaN": "QUESTIONS 48A AND 48B TO BE CODED TOGETHER.",
+    "2.0": "NOT CHOSEN"
+  },
+  "S74.Q48A.x": {
+    "1.0": "YES",
+    "2.0": "NO, SEPARATION",
+    "3.0": "NO, DEATH",
+    "4.0": "NO, DIVORCE",
+    "5.0": "NO, SOME OTHER REASON",
+    "6.0": "NO, WITHOUT ANY REASON CHECKED",
+    "7.0": "NO ANSWER"
+  },
+  "S74.Q49": {
+    "0.0": "NO ANSWER",
+    "1.0": "NEVER AWAY",
+    "2.0": "LESS THAN ONE MONTH",
+    "3.0": "ONE MONTH BUT LESS THAN THREE MONTHS",
+    "4.0": "THREE MONTHS BUT LESS THAN SIX MONTHS",
+    "5.0": "SIX MONTHS BUT LESS THAN ONE YEAR",
+    "6.0": "ONE YEAR BUT LESS THAN TWO YEARS",
+    "7.0": "TWO YEARS OR MORE",
+    "8.0": "INDEFINITE - A LONG TIME",
+    "9.0": "INDEFINITE - A SHORT TIME",
+    "10.0": "INTERMEDIATE LENGTH OF TIME"
+  },
+  "S74.Q50": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "LESS THAN 15 YEARS OLD",
+    "2.0": "15-17 YEARS",
+    "3.0": "18-20 YEARS",
+    "4.0": "21-23 YEARS",
+    "5.0": "23-25 YEARS",
+    "6.0": "OVER 25 YEARS OLD",
+    "7.0": "NEVER AWAY",
+    "8.0": "NO ANSWER"
+  },
+  "S74.Q51": {
+    "0.0": "NO ANSWER",
+    "1.0": "I HAD BEEN AWAY FOR A YEAR OR MORE, ALL TOLD",
+    "2.0": "I HAD BEEN AWAY SEVERAL MONTHS, ALL TOLD",
+    "3.0": "I HAD BEEN AWAY ONLY A FEW WEEKS, ALL TOLD",
+    "4.0": "NEVER"
+  },
+  "S74.Q52": {
+    "0.0": "NO ANSWER",
+    "1.0": "I WAS BROUGHT UP BY BOTH MY PARENTS UNTIL I WAS 16 YEARS OLD",
+    "2.0": "ADOPTED PARENTS",
+    "3.0": "RELATIVES",
+    "4.0": "OTHERS",
+    "5.0": "MOTHER ONLY",
+    "6.0": "FATHER ONLY"
+  },
+  "S74.Q53": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN 15 YEARS OLD",
+    "2.0": "15-16 YEARS",
+    "3.0": "17-18 YEARS",
+    "4.0": "19-20 YEARS",
+    "5.0": "21-22 YEARS",
+    "6.0": "OVER 22 YEARS",
+    "7.0": "NEVER WENT WITH GIRLS ON DATES",
+    "8.0": "NEVER WENT WITH GIRLS EXCEPT ON DOUBLE-DATES OR IN A GROUP OF OTHERS"
+  },
+  "S74.Q54": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE OFTEN THAN MOST OTHER FELLOWS I KNEW",
+    "2.0": "ABOUT THE SAME AS MOST OTHER FELLOWS I KNEW",
+    "3.0": "NOT AS OFTEN AS MOST OTHER FELLOWS I KNEW"
+  },
+  "S74.Q55": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN 18 YEARS OLD",
+    "2.0": "18-20 YEARS",
+    "3.0": "21-23 YEARS",
+    "4.0": "24-26 YEARS",
+    "5.0": "OVER 26 YEARS",
+    "6.0": "NEVER WENT STEADY WITH ANY ONE GIRL"
+  },
+  "S74.Q56": {
+    "0.0": "NO ANSWER",
+    "1.0": "HAD A BETTER TIME WITH THOSE OLDER THAN MYSELF",
+    "2.0": "HAD A BETTER TIME WITH THOSE OF THE SAME AGE AS MYSELF",
+    "3.0": "HAD A BETTER TIME WITH THOSE YOUNGER THAN MYSELF",
+    "4.0": "UNDECIDED"
+  },
+  "S74.Q57": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, OFTEN",
+    "2.0": "YES, SOMETIMES",
+    "3.0": "NO, NEVER"
+  },
+  "S74.Q58": {
+    "0.0": "NO ANSWER",
+    "1.0": "I WAS VERY HEALTHY AS A CHILD",
+    "2.0": "I WAS FAIRLY HEALTHY AS A CHILD",
+    "3.0": "I WAS RATHER SICKLY AS A CHILD",
+    "4.0": "DON'T KNOW"
+  },
+  "S74.Q59A.x": {
+    "0.0": "NO ANSWER IN EITHER 59A OR 59B",
+    "1.0": "YES, LESS THAN 4 YEARS OLD",
+    "2.0": "YES, 4 TO 6 YEARS",
+    "3.0": "YES, 7 TO 9 YEARS",
+    "4.0": "YES, 10 TO 12 YEARS",
+    "5.0": "YES, OVER 12 YEARS OR NEVER STOPPED",
+    "6.0": "YES, NO ANSWER IN Q.59B",
+    "7.0": "NO, LESS THAN 4 YEARS OLD",
+    "8.0": "NO, 4 TO 6 YEARS",
+    "9.0": "NO, 7 TO 9 YEARS",
+    "10.0": "NO, 10 TO 12 YEARS",
+    "11.0": "NO, OVER 12 YEARS OR NEVER STOPPED",
+    "12.0": "NO, NO ANSWER IN Q.59B"
+  },
+  "S74.Q60A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, MUCH OF IT IS NOT NEEDED",
+    "2.0": "YES, SOME OF IT IS NOT NEEDED",
+    "NaN": "QUESTION 60B NOT CODED.",
+    "3.0": "NO, ALL IS NEEDED",
+    "4.0": "UNDECIDED"
+  },
+  "S74.Q61": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALL OF OUR EQUIPMENT IS BETTER",
+    "2.0": "MOST OF OUR EQUIPMENT IS BETTER",
+    "3.0": "OUR EQUIPMENT IS ABOUT THE SAME AS THAT OF THE GERMAN ARMY",
+    "4.0": "MOST OF OUR EQUIPMENT IS WORSE",
+    "5.0": "ALL OF OUR EQUIPMENT IS WORSE",
+    "6.0": "DON'T KNOW"
+  },
+  "S74.Q62": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALWAYS TELL ME ENOUGH",
+    "2.0": "USUALLY TELL ME ENOUGH",
+    "3.0": "OFTEN DO NOT TELL ME ENOUGH",
+    "4.0": "ALMOST NEVER TELL ME ENOUGH",
+    "5.0": "UNDECIDED"
+  },
+  "S74.Q63": {
+    "0.0": "NO CODE OR NO DATA",
+    "NaN": "THE RESPONDENTS WERE SHOWN A SERIES OF INKBLOT PICTURES - \\(M. HARROWER-ERICKSON ITEMS\\). THEY WERE ASKED TO LOOK AT EAC",
+    "1.0": "ONE UNFAVORABLE ANSWER",
+    "2.0": "TWO",
+    "3.0": "THREE",
+    "4.0": "FOUR",
+    "5.0": "FIVE",
+    "6.0": "SIX",
+    "7.0": "SEVEN",
+    "8.0": "EIGHT",
+    "9.0": "NINE",
+    "10.0": "TEN",
+    "11.0": "NONE",
+    "12.0": "NO ANSWER"
+  },
+  "S74.V64A": {
+    "0.0": "NO ANSWER",
+    "1.0": "AN ARMY OR NAVY EMBLEM",
+    "2.0": "MUD AND DIRT",
+    "3.0": "A BAT",
+    "4.0": "NOTHING AT ALL",
+    "5.0": "TWO PEOPLE",
+    "6.0": "A PELVIS",
+    "7.0": "AN X-RAY PICTURE",
+    "8.0": "PINCERS OF A CRAB",
+    "9.0": "A DIRTY MESS",
+    "10.0": "PART OF MY BODY",
+    "11.0": "SOMETHING ELSE"
+  },
+  "S74.V64B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "AN ARMY OR NAVY EMBLEM",
+    "2.0": "MUD AND DIRT",
+    "3.0": "A BAT",
+    "4.0": "NOTHING AT ALL",
+    "5.0": "TWO PEOPLE",
+    "6.0": "A PELVIS",
+    "7.0": "AN X-RAY PICTURE",
+    "8.0": "PINCERS OF A CRAB",
+    "9.0": "A DIRTY MESS",
+    "10.0": "PART OF MY BODY",
+    "11.0": "SOMETHING ELSE",
+    "12.0": "NO ANSWER"
+  },
+  "S74.V65A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "A BUG SOMEBODY STEPPED ON",
+    "2.0": "NOTHING AT ALL",
+    "3.0": "TWO SCOTTIE DOGS",
+    "4.0": "LITTLE FACES ON THE SIDES",
+    "5.0": "A BLOODY SPINAL COLUMN",
+    "6.0": "A WHITE TOP",
+    "7.0": "A BURSTING BOMB",
+    "8.0": "TWO ELEPHANTS",
+    "9.0": "TWO CLOWNS",
+    "10.0": "BLACK AND RED",
+    "11.0": "SOMETHING ELSE",
+    "12.0": "NO ANSWER"
+  },
+  "S74.V65B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "A BUG SOMEBODY STEPPED ON",
+    "2.0": "NOTHING AT ALL",
+    "3.0": "TWO SCOTTIE DOGS",
+    "4.0": "LITTLE FACES ON THE SIDES",
+    "5.0": "A BLOODY SPINAL COLUMN",
+    "6.0": "A WHITE TOP",
+    "7.0": "A BURSTING BOMB",
+    "8.0": "TWO ELEPHANTS",
+    "9.0": "TWO CLOWNS",
+    "10.0": "BLACK AND RED",
+    "11.0": "SOMETHING ELSE",
+    "12.0": "NO ANSWER"
+  },
+  "S74.V66A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "TWO BIRDS",
+    "2.0": "MEAT IN A BUTCHER SHOP",
+    "3.0": "TWO MEN",
+    "4.0": "PART OF MY BODY",
+    "5.0": "RED AND BLACK",
+    "6.0": "A COLORED BUTTERFLY",
+    "7.0": "SPOTS OF BLOOD OR PAINT",
+    "8.0": "MONKEYS HANGING BY THEIR TAILS",
+    "9.0": "A RED BOW-TIE",
+    "10.0": "NOTHING AT ALL",
+    "11.0": "SOMETHING ELSE",
+    "12.0": "NO ANSWER"
+  },
+  "S74.V66B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "TWO BIRDS",
+    "2.0": "MEAT IN A BUTCHER SHOP",
+    "3.0": "TWO MEN",
+    "4.0": "PART OF MY BODY",
+    "5.0": "RED AND BLACK",
+    "6.0": "A COLORED BUTTERFLY",
+    "7.0": "SPOTS OF BLOOD OR PAINT",
+    "8.0": "MONKEYS HANGING BY THEIR TAILS",
+    "9.0": "A RED BOW-TIE",
+    "10.0": "NOTHING AT ALL",
+    "11.0": "SOMETHING ELSE",
+    "12.0": "NO ANSWER"
+  },
+  "S74.V67A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "HEAD OF AN ANIMAL",
+    "2.0": "LUNGS AND CHEST",
+    "3.0": "A NASTY MESS",
+    "4.0": "A PAIR OF BOOTS",
+    "5.0": "BLACK SMOKE AND DIRT",
+    "6.0": "NOTHING AT ALL",
+    "7.0": "A MAN IN A FUR COAT",
+    "8.0": "AN ANIMAL SKIN",
+    "9.0": "A BIG GORILLA",
+    "10.0": "AN X-RAY PICTURE",
+    "11.0": "SOMETHING ELSE",
+    "12.0": "NO ANSWER"
+  },
+  "S74.V67B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "HEAD OF AN ANIMAL",
+    "2.0": "LUNGS AND CHEST",
+    "3.0": "A NASTY MESS",
+    "4.0": "A PAIR OF BOOTS",
+    "5.0": "BLACK SMOKE AND DIRT",
+    "6.0": "NOTHING AT ALL",
+    "7.0": "A MAN IN A FUR COAT",
+    "8.0": "AN ANIMAL SKIN",
+    "9.0": "A BIG GORILLA",
+    "10.0": "AN X-RAY PICTURE",
+    "11.0": "SOMETHING ELSE",
+    "12.0": "NO ANSWER"
+  },
+  "S74.V68A": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOTHING AT ALL",
+    "2.0": "AN ALLIGATOR'S HEAD",
+    "3.0": "A SMASHED BODY",
+    "4.0": "A FAN DANCER",
+    "5.0": "AN X-RAY PICTURE",
+    "6.0": "LEGS",
+    "7.0": "A BAT OR BUTTERFLY",
+    "8.0": "LUNGS AND CHEST",
+    "9.0": "BLACK CLOUDS",
+    "10.0": "A PAIR OF PLIERS",
+    "11.0": "SOMETHING ELSE"
+  },
+  "S74.V68B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOTHING AT ALL",
+    "2.0": "AN ALLIGATOR'S HEAD",
+    "3.0": "A SMASHED BODY",
+    "4.0": "A FAN DANCER",
+    "5.0": "AN X-RAY PICTURE",
+    "6.0": "LEGS",
+    "7.0": "A BAT OR BUTTERFLY",
+    "8.0": "LUNGS AND CHEST",
+    "9.0": "BLACK CLOUDS",
+    "10.0": "A PAIR OF PLIERS",
+    "11.0": "SOMETHING ELSE"
+  },
+  "S74.V69A": {
+    "0.0": "NO ANSWER",
+    "1.0": "TWO KINGS, HEADS WITH CROWN",
+    "2.0": "AN X-RAY PICTURE",
+    "3.0": "SEX ORGANS",
+    "4.0": "A TOTEM POLE",
+    "5.0": "A FUR RUG",
+    "6.0": "MUD AND WATER",
+    "7.0": "A POLISHED POST",
+    "8.0": "NOTHING AT ALL",
+    "9.0": "A TURTLE",
+    "10.0": "A GRAY SMUDGE",
+    "11.0": "SOMETHING ELSE"
+  },
+  "S74.V69B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "TWO KINGS, HEADS WITH CROWN",
+    "2.0": "AN X-RAY PICTURE",
+    "3.0": "SEX ORGANS",
+    "4.0": "A TOTEM POLE",
+    "5.0": "A FUR RUG",
+    "6.0": "MUD AND WATER",
+    "7.0": "A POLISHED POST",
+    "8.0": "NOTHING AT ALL",
+    "9.0": "A TURTLE",
+    "10.0": "A GRAY SMUDGE",
+    "11.0": "SOMETHING ELSE",
+    "12.0": "NO ANSWER"
+  },
+  "S74.V70A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "SMOKE OR CLOUDS",
+    "2.0": "TWO WOMEN TALKING",
+    "3.0": "PART OF MY BODY",
+    "4.0": "ANIMALS OR ANIMAL HEADS",
+    "5.0": "NOTHING AT ALL",
+    "6.0": "A MAP",
+    "7.0": "DIRTY ICE AND SNOW",
+    "8.0": "LAMBS, TAILS, OR FEATHERS",
+    "9.0": "AN X-RAY PICTURE",
+    "10.0": "BOOKENDS",
+    "11.0": "SOMETHING ELSE",
+    "12.0": "NO ANSWER"
+  },
+  "S74.V70B": {
+    "1.0": "SMOKE OR CLOUDS",
+    "2.0": "TWO WOMEN TALKING",
+    "3.0": "PART OF MY BODY",
+    "4.0": "ANIMALS OR ANIMAL HEADS",
+    "5.0": "NOTHING AT ALL",
+    "6.0": "A MAP",
+    "7.0": "DIRTY ICE AND SNOW",
+    "8.0": "LAMBS, TAILS, OR FEATHERS",
+    "9.0": "AN X-RAY PICTURE",
+    "10.0": "BOOKENDS",
+    "11.0": "SOMETHING ELSE",
+    "12.0": "NO ANSWER"
+  },
+  "S74.V71A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "FLOWERS OR LEAVES",
+    "2.0": "AN X-RAY PICTURE",
+    "3.0": "NOTHING AT ALL",
+    "4.0": "PINK, BLUE AND ORANGE",
+    "5.0": "A HORSESHOE CRAB",
+    "6.0": "A COLORED COAT OF ARMS",
+    "7.0": "FIRE AND ICE, LIFE AND DEATH",
+    "8.0": "TWO ANIMALS",
+    "9.0": "BLUE FLAGS",
+    "10.0": "PARTS OF MY BODY",
+    "11.0": "SOMETHING ELSE",
+    "12.0": "NO ANSWER"
+  },
+  "S74.V71B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "FLOWERS OR LEAVES",
+    "2.0": "AN X-RAY PICTURE",
+    "3.0": "NOTHING AT ALL",
+    "4.0": "PINK, BLUE AND ORANGE",
+    "5.0": "A HORSESHOE CRAB",
+    "6.0": "A COLORED COAT OF ARMS",
+    "7.0": "FIRE AND ICE, LIFE AND DEATH",
+    "8.0": "TWO ANIMALS",
+    "9.0": "BLUE FLAGS",
+    "10.0": "PARTS OF MY BODY",
+    "11.0": "SOMETHING ELSE",
+    "12.0": "NO ANSWER"
+  },
+  "S74.V72A": {
+    "1.0": "RED, GREEN, AND ORANGE",
+    "2.0": "SEA HORSES, OR LOBSTERS",
+    "3.0": "FLOWERS OR UNDERWATER VEGETATION",
+    "4.0": "PARTS OF MY BODY",
+    "5.0": "SMOKE, FLAMES OR AN EXPLOSION",
+    "6.0": "DEER OR HORNS OF A DEER",
+    "7.0": "NOTHING AT ALL",
+    "8.0": "TWO PEOPLE - WITCHES OR SANTA CLAUSES",
+    "9.0": "BLOODY CLOUDS",
+    "10.0": "A CANDLE",
+    "11.0": "SOMETHING ELSE",
+    "12.0": "NO ANSWER"
+  },
+  "S74.V72B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "RED, GREEN, AND ORANGE",
+    "2.0": "SEA HORSES, OR LOBSTERS",
+    "3.0": "FLOWERS OR UNDERWATER VEGETATION",
+    "4.0": "PARTS OF MY BODY",
+    "5.0": "SMOKE, FLAMES OR AN EXPLOSION",
+    "6.0": "DEER OR HORNS OF A DEER",
+    "7.0": "NOTHING AT ALL",
+    "8.0": "TWO PEOPLE - WITCHES OR SANTA CLAUSES",
+    "9.0": "BLOODY CLOUDS",
+    "10.0": "A CANDLE",
+    "11.0": "SOMETHING ELSE",
+    "12.0": "NO ANSWER"
+  },
+  "S74.V73A": {
+    "1.0": "TWO PEOPLE",
+    "2.0": "SPILT PAINT",
+    "3.0": "A CHINESE PRINT",
+    "4.0": "AN X-RAY PICTURE",
+    "5.0": "RED, BLUE AND GREEN",
+    "6.0": "SPIDERS, CATERPILLARS, CRABS AND INSECTS",
+    "7.0": "PARTS OF MY INSIDES",
+    "8.0": "A COLORED CHART OR MAP",
+    "9.0": "NOTHING AT ALL",
+    "10.0": "A FLOWER GARDEN OR GAY TROPICAL FISH",
+    "11.0": "SOMETHING ELSE",
+    "12.0": "NO ANSWER"
+  },
+  "S74.V73B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "TWO PEOPLE",
+    "2.0": "SPILT PAINT",
+    "3.0": "A CHINESE PRINT",
+    "4.0": "AN X-RAY PICTURE",
+    "5.0": "RED, BLUE AND GREEN",
+    "6.0": "SPIDERS, CATERPILLARS, CRABS AND INSECTS",
+    "7.0": "PARTS OF MY INSIDES",
+    "8.0": "A COLORED CHART OR MAP",
+    "9.0": "NOTHING AT ALL",
+    "10.0": "A FLOWER GARDEN OR GAY TROPICAL FISH",
+    "11.0": "SOMETHING ELSE",
+    "12.0": "NO ANSWER"
+  }
+}

@@ -1,0 +1,893 @@
+{
+  "FORM": {
+    "1.0": "A FORM",
+    "2.0": "B FORM"
+  },
+  "PS5A.Q1": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "PRIVATE",
+    "2.0": "PRIVATE FIRST CLASS",
+    "3.0": "TECHNICIAN 5TH GRADE, CORPORAL",
+    "4.0": "TECHNICIAN 4TH GRADE, SERGEANT",
+    "5.0": "TECHNICIAN 3RD GRADE, STAFF SERGEANT",
+    "6.0": "TECHNICAL SERGEANT",
+    "7.0": "MASTER SERGEANT",
+    "8.0": "NO ANSWER"
+  },
+  "PS5A.Q2": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "NEW ENGLAND",
+    "2.0": "MIDDLE ATLANTIC",
+    "3.0": "EAST NORTH CENTRAL",
+    "4.0": "WEST NORTH CENTRAL",
+    "5.0": "SOUTH ATLANTIC",
+    "6.0": "EAST SOUTH CENTRAL",
+    "7.0": "WEST SOUTH CENTRAL",
+    "8.0": "MOUNTAIN",
+    "9.0": "PACIFIC",
+    "10.0": "FOREIGN",
+    "11.0": "NO ANSWER"
+  },
+  "PS5A.Q3": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ON A FARM",
+    "2.0": "IN A TOWN WITH FEWER THAN 2,500 PEOPLE",
+    "3.0": "IN A CITY BETWEEN 2,500 AND 25,000 PEOPLE",
+    "4.0": "IN A CITY BETWEEN 25,000 AND 100,000 PEOPLE",
+    "5.0": "IN A CITY WITH MORE THAN 100,000 PEOPLE",
+    "6.0": "NO ANSWER"
+  },
+  "PS5A.Q4": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "19 YEARS OR UNDER",
+    "2.0": "20 YEARS",
+    "3.0": "21-24 YEARS",
+    "4.0": "25-27 YEARS",
+    "5.0": "28-29 YEARS",
+    "6.0": "30 TO 34 YEARS",
+    "7.0": "35 AND OVER",
+    "8.0": "NO ANSWER"
+  },
+  "PS5A.Q5": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "LESS THAN 6TH GRADE",
+    "2.0": "FINISHED 6TH GRADE",
+    "3.0": "FINISHED 7TH GRADE",
+    "4.0": "FINISHED 8TH GRADE",
+    "5.0": "SOME HIGH SCHOOL OR TRADE SCHOOL",
+    "6.0": "GRADUATED FROM HIGH SCHOOL",
+    "7.0": "SOME COLLEGE BUT DID NOT FINISH",
+    "8.0": "COLLEGE GRADUATE",
+    "9.0": "NO ANSWER"
+  },
+  "PS5A.Q6": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "SINGLE",
+    "2.0": "MARRIED",
+    "3.0": "DIVORCED",
+    "4.0": "WIDOWED",
+    "5.0": "SEPARATED",
+    "6.0": "UNDESIGNATED CODE",
+    "7.0": "NO ANSWER"
+  },
+  "PS5A.Q7A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "LESS THAN 2 MONTHS",
+    "2.0": "2 OR 3 MONTHS",
+    "3.0": "4 OR 5 MONTHS",
+    "4.0": "6 OR 7 MONTHS",
+    "5.0": "8 OR 9 MONTHS",
+    "6.0": "10 OR 11 MONTHS",
+    "7.0": "12 OR 13 MONTHS",
+    "8.0": "14 OR 15 MONTHS",
+    "9.0": "16 TO 22 MONTHS",
+    "10.0": "22 MONTHS OR MORE",
+    "98.0": "NO ANSWER",
+    "99.0": "INAPPLICABLE (SINGLE)"
+  },
+  "PS5A.Q7B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "BEFORE ENTERING THE ARMY",
+    "2.0": "AFTER ENTERING THE ARMY",
+    "3.0": "NO ANSWER",
+    "8.0": "UNDESIGNATED CODE",
+    "9.0": "SINGLE"
+  },
+  "PS5A.Q8": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "NONE",
+    "2.0": "ONE",
+    "3.0": "TWO",
+    "4.0": "THREE OR MORE",
+    "5.0": "NO ANSWER",
+    "8.0": "UNDESIGNATED CODE",
+    "9.0": "SINGLE"
+  },
+  "PS5A.Q9": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "CATHOLIC",
+    "2.0": "JEWISH",
+    "3.0": "PROTESTANT",
+    "4.0": "OTHER",
+    "5.0": "NONE",
+    "6.0": "NO ANSWER"
+  },
+  "PS5A.Q10": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "OCT. 1942 TO PRESENT (3 MONTHS OR LESS)",
+    "2.0": "JULY 1942 TO SEPT. 1942 (4-6 MONTHS)",
+    "3.0": "JAN. 1942 TO JUNE 1942 (7-12 MONTHS)",
+    "4.0": "JAN. 1941 TO DEC. 1941 (1-2 YEARS)",
+    "5.0": "PRIOR TO JAN. 1941 (2 YEARS AND OVER)",
+    "6.0": "NO ANSWER"
+  },
+  "PS5A.Q11": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "PROFESSIONAL AND MANAGERIAL OCCUPATION",
+    "2.0": "CLERICAL AND SALES",
+    "3.0": "SERVICE",
+    "4.0": "AGRICULTURAL",
+    "5.0": "SKILLED WORKER",
+    "6.0": "SEMI-SKILLED WORKER",
+    "7.0": "UNSKILLED WORKER",
+    "8.0": "OTHERS",
+    "9.0": "NO ANSWER"
+  },
+  "PS5A.Q12": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "IT IS GOOD QUALITY AND WELL PREPARED",
+    "2.0": "IT IS GOOD QUALITY, BUT POORLY PREPARED",
+    "3.0": "UNDECIDED",
+    "4.0": "IT IS POOR QUALITY, BUT WELL PREPARED",
+    "5.0": "IT IS POOR QUALITY, AND POORLY PREPARED",
+    "6.0": "NO ANSWER"
+  },
+  "PS5A.Q13": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, VERY WELL",
+    "2.0": "YES, FAIRLY WELL",
+    "3.0": "UNDECIDED",
+    "4.0": "NO, POORLY",
+    "5.0": "NO, VERY POORLY",
+    "6.0": "NO ANSWER"
+  },
+  "PS5A.Q14": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, ONE OF THE BEST",
+    "2.0": "YES, ALTHOUGH MAYBE NOT ONE OF THE BEST",
+    "3.0": "UNDECIDED",
+    "4.0": "NO, NOT YET, BUT I WILL BE",
+    "5.0": "NO, AND I DON'T THINK I EVER WILL BE",
+    "6.0": "NO ANSWER"
+  },
+  "PS5A.Q15": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, ALL OF THE TIME",
+    "2.0": "YES, MOST OF THE TIME",
+    "3.0": "UNDECIDED",
+    "4.0": "NO, OFTEN DO NOT",
+    "5.0": "NO, ALMOST NEVER DO",
+    "6.0": "NO ANSWER"
+  },
+  "PS5A.Q16": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "IT IS VERY GOOD",
+    "2.0": "IT IS FAIRLY GOOD",
+    "3.0": "UNDECIDED",
+    "4.0": "IT IS RATHER POOR",
+    "5.0": "IT IS VERY POOR",
+    "6.0": "NO ANSWER"
+  },
+  "PS5A.Q17": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY PROUD",
+    "2.0": "FAIRLY PROUD",
+    "3.0": "UNDECIDED",
+    "4.0": "ALMOST ASHAMED OF IT",
+    "5.0": "ACTUALLY ASHAMED OF IT",
+    "6.0": "NO ANSWER"
+  },
+  "PS5A.Q18": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, VERY MUCH",
+    "2.0": "YES, A LITTLE",
+    "3.0": "UNDECIDED",
+    "4.0": "NO, NOT PARTICULARLY",
+    "5.0": "NO, NONE AT ALL",
+    "6.0": "NO ANSWER"
+  },
+  "PS5A.Q19": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "IT IS ABSOLUTELY THE BEST",
+    "2.0": "IT IS AS GOOD AS ANY",
+    "3.0": "UNDECIDED",
+    "4.0": "THERE ARE SOME BETTER",
+    "5.0": "IT IS ONE OF THE WORST",
+    "6.0": "NO ANSWER"
+  },
+  "PS5A.Q20": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, ALWAYS",
+    "2.0": "YES, USUALLY",
+    "3.0": "UNDECIDED",
+    "4.0": "NO, NOT VERY OFTEN",
+    "5.0": "NO, ALMOST NEVER",
+    "6.0": "NO ANSWER"
+  },
+  "PS5A.Q21": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, A VERY GOOD CHANCE",
+    "2.0": "YES, A FAIRLY GOOD CHANCE",
+    "3.0": "UNDECIDED",
+    "4.0": "NO, NOT MUCH OF A CHANCE",
+    "5.0": "NO, NO CHANCE AT ALL",
+    "6.0": "NO ANSWER"
+  },
+  "PS5A.Q22": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "THEY ARE THE BEST ONES THAT COULD HAVE BEEN PICKED",
+    "2.0": "THEY ARE AS GOOD AS ANY THAT COULD HAVE BEEN PICKED",
+    "3.0": "UNDECIDED",
+    "4.0": "SOMEWHAT BETTER ONES COULD HAVE BEEN PICKED",
+    "5.0": "MUCH BETTER ONES COULD HAVE BEEN PICKED",
+    "6.0": "NO ANSWER"
+  },
+  "PS5A.Q23": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY SATISFIED",
+    "2.0": "SATISFIED",
+    "3.0": "UNDECIDED",
+    "4.0": "DISSATISFIED",
+    "5.0": "VERY DISSATISFIED",
+    "6.0": "NO ANSWER"
+  },
+  "PS5A.Q24": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "LESS THAN 6 MONTHS",
+    "2.0": "6 MONTHS TO 1 YEAR",
+    "3.0": "OVER 1 YEAR UP TO 2 YEARS",
+    "4.0": "OVER 2 YEARS UP TO 3 YEARS",
+    "5.0": "OVER 3 YEARS UP TO 4 YEARS",
+    "6.0": "OVER 4 YEARS UP TO 5 YEARS",
+    "7.0": "OVER 5 YEARS",
+    "8.0": "HAVEN'T ANY IDEA",
+    "9.0": "NO ANSWER"
+  },
+  "PS5A.Q25": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "DUTY IN A COMBAT OUTFIT",
+    "2.0": "DUTY IN A NON-COMBAT OUTFIT",
+    "3.0": "NO ANSWER"
+  },
+  "PS5A.Q26": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "DUTY IN AN OUTFIT OVERSEAS",
+    "2.0": "DUTY IN AN OUTFIT IN THE U.S.",
+    "3.0": "NO ANSWER"
+  },
+  "PS5A.Q27": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, ONCE OR TWICE",
+    "2.0": "YES, SEVERAL TIMES",
+    "3.0": "NO",
+    "4.0": "NO ANSWER"
+  },
+  "PS5A.Q28": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY MUCH INTERESTED",
+    "2.0": "SOMEWHAT INTERESTED",
+    "3.0": "SLIGHTLY INTERESTED",
+    "4.0": "NOT INTERESTED AT ALL",
+    "5.0": "NO ANSWER"
+  },
+  "PS5A.Q29": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ALMOST ALL OF THEM ARE",
+    "2.0": "A GOOD MANY ARE",
+    "3.0": "SOME, BUT NOT MANY ARE",
+    "4.0": "HARDLY ANY ARE",
+    "5.0": "NO OPINION",
+    "6.0": "NO ANSWER"
+  },
+  "PS5A.Q30": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ALMOST ALL OF THEM ARE",
+    "2.0": "A GOOD MANY ARE",
+    "3.0": "SOME, BUT NOT MANY ARE",
+    "4.0": "HARDLY ANY ARE",
+    "5.0": "NO OPINION",
+    "6.0": "NO ANSWER"
+  },
+  "PS5A.Q31": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ALMOST ALL OF THEM ARE",
+    "2.0": "A GOOD MANY ARE",
+    "3.0": "SOME, BUT NOT MANY ARE",
+    "4.0": "HARDLY ANY ARE",
+    "5.0": "NO OPINION",
+    "6.0": "NO ANSWER"
+  },
+  "PS5A.Q32": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ALMOST ALL OF THEM ARE",
+    "2.0": "A GOOD MANY ARE",
+    "3.0": "SOME, BUT NOT MANY ARE",
+    "4.0": "HARDLY ANY ARE",
+    "5.0": "NO OPINION",
+    "6.0": "NO ANSWER"
+  },
+  "PS5A.Q33": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ALMOST ALL OF THEM ARE",
+    "2.0": "A GOOD MANY ARE",
+    "3.0": "SOME, BUT NOT MANY ARE",
+    "4.0": "HARDLY ANY ARE",
+    "5.0": "NO OPINION",
+    "6.0": "NO ANSWER"
+  },
+  "PS5A.Q34": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ALMOST ALL OF THEM ARE",
+    "2.0": "A GOOD MANY ARE",
+    "3.0": "SOME, BUT NOT MANY ARE",
+    "4.0": "HARDLY ANY ARE",
+    "5.0": "NO OPINION",
+    "6.0": "NO ANSWER"
+  },
+  "PS5A.Q35": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ALMOST ALL OF THEM ARE",
+    "2.0": "A GOOD MANY ARE",
+    "3.0": "SOME, BUT NOT MANY ARE",
+    "4.0": "HARDLY ANY ARE",
+    "5.0": "NO OPINION",
+    "6.0": "NO ANSWER"
+  },
+  "PS5A.Q36": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I AM STRONGLY IN FAVOR OF IT",
+    "2.0": "I AM NOT EXACTLY IN FAVOR OF IT, BUT IT MIGHT BE A GOOD IDEA",
+    "3.0": "I AM NOT EXACTLY AGAINST IT, BUT IT DOESN'T SEEM TO BE A GOOD IDEA",
+    "4.0": "I AM STRONGLY AGAINST IT",
+    "5.0": "NO OPINION",
+    "6.0": "NO ANSWER"
+  },
+  "PS5A.Q37": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, THEY ARE WORKING TOGETHER AS WELL AS THEY POSSIBLY CAN",
+    "2.0": "YES, THEY ARE WORKING WELL TOGETHER, BUT COULD DO BETTER",
+    "3.0": "NO, THEY ARE NOT WORKING NEARLY AS WELL TOGETHER AS THEY SHOULD",
+    "4.0": "NO OPINION",
+    "5.0": "NO ANSWER"
+  },
+  "PS5A.Q38": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "THEY ARE DOING ALL THEY CAN",
+    "2.0": "THEY ARE DOING QUITE A BIT BUT COULD DO MORE",
+    "3.0": "THEY ARE NOT DOING NEARLY AS MUCH AS THEY COULD",
+    "4.0": "NO OPINION",
+    "5.0": "NO ANSWER"
+  },
+  "PS5A.Q39": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "THEY ARE DOING ALL THEY CAN",
+    "2.0": "THEY ARE DOING QUITE A BIT BUT COULD DO MORE",
+    "3.0": "THEY ARE NOT DOING NEARLY AS MUCH AS THEY COULD",
+    "4.0": "NO OPINION",
+    "5.0": "NO ANSWER"
+  },
+  "PS5A.Q40": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "THEY ARE DOING ALL THEY CAN",
+    "2.0": "THEY ARE DOING QUITE A BIT BUT COULD DO MORE",
+    "3.0": "THEY ARE NOT DOING NEARLY AS MUCH AS THEY COULD",
+    "4.0": "NO OPINION",
+    "5.0": "NO ANSWER"
+  },
+  "PS5A.Q41": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "THEY ARE DOING ALL THEY CAN",
+    "2.0": "THEY ARE DOING QUITE A BIT BUT COULD DO MORE",
+    "3.0": "THEY ARE NOT DOING NEARLY AS MUCH AS THEY COULD",
+    "4.0": "NO OPINION",
+    "5.0": "NO ANSWER"
+  },
+  "PS5A.Q42": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "THEY ARE DOING ALL THEY CAN",
+    "2.0": "THEY ARE DOING QUITE A BIT BUT COULD DO MORE",
+    "3.0": "THEY ARE NOT DOING NEARLY AS MUCH AS THEY COULD",
+    "4.0": "NO OPINION",
+    "5.0": "NO ANSWER"
+  },
+  "PS5A.Q43": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I FEEL MORE AT EASE WITH CIVILIAN MEN",
+    "2.0": "I FEEL MORE AT EASE WITH OTHER SOLDIERS",
+    "3.0": "I FEEL ABOUT THE SAME WITH SOLDIERS OR WITH CIVILIAN MEN",
+    "4.0": "NO OPINION",
+    "5.0": "NO ANSWER"
+  },
+  "PS5A.Q44": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "THERE'S A LOT TO IT",
+    "2.0": "THERE MAY BE SOMETHING TO IT, BUT I'M STILL DOUBTFUL",
+    "3.0": "THERE IS NOT MUCH TO IT",
+    "4.0": "NO OPINION",
+    "5.0": "NO ANSWER"
+  },
+  "PS5A.Q45": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, I WOULD LIKE IT VERY MUCH",
+    "2.0": "YES, I MIGHT LIKE IT, BUT I'M NOT SURE",
+    "3.0": "NO, I DON'T THINK I WOULD LIKE IT",
+    "4.0": "NO, I WOULD NOT LIKE IT AT ALL",
+    "5.0": "NO OPINION",
+    "6.0": "NO ANSWER"
+  },
+  "PS5A.Q46": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, I WOULD WANT TO VERY MUCH",
+    "2.0": "YES, I MIGHT WANT TO, BUT I'M NOT SURE",
+    "3.0": "NO, I DON'T THINK I WOULD WANT TO",
+    "4.0": "NO, I ABSOLUTELY WOULD NOT WANT TO",
+    "5.0": "NO OPINION",
+    "6.0": "NO ANSWER"
+  },
+  "PS5A.Q47": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "HE THINKS MORE AND MORE ABOUT IT THE LONGER HE IS IN THE ARMY",
+    "2.0": "HE THINKS LESS AND LESS ABOUT IT THE LONGER HE IS IN THE ARMY",
+    "3.0": "HE THINKS ABOUT IT NO MORE AND NO LESS",
+    "4.0": "NO ANSWER"
+  },
+  "PS5A.Q48": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, TOO MANY SEEM USELESS",
+    "2.0": "NO, I USED TO THINK SO, BUT DON'T NOW",
+    "3.0": "NO, I NEVER THOUGHT SO",
+    "4.0": "NO OPINION",
+    "5.0": "NO ANSWER"
+  },
+  "PS5A.Q49": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "BETTER OFF THAN BEFORE ENTERING THE ARMY",
+    "2.0": "WORSE OFF THAN BEFORE ENTERING THE ARMY",
+    "3.0": "ABOUT THE SAME AS BEFORE ENTERING THE ARMY",
+    "4.0": "NO OPINION",
+    "5.0": "NO ANSWER"
+  },
+  "PS5A.Q50": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "BETTER OFF THAN BEFORE THE WAR",
+    "2.0": "WORSE OFF THAN BEFORE THE WAR",
+    "3.0": "ABOUT THE SAME AS BEFORE THE WAR",
+    "4.0": "NO OPINION",
+    "5.0": "NO ANSWER"
+  },
+  "PS5A.Q51A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I HAVE WONDERED A GREAT DEAL ABOUT IT",
+    "2.0": "I HAVE WONDERED FAIRLY OFTEN ABOUT IT",
+    "3.0": "I HAVE HARDLY EVER WONDERED ABOUT IT",
+    "4.0": "I HAVE NEVER WONDERED ABOUT IT",
+    "5.0": "NO ANSWER"
+  },
+  "PS5A.Q51B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I HAVE WONDERED A GREAT DEAL ABOUT IT",
+    "2.0": "I HAVE WONDERED FAIRLY OFTEN ABOUT IT",
+    "3.0": "I HAVE HARDLY EVER WONDERED ABOUT IT",
+    "4.0": "I HAVE NEVER WONDERED ABOUT IT",
+    "5.0": "NO ANSWER"
+  },
+  "PS5A.Q51C": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I HAVE WONDERED A GREAT DEAL ABOUT IT",
+    "2.0": "I HAVE WONDERED FAIRLY OFTEN ABOUT IT",
+    "3.0": "I HAVE HARDLY EVER WONDERED ABOUT IT",
+    "4.0": "I HAVE NEVER WONDERED ABOUT IT",
+    "5.0": "NO ANSWER"
+  },
+  "PS5A.Q51D": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I HAVE WONDERED A GREAT DEAL ABOUT IT",
+    "2.0": "I HAVE WONDERED FAIRLY OFTEN ABOUT IT",
+    "3.0": "I HAVE HARDLY EVER WONDERED ABOUT IT",
+    "4.0": "I HAVE NEVER WONDERED ABOUT IT",
+    "5.0": "NO ANSWER"
+  },
+  "PS5A.Q51E": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I HAVE WONDERED A GREAT DEAL ABOUT IT",
+    "2.0": "I HAVE WONDERED FAIRLY OFTEN ABOUT IT",
+    "3.0": "I HAVE HARDLY EVER WONDERED ABOUT IT",
+    "4.0": "I HAVE NEVER WONDERED ABOUT IT",
+    "5.0": "NO ANSWER"
+  },
+  "PS5A.Q51F": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I HAVE WONDERED A GREAT DEAL ABOUT IT",
+    "2.0": "I HAVE WONDERED FAIRLY OFTEN ABOUT IT",
+    "3.0": "I HAVE HARDLY EVER WONDERED ABOUT IT",
+    "4.0": "I HAVE NEVER WONDERED ABOUT IT",
+    "5.0": "NO ANSWER"
+  },
+  "PS5A.Q51G": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I HAVE WONDERED A GREAT DEAL ABOUT IT",
+    "2.0": "I HAVE WONDERED FAIRLY OFTEN ABOUT IT",
+    "3.0": "I HAVE HARDLY EVER WONDERED ABOUT IT",
+    "4.0": "I HAVE NEVER WONDERED ABOUT IT",
+    "5.0": "NO ANSWER"
+  },
+  "PS5A.Q51H": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I HAVE WONDERED A GREAT DEAL ABOUT IT",
+    "2.0": "I HAVE WONDERED FAIRLY OFTEN ABOUT IT",
+    "3.0": "I HAVE HARDLY EVER WONDERED ABOUT IT",
+    "4.0": "I HAVE NEVER WONDERED ABOUT IT",
+    "5.0": "NO ANSWER"
+  },
+  "PS5A.Q51I": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I HAVE WONDERED A GREAT DEAL ABOUT IT",
+    "2.0": "I HAVE WONDERED FAIRLY OFTEN ABOUT IT",
+    "3.0": "I HAVE HARDLY EVER WONDERED ABOUT IT",
+    "4.0": "I HAVE NEVER WONDERED ABOUT IT",
+    "5.0": "NO ANSWER"
+  },
+  "PS5A.Q51J": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I HAVE WONDERED A GREAT DEAL ABOUT IT",
+    "2.0": "I HAVE WONDERED FAIRLY OFTEN ABOUT IT",
+    "3.0": "I HAVE HARDLY EVER WONDERED ABOUT IT",
+    "4.0": "I HAVE NEVER WONDERED ABOUT IT",
+    "5.0": "NO ANSWER"
+  },
+  "PS5A.Q51K": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I HAVE WONDERED A GREAT DEAL ABOUT IT",
+    "2.0": "I HAVE WONDERED FAIRLY OFTEN ABOUT IT",
+    "3.0": "I HAVE HARDLY EVER WONDERED ABOUT IT",
+    "4.0": "I HAVE NEVER WONDERED ABOUT IT",
+    "5.0": "NO ANSWER"
+  },
+  "PS5A.Q51L": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I HAVE WONDERED A GREAT DEAL ABOUT IT",
+    "2.0": "I HAVE WONDERED FAIRLY OFTEN ABOUT IT",
+    "3.0": "I HAVE HARDLY EVER WONDERED ABOUT IT",
+    "4.0": "I HAVE NEVER WONDERED ABOUT IT",
+    "5.0": "NO ANSWER"
+  },
+  "PS5A.Q51M": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I HAVE WONDERED A GREAT DEAL ABOUT IT",
+    "2.0": "I HAVE WONDERED FAIRLY OFTEN ABOUT IT",
+    "3.0": "I HAVE HARDLY EVER WONDERED ABOUT IT",
+    "NaN": "COLS. 76-80 NOT USED. CARD 2",
+    "4.0": "I HAVE NEVER WONDERED ABOUT IT",
+    "5.0": "NO ANSWER"
+  },
+  "FORM..1": {
+    "1.0": "A FORM",
+    "2.0": "B FORM"
+  },
+  "PS5A.Q52": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "DON'T KNOW",
+    "4.0": "NO ANSWER"
+  },
+  "PS5A.Q53": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "$ 1,000 (COST ABOUT 65-70 CENTS PER MONTH)",
+    "2.0": "$ 2,000 (COST ABOUT $1.30-$1.40 PER MONTH)",
+    "3.0": "$ 3,000 (COST ABOUT $1.95-$2.10 PER MONTH)",
+    "4.0": "$ 4,000 (COST ABOUT $2.60-$2.80 PER MONTH)",
+    "5.0": "$ 5,000 (COST ABOUT $3.25-$3.50 PER MONTH)",
+    "6.0": "$ 6,000 (COST ABOUT $3.90-$4.20 PER MONTH)",
+    "7.0": "$ 7,000 (COST ABOUT $4.55-$4.90 PER MONTH)",
+    "8.0": "$ 8,000 (COST ABOUT $5.20-$5.60 PER MONTH)",
+    "9.0": "$ 9,000 (COST ABOUT $5.85-$6.30 PER MONTH)",
+    "10.0": "$10,000 (COST ABOUT $6.50-$7.00 PER MONTH)",
+    "11.0": "DON'T HAPPEN TO REMEMBER",
+    "12.0": "NO ANSWER"
+  },
+  "PS5A.Q55A": {
+    "0.0": "NO ANSWER, NO CODE OR NO DATA",
+    "NaN": "FIRST MENTION.",
+    "1.0": "I CAN'T AFFORD TO BUY MORE",
+    "2.0": "MY FAMILY CAN GET ALONG WITHOUT MORE INSURANCE",
+    "3.0": "I HAVE PLENTY OF INSURANCE FROM CIVILIAN LIFE",
+    "4.0": "I DON'T BELIEVE IN INSURANCE",
+    "5.0": "I WOULD GET MORE ARMY INSURANCE IF I COULD FIND OUT HOW TO GO ABOUT IT",
+    "6.0": "I WOULD GET MORE ARMY INSURANCE IF IT WEREN'T SO MUCH TROUBLE",
+    "7.0": "I WOULD BUY SOME MORE ARMY INSURANCE NOW IF I COULD GET IT",
+    "8.0": "UNDESIGNATED CODE (NOT ON CHECK LIST)",
+    "9.0": "UNDESIGNATED CODE (NOT ON CHECK LIST)"
+  },
+  "PS5A.Q55B": {
+    "0.0": "NO ANSWER, NO CODE OR NO DATA",
+    "1.0": "I CAN'T AFFORD TO BUY MORE",
+    "2.0": "MY FAMILY CAN GET ALONG WITHOUT MORE INSURANCE",
+    "3.0": "I HAVE PLENTY OF INSURANCE FROM CIVILIAN LIFE",
+    "4.0": "I DON'T BELIEVE IN INSURANCE",
+    "5.0": "I WOULD GET MORE ARMY INSURANCE IF I COULD FIND OUT HOW TO GO ABOUT IT",
+    "6.0": "I WOULD GET MORE ARMY INSURANCE IF IT WEREN'T SO MUCH TROUBLE",
+    "7.0": "I WOULD BUY SOME MORE ARMY INSURANCE NOW IF I COULD GET IT",
+    "8.0": "UNDESIGNATED CODE (NOT ON CHECK LIST)",
+    "9.0": "UNDESIGNATED CODE (NOT ON CHECK LIST)"
+  },
+  "PS5A.Q55C": {
+    "0.0": "NO ANSWER, NO CODE OR NO DATA",
+    "1.0": "I CAN'T AFFORD TO BUY MORE",
+    "2.0": "MY FAMILY CAN GET ALONG WITHOUT MORE INSURANCE",
+    "3.0": "I HAVE PLENTY OF INSURANCE FROM CIVILIAN LIFE",
+    "4.0": "I DON'T BELIEVE IN INSURANCE",
+    "5.0": "I WOULD GET MORE ARMY INSURANCE IF I COULD FIND OUT HOW TO GO ABOUT IT",
+    "6.0": "I WOULD GET MORE ARMY INSURANCE IF IT WEREN'T SO MUCH TROUBLE",
+    "7.0": "I WOULD BUY SOME MORE ARMY INSURANCE NOW IF I COULD GET IT",
+    "8.0": "UNDESIGNATED CODE (NOT ON CHECK LIST)",
+    "9.0": "UNDESIGNATED CODE (NOT ON CHECK LIST)"
+  },
+  "PS5A.Q56": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, I AM",
+    "2.0": "NO, I AM NOT",
+    "3.0": "DIDN'T HAVE ANY INSURANCE WHEN I CAME INTO THE ARMY",
+    "4.0": "DON'T KNOW",
+    "5.0": "NO ANSWER"
+  },
+  "PS5A.Q57": {
+    "1.0": "ORIGINAL PUNCH OF 1",
+    "NaN": "CODES NOT PROVIDED BY SURVEY ORGANIZATION.",
+    "2.0": "ORIGINAL PUNCH OF 2",
+    "3.0": "ORIGINAL PUNCH OF 3",
+    "4.0": "ORIGINAL PUNCH OF 4",
+    "5.0": "ORIGINAL PUNCH OF 5",
+    "6.0": "ORIGINAL PUNCH OF 6",
+    "7.0": "ORIGINAL PUNCH OF 7",
+    "8.0": "ORIGINAL PUNCH OF 8",
+    "11.0": "ORIGINAL PUNCH OF X",
+    "12.0": "ORIGINAL PUNCH OF V",
+    "98.0": "ORIGINAL PUNCH OF 0",
+    "99.0": "ORIGINAL-BLANK, NO CODE OR NO DATA"
+  },
+  "PS5A.Q58": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "DON'T REMEMBER",
+    "4.0": "UNDESIGNATED CODE"
+  },
+  "PS5A.Q59": {
+    "1.0": "LESS THAN $1.49",
+    "2.0": "$1.50 - $2.49",
+    "NaN": "NA",
+    "3.0": "$2.50 - $3.49",
+    "4.0": "$3.50 - $4.49",
+    "5.0": "$4.50 - $5.49",
+    "6.0": "$5.50 - $7.49",
+    "7.0": "$7.50 - $12.49",
+    "8.0": "$12.50 - $17.49",
+    "9.0": "$17.50 - $22.49",
+    "10.0": "$22.50 OR MORE",
+    "11.0": "BOUGHT BONDS-NO ANSWER",
+    "12.0": "DID NOT BUY ANY",
+    "13.0": "NO ANSWER; DON'T REMEMBER OR NO ANSWER TO Q.58, NO CODE OR NO DATA"
+  },
+  "PS5A.Q60": {
+    "0.0": "NO CODE OR NO DATA",
+    "NaN": "NA",
+    "1.0": "LESS THAN $2.49",
+    "2.0": "$2.50 - $7.49",
+    "3.0": "$7.50 - $12.49",
+    "4.0": "$12.50 - $17.49",
+    "5.0": "$17.50 - $22.49",
+    "6.0": "$22.50 - $27.49",
+    "7.0": "$27.50 - $32.49",
+    "8.0": "$32.50 - $37.49",
+    "9.0": "$37.50 - $42.49",
+    "10.0": "$42.50 OR MORE"
+  },
+  "PS5A.Q61A": {
+    "0.0": "NO CODE OR NO DATA",
+    "NaN": "NA",
+    "1.0": "LESS THAN $2.49",
+    "2.0": "$2.50 - $7.49",
+    "3.0": "$7.50 - $12.49",
+    "4.0": "$12.50 - $17.49",
+    "5.0": "$17.50 - $22.49",
+    "6.0": "$22.50 - $27.49",
+    "7.0": "$27.50 - $32.49",
+    "8.0": "$32.50 - $37.49",
+    "9.0": "$37.50 - $42.49",
+    "10.0": "$42.50 OR MORE"
+  },
+  "PS5A.Q61B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "THE BEST WAY TO HANDLE SAVINGS IS TO DEPOSIT MONEY WITH THE ARMY FINANCE OFFICE THROUGH THE C.O.",
+    "2.0": "THE BEST WAY TO HANDLE SAVINGS IS TO SEND MONEY HOME EITHER BY ALLOTMENT OR SOME OTHER WAY",
+    "3.0": "THE BEST WAY TO HANDLE SAVINGS IS TO BUY DEFENSE BONDS OR STAMPS",
+    "4.0": "THERE IS NO USE IN SAVING MONEY WHILE IN THE ARMY",
+    "5.0": "THE BEST WAY TO HANDLE SAVINGS IS NOT MENTIONED ABOVE",
+    "6.0": "UNDECIDED",
+    "7.0": "NO ANSWER"
+  },
+  "PS5A.Q62A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ONE",
+    "2.0": "TWO",
+    "3.0": "THREE",
+    "4.0": "FOUR",
+    "5.0": "FIVE",
+    "6.0": "SIX",
+    "7.0": "SEVEN",
+    "8.0": "EIGHT",
+    "9.0": "NINE",
+    "10.0": "TEN OR MORE",
+    "11.0": "NONE",
+    "12.0": "NO ANSWER"
+  },
+  "PS5A.Q62B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ONE",
+    "2.0": "TWO",
+    "3.0": "THREE",
+    "4.0": "FOUR",
+    "5.0": "FIVE",
+    "6.0": "SIX",
+    "7.0": "SEVEN",
+    "8.0": "EIGHT",
+    "9.0": "NINE",
+    "10.0": "TEN OR MORE",
+    "11.0": "NONE",
+    "12.0": "NO ANSWER"
+  },
+  "PS5A.Q62C": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ONE",
+    "2.0": "TWO",
+    "3.0": "THREE",
+    "4.0": "FOUR",
+    "5.0": "FIVE",
+    "6.0": "SIX",
+    "7.0": "SEVEN",
+    "8.0": "EIGHT",
+    "9.0": "NINE",
+    "10.0": "TEN OR MORE",
+    "11.0": "NONE",
+    "12.0": "NO ANSWER"
+  },
+  "PS5A.Q62D": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ONE",
+    "2.0": "TWO",
+    "3.0": "THREE",
+    "4.0": "FOUR",
+    "5.0": "FIVE",
+    "6.0": "SIX",
+    "7.0": "SEVEN",
+    "8.0": "EIGHT",
+    "9.0": "NINE",
+    "10.0": "TEN OR MORE",
+    "11.0": "NONE",
+    "12.0": "NO ANSWER"
+  },
+  "PS5A.Q62E": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ONE",
+    "2.0": "TWO",
+    "3.0": "THREE",
+    "4.0": "FOUR",
+    "5.0": "FIVE",
+    "6.0": "SIX",
+    "7.0": "SEVEN",
+    "8.0": "EIGHT",
+    "9.0": "NINE",
+    "10.0": "TEN OR MORE",
+    "11.0": "NONE",
+    "12.0": "NO ANSWER"
+  },
+  "PS5A.Q63A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ANOTHER USO CLUB IN TOWN",
+    "2.0": "ANOTHER SERVICE CLUB ON THE POST",
+    "3.0": "NO ANSWER"
+  },
+  "PS5A.Q63B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ANOTHER USO CLUB IN TOWN",
+    "2.0": "ANOTHER DAY ROOM IN YOUR BATTALION AREA",
+    "3.0": "NO ANSWER"
+  },
+  "PS5A.Q63C": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ANOTHER SERVICE CLUB ON THE POST",
+    "2.0": "ANOTHER DAY ROOM IN YOUR BATTALION AREA",
+    "3.0": "NO ANSWER"
+  },
+  "PS5A.Q64": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, I PLANNED IN ADVANCE TO GO TO THE CLUB",
+    "2.0": "I THOUGHT I MIGHT GO TO THE CLUB BUT WASN'T SURE",
+    "3.0": "NO, I DIDN'T PLAN TO GO TO THE CLUB UNTIL I GOT TO TOWN",
+    "4.0": "I HAVE NEVER BEEN IN A USO CLUB",
+    "5.0": "NO ANSWER"
+  },
+  "PS5A.Q65A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "DON'T REMEMBER",
+    "4.0": "NO ANSWER"
+  },
+  "PS5A.Q65B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "NO",
+    "2.0": "UNDECIDED",
+    "3.0": "YES",
+    "4.0": "NO ANSWER"
+  },
+  "PS5A.Q65B1": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ENGLISH",
+    "2.0": "SOCIAL STUDIES",
+    "3.0": "MATHEMATICS",
+    "4.0": "SCIENCE",
+    "5.0": "BUSINESS",
+    "6.0": "MECHANICAL",
+    "7.0": "ELECTRICAL",
+    "8.0": "CIVIL AND ARCHITECTURAL",
+    "9.0": "MILITARY",
+    "10.0": "OTHERS",
+    "11.0": "WOULD NOT LIKE TO ENROLL",
+    "12.0": "NO ANSWER"
+  },
+  "PS5A.Q65C": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "NONE",
+    "2.0": "1-6 HOURS",
+    "3.0": "7-12 HOURS",
+    "4.0": "13-18 HOURS",
+    "5.0": "19-24 HOURS",
+    "6.0": "25-30 HOURS",
+    "7.0": "OVER 30 HOURS",
+    "8.0": "DON'T KNOW",
+    "9.0": "NO ANSWER",
+    "10.0": "WOULD NOT LIKE TO ENROLL"
+  },
+  "PS5A.Q65E": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY MUCH INTERESTED",
+    "2.0": "SOMEWHAT INTERESTED",
+    "3.0": "SLIGHTLY INTERESTED",
+    "4.0": "NOT INTERESTED AT ALL",
+    "5.0": "NO ANSWER"
+  },
+  "PS5A.V69": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "NUMBER OF POSITIVE RESPONSES: ONE",
+    "2.0": "TWO",
+    "3.0": "THREE",
+    "5.0": "FIVE",
+    "6.0": "SIX",
+    "NaN": "NA",
+    "4.0": "FOUR"
+  },
+  "PS5A.V70": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "EDWARDS, MASS.",
+    "2.0": "ETHAN ALLEN, VT.",
+    "3.0": "STEWART, GA.",
+    "4.0": "COLUMBIA AIR BASE, S.C.",
+    "5.0": "FUNSTON, CALIF.",
+    "6.0": "RILEY, KANSAS",
+    "7.0": "SAM HOUSTON, TEXAS",
+    "8.0": "SAN LUIS OBISPO, CALIF.",
+    "9.0": "LOS ANGELES, CALIF., 329TH FIGHTER GROUP"
+  }
+}

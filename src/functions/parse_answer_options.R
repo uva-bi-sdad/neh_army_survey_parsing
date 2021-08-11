@@ -24,3 +24,5 @@ parse_answer_options <- function(codebook_dt = codebook_raw, rownum = 6, col_nam
   
   mylist
 }
+
+#parse_answer_options(codebook_raw, rownum = 36, code_list = unlist(codebook_raw[36,]$codes))

@@ -1,0 +1,786 @@
+{
+  "FORM": {
+    "1.0": "FORM A - ENLISTED MEN",
+    "2.0": "FORM A - OFFICERS",
+    "3.0": "FORM B - ENLISTED MEN",
+    "4.0": "FORM B - OFFICERS"
+  },
+  "S234BE.Q1": {
+    "0.0": "NO ANSWER",
+    "1.0": "PRIVATE",
+    "2.0": "PRIVATE FIRST CLASS",
+    "3.0": "NON-COM (CORPORAL OR ANY GRADE OF SERGEANT OR TECHNICIAN)",
+    "4.0": "SOME OTHER RANK OR GRADE"
+  },
+  "S234BE.Q2": {
+    "0.0": "NO ANSWER",
+    "1.0": "6 MONTHS OR LESS",
+    "2.0": "OVER 6 MONTHS UP TO 1 YEAR",
+    "3.0": "OVER 1 YEAR UP TO 2 YEARS",
+    "4.0": "OVER 2 YEARS"
+  },
+  "S234BE.Q3": {
+    "0.0": "NO ANSWER",
+    "1.0": "19 YEARS OR YOUNGER",
+    "2.0": "20 TO 24 YEARS",
+    "3.0": "25 TO 29 YEARS",
+    "4.0": "30 TO 34 YEARS",
+    "5.0": "35 YEARS OR OLDER"
+  },
+  "S234BE.Q4": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN 6TH GRADE",
+    "2.0": "FINISHED 6TH GRADE",
+    "3.0": "FINISHED 7TH GRADE",
+    "4.0": "FINISHED 8TH GRADE",
+    "5.0": "SOME HIGH SCHOOL BUT DID NOT FINISH",
+    "6.0": "GRADUATED FROM HIGH SCHOOL",
+    "7.0": "SOME COLLEGE BUT DID NOT FINISH",
+    "8.0": "GRADUATED FROM COLLEGE"
+  },
+  "S234BE.Q5": {
+    "0.0": "NO ANSWER",
+    "1.0": "6 MONTHS OR LESS",
+    "2.0": "OVER 6 MONTHS UP TO 1 YEAR",
+    "3.0": "OVER 1 YEAR UP TO 2 YEARS",
+    "4.0": "OVER 2 YEARS UP TO 3 YEARS",
+    "5.0": "OVER 3 YEARS UP TO 4 YEARS",
+    "6.0": "OVER 4 YEARS"
+  },
+  "S234BE.Q6": {
+    "0.0": "NO ANSWER",
+    "1.0": "ENGINEERS",
+    "2.0": "FIELD ARTILLERY",
+    "3.0": "QUARTERMASTER CORPS",
+    "4.0": "INFANTRY",
+    "5.0": "MEDICAL DEPARTMENT",
+    "6.0": "ARMORED FORCE AND TANK DESTROYER",
+    "7.0": "SIGNAL CORPS",
+    "8.0": "COAST ARTILLERY AND ANTI-AIRCRAFT",
+    "9.0": "AIR CORPS",
+    "10.0": "TRANSPORTATION CORPS",
+    "11.0": "ORDNANCE DEPARTMENT",
+    "12.0": "CHEMICAL WARFARE SERVICE",
+    "13.0": "MILITARY POLICE",
+    "14.0": "DEML (STATION COMPLEMENT)",
+    "15.0": "OTHER"
+  },
+  "S234BE.Q7": {
+    "0.0": "NO ANSWER",
+    "1.0": "ARMY AIR FORCES",
+    "2.0": "ARMY GROUND FORCES",
+    "3.0": "ARMY SERVICE FORCES"
+  },
+  "S234BE.Q8A": {
+    "0.0": "NO ANSWER",
+    "1.0": "SINGLE",
+    "2.0": "MARRIED",
+    "3.0": "DIVORCED OR SEPARATED",
+    "4.0": "WIDOWED"
+  },
+  "S234BE.Q8B": {
+    "0.0": "NO ANSWER",
+    "1.0": "HAVE ONE CHILD",
+    "2.0": "HAVE TWO CHILDREN",
+    "3.0": "HAVE THREE OR MORE CHILDREN",
+    "4.0": "HAVE NO CHILDREN",
+    "5.0": "I'M NOT MARRIED"
+  },
+  "S234BE.Q9": {
+    "0.0": "NO ANSWER",
+    "1.0": "I WAS DRAFTED",
+    "2.0": "I VOLUNTEERED AFTER PEARL HARBOR",
+    "3.0": "I VOLUNTEERED BEFORE PEARL HARBOR",
+    "4.0": "I WAS IN THE NATIONAL GUARD",
+    "5.0": "I WAS IN THE E.R.C. (ENLISTED RESERVE)",
+    "6.0": "SOME OTHER WAY"
+  },
+  "S234BE.Q10A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S234BE.Q10B": {
+    "0.0": "NO ANSWER",
+    "1.0": "6 MONTHS OR LESS",
+    "2.0": "OVER 6 MONTHS UP TO 1 YEAR",
+    "3.0": "OVER 1 YEAR UP TO 2 YEARS",
+    "4.0": "OVER 2 YEARS UP TO 3 YEARS",
+    "5.0": "OVER 3 YEARS"
+  },
+  "S234BE.Q10C": {
+    "0.0": "NO ANSWER",
+    "2.0": "YES, I HAVE BEEN UNDER ENEMY FIRE, BUT NOT IN ACTUAL COMBAT",
+    "NaN": "QUESTIONS 11A AND 11B NOT CODED.",
+    "1.0": "YES, I HAVE BEEN IN ACTUAL COMBAT",
+    "3.0": "NO"
+  },
+  "S234BE.Q12": {
+    "0.0": "NO ANSWER",
+    "1.0": "1 POINT",
+    "89.0": "89 POINTS",
+    "90.0": "90-99 POINTS",
+    "91.0": "100-119 POINTS",
+    "92.0": "120 POINTS AND OVER",
+    "93.0": "DON'T KNOW"
+  },
+  "S234BE.Q13": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, I WAS CLASSIFIED AS LIMITED SERVICE BY THE ARMY",
+    "2.0": "NO, I WAS NEVER CLASSIFIED AS LIMITED SERVICE BY THE ARMY",
+    "3.0": "I DON'T KNOW WHETHER THE ARMY HAS EVER CLASSIFIED ME AS LIMITED SERVICE OR NOT"
+  },
+  "S234BE.Q14A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "I DON'T KNOW"
+  },
+  "S234BE.Q14B": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED"
+  },
+  "S234BE.Q15": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY GOOD PHYSICAL CONDITION",
+    "2.0": "GOOD PHYSICAL CONDITION",
+    "3.0": "FAIR PHYSICAL CONDITION",
+    "NaN": "QUESTION 16 NOT CODED.",
+    "4.0": "POOR PHYSICAL CONDITION",
+    "5.0": "VERY POOR PHYSICAL CONDITION"
+  },
+  "S234BE.Q17": {
+    "0.0": "NO ANSWER",
+    "1.0": "ON A FARM",
+    "2.0": "IN THE COUNTRY BUT NOT ON A FARM",
+    "3.0": "IN A VILLAGE WITH FEWER THAN 2,500 PEOPLE",
+    "4.0": "IN A SMALL CITY WITH BETWEEN 2,500 AND 25,000 PEOPLE",
+    "5.0": "IN A CITY WITH BETWEEN 25,000 AND 100,000 PEOPLE",
+    "6.0": "IN A LARGE CITY WITH MORE THAN 100,000 PEOPLE"
+  },
+  "S234BE.Q18": {
+    "0.0": "NO ANSWER",
+    "NaN": "QUESTION 19 NOT CODED.",
+    "1.0": "WORKING FULL-TIME FOR AN EMPLOYER, FOR SALARY, WAGES OR COMMISSION",
+    "2.0": "GOING TO FULL-TIME SCHOOL OR COLLEGE",
+    "3.0": "FARMING (EITHER WITH YOUR FAMILY OR FOR YOURSELF)",
+    "4.0": "HAD MY OWN BUSINESS (DID NOT RECEIVE SALARY, WAGES OR COMMISSION)",
+    "5.0": "LOOKING FOR A JOB",
+    "6.0": "WORKING PART-TIME FOR AN EMPLOYER",
+    "7.0": "GOING TO PART-TIME SCHOOL OR COLLEGE",
+    "8.0": "SOMETHING ELSE (EDITED TO LIST, NOT CONSIDERED ONE OF A DOUBLE CHECK)",
+    "9.0": "I WAS IN THE REGULAR ARMY",
+    "10.0": "DOUBLE CHECKS"
+  },
+  "S234BE.Q20": {
+    "0.0": "NO ANSWER",
+    "1.0": "CATHOLIC",
+    "2.0": "JEWISH",
+    "3.0": "PROTESTANT (FOR EXAMPLE, BAPTIST, METHODIST, ETC.)",
+    "4.0": "OTHER (FOR EXAMPLE, MORMON, ORTHODOX, JEHOVAH'S WITNESSES, AGNOSTIC, ETC.)"
+  },
+  "S234BE.Qi21": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT IS VERY GOOD",
+    "2.0": "IT IS FAIRLY GOOD",
+    "3.0": "IT IS NOT SO GOOD",
+    "4.0": "IT IS NOT GOOD AT ALL",
+    "5.0": "I DON'T KNOW ENOUGH ABOUT IT TO SAY"
+  },
+  "S234BE.Qi22": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, I THINK IT IS BEING CARRIED OUT THE WAY IT WAS SUPPOSED TO BE",
+    "2.0": "NO, I DON'T THINK IT IS BEING CARRIED OUT THE WAY IT WAS SUPPOSED TO BE",
+    "3.0": "I DON'T KNOW ENOUGH ABOUT THE PLAN TO SAY"
+  },
+  "S234BE.Qi23": {
+    "0.0": "NO ANSWER",
+    "1.0": "THE POINT SYSTEM ITSELF WAS A GOOD IDEA, AND THE ARMY IS CARRYING IT OUT WELL",
+    "2.0": "THE POINT SYSTEM ITSELF WAS A GOOD IDEA, BUT THE ARMY IS CARRYING IT OUT BADLY",
+    "3.0": "THE POINT SYSTEM ITSELF WAS NOT A GOOD IDEA, BUT THE ARMY IS CARRYING IT OUT WELL",
+    "4.0": "THE POINT SYSTEM ITSELF WAS NOT A GOOD IDEA, AND THE ARMY IS CARRYING IT OUT BADLY",
+    "5.0": "I DON'T KNOW ENOUGH ABOUT IT TO SAY"
+  },
+  "S234BE.Qi24": {
+    "0.0": "NO ANSWER",
+    "1.0": "THE ARMY IS TRYING ITS BEST",
+    "2.0": "THE ARMY IS TRYING SOME, BUT NOT HARD ENOUGH",
+    "3.0": "THE ARMY IS HARDLY TRYING AT ALL"
+  },
+  "S234BE.Qi25": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, I HAVE HEARD OF THIS",
+    "2.0": "NO, I HAVE NOT HEARD OF THIS BEFORE",
+    "3.0": "UNDECIDED"
+  },
+  "S234BE.Qi26": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NO ANSWER"
+  },
+  "S234BE.Qi27": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NO OPINION",
+    "4.0": "NO ANSWER"
+  },
+  "S234BE.Qii1": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii2": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii3": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii4": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii5": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii6": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii7": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii8": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii9": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii10": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii11": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii12": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii13": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii14": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii15": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii16": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii17": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii18": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii19": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii20": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii21": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii22": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii23": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii24": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii25": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii26": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii27": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii28": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii29": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii30": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii31": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii32": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii33": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii34": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii35": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii36": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii37": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii38": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii39": {
+    "0.0": "NO ANSWER",
+    "NaN": "COL. 80 NOT USED. CARD 2",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "FORM..1": {
+    "1.0": "FORM A - ENLISTED MEN",
+    "2.0": "FORM A - OFFICERS",
+    "3.0": "FORM B - ENLISTED MEN",
+    "4.0": "FORM B - OFFICERS"
+  },
+  "S234BE.Qii40": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE
+    "2.0": "DISAGREE 17"
+  },
+  "S234BE.Qii41": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii42": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii43": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii44": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii45": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii46": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii47": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii48": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii49": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii50": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii51": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii52": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii53": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii54": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii55": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii56": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii57": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii58": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii59": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii60": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii61": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii62": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii63": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii64": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii65": {
+    "0.0": "NO ANSWER",
+    "NaN": "QUESTION 66 NOT CODED.",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii67": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii68": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii69": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii70": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii71": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii72": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii73": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii74": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii75": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii76": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii77": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii78": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii79": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii80": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii81": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii82": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii83": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii84": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii85": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii86": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii87": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qii88": {
+    "0.0": "NO ANSWER \\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*PART III\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S234BE.Qiii1": {
+    "0.0": "NO ANSWER",
+    "1.0": "FROM THE OFFICER'S POINT OF VIEW",
+    "2.0": "FROM THE ENLISTED MAN'S POINT OF VIEW"
+  },
+  "S234BE.Qiii2": {
+    "0.0": "NO ANSWER",
+    "1.0": "AN OUTFIT WITH GOOD NON-COMS BUT POOR OFFICERS",
+    "2.0": "AN OUTFIT WITH GOOD OFFICERS BUT POOR NON-COMS"
+  },
+  "S234BE.Qiii3": {
+    "0.0": "NO ANSWER",
+    "1.0": "I WOULD HAVE ADVISED HER TO JOIN",
+    "2.0": "I WOULD HAVE ADVISED HER NOT TO JOIN",
+    "3.0": "UNDECIDED"
+  },
+  "S234BE.Qiii4": {
+    "0.0": "NO ANSWER",
+    "1.0": "I WOULD HAVE ADVISED HER TO JOIN",
+    "2.0": "I WOULD HAVE ADVISED HER NOT TO JOIN",
+    "3.0": "UNDECIDED"
+  },
+  "S234BE.Qiii5": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "DON'T KNOW"
+  },
+  "S234BE.Qiii6": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "DON'T KNOW"
+  },
+  "S234BE.Qiii7": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "DON'T KNOW"
+  },
+  "S234BE.Qiii8": {
+    "0.0": "OTHER PLACE",
+    "1.0": "EUROPEAN THEATER (BRITISH ISLES, FRANCE, GERMANY)",
+    "2.0": "MEDITERRANEAN THEATER (ITALY, NORTH AFRICA)",
+    "3.0": "ALASKA, ALEUTIANS",
+    "5.0": "I DID NOT SERVE OVERSEAS",
+    "NaN": "DATA NOT PROVIDED BY SURVEY ORGANIZATION. SEE QUESTION V.9F.",
+    "4.0": "PACIFIC THEATER (HAWAII, AUSTRALIA, PHILIPPINES, ETC.)",
+    "6.0": "NO ANSWER"
+  },
+  "S234BE.Viii9F": {
+    "0.0": "ORIGINAL SCORE OF 0",
+    "NaN": "CODES NOT PROVIDED BY SURVEY ORGANIZATION. DATA TRANSFERRED AS IS. \\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\",
+    "1.0": "ORIGINAL SCORE OF 1",
+    "2.0": "ORIGINAL SCORE OF 2",
+    "3.0": "ORIGINAL SCORE OF 3",
+    "4.0": "ORIGINAL SCORE OF 4",
+    "5.0": "ORIGINAL SCORE OF 5",
+    "6.0": "ORIGINAL SCORE OF 6",
+    "7.0": "ORIGINAL SCORE OF 7",
+    "8.0": "ORIGINAL SCORE OF 8",
+    "9.0": "ORIGINAL SCORE OF 9",
+    "10.0": "ORIGINAL SCORE OF X"
+  },
+  "S234BE.Qiiii1": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, SEVERAL TIMES",
+    "2.0": "YES, ONCE",
+    "3.0": "NO, NEVER"
+  },
+  "S234BE.Qiiii2": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, SEVERAL TIMES",
+    "2.0": "YES, ONCE",
+    "3.0": "NO, NEVER"
+  },
+  "S234BE.Qiiii3": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, SEVERAL TIMES",
+    "2.0": "YES, ONCE",
+    "3.0": "NO, NEVER",
+    "4.0": "I NEVER WAS A NON-COM"
+  },
+  "S234BE.Qiiii4": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, SEVERAL TIMES",
+    "2.0": "YES, ONCE",
+    "3.0": "NO, NEVER"
+  },
+  "S234BE.Qiiii5": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, SEVERAL TIMES",
+    "2.0": "YES, ONCE",
+    "3.0": "NO, NEVER"
+  },
+  "S234BE.Qiiii6": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NO ANSWER"
+  },
+  "S234BE.Viiii7": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "CHANUTE FIELD - ARMY AIR FORCES - STUDENT SQUADRON GROUND CREW",
+    "2.0": "CHANUTE FIELD - ARMY AIR FORCES - HEADQUARTERS UNIT (HOUSEKEEPING)",
+    "3.0": "CAMP CAMPBELL - ARMY GROUND FORCES - 5TH DIVISION",
+    "4.0": "CAMP CAMPBELL - ARMY SERVICE FORCES - 1580 SCU",
+    "5.0": "FT. KNOX - ARMY GROUND FORCES - ARMORED SCHOOL",
+    "6.0": "FT. KNOX - ARMY SERVICE FORCES - 1550 SCU",
+    "7.0": "CAMP LEE - ARMY SERVICE FORCES - ASFTC",
+    "8.0": "MITCHELL FIELD - ARMY AIR FORCES - X SECTION"
+  }
+}

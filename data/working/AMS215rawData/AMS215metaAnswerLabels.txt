@@ -1,0 +1,939 @@
+{
+  "S215.Q1": {
+    "0.0": "NO ANSWER",
+    "1.0": "PRIVATE",
+    "2.0": "PRIVATE FIRST CLASS",
+    "3.0": "NONCOM (CORPORAL OR ANY GRADE OF SERGEANT OR TECHNICIAN)",
+    "4.0": "SOME OTHER RANK OR GRADE"
+  },
+  "S215.Q2": {
+    "0.0": "NO ANSWER",
+    "1.0": "19 YEARS OR YOUNGER",
+    "2.0": "20 TO 24 YEARS",
+    "3.0": "25 TO 29 YEARS",
+    "4.0": "30 TO 34 YEARS",
+    "5.0": "35 YEARS OR OLDER"
+  },
+  "S215.Q3": {
+    "0.0": "NO ANSWER",
+    "NaN": "QUESTIONS 4A AND 4B CODED TOGETHER.",
+    "1.0": "LESS THAN 6TH GRADE",
+    "2.0": "FINISHED 6TH GRADE",
+    "3.0": "FINISHED 7TH GRADE",
+    "4.0": "FINISHED 8TH GRADE",
+    "5.0": "SOME HIGH SCHOOL BUT DID NOT FINISH",
+    "6.0": "GRADUATED FROM HIGH SCHOOL",
+    "7.0": "SOME COLLEGE BUT DID NOT FINISH",
+    "8.0": "GRADUATED FROM COLLEGE"
+  },
+  "S215.Q4A.x": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, I HAVE BEEN UNDER ENEMY FIRE, BUT NOT IN ACTUAL COMBAT",
+    "2.0": "YES, I HAVE BEEN IN ACTUAL COMBAT",
+    "3.0": "YES, NO ANSWER",
+    "4.0": "NO, HAVE NOT BEEN IN ACTUAL COMBAT IN THIS WAR",
+    "5.0": "NO, HAVE NOT SERVED OUTSIDE CONTINENTAL UNITED STATES"
+  },
+  "S215.Q5": {
+    "0.0": "NO ANSWER",
+    "1.0": "3 MONTHS OR LESS",
+    "2.0": "OVER 3 MONTHS UP TO 6 MONTHS",
+    "3.0": "OVER 6 MONTHS UP TO 9 MONTHS",
+    "4.0": "OVER 9 MONTHS UP TO 1 YEAR",
+    "5.0": "OVER 1 YEAR UP TO 2 YEARS",
+    "6.0": "OVER 2 YEARS UP TO 3 YEARS",
+    "7.0": "OVER 3 YEARS UP TO 4 YEARS",
+    "8.0": "OVER 4 YEARS"
+  },
+  "S215.Q6A": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT IS VERY GOOD",
+    "2.0": "IT IS FAIRLY GOOD",
+    "3.0": "IT IS NOT SO GOOD",
+    "4.0": "IT IS NOT GOOD AT ALL",
+    "5.0": "UNDECIDED"
+  },
+  "S215.Q6B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL STRONGLY",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "FAIRLY STRONGLY",
+    "4.0": "VERY STRONGLY"
+  },
+  "S215.Q7A": {
+    "0.0": "NO ANSWER",
+    "1.0": "I APPROVE VERY MUCH",
+    "2.0": "I APPROVE",
+    "3.0": "I DISAPPROVE",
+    "4.0": "I DISAPPROVE VERY MUCH",
+    "5.0": "UNDECIDED"
+  },
+  "S215.Q7B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL STRONGLY",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "FAIRLY STRONGLY",
+    "4.0": "VERY STRONGLY"
+  },
+  "S215.Q8A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, I THINK IT WILL BE CARRIED OUT THE WAY IT IS SUPPOSED TO BE",
+    "2.0": "NO, I DON'T THINK IT WILL BE CARRIED OUT THE WAY IT IS SUPPOSED TO BE",
+    "3.0": "UNDECIDED"
+  },
+  "S215.Q8B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL STRONGLY",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "FAIRLY STRONGLY",
+    "4.0": "VERY STRONGLY"
+  },
+  "S215.Q9A": {
+    "0.0": "NO ANSWER",
+    "1.0": "THE PLAN WILL GIVE ALMOST ALL MEN A SQUARE DEAL",
+    "2.0": "THE PLAN WILL GIVE MANY MEN A SQUARE DEAL, BUT NOT ALL",
+    "3.0": "THE PLAN WILL GIVE SOME MEN A SQUARE DEAL, BUT NOT VERY MANY",
+    "4.0": "THE PLAN WILL GIVE VERY FEW MEN A SQUARE DEAL",
+    "5.0": "UNDECIDED"
+  },
+  "S215.Q9B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL STRONGLY",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "FAIRLY STRONGLY",
+    "4.0": "VERY STRONGLY"
+  },
+  "S215.Q10A": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY SATISFIED",
+    "2.0": "SATISFIED",
+    "3.0": "DISSATISFIED",
+    "4.0": "VERY DISSATISFIED",
+    "5.0": "UNDECIDED"
+  },
+  "S215.Q10B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL STRONGLY",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "FAIRLY STRONGLY",
+    "4.0": "VERY STRONGLY"
+  },
+  "S215.Q11A": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT WAS A VERY GOOD IDEA",
+    "2.0": "IT WAS A FAIRLY GOOD IDEA",
+    "3.0": "IT WAS A PRETTY POOR IDEA",
+    "4.0": "IT WAS A VERY BAD IDEA",
+    "5.0": "UNDECIDED"
+  },
+  "S215.Q11B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL STRONGLY",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "FAIRLY STRONGLY",
+    "4.0": "VERY STRONGLY"
+  },
+  "S215.Q12A": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT IS THE BEST ONE THAT COULD HAVE BEEN USED",
+    "2.0": "IT IS AS GOOD AS ANY THAT COULD HAVE BEEN USED",
+    "3.0": "A SOMEWHAT BETTER ONE COULD HAVE BEEN USED",
+    "4.0": "A MUCH BETTER ONE COULD HAVE BEEN USED",
+    "5.0": "UNDECIDED"
+  },
+  "S215.Q12B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL STRONGLY",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "FAIRLY STRONGLY",
+    "4.0": "VERY STRONGLY"
+  },
+  "S215.Q13A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED"
+  },
+  "S215.Q13B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL STRONGLY",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "FAIRLY STRONGLY",
+    "4.0": "VERY STRONGLY"
+  },
+  "S215.Q14A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED"
+  },
+  "S215.Q14B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL STRONGLY",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "FAIRLY STRONGLY",
+    "4.0": "VERY STRONGLY"
+  },
+  "S215.Q15A": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY FAIR",
+    "2.0": "PRETTY FAIR",
+    "3.0": "NOT SO FAIR",
+    "4.0": "NOT AT ALL FAIR",
+    "5.0": "UNDECIDED"
+  },
+  "S215.Q15B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL STRONGLY",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "FAIRLY STRONGLY",
+    "4.0": "VERY STRONGLY"
+  },
+  "S215.Q16A": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALMOST ALL OF THEM WILL BE LET OUT",
+    "2.0": "MOST OF THEM WILL BE LET OUT",
+    "3.0": "ABOUT HALF OF THEM WILL BE LET OUT",
+    "4.0": "ONLY A FEW OF THEM WILL BE LET OUT",
+    "5.0": "ALMOST NONE OF THEM WILL BE LET OUT"
+  },
+  "S215.Q16B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL SURE",
+    "2.0": "NOT SO SURE",
+    "3.0": "FAIRLY SURE",
+    "4.0": "VERY SURE"
+  },
+  "S215.Q17A": {
+    "0.0": "NO ANSWER",
+    "1.0": "A VERY GOOD JOB",
+    "2.0": "A FAIRLY GOOD JOB",
+    "3.0": "A PRETTY POOR JOB",
+    "4.0": "A VERY BAD JOB",
+    "5.0": "UNDECIDED"
+  },
+  "S215.Q17B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL STRONGLY",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "FAIRLY STRONGLY",
+    "4.0": "VERY STRONGLY"
+  },
+  "S215.Q18A": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY SATISFIED",
+    "2.0": "SATISFIED",
+    "3.0": "DISSATISFIED",
+    "4.0": "VERY DISSATISFIED",
+    "5.0": "UNDECIDED"
+  },
+  "S215.Q18B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL STRONGLY",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "FAIRLY STRONGLY",
+    "4.0": "VERY STRONGLY"
+  },
+  "S215.Q19A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, IT IS TRYING ITS BEST",
+    "2.0": "IT IS TRYING SOME, BUT NOT HARD ENOUGH",
+    "3.0": "IT IS HARDLY TRYING AT ALL"
+  },
+  "S215.Q19B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL STRONGLY",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "FAIRLY STRONGLY",
+    "4.0": "VERY STRONGLY"
+  },
+  "S215.Q20": {
+    "1.0": "1 POINT",
+    "89.0": "89 POINTS",
+    "90.0": "90-99 POINTS",
+    "91.0": "100-109 POINTS",
+    "92.0": "110-119 POINTS",
+    "93.0": "120 POINTS AND OVER",
+    "94.0": "DON'T KNOW",
+    "99.0": "NO ANSWER"
+  },
+  "S215.Q21A": {
+    "0.0": "NO ANSWER",
+    "1.0": "I AM VERY WELL ADJUSTED",
+    "2.0": "I AM FAIRLY WELL ADJUSTED",
+    "3.0": "I AM NOT SO WELL ADJUSTED",
+    "4.0": "I AM VERY POORLY ADJUSTED"
+  },
+  "S215.Q21B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL STRONGLY",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "FAIRLY STRONGLY",
+    "4.0": "VERY STRONGLY"
+  },
+  "S215.Q22A": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH",
+    "2.0": "PRETTY MUCH",
+    "3.0": "NOT SO MUCH",
+    "4.0": "NOT AT ALL"
+  },
+  "S215.Q22B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL STRONGLY",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "FAIRLY STRONGLY",
+    "4.0": "VERY STRONGLY"
+  },
+  "S215.Q23A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, ALWAYS",
+    "2.0": "YES, USUALLY",
+    "3.0": "NO, NOT VERY OFTEN",
+    "4.0": "NO, ALMOST NEVER",
+    "5.0": "UNDECIDED"
+  },
+  "S215.Q23B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL STRONGLY",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "FAIRLY STRONGLY",
+    "4.0": "VERY STRONGLY"
+  },
+  "S215.Q24A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, I'M SURE THEY DO",
+    "2.0": "YES, I THINK THEY DO BUT I'M NOT SURE",
+    "3.0": "NO, I DON'T THINK THEY DO",
+    "4.0": "UNDECIDED"
+  },
+  "S215.Q24B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL STRONGLY",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "FAIRLY STRONGLY",
+    "4.0": "VERY STRONGLY"
+  },
+  "S215.Q25A": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY HIGH",
+    "2.0": "FAIRLY HIGH",
+    "3.0": "JUST SO-SO",
+    "4.0": "FAIRLY LOW",
+    "5.0": "VERY LOW"
+  },
+  "S215.Q25B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL STRONGLY",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "FAIRLY STRONGLY",
+    "4.0": "VERY STRONGLY"
+  },
+  "S215.Q26A": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT IS RUN ABOUT AS WELL AS POSSIBLE, EVERYTHING CONSIDERED",
+    "2.0": "IT COULD BE RUN SOMEWHAT BETTER",
+    "3.0": "IT COULD BE RUN A LOT BETTER"
+  },
+  "S215.Q26B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL STRONGLY",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "FAIRLY STRONGLY",
+    "4.0": "VERY STRONGLY"
+  },
+  "S215.Q27A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, TOO MANY OF THEM SEEM UNNECESSARY",
+    "2.0": "NO, NOT TOO MANY OF THEM SEEM UNNECESSARY",
+    "3.0": "NO ANSWER"
+  },
+  "S215.Q27B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL STRONGLY",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "FAIRLY STRONGLY",
+    "4.0": "VERY STRONGLY"
+  },
+  "S215.Q28A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, IT HAS TRIED ITS BEST",
+    "2.0": "IT HAS TRIED SOME BUT NOT HARD ENOUGH",
+    "3.0": "IT HAS HARDLY TRIED AT ALL"
+  },
+  "S215.Q28B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL STRONGLY",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "FAIRLY STRONGLY",
+    "4.0": "VERY STRONGLY"
+  },
+  "S215.Q29A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, IN MOST WAYS I HAVE",
+    "2.0": "IN SOME WAYS, YES, IN OTHER WAYS, NO",
+    "3.0": "NO, ON THE WHOLE I HAVEN'T GOTTEN A SQUARE DEAL"
+  },
+  "S215.Q29B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT STRONGLY AT ALL",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "FAIRLY STRONGLY",
+    "4.0": "VERY STRONGLY"
+  },
+  "S215.Q30A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, IT IS TRYING ITS BEST",
+    "2.0": "IT IS TRYING SOME, BUT NOT HARD ENOUGH",
+    "3.0": "IT IS HARDLY TRYING AT ALL"
+  },
+  "S215.Q30B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL STRONGLY",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "FAIRLY STRONGLY",
+    "4.0": "VERY STRONGLY"
+  },
+  "S215.Q31A": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH",
+    "2.0": "PRETTY MUCH",
+    "3.0": "NOT SO MUCH",
+    "4.0": "NOT AT ALL"
+  },
+  "S215.Q31B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL STRONGLY",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "FAIRLY STRONGLY",
+    "4.0": "VERY STRONGLY"
+  },
+  "S215.Q32A": {
+    "0.0": "NO ANSWER",
+    "1.0": "THERE'S A LOT TO IT",
+    "2.0": "THERE MAY BE SOMETHING TO IT, BUT I'M STILL DOUBTFUL",
+    "3.0": "THERE IS NOT MUCH TO IT",
+    "4.0": "NO OPINION"
+  },
+  "S215.Q32B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "NOT AT ALL STRONGLY",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "FAIRLY STRONGLY",
+    "4.0": "VERY STRONGLY",
+    "5.0": "NO ANSWER"
+  },
+  "S215.Q33A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, IT IS TRYING ITS BEST",
+    "2.0": "IT IS TRYING SOME, BUT NOT HARD ENOUGH",
+    "3.0": "IT IS HARDLY TRYING AT ALL"
+  },
+  "S215.Q33B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL STRONGLY",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "FAIRLY STRONGLY",
+    "4.0": "VERY STRONGLY"
+  },
+  "S215.Q34A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, IT IS TRYING ITS BEST",
+    "2.0": "IT IS TRYING SOME, BUT NOT HARD ENOUGH",
+    "3.0": "IT IS HARDLY TRYING AT ALL"
+  },
+  "S215.Q34B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL STRONGLY",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "FAIRLY STRONGLY",
+    "4.0": "VERY STRONGLY"
+  },
+  "S215.Q35A": {
+    "0.0": "NO ANSWER",
+    "1.0": "A VERY GOOD CHANCE",
+    "2.0": "A FAIRLY GOOD CHANCE",
+    "3.0": "NOT MUCH OF A CHANCE",
+    "4.0": "NO CHANCE AT ALL",
+    "5.0": "UNDECIDED"
+  },
+  "S215.Q35B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL STRONGLY",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "FAIRLY STRONGLY",
+    "4.0": "VERY STRONGLY"
+  },
+  "S215.Q36A": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT IS RUN VERY WELL",
+    "2.0": "IT IS RUN PRETTY WELL",
+    "3.0": "IT IS NOT RUN SO WELL",
+    "4.0": "IT IS RUN VERY POORLY",
+    "5.0": "UNDECIDED"
+  },
+  "S215.Q36B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL STRONGLY",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "FAIRLY STRONGLY",
+    "4.0": "VERY STRONGLY"
+  },
+  "S215.Q37A": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY FAVORABLE",
+    "2.0": "FAIRLY FAVORABLE",
+    "3.0": "ABOUT 50-50",
+    "4.0": "FAIRLY UNFAVORABLE",
+    "5.0": "VERY UNFAVORABLE"
+  },
+  "S215.Q37B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL STRONGLY",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "FAIRLY STRONGLY",
+    "4.0": "VERY STRONGLY"
+  },
+  "S215.Q38A": {
+    "0.0": "NO ANSWER",
+    "2.0": "NO",
+    "NaN": "COL. 80 NOT USED. CARD 2",
+    "1.0": "YES",
+    "3.0": "UNDECIDED"
+  },
+  "S215.Q38B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY HARD",
+    "2.0": "FAIRLY HARD",
+    "3.0": "NOT SO HARD",
+    "4.0": "NOT HARD AT ALL"
+  },
+  "S215.Q39A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, OFTEN",
+    "2.0": "YES, SOMETIMES",
+    "3.0": "NO, NEVER"
+  },
+  "S215.Q39B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY HARD",
+    "2.0": "FAIRLY HARD",
+    "3.0": "NOT SO HARD",
+    "4.0": "NOT HARD AT ALL"
+  },
+  "S215.Q40A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, OFTEN",
+    "2.0": "YES, SOMETIMES",
+    "3.0": "NO, NEVER",
+    "4.0": "NO ANSWER"
+  },
+  "S215.Q40B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY HARD",
+    "2.0": "FAIRLY HARD",
+    "3.0": "NOT SO HARD",
+    "4.0": "NOT HARD AT ALL"
+  },
+  "S215.Q41A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, MANY TIMES",
+    "2.0": "YES, A FEW TIMES",
+    "3.0": "NO, NEVER",
+    "4.0": "NO ANSWER"
+  },
+  "S215.Q41B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY HARD",
+    "2.0": "FAIRLY HARD",
+    "3.0": "NOT SO HARD",
+    "4.0": "NOT HARD AT ALL"
+  },
+  "S215.Q42A": {
+    "0.0": "NO ANSWER",
+    "1.0": "NEARLY ALL THE TIME",
+    "2.0": "PRETTY OFTEN",
+    "3.0": "NOT VERY OFTEN",
+    "4.0": "NEVER"
+  },
+  "S215.Q42B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY HARD",
+    "2.0": "FAIRLY HARD",
+    "3.0": "NOT SO HARD",
+    "4.0": "NOT HARD AT ALL"
+  },
+  "S215.Q43A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, OFTEN",
+    "2.0": "YES, A FEW TIMES",
+    "3.0": "NO, NEVER",
+    "4.0": "NO ANSWER"
+  },
+  "S215.Q43B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY HARD",
+    "2.0": "FAIRLY HARD",
+    "3.0": "NOT SO HARD",
+    "4.0": "NOT HARD AT ALL"
+  },
+  "S215.Q44A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, SEVERAL TIMES",
+    "2.0": "YES, A FEW TIMES",
+    "3.0": "NEVER HAD ANY"
+  },
+  "S215.Q44B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY HARD",
+    "2.0": "FAIRLY HARD",
+    "3.0": "NOT SO HARD",
+    "4.0": "NOT HARD AT ALL"
+  },
+  "S215.Q45A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, OFTEN",
+    "2.0": "YES, A FEW TIMES",
+    "3.0": "NO, NEVER"
+  },
+  "S215.Q45B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY HARD",
+    "2.0": "FAIRLY HARD",
+    "3.0": "NOT SO HARD",
+    "4.0": "NOT HARD AT ALL"
+  },
+  "S215.Q46A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, OFTEN",
+    "2.0": "YES, SOMETIMES",
+    "3.0": "NO, NEVER"
+  },
+  "S215.Q46B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY HARD",
+    "2.0": "FAIRLY HARD",
+    "3.0": "NOT SO HARD",
+    "4.0": "NOT HARD AT ALL"
+  },
+  "S215.Q47A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, MANY TIMES",
+    "2.0": "YES, A FEW TIMES",
+    "3.0": "NO, NEVER"
+  },
+  "S215.Q47B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY HARD",
+    "2.0": "FAIRLY HARD",
+    "3.0": "NOT SO HARD",
+    "4.0": "NOT HARD AT ALL"
+  },
+  "S215.Q48A": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ALMOST NEVER"
+  },
+  "S215.Q48B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY HARD",
+    "2.0": "FAIRLY HARD",
+    "3.0": "NOT SO HARD",
+    "4.0": "NOT HARD AT ALL"
+  },
+  "S215.Q49A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, OFTEN",
+    "2.0": "YES, SOMETIMES",
+    "3.0": "NO, NEVER"
+  },
+  "S215.Q49B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY HARD",
+    "2.0": "FAIRLY HARD",
+    "3.0": "NOT SO HARD",
+    "4.0": "NOT HARD AT ALL"
+  },
+  "S215.Q50A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, OFTEN",
+    "2.0": "YES, SOMETIMES",
+    "3.0": "NO, NEVER"
+  },
+  "S215.Q50B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY HARD",
+    "2.0": "FAIRLY HARD",
+    "3.0": "NOT SO HARD",
+    "4.0": "NOT HARD AT ALL"
+  },
+  "S215.Q51A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, OFTEN",
+    "2.0": "YES, SOMETIMES",
+    "3.0": "NO, NEVER"
+  },
+  "S215.Q51B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY HARD",
+    "2.0": "FAIRLY HARD",
+    "3.0": "NOT SO HARD",
+    "4.0": "NOT HARD AT ALL"
+  },
+  "S215.Q52A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, OFTEN",
+    "2.0": "YES, SOMETIMES",
+    "3.0": "NO, NEVER"
+  },
+  "S215.Q52B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY HARD",
+    "2.0": "FAIRLY HARD",
+    "3.0": "NOT SO HARD",
+    "4.0": "NOT HARD AT ALL"
+  },
+  "S215.Q53A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "SHE CAN DO MUCH MORE IN WAR INDUSTRY",
+    "2.0": "SHE CAN DO SOMEWHAT MORE IN WAR INDUSTRY",
+    "3.0": "SHE CAN DO SOMEWHAT MORE IN THE WAC",
+    "4.0": "SHE CAN DO MUCH MORE IN THE WAC",
+    "5.0": "UNDECIDED",
+    "6.0": "NO ANSWER"
+  },
+  "S215.Q53B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "NOT SURE AT ALL",
+    "2.0": "NOT SO SURE",
+    "3.0": "FAIRLY SURE",
+    "4.0": "VERY SURE",
+    "5.0": "NO ANSWER"
+  },
+  "S215.Q54A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "NO USE AT ALL",
+    "2.0": "SOME USE, BUT NOT MUCH",
+    "3.0": "FAIRLY USEFUL",
+    "4.0": "VERY USEFUL",
+    "5.0": "UNDECIDED",
+    "6.0": "NO ANSWER"
+  },
+  "S215.Q54B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "NOT SURE AT ALL",
+    "2.0": "NOT SO SURE",
+    "3.0": "FAIRLY SURE",
+    "4.0": "VERY SURE",
+    "5.0": "NO ANSWER"
+  },
+  "S215.Q55A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ALL OF THEM ARE",
+    "2.0": "MOST OF THEM ARE",
+    "3.0": "ABOUT HALF OF THEM ARE",
+    "4.0": "FEW OF THEM ARE",
+    "5.0": "NONE OF THEM ARE",
+    "6.0": "NO ANSWER"
+  },
+  "S215.Q55B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "NOT SURE AT ALL",
+    "2.0": "NOT SO SURE",
+    "3.0": "FAIRLY SURE",
+    "4.0": "VERY SURE",
+    "5.0": "NO ANSWER"
+  },
+  "S215.Q56A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "IT IS VERY GOOD",
+    "2.0": "IT IS FAIRLY GOOD",
+    "3.0": "IT MAKES NO DIFFERENCE",
+    "4.0": "IT IS PRETTY BAD",
+    "5.0": "IT IS VERY BAD",
+    "6.0": "NO ANSWER"
+  },
+  "S215.Q56B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "NOT SURE AT ALL",
+    "2.0": "NOT SO SURE",
+    "3.0": "FAIRLY SURE",
+    "4.0": "VERY SURE",
+    "5.0": "NO ANSWER"
+  },
+  "S215.Q57A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "THE WAC IS A VERY GOOD PLACE FOR A GIRL TO BE",
+    "2.0": "THE WAC IS A FAIRLY GOOD PLACE FOR A GIRL TO BE",
+    "3.0": "THE WAC IS NO PLACE FOR A GIRL TO BE",
+    "4.0": "UNDECIDED",
+    "5.0": "NO ANSWER"
+  },
+  "S215.Q57B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "NOT SURE AT ALL",
+    "2.0": "NOT SO SURE",
+    "3.0": "FAIRLY SURE",
+    "4.0": "VERY SURE",
+    "5.0": "NO ANSWER"
+  },
+  "S215.Q58A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, THEY DEFINITELY DESERVE TO BE SALUTED",
+    "2.0": "YES, THEY PROBABLY DESERVE TO BE SALUTED",
+    "3.0": "NO, THEY PROBABLY DO NOT DESERVE TO BE SALUTED",
+    "4.0": "NO, THEY DEFINITELY DO NOT DESERVE TO BE SALUTED",
+    "5.0": "UNDECIDED",
+    "6.0": "NO ANSWER"
+  },
+  "S215.Q58B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "NOT SURE AT ALL",
+    "2.0": "NOT SO SURE",
+    "3.0": "FAIRLY SURE",
+    "4.0": "VERY SURE",
+    "5.0": "NO ANSWER"
+  },
+  "S215.Q59A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, I'M ALMOST SURE I WOULD",
+    "2.0": "YES, I THINK I WOULD, BUT I'M NOT SURE",
+    "3.0": "NO, I PROBABLY WOULD NOT",
+    "4.0": "NO, I'M SURE I WOULD NOT",
+    "5.0": "UNDECIDED"
+  },
+  "S215.Q59B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL STRONGLY",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "ABOUT AVERAGE",
+    "4.0": "FAIRLY STRONGLY",
+    "5.0": "VERY STRONGLY"
+  },
+  "S215.Q60A": {
+    "0.0": "NO ANSWER",
+    "1.0": "DRAFT ALL YOUNG MEN FOR A CERTAIN AMOUNT OF TRAINING",
+    "2.0": "GO BACK TO TAKING VOLUNTEERS ONLY",
+    "3.0": "UNDECIDED"
+  },
+  "S215.Q60B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "NOT AT ALL STRONGLY",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "ABOUT AVERAGE",
+    "4.0": "FAIRLY STRONGLY",
+    "5.0": "VERY STRONGLY",
+    "6.0": "NO ANSWER"
+  },
+  "S215.Q61A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, I'M ALMOST SURE IT COULD",
+    "2.0": "YES, I THINK IT COULD, BUT I'M NOT SURE",
+    "3.0": "NO, IT PROBABLY COULD NOT",
+    "4.0": "NO, I'M SURE IT COULD NOT",
+    "5.0": "NO ANSWER"
+  },
+  "S215.Q61B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL STRONGLY",
+    "2.0": "NOT SO STRONGLY",
+    "3.0": "ABOUT AVERAGE",
+    "4.0": "FAIRLY STRONGLY",
+    "5.0": "VERY STRONGLY"
+  },
+  "S215.Q62A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, I'M ALMOST SURE I WOULD",
+    "2.0": "YES, I THINK I WOULD, BUT I'M NOT SURE",
+    "3.0": "NO, I PROBABLY WOULD NOT",
+    "4.0": "NO, I'M SURE I WOULD NOT",
+    "5.0": "UNDECIDED"
+  },
+  "S215.Q62B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY HARD",
+    "2.0": "FAIRLY HARD",
+    "3.0": "NOT SO HARD",
+    "4.0": "NOT HARD AT ALL",
+    "5.0": "NO ANSWER"
+  },
+  "S215.Q63A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "STRONGLY AGREE",
+    "2.0": "AGREE",
+    "3.0": "DISAGREE",
+    "4.0": "STRONGLY DISAGREE",
+    "5.0": "UNDECIDED",
+    "6.0": "NO ANSWER"
+  },
+  "S215.Q63B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY HARD",
+    "2.0": "FAIRLY HARD",
+    "3.0": "NOT SO HARD",
+    "4.0": "NOT HARD AT ALL",
+    "5.0": "NO ANSWER"
+  },
+  "S215.Q64A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "STRONGLY AGREE",
+    "2.0": "AGREE",
+    "3.0": "DISAGREE",
+    "4.0": "STRONGLY DISAGREE",
+    "5.0": "UNDECIDED",
+    "6.0": "NO ANSWER"
+  },
+  "S215.Q64B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY HARD",
+    "2.0": "FAIRLY HARD",
+    "3.0": "NOT SO HARD",
+    "4.0": "NOT HARD AT ALL"
+  },
+  "S215.V66": {
+    "1.0": "ORIGINAL SCORE OF 1",
+    "NaN": "CODES NOT PROVIDED BY SURVEY ORGANIZATION. DATA TRANSFERRED AS IS.",
+    "2.0": "ORIGINAL SCORE OF 2",
+    "3.0": "ORIGINAL SCORE OF 3",
+    "4.0": "ORIGINAL SCORE OF 4",
+    "5.0": "ORIGINAL SCORE OF 5",
+    "6.0": "ORIGINAL SCORE OF 6",
+    "7.0": "ORIGINAL SCORE OF 7",
+    "8.0": "ORIGINAL SCORE OF 8",
+    "9.0": "ORIGINAL SCORE OF 9",
+    "10.0": "ORIGINAL SCORE OF 0",
+    "11.0": "ORIGINAL SCORE OF X"
+  },
+  "S215.V67": {
+    "0.0": "SCORE NOT TABULATED",
+    "NaN": "CODES NOT PROVIDED BY SURVEY ORGANIZATION. DATA TRANSFERRED AS IS.",
+    "1.0": "ORIGINAL SCORE OF 1",
+    "2.0": "ORIGINAL SCORE OF 2",
+    "3.0": "ORIGINAL SCORE OF 3",
+    "4.0": "ORIGINAL SCORE OF 4",
+    "5.0": "ORIGINAL SCORE OF 5",
+    "6.0": "ORIGINAL SCORE OF 6",
+    "7.0": "ORIGINAL SCORE OF 7",
+    "8.0": "ORIGINAL SCORE OF 8",
+    "9.0": "ORIGINAL SCORE OF 9",
+    "10.0": "ORIGINAL SCORE OF 0",
+    "11.0": "ORIGINAL SCORE OF X",
+    "12.0": "ORIGINAL SCORE OF V"
+  },
+  "S215.V68": {
+    "1.0": "ORIGINAL SCORE OF 1",
+    "2.0": "ORIGINAL SCORE OF 2",
+    "3.0": "ORIGINAL SCORE OF 3",
+    "4.0": "ORIGINAL SCORE OF 4",
+    "5.0": "ORIGINAL SCORE OF 5",
+    "6.0": "ORIGINAL SCORE OF 6",
+    "NaN": "CODES NOT PROVIDED BY SURVEY ORGANIZATION. DATA TRANSFERRED AS IS.",
+    "7.0": "ORIGINAL SCORE OF 7",
+    "8.0": "ORIGINAL SCORE OF 8",
+    "9.0": "ORIGINAL SCORE OF 9",
+    "10.0": "ORIGINAL SCORE OF 0",
+    "11.0": "ORIGINAL SCORE OF X",
+    "12.0": "ORIGINAL SCORE OF V"
+  }
+}

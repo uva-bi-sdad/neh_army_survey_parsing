@@ -13,7 +13,6 @@ parse_questions_and_answers <- function(codebook_file_path, answer_file_path) {
   readr::write_lines(codebook_file_path, "logs/log", append = TRUE)
   # # SET STUDY FOLDER
   # study_folder <- study_folder_path
-  #browser()
   # CREATE SESSION VARIABLES
   set_session_variables(codebook_file_path)
   # IMPORT CODEBOOK
@@ -30,11 +29,13 @@ parse_questions_and_answers <- function(codebook_file_path, answer_file_path) {
   # EXTRACT QUESTIONS
   print("extract questions")
   questions <- extract_questions(codebook_lines)
+  #browser()
+  # EXTRACT SURVEY NUMBER (ID)
+  sc_start_end <- extract_survey_number(codebook_lines)
   # CHECK FOR JOINED QUESTIONS
   print("fix combined questions")
   questions <- fix_coded_together(instructions, questions)
   # FIX QUESTION ODDITIES
-  #browser()
   print("fix question oddities")
   questions <- fix_oddities(questions)
   # REFORMAT QUESTION NUMBERS
@@ -43,13 +44,15 @@ parse_questions_and_answers <- function(codebook_file_path, answer_file_path) {
   # PARSE TO QUESTIONS AND OPTIONS
   print("parse questions")
   questions <- parse_questions(questions)
+  # REPLACE CONTINUED QUESTIONS TEXT
+  questions <- replace_continued(questions)
   # EXTRACT QUESTION COLUMN WIDTHS
   print("extract column widths")
   colwidths <- extract_answer_column_widths(codebook_lines)
   # TEST QUESTION EXTRACTION OUTPUT
   if (nrow(questions) != length(colwidths)) stop("NUMBER OF QUESTIONS DOES NOT MATCH NUMBER OF COLUMNS!")
   # CREATE ONE ROW PER RESPONDENT
-  singlerows <- create_one_row_respondent(answerlines)
+  singlerows <- create_one_row_respondent(answerlines, sc_start_end[1], sc_start_end[2])
   write.table(singlerows, file = "data/working/temp.fwf", row.names = F, col.names = F, quote = F)
   # PARSE EACH ANSWER ROW WITH COLWIDTHS
   print("parse answers with col widths")
@@ -70,6 +73,6 @@ for (i in 1:nrow(qs_n_as)) {
   parse_questions_and_answers(qs_n_as[i, codebook_file], qs_n_as[i, answer_file])
 }
 
-parse_questions_and_answers(qs_n_as[answer_file %like% "76"][1]$codebook_file, qs_n_as[answer_file %like% "76"][1]$answer_file)
+# parse_questions_and_answers(qs_n_as[answer_file %like% "040E"][1]$codebook_file, qs_n_as[answer_file %like% "040E"][1]$answer_file)
 
 

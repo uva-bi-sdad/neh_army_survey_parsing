@@ -1,0 +1,680 @@
+{
+  "S142.Q1": {
+    "0.0": "NO ANSWER",
+    "1.0": "MAJOR",
+    "2.0": "CAPTAIN",
+    "3.0": "1ST LIEUTENANT",
+    "4.0": "2ND LIEUTENANT",
+    "5.0": "FLIGHT OFFICER"
+  },
+  "S142.Q2A": {
+    "0.0": "NO ANSWER",
+    "1.0": "AUGUST, 1943 OR EARLIER",
+    "2.0": "SEPTEMBER, OCTOBER, 1943",
+    "3.0": "NOVEMBER, 1943",
+    "4.0": "DECEMBER, 1943",
+    "5.0": "JANUARY, 1944",
+    "6.0": "FEBRUARY, 1944",
+    "7.0": "MARCH, 1944",
+    "8.0": "APRIL, 1944",
+    "9.0": "MAY 1-15, 1944",
+    "10.0": "MAY 16-31, 1944",
+    "11.0": "JUNE, 1944"
+  },
+  "S142.Q2B": {
+    "0.0": "NO ANSWER",
+    "1.0": "AUGUST, 1943 OR EARLIER",
+    "2.0": "SEPTEMBER, OCTOBER, 1943",
+    "3.0": "NOVEMBER, 1943",
+    "4.0": "DECEMBER, 1943",
+    "5.0": "JANUARY, 1944",
+    "6.0": "FEBRUARY, 1944",
+    "7.0": "MARCH, 1944",
+    "8.0": "APRIL, 1944",
+    "9.0": "MAY 1-15, 1944",
+    "10.0": "MAY 16-31, 1944",
+    "11.0": "JUNE, 1944"
+  },
+  "S142.Q3": {
+    "0.0": "NO ANSWER",
+    "1.0": "18 YEARS OR LESS",
+    "2.0": "19 YEARS",
+    "3.0": "20",
+    "4.0": "21",
+    "5.0": "22",
+    "6.0": "23",
+    "7.0": "24",
+    "8.0": "25",
+    "9.0": "26-29 YEARS",
+    "10.0": "30-34 YEARS",
+    "11.0": "35 YEARS AND OVER"
+  },
+  "S142.Q4": {
+    "0.0": "NO ANSWER",
+    "1.0": "BETTER SATISFIED THAN I WOULD BE WITH ANY OTHER COMBAT FLYING ASSIGNMENT",
+    "2.0": "AS WELL SATISFIED AS I WOULD BE WITH ANY OTHER",
+    "3.0": "WOULD BE BETTER SATISFIED IN SOME OTHER TYPE OF COMBAT FLYING ASSIGNMENT"
+  },
+  "S142.Q5A": {
+    "0.0": "NO CODE OR NO DATA",
+    "4.0": "4 HOURS",
+    "480.0": "480 HOURS",
+    "889.0": "NO ANSWER"
+  },
+  "S142.Q5B.1": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "1 MISSION COMPLETED",
+    "89.0": "NO ANSWER",
+    "99.0": "99 OR MORE MISSIONS COMPLETED"
+  },
+  "S142.Q5B.2": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONE MISSION ABORTED 97",
+    "2.0": "TWO 62",
+    "3.0": "THREE 37",
+    "4.0": "FOUR 35",
+    "5.0": "FIVE 19",
+    "6.0": "SIX 12",
+    "7.0": "SEVEN 9",
+    "8.0": "EIGHT 1",
+    "9.0": "NINE 11",
+    "10.0": "TEN OR MORE MISSIONS ABORTED 180",
+    "11.0": "NONE 38"
+  },
+  "S142.Q5C": {
+    "0.0": "NO CODE OR MORE DATA",
+    "1.0": "1 HOUR",
+    "89.0": "NO ANSWER",
+    "99.0": "99 OR MORE HOURS"
+  },
+  "S142.Q6": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, I'M PRETTY SURE I WOULD",
+    "2.0": "YES, I THINK I WOULD, BUT I'M NOT SURE",
+    "3.0": "NO, I DON'T THINK I WOULD",
+    "4.0": "NO, I'M SURE I WOULD NOT",
+    "5.0": "NO ANSWER"
+  },
+  "S142.Q7": {
+    "0.0": "NO ANSWER",
+    "1.0": "AT THAT TIME WANTED TO BE ASSIGNED TO FIGHTERS",
+    "2.0": "DIDN'T CARE MUCH ONE WAY OR THE OTHER",
+    "3.0": "WANTED SOME OTHER ASSIGNMENT"
+  },
+  "S142.Q8A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED"
+  },
+  "S142.Q8B": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED"
+  },
+  "S142.Q9": {
+    "0.0": "NO ANSWER",
+    "1.0": "A VERY IMPORTANT PART",
+    "2.0": "A FAIRLY IMPORTANT PART",
+    "3.0": "NOT A VERY IMPORTANT PART",
+    "4.0": "NOT IMPORTANT AT ALL"
+  },
+  "S142.Q10A": {
+    "1.0": "I FEEL THAT THEY ARE VERY MUCH AWARE OF OUR NEEDS",
+    "2.0": "I FEEL THAT THEY ARE FAIRLY WELL AWARE OF OUR NEEDS",
+    "4.0": "NO ANSWER",
+    "NaN": "QUESTIONS 10B AND 10C NOT CODED.",
+    "0.0": "NO CODE OR NO DATA",
+    "3.0": "I FEEL THAT THEY DON'T KNOW VERY MUCH ABOUT OUR REAL PROBLEMS AND NEEDS"
+  },
+  "S142.Q11A": {
+    "0.0": "NO CHECKS OR RATINGS, OR ELSE 3 CHECKS OR RATINGS ALL THE SAME",
+    "1.0": "P38 P47 P51 OR P38 P47 P51",
+    "2.0": "P38 P51 P47 OR P38 P51 P47",
+    "3.0": "P47 P38 P51 OR P47 P38 P51",
+    "4.0": "P47 P51 P38 OR P47 P51 P38",
+    "5.0": "P51 P38 P47 OR P51 P38 P47",
+    "6.0": "P51 P47 P38 OR P51 P47 P38",
+    "7.0": "ONLY P38 CHECKED",
+    "8.0": "ONLY P47 CHECKED",
+    "9.0": "ONLY P51 CHECKED",
+    "10.0": "GIVES TWO PLANES A \"1\" RATING, OR CHECKS TWO PLANES WITHOUT RATING"
+  },
+  "S142.Q11B": {
+    "0.0": "NO CHECKS OR RATINGS, OR ELSE 3 CHECKS OR RATINGS ALL THE SAME",
+    "1.0": "P38 P47 P51 OR P38 P47 P51",
+    "2.0": "P38 P51 P47 OR P38 P51 P47",
+    "3.0": "P47 P38 P51 OR P47 P38 P51",
+    "4.0": "P47 P51 P38 OR P47 P51 P38",
+    "5.0": "P51 P38 P47 OR P51 P38 P47",
+    "6.0": "P51 P47 P38 OR P51 P47 P38",
+    "7.0": "ONLY P38 CHECKED",
+    "8.0": "ONLY P47 CHECKED",
+    "9.0": "ONLY P51 CHECKED",
+    "10.0": "GIVES TWO PLANES A \"1\" RATING, OR CHECKS TWO PLANES WITHOUT RATING"
+  },
+  "S142.Q11C": {
+    "0.0": "NO CHECKS OR RATINGS, OR ELSE 3 CHECKS OR RATINGS ALL THE SAME",
+    "1.0": "P38 P47 P51 OR P38 P47 P51",
+    "2.0": "P38 P51 P47 OR P38 P51 P47",
+    "3.0": "P47 P38 P51 OR P47 P38 P51",
+    "4.0": "P47 P51 P38 OR P47 P51 P38",
+    "5.0": "P51 P38 P47 OR P51 P38 P47",
+    "6.0": "P51 P47 P38 OR P51 P47 P38",
+    "7.0": "ONLY P38 CHECKED",
+    "8.0": "ONLY P47 CHECKED",
+    "9.0": "ONLY P51 CHECKED",
+    "10.0": "GIVES TWO PLANES A \"1\" RATING, OR CHECKS TWO PLANES WITHOUT RATING"
+  },
+  "S142.Q11D": {
+    "0.0": "NO CHECKS OR RATINGS, OR ELSE 3 CHECKS OR RATINGS ALL THE SAME",
+    "1.0": "P38 P47 P51 OR P38 P47 P51",
+    "2.0": "P38 P51 P47 OR P38 P51 P47",
+    "3.0": "P47 P38 P51 OR P47 P38 P51",
+    "4.0": "P47 P51 P38 OR P47 P51 P38",
+    "5.0": "P51 P38 P47 OR P51 P38 P47",
+    "6.0": "P51 P47 P38 OR P51 P47 P38",
+    "7.0": "ONLY P38 CHECKED",
+    "8.0": "ONLY P47 CHECKED",
+    "9.0": "ONLY P51 CHECKED",
+    "10.0": "GIVES TWO PLANES A \"1\" RATING, OR CHECKS TWO PLANES WITHOUT RATING"
+  },
+  "S142.Q11E": {
+    "0.0": "NO CHECKS OR RATINGS, OR ELSE 3 CHECKS OR RATINGS ALL THE SAME",
+    "1.0": "P38 P47 P51 OR P38 P47 P51",
+    "2.0": "P38 P51 P47 OR P38 P51 P47",
+    "3.0": "P47 P38 P51 OR P47 P38 P51",
+    "4.0": "P47 P51 P38 OR P47 P51 P38",
+    "5.0": "P51 P38 P47 OR P51 P38 P47",
+    "6.0": "P51 P47 P38 OR P51 P47 P38",
+    "7.0": "ONLY P38 CHECKED",
+    "8.0": "ONLY P47 CHECKED",
+    "9.0": "ONLY P51 CHECKED",
+    "10.0": "GIVES TWO PLANES A \"1\" RATING, OR CHECKS TWO PLANES WITHOUT RATING"
+  },
+  "S142.Q12": {
+    "0.0": "NO ANSWER",
+    "1.0": "P-38",
+    "2.0": "P-47",
+    "3.0": "P-51",
+    "4.0": "P-38 AND P-47",
+    "5.0": "P-38 AND P-51",
+    "6.0": "P-47 AND P-51",
+    "7.0": "UNDECIDED"
+  },
+  "S142.Q13A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "P-38",
+    "2.0": "P-47",
+    "3.0": "P-51",
+    "4.0": "NO ANSWER"
+  },
+  "S142.Q13B": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN 25 HOURS",
+    "2.0": "25-49 HOURS",
+    "3.0": "50-74",
+    "4.0": "75-99",
+    "5.0": "100-124",
+    "6.0": "125-149",
+    "7.0": "150-174",
+    "8.0": "175-199",
+    "9.0": "200-224 HOURS",
+    "10.0": "225 OR MORE HOURS"
+  },
+  "S142.Q14A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NO ANSWER"
+  },
+  "S142.Q14B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NO ANSWER"
+  },
+  "S142.Q15A.1": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONE MISSION",
+    "2.0": "TWO",
+    "3.0": "THREE",
+    "4.0": "FOUR",
+    "5.0": "FIVE",
+    "6.0": "SIX",
+    "7.0": "SEVEN",
+    "8.0": "EIGHT MISSIONS",
+    "9.0": "NINE OR MORE MISSIONS"
+  },
+  "S142.Q15A.2": {
+    "NaN": "ANSWER",
+    "2.0": "2 HOURS . . .",
+    "80.0": "80 HOURS"
+  },
+  "S142.Q15B": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONE DAY",
+    "2.0": "TWO",
+    "3.0": "THREE",
+    "4.0": "FOUR",
+    "5.0": "FIVE",
+    "6.0": "SIX",
+    "7.0": "SEVEN",
+    "8.0": "EIGHT",
+    "9.0": "NINE DAYS",
+    "10.0": "TEN OR MORE DAYS"
+  },
+  "S142.Q16A.1": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONE MISSION",
+    "2.0": "TWO",
+    "3.0": "THREE",
+    "4.0": "FOUR",
+    "5.0": "FIVE",
+    "6.0": "SIX",
+    "7.0": "SEVEN",
+    "8.0": "EIGHT",
+    "9.0": "NINE",
+    "10.0": "TEN MISSIONS",
+    "11.0": "ELEVEN OR MORE MISSIONS"
+  },
+  "S142.Q16A.2": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "1 HOUR",
+    "80.0": "80 HOURS",
+    "89.0": "NO ANSWER"
+  },
+  "S142.Q16B.1": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ONE MISSION",
+    "2.0": "TWO",
+    "3.0": "THREE",
+    "4.0": "FOUR",
+    "5.0": "FIVE",
+    "6.0": "SIX",
+    "7.0": "SEVEN",
+    "8.0": "EIGHT",
+    "9.0": "NINE MISSIONS",
+    "10.0": "NO ANSWER"
+  },
+  "S142.Q16B.2": {
+    "NaN": "ANSWER",
+    "0.0": "NO CODE OR NO DATA",
+    "2.0": "2 HOURS . . .",
+    "90.0": "90 HOURS"
+  },
+  "S142.Q17": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ON THE WHOLE THEY ARE LESS DIFFICULT NOW THAN THEY WERE",
+    "2.0": "THEY ARE ABOUT THE SAME AS THEY WERE",
+    "3.0": "ON THE WHOLE THEY ARE MORE DIFFICULT NOW THAN THEY WERE",
+    "4.0": "HAVEN'T BEEN FLYING LONG ENOUGH TO SAY",
+    "5.0": "NO ANSWER"
+  },
+  "S142.Q18": {
+    "0.0": "NO ANSWER",
+    "1.0": "ESCORT MISSIONS",
+    "2.0": "LOW-LEVEL BOMBING AND STRAFING",
+    "3.0": "PATROLLING MISSIONS",
+    "4.0": "SOME OTHER TYPE OF MISSION",
+    "5.0": "1 AND 2 CHECKED",
+    "6.0": "1 AND 3 CHECKED",
+    "7.0": "1 AND 4 CHECKED",
+    "8.0": "2 AND 3 CHECKED",
+    "9.0": "2 AND 4 CHECKED"
+  },
+  "S142.Q19": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, QUITE OFTEN",
+    "2.0": "YES, SOMETIMES",
+    "3.0": "NO, NEVER"
+  },
+  "S142.Q20": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY GOOD PHYSICAL CONDITION",
+    "2.0": "GOOD PHYSICAL CONDITION",
+    "3.0": "FAIR PHYSICAL CONDITION",
+    "4.0": "POOR PHYSICAL CONDITION",
+    "5.0": "VERY POOR PHYSICAL CONDITION"
+  },
+  "S142.Q21": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, I WOULD WANT TO VERY MUCH",
+    "2.0": "YES, I MIGHT WANT TO, BUT I'M NOT SURE",
+    "3.0": "NO, I DON'T THINK I WOULD WANT TO",
+    "4.0": "NO, I WOULD NOT WANT TO AT ALL",
+    "5.0": "UNDECIDED"
+  },
+  "S142.Q22": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY GOOD",
+    "2.0": "GOOD",
+    "3.0": "FAIR",
+    "4.0": "POOR",
+    "5.0": "VERY POOR"
+  },
+  "S142.Q23A": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE THAN ENOUGH",
+    "2.0": "ABOUT THE RIGHT AMOUNT",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "NOT NEARLY ENOUGH"
+  },
+  "S142.Q23B": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE THAN ENOUGH",
+    "2.0": "ABOUT THE RIGHT AMOUNT",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "NOT NEARLY ENOUGH"
+  },
+  "S142.Q23C": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE THAN ENOUGH",
+    "2.0": "ABOUT THE RIGHT AMOUNT",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "NOT NEARLY ENOUGH"
+  },
+  "S142.Q23D": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE THAN ENOUGH",
+    "2.0": "ABOUT THE RIGHT AMOUNT",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "NOT NEARLY ENOUGH"
+  },
+  "S142.Q23E": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE THAN ENOUGH",
+    "2.0": "ABOUT THE RIGHT AMOUNT",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "NOT NEARLY ENOUGH"
+  },
+  "S142.Q23F": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE THAN ENOUGH",
+    "2.0": "ABOUT THE RIGHT AMOUNT",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "NOT NEARLY ENOUGH"
+  },
+  "S142.Q23G": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE THAN ENOUGH",
+    "2.0": "ABOUT THE RIGHT AMOUNT",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "NOT NEARLY ENOUGH"
+  },
+  "S142.Q23H": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE THAN ENOUGH",
+    "2.0": "ABOUT THE RIGHT AMOUNT",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "NOT NEARLY ENOUGH"
+  },
+  "S142.Q24A": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE THAN ENOUGH",
+    "2.0": "ABOUT THE RIGHT AMOUNT",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "NOT NEARLY ENOUGH"
+  },
+  "S142.Q24B": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE THAN ENOUGH",
+    "2.0": "ABOUT THE RIGHT AMOUNT",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "NOT NEARLY ENOUGH"
+  },
+  "S142.Q24C": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE THAN ENOUGH",
+    "2.0": "ABOUT THE RIGHT AMOUNT",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "NOT NEARLY ENOUGH"
+  },
+  "S142.Q24D": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE THAN ENOUGH",
+    "2.0": "ABOUT THE RIGHT AMOUNT",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "NOT NEARLY ENOUGH"
+  },
+  "S142.Q24E": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE THAN ENOUGH",
+    "2.0": "ABOUT THE RIGHT AMOUNT",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "NOT NEARLY ENOUGH"
+  },
+  "S142.Q24F": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE THAN ENOUGH",
+    "2.0": "ABOUT THE RIGHT AMOUNT",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "NOT NEARLY ENOUGH"
+  },
+  "S142.Q24G": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S142.Q25A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "LESS THAN 10 HOURS",
+    "2.0": "10-19",
+    "3.0": "20-29",
+    "4.0": "30-39",
+    "5.0": "40-49",
+    "6.0": "50-59",
+    "7.0": "60-69",
+    "8.0": "70-79",
+    "9.0": "80 OR MORE HOURS",
+    "10.0": "NO ANSWER"
+  },
+  "S142.Q25B": {
+    "0.0": "NO ANSWER",
+    "1.0": "1-24 HOURS",
+    "2.0": "25-49",
+    "3.0": "50-3.",
+    "4.0": "75-99",
+    "5.0": "100-124",
+    "6.0": "125-149",
+    "7.0": "150-174",
+    "8.0": "175 OR MORE HOURS",
+    "9.0": "NONE"
+  },
+  "S142.Q26A": {
+    "0.0": "NO ANSWER",
+    "1.0": "PUNISH THE LEADERS, BUT NOT THE ORDINARY GERMANS",
+    "2.0": "MAKE THE ORDINARY GERMAN PEOPLE SUFFER PLENTY",
+    "3.0": "WIPE OUT THE WHOLE GERMAN NATION"
+  },
+  "S142.Q26B": {
+    "0.0": "NO ANSWER",
+    "1.0": "PUNISH THE LEADERS, BUT NOT THE ORDINARY JAPANESE",
+    "2.0": "MAKE THE ORDINARY JAPANESE PEOPLE SUFFER PLENTY",
+    "3.0": "WIPE OUT THE WHOLE JAPANESE NATION"
+  },
+  "S142.Q27A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, IT MATTERS QUITE A BIT TO ME WHAT THEY SAY",
+    "2.0": "NO, IT DOESN'T MAKE ANY PARTICULAR DIFFERENCE TO ME WHAT THEY SAY"
+  },
+  "S142.Q27B": {
+    "0.0": "NO ANSWER",
+    "1.0": "TOO MUCH CREDIT",
+    "2.0": "ABOUT THE RIGHT AMOUNT OF CREDIT",
+    "3.0": "TOO LITTLE CREDIT",
+    "4.0": "I DON'T READ THEM OFTEN ENOUGH TO SAY"
+  },
+  "S142.Q28": {
+    "0.0": "NO ANSWER",
+    "1.0": "A VERY GOOD JOB",
+    "2.0": "A GOOD JOB",
+    "3.0": "A FAIR JOB",
+    "4.0": "A POOR JOB",
+    "5.0": "A VERY POOR JOB"
+  },
+  "S142.Q29A.1": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ONE",
+    "2.0": "TWO",
+    "3.0": "THREE",
+    "4.0": "FOUR",
+    "5.0": "FIVE OR MORE",
+    "6.0": "NONE",
+    "7.0": "NO ANSWER"
+  },
+  "S142.Q29A.2": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONE 1",
+    "2.0": "TWO 0",
+    "3.0": "THREE 0",
+    "4.0": "FOUR 0",
+    "5.0": "FIVE OR MORE 631",
+    "6.0": "NONE 8"
+  },
+  "S142.Q29B": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT IS AS GOOD AS IT COULD BE UNDER THE CIRCUMSTANCES",
+    "2.0": "IT COULD BE SOMEWHAT BETTER",
+    "3.0": "IT COULD BE A LOT BETTER"
+  },
+  "S142.Q30": {
+    "0.0": "NO ANSWER",
+    "1.0": "USUALLY KNOW A WEEK OR MORE BEFOREHAND",
+    "2.0": "USUALLY GIVEN A FEW DAYS NOTICE",
+    "3.0": "USUALLY FIND OUT ABOUT IT JUST BEFORE A LEAVE OR PASS IS GRANTED",
+    "4.0": "I'M NOT SURE HOW IT WORKS"
+  },
+  "S142.Q31": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY WELL SATISIFED",
+    "2.0": "SATISFIED",
+    "3.0": "NOT VERY WELL SATISFIED",
+    "4.0": "NOT SATISFIED AT ALL"
+  },
+  "S142.Q32": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN 4 HOURS",
+    "2.0": "4 HOURS",
+    "3.0": "5 HOURS",
+    "4.0": "6 HOURS",
+    "5.0": "7 HOURS",
+    "6.0": "8 HOURS",
+    "7.0": "MORE THAN 8 HOURS"
+  },
+  "S142.Q33": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT WOULD HELP A LITTLE IF I HAD MORE TIME FOR SLEEP",
+    "2.0": "IT WOULD HELP A LOT IF I HAD MORE TIME FOR SLEEP",
+    "3.0": "USUALLY HAVE ENOUGH TIME FOR SLEEP"
+  },
+  "S142.Q34": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALMOST NEVER",
+    "2.0": "OCCASIONALLY",
+    "3.0": "FAIRLY OFTEN",
+    "4.0": "VERY OFTEN"
+  },
+  "S142.Q35A": {
+    "0.0": "NO ANSWER",
+    "1.0": "ABOUT AS GOOD AS IT COULD BE UNDER THE CIRCUMSTANCES",
+    "2.0": "COULD BE IMPROVED BUT IT WOULDN'T MAKE TOO MUCH DIFFERENCE TO ME",
+    "3.0": "COULD BE IMPROVED AND IT WOULD HELP A LOT IF IT WERE",
+    "4.0": "UNCERTAIN"
+  },
+  "S142.Q35B": {
+    "0.0": "NO ANSWER",
+    "1.0": "ABOUT AS GOOD AS IT COULD BE UNDER THE CIRCUMSTANCES",
+    "2.0": "COULD BE IMPROVED BUT IT WOULDN'T MAKE TOO MUCH DIFFERENCE TO ME",
+    "3.0": "COULD BE IMPROVED AND IT WOULD HELP A LOT IF IT WERE",
+    "4.0": "UNCERTAIN"
+  },
+  "S142.Q35C": {
+    "0.0": "NO ANSWER",
+    "1.0": "ABOUT AS GOOD AS IT COULD BE UNDER THE CIRCUMSTANCES",
+    "2.0": "COULD BE IMPROVED BUT IT WOULDN'T MAKE TOO MUCH DIFFERENCE TO ME",
+    "3.0": "COULD BE IMPROVED AND IT WOULD HELP A LOT IF IT WERE",
+    "4.0": "UNCERTAIN"
+  },
+  "S142.Q36": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALMOST EVERY DAY",
+    "2.0": "THREE OR FOUR TIMES A WEEK",
+    "3.0": "ONCE OR TWICE A WEEK",
+    "4.0": "LESS THAN ONCE A WEEK",
+    "5.0": "ALMOST NEVER"
+  },
+  "S142.Q37": {
+    "0.0": "NO ANSWER",
+    "1.0": "TOO MUCH CREDIT",
+    "2.0": "ABOUT THE RIGHT AMOUNT OF CREDIT",
+    "3.0": "TOO LITTLE CREDIT",
+    "4.0": "I DON'T LISTEN TO THEM OFTEN ENOUGH TO SAY"
+  },
+  "S142.Q38A": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALMOST EVERY DAY",
+    "2.0": "THREE OR FOUR TIMES A WEEK",
+    "3.0": "ONCE OR TWICE A WEEK",
+    "4.0": "LESS THAN ONCE A WEEK",
+    "5.0": "ALMOST NEVER"
+  },
+  "S142.Q38B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY LITTLE TRUTH IN WHAT THEY SAY",
+    "2.0": "SOME TRUTH IN WHAT THEY SAY",
+    "3.0": "A GOOD DEAL OF TRUTH IN WHAT THEY SAY",
+    "4.0": "NO OPINION"
+  },
+  "S142.Q39A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, I FEEL I HAVE BEEN GIVEN ENOUGH INFORMATION ABOUT THIS",
+    "2.0": "NO, I WISH I HAD MORE INFORMATION ABOUT THIS"
+  },
+  "S142.Q39B": {
+    "0.0": "NO ANSWER",
+    "1.0": "I THINK THE POLICY IS ABOUT AS GOOD AS IT CAN BE UNDER THE CIRCUMSTANCES",
+    "2.0": "I THINK THE POLICY OUGHT TO BE IMPROVED",
+    "3.0": "I DON'T KNOW WHAT THE POLICY OF ASSIGNMENT IS"
+  },
+  "S142.Q39C": {
+    "0.0": "NO ANSWER",
+    "1.0": "INSTRUCTOR IN THE U.S.; TRAINING SCHOOL, ETC.",
+    "2.0": "INSTRUCTOR - LOCALE UNSPECIFIED OR LOCALE OTHER THAN U.S. SPECIFIED",
+    "3.0": "ANOTHER COMBAT TOUR, AFTER A REST; \"COMBAT\" (EUROPEAN THEATER OPERATIONS OR THEATER UNSPECIFIED)",
+    "4.0": "ANOTHER COMBAT TOUR IN SOME OTHER THEATER",
+    "5.0": "ATC OR FERRY COMMAND JOB",
+    "6.0": "OTHER NON-COMBATANT FLYING JOB (TEST PILOT, PHOTOGRAPHIC UNIT, ETC.)",
+    "7.0": "OTHER JOB IN U.S.",
+    "8.0": "GROUND JOB, IN EUROPEAN THEATER OPERATIONS (OR SPECIFIED DESIRE TO STAY WITH PRESENT OUTFIT)",
+    "9.0": "GROUND JOB, LOCALE NOT SPECIFIED",
+    "10.0": "MISCELLANEOUS AND UNCLASSIFIABLE",
+    "11.0": "DON'T KNOW, UNDECIDED"
+  },
+  "S142.Q40A": {
+    "0.0": "NO CODE OR NO DATA",
+    "NaN": "ANSWER",
+    "1.0": "1 HOUR . .",
+    "62.0": "62 HOURS"
+  },
+  "S142.Q40B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "1 HOUR",
+    "50.0": "50 HOURS",
+    "89.0": "NO ANSWER"
+  },
+  "S142.V42": {
+    "1.0": "PRESENT PLANE P-38 - FORMERLY FLEW P-38",
+    "2.0": "PRESENT PLANE P-38 - FORMERLY FLEW P-38",
+    "3.0": "PRESENT PLANE P-38 - FORMERLY FLEW P-47",
+    "4.0": "PRESENT PLANE P-47 - FORMERLY FLEW P-47",
+    "5.0": "PRESENT PLANE P-47 - FORMERLY FLEW P-51",
+    "6.0": "PRESENT PLANE P-47 - FORMERLY FLEW P-51",
+    "7.0": "PRESENT PLANE P-51 - FORMERLY FLEW P-47",
+    "8.0": "PRESENT PLANE P-51 - FORMERLY FLEW P-47",
+    "9.0": "PRESENT PLANE P-51 - FORMERLY FLEW P-47",
+    "10.0": "PRESENT PLANE P-51 - FORMERLY FLEW P-47",
+    "11.0": "PRESENT PLANE P-51 - FORMERLY FLEW P-47"
+  }
+}

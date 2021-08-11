@@ -1,0 +1,1160 @@
+{
+  "S64.Q1": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "PRIVATE",
+    "2.0": "PRIVATE FIRST CLASS",
+    "3.0": "TECHNICIAN 5TH GRADE OR CORPORAL",
+    "4.0": "TECHNICIAN 4TH GRADE OR SERGEANT",
+    "5.0": "TECHNICIAN 3RD GRADE OR STAFF SERGEANT",
+    "6.0": "TECHNICAL SERGEANT",
+    "7.0": "MASTER SERGEANT OR FIRST SERGEANT",
+    "8.0": "OTHER",
+    "9.0": "NO ANSWER"
+  },
+  "S64.Q2": {
+    "1.0": "18 YEARS",
+    "2.0": "19",
+    "3.0": "20",
+    "4.0": "21",
+    "5.0": "22",
+    "6.0": "23",
+    "7.0": "24",
+    "8.0": "25",
+    "9.0": "26-29",
+    "10.0": "30-34",
+    "11.0": "35 AND OVER",
+    "12.0": "NO ANSWER"
+  },
+  "S64.Q3": {
+    "1.0": "LESS THAN 6TH GRADE",
+    "2.0": "FINISHED 6TH GRADE",
+    "3.0": "FINISHED 7TH GRADE",
+    "4.0": "FINISHED 8TH GRADE",
+    "5.0": "SOME HIGH SCHOOL BUT DID NOT FINISH",
+    "6.0": "GRADUATED FROM HIGH SCHOOL",
+    "7.0": "SOME COLLEGE BUT DID NOT FINISH",
+    "8.0": "GRADUATED FROM COLLEGE",
+    "9.0": "NO ANSWER"
+  },
+  "S64.Q4": {
+    "0.0": "NO ANSWER",
+    "1.0": "NEW ENGLAND",
+    "2.0": "MIDDLE ATLANTIC",
+    "3.0": "EAST NORTH CENTRAL",
+    "4.0": "WEST NORTH CENTRAL",
+    "5.0": "SOUTH ATLANTIC",
+    "6.0": "EAST SOUTH CENTRAL",
+    "7.0": "WEST SOUTH CENTRAL",
+    "8.0": "MOUNTAIN",
+    "9.0": "PACIFIC",
+    "10.0": "FOREIGN - U.S. POSSESSION",
+    "11.0": "FOREIGN - NOT U.S.",
+    "12.0": "U.S. - STATE NOT SPECIFIED"
+  },
+  "S64.Q5": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ON A FARM OR IN THE COUNTRY",
+    "2.0": "IN A SMALL TOWN (FEWER THAN 2,500 PEOPLE)",
+    "3.0": "IN A TOWN (WITH BETWEEN 2,500 AND 25,000 PEOPLE)",
+    "NaN": "QUESTIONS 6 AND 7 TO BE CODED TOGETHER.",
+    "4.0": "IN A CITY (BETWEEN 25,000 AND 100,000 PEOPLE)",
+    "5.0": "IN A LARGE CITY (MORE THAN 100,000 PEOPLE)",
+    "6.0": "NO ANSWER"
+  },
+  "S64.Q6.x": {
+    "0.0": "NO ANSWER",
+    "1.0": "SINGLE",
+    "2.0": "DIVORCED OR SEPARATED",
+    "3.0": "WIDOWED",
+    "4.0": "MARRIED BEFORE ENTERING THE ARMY",
+    "5.0": "MARRIED AFTER ENTERING THE ARMY",
+    "6.0": "MARRIED BUT NO ANSWER WHEN"
+  },
+  "S64.Q8": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "HAVE NO CHILDREN",
+    "2.0": "HAVE ONE CHILD",
+    "3.0": "HAVE TWO CHILDREN",
+    "4.0": "HAVE THREE OR MORE CHILDREN",
+    "5.0": "I'M NOT MARRIED",
+    "6.0": "NO ANSWER"
+  },
+  "S64.Q9": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "I'M NOT MARRIED",
+    "4.0": "NO ANSWER"
+  },
+  "S64.Q10": {
+    "0.0": "NO ANSWER",
+    "1.0": "I WAS DRAFTED",
+    "2.0": "I VOLUNTEERED",
+    "3.0": "I WAS IN THE NATIONAL GUARD",
+    "4.0": "ROTC, ERC, RAR"
+  },
+  "S64.Q11": {
+    "0.0": "NO ANSWER",
+    "1.0": "3 MONTHS OR LESS",
+    "2.0": "OVER 3 MONTHS UP TO 6 MONTHS",
+    "3.0": "OVER 6 MONTHS UP TO 9 MONTHS",
+    "4.0": "OVER 9 MONTHS UP TO 1 YEAR",
+    "5.0": "OVER 1 YEAR UP TO 2 YEARS",
+    "6.0": "OVER 2 YEARS"
+  },
+  "S64.Q12": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, THE ARMY HAS CLASSIFIED ME AS LIMITED SERVICE",
+    "2.0": "NO, THE ARMY HAS NOT CLASSIFIED ME AS LIMITED SERVICE",
+    "3.0": "I DON'T KNOW WHETHER THE ARMY HAS CLASSIFIED ME AS LIMITED SERVICE OR NOT",
+    "4.0": "NO ANSWER"
+  },
+  "S64.Q13": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "3 MONTHS OR LESS",
+    "2.0": "OVER 3 MONTHS UP TO 6 MONTHS",
+    "3.0": "OVER 6 MONTHS UP TO 9 MONTHS",
+    "4.0": "OVER 9 MONTHS UP TO 1 YEAR",
+    "5.0": "OVER 1 YEAR",
+    "6.0": "NO ANSWER"
+  },
+  "S64.Q14": {
+    "0.0": "NO ANSWER",
+    "1.0": "ENGINEERS",
+    "2.0": "FIELD ARTILLERY",
+    "3.0": "QUARTERMASTER CORPS",
+    "4.0": "INFANTRY",
+    "5.0": "MEDICAL DEPARTMENT",
+    "6.0": "ARMORED FORCE",
+    "7.0": "SIGNAL CORPS",
+    "8.0": "COAST ARTILLERY AND ANTI-AIRCRAFT",
+    "9.0": "AIR CORPS",
+    "10.0": "TRANSPORTATION CORPS",
+    "11.0": "ORDNANCE DEPARTMENT",
+    "12.0": "CHEMICAL WARFARE SERVICE",
+    "13.0": "MILITARY POLICE",
+    "14.0": "CAVALRY",
+    "15.0": "FINANCE",
+    "16.0": "OTHER"
+  },
+  "S64.Q15": {
+    "0.0": "NO ANSWER",
+    "1.0": "ENGINEERS",
+    "2.0": "FIELD ARTILLERY",
+    "3.0": "QUARTERMASTER CORPS",
+    "4.0": "INFANTRY",
+    "5.0": "MEDICAL DEPARTMENT",
+    "6.0": "ARMORED FORCE",
+    "7.0": "SIGNAL CORPS",
+    "8.0": "COAST ARTILLERY AND ANTI-AIRCRAFT",
+    "9.0": "AIR CORPS",
+    "10.0": "TRANSPORTATION CORPS",
+    "11.0": "ORDNANCE DEPARTMENT",
+    "12.0": "CHEMICAL WARFARE SERVICE",
+    "13.0": "MILITARY POLICE",
+    "14.0": "CAVALRY",
+    "15.0": "FINANCE",
+    "16.0": "OTHER"
+  },
+  "S64.Q16": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "THREE OR MORE TIMES A WEEK",
+    "2.0": "TWICE A WEEK",
+    "3.0": "ONCE A WEEK",
+    "4.0": "ONCE EVERY 2 OR 3 WEEKS",
+    "5.0": "ONCE A MONTH",
+    "6.0": "LESS THAN ONCE A MONTH",
+    "7.0": "NEVER",
+    "8.0": "I LIVE OFF THE POST IN A TOWN OR CITY",
+    "9.0": "NO ANSWER"
+  },
+  "S64.Q17": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, VERY PROUD",
+    "2.0": "YES, FAIRLY PROUD",
+    "3.0": "NO, NOT PROUD",
+    "4.0": "UNDECIDED",
+    "5.0": "NO ANSWER"
+  },
+  "S64.Q18": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY MUCH INTERESTED",
+    "2.0": "A LITTLE BUT NOT MUCH",
+    "3.0": "NOT INTERESTED AT ALL",
+    "4.0": "NO ANSWER"
+  },
+  "S64.Q19": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED",
+    "4.0": "NO ANSWER"
+  },
+  "S64.Q20": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I USUALLY FEEL IT IS NOT WORTHWHILE",
+    "2.0": "I USUALLY FEEL IT IS WORTHWHILE",
+    "3.0": "UNDECIDED",
+    "4.0": "NO ANSWER"
+  },
+  "S64.Q21": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I FEEL PRETTY SURE I CAN MAKE GOOD",
+    "2.0": "I AM NOT SO SURE I CAN MAKE GOOD",
+    "3.0": "UNDECIDED",
+    "4.0": "NO ANSWER"
+  },
+  "S64.Q22": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I HAVE A PRETTY GOOD TIME",
+    "2.0": "IT'S ABOUT FIFTY-FIFTY",
+    "3.0": "I HAVE A PRETTY ROTTEN TIME",
+    "4.0": "NO ANSWER"
+  },
+  "S64.Q23": {
+    "0.0": "NO ANSWER",
+    "1.0": "I AM USUALLY IN GOOD SPIRITS",
+    "2.0": "I AM IN GOOD SPIRITS SOME OF THE TIME AND IN LOW SPIRITS SOME OF THE TIME",
+    "3.0": "I AM USUALLY IN LOW SPIRITS"
+  },
+  "S64.Q24": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I AM HARDLY EVER WORRIED AND UPSET",
+    "2.0": "I AM SOMETIMES WORRIED AND UPSET",
+    "3.0": "I AM OFTEN WORRIED AND UPSET",
+    "4.0": "NO ANSWER"
+  },
+  "S64.Q25": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "IN A COMBAT OUTFIT OVERSEAS",
+    "2.0": "IN A NON-COMBAT OUTFIT OVERSEAS",
+    "3.0": "IN AN OUTFIT THAT WILL STAY IN THE UNITED STATES",
+    "4.0": "NO ANSWER"
+  },
+  "S64.Q26": {
+    "0.0": "NO ANSWER",
+    "1.0": "AS A SOLDIER",
+    "2.0": "AS A WAR WORKER",
+    "3.0": "UNDECIDED"
+  },
+  "S64.Q27": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY SATISFIED",
+    "2.0": "SATISFIED",
+    "3.0": "IT DOES NOT MAKE ANY DIFFERENCE TO ME",
+    "4.0": "DISSATISFIED",
+    "5.0": "VERY DISSATISFIED",
+    "6.0": "NO ANSWER"
+  },
+  "S64.Q28": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED",
+    "4.0": "NO ANSWER"
+  },
+  "S64.Q29": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY IMPORTANT",
+    "2.0": "PRETTY IMPORTANT",
+    "3.0": "NOT SO IMPORTANT",
+    "4.0": "NOT IMPORTANT AT ALL",
+    "5.0": "UNDECIDED",
+    "6.0": "NO ANSWER"
+  },
+  "S64.Q30": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "A VERY GOOD CHANCE",
+    "2.0": "A FAIRLY GOOD CHANCE",
+    "3.0": "NOT MUCH OF A CHANCE",
+    "4.0": "NO CHANCE AT ALL",
+    "5.0": "UNDECIDED",
+    "6.0": "NO ANSWER"
+  },
+  "S64.Q31": {
+    "0.0": "NO ANSWER",
+    "1.0": "A VERY GOOD CHANCE",
+    "2.0": "A FAIRLY GOOD CHANCE",
+    "3.0": "NOT MUCH OF A CHANCE",
+    "4.0": "NO CHANCE AT ALL",
+    "5.0": "UNDECIDED"
+  },
+  "S64.Q32": {
+    "0.0": "NO ANSWER",
+    "1.0": "ENGINEERS",
+    "2.0": "FIELD ARTILLERY",
+    "3.0": "QUARTERMASTER CORPS",
+    "4.0": "INFANTRY",
+    "5.0": "MEDICAL DEPARTMENT",
+    "6.0": "ARMORED FORCE",
+    "7.0": "SIGNAL CORPS",
+    "8.0": "COAST ARTILLERY, ANTI-AIRCRAFT",
+    "9.0": "AIR CORPS",
+    "10.0": "TRANSPORTATION CORPS",
+    "11.0": "ORDNANCE DEPARTMENT",
+    "12.0": "CHEMICAL WARFARE SERVICE",
+    "13.0": "MILITARY POLICE",
+    "14.0": "CAVALRY",
+    "15.0": "FINANCE",
+    "16.0": "UNDECIDED"
+  },
+  "S64.Q33": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, I WOULD WANT TO VERY MUCH",
+    "2.0": "YES, I MIGHT WANT TO, BUT I'M NOT SURE",
+    "3.0": "NO, I DON'T THINK I WOULD WANT TO",
+    "4.0": "NO, I WOULD NOT WANT TO AT ALL",
+    "5.0": "UNDECIDED",
+    "6.0": "NO ANSWER"
+  },
+  "S64.Q34": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, I WOULD WANT TO VERY MUCH",
+    "2.0": "YES, I MIGHT WANT TO, BUT I'M NOT SURE",
+    "3.0": "NO, I DON'T THINK I WOULD WANT TO",
+    "4.0": "NO, I WOULD NOT WANT TO AT ALL",
+    "5.0": "UNDECIDED",
+    "6.0": "NO ANSWER"
+  },
+  "S64.Q35": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I AM VERY WELL ADJUSTED",
+    "2.0": "I AM FAIRLY WELL ADJUSTED",
+    "3.0": "I AM NOT SO WELL ADJUSTED",
+    "4.0": "I AM VERY POORLY ADJUSTED",
+    "5.0": "NO ANSWER"
+  },
+  "S64.Q36": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I THINK I WOULD DO ALL RIGHT",
+    "2.0": "I THINK I WOULD HAVE TROUBLE AT FIRST, BUT AFTER A WHILE I WOULD BE OK",
+    "3.0": "I DON'T THINK I WOULD DO VERY WELL",
+    "4.0": "I HAVEN'T ANY IDEA HOW I WOULD DO",
+    "5.0": "NO ANSWER"
+  },
+  "S64.Q37": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I'M READY TO GO AND I WANT TO GET INTO THE REAL FIGHTING SOON",
+    "2.0": "I'D LIKE TO GET IN ON THE FIGHTING BEFORE IT'S OVER, BUT I DON'T THINK I'M READY YET",
+    "3.0": "I HOPE I WON'T HAVE TO GO, BUT IF I DO, I THINK I'LL DO ALL RIGHT",
+    "4.0": "I HOPE I WON'T HAVE TO GO BECAUSE I DON'T THINK I'LL EVER BE GOOD AS A FIGHTER",
+    "5.0": "NONE OF THE ABOVE FITS ME, I'M TOO OLD FOR COMBAT DUTY",
+    "6.0": "NONE OF THE ABOVE FITS ME, I'M NOT PHYSICALLY FIT FOR COMBAT DUTY",
+    "7.0": "SHOULD BE IN WAR INDUSTRY OR ON FARM",
+    "8.0": "CHECKED 1, BUT QUALIFIED BY ASKING FOR FURLOUGH, WIFE'S PERMISSION, ETC.",
+    "9.0": "WOULD PREFER TO BE AN INSTRUCTOR",
+    "10.0": "OTHER COMMENTS INDICATING MAN DOES NOT WISH COMBAT",
+    "11.0": "ALL OTHER",
+    "12.0": "NO ANSWER"
+  },
+  "S64.Q38": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "LESS THAN 1 YEAR",
+    "2.0": "1 YEAR",
+    "3.0": "OVER 1 BUT LESS THAN 2",
+    "4.0": "2 YEARS",
+    "5.0": "OVER 2 BUT LESS THAN 3",
+    "6.0": "3 YEARS",
+    "7.0": "OVER 3",
+    "8.0": "A SHORT TIME",
+    "9.0": "A LONG TIME",
+    "10.0": "NO INDICATION OF TIME",
+    "11.0": "DON'T KNOW",
+    "12.0": "NO ANSWER"
+  },
+  "S64.Q39": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "IT WILL NOT BE VERY HARD",
+    "2.0": "IT WILL BE A TOUGH JOB BUT OUR LOSSES WON'T BE TOO HEAVY",
+    "3.0": "IT WILL BE A TOUGH JOB, WITH HEAVY LOSSES OF MEN AND EQUIPMENT",
+    "4.0": "NO ANSWER"
+  },
+  "S64.Q40": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "LESS THAN 1 YEAR",
+    "2.0": "1 YEAR",
+    "3.0": "OVER 1 BUT LESS THAN 2",
+    "4.0": "2 YEARS",
+    "5.0": "OVER 2 BUT LESS THAN 3",
+    "6.0": "3 YEARS",
+    "7.0": "OVER 3",
+    "8.0": "A SHORT TIME",
+    "9.0": "A LONG TIME",
+    "10.0": "NO INDICATION OF TIME",
+    "11.0": "DON'T KNOW",
+    "12.0": "NO ANSWER"
+  },
+  "S64.Q41": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "IT WILL NOT BE VERY HARD",
+    "2.0": "IT WILL BE A TOUGH JOB BUT OUR LOSSES WON'T BE TOO HEAVY",
+    "3.0": "IT WILL BE A TOUGH JOB, WITH HEAVY LOSSES OF MEN AND EQUIPMENT",
+    "4.0": "NO ANSWER"
+  },
+  "S64.Q42": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED",
+    "4.0": "NO ANSWER"
+  },
+  "S64.Q43": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "I THINK SO BUT I'M NOT SURE",
+    "3.0": "NO",
+    "4.0": "UNDECIDED",
+    "5.0": "NO ANSWER"
+  },
+  "S64.Q44": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "WILL HELP ME TO GET A BETTER JOB",
+    "2.0": "WILL NOT HELP ME TO GET A BETTER JOB",
+    "3.0": "UNDECIDED",
+    "4.0": "NO ANSWER"
+  },
+  "S64.Q45A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "EASIER THAN BEFORE THE WAR",
+    "2.0": "ABOUT THE SAME AS BEFORE THE WAR",
+    "3.0": "HARDER THAN BEFORE THE WAR",
+    "NaN": "QUESTION 45B NOT CODED.",
+    "4.0": "UNDECIDED",
+    "5.0": "NO ANSWER"
+  },
+  "S64.Q46A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "BETTER FOR ME AFTER THE WAR THAN BEFORE THE WAR",
+    "2.0": "SAME FOR ME AFTER THE WAR AS BEFORE THE WAR",
+    "3.0": "WORSE FOR ME AFTER THE WAR THAN BEFORE THE WAR",
+    "NaN": "QUESTION 46B NOT CODED.",
+    "4.0": "UNDECIDED",
+    "5.0": "NO ANSWER"
+  },
+  "S64.Q47": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "THEY ARE GETTING TOO MUCH ATTENTION NOW",
+    "2.0": "THEY ARE GETTING ABOUT THE RIGHT AMOUNT OF ATTENTION NOW",
+    "3.0": "THEY ARE GETTING TOO LITTLE ATTENTION NOW",
+    "4.0": "UNDECIDED",
+    "5.0": "NO ANSWER"
+  },
+  "S64.Q48": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "STAY OUT OF WORLD AFFAIRS AS MUCH AS POSSIBLE",
+    "2.0": "TAKE AN ACTIVE PART IN WORLD AFFAIRS",
+    "3.0": "DON'T KNOW",
+    "4.0": "NO ANSWER"
+  },
+  "S64.Q49A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ENGLAND",
+    "2.0": "RUSSIA",
+    "3.0": "CHINA",
+    "4.0": "UNITED STATES",
+    "5.0": "DON'T KNOW",
+    "6.0": "NO ANSWER"
+  },
+  "S64.Q49B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ENGLAND",
+    "2.0": "RUSSIA",
+    "3.0": "CHINA",
+    "4.0": "UNITED STATES",
+    "5.0": "DON'T KNOW",
+    "6.0": "NO ANSWER"
+  },
+  "S64.Q50": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY GOOD FIGHTERS",
+    "2.0": "GOOD FIGHTERS",
+    "3.0": "FAIR FIGHTERS",
+    "4.0": "POOR FIGHTERS",
+    "5.0": "DON'T KNOW",
+    "6.0": "NO ANSWER"
+  },
+  "S64.Q51": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY GOOD FIGHTERS",
+    "2.0": "GOOD FIGHTERS",
+    "3.0": "FAIR FIGHTERS",
+    "4.0": "POOR FIGHTERS",
+    "5.0": "DON'T KNOW",
+    "6.0": "NO ANSWER"
+  },
+  "S64.Q52A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY GOOD FIGHTERS",
+    "2.0": "GOOD FIGHTERS",
+    "3.0": "FAIR FIGHTERS",
+    "4.0": "POOR FIGHTERS",
+    "5.0": "DON'T KNOW",
+    "6.0": "NO ANSWER"
+  },
+  "S64.Q52B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY GOOD FIGHTERS",
+    "2.0": "GOOD FIGHTERS",
+    "3.0": "FAIR FIGHTERS",
+    "4.0": "POOR FIGHTERS",
+    "5.0": "DON'T KNOW",
+    "6.0": "NO ANSWER"
+  },
+  "S64.Q52C": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY GOOD FIGHTERS",
+    "2.0": "GOOD FIGHTERS",
+    "3.0": "FAIR FIGHTERS",
+    "4.0": "POOR FIGHTERS",
+    "5.0": "DON'T KNOW",
+    "6.0": "NO ANSWER"
+  },
+  "S64.Q52D": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY GOOD FIGHTERS",
+    "2.0": "GOOD FIGHTERS",
+    "3.0": "FAIR FIGHTERS",
+    "4.0": "POOR FIGHTERS",
+    "5.0": "DON'T KNOW",
+    "6.0": "NO ANSWER"
+  },
+  "S64.Q53": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "WILL COOPERATE",
+    "2.0": "WILL NOT",
+    "3.0": "DON'T KNOW",
+    "4.0": "NO ANSWER"
+  },
+  "S64.Q54": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "WILL COOPERATE",
+    "2.0": "WILL NOT",
+    "3.0": "DON'T KNOW",
+    "4.0": "NO ANSWER"
+  },
+  "S64.Q55": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "WILL COOPERATE",
+    "2.0": "WILL NOT",
+    "3.0": "DON'T KNOW",
+    "4.0": "NO ANSWER"
+  },
+  "S64.Q56A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "UNDECIDED",
+    "4.0": "AGREE MODIFIED",
+    "5.0": "DISAGREE MODIFIED",
+    "6.0": "NO ANSWER"
+  },
+  "S64.Q56B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "UNDECIDED",
+    "4.0": "AGREE MODIFIED",
+    "5.0": "DISAGREE MODIFIED",
+    "6.0": "NO ANSWER"
+  },
+  "S64.Q56C": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "UNDECIDED",
+    "4.0": "AGREE MODIFIED",
+    "5.0": "DISAGREE MODIFIED",
+    "6.0": "NO ANSWER"
+  },
+  "S64.Q56D": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "UNDECIDED",
+    "4.0": "AGREE MODIFIED",
+    "5.0": "DISAGREE MODIFIED",
+    "6.0": "NO ANSWER"
+  },
+  "S64.Q56E": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "UNDECIDED",
+    "NaN": "COL. 80 NOT USED. CARD 2",
+    "4.0": "AGREE MODIFIED",
+    "5.0": "DISAGREE MODIFIED",
+    "6.0": "NO ANSWER"
+  },
+  "S64.Q56F": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "UNDECIDED",
+    "4.0": "AGREE MODIFIED",
+    "5.0": "DISAGREE MODIFIED",
+    "6.0": "NO ANSWER"
+  },
+  "S64.Q56G": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "UNDECIDED",
+    "4.0": "AGREE MODIFIED",
+    "5.0": "DISAGREE MODIFIED",
+    "6.0": "NO ANSWER"
+  },
+  "S64.Q56H": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "UNDECIDED",
+    "4.0": "AGREE MODIFIED",
+    "5.0": "DISAGREE MODIFIED",
+    "6.0": "NO ANSWER"
+  },
+  "S64.Q57": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "NOT POSSIBLE",
+    "2.0": "NOT VERY LIKELY",
+    "3.0": "QUITE LIKELY",
+    "4.0": "ALMOST CERTAIN",
+    "5.0": "NO ANSWER"
+  },
+  "S64.Q58": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "NOT POSSIBLE",
+    "2.0": "NOT VERY LIKELY",
+    "3.0": "QUITE LIKELY",
+    "4.0": "ALMOST CERTAIN",
+    "5.0": "NO ANSWER"
+  },
+  "S64.Q59A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "THE UNITED STATES IS NOT TAKING TOO LONG",
+    "2.0": "THE UNITED STATES IS TAKING TOO LONG",
+    "NaN": "QUESTION 59B NOT CODED.",
+    "3.0": "UNDECIDED",
+    "4.0": "NO ANSWER"
+  },
+  "S64.Q60A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "DOING ALL IT POSSIBLY CAN",
+    "2.0": "DOING ALL IT CAN IN MOST THINGS",
+    "3.0": "COULD DO QUITE A BIT MORE",
+    "NaN": "QUESTION 60B NOT CODED.",
+    "4.0": "COULD DO A WHOLE LOT MORE",
+    "5.0": "NO ANSWER"
+  },
+  "S64.Q63": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "I THINK SO, BUT I'M NOT SURE",
+    "3.0": "NO",
+    "4.0": "UNDECIDED",
+    "5.0": "NO ANSWER"
+  },
+  "S64.Q64": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "IT WILL BE A COMPLETE VICTORY FOR US",
+    "2.0": "WE WILL WIN, BUT IT WON'T BE A COMPLETE VICTORY",
+    "3.0": "IT WILL END IN A DRAW",
+    "4.0": "THE OTHER SIDE HAS A PRETTY GOOD CHANCE OF WINNING",
+    "5.0": "UNDECIDED",
+    "6.0": "NO ANSWER"
+  },
+  "S64.Q65": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT WOULD MAKE A GREAT DEAL OF DIFFERENCE TO ME",
+    "2.0": "IT WOULD MAKE QUITE A BIT OF DIFFERENCE TO ME",
+    "3.0": "IT WOULD NOT MAKE SO MUCH DIFFERENCE TO ME",
+    "4.0": "IT WOULD NOT MAKE ANY DIFFERENCE TO ME"
+  },
+  "S64.Q66": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "I THINK SO, BUT I'M NOT SURE",
+    "3.0": "NO",
+    "4.0": "UNDECIDED",
+    "5.0": "NO ANSWER"
+  },
+  "S64.Q67": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ALL OF THE TIME",
+    "2.0": "MOST OF THE TIME",
+    "3.0": "OFTEN DO NOT",
+    "4.0": "ALMOST NEVER DO",
+    "5.0": "UNDECIDED",
+    "6.0": "NO ANSWER"
+  },
+  "S64.Q68": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ALL ARE",
+    "2.0": "MOST ARE",
+    "3.0": "ABOUT HALF ARE, HALF ARE NOT",
+    "4.0": "ONLY A FEW ARE",
+    "5.0": "ALMOST NONE ARE",
+    "6.0": "NO ANSWER"
+  },
+  "S64.Q69": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "WITH MOST OF THEM",
+    "2.0": "WITH ABOUT HALF OF THEM",
+    "3.0": "WITH ONLY A FEW OF THEM",
+    "4.0": "UNDECIDED",
+    "5.0": "NO ANSWER"
+  },
+  "S64.Q70": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY WELL",
+    "2.0": "FAIRLY WELL",
+    "3.0": "NOT SO WELL",
+    "4.0": "POORLY",
+    "5.0": "UNDECIDED",
+    "6.0": "NO ANSWER"
+  },
+  "S64.Q71": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, VERY PROUD",
+    "2.0": "YES, FAIRLY PROUD",
+    "3.0": "NO, NOT PROUD",
+    "4.0": "UNDECIDED",
+    "5.0": "NO ANSWER"
+  },
+  "S64.Q72": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, VERY PROUD",
+    "2.0": "YES, FAIRLY PROUD",
+    "3.0": "NO, NOT PROUD",
+    "4.0": "UNDECIDED",
+    "5.0": "NO ANSWER"
+  },
+  "S64.Q73A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "NaN": "QUESTION 73B NOT CODED.",
+    "3.0": "DON'T KNOW",
+    "4.0": "NO ANSWER"
+  },
+  "S64.Q74": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY OFTEN FEEL LIKE ASKING",
+    "2.0": "SOMETIMES FEEL LIKE ASKING",
+    "3.0": "SELDOM FEEL LIKE ASKING",
+    "4.0": "NEVER FEEL LIKE ASKING",
+    "5.0": "NO ANSWER"
+  },
+  "S64.Q75": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ALWAYS",
+    "2.0": "USUALLY",
+    "3.0": "NOT VERY OFTEN",
+    "4.0": "ALMOST NEVER",
+    "5.0": "UNDECIDED",
+    "6.0": "NO ANSWER"
+  },
+  "S64.Q76": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "THEY ARE THE BEST ONES THAT COULD HAVE BEEN PICKED",
+    "2.0": "THEY ARE AS GOOD AS ANY THAT COULD HAVE BEEN PICKED",
+    "3.0": "SOMEWHAT BETTER ONES COULD HAVE BEEN PICKED",
+    "4.0": "MUCH BETTER ONES COULD HAVE BEEN PICKED",
+    "5.0": "UNDECIDED",
+    "6.0": "NO ANSWER"
+  },
+  "S64.Q77": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ALL OF THEM ARE",
+    "2.0": "MOST OF THEM ARE",
+    "3.0": "ABOUT HALF OF THEM ARE",
+    "4.0": "FEW OF THEM ARE",
+    "5.0": "NONE OF THEM ARE",
+    "6.0": "NO ANSWER"
+  },
+  "S64.Q78": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ALL OF THEM ARE",
+    "2.0": "MOST OF THEM ARE",
+    "3.0": "ABOUT HALF OF THEM ARE",
+    "4.0": "FEW OF THEM ARE",
+    "5.0": "NONE OF THEM ARE",
+    "6.0": "NO ANSWER"
+  },
+  "S64.Q79": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ALL OF THEM ARE",
+    "2.0": "MOST OF THEM ARE",
+    "3.0": "ABOUT HALF OF THEM ARE",
+    "4.0": "FEW OF THEM ARE",
+    "5.0": "NONE OF THEM ARE",
+    "6.0": "NO ANSWER"
+  },
+  "S64.Q80": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ALL OF THEM DO",
+    "2.0": "MOST OF THEM DO",
+    "3.0": "ABOUT HALF OF THEM DO",
+    "4.0": "FEW OF THEM DO",
+    "5.0": "NONE OF THEM DO",
+    "6.0": "NO ANSWER"
+  },
+  "S64.Q81": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "BOTHERS ME A GREAT DEAL",
+    "2.0": "BOTHERS ME QUITE A BIT",
+    "3.0": "DOESN'T BOTHER ME MUCH",
+    "4.0": "DOESN'T BOTHER ME AT ALL",
+    "5.0": "NO ANSWER"
+  },
+  "S64.Q82.1": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "NO, I NEVER THOUGHT SO",
+    "2.0": "NO, I USED TO THINK SO, BUT DON'T NOW",
+    "3.0": "YES, TOO MANY SEEM USELESS",
+    "4.0": "UNDECIDED",
+    "5.0": "NO ANSWER"
+  },
+  "S64.Q82.2": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "IT IS VERY IMPORTANT 781",
+    "2.0": "IT IS PRETTY IMPORTANT 249",
+    "3.0": "IT IS NOT SO IMPORTANT 90",
+    "4.0": "IT IS NOT IMPORTANT AT ALL 26",
+    "5.0": "NO ANSWER 3"
+  },
+  "S64.Q84A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, MUCH OF IT IS NOT NEEDED",
+    "2.0": "YES, SOME OF IT IS NOT NEEDED",
+    "3.0": "NO, ALL IS NEEDED",
+    "NaN": "QUESTION 84B NOT CODED.",
+    "4.0": "UNDECIDED",
+    "5.0": "NO ANSWER"
+  },
+  "S64.Q85A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "NaN": "QUESTION 85B NOT CODED.",
+    "3.0": "UNDECIDED",
+    "4.0": "NO ANSWER"
+  },
+  "S64.Q86": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "A LOT OF IT",
+    "2.0": "SOME OF IT",
+    "3.0": "ONLY A LITTLE OF IT",
+    "4.0": "NONE OF IT",
+    "5.0": "NO ANSWER"
+  },
+  "S64.Q87": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALWAYS TELL ME ENOUGH",
+    "2.0": "USUALLY TELL ME ENOUGH",
+    "3.0": "OFTEN DO NOT TELL ME ENOUGH",
+    "4.0": "ALMOST NEVER TELL ME ENOUGH",
+    "5.0": "UNDECIDED"
+  },
+  "S64.Q88": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "IT IS RUN VERY WELL",
+    "2.0": "IT IS RUN PRETTY WELL",
+    "3.0": "IT IS NOT RUN SO WELL",
+    "4.0": "IT IS RUN VERY POORLY",
+    "5.0": "UNDECIDED",
+    "6.0": "NO ANSWER"
+  },
+  "S64.Q89": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ALL OF OUR EQUIPMENT IS BETTER",
+    "2.0": "MOST OF OUR EQUIPMENT IS BETTER",
+    "3.0": "OUR EQUIPMENT IS ABOUT THE SAME AS THAT OF THE GERMAN ARMY",
+    "4.0": "MOST OF OUR EQUIPMENT IS WORSE",
+    "5.0": "ALL OF OUR EQUIPMENT IS WORSE",
+    "6.0": "DON'T KNOW",
+    "7.0": "NO ANSWER"
+  },
+  "S64.Q90": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I WOULD RATHER BE A SOLDIER",
+    "2.0": "I WOULD RATHER BE A CIVILIAN DOING SOME KIND OF WORK NEEDED TO WIN THE WAR",
+    "NaN": "QUESTIONS 91A AND 91B TO BE CODED TOGETHER.",
+    "3.0": "UNDECIDED",
+    "4.0": "NO ANSWER"
+  },
+  "S64.Q91A.x": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "NO, HAVE NOT KNOWN ANY",
+    "2.0": "YES, PUNISHED TOO MUCH",
+    "3.0": "YES, PUNISHED ABOUT RIGHT",
+    "4.0": "YES, PUNISHED TOO LITTLE",
+    "5.0": "UNDECIDED",
+    "6.0": "YES, NO ANSWER HOW MUCH",
+    "7.0": "NO ANSWER"
+  },
+  "S64.Q92A": {
+    "1.0": "VERY SERIOUS",
+    "2.0": "PRETTY SERIOUS",
+    "3.0": "NOT SO SERIOUS",
+    "4.0": "NOT SERIOUS AT ALL",
+    "NaN": "QUESTION 92B NOT CODED.",
+    "5.0": "UNDECIDED",
+    "6.0": "IT DEPENDS ON THE CONDITIONS",
+    "7.0": "NO ANSWER"
+  },
+  "S64.Q93": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "NONE",
+    "2.0": "ONE",
+    "3.0": "TWO",
+    "4.0": "THREE OR MORE",
+    "5.0": "NO ANSWER"
+  },
+  "S64.Q94": {
+    "1.0": "1 TIME",
+    "2.0": "2 TIMES",
+    "3.0": "3",
+    "4.0": "4",
+    "5.0": "5",
+    "6.0": "6",
+    "7.0": "7",
+    "8.0": "8",
+    "9.0": "9",
+    "10.0": "10 OR MORE TIMES",
+    "11.0": "NONE AT ALL",
+    "12.0": "NO ANSWER"
+  },
+  "S64.Q95": {
+    "1.0": "YES, I HAVE HAD MY FAIR SHARE OF BOTH FURLOUGHS AND PASSES",
+    "2.0": "I HAVE HAD MY FAIR SHARE OF FURLOUGHS, BUT NOT OF PASSES",
+    "3.0": "I HAVE HAD MY FAIR SHARE OF PASSES, BUT NOT OF FURLOUGHS",
+    "4.0": "NO, I HAVE NOT HAD MY FAIR SHARE OF EITHER FURLOUGHS OR PASSES",
+    "5.0": "I HAVE HAD MY FAIR SHARE OF PASSES, HAVE BEEN IN ARMY A SHORT TIME",
+    "6.0": "NO ANSWER"
+  },
+  "S64.Q96": {
+    "4.0": "THINGS ARE A LITTLE WORSE",
+    "5.0": "THINGS ARE A LOT WORSE",
+    "6.0": "DON'T KNOW",
+    "7.0": "NO ANSWER",
+    "NaN": "QUESTION 97 NOT CODED.",
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "THINGS ARE A LOT BETTER",
+    "2.0": "THINGS ARE A LITTLE BETTER BUT NOT MUCH",
+    "3.0": "I DON'T SEE ANY DIFFERENCE"
+  },
+  "S64.V98": {
+    "0.0": "SCORE OF 0",
+    "1.0": "SCORE OF 1",
+    "2.0": "SCORE OF 2",
+    "3.0": "SCORE OF 3",
+    "4.0": "SCORE OF 4",
+    "9.0": "NO CODE OR NO DATA"
+  },
+  "S64.V99": {
+    "0.0": "SCORE OF 0",
+    "1.0": "SCORE OF 1",
+    "2.0": "SCORE OF 2",
+    "NaN": "NA",
+    "3.0": "SCORE OF 3",
+    "4.0": "SCORE OF 4"
+  },
+  "S64.V100": {
+    "0.0": "SCORE OF 0",
+    "1.0": "SCORE OF 1",
+    "2.0": "SCORE OF 2",
+    "3.0": "SCORE OF 3",
+    "4.0": "SCORE OF 4"
+  },
+  "S64.V101": {
+    "0.0": "SCORE OF 0",
+    "1.0": "SCORE OF 1",
+    "2.0": "SCORE OF 2",
+    "3.0": "SCORE OF 3",
+    "4.0": "SCORE OF 4",
+    "NaN": "NA",
+    "5.0": "SCORE OF 5",
+    "6.0": "SCORE OF 6",
+    "9.0": "NO CODE OR NO DATA"
+  },
+  "S64.V102": {
+    "0.0": "SCORE OF 0",
+    "2.0": "SCORE OF 2",
+    "NaN": "NA",
+    "1.0": "SCORE OF 1",
+    "3.0": "SCORE OF 3",
+    "4.0": "SCORE OF 4",
+    "5.0": "SCORE OF 5",
+    "6.0": "SCORE OF 6",
+    "7.0": "SCORE OF 7",
+    "9.0": "NO CODE OR NO DATA"
+  },
+  "S64.V103": {
+    "0.0": "SCORE OF 0",
+    "1.0": "SCORE OF 1",
+    "2.0": "SCORE OF 2",
+    "NaN": "NA",
+    "3.0": "SCORE OF 3",
+    "4.0": "SCORE OF 4",
+    "5.0": "SCORE OF 5",
+    "9.0": "NO CODE OR NO DATA"
+  },
+  "S64.V104": {
+    "0.0": "SCORE OF 0",
+    "1.0": "SCORE OF 1",
+    "2.0": "SCORE OF 2",
+    "3.0": "SCORE OF 3",
+    "4.0": "SCORE OF 4",
+    "9.0": "NO CODE OR NO DATA"
+  },
+  "S64.V105": {
+    "0.0": "SCORE OF 0",
+    "1.0": "SCORE OF 1",
+    "2.0": "SCORE OF 2",
+    "3.0": "SCORE OF 3",
+    "4.0": "SCORE OF 4",
+    "5.0": "SCORE OF 5",
+    "6.0": "SCORE OF 6",
+    "7.0": "SCORE OF 7",
+    "8.0": "SCORE OF 8",
+    "9.0": "SCORE OF 9",
+    "10.0": "NO CODE OR NO DATA"
+  },
+  "S64.V106": {
+    "0.0": "SCORE OF 0",
+    "1.0": "SCORE OF 1",
+    "2.0": "SCORE OF 2",
+    "3.0": "SCORE OF 3",
+    "4.0": "SCORE OF 4",
+    "5.0": "SCORE OF 5",
+    "6.0": "SCORE OF 6",
+    "7.0": "SCORE OF 7",
+    "8.0": "SCORE OF 8",
+    "9.0": "SCORE OF 9",
+    "10.0": "SCORE OF 10",
+    "11.0": "SCORE OF 11",
+    "12.0": "SCORE OF 12"
+  },
+  "S64.V107": {
+    "0.0": "SCORE OF 0",
+    "1.0": "SCORE OF 1",
+    "2.0": "SCORE OF 2",
+    "3.0": "SCORE OF 3",
+    "NaN": "NA",
+    "4.0": "SCORE OF 4",
+    "5.0": "SCORE OF 5",
+    "9.0": "NO CODE OR NO DATA"
+  },
+  "S64.V108": {
+    "0.0": "SCORE OF 0",
+    "1.0": "SCORE OF 1",
+    "2.0": "SCORE OF 2",
+    "3.0": "SCORE OF 3",
+    "4.0": "SCORE OF 4",
+    "5.0": "SCORE OF 5",
+    "6.0": "SCORE OF 6",
+    "9.0": "NO CODE OR NO DATA"
+  },
+  "S64.V109": {
+    "0.0": "SCORE OF 0",
+    "1.0": "SCORE OF 1",
+    "2.0": "SCORE OF 2",
+    "3.0": "SCORE OF 3",
+    "4.0": "SCORE OF 4",
+    "5.0": "SCORE OF 5",
+    "6.0": "SCORE OF 6",
+    "9.0": "NO CODE OR NO DATA"
+  },
+  "S64.V110": {
+    "0.0": "SCORE OF 0",
+    "2.0": "SCORE OF 2",
+    "NaN": "NA",
+    "1.0": "SCORE OF 1",
+    "3.0": "SCORE OF 3",
+    "4.0": "SCORE OF 4",
+    "5.0": "SCORE OF 5",
+    "6.0": "SCORE OF 6",
+    "7.0": "SCORE OF 7",
+    "9.0": "NO CODE OR NO DATA"
+  },
+  "S64.V111": {
+    "2.0": "SCORE OF 2",
+    "4.0": "SCORE OF 4",
+    "5.0": "SCORE OF 5",
+    "9.0": "NO CODE OR NO DATA",
+    "NaN": "NA",
+    "0.0": "0. SCORE OF 0",
+    "1.0": "SCORE OF 1",
+    "3.0": "SCORE OF 3"
+  },
+  "S64.V112": {
+    "0.0": "SCORE OF 0",
+    "2.0": "SCORE OF 2",
+    "NaN": "NA",
+    "1.0": "SCORE OF 1",
+    "3.0": "SCORE OF 3",
+    "4.0": "SCORE OF 4",
+    "5.0": "SCORE OF 5",
+    "6.0": "SCORE OF 6",
+    "7.0": "SCORE OF 7",
+    "9.0": "NO CODE OR NO DATA"
+  },
+  "S64.V113": {
+    "0.0": "SCORE OF 0",
+    "1.0": "SCORE OF 1",
+    "2.0": "SCORE OF 2",
+    "9.0": "NO CODE OR NO DATA"
+  },
+  "S64.V114": {
+    "0.0": "SCORE OF 0",
+    "1.0": "SCORE OF 1",
+    "2.0": "SCORE OF 2",
+    "9.0": "NO CODE OR NO DATA"
+  },
+  "S64.V115": {
+    "0.0": "SCORE OF 0",
+    "NaN": "NA",
+    "1.0": "SCORE OF 1",
+    "2.0": "SCORE OF 2",
+    "3.0": "SCORE OF 3",
+    "4.0": "SCORE OF 4",
+    "5.0": "SCORE OF 5",
+    "6.0": "SCORE OF 6",
+    "9.0": "NO CODE OR NO DATA"
+  },
+  "S64.V116": {
+    "0.0": "SCORE OF 0",
+    "1.0": "SCORE OF 1",
+    "2.0": "SCORE OF 2",
+    "3.0": "SCORE OF 3",
+    "4.0": "SCORE OF 4",
+    "NaN": "NA",
+    "5.0": "SCORE OF 5",
+    "6.0": "SCORE OF 6",
+    "9.0": "NO CODE OR NO DATA"
+  },
+  "S64.V117": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "CAMP ADAIR, ORE.",
+    "2.0": "GOWEN FIELD, IDAHO",
+    "3.0": "HAMILTON FIELD, CAL.",
+    "5.0": "CAMP HAAN, CAL.",
+    "9.0": "CAMP MCCAIN, MISS",
+    "14.0": "FORT DEVENS, MASS.",
+    "41.0": "CAMP BLANDING, FLA.",
+    "51.0": "FORT KNOX, KY.",
+    "57.0": "CAMP POLK, LA.",
+    "58.0": "MUNICIPAL AIRPORT, MEMPHIS, TENN.",
+    "63.0": "FORT SHERIDAN, ILL.",
+    "65.0": "FORT BRADY, MICH.",
+    "66.0": "FORT MEADE, S.D.",
+    "72.0": "FORT LEONARD WOOD, MO.",
+    "77.0": "ELLINGTON, TEXAS",
+    "78.0": "CAMP MAXEY, TEXAS",
+    "79.0": "SHEPPARD FIELD, TEX.",
+    "90.0": "DREW FIELD, FLA.",
+    "91.0": "LOWRY FIELD, COLO.",
+    "95.0": "FORT LEWIS, WASH.",
+    "99.0": "CAMP ROBERTS, CAL."
+  }
+}

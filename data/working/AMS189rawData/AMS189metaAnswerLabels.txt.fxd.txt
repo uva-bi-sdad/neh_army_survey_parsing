@@ -1,0 +1,196 @@
+{
+  "S189.Q1": {
+    "0.0": "NO ANSWER",
+    "1.0": "3 MONTHS OR LESS",
+    "2.0": "OVER 3 MONTHS UP TO 6 MONTHS",
+    "3.0": "OVER 6 MONTHS UP TO 1 YEAR",
+    "4.0": "OVER 1 YEAR UP TO 2 YEARS",
+    "5.0": "OVER TWO YEARS"
+  },
+  "S189.Q2": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY OFTEN",
+    "2.0": "OFTEN",
+    "3.0": "ONCE IN A WHILE",
+    "4.0": "SELDOM OR NEVER",
+    "5.0": "NO ANSWER"
+  },
+  "S189.Q3": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALMOST ALL OF THE TIME",
+    "2.0": "MOST OF THE TIME",
+    "3.0": "SOME OF THE TIME",
+    "4.0": "NONE OF THE TIME",
+    "5.0": "NOT SURE"
+  },
+  "S189.Q4": {
+    "0.0": "NO ANSWER",
+    "1.0": "I HAVEN'T LISTENED TO THE ALLIED EXPEDITIONARY FORCES PROGRAMS",
+    "2.0": "NO, NOTHING I PARTICULARLY LIKE",
+    "3.0": "YES - I PARTICULARLY LIKE (SOMETHING WRITTEN IN)",
+    "4.0": "YES, NOTHING WRITTEN IN"
+  },
+  "S189.Q5": {
+    "0.0": "NO ANSWER",
+    "1.0": "I HAVEN'T LISTENED TO THE ALLIED EXPEDITIONARY FORCES PROGRAMS",
+    "2.0": "NO, NOTHING I PARTICULARLY DISLIKE",
+    "3.0": "YES, I PARTICULARLY DISLIKE (SOMETHING WRITTEN IN)",
+    "4.0": "YES, NOTHING WRITTEN IN"
+  },
+  "S189.Q6A": {
+    "0.0": "NO ANSWER",
+    "1.0": "I LIKE THEM",
+    "2.0": "I DISLIKE THEM",
+    "3.0": "I NEITHER LIKE NOR DISLIKE THEM",
+    "4.0": "I HAVE NEVER HEARD ANY"
+  },
+  "S189.Q6B": {
+    "0.0": "NO ANSWER",
+    "1.0": "I LIKE THEM",
+    "2.0": "I DISLIKE THEM",
+    "3.0": "I NEITHER LIKE NOR DISLIKE THEM",
+    "4.0": "I HAVE NEVER HEARD ANY"
+  },
+  "S189.Q6C": {
+    "0.0": "NO ANSWER",
+    "1.0": "I LIKE THEM",
+    "2.0": "I DISLIKE THEM",
+    "3.0": "I NEITHER LIKE NOR DISLIKE THEM",
+    "4.0": "I HAVE NEVER HEARD ANY"
+  },
+  "S189.Q6D": {
+    "0.0": "NO ANSWER",
+    "1.0": "I LIKE THEM",
+    "2.0": "I DISLIKE THEM",
+    "3.0": "I NEITHER LIKE NOR DISLIKE THEM",
+    "4.0": "I HAVE NEVER HEARD ANY"
+  },
+  "S189.Q6E": {
+    "0.0": "NO ANSWER",
+    "1.0": "I LIKE THEM",
+    "2.0": "I DISLIKE THEM",
+    "3.0": "I NEITHER LIKE NOR DISLIKE THEM",
+    "4.0": "I HAVE NEVER HEARD ANY"
+  },
+  "S189.Q6F": {
+    "0.0": "NO ANSWER",
+    "1.0": "I LIKE THEM",
+    "2.0": "I DISLIKE THEM",
+    "3.0": "I NEITHER LIKE NOR DISLIKE THEM",
+    "4.0": "I HAVE NEVER HEARD ANY"
+  },
+  "S189.Q6G": {
+    "0.0": "NO ANSWER",
+    "1.0": "I LIKE THEM",
+    "2.0": "I DISLIKE THEM",
+    "3.0": "I NEITHER LIKE NOR DISLIKE THEM",
+    "4.0": "I HAVE NEVER HEARD ANY"
+  },
+  "S189.Q6H": {
+    "0.0": "NO ANSWER",
+    "1.0": "I LIKE THEM",
+    "2.0": "I DISLIKE THEM",
+    "3.0": "I NEITHER LIKE NOR DISLIKE THEM",
+    "4.0": "I HAVE NEVER HEARD ANY"
+  },
+  "S189.Q6I": {
+    "0.0": "NO ANSWER",
+    "1.0": "I LIKE THEM",
+    "2.0": "I DISLIKE THEM",
+    "3.0": "I NEITHER LIKE NOR DISLIKE THEM",
+    "4.0": "I HAVE NEVER HEARD ANY"
+  },
+  "S189.Q6J": {
+    "0.0": "NO ANSWER",
+    "1.0": "I LIKE THEM",
+    "2.0": "I DISLIKE THEM",
+    "3.0": "I NEITHER LIKE NOR DISLIKE THEM",
+    "4.0": "I HAVE NEVER HEARD ANY"
+  },
+  "S189.Q6K": {
+    "0.0": "NO ANSWER",
+    "1.0": "I LIKE THEM",
+    "2.0": "I DISLIKE THEM",
+    "3.0": "I NEITHER LIKE NOR DISLIKE THEM",
+    "4.0": "I HAVE NEVER HEARD ANY"
+  },
+  "S189.Q6L": {
+    "0.0": "NO ANSWER",
+    "1.0": "I LIKE THEM",
+    "2.0": "I DISLIKE THEM",
+    "3.0": "I NEITHER LIKE NOR DISLIKE THEM",
+    "4.0": "I HAVE NEVER HEARD ANY"
+  },
+  "S189.Q7": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NOT SURE"
+  },
+  "S189.Q8A": {
+    "0.0": "NO ANSWER",
+    "1.0": "LIKE IT VERY MUCH",
+    "2.0": "LIKE IT FAIRLY WELL",
+    "3.0": "DON'T PARTICULARLY LIKE OR DISLIKE IT",
+    "4.0": "DISLIKE IT PRETTY MUCH",
+    "5.0": "DISLIKE IT VERY MUCH"
+  },
+  "S189.Q8B": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, SOMETHING WRITTEN IN",
+    "2.0": "NO",
+    "3.0": "YES, NOTHING WRITTEN IN"
+  },
+  "S189.Q8C": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, SOMETHING WRITTEN IN",
+    "2.0": "NO",
+    "3.0": "YES, NOTHING WRITTEN IN"
+  },
+  "S189.Q9": {
+    "0.0": "NO ANSWER",
+    "1.0": "FEEL THAT THE PRESENT JOINT BROADCASTING SERVICE IS BEST",
+    "2.0": "FEEL THAT EACH OF THE ALLIES SHOULD BROADCAST THEIR PROGRAMS PRINCIPALLY TO THEIR OWN TROOPS",
+    "3.0": "FEEL IT DOESN'T MAKE MUCH DIFFERENCE HOW IT IS DONE"
+  },
+  "S189.V9A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ANTI-BRITISH",
+    "2.0": "PRO-AMERICAN",
+    "3.0": "OTHER",
+    "4.0": "NO ANSWER"
+  },
+  "S189.Q10": {
+    "0.0": "NO ANSWER",
+    "1.0": "FIELD ARTILLERY",
+    "2.0": "QUARTERMASTER",
+    "3.0": "INFANTRY",
+    "4.0": "ARMORED COMMAND",
+    "5.0": "AIR CORPS",
+    "6.0": "TRANSPORTATION CORPS",
+    "7.0": "ORDNANCE DEPARTMENT",
+    "8.0": "OTHER"
+  },
+  "S189.Q11": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN 6TH GRADE",
+    "2.0": "FINISHED 6TH GRADE",
+    "3.0": "FINISHED 7TH GRADE",
+    "4.0": "FINISHED 8TH GRADE",
+    "5.0": "SOME HIGH SCHOOL BUT DID NOT FINISH",
+    "6.0": "GRADUATED FROM HIGH SCHOOL",
+    "7.0": "SOME COLLEGE BUT DID NOT FINISH",
+    "8.0": "GRADUATED FROM COLLEGE"
+  },
+  "S189.Q12": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S189.V13": {
+    "0.0": "NO ANSWER",
+    "1.0": "PRO-AMERICAN COMMENTS",
+    "2.0": "ANTI-BRITISH COMMENTS",
+    "3.0": "OTHER"
+  }
+}
