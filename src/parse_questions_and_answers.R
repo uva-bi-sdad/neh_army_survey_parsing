@@ -44,6 +44,7 @@ parse_questions_and_answers <- function(codebook_file_path, answer_file_path) {
   # PARSE TO QUESTIONS AND OPTIONS
   print("parse questions")
   questions <- parse_questions(questions)
+  browser()
   # REPLACE CONTINUED QUESTIONS TEXT
   questions <- replace_continued(questions)
   # EXTRACT QUESTION COLUMN WIDTHS
