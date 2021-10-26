@@ -4,7 +4,7 @@ file_paths <- list.files("data/working", pattern = "*CLEAN_NOM_nocounts.sav", fu
 
 string_fixes <- list()
 string_fixes$problem <- c("B-29,S", "NEGRO,S", "IT,S", "C.O.,S ORDERS", "M.P.,S", "SOLDIER,S JOB", "4F,S")
-string_fixes$fix <- c("B-29S", "NEGROS", "IT'S", "C.O.'S ORDERS", "M.P.S", "SOLDIER'S JOB", "4FS")
+string_fixes$fix <- c("B-29'S", "NEGROS'", "IT'S", "C.O.'S ORDERS", "M.P.'S", "SOLDIER'S JOB", "4F'S")
 
 for (file_path in file_paths) {
   tbl_haven_labelled <- haven::read_spss(file_path)
