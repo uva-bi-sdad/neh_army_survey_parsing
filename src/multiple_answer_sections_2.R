@@ -2,7 +2,7 @@ library("data.table")
 library(tools)
 library(stringr)
 
-<<<<<<< HEAD:src/multiple_answer_sections_2.R
+
 orig_sav_files <- as.data.table(list.files("data/working", pattern = "*.sav", full.names = TRUE))
 orig_sav_files <- orig_sav_files[!V1 %like% "_CLEAN_"]
 # sav_file_path <- "data/working/AMS0212.sav"
