@@ -3,10 +3,6 @@ library(tools)
 library(stringr)
 
 
-orig_sav_files <- as.data.table(list.files("data/working", pattern = "*.sav", full.names = TRUE))
-orig_sav_files <- orig_sav_files[!V1 %like% "_CLEAN_"]
-# sav_file_path <- "data/working/AMS0212.sav"
-
 get_new_qid <- function(q_id_old) {
   # if doesn't have ..some_number, then .1
   # if has ..some_number, then .some_number+1
@@ -29,12 +25,18 @@ find_sav_E_value_labels <- function(sav_file_path) {
     if (any(str_detect(names(attr(tbl_haven_labelled[i][[1]], "labels")), ".* E\\. .*")) == TRUE) {
       QROW <- i
       QID <- attr(tbl_haven_labelled[i][1], "names")
-      QGROUP <- str_match(QID, "^(.*)\\.\\.")[,2]
+      QGROUP <- str_match(QID, "^(.*)\\.?\\.?")[,2]
+      if(str_detect(QID, "\\.\\.")) {
+        QGROUP <- str_match(QID, "^(.*)\\.\\.")[,2]
+      } else {
+        QGROUP <- QID 
+      }
       QLABEL <- attr(tbl_haven_labelled[i][[1]], "label")
       QVLROW <- which(str_detect(names(attr(tbl_haven_labelled[i][[1]], "labels")), " E\\. "))
       QVLABEL <- names(attr(tbl_haven_labelled[i][[1]], "labels"))[QVLROW] %>%
         str_match(" E\\. .*?[:\\.]")
       QVLABEL <- QVLABEL[1,1]
+      if (is.na(QVLABEL)) next
       
       QVE <- data.table(QGROUP, QROW, QID, QLABEL, QVLABEL)
       
@@ -42,11 +44,12 @@ find_sav_E_value_labels <- function(sav_file_path) {
       else QVEs <- QVE
     }
   }
-  QVEs
+  if (exists("QVEs")) QVEs
 }
 
 qves <- find_sav_E_value_labels("data/working/AMS0212.sav")
 qves <- find_sav_E_value_labels("data/working/AMS0044T.sav")
+qves <- find_sav_E_value_labels("data/working/AMS205E.sav")
 
 
 find_sav_qs_with_wrong_E_label <- function(sav_file_path, qves) {
@@ -56,21 +59,30 @@ find_sav_qs_with_wrong_E_label <- function(sav_file_path, qves) {
     #browser()
     qves_grp <- qves[QGROUP==g,]
     qves_grp_max_row <- max(which(str_detect(attr(tbl_haven_labelled, "names"), g)))
+    if (is.infinite(qves_grp_max_row)) {
+      next
+    }
     for (i in 1:nrow(qves_grp)) {
       e_lab <- qves_grp[i,]$QVLABEL
       start_row <- qves_grp[i,]$QROW + 1
       end_row <- qves_grp[i + 1,]$QROW
       if (is.na(end_row)) end_row <- qves_grp_max_row
+      
+      if (end_row < start_row) {
+        next
+      }
+      
       e_group <- data.table(g, e_lab, start_row, end_row)
       if(exists("e_groups")) e_groups <- rbindlist(list(e_groups, e_group))
       else e_groups = e_group
     }
   }
-  e_groups
+  if (exists("e_groups")) e_groups
 }
 
 egrps <- find_sav_qs_with_wrong_E_label("data/working/AMS0212.sav", qves)
 egrps <- find_sav_qs_with_wrong_E_label("data/working/AMS0044T.sav", qves)
+egrps <- find_sav_qs_with_wrong_E_label("data/working/AMS205E.sav", qves)
 
 
 check_fix_egrps <- function(sav_file_path, egrps) {
@@ -96,13 +108,66 @@ check_fix_egrps <- function(sav_file_path, egrps) {
     }
   }
   #tbl_haven_labelled
-  out_rows
+  if (exists("out_rows")) out_rows
 }
 
 fixed_labels <- check_fix_egrps("data/working/AMS0212.sav", egrps)
 fixed_labels <- check_fix_egrps("data/working/AMS0044T.sav", egrps)
 
 
+orig_sav_files <- as.data.table(list.files("data/working", pattern = "*.sav", full.names = TRUE))
+orig_sav_files <- orig_sav_files[!V1 %like% "_CLEAN_"]
+# sav_file_path <- "data/working/AMS0212.sav"
+new_file_names <- fread("data/working/update_2021_10_31/SAV_file_matching.csv")
 
 
+fix <- function(file_paths) {
+  for (f in file_paths) {
+    #browser()
+    print(f)
+    qves <- find_sav_E_value_labels(f)
+    if (!is.null(qves)) egrps <- find_sav_qs_with_wrong_E_label(f, qves)
+    else next
+    if (!is.null(egrps)) fixed <- check_fix_egrps(f, egrps)
+    else next
+    if (!is.null(fixed)) fixed$new_file <- new_file_names[BI==basename(f), DataBridge]
+    else next
+    if (exists("fixed_all")) fixed_all <- rbindlist(list(fixed_all, fixed))
+    else fixed_all <- fixed
+  }
+  if (exists("fixed_all")) fixed_all
+}
+
+
+all_fixed <- fix(orig_sav_files[, V1])
+
+all_fixed[, new_q_label := str_replace(new_q_label, "S0.*?\\. ", "")]
+all_fixed[, new_q_label := str_replace(new_q_label, " +[0-9]+$", "")]
+all_fixed <- unique(all_fixed)
+all_fixed[, new_file := str_replace(new_file, ".sav", "_nocounts.sav")]
+fnl <- all_fixed[, .(file = new_file, qid = new_q_id, new_label = new_q_label)]
+
+write.csv(fnl, "data/working/update_2021_10_31/E_Section_Fixes.csv", row.names = F)
+
+
+# Write Fixes To SAV Files
+
+readr::write_lines(paste("qid", fnl[i]$qid, "does not exist"),
+                   "Rewrite Question Labels Issues",
+                   append = FALSE)
+for (i in 1:nrow(fnl)) {
+  print(i)
+  print(fnl[i])
+  file_path <- paste0("data/working/update_2021_10_31/", fnl[i]$file)
+  tbl_hvn <- haven::read_spss(file_path)
+  if (any(names(tbl_hvn) == fnl[i]$qid)) {
+    attr(tbl_hvn[names(tbl_hvn) == fnl[i]$qid][[1]], "label") <- fnl[i]$new_label
+    haven::write_sav(tbl_hvn, file_path)
+  } else {
+    readr::write_lines(paste("qid", fnl[i]$qid, "does not exist"),
+                       "data/working/update_2021_10_31/q_label_problems.txt",
+                       append = TRUE)
+  }
+}
+ 
 
