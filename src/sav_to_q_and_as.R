@@ -1,9 +1,6 @@
 
 
-file_path <- "data/working/update_2021_11_19/AMS227_CLEAN_NOM_nocounts_lbl_txt_fix.sav"
-tbl_haven_labelled <- haven::read_spss(file_path)
-
-file_paths <- list.files("data/working/update_2021_11_19/", pattern = "*nocounts_lbl_txt_fix.sav", full.names = TRUE)
+file_paths <- list.files("data/working/update_2021_11_22/", pattern = "*nocounts_lbl_txt_fix.sav", full.names = TRUE)
 
 if (exists("qs_and_as")) rm(qs_and_as)
 
@@ -25,5 +22,5 @@ for (f in 1:length(file_paths)) {
       data.table::rbindlist(list(qs_and_as, dt), fill = TRUE)
   }
 }
-
-rio::export(qs_and_as, "data/working/update_2021_11_19/all_qs_and_as.xlsx")
+  
+rio::export(qs_and_as, "data/working/update_2021_11_22/all_qs_and_as.xlsx")
