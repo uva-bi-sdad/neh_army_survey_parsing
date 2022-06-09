@@ -23,4 +23,4 @@ for (f in 1:length(file_paths)) {
   }
 }
   
-rio::export(qs_and_as, "data/working/update_2021_11_22/all_qs_and_as.xlsx")
+rio::export(qs_and_as, "data/working/update_2021_11_22/all_qs_and_as.xlsx", overwrite=T)
