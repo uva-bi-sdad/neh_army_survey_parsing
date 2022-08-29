@@ -1,0 +1,1050 @@
+S108.Q1 WHAT IS YOUR RACE?
+  answer_label answer_value raw_counts relative_frequency
+0        NEGRO          1.0          2                0.0
+1        WHITE          2.0        952               0.99
+2        OTHER          3.0          4                0.0
+
+
+
+S108.Q2 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0          5               0.01
+1   18 YEARS OR YOUNGER          1.0         46               0.05
+2              19 YEARS          2.0         10               0.01
+3                    20          3.0          8               0.01
+4                    22          5.0         16               0.02
+5                    23          6.0         22               0.02
+6                    24          7.0         16               0.02
+7                    25          8.0         48               0.05
+8           26-29 YEARS          9.0        254               0.27
+9           30-34 YEARS         10.0        357               0.37
+10   35 YEARS AND OLDER         11.0        176               0.18
+
+
+
+S108.Q3 HOW FAR DID YOU GO IN SCHOOL?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0          2                0.0
+1              GRADE OR GRAMMAR SCHOOL          1.0        168               0.18
+2  SOME HIGH SCHOOL BUT DID NOT FINISH          2.0        304               0.32
+3           GRADUATED FROM HIGH SCHOOL          3.0        184               0.19
+4      SOME COLLEGE BUT DID NOT FINISH          4.0        140               0.15
+5               GRADUATED FROM COLLEGE          5.0        160               0.17
+
+
+
+S108.Q4 ARE YOU:
+            answer_label answer_value raw_counts relative_frequency
+0                 SINGLE          1.0        122               0.13
+1                MARRIED          2.0        816               0.85
+2  DIVORCED OR SEPARATED          3.0         18               0.02
+3                WIDOWED          4.0          2                0.0
+
+
+
+S108.Q5 WHERE DID YOU LIVE MOST OF THE TIME BEFORE YOU WERE 16 YEARS OLD?
+                                       answer_label answer_value raw_counts relative_frequency
+0                       ON A FARM OR IN THE COUNTRY          1.0        160               0.17
+1         IN A SMALL TOWN (FEWER THAN 2,500 PEOPLE)          2.0        110               0.11
+2  IN A TOWN (WITH BETWEEN 2,500 AND 25,000 PEOPLE)          3.0        126               0.13
+3     IN A CITY (BETWEEN 25,000 AND 100,000 PEOPLE)          4.0        154               0.16
+4        IN A LARGE CITY (MORE THAN 100,000 PEOPLE)          5.0        408               0.43
+
+
+
+S108.Q6 UP TO NOW, HOW MANY DIFFERENT STATES OF THE UNITED STATES HAVE YOU BEEN IN TO LIVE OR WORK?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0          8               0.01
+1              ONE STATE          1.0        131               0.14
+2                    TWO          2.0        139               0.15
+3                  THREE          3.0        109               0.11
+4                   FOUR          4.0         82               0.09
+5                   FIVE          5.0         79               0.08
+6                    SIX          6.0        106               0.11
+7                  SEVEN          7.0        123               0.13
+8                  EIGHT          8.0        147               0.15
+9                   NINE          9.0          7               0.01
+10            TEN STATES         10.0          5               0.01
+11  MORE THAN TEN STATES         11.0         22               0.02
+
+
+
+S108.Q7 HOW MANY BROTHERS AND SISTERS OLDER THAN YOU DO YOU HAVE?
+    answer_label answer_value raw_counts relative_frequency
+0           NONE          1.0        346               0.36
+1            ONE          2.0        220               0.23
+2            TWO          3.0        158               0.16
+3  THREE OR MORE          4.0        234               0.24
+
+
+
+S108.Q8 HOW MANY BROTHERS AND SISTERS YOUNGER THAN YOU DO YOU HAVE?
+    answer_label answer_value raw_counts relative_frequency
+0      NO ANSWER          0.0          1                0.0
+1           NONE          1.0        309               0.32
+2            ONE          2.0        254               0.27
+3            TWO          3.0        148               0.15
+4  THREE OR MORE          4.0        246               0.26
+
+
+
+S108.Q9 HOW MANY JOBS DID YOU HAVE IN THE LAST TWO YEARS?
+  answer_label answer_value raw_counts relative_frequency
+0         NONE          1.0         20               0.02
+1          ONE          2.0        598               0.62
+2          TWO          3.0        212               0.22
+3        THREE          4.0         84               0.09
+4         FOUR          5.0         22               0.02
+5         FIVE          6.0          8               0.01
+6  SIX OR MORE          7.0         14               0.01
+
+
+
+S108.Q10 HAVE YOU EVER BEEN FIRED OR ASKED TO RESIGN FROM A JOB?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0          2                0.0
+1                YES          1.0        112               0.12
+2                 NO          2.0        836               0.87
+3  I NEVER HAD A JOB          3.0          8               0.01
+
+
+
+S108.Q11 ABOUT HOW OFTEN DO YOU GO TO CHURCH?
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0          2                0.0
+1        ONCE A WEEK, OR MORE          1.0        194                0.2
+2  TWO OR THREE TIMES A MONTH          2.0         98                0.1
+3          ABOUT ONCE A MONTH          3.0         92                0.1
+4        SEVERAL TIMES A YEAR          4.0        306               0.32
+5                ALMOST NEVER          5.0        266               0.28
+
+
+
+S108.Q12 WHAT SORT OF A TIME DO YOU HAVE IN GENERAL?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0          2                0.0
+1    I HAVE A PRETTY GOOD TIME          1.0        626               0.65
+2       IT'S ABOUT FIFTY-FIFTY          2.0        312               0.33
+3  I HAVE A PRETTY ROTTEN TIME          3.0         18               0.02
+
+
+
+S108.Q13 DO YOU THINK YOU CAN MAKE GOOD IN THE ARMY?
+                                answer_label answer_value raw_counts relative_frequency
+0                                  NO ANSWER          0.0          4                0.0
+1           I FEEL VERY SURE I CAN MAKE GOOD          1.0        622               0.65
+2  I THINK I CAN MAKE GOOD, BUT I'M NOT SURE          2.0        192                0.2
+3              I DON'T THINK I CAN MAKE GOOD          3.0         26               0.03
+4                                  UNDECIDED          4.0        114               0.12
+
+
+
+S108.Q14 IN GENERAL, HOW WOULD YOU SAY YOU FEEL MOST OF THE TIME, IN GOOD SPIRITS OR IN LOW SPIRITS?
+                                                                answer_label answer_value raw_counts relative_frequency
+0                                               I AM USUALLY IN GOOD SPIRITS          1.0        644               0.67
+1  I AM IN GOOD SPIRITS SOME OF THE TIME AND IN LOW SPIRITS SOME OF THE TIME          2.0        292                0.3
+2                                                I AM USUALLY IN LOW SPIRITS          3.0         22               0.02
+
+
+
+S108.Q15 DO YOU THINK YOU SHOULD HAVE BEEN DEFERRED?
+                                                     answer_label answer_value raw_counts relative_frequency
+0                                                       NO ANSWER          0.0          6               0.01
+1                  YES, BECAUSE OF DEPENDENTS WHO NEED MY SUPPORT          1.0        212               0.22
+2                        YES, BECAUSE OF THE IMPORTANCE OF MY JOB          2.0         62               0.06
+3                 YES, BECAUSE OF MY HEALTH OR PHYSICAL CONDITION          3.0         86               0.09
+4                               YES, BECAUSE OF SOME OTHER REASON          4.0          8               0.01
+5      TWO OR MORE REASONS CHECKED, ONE OF WHICH IS HEALTH CODE 3          5.0         46               0.05
+6  TWO OR MORE REASONS CHECKED, NEITHER OF WHICH IS HEALTH CODE 3          6.0         26               0.03
+7                  NO, I DO NOT THINK I SHOULD HAVE BEEN DEFERRED          7.0        512               0.53
+
+
+
+S108.Q16 ARE YOU EVER WORRIED AND UPSET?
+                         answer_label answer_value raw_counts relative_frequency
+0  I AM HARDLY EVER WORRIED AND UPSET          1.0        316               0.33
+1    I AM SOMETIMES WORRIED AND UPSET          2.0        536               0.56
+2        I AM OFTEN WORRIED AND UPSET          3.0        106               0.11
+
+
+
+S108.Q17 DO YOU OFTEN SAY THINGS THAT YOU LATER WISH YOU HADN'T SAID?
+   answer_label answer_value raw_counts relative_frequency
+0    VERY OFTEN          1.0         84               0.09
+1     SOMETIMES          2.0        642               0.67
+2  ALMOST NEVER          3.0        232               0.24
+
+
+
+S108.Q18 DO YOU WORRY MUCH ABOUT THINGS THAT MIGHT HAPPEN TO YOU?
+            answer_label answer_value raw_counts relative_frequency
+0     WORRY A GREAT DEAL          1.0         42               0.04
+1      WORRY QUITE A BIT          2.0        166               0.17
+2  DON'T WORRY VERY MUCH          3.0        606               0.63
+3     DON'T WORRY AT ALL          4.0        144               0.15
+
+
+
+S108.Q19 DO YOU THINK YOU HAVE AS MUCH OF A PERSONAL STAKE IN THIS WAR AS ANYBODY ELSE?
+                   answer_label answer_value raw_counts relative_frequency
+0                           YES          1.0        854               0.89
+1  I THINK SO, BUT I'M NOT SURE          2.0         52               0.05
+2                            NO          3.0         22               0.02
+3                     UNDECIDED          4.0         30               0.03
+
+
+
+S108.Q20 IN YOUR OPINION IS THE UNITED STATES FIGHTING FOR THINGS THAT YOU FEEL ARE WORTH FIGHTING FOR?
+                   answer_label answer_value raw_counts relative_frequency
+0                           YES          1.0        882               0.92
+1  I THINK SO, BUT I'M NOT SURE          2.0         42               0.04
+2                            NO          3.0          8               0.01
+3                     UNDECIDED          4.0         26               0.03
+
+
+
+S108.Q21 DO YOU THINK IT WOULD MAKE MUCH DIFFERENCE TO YOU PERSONALLY IF WE DID NOT WIN THIS WAR?
+                                     answer_label answer_value raw_counts relative_frequency
+0  IT WOULD MAKE A GREAT DEAL OF DIFFERENCE TO ME          1.0        910               0.95
+1   IT WOULD MAKE QUITE A BIT OF DIFFERENCE TO ME          2.0         38               0.04
+2      IT WOULD NOT MAKE SO MUCH DIFFERENCE TO ME          3.0          8               0.01
+3          IT WOULD NOT MAKE ANY DIFFERENCE TO ME          4.0          2                0.0
+
+
+
+S108.Q22 DO YOU EVER GET THE FEELING THAT THIS WAR IS NOT WORTH FIGHTING?
+                 answer_label answer_value raw_counts relative_frequency
+0                  VERY OFTEN          1.0         28               0.03
+1                   SOMETIMES          2.0         82               0.09
+2  ONLY ONCE IN A GREAT WHILE          3.0        128               0.13
+3                       NEVER          4.0        720               0.75
+
+
+
+S108.Q23 DO YOU THINK THE THINGS WE ARE FIGHTING FOR ARE WORTH RISKING YOUR LIFE FOR?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0          4                0.0
+1                           YES          1.0        822               0.86
+2  I THINK SO, BUT I'M NOT SURE          2.0         82               0.09
+3                            NO          3.0         18               0.02
+4                     UNDECIDED          4.0         32               0.03
+
+
+
+S108.Q24 IF IT WERE UP TO YOU, WHAT KIND OF OUTFIT WOULD YOU RATHER BE IN?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                         NO ANSWER          0.0          4                0.0
+1                       IN A COMBAT OUTFIT OVERSEAS          1.0        420               0.44
+2                   IN A NON-COMBAT OUTFIT OVERSEAS          2.0        192                0.2
+3  IN AN OUTFIT THAT WILL STAY IN THE UNITED STATES          3.0        342               0.36
+
+
+
+S108.Q25 IF IT WERE UP TO YOU TO CHOOSE, DO YOU THINK YOU COULD DO MORE FOR YOUR COUNTRY AS A SOLDIER OR AS A WORKER IN A WAR JOB?
+      answer_label answer_value raw_counts relative_frequency
+0     AS A SOLDIER          1.0        410               0.43
+1  AS A WAR WORKER          2.0        344               0.36
+2        UNDECIDED          3.0        204               0.21
+
+
+
+S108.Q26 IF IT WERE UP TO YOU, AND YOU YOURSELF HAD TO DECIDE, WOULD YOU CHOOSE TO BE A SOLDIER OR A CIVILIAN?
+                    answer_label answer_value raw_counts relative_frequency
+0   WOULD CHOOSE TO BE A SOLDIER          1.0        402               0.42
+1  WOULD CHOOSE TO BE A CIVILIAN          2.0        414               0.43
+2                      UNDECIDED          3.0        142               0.15
+
+
+
+S108.Q27 WHAT WOULD YOU LIKE TO SEE HAPPEN TO THE GERMANS AFTER THE WAR?
+                                      answer_label answer_value raw_counts relative_frequency
+0                                        NO ANSWER          0.0          2                0.0
+1  PUNISH THE LEADERS, BUT NOT THE ORDINARY GERMAN          1.0        722               0.75
+2    MAKE THE ORDINARY GERMAN PEOPLE SUFFER PLENTY          2.0         90               0.09
+3                 WIPE OUT THE WHOLE GERMAN NATION          3.0        144               0.15
+
+
+
+S108.Q28 WHAT WOULD YOU LIKE TO SEE HAPPEN TO THE JAPANESE AFTER THE WAR?
+                                        answer_label answer_value raw_counts relative_frequency
+0                                          NO ANSWER          0.0          2                0.0
+1  PUNISH THE LEADERS, BUT NOT THE ORDINARY JAPANESE          1.0        452               0.47
+2    MAKE THE ORDINARY JAPANESE PEOPLE SUFFER PLENTY          2.0        110               0.11
+3                 WIPE OUT THE WHOLE JAPANESE NATION          3.0        394               0.41
+
+
+
+S108.Q29A BASKETBALL?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         24               0.03
+1        A LOT          1.0        282               0.29
+2     A LITTLE          2.0        422               0.44
+3   NOT AT ALL          3.0        230               0.24
+
+
+
+S108.Q29B BASEBALL?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         14               0.01
+1        A LOT          1.0        512               0.53
+2     A LITTLE          2.0        372               0.39
+3   NOT AT ALL          3.0         60               0.06
+
+
+
+S108.Q29C FISHING OR HUNTING?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         20               0.02
+1        A LOT          1.0        336               0.35
+2     A LITTLE          2.0        410               0.43
+3   NOT AT ALL          3.0        192                0.2
+
+
+
+S108.Q29D GOLF?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         44               0.05
+1        A LOT          1.0         70               0.07
+2     A LITTLE          2.0        290                0.3
+3   NOT AT ALL          3.0        554               0.58
+
+
+
+S108.Q29E FOOTBALL?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         22               0.02
+1        A LOT          1.0        332               0.35
+2     A LITTLE          2.0        358               0.37
+3   NOT AT ALL          3.0        246               0.26
+
+
+
+S108.Q29F TENNIS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         48               0.05
+1        A LOT          1.0        164               0.17
+2     A LITTLE          2.0        362               0.38
+3   NOT AT ALL          3.0        384                0.4
+
+
+
+S108.Q29G OTHER? E. OTHER SPORTS ARE CLASSIFIED AS "BODILY CONTACT" (B) OR "NON- BODILY CONTACT" (X). "BODILY CONTACT" SPORTS INCLUDE: BASKETBALL, BASEBALL, FOOTBALL, OTHER (BOXING, SOCCER, VOLLEYBALL). "NON-BODY" CONTACT SPORTS INCLUDE: FISHING OR HUNTING, GOLF,
+                                       answer_label answer_value raw_counts relative_frequency
+0                                         NO ANSWER          0.0        562               0.59
+1                   INDICATES ONE OR MORE "B" SPORT          1.0         70               0.07
+2                   INDICATES ONE OR MORE "X" SPORT          2.0        270               0.28
+3  INDICATES ONE OR MORE OF BOTH "B" AND "X" SPORTS          3.0         56               0.06
+
+
+
+S108.V29H PARTICIPATION IN SPORTS: E. COUNT ONLY THE SPORTS WHICH HAVE BEEN CHECKED "A LOT" (INCLUDING THOSE LISTED UNDER "OTHER") QUESTIONS 29A-29G.
+                                                                               answer_label answer_value raw_counts relative_frequency
+0  A SPORT FROM "B" (BODILY CONTACT) LIST CHECKED AND NONE FROM "X" (NON-BODY CONTACT) LIST          1.0        210               0.22
+1  A SPORT FROM "X" (NON-BODY CONTACT) LIST CHECKED AND NONE FROM "B" (BODILY CONTACT) LIST          2.0        152               0.16
+2      ONE OR MORE SPORTS CHECKED FROM "B" (BODILY CONTACT) AND "X" (NON-BODY CONTACT) LIST          3.0        442               0.46
+3          NO SPORT FROM EITHER "B" (BODILY CONTACT) OR "X" (NON-BODY CONTACT) LIST CHECKED          4.0        154               0.16
+
+
+
+S108.Q30 DID PEOPLE SEEM TO THINK YOU HAD A HOT TEMPER WHEN YOU WERE A KID?
+  answer_label answer_value raw_counts relative_frequency
+0          YES          1.0        296               0.31
+1           NO          2.0        588               0.61
+2    UNDECIDED          3.0         74               0.08
+
+
+
+S108.Q31 HOW OFTEN DID YOU GET INTO FIGHTS WHEN YOU WERE A KID?
+   answer_label answer_value raw_counts relative_frequency
+0    VERY OFTEN          1.0        146               0.15
+1     SOMETIMES          2.0        518               0.54
+2  ALMOST NEVER          3.0        294               0.31
+
+
+
+S108.Q32 WERE YOU A GOOD FIGHTER AS A KID?
+  answer_label answer_value raw_counts relative_frequency
+0          YES          1.0        336               0.35
+1           NO          2.0        282               0.29
+2    UNDECIDED          3.0        340               0.35
+
+
+
+S108.Q33 HOW DID YOU FEEL ABOUT FIGHTING AS A KID?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0          2                0.0
+1                   REALLY LIKED FIGHTING          1.0         74               0.08
+2  DIDN'T PARTICULARLY LIKE OR DISLIKE IT          2.0        594               0.62
+3             DIDN'T LIKE FIGHTING AT ALL          3.0        288                0.3
+
+
+
+S108.Q34 DO YOU HAVE ANY PARTICULAR PHYSICAL OR HEALTH PROBLEM?
+  answer_label answer_value raw_counts relative_frequency
+0          YES          1.0        360               0.38
+1           NO          2.0        500               0.52
+2    UNDECIDED          3.0         98                0.1
+
+
+
+S108.Q35 HAVE YOU EVER BEEN BOTHERED BY SHORTNESS OF BREATH WHEN YOU WERE NOT EXERCISING OR WORKING HARD?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0          2                0.0
+1      YES, OFTEN          1.0         82               0.09
+2  YES, SOMETIMES          2.0        324               0.34
+3       NO, NEVER          3.0        550               0.57
+
+
+
+S108.Q36 ARE YOU EVER TROUBLED BY YOUR HANDS SWEATING SO THAT THEY FEEL DAMP AND CLAMMY?
+     answer_label answer_value raw_counts relative_frequency
+0      YES, OFTEN          1.0        196                0.2
+1  YES, SOMETIMES          2.0        486               0.51
+2       NO, NEVER          3.0        276               0.29
+
+
+
+S108.Q37 HOW OFTEN ARE YOU BOTHERED BY HAVING AN UPSET STOMACH?
+          answer_label answer_value raw_counts relative_frequency
+0  NEARLY ALL THE TIME          1.0         38               0.04
+1         PRETTY OFTEN          2.0        182               0.19
+2       NOT VERY OFTEN          3.0        612               0.64
+3                NEVER          4.0        126               0.13
+
+
+
+S108.Q38 ARE YOU EVER BOTHERED BY HAVING NIGHTMARES (DREAMS THAT FRIGHTEN OR UPSET YOU VERY MUCH)?
+       answer_label answer_value raw_counts relative_frequency
+0   YES, MANY TIMES          1.0         40               0.04
+1  YES, A FEW TIMES          2.0        372               0.39
+2         NO, NEVER          3.0        546               0.57
+
+
+
+S108.Q39 HAVE YOU EVER BEEN TROUBLED BY "COLD SWEATS"?
+       answer_label answer_value raw_counts relative_frequency
+0        YES, OFTEN          1.0         48               0.05
+1  YES, A FEW TIMES          2.0        380                0.4
+2         NO, NEVER          3.0        530               0.55
+
+
+
+S108.Q40 HAVE YOU EVER HAD ANY FAINTING SPELLS?
+         answer_label answer_value raw_counts relative_frequency
+0  YES, SEVERAL TIMES          1.0         34               0.04
+1    YES, A FEW TIMES          2.0        178               0.19
+2       NEVER HAD ANY          3.0        746               0.78
+
+
+
+S108.Q41 HAVE YOU EVER BEEN BOTHERED BY YOUR HEART BEATING HARD?
+       answer_label answer_value raw_counts relative_frequency
+0        YES, OFTEN          1.0        102               0.11
+1  YES, A FEW TIMES          2.0        416               0.43
+2         NO, NEVER          3.0        440               0.46
+
+
+
+S108.Q42 HAVE YOU EVER BEEN BOTHERED BY PRESSURE OR PAINS IN THE HEAD?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0          2                0.0
+1      YES, OFTEN          1.0        130               0.14
+2  YES, SOMETIMES          2.0        338               0.35
+3       NO, NEVER          3.0        488               0.51
+
+
+
+S108.Q43 HAVE YOU EVER HAD SPELLS OF DIZZINESS?
+       answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER          0.0          4                0.0
+1   YES, MANY TIMES          1.0         76               0.08
+2  YES, A FEW TIMES          2.0        398               0.42
+3         NO, NEVER          3.0        480                0.5
+
+
+
+S108.Q44 DO YOU OFTEN HAVE TROUBLE IN GETTING TO SLEEP OR STAYING ASLEEP?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0          4                0.0
+1    VERY OFTEN          1.0        132               0.14
+2     SOMETIMES          2.0        372               0.39
+3  ALMOST NEVER          3.0        450               0.47
+
+
+
+S108.Q45 DO YOUR HANDS EVER TREMBLE ENOUGH TO BOTHER YOU?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0          5               0.01
+1      YES, OFTEN          1.0         48               0.05
+2  YES, SOMETIMES          2.0        248               0.26
+3       NO, NEVER          3.0        657               0.69
+
+
+
+S108.Q46 DO YOU EVER BITE YOUR FINGERNAILS NOW?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0          4                0.0
+1      YES, OFTEN          1.0         80               0.08
+2  YES, SOMETIMES          2.0        202               0.21
+3       NO, NEVER          3.0        672                0.7
+
+
+
+S108.Q47 DID YOU BITE YOUR FINGERNAILS WHEN YOU WERE A CHILD?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0          4                0.0
+1      YES, OFTEN          1.0        152               0.16
+2  YES, SOMETIMES          2.0        272               0.28
+3       NO, NEVER          3.0        530               0.55
+
+
+
+S108.Q48 ABOUT HOW OLD WERE YOU WHEN YOU STOPPED BITING YOUR FINGERNAILS?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0         10               0.01
+1          LESS THAN 6 YEARS OLD          1.0          2                0.0
+2                      6-9 YEARS          2.0         18               0.02
+3                    10-13 YEARS          3.0         58               0.06
+4                    14-17 YEARS          4.0         52               0.05
+5              18 YEARS AND OVER          5.0         26               0.03
+6    I STILL BITE MY FINGERNAILS          6.0        196                0.2
+7       DON'T KNOW HOW OLD I WAS          7.0        104               0.11
+8  NEVER DID BITE MY FINGERNAILS          8.0        492               0.51
+
+
+
+S108.Q49 WHEN YOU WERE GROWING UP, DID YOU HAVE TROUBLE WITH STUTTERING OR STAMMERING IN YOUR SPEECH?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0          4                0.0
+1      YES, OFTEN          1.0         36               0.04
+2  YES, SOMETIMES          2.0        114               0.12
+3       NO, NEVER          3.0        804               0.84
+
+
+
+S108.Q50 WHAT KIND OF GRADES DID YOU USUALLY GET WHEN YOU WERE IN SCHOOL?
+       answer_label answer_value raw_counts relative_frequency
+0  VERY HIGH GRADES          1.0         80               0.08
+1       HIGH GRADES          2.0        234               0.24
+2     MEDIUM GRADES          3.0        612               0.64
+3        LOW GRADES          4.0         28               0.03
+4   VERY LOW GRADES          5.0          4                0.0
+
+
+
+S108.Q51 AS A CHILD HOW DID YOU FEEL ABOUT GOING TO SCHOOL?
+                                            answer_label answer_value raw_counts relative_frequency
+0                          REALLY WANTED VERY MUCH TO GO          1.0        534               0.56
+1  DIDN'T CARE VERY MUCH WHETHER I WENT TO SCHOOL OR NOT          2.0        372               0.39
+2                              DID NOT AT ALL WANT TO GO          3.0         52               0.05
+
+
+
+S108.Q52 WHEN YOU WERE A KID, HOW OFTEN WOULD YOU SAY YOU PLAYED HOOKY FROM SCHOOL (STAYED AWAY AS MUCH AS A DAY)?
+                                         answer_label answer_value raw_counts relative_frequency
+0                                          VERY OFTEN          1.0         54               0.06
+1                                       SEVERAL TIMES          2.0        294               0.31
+2  ONLY ONCE OR TWICE IN ALL THE TIME I WAS IN SCHOOL          3.0        360               0.38
+3                                               NEVER          4.0        250               0.26
+
+
+
+S108.Q53 DO YOU USUALLY GO AROUND WITH A BUNCH OF OTHERS OR BY YOURSELF?
+                                      answer_label answer_value raw_counts relative_frequency
+0                    I USUALLY GO AROUND BY MYSELF          1.0        136               0.14
+1  I USUALLY GO AROUND WITH JUST ONE OR TWO OTHERS          2.0        624               0.65
+2       I USUALLY GO AROUND WITH A BUNCH OF OTHERS          3.0        198               0.21
+
+
+
+S108.Q54 ON THE WHOLE, DO YOU USUALLY LIKE TO BE BY YOURSELF OR TO BE WITH OTHER PEOPLE?
+                                  answer_label answer_value raw_counts relative_frequency
+0          USUALLY LIKE BETTER TO BE BY MYSELF          1.0        132               0.14
+1  USUALLY LIKE BETTER TO BE WITH OTHER PEOPLE          2.0        720               0.75
+2                                    UNDECIDED          3.0        106               0.11
+
+
+
+S108.Q55 HOW WOULD YOU SAY THE PEOPLE YOU KNOW FEEL ABOUT YOU?
+                 answer_label answer_value raw_counts relative_frequency
+0  ALMOST ALL OF THEM LIKE ME          1.0        420               0.44
+1        MOST OF THEM LIKE ME          2.0        496               0.52
+2       A FEW OF THEM LIKE ME          3.0         42               0.04
+
+
+
+S108.Q56 DO YOU EVER GET SO BLUE AND DISCOURAGED THAT YOU WONDER WHETHER ANYTHING IS WORTHWHILE?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0          2                0.0
+1    VERY OFTEN          1.0         30               0.03
+2  PRETTY OFTEN          2.0         74               0.08
+3  NOT SO OFTEN          3.0        308               0.32
+4   HARDLY EVER          4.0        544               0.57
+
+
+
+S108.Q57 DO YOU EVER FEEL THAT YOU GET MORE THAN YOUR SHARE OF BAD LUCK?
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0          4                0.0
+1    VERY OFTEN FEEL THAT WAY          1.0         82               0.09
+2     SOMETIMES FEEL THAT WAY          2.0        408               0.43
+3  ALMOST NEVER FEEL THAT WAY          3.0        464               0.48
+
+
+
+S108.Q58 WHEN YOU GET A VERY IMPORTANT JOB TO DO, DO YOU WORRY ABOUT WHETHER YOU WILL DO ALL RIGHT OR NOT?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0          4                0.0
+1         I WORRY A LOT          1.0        176               0.18
+2      I WORRY A LITTLE          2.0        574                0.6
+3  I DON'T WORRY AT ALL          3.0        204               0.21
+
+
+
+S108.Q59 HOW WORRIED ARE YOU ABOUT YOUR FAMILY BACK HOME?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          2                0.0
+1    VERY MUCH          1.0        512               0.53
+2     A LITTLE          2.0        358               0.37
+3   NOT AT ALL          3.0         86               0.09
+
+
+
+S108.Q60 DO YOU EVER SERIOUSLY WORRY ABOUT WHETHER OR NOT THERE WILL BE A REAL DEPRESSION AFTER THIS WAR?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0          2                0.0
+1    WORRY ABOUT IT VERY OFTEN          1.0        136               0.14
+2     WORRY ABOUT IT SOMETIMES          2.0        440               0.46
+3  ALMOST NEVER WORRY ABOUT IT          3.0        380                0.4
+
+
+
+S108.Q61 DO YOU EVER WORRY ABOUT WHETHER YOU WILL BE INJURED IN COMBAT BEFORE THE WAR IS OVER?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0          2                0.0
+1  WORRY A GREAT DEAL ABOUT IT          1.0         64               0.07
+2  WORRY ABOUT IT FAIRLY OFTEN          2.0        158               0.16
+3   HARDLY EVER WORRY ABOUT IT          3.0        362               0.38
+4         NEVER WORRY ABOUT IT          4.0        372               0.39
+
+
+
+S108.Q62 HOW OFTEN DO PEOPLE HURT YOUR FEELINGS?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0          2                0.0
+1    VERY OFTEN          1.0         28               0.03
+2     SOMETIMES          2.0        460               0.48
+3  ALMOST NEVER          3.0        468               0.49
+
+
+
+S108.Q63 HOW OFTEN DOES IT MAKE YOU SORE TO HAVE PEOPLE TELL YOU WHAT TO DO?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0          2                0.0
+1    VERY OFTEN          1.0         94                0.1
+2     SOMETIMES          2.0        452               0.47
+3  ALMOST NEVER          3.0        410               0.43
+
+
+
+S108.Q64 HOW MUCH DOES IT BOTHER YOU WHEN YOU ARE ORDERED TO DO SOMETHING YOU DON'T SEE A GOOD REASON FOR DOING?
+               answer_label answer_value raw_counts relative_frequency
+0                 NO ANSWER          0.0          4                0.0
+1   BOTHERS ME A GREAT DEAL          1.0        182               0.19
+2           BOTHERS ME SOME          2.0        352               0.37
+3    BOTHERS ME VERY LITTLE          3.0        282               0.29
+4  DOESN'T BOTHER ME AT ALL          4.0        138               0.14
+
+
+
+S108.Q65 HOW OFTEN DO PEOPLE GET ON YOUR NERVES SO THAT YOU WANT TO DO JUST THE OPPOSITE OF WHAT THEY WANT YOU TO DO?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0          2                0.0
+1    VERY OFTEN          1.0         48               0.05
+2     SOMETIMES          2.0        404               0.42
+3  ALMOST NEVER          3.0        504               0.53
+
+
+
+S108.Q66 DO YOU EVER GO OUT OF YOUR WAY TO MAKE THINGS TOUGH OR UNPLEASANT FOR SOMEBODY YOU DON'T LIKE?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0          2                0.0
+1    VERY OFTEN          1.0         18               0.02
+2     SOMETIMES          2.0        104               0.11
+3  ALMOST NEVER          3.0        834               0.87
+
+
+
+S108.Q67 DO YOU EVER FEEL LIKE SMASHING THINGS FOR NO SPECIAL REASON?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0          2                0.0
+1    VERY OFTEN          1.0         16               0.02
+2     SOMETIMES          2.0        188                0.2
+3  ALMOST NEVER          3.0        752               0.78
+
+
+
+S108.Q68 DO YOU FIND THAT YOU OFTEN HAVE TO TELL PEOPLE TO MIND THEIR OWN BUSINESS?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0          2                0.0
+1    VERY OFTEN          1.0         20               0.02
+2     SOMETIMES          2.0        338               0.35
+3  ALMOST NEVER          3.0        598               0.62
+
+
+
+S108.Q69 DO YOU EVER FEEL THAT PEOPLE CRITICIZE YOU TOO MUCH WITHOUT ANY GOOD REASON?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0          2                0.0
+1  I FEEL THAT WAY NEARLY ALL OF THE TIME          1.0          6               0.01
+2            I FEEL THAT WAY FAIRLY OFTEN          2.0         34               0.04
+3    I FEEL THAT WAY ONLY ONCE IN A WHILE          3.0        348               0.36
+4            I ALMOST NEVER FEEL THAT WAY          4.0        568               0.59
+
+
+
+S108.Q70A BEING ON HIGH PLACES?
+   answer_label answer_value raw_counts relative_frequency
+0  UNDESIGNATED          0.0        479                0.5
+1     VERY MUCH          1.0        105               0.11
+2      A LITTLE          2.0        176               0.18
+3    NOT AT ALL          3.0        190                0.2
+4     NO ANSWER          4.0          8               0.01
+
+
+
+S108.Q70B BEING SHUT UP IN A ROOM OR CLOSET?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         12               0.01
+1    VERY MUCH          1.0        138               0.14
+2     A LITTLE          2.0        324               0.34
+3   NOT AT ALL          3.0        484               0.51
+
+
+
+S108.Q70C FALLING?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         13               0.01
+1    VERY MUCH          1.0        102               0.11
+2     A LITTLE          2.0        439               0.46
+3   NOT AT ALL          3.0        404               0.42
+
+
+
+S108.Q70D SNAKES?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         12               0.01
+1    VERY MUCH          1.0        390               0.41
+2     A LITTLE          2.0        350               0.37
+3   NOT AT ALL          3.0        206               0.22
+
+
+
+S108.Q70E BEING CALLED ON TO RECITE IN CLASS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         10               0.01
+1    VERY MUCH          1.0        190                0.2
+2     A LITTLE          2.0        460               0.48
+3   NOT AT ALL          3.0        298               0.31
+
+
+
+S108.V70F TOTAL NUMBER OF ITEMS CHECKED "VERY MUCH" IN Q.70:  ANP
+           answer_label answer_value raw_counts relative_frequency
+0  1 ITEM CHECKED . . .          1.0        176               0.18
+1      19 ITEMS CHECKED         19.0          2                0.0
+
+
+
+S108.Q72 DO YOU THINK THAT YOUR PARENTS (OR THE PEOPLE WHO BROUGHT YOU UP) WERE STRICTER THAN OTHER PARENTS OR NOT AS STRICT AS OTHER PARENTS?
+                       answer_label answer_value raw_counts relative_frequency
+0                         NO ANSWER          0.0         10               0.01
+1       STRICTER THAN OTHER PARENTS          1.0        154               0.16
+2  ABOUT AS STRICT AS OTHER PARENTS          2.0        676               0.71
+3    NOT AS STRICT AS OTHER PARENTS          3.0        118               0.12
+
+
+
+S108.Q73 WHEN YOU WERE GROWING UP, ABOUT HOW OFTEN WERE YOU PUNISHED BY YOUR PARENTS (OR THE PEOPLE WHO BROUGHT YOU UP)?
+                      answer_label answer_value raw_counts relative_frequency
+0                        NO ANSWER          0.0          4                0.0
+1                        TOO OFTEN          1.0         50               0.05
+2  ABOUT THE RIGHT NUMBER OF TIMES          2.0        734               0.77
+3                 NOT OFTEN ENOUGH          3.0        170               0.18
+
+
+
+S108.Q74 WHEN YOUR PARENTS (OR THE PEOPLE WHO BROUGHT YOU UP) PUNISHED YOU, DID YOU USUALLY DESERVE IT OR NOT?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0          4                0.0
+1                  ALWAYS DESERVED IT          1.0        488               0.51
+2        DESERVED IT MOST OF THE TIME          2.0        390               0.41
+3  DESERVED IT ABOUT HALF OF THE TIME          3.0         38               0.04
+4            OFTEN DID NOT DESERVE IT          4.0         30               0.03
+5             HARDLY EVER DESERVED IT          5.0          8               0.01
+
+
+
+S108.Q75 WHEN YOU HAD ACTUALLY DONE SOMETHING WRONG AND WERE PUNISHED FOR IT, DID YOU USUALLY GET AN EASIER OR A HARDER PUNISHMENT THAN OTHER KIDS YOU KNEW?
+               answer_label answer_value raw_counts relative_frequency
+0                 NO ANSWER          0.0          4                0.0
+1        HARDER THAN OTHERS          1.0        126               0.13
+2  ABOUT THE SAME AS OTHERS          2.0        736               0.77
+3        EASIER THAN OTHERS          3.0         92                0.1
+
+
+
+S108.Q76A WHEN YOU WERE GROWING UP, WHO WOULD YOU SAY WAS YOUR FATHER'S FAVORITE CHILD IN YOUR FAMILY?
+                                   answer_label answer_value raw_counts relative_frequency
+0                            NO CODE OR NO DATA          0.0          2                0.0
+1   AN OLDER BROTHER OR SISTER WAS THE FAVORITE          1.0         92                0.1
+2  A YOUNGER BROTHER OR SISTER WAS THE FAVORITE          2.0        100                0.1
+3                    I THINK I WAS THE FAVORITE          3.0         94                0.1
+4                       THERE WERE NO FAVORITES          4.0        568               0.59
+5             I WAS THE ONLY CHILD IN MY FAMILY          5.0         92                0.1
+6                                     NO ANSWER          6.0         10               0.01
+
+
+
+S108.Q76B WHO WAS YOUR MOTHER'S FAVORITE CHILD?
+                                   answer_label answer_value raw_counts relative_frequency
+0                                     NO ANSWER          0.0         16               0.02
+1   AN OLDER BROTHER OR SISTER WAS THE FAVORITE          1.0         66               0.07
+2  A YOUNGER BROTHER OR SISTER WAS THE FAVORITE          2.0        102               0.11
+3                    I THINK I WAS THE FAVORITE          3.0        146               0.15
+4                       THERE WERE NO FAVORITES          4.0        540               0.56
+5             I WAS THE ONLY CHILD IN MY FAMILY          5.0         88               0.09
+
+
+
+S108.Q78 WHAT WAS THE LONGEST YOU HAD EVER BEEN AWAY AT ANY ONE TIME FROM YOUR PARENTS OR THE FAMILY THAT BROUGHT YOU UP? (IF YOU LEFT HOME TO GET MARRIED, COUNT THE TIME YOU WERE AWAY AFTER YOU WERE MARRIED.)
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0         29               0.03
+1                      A YEAR OR MORE          1.0        447               0.47
+2                 ONE MONTH TO 1 YEAR          2.0        380                0.4
+3  OVER 1 WEEK, BUT LESS THAN A MONTH          3.0         49               0.05
+4                     ONLY A FEW DAYS          4.0         31               0.03
+5                  LESS THAN 48 HOURS          5.0          9               0.01
+6                   NEVER AWAY AT ALL          6.0         13               0.01
+
+
+
+S108.Q80 HOW OLD WERE YOU WHEN YOU FIRST STARTED GOING AROUND BY YOURSELF ON DATES WITH GIRLS (NOT ON DOUBLE-DATES OR IN LARGE GROUPS)?
+                                                           answer_label answer_value raw_counts relative_frequency
+0                                                             NO ANSWER          0.0         11               0.01
+1                                                LESS THAN 15 YEARS OLD          1.0         71               0.07
+2                                                           15-16 YEARS          2.0        206               0.22
+3                                                           17-18 YEARS          3.0        263               0.27
+4                                                           19-20 YEARS          4.0        143               0.15
+5                                                           21-22 YEARS          5.0        108               0.11
+6                                                         OVER 22 YEARS          6.0        102               0.11
+7                                        NEVER WENT WITH GIRLS ON DATES          7.0         47               0.05
+8  NEVER WENT WITH GIRLS EXCEPT ON DOUBLE-DATES OR IN A GROUP OF OTHERS          8.0          7               0.01
+
+
+
+S108.Q81 DID YOU USUALLY HAVE DATES WITH GIRLS MORE OFTEN OR LESS OFTEN THAN MOST OTHER FELLOWS OF ABOUT YOUR OWN AGE THAT YOU KNEW?
+                                  answer_label answer_value raw_counts relative_frequency
+0                                    NO ANSWER          0.0          2                0.0
+1  ABOUT THE SAME AS MOST OTHER FELLOWS I KNEW          2.0        644               0.67
+2    MORE OFTEN THAN MOST OTHER FELLOWS I KNEW          1.0         80               0.08
+3    NOT AS OFTEN AS MOST OTHER FELLOWS I KNEW          3.0        232               0.24
+
+
+
+S108.Q83 WHEN YOU WERE GROWING UP, DID YOU USUALLY HAVE A BETTER TIME WITH PEOPLE YOUNGER THAN YOURSELF OR OLDER THAN YOURSELF?
+                                             answer_label answer_value raw_counts relative_frequency
+0          HAD A BETTER TIME WITH THOSE OLDER THAN MYSELF          1.0        332               0.35
+1  HAD A BETTER TIME WITH THOSE OF THE SAME AGE AS MYSELF          2.0        566               0.59
+2        HAD A BETTER TIME WITH THOSE YOUNGER THAN MYSELF          3.0         34               0.04
+3                                               UNDECIDED          4.0         26               0.03
+
+
+
+S108.Q84 ARE YOU EVER TROUBLED BY SICK HEADACHES?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0          4                0.0
+1      YES, OFTEN          1.0        112               0.12
+2  YES, SOMETIMES          2.0        346               0.36
+3       NO, NEVER          3.0        496               0.52
+
+
+
+S108.Q85 AS FAR AS YOU KNOW, WERE YOU A HEALTHY CHILD OR A RATHER SICKLY ONE?
+                      answer_label answer_value raw_counts relative_frequency
+0    I WAS VERY HEALTHY AS A CHILD          1.0        422               0.44
+1  I WAS FAIRLY HEALTHY AS A CHILD          2.0        430               0.45
+2   I WAS RATHER SICKLY AS A CHILD          3.0         88               0.09
+3                       DON'T KNOW          4.0         18               0.02
+
+
+
+S108.Q86A DID YOU EVER HAVE ANY TROUBLE WITH BED-WETTING?
+  answer_label answer_value raw_counts relative_frequency
+0          YES          1.0        240               0.25
+1           NO          2.0        718               0.75
+
+
+
+S108.Q86B HOW OLD WERE YOU WHEN YOU STOPPED WETTING THE BED?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0        174               0.18
+1  LESS THAN 4 YEARS OLD          1.0        502               0.52
+2              4-9 YEARS          2.0        196                0.2
+3            10-16 YEARS          3.0         68               0.07
+4      OVER 16 YEARS OLD          4.0         14               0.01
+5    I STILL WET THE BED          5.0          4                0.0
+
+
+
+S108.Q87 ARE YOU EVER BOTHERED BY NERVOUSNESS?
+     answer_label answer_value raw_counts relative_frequency
+0      YES, OFTEN          1.0        184               0.19
+1  YES, SOMETIMES          2.0        498               0.52
+2       NO, NEVER          3.0        276               0.29
+
+
+
+S108.Q88 SO FAR AS YOU KNOW, HAS ANYONE IN YOUR FAMILY EVER HAD A NERVOUS BREAKDOWN? (DO NOT INCLUDE YOURSELF IF YOU THINK YOU HAVE HAD A NERVOUS BREAKDOWN.)
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1                 YES          1.0        192                0.2
+2                  NO          2.0        640               0.67
+3          DON'T KNOW          3.0        124               0.13
+
+
+
+S108.Q89 DID YOU EVER HAVE A NERVOUS BREAKDOWN?
+     answer_label answer_value raw_counts relative_frequency
+0  UNSIGNED CASES          0.0        482                0.5
+1             YES          1.0         26               0.03
+2              NO          2.0        450               0.47
+
+
+
+S108.Q90 WERE YOU EVER A PATIENT AT A MENTAL HOSPITAL?
+     answer_label answer_value raw_counts relative_frequency
+0  UNSIGNED CASES          0.0        482                0.5
+1             YES          1.0         14               0.01
+2              NO          2.0        462               0.48
+
+
+
+S108.Q91 DO YOU USE DOPE REGULARLY?
+     answer_label answer_value raw_counts relative_frequency
+0  UNSIGNED CASES          0.0        482                0.5
+1             YES          1.0          3                0.0
+2              NO          2.0        473               0.49
+
+
+
+S108.Q92 WERE YOU EVER SENT TO A REFORM SCHOOL?
+     answer_label answer_value raw_counts relative_frequency
+0  UNSIGNED CASES          0.0        483                0.5
+1             YES          1.0          9               0.01
+2              NO          2.0        466               0.49
+
+
+
+S108.Q93 HAVE YOU EVER HAD A FIT OR CONVULSION?
+     answer_label answer_value raw_counts relative_frequency
+0  UNSIGNED CASES          0.0        481                0.5
+1             YES          1.0         10               0.01
+2              NO          2.0        467               0.49
+
+
+
+S108.Q94 HAVE YOU EVER GOTTEN INTO SERIOUS TROUBLE OR LOST YOUR JOB BECAUSE OF DRINKING?
+     answer_label answer_value raw_counts relative_frequency
+0  UNSIGNED CASES          0.0        483                0.5
+1             YES          1.0         10               0.01
+2              NO          2.0        465               0.49
+
+
+
+S108.V96 CHILDHOOD SYMPTOMS SCORE E. DERIVED FROM QUESTIONS 47, 49, 85, 86.
+          answer_label answer_value raw_counts relative_frequency
+0  ORIGINAL SCORE OF 0          0.0          2                0.0
+1  ORIGINAL SCORE OF 1          1.0         38               0.04
+2  ORIGINAL SCORE OF 2          2.0        140               0.15
+3  ORIGINAL SCORE OF 3          3.0        295               0.31
+4         UNDESIGNATED          5.0          2                0.0
+5  ORIGINAL SCORE OF 4          4.0        481                0.5
+
+
+
+S108.V99 SOLDIER-ROLE SCORE E. DERIVED FROM QUESTIONS 15, 24, 25, 26.
+          answer_label answer_value raw_counts relative_frequency
+0  ORIGINAL SCORE OF 0          0.0        198               0.21
+1  ORIGINAL SCORE OF 1          1.0        199               0.21
+2  ORIGINAL SCORE OF I          2.0        174               0.18
+3  ORIGINAL SCORE OF 3          3.0        156               0.16
+4  ORIGINAL SCORE OF 4          4.0        230               0.24
+5         UNDESIGNATED          5.0          1                0.0
+
+
+
+S108.V100 SOCIALABILITY SCORE E. DERIVED FROM QUESTIONS 53, 54, 55.
+          answer_label answer_value raw_counts relative_frequency
+0  ORIGINAL SCORE OF 1          1.0        152               0.16
+1  ORIGINAL SCORE OF 2          2.0        440               0.46
+2  ORIGINAL SCORE OF 0          0.0         56               0.06
+3  ORIGINAL SCORE OF 3          3.0        310               0.32
+
+
+
+S108.V102 PARTICIPATION IN SPORTS SCORE E. DERIVED FROM QUESTION
+          answer_label answer_value raw_counts relative_frequency
+0  ORIGINAL SCORE OF 0          0.0        162               0.17
+1  ORIGINAL SCORE OF 1          1.0        158               0.16
+2  ORIGINAL SCORE OF 2          2.0        184               0.19
+3  ORIGINAL SCORE OF 3          3.0        160               0.17
+4  ORIGINAL SCORE OF 4          4.0        123               0.13
+5  ORIGINAL SCORE OF 5          5.0         65               0.07
+6  ORIGINAL SCORE OF 6          6.0         26               0.03
+7         UNDESIGNATED          7.0         80               0.08
+
+
+
+S108.V106 PERSONAL ADJUSTMENT SCORE E. DERIVED FROM QUESTIONS 12, 13, 14, 16, 56, 57.
+          answer_label answer_value raw_counts relative_frequency
+0  ORIGINAL SCORE OF 0          0.0         26               0.03
+1  ORIGINAL SCORE OF 1          1.0         72               0.08
+2  ORIGINAL SCORE OF 2          2.0         94                0.1
+3  ORIGINAL SCORE OF 3          3.0        164               0.17
+4  ORIGINAL SCORE OF 4          4.0        204               0.21
+5  ORIGINAL SCORE OF 5          5.0        242               0.25
+6  ORIGINAL SCORE OF 6          6.0        156               0.16
+
+
+
+S108.V107 TOUCHINESS SCORE E. DERIVED FROM QUESTIONS 17, 30, 62, 63, 64, 65, 66, 67, 68, 69.
+           answer_label answer_value raw_counts relative_frequency
+0          UNDESIGNATED          0.0          4                0.0
+1   ORIGINAL SCORE OF 1          1.0          6               0.01
+2   ORIGINAL SCORE OF 2          2.0          7               0.01
+3   ORIGINAL SCORE OF 3          3.0         10               0.01
+4   ORIGINAL SCORE OF 4          4.0         29               0.03
+5   ORIGINAL SCORE OF 5          5.0         50               0.05
+6   ORIGINAL SCORE OF 6          6.0         78               0.08
+7   ORIGINAL SCORE OF 7          7.0        148               0.15
+8   ORIGINAL SCORE OF 8          8.0        182               0.19
+9   ORIGINAL SCORE OF 9          9.0        234               0.24
+10  ORIGINAL SCORE OF X         10.0        210               0.22
+
+
+
+S108.V110 IDENTIFICATION BY SIGNED OR UNSIGNED SCHEDULES AND PSYCHIATRIST'S DISPOSITION:
+                                                                                   answer_label answer_value raw_counts relative_frequency
+0                                          UNSIGNED - HIGH SCHOOL AND NON-HIGH SCHOOL GRADUATES          1.0        478                0.5
+1                                                                             SIGNED - ACCEPTED          2.0        302               0.32
+2                                                                     SIGNED - PHYSICAL REJECTS          3.0         66               0.07
+3                              SIGNED - PSYCHIATRIC REJECTS \(ARMY AND CIVILIAN PSYCHIATRISTS\)          4.0         66               0.07
+4                  SIGNED - PSYCHIATRIC REJECTS \(BY CIVILIAN PSYCHIATRIST - NOT SEEN BY ARMY\)          5.0         10               0.01
+5  SIGNED - PSYCHIATRIC REJECTS \(O.K. BY CIVILIAN PSYCHIATRIST - REJECTED BY ARMY PSYCHIATRIST          6.0          2                0.0
+6                                 SIGNED - ACCEPTED \(ACCEPTED BY ARMY - REJECTED BY CIVILIAN\)          7.0         22               0.02
+7                                                         SIGNED - ACCEPTED \(SOME SUSPICIOUS\)          8.0          8               0.01
+8                                                          SIGNED - NO KNOWLEDGE OF DISPOSITION          9.0          4                0.0
+
+
+

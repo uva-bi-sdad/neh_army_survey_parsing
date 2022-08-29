@@ -1,0 +1,661 @@
+S210.Q1 WHAT IS YOUR ARMY RANK OR GRADE?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0         22               0.02
+1                                 PRIVATE          1.0         88                0.1
+2                     PRIVATE FIRST CLASS          2.0        148               0.17
+3        TECHNICIAN 5TH GRADE OR CORPORAL          3.0        250               0.28
+4        TECHNICIAN 4TH GRADE OR SERGEANT          4.0        191               0.22
+5  TECHNICIAN 3RD GRADE OR STAFF SERGEANT          5.0        108               0.12
+6                      TECHNICAL SERGEANT          6.0         49               0.06
+7       MASTER SERGEANT OR FIRST SERGEANT          7.0         31               0.03
+
+
+
+S210.Q2 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0         21               0.02
+1            19 YEARS          1.0         13               0.01
+2                  20          2.0         35               0.04
+3                  21          3.0         69               0.08
+4                  22          4.0         75               0.08
+5                  23          5.0         94               0.11
+6                  24          6.0         77               0.09
+7                  25          7.0         67               0.08
+8         26-29 YEARS          8.0        206               0.23
+9         30-34 YEARS          9.0        142               0.16
+10  35 YEARS AND OVER         10.0         88                0.1
+
+
+
+S210.Q3 HOW FAR DID YOU GO IN SCHOOL?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0         22               0.02
+1                  LESS THAN 6TH GRADE          1.0         27               0.03
+2                   FINISHED 6TH GRADE          2.0         35               0.04
+3                   FINISHED 7TH GRADE          3.0         44               0.05
+4                   FINISHED 8TH GRADE          4.0         94               0.11
+5  SOME HIGH SCHOOL BUT DID NOT FINISH          5.0        219               0.25
+6           GRADUATED FROM HIGH SCHOOL          6.0        274               0.31
+7      SOME COLLEGE BUT DID NOT FINISH          7.0        143               0.16
+8               GRADUATED FROM COLLEGE          8.0         29               0.03
+
+
+
+S210.Q4 IN WHAT STATE OF THE UNITED STATES DID YOU SPEND MOST OF THE LAST FIVE YEARS OF YOUR CIVILIAN LIFE BEFORE YOU CAME INTO THE ARMY? E. SECTION:
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0         27               0.03
+1         NEW ENGLAND          1.0         53               0.06
+2     MIDDLE ATLANTIC          2.0        189               0.21
+3  EAST NORTH CENTRAL          3.0        172               0.19
+4  WEST NORTH CENTRAL          4.0         80               0.09
+5      SOUTH ATLANTIC          5.0        127               0.14
+6  EAST SOUTH CENTRAL          6.0         96               0.11
+7  WEST SOUTH CENTRAL          7.0         62               0.07
+8            MOUNTAIN          8.0         21               0.02
+9             PACIFIC          9.0         60               0.07
+
+
+
+S210.Q5 WHERE WERE YOU LIVING MOST OF THE LAST FIVE YEARS OF YOUR CIVILIAN LIFE BEFORE YOU CAME INTO THE ARMY?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                         NO ANSWER          0.0         22               0.02
+1                       ON A FARM OR IN THE COUNTRY          1.0        118               0.13
+2         IN A SMALL TOWN (FEWER THAN 2,500 PEOPLE)          2.0        100               0.11
+3  IN A TOWN (WITH BETWEEN 2,500 AND 25,000 PEOPLE)          3.0        173                0.2
+4     IN A CITY (BETWEEN 25,000 AND 100,000 PEOPLE)          4.0        177                0.2
+5        IN A LARGE CITY (MORE THAN 100,000 PEOPLE)          5.0        297               0.33
+
+
+
+S210.Q6 ARE YOU:
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0          9               0.01
+1                 SINGLE          1.0        500               0.56
+2                MARRIED          2.0        348               0.39
+3  DIVORCED OR SEPARATED          3.0         25               0.03
+4                WIDOWED          4.0          5               0.01
+
+
+
+S210.Q7 WERE YOU MARRIED BEFORE OR AFTER ENTERING THE ARMY?
+                       answer_label answer_value raw_counts relative_frequency
+0                         NO ANSWER          0.0         11               0.01
+1  MARRIED BEFORE ENTERING THE ARMY          1.0        210               0.24
+2   MARRIED AFTER ENTERING THE ARMY          2.0        136               0.15
+3                   I'M NOT MARRIED          3.0        530                0.6
+
+
+
+S210.Q8 HOW MANY CHILDREN DO YOU HAVE?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         13               0.01
+1               HAVE ONE CHILD          1.0        116               0.13
+2            HAVE TWO CHILDREN          2.0         27               0.03
+3  HAVE THREE OR MORE CHILDREN          3.0         12               0.01
+4             HAVE NO CHILDREN          4.0        223               0.25
+5              I'M NOT MARRIED          5.0        496               0.56
+
+
+
+S210.Q9 HOW DID YOU COME INTO THE ARMY?
+                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                  NO ANSWER          0.0         16               0.02
+1                                                              I WAS DRAFTED          1.0        626               0.71
+2                                                              I VOLUNTEERED          2.0        234               0.26
+3                                                I WAS IN THE NATIONAL GUARD          3.0         10               0.01
+4  ENLISTED RESERVE CORPS (ERC), RESERVE OFFICER TRAINING CORPS (ROTC), ETC.          4.0          1                0.0
+
+
+
+S210.Q10 HOW LONG HAVE YOU BEEN IN THE ARMY?
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0         14               0.02
+1  OVER 9 MONTHS UP TO 1 YEAR          3.0          7               0.01
+2   OVER 1 YEAR UP TO 2 YEARS          4.0        128               0.14
+3  OVER 2 YEARS UP TO 3 YEARS          5.0        483               0.54
+4  OVER 3 YEARS UP TO 4 YEARS          6.0        162               0.18
+5                OVER 4 YEARS          7.0         93                0.1
+
+
+
+S210.Q11 HOW LONG HAVE YOU BEEN IN CHINA-BURMA-INDIA?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         13               0.01
+1              3 MONTHS OR LESS          1.0         50               0.06
+2  OVER 3 MONTHS UP TO 6 MONTHS          2.0        126               0.14
+3  OVER 6 MONTHS UP TO 9 MONTHS          3.0         76               0.09
+4    OVER 9 MONTHS UP TO 1 YEAR          4.0         95               0.11
+5   OVER 1 YEAR UP TO 18 MONTHS          5.0        135               0.15
+6  OVER 18 MONTHS UP TO 2 YEARS          6.0        293               0.33
+7  OVER 2 YEARS UP TO 30 MONTHS          7.0         95               0.11
+8  OVER 30 MONTHS UP TO 3 YEARS          8.0          4                0.0
+
+
+
+S210.Q12 HOW LONG HAVE YOU BEEN STATIONED AT THIS PARTICULAR PLACE?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         19               0.02
+1              3 MONTHS OR LESS          1.0        284               0.32
+2  OVER 3 MONTHS UP TO 6 MONTHS          2.0        153               0.17
+3  OVER 6 MONTHS UP TO 9 MONTHS          3.0        112               0.13
+4    OVER 9 MONTHS UP TO 1 YEAR          4.0         73               0.08
+5   OVER 1 YEAR UP TO 18 MONTHS          5.0        113               0.13
+6  OVER 18 MONTHS UP TO 2 YEARS          6.0         85                0.1
+7                  OVER 2 YEARS          7.0         48               0.05
+
+
+
+S210.Q13 WHAT BRANCH OF THE ARMY ARE YOU IN NOW?
+                answer_label answer_value raw_counts relative_frequency
+0                  ENGINEERS          1.0        144               0.16
+1        QUARTERMASTER CORPS          3.0        101               0.11
+2         MEDICAL DEPARTMENT          5.0         78               0.09
+3              ARMORED FORCE          6.0          1                0.0
+4               SIGNAL CORPS          7.0         75               0.08
+5         FINANCE DEPARTMENT          8.0          2                0.0
+6                  AIR CORPS         10.0        356                0.4
+7       TRANSPORTATION CORPS         11.0         46               0.05
+8        ORDNANCE DEPARTMENT         12.0         43               0.05
+9   CHEMICAL WARFARE SERVICE         13.0          9               0.01
+10           MILITARY POLICE         14.0         12               0.01
+11                  D.E.M.L.         15.0         20               0.02
+
+
+
+S210.Q14 HOW SATISFIED ARE YOU ABOUT BEING IN YOUR PRESENT ARMY JOB INSTEAD OF SOME OTHER ARMY JOB?
+                            answer_label answer_value raw_counts relative_frequency
+0                              NO ANSWER          0.0         26               0.03
+1                         VERY SATISFIED          1.0        230               0.26
+2                              SATISFIED          2.0        386               0.44
+3                      VERY DISSATISFIED          3.0         60               0.07
+4                           DISSATISFIED          4.0        107               0.12
+5  IT DOES NOT MAKE ANY DIFFERENCE TO ME          5.0         78               0.09
+
+
+
+S210.Q15 DO YOU FEEL PROUD OF YOUR COMPANY (BATTERY, SQUADRON, TROOP)?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0         32               0.04
+1    YES, VERY PROUD          1.0        319               0.36
+2  YES, FAIRLY PROUD          2.0        299               0.34
+3      NO, NOT PROUD          3.0        137               0.15
+4          UNDECIDED          4.0        100               0.11
+
+
+
+S210.Q16 IF IT WERE UP TO YOU, WHAT KIND OF AN OUTFIT WOULD YOU RATHER BE IN?
+                                  answer_label answer_value raw_counts relative_frequency
+0                                    NO ANSWER          0.0         45               0.05
+1                  IN A COMBAT OUTFIT OVERSEAS          1.0        155               0.17
+2              IN A NON-COMBAT OUTFIT OVERSEAS          2.0        174                0.2
+3  IN AN OUTFIT STATIONED IN THE UNITED STATES          3.0        513               0.58
+
+
+
+S210.Q17 HOW IMPORTANT DO YOU CONSIDER YOUR OWN ARMY JOB IN THE TOTAL WAR EFFORT?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0         16               0.02
+1        VERY IMPORTANT          1.0        365               0.41
+2      FAIRLY IMPORTANT          2.0        346               0.39
+3      NOT SO IMPORTANT          3.0        109               0.12
+4  NOT IMPORTANT AT ALL          4.0         51               0.06
+
+
+
+S210.Q18 HOW MANY OF YOUR COMPANY OFFICERS ARE THE KIND WHO ARE WILLING TO GO THROUGH ANYTHING THEY ASK THEIR MEN TO GO THROUGH?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0         50               0.06
+1         ALL OF THEM ARE          1.0        110               0.12
+2        MOST OF THEM ARE          2.0        229               0.26
+3  ABOUT HALF OF THEM ARE          3.0        142               0.16
+4         FEW OF THEM ARE          4.0        270                0.3
+5        NONE OF THEM ARE          5.0         86                0.1
+
+
+
+S210.Q19 DO YOU FEEL THAT YOUR OFFICERS HAVE AN INTEREST IN YOUR PERSONAL PROBLEMS AND WELFARE?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0         38               0.04
+1   THEY HAVE A GREAT DEAL OF INTEREST          1.0        130               0.15
+2  THEY HAVE A FAIR AMOUNT OF INTEREST          2.0        361               0.41
+3        THEY DON'T HAVE MUCH INTEREST          3.0        247               0.28
+4         THEY HAVE NO INTEREST AT ALL          4.0        111               0.13
+
+
+
+S210.Q20 IF IT WERE UP TO YOU TO CHOOSE, DO YOU THINK YOU COULD DO MORE FOR YOUR COUNTRY AS A SOLDIER OR AS A WORKER IN A WAR JOB?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         25               0.03
+1     AS A SOLDIER          1.0        264                0.3
+2  AS A WAR WORKER          2.0        438               0.49
+3        UNDECIDED          3.0        160               0.18
+
+
+
+S210.Q21 ARE THE MESS FACILITIES AND FOOD IN YOUR OUTFIT AS GOOD AS THEY COULD BE UNDER PRESENT CIRCUMSTANCES?
+                       answer_label answer_value raw_counts relative_frequency
+0                         NO ANSWER          0.0         26               0.03
+1     YES, AS GOOD AS THEY COULD BE          1.0        380               0.43
+2  NO, NOT AS GOOD AS THEY COULD BE          2.0        430               0.48
+3                         UNDECIDED          3.0         51               0.06
+
+
+
+S210.Q22 IN GENERAL, DO YOU FEEL YOU YOURSELF HAVE GOTTEN A SQUARE DEAL FROM THE ARMY?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0         19               0.02
+1                          YES, I HAVE          1.0        219               0.25
+2                        NO, I HAVEN'T          2.0        169               0.19
+3  IN SOME WAYS, YES, IN SOME WAYS, NO          3.0        455               0.51
+4                    I HAVE NO OPINION          4.0         25               0.03
+
+
+
+S210.Q23 HOW WOULD YOU RATE YOUR GENERAL PHYSICAL CONDITION DURING THE PAST MONTH?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0         20               0.02
+1    MY PHYSICAL CONDITION HAS BEEN VERY GOOD          1.0        315               0.36
+2  MY PHYSICAL CONDITION HAS BEEN PRETTY GOOD          2.0        362               0.41
+3  MY PHYSICAL CONDITION HAS NOT BEEN SO GOOD          3.0        162               0.18
+4    MY PHYSICAL CONDITION HAS BEEN VERY POOR          4.0         28               0.03
+
+
+
+S210.Q24 IN GENERAL, HOW WELL DO YOU THINK THE AMERICAN ARMY IS RUN?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0         25               0.03
+1    IT IS RUN VERY WELL          1.0        250               0.28
+2  IT IS RUN FAIRLY WELL          2.0        386               0.44
+3  IT IS NOT RUN SO WELL          3.0        101               0.11
+4  IT IS RUN VERY POORLY          4.0         67               0.08
+5      I HAVE NO OPINION          5.0         58               0.07
+
+
+
+S210.Q25 IN GENERAL, HOW WELL DO YOU THINK THE INDIA-BURMA THEATER IS RUN?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0         25               0.03
+1    IT IS RUN VERY WELL          1.0        144               0.16
+2  IT IS RUN FAIRLY WELL          2.0        393               0.44
+3  IT IS NOT RUN SO WELL          3.0        139               0.16
+4  IT IS RUN VERY POORLY          4.0        102               0.11
+5      I HAVE NO OPINION          5.0         84               0.09
+
+
+
+S210.Q27 HOW MUCH LONGER FROM NOW DO YOU THINK IT WILL BE BEFORE YOU GO BACK TO THE UNITED STATES TO STAY?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         39               0.04
+1              6 MONTHS OR LESS          1.0        206               0.23
+2  OVER 6 MONTHS UP TO 9 MONTHS          2.0        135               0.15
+3    OVER 9 MONTHS UP TO 1 YEAR          3.0        102               0.11
+4   OVER 1 YEAR UP TO 18 MONTHS          4.0        200               0.23
+5  OVER 18 MONTHS UP TO 2 YEARS          5.0        125               0.14
+6                  OVER 2 YEARS          6.0         80               0.09
+
+
+
+S210.Q28 AFTER THE WAR IN EUROPE IS OVER, WHICH ONE OF THE FOLLOWING THINGS DO YOU THINK WILL PROBABLY HAPPEN TO MOST OF THE AMERICAN COMBAT SOLDIERS NOW STATIONED IN EUROPE?
+                                                                                                     answer_label answer_value raw_counts relative_frequency
+0                                                                                                       NO ANSWER          0.0         36               0.04
+1                                               MOST OF THEM WILL PROBABLY BE IN THE ARMY OF OCCUPATION IN EUROPE          1.0         30               0.03
+2                                                          MOST OF THEM WILL PROBABLY BE DISCHARGED FROM THE ARMY          2.0         45               0.05
+3                                         MOST OF THEM WILL PROBABLY GET PERMANENT ARMY JOBS IN THE UNITED STATES          3.0         48               0.05
+4  MOST OF THEM WILL PROBABLY GET A FURLOUGH IN THE UNITED STATES AND THEN BE SENT OVERSEAS TO FIGHT THE JAPANESE          4.0        482               0.54
+5                                   MOST OF THEM WILL PROBABLY BE SENT DIRECTLY FROM EUROPE TO FIGHT THE JAPANESE          5.0        158               0.18
+6                                                                                               I HAVE NO OPINION          6.0         88                0.1
+
+
+
+S210.Q29 HOW ABOUT THE SUPPLY TROOPS AND SERVICE TROOPS IN EUROPE? AFTER THE WAR IN EUROPE IS OVER, WHICH ONE OF THE FOLLOWING THINGS DO YOU THINK WILL PROBABLY HAPPEN TO MOST OF THE SUPPLY TROOPS AND SERVICE TROOPS NOW STATIONED IN EUROPE?
+                                                                                                             answer_label answer_value raw_counts relative_frequency
+0                                                                                                               NO ANSWER          0.0         33               0.04
+1                                                       MOST OF THEM WILL PROBABLY BE IN THE ARMY OF OCCUPATION IN EUROPE          1.0        146               0.16
+2                                                                  MOST OF THEM WILL PROBABLY BE DISCHARGED FROM THE ARMY          2.0         33               0.04
+3                                                 MOST OF THEM WILL PROBABLY GET PERMANENT ARMY JOBS IN THE UNITED STATES          3.0         35               0.04
+4  MOST OF THEM WILL PROBABLY GET A FURLOUGH IN THE UNITED STATES AND THEN BE SENT OVERSEAS TO SERVE AGAINST THE JAPANESE          4.0        278               0.31
+5                                   MOST OF THEM WILL PROBABLY BE SENT DIRECTLY FROM EUROPE TO SERVE AGAINST THE JAPANESE          5.0        268                0.3
+6                                                                                                       I HAVE NO OPINION          6.0         94               0.11
+
+
+
+S210.Q30 AFTER THE WAR IN EUROPE IS OVER WHICH ONE OF THE FOLLOWING THINGS DO YOU THINK WILL PROBABLY HAPPEN TO MOST OF THE COMBAT SOLDIERS WHO HAVE BEEN IN TRAINING IN THE UNITED STATES?
+                                                        answer_label answer_value raw_counts relative_frequency
+0                                                          NO ANSWER          0.0         31               0.03
+1  MOST OF THEM WILL PROBABLY BE IN THE ARMY OF OCCUPATION IN EUROPE          1.0        124               0.14
+2             MOST OF THEM WILL PROBABLY BE DISCHARGED FROM THE ARMY          2.0         53               0.06
+3            MOST OF THEM WILL PROBABLY BE KEPT IN THE UNITED STATES          3.0         64               0.07
+4  MOST OF THEM WILL PROBABLY BE SENT OVERSEAS TO FIGHT THE JAPANESE          4.0        549               0.62
+5                                                  I HAVE NO OPINION          5.0         66               0.07
+
+
+
+S210.Q31 HOW ABOUT THE SUPPLY AND SERVICE TROOPS IN THE UNITED STATES? AFTER THE WAR IN EUROPE IS OVER, WHICH ONE OF THE FOLLOWING THINGS DO YOU THINK WILL PROBABLY HAPPEN TO MOST OF THE SERVICE TROOPS AND SUPPLY TROOPS THAT HAVE BEEN KEPT IN THE UNITED STATES?
+                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                  NO ANSWER          0.0         34               0.04
+1          MOST OF THEM WILL PROBABLY BE IN THE ARMY OF OCCUPATION IN EUROPE          1.0        130               0.15
+2                     MOST OF THEM WILL PROBABLY BE DISCHARGED FROM THE ARMY          2.0         63               0.07
+3                    MOST OF THEM WILL PROBABLY BE KEPT IN THE UNITED STATES          3.0        163               0.18
+4  MOST OF THEM WILL PROBABLY BE SENT OVERSEAS TO SERVE AGAINST THE JAPANESE          4.0        403               0.45
+5                                                          I HAVE NO OPINION          5.0         94               0.11
+
+
+
+S210.Q32 AFTER THE WAR IN EUROPE IS OVER, WHICH ONE OF THE FOLLOWING THINGS DO YOU THINK WILL PROBABLY HAPPEN TO YOUR OWN OUTFIT?
+                                                                                              answer_label answer_value raw_counts relative_frequency
+0                                                                                                NO ANSWER          0.0         41               0.05
+1                                          SOME OF THE MEN WILL GO HOME AND SOME WILL STAY IN THIS THEATER          1.0        213               0.24
+2  SOME OF THE MEN WILL BE TRANSFERRED TO ANOTHER THEATER OF OPERATIONS AND SOME WILL STAY IN THIS THEATER          2.0        133               0.15
+3                                                               THE WHOLE OUTFIT WILL STAY IN THIS THEATER          3.0        136               0.15
+4                                                THE WHOLE OUTFIT WILL BE TRANSFERRED TO THE UNITED STATES          4.0         63               0.07
+5                                                            THE WHOLE OUTFIT WILL BE TRANSFERRED TO CHINA          5.0        174                0.2
+6                                                      THE WHOLE OUTFIT WILL BE TRANSFERRED TO THE PACIFIC          6.0         30               0.03
+7                                                                                        I HAVE NO OPINION          7.0         97               0.11
+
+
+
+S210.Q33 AFTER THE WAR IN EUROPE IS OVER, DO YOU THINK THERE WILL BE ANY CHANGE IN THE WAY ROTATION WORKS FOR THE MEN IN THE INDIA-BURMA THEATER?
+                                         answer_label answer_value raw_counts relative_frequency
+0                                           NO ANSWER          0.0         79               0.09
+1  YES, THERE WILL PROBABLY BE SOME CHANGES (SPECIFY)          1.0        548               0.62
+2          NO, THERE WILL PROBABLY NOT BE ANY CHANGES          2.0        260               0.29
+
+
+
+S210.Q34 AFTER THE WAR IN EUROPE IS OVER, WHICH ONE OF THE FOLLOWING THINGS DO YOU THINK MOST OF THE MEN IN YOUR OUTFIT WILL PROBABLY DO?
+                                                        answer_label answer_value raw_counts relative_frequency
+0                                                          NO ANSWER          0.0         28               0.03
+1            MOST OF THEM WILL PROBABLY WORK HARDER THAN THEY DO NOW          1.0        185               0.21
+2  MOST OF THEM WILL PROBABLY WORK JUST ABOUT AS HARD AS THEY DO NOW          2.0        502               0.57
+3         MOST OF THEM WILL PROBABLY NOT WORK AS HARD AS THEY DO NOW          3.0         86                0.1
+4                                                  I HAVE NO OPINION          4.0         86                0.1
+
+
+
+S210.Q35 HOW ABOUT YOU YOURSELF? AFTER THE WAR IN EUROPE IS OVER, WHICH ONE OF THE FOLLOWING THINGS DO YOU THINK YOU WILL PROBABLY DO?
+                                          answer_label answer_value raw_counts relative_frequency
+0                                            NO ANSWER          0.0         31               0.03
+1            I WILL PROBABLY WORK HARDER THAN I DO NOW          1.0        202               0.23
+2  I WILL PROBABLY WORK JUST ABOUT AS HARD AS I DO NOW          2.0        557               0.63
+3         I WILL PROBABLY NOT WORK AS HARD AS I DO NOW          3.0         56               0.06
+4                                    I HAVE NO OPINION          4.0         41               0.05
+
+
+
+S210.Q36 AFTER THE WAR IN EUROPE IS OVER, WHICH ONE OF THE FOLLOWING THINGS DO YOU THINK RUSSIA WILL PROBABLY DO?
+                                                                                                    answer_label answer_value raw_counts relative_frequency
+0                                                                                                      NO ANSWER          0.0         31               0.03
+1                              RUSSIA WILL PROBABLY DECLARE WAR ON JAPAN AND WILL SEND MEN TO FIGHT THE JAPANESE          1.0        308               0.35
+2  RUSSIA WILL PROBABLY NOT DECLARE WAR ON JAPAN, BUT RUSSIA WILL COOPERATE WITH THE ALLIES AGAINST THE JAPANESE          2.0        396               0.45
+3                                RUSSIA WILL PROBABLY BE STRICTLY NEUTRAL AND WILL NOT COOPERATE WITH THE ALLIES          3.0         71               0.08
+4                                                   RUSSIA WILL LINE UP ON THE JAPANESE SIDE TO FIGHT THE ALLIES          4.0          8               0.01
+5                                                                                              I HAVE NO OPINION          5.0         73               0.08
+
+
+
+S210.Q37 CONSIDERING WHAT THE CHINESE ARE DOING IN THE TOTAL WAR EFFORT, DO YOU THINK THAT WE ARE NOW GIVING THEM TOO MUCH HELP OR TOO LITTLE HELP?
+                                         answer_label answer_value raw_counts relative_frequency
+0                                           NO ANSWER          0.0         39               0.04
+1                   WE ARE GIVING CHINA TOO MUCH HELP          1.0        219               0.25
+2  WE ARE GIVING CHINA ABOUT THE RIGHT AMOUNT OF HELP          2.0        321               0.36
+3                 WE ARE NOT GIVING CHINA ENOUGH HELP          3.0        193               0.22
+4                                   I HAVE NO OPINION          4.0        115               0.13
+
+
+
+S210.Q38 AFTER THE WAR IN EUROPE IS OVER, WHAT DO YOU THINK THE BRITISH WILL PROBABLY DO IN THE WAR AGAINST JAPAN?
+                                         answer_label answer_value raw_counts relative_frequency
+0                                           NO ANSWER          0.0         31               0.03
+1  THE BRITISH WILL PROBABLY DO MORE THAN THEIR SHARE          1.0         27               0.03
+2            THE BRITISH WILL PROBABLY DO THEIR SHARE          2.0        415               0.47
+3  THE BRITISH WILL PROBABLY DO LESS THAN THEIR SHARE          3.0        368               0.41
+4                                   I HAVE NO OPINION          4.0         46               0.05
+
+
+
+S210.Q39 HOW IMPORTANT DO YOU CONSIDER THE INDIA-BURMA THEATER, RIGHT NOW, IN THE TOTAL WAR EFFORT?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0         35               0.04
+1        VERY IMPORTANT          1.0        442                0.5
+2      FAIRLY IMPORTANT          2.0        255               0.29
+3      NOT SO IMPORTANT          3.0        117               0.13
+4  NOT IMPORTANT AT ALL          4.0         25               0.03
+5     I HAVE NO OPINION          5.0         13               0.01
+
+
+
+S210.Q40 AFTER THE WAR IN EUROPE IS OVER, DO YOU THINK THE INDIA-BURMA THEATER WILL BE MORE IMPORTANT THAN IT IS NOW OR LESS IMPORTANT THAN IT IS NOW IN THE TOTAL WAR EFFORT?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0         30               0.03
+1  MORE IMPORTANT THAN IT IS NOW          1.0        412               0.46
+2     JUST ABOUT THE SAME AS NOW          2.0        235               0.26
+3  LESS IMPORTANT THAN IT IS NOW          3.0        189               0.21
+4              I HAVE NO OPINION          4.0         21               0.02
+
+
+
+S210.Q41 IF THE JAPANESE WERE TO OFFER TO STOP FIGHTING NOW AND TO GIVE UP ALL THE LAND THEY HAVE TAKEN OVER, DO YOU THINK WE SHOULD TALK PEACE TERMS WITH THEM OR NOT?
+                                                      answer_label answer_value raw_counts relative_frequency
+0                                                        NO ANSWER          0.0         33               0.04
+1                                         WE SHOULD TALK PEACE NOW          1.0        117               0.13
+2  WE SHOULD KEEP ON FIGHTING UNTIL THEY SURRENDER UNCONDITIONALLY          2.0        694               0.78
+3                                                I HAVE NO OPINION          3.0         43               0.05
+
+
+
+S210.Q42 AFTER THE WAR IN EUROPE IS OVER THE ARMY HAS ANNOUNCED A PLAN FOR DISCHARGING MEN. HOW WELL DO YOU THINK THE ARMY WILL HANDLE THE PROBLEM OF DISCHARGING MEN WHEN THE TIME COMES?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         33               0.04
+1    VERY WELL          1.0        191               0.22
+2  FAIRLY WELL          2.0        411               0.46
+3  NOT SO WELL          3.0        159               0.18
+4       POORLY          4.0         93                0.1
+
+
+
+S210.Q44 IN GENERAL, DO YOU THINK CIVILIANS (MEN AND WOMEN NOT IN UNIFORM) BACK HOME ARE TRYING TO DO EVERYTHING THEY POSSIBLY CAN TO HELP THE WAR EFFORT?
+              answer_label answer_value raw_counts relative_frequency
+0                NO ANSWER          0.0         26               0.03
+1   ALMOST ALL OF THEM ARE          1.0        255               0.29
+2  A GOOD MANY OF THEM ARE          2.0        437               0.49
+3   SOME, BUT NOT MANY ARE          3.0        150               0.17
+4   HARDLY ANY OF THEM ARE          4.0         13               0.01
+5        I HAVE NO OPINION          5.0          6               0.01
+
+
+
+S210.Q45 AFTER THE WAR IN EUROPE IS OVER, WHAT DO YOU THINK WE SHOULD DO ABOUT HITLER, GOERING, GOEBBELS, HIMMLER AND OTHER NAZI LEADERS WHO HAVE BEEN CALLED "WAR CRIMINALS"?
+                                                                                                      answer_label answer_value raw_counts relative_frequency
+0                                                                                                        NO ANSWER          0.0         41               0.05
+1                                 THEY SHOULD BE TRIED BY A COURT AND THE COURT SHOULD DECIDE WHAT TO DO WITH THEM          1.0        449               0.51
+2                                THEY ARE OBVIOUSLY GUILTY AND SHOULD IMMEDIATELY BE KILLED WITHOUT STANDING TRIAL          2.0        312               0.35
+3  IT DOESN'T MAKE MUCH DIFFERENCE - THE IMPORTANT THING IS TO MAKE PEACE AND SEND THE AMERICAN SOLDIERS BACK HOME          3.0         66               0.07
+4                                                                                                I HAVE NO OPINION          4.0         19               0.02
+
+
+
+S210.Q46 AFTER THE WAR WITH JAPAN IS OVER, WHAT DO YOU THINK WE SHOULD DO ABOUT HIROHITO, TOJO, KOISO AND OTHER JAPANESE LEADERS WHO HAVE BEEN CALLED "WAR CRIMINALS"?
+                                                                                                      answer_label answer_value raw_counts relative_frequency
+0                                                                                                        NO ANSWER          0.0         45               0.05
+1                                 THEY SHOULD BE TRIED BY A COURT AND THE COURT SHOULD DECIDE WHAT TO DO WITH THEM          1.0        405               0.46
+2                                THEY ARE OBVIOUSLY GUILTY AND SHOULD IMMEDIATELY BE KILLED WITHOUT STANDING TRIAL          2.0        367               0.41
+3  IT DOESN'T MAKE MUCH DIFFERENCE - THE IMPORTANT THING IS TO MAKE PEACE AND SEND THE AMERICAN SOLDIERS BACK HOME          3.0         53               0.06
+4                                                                                                I HAVE NO OPINION          4.0         17               0.02
+
+
+
+S210.Q47 HAVE YOU EVER SEEN THE NEWSMAP (CHINA-BURMA-INDIA EDITION) AT THIS STATION?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0         29               0.03
+1       YES, I HAVE SEEN IT AT THIS STATION          1.0        696               0.78
+2  NO, I HAVE NEVER SEEN IT AT THIS STATION          2.0        152               0.17
+3                                DON'T KNOW          3.0         10               0.01
+
+
+
+S210.Q48 DO YOU LOOK AT THE NEW NEWSMAP (CHINA-BURMA-INDIA EDITION) EVERY TIME ONE COMES IN?
+                                          answer_label answer_value raw_counts relative_frequency
+0                                            NO ANSWER          0.0         39               0.04
+1         I LOOK AT THE NEW ONE EVERY TIME IT COMES IN          1.0        278               0.31
+2  I LOOK AT SOME OF THEM BUT DO NOT SEE EVERY NEW ONE          2.0        350               0.39
+3                    I VERY SELDOM LOOK AT THE NEWSMAP          3.0         69               0.08
+4          I HAVE NEVER SEEN A NEWSMAP AT THIS STATION          4.0        151               0.17
+
+
+
+S210.Q49 ABOUT HOW OFTEN DO YOU GO TO ORIENTATION DISCUSSION MEETINGS - THAT IS, MEETINGS LED BY EITHER AN OFFICER OR AN ENLISTED MAN, TO DISCUSS THE WAR AND WHAT IT MEANS?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                         NO ANSWER          0.0         27               0.03
+1                       LESS OFTEN THAN ONCE A WEEK          1.0          6               0.01
+2                                       ONCE A WEEK          2.0         41               0.05
+3                             MORE THAN ONCE A WEEK          3.0          1                0.0
+4                                        NOT AT ALL          4.0          5               0.01
+5  WE DON'T HAVE ORIENTATION MEETINGS IN OUR OUTFIT          5.0        807               0.91
+
+
+
+S210.Q51 IS THE NEWSMAP (CBI EDITION) USED BY THE OFFICER OR ENLISTED MAN WHO LEADS THE ORIENTATION DISCUSSION MEETINGS?
+                                                           answer_label answer_value raw_counts relative_frequency
+0                                                             NO ANSWER          0.0         27               0.03
+1          YES, THE CBI NEWSMAP IS USUALLY USED IN ORIENTATION MEETINGS          1.0         12               0.01
+2  YES, THE CBI NEWSMAP IS USED ONCE IN A WHILE IN ORIENTATION MEETINGS          2.0          8               0.01
+3                 NO, CBI NEWSMAP IS NEVER USED IN ORIENTATION MEETINGS          3.0         19               0.02
+4                      WE DON'T HAVE ORIENTATION MEETINGS IN OUR OUTFIT          4.0        809               0.91
+5                                                            DON'T KNOW          5.0         12               0.01
+
+
+
+S210.Q52 WHAT IS THE ONE MAIN SOURCE WHICH YOU DEPEND ON MOST TO GET NEWS ABOUT THE WAR EVERY DAY?
+                                  answer_label answer_value raw_counts relative_frequency
+0                                    NO ANSWER          0.0         78               0.09
+1                             DAILY NEWSPAPERS          1.0        109               0.12
+2  DAILY NEWS BULLETIN PUT OUT BY THIS STATION          2.0        261               0.29
+3                      U.S. ARMY RADIO STATION          3.0        317               0.36
+4      SHORT WAVE RADIO FROM THE UNITED STATES          4.0          9               0.01
+5     SHORT WAVE RADIO FROM BBC (OR ALL-INDIA)          6.0         60               0.07
+6                          YANK DAILY BULLETIN          7.0         27               0.03
+7     I DON'T GET NEWS ABOUT THE WAR EVERY DAY          8.0         26               0.03
+
+
+
+S210.Q53.1 IN THE LAST MONTH, WHERE HAVE YOU BEEN GETTING YOUR NEWS ABOUT THE WAR?
+       answer_label answer_value raw_counts relative_frequency
+0  DAILY NEWSPAPERS          1.0        300               0.34
+1        NOT CHOSEN          2.0        587               0.66
+
+
+
+S210.Q53.2IN THE LAST MONTH, WHERE HAVE YOU BEEN GETTING YOUR NEWS ABOUT THE WAR?
+                           answer_label answer_value raw_counts relative_frequency
+0  NEWS BULLETINS PUT OUT AT MY STATION          1.0        408               0.46
+1                            NOT CHOSEN          2.0        479               0.54
+
+
+
+S210.Q53.3IN THE LAST MONTH, WHERE HAVE YOU BEEN GETTING YOUR NEWS ABOUT THE WAR?
+              answer_label answer_value raw_counts relative_frequency
+0  YANK DAILY BULLETIN 767          1.0        120               0.14
+1               NOT CHOSEN          2.0        767               0.86
+
+
+
+S210.Q53.4IN THE LAST MONTH, WHERE HAVE YOU BEEN GETTING YOUR NEWS ABOUT THE WAR?
+          answer_label answer_value raw_counts relative_frequency
+0  INDIA-BURMA ROUNDUP          1.0        426               0.48
+1           NOT CHOSEN          2.0        461               0.52
+
+
+
+S210.Q53.5IN THE LAST MONTH, WHERE HAVE YOU BEEN GETTING YOUR NEWS ABOUT THE WAR?
+              answer_label answer_value raw_counts relative_frequency
+0  U.S. ARMY RADIO STATION          1.0        432               0.49
+1               NOT CHOSEN          2.0        455               0.51
+
+
+
+S210.Q53.6IN THE LAST MONTH, WHERE HAVE YOU BEEN GETTING YOUR NEWS ABOUT THE WAR?
+                              answer_label answer_value raw_counts relative_frequency
+0  SHORT WAVE RADIO FROM THE UNITED STATES          1.0         55               0.06
+1                               NOT CHOSEN          2.0        832               0.94
+
+
+
+S210.Q53.7IN THE LAST MONTH, WHERE HAVE YOU BEEN GETTING YOUR NEWS ABOUT THE WAR?
+                                  answer_label answer_value raw_counts relative_frequency
+0  SHORT WAVE RADIO FROM B.B.C. (OR ALL-INDIA)          1.0        159               0.18
+1                                   NOT CHOSEN          2.0        728               0.82
+
+
+
+S210.Q53.8IN THE LAST MONTH, WHERE HAVE YOU BEEN GETTING YOUR NEWS ABOUT THE WAR?
+                              answer_label answer_value raw_counts relative_frequency
+0  SHORT WAVE RADIO FROM JAPANESE STATIONS          1.0         29               0.03
+1                               NOT CHOSEN          2.0        858               0.97
+
+
+
+S210.Q53.9IN THE LAST MONTH, WHERE HAVE YOU BEEN GETTING YOUR NEWS ABOUT THE WAR?
+    answer_label answer_value raw_counts relative_frequency
+0  "G.I." MOVIES          1.0        370               0.42
+1     NOT CHOSEN          2.0        517               0.58
+
+
+
+S210.Q53.10IN THE LAST MONTH, WHERE HAVE YOU BEEN GETTING YOUR NEWS ABOUT THE WAR?
+            answer_label answer_value raw_counts relative_frequency
+0  NEWSMAP (CBI EDITION)          1.0        189               0.21
+1             NOT CHOSEN          2.0        698               0.79
+
+
+
+S210.Q53.11IN THE LAST MONTH, WHERE HAVE YOU BEEN GETTING YOUR NEWS ABOUT THE WAR?
+                                    answer_label answer_value raw_counts relative_frequency
+0  NEWS MAGAZINES (SUCH AS TIME, NEWSWEEK, ETC.)          1.0        355                0.4
+1                                     NOT CHOSEN          2.0        532                0.6
+
+
+
+S210.Q53.12IN THE LAST MONTH, WHERE HAVE YOU BEEN GETTING YOUR NEWS ABOUT THE WAR?
+                      answer_label answer_value raw_counts relative_frequency
+0  ORIENTATION DISCUSSION MEETINGS          1.0         78               0.09
+1                       NOT CHOSEN          2.0        809               0.91
+
+
+
+S210.Q53.13IN THE LAST MONTH, WHERE HAVE YOU BEEN GETTING YOUR NEWS ABOUT THE WAR?
+    answer_label answer_value raw_counts relative_frequency
+0  YANK MAGAZINE          1.0        389               0.44
+1     NOT CHOSEN          2.0        498               0.56
+
+
+
+S210.Q53.14IN THE LAST MONTH, WHERE HAVE YOU BEEN GETTING YOUR NEWS ABOUT THE WAR?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0         29               0.03
+1   NOT CHOSEN          2.0        858               0.97
+
+
+
+S210.V54 REGION:
+    answer_label answer_value raw_counts relative_frequency
+0          BURMA          1.0        177                0.2
+1          ASSAM          2.0        365               0.41
+2   BENGAL-BIHAR          3.0        197               0.22
+3  INDIAN CITIES          4.0        148               0.17
+
+
+
+S210.V55 TYPE OF UNIT:
+                                answer_label answer_value raw_counts relative_frequency
+0                         HEADQUARTER TROOPS          1.0         44               0.05
+1  MEDICS AND CHEMICAL WARFARE SERVICE (CWS)          2.0         72               0.08
+2                               SIGNAL CORPS          3.0         74               0.08
+3                                  AIR CORPS          4.0        360               0.41
+4                                  ENGINEERS          5.0        135               0.15
+5                        QUARTERMASTER CORPS          6.0        108               0.12
+6                                   ORDNANCE          7.0         40               0.05
+7                             TRANSPORTATION          8.0         43               0.05
+8                            MILITARY POLICE          9.0         11               0.01
+
+
+

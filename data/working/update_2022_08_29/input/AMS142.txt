@@ -1,0 +1,856 @@
+S142.Q1 WHAT IS YOUR RANK OR GRADE?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0        640                0.5
+1           MAJOR          1.0         30               0.02
+2         CAPTAIN          2.0         61               0.05
+3  1ST LIEUTENANT          3.0        258                0.2
+4  2ND LIEUTENANT          4.0        296               0.23
+5  FLIGHT OFFICER          5.0          7               0.01
+
+
+
+S142.Q2A GIVE THE APPROXIMATE DATE WHEN YOU WENT ON YOUR FIRST COMBAT MISSION:
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0         30               0.02
+1    AUGUST, 1943 OR EARLIER          1.0         16               0.01
+2   SEPTEMBER, OCTOBER, 1943          2.0         26               0.02
+3             NOVEMBER, 1943          3.0          6                0.0
+4             DECEMBER, 1943          4.0         38               0.03
+5              JANUARY, 1944          5.0         53               0.04
+6             FEBRUARY, 1944          6.0         37               0.03
+7                MARCH, 1944          7.0         47               0.04
+8                APRIL, 1944          8.0         87               0.07
+9             MAY 1-15, 1944          9.0         59               0.05
+10           MAY 16-31, 1944         10.0         81               0.06
+11                JUNE, 1944         11.0        254                0.2
+
+
+
+S142.Q2B GIVE THE APPROXIMATE DATE WHEN YOU FIRST CAME TO YOUR PRESENT GROUP:
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0         36               0.03
+1    AUGUST, 1943 OR EARLIER          1.0         68               0.05
+2   SEPTEMBER, OCTOBER, 1943          2.0         27               0.02
+3             NOVEMBER, 1943          3.0         21               0.02
+4             DECEMBER, 1943          4.0         23               0.02
+5              JANUARY, 1944          5.0         45               0.03
+6             FEBRUARY, 1944          6.0         38               0.03
+7                MARCH, 1944          7.0         35               0.03
+8                APRIL, 1944          8.0        109               0.08
+9             MAY 1-15, 1944          9.0         41               0.03
+10           MAY 16-31, 1944         10.0         80               0.06
+11                JUNE, 1944         11.0        337               0.26
+
+
+
+S142.Q3 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0         18               0.01
+1            19 YEARS          2.0         12               0.01
+2                  20          3.0         54               0.04
+3                  21          4.0         92               0.07
+4                  22          5.0        117               0.09
+5                  23          6.0        120               0.09
+6                  24          7.0         91               0.07
+7                  25          8.0         71               0.05
+8         26-29 YEARS          9.0         87               0.07
+9         30-34 YEARS         10.0          3                0.0
+10  35 YEARS AND OVER         11.0          2                0.0
+
+
+
+S142.Q4 HOW WELL SATISFIED ARE YOU WITH HAVING AN ASSIGNMENT AS A FIGHTER PILOT, AS COMPARED WITH OTHER TYPES OF COMBAT FLYING ASSIGNMENTS?
+                                                               answer_label answer_value raw_counts relative_frequency
+0                                                                 NO ANSWER          0.0         20               0.02
+1  BETTER SATISFIED THAN I WOULD BE WITH ANY OTHER COMBAT FLYING ASSIGNMENT          1.0       1041               0.81
+2                            AS WELL SATISFIED AS I WOULD BE WITH ANY OTHER          2.0        165               0.13
+3  WOULD BE BETTER SATISFIED IN SOME OTHER TYPE OF COMBAT FLYING ASSIGNMENT          3.0         55               0.04
+
+
+
+S142.Q5A ABOUT HOW MANY HOURS COMBAT FLYING HAVE YOU COMPLETED UP TO NOW?  ANP (ACTUAL NUMBER HOURS)
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1             4 HOURS          4.0          9               0.01
+2           480 HOURS        480.0          1                0.0
+3           NO ANSWER        889.0         17               0.01
+
+
+
+S142.Q5B.1 HOW MANY COMBAT MISSIONS HAVE YOU FLOWN UP TO NOW? E. MISSIONS COMPLETED:  ANP (ACTUAL NUMBER MISSIONS)
+                    answer_label answer_value raw_counts relative_frequency
+0             NO CODE OR NO DATA          0.0         15               0.01
+1            1 MISSION COMPLETED          1.0         13               0.01
+2                      NO ANSWER         89.0         22               0.02
+3  99 OR MORE MISSIONS COMPLETED         99.0          7               0.01
+
+
+
+S142.Q5B.2HOW MANY COMBAT MISSIONS HAVE YOU FLOWN UP TO NOW? E. MISSIONS COMPLETED:
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0         46               0.04
+1            ONE MISSION ABORTED          1.0        154               0.12
+2                            TWO          2.0         97               0.08
+3                          THREE          3.0         67               0.05
+4                           FOUR          4.0         37               0.03
+5                           FIVE          5.0         35               0.03
+6                            SIX          6.0         19               0.01
+7                          SEVEN          7.0         12               0.01
+8                          EIGHT          8.0          9               0.01
+9                           NINE          9.0          1                0.0
+10  TEN OR MORE MISSIONS ABORTED         10.0         11               0.01
+11                          NONE         11.0        180               0.14
+
+
+
+S142.Q5C ABOUT HOW MANY COMBAT HOURS HAVE YOU FLOWN IN THE PAST 30 DAYS?  ANP (ACTUAL NUMBER HOURS)
+           answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR MORE DATA          0.0         13               0.01
+1                1 HOUR          1.0          2                0.0
+2             NO ANSWER         89.0         24               0.02
+3      99 OR MORE HOURS         99.0         21               0.02
+
+
+
+S142.Q6 IF YOU WERE DOING IT OVER AGAIN, DO YOU THINK YOU WOULD CHOOSE TO SIGN UP FOR COMBAT FLYING?
+                             answer_label answer_value raw_counts relative_frequency
+0                      NO CODE OR NO DATA          0.0         11               0.01
+1            YES, I'M PRETTY SURE I WOULD          1.0        781                0.6
+2  YES, I THINK I WOULD, BUT I'M NOT SURE          2.0        125                0.1
+3               NO, I DON'T THINK I WOULD          3.0        336               0.26
+4                NO, I'M SURE I WOULD NOT          4.0         18               0.01
+5                               NO ANSWER          5.0         21               0.02
+
+
+
+S142.Q7 WHEN YOU WERE STARTING YOUR BASIC FLYING TRAINING, DID YOU WANT TO BE ASSIGNED TO FIGHTERS OR TO SOME OTHER TYPE OF AIRCRAFT?
+                                     answer_label answer_value raw_counts relative_frequency
+0                                       NO ANSWER          0.0         26               0.02
+1  AT THAT TIME WANTED TO BE ASSIGNED TO FIGHTERS          1.0        973               0.75
+2           DIDN'T CARE MUCH ONE WAY OR THE OTHER          2.0         75               0.06
+3                    WANTED SOME OTHER ASSIGNMENT          3.0        211               0.16
+
+
+
+S142.Q8A AS YOU SEE IT AT PRESENT, WOULD YOU WILLINGLY TAKE ON ANOTHER SERIES OF MISSIONS IN THE EUROPEAN THEATER OF OPERATIONS AFTER SPENDING A 30-DAY FURLOUGH IN THE USA?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         23               0.02
+1          YES          1.0        464               0.36
+2           NO          2.0        407               0.32
+3    UNDECIDED          3.0        318               0.25
+
+
+
+S142.Q8B AS YOU SEE IT AT PRESENT, WOULD YOU WILLINGLY TAKE ON ANOTHER SERIES OF MISSIONS IN SOME OTHER THEATER AFTER SPENDING A 30-DAY FURLOUGH IN THE USA?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         21               0.02
+1          YES          1.0        275               0.21
+2           NO          2.0        343               0.27
+3    UNDECIDED          3.0        370               0.29
+
+
+
+S142.Q9 HOW IMPORTANT A PART DO YOU THINK YOUR TYPE OF OUTFIT WILL PLAY IN WINNING THE WAR?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0         18               0.01
+1      A VERY IMPORTANT PART          1.0        629               0.49
+2    A FAIRLY IMPORTANT PART          2.0        224               0.17
+3  NOT A VERY IMPORTANT PART          3.0        173               0.13
+4       NOT IMPORTANT AT ALL          4.0         81               0.06
+
+
+
+S142.Q10A FROM WHAT YOU HAVE SEEN, HOW WELL DO YOU FEEL THAT HIGHER HEADQUARTERS (WING, COMMAND, AIR FORCE HQ.) UNDERSTAND YOUR PROBLEMS AND NEEDS?
+                                                              answer_label answer_value raw_counts relative_frequency
+0                        I FEEL THAT THEY ARE VERY MUCH AWARE OF OUR NEEDS          1.0        550               0.43
+1                      I FEEL THAT THEY ARE FAIRLY WELL AWARE OF OUR NEEDS          2.0        516                0.4
+2                                                                NO ANSWER          4.0        159               0.12
+3                                                       NO CODE OR NO DATA          0.0         26               0.02
+4  I FEEL THAT THEY DON'T KNOW VERY MUCH ABOUT OUR REAL PROBLEMS AND NEEDS          3.0         41               0.03
+
+
+
+S142.Q11A FOR ESCORTING BOMBERS AT HIGH ALTITUDES?
+                                                          answer_label answer_value raw_counts relative_frequency
+0       NO CHECKS OR RATINGS, OR ELSE 3 CHECKS OR RATINGS ALL THE SAME          0.0         14               0.01
+1                                           P38 P47 P51 OR P38 P47 P51          1.0         19               0.01
+2                                           P38 P51 P47 OR P38 P51 P47          2.0         26               0.02
+3                                           P47 P38 P51 OR P47 P38 P51          3.0         59               0.05
+4                                           P47 P51 P38 OR P47 P51 P38          4.0        233               0.18
+5                                           P51 P38 P47 OR P51 P38 P47          5.0         53               0.04
+6                                           P51 P47 P38 OR P51 P47 P38          6.0        228               0.18
+7                                                     ONLY P38 CHECKED          7.0          5                0.0
+8                                                     ONLY P47 CHECKED          8.0         16               0.01
+9                                                     ONLY P51 CHECKED          9.0         18               0.01
+10  GIVES TWO PLANES A "1" RATING, OR CHECKS TWO PLANES WITHOUT RATING         10.0          5                0.0
+
+
+
+S142.Q11B FOR LOW-LEVEL BOMBING AND STRAFING?
+                                                          answer_label answer_value raw_counts relative_frequency
+0       NO CHECKS OR RATINGS, OR ELSE 3 CHECKS OR RATINGS ALL THE SAME          0.0         84               0.07
+1                                           P38 P47 P51 OR P38 P47 P51          1.0        209               0.16
+2                                           P38 P51 P47 OR P38 P51 P47          2.0        219               0.17
+3                                           P47 P38 P51 OR P47 P38 P51          3.0        268               0.21
+4                                           P47 P51 P38 OR P47 P51 P38          4.0        163               0.13
+5                                           P51 P38 P47 OR P51 P38 P47          5.0         59               0.05
+6                                           P51 P47 P38 OR P51 P47 P38          6.0        106               0.08
+7                                                     ONLY P38 CHECKED          7.0         32               0.02
+8                                                     ONLY P47 CHECKED          8.0         22               0.02
+9                                                     ONLY P51 CHECKED          9.0         13               0.01
+10  GIVES TWO PLANES A "1" RATING, OR CHECKS TWO PLANES WITHOUT RATING         10.0         45               0.03
+
+
+
+S142.Q11C FOR SHOOTING DOWN ENEMY FIGHTERS AT LOW ALTITUDES?
+                                                          answer_label answer_value raw_counts relative_frequency
+0       NO CHECKS OR RATINGS, OR ELSE 3 CHECKS OR RATINGS ALL THE SAME          0.0          5                0.0
+1                                           P38 P47 P51 OR P38 P47 P51          1.0         21               0.02
+2                                           P38 P51 P47 OR P38 P51 P47          2.0        169               0.13
+3                                           P47 P38 P51 OR P47 P38 P51          3.0          9               0.01
+4                                           P47 P51 P38 OR P47 P51 P38          4.0         86               0.07
+5                                           P51 P38 P47 OR P51 P38 P47          5.0        112               0.09
+6                                           P51 P47 P38 OR P51 P47 P38          6.0        222               0.17
+7                                                     ONLY P38 CHECKED          7.0         22               0.02
+8                                                     ONLY P47 CHECKED          8.0         15               0.01
+9                                                     ONLY P51 CHECKED          9.0         27               0.02
+10  GIVES TWO PLANES A "1" RATING, OR CHECKS TWO PLANES WITHOUT RATING         10.0          6                0.0
+
+
+
+S142.Q11D FOR SHOOTING DOWN ENEMY FIGHTERS AT HIGH ALTITUDES?
+                                                          answer_label answer_value raw_counts relative_frequency
+0       NO CHECKS OR RATINGS, OR ELSE 3 CHECKS OR RATINGS ALL THE SAME          0.0          6                0.0
+1                                           P38 P47 P51 OR P38 P47 P51          1.0         14               0.01
+2                                           P38 P51 P47 OR P38 P51 P47          2.0         10               0.01
+3                                           P47 P38 P51 OR P47 P38 P51          3.0         57               0.04
+4                                           P47 P51 P38 OR P47 P51 P38          4.0        291               0.23
+5                                           P51 P38 P47 OR P51 P38 P47          5.0         34               0.03
+6                                           P51 P47 P38 OR P51 P47 P38          6.0        222               0.17
+7                                                     ONLY P38 CHECKED          7.0          6                0.0
+8                                                     ONLY P47 CHECKED          8.0         42               0.03
+9                                                     ONLY P51 CHECKED          9.0         28               0.02
+10  GIVES TWO PLANES A "1" RATING, OR CHECKS TWO PLANES WITHOUT RATING         10.0         28               0.02
+
+
+
+S142.Q11E AS TO THEIR ABILITY TO TAKE PUNISHMENT AND STILL COME BACK FROM A MISSION?
+                                                          answer_label answer_value raw_counts relative_frequency
+0       NO CHECKS OR RATINGS, OR ELSE 3 CHECKS OR RATINGS ALL THE SAME          0.0          4                0.0
+1                                           P38 P47 P51 OR P38 P47 P51          1.0        199               0.15
+2                                           P38 P51 P47 OR P38 P51 P47          2.0         76               0.06
+3                                           P47 P38 P51 OR P47 P38 P51          3.0        336               0.26
+4                                           P47 P51 P38 OR P47 P51 P38          4.0        166               0.13
+5                                           P51 P38 P47 OR P51 P38 P47          5.0         45               0.03
+6                                           P51 P47 P38 OR P51 P47 P38          6.0         61               0.05
+7                                                     ONLY P38 CHECKED          7.0         92               0.07
+8                                                     ONLY P47 CHECKED          8.0        100               0.08
+9                                                     ONLY P51 CHECKED          9.0         66               0.05
+10  GIVES TWO PLANES A "1" RATING, OR CHECKS TWO PLANES WITHOUT RATING         10.0         55               0.04
+
+
+
+S142.Q12 IF IT WERE UP TO YOU TO CHOOSE FOR YOURSELF, WHICH ONE OF THE THREE TYPES OF PLANES WOULD YOU PREFER?
+    answer_label answer_value raw_counts relative_frequency
+0      NO ANSWER          0.0        101               0.08
+1           P-38          1.0        301               0.23
+2           P-47          2.0        301               0.23
+3           P-51          3.0        348               0.27
+4  P-38 AND P-47          4.0        101               0.08
+5  P-38 AND P-51          5.0         75               0.06
+6  P-47 AND P-51          6.0         22               0.02
+7      UNDECIDED          7.0         24               0.02
+
+
+
+S142.Q13A WHAT TYPE OF SHIP DID YOU FLY ON YOUR FIRST COMBAT MISSION?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0         64               0.05
+1                P-38          1.0        276               0.21
+2                P-47          2.0        331               0.26
+3                P-51          3.0        243               0.19
+4           NO ANSWER          4.0         71               0.05
+
+
+
+S142.Q13B BEFORE STARTING COMBAT FLYING, HOW MANY HOURS HAD YOU FLOWN IN THAT TYPE OF PLANE?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0          7               0.01
+1   LESS THAN 25 HOURS          1.0         70               0.11
+2          25-49 HOURS          2.0         64                0.1
+3                50-74          3.0         84               0.13
+4                75-99          4.0        102               0.16
+5              100-124          5.0        111               0.17
+6              125-149          6.0         43               0.07
+7              150-174          7.0         29               0.04
+8              175-199          8.0          9               0.01
+9        200-224 HOURS          9.0         39               0.06
+10   225 OR MORE HOURS         10.0         96               0.15
+
+
+
+S142.Q14A IN YOUR JUDGMENT, IS YOUR SHIP NOW BEING USED IN ANY KIND OF COMBAT ASSIGNMENTS FOR WHICH IT IS NOT WELL SUITED?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1                 YES          1.0        238               0.36
+2                  NO          2.0        399               0.61
+3           NO ANSWER          3.0         15               0.02
+
+
+
+S142.Q14B ARE THERE ANY MODIFICATIONS WHICH YOU THINK WOULD IMPROVE THE COMBAT EFFICIENCY OF THE TYPE OF SHIP YOU ARE NOW USING?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          4               0.01
+1                 YES          1.0        444               0.68
+2                  NO          2.0        168               0.26
+3           NO ANSWER          3.0         38               0.06
+
+
+
+S142.Q15A.1 ABOUT HOW MUCH COMBAT FLYING OF THE SORT YOU HAVE BEEN DOING RECENTLY DO YOU THINK A MAN IN YOUR JOB CAN DO DURING A WEEK'S TIME AND KEEP HIS EFFICIENCY AT A REASONABLY HIGH LEVEL? E. NUMBER OF MISSIONS:
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0         20               0.03
+1            ONE MISSION          1.0          1                0.0
+2                    TWO          2.0          3                0.0
+3                  THREE          3.0         32               0.05
+4                   FOUR          4.0        150               0.23
+5                   FIVE          5.0        204               0.31
+6                    SIX          6.0        123               0.19
+7                  SEVEN          7.0         85               0.13
+8         EIGHT MISSIONS          8.0         19               0.03
+9  NINE OR MORE MISSIONS          9.0         17               0.03
+
+
+
+S142.Q15A.2ABOUT HOW MUCH COMBAT FLYING OF THE SORT YOU HAVE BEEN DOING RECENTLY DO YOU THINK A MAN IN YOUR JOB CAN DO DURING A WEEK'S TIME AND KEEP HIS EFFICIENCY AT A REASONABLY HIGH LEVEL? E. NUMBER OF MISSIONS:  ANP (ACTUAL NUMBER HOURS)
+    answer_label answer_value raw_counts relative_frequency
+0  2 HOURS . . .          2.0          2                0.0
+1       80 HOURS         80.0          1                0.0
+
+
+
+S142.Q15B WHEN FLYING TWO COMBAT MISSIONS A DAY, ABOUT HOW MANY DAYS IN A ROW DO YOU THINK A MAN CAN FLY AND STILL KEEP HIS EFFICIENCY AT A REASONABLY HIGH LEVEL? (IN ANSWERING THINK OF MISSIONS OF THE SORT YOU YOURSELF HAVE BEEN ON RECENTLY)
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0         16               0.02
+1            ONE DAY          1.0         30               0.05
+2                TWO          2.0        237               0.36
+3              THREE          3.0        220               0.34
+4               FOUR          4.0         71               0.11
+5               FIVE          5.0         38               0.06
+6                SIX          6.0          9               0.01
+7              SEVEN          7.0         10               0.02
+8              EIGHT          8.0          2                0.0
+9          NINE DAYS          9.0         11               0.02
+10  TEN OR MORE DAYS         10.0         10               0.02
+
+
+
+S142.Q16A.1 HOW MUCH COMBAT FLYING HAVE YOU DONE IN THE PAST 7 DAYS? E. NUMBER OF MISSIONS:
+    answer_label answer_value raw_counts relative_frequency
+0      NO ANSWER          0.0         27               0.04
+1    ONE MISSION          1.0         30               0.05
+2            TWO          2.0         73               0.11
+3          THREE          3.0        118               0.18
+4           FOUR          4.0        140               0.21
+5           FIVE          5.0        139               0.21
+6            SIX          6.0         67                0.1
+7          SEVEN          7.0         30               0.05
+8          EIGHT          8.0          8               0.01
+9           NINE          9.0          9               0.01
+10  TEN MISSIONS         10.0         13               0.02
+
+
+
+S142.Q16A.2HOW MUCH COMBAT FLYING HAVE YOU DONE IN THE PAST 7 DAYS? E. NUMBER OF MISSIONS:  ANP (ACTUAL NUMBER HOURS)
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0         12               0.02
+1              1 HOUR          1.0          1                0.0
+2           NO ANSWER         89.0         24               0.04
+
+
+
+S142.Q16B.1 HOW MUCH IN THE PAST 3 DAYS? E. NUMBER OF MISSIONS:
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0         41               0.06
+1         ONE MISSION          1.0        201               0.31
+2                 TWO          2.0        223               0.34
+3               THREE          3.0        115               0.18
+4                FOUR          4.0         15               0.02
+5                FIVE          5.0          4               0.01
+6               SEVEN          7.0          1                0.0
+7           NO ANSWER         10.0         54               0.08
+
+
+
+S142.Q16B.2HOW MUCH IN THE PAST 3 DAYS? E. NUMBER OF MISSIONS:  ANP (ACTUAL NUMBER HOURS)
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0         40               0.06
+1       2 HOURS . . .          2.0          3                0.0
+2            90 HOURS         90.0          1                0.0
+
+
+
+S142.Q17 IN YOUR OPINION ARE MOST OF THE COMBAT MISSIONS AT THE PRESENT TIME MORE DIFFICULT, ABOUT THE SAME, OR LESS DIFFICULT THAN THEY WERE AT ABOUT THE TIME WHEN YOU STARTED COMBAT FLYING IN EUROPEAN THEATER OPERATIONS?
+                                              answer_label answer_value raw_counts relative_frequency
+0                                       NO CODE OR NO DATA          0.0          3                0.0
+1  ON THE WHOLE THEY ARE LESS DIFFICULT NOW THAN THEY WERE          1.0        132                0.2
+2                     THEY ARE ABOUT THE SAME AS THEY WERE          2.0        205               0.31
+3  ON THE WHOLE THEY ARE MORE DIFFICULT NOW THAN THEY WERE          3.0        100               0.15
+4                   HAVEN'T BEEN FLYING LONG ENOUGH TO SAY          4.0        207               0.32
+5                                                NO ANSWER          5.0          7               0.01
+
+
+
+S142.Q18 GENERALLY SPEAKING, WHICH OF THE FOLLOWING KINDS OF MISSIONS DO YOU PREFER TO GO ON?
+                     answer_label answer_value raw_counts relative_frequency
+0                       NO ANSWER          0.0         12               0.02
+1                 ESCORT MISSIONS          1.0        324                0.5
+2  LOW-LEVEL BOMBING AND STRAFING          2.0        171               0.26
+3             PATROLLING MISSIONS          3.0         35               0.05
+4      SOME OTHER TYPE OF MISSION          4.0         45               0.07
+5                 1 AND 2 CHECKED          5.0         40               0.06
+6                 1 AND 3 CHECKED          6.0         14               0.02
+7                 1 AND 4 CHECKED          7.0          3                0.0
+8                 2 AND 3 CHECKED          8.0          6               0.01
+9                 2 AND 4 CHECKED          9.0          4               0.01
+
+
+
+S142.Q19 HAVE YOU EVER HAD THE FEELING THAT A PARTICULAR MISSION WASN'T WORTH THE COST?
+       answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER          0.0         16               0.02
+1  YES, QUITE OFTEN          1.0         71               0.11
+2    YES, SOMETIMES          2.0        473               0.72
+3         NO, NEVER          3.0         94               0.14
+
+
+
+S142.Q20 IN GENERAL, WHAT SORT OF PHYSICAL CONDITION WOULD YOU SAY YOU ARE IN AT THE PRESENT TIME?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0          3                0.0
+1  VERY GOOD PHYSICAL CONDITION          1.0         99               0.15
+2       GOOD PHYSICAL CONDITION          2.0        332               0.51
+3       FAIR PHYSICAL CONDITION          3.0        207               0.32
+4       POOR PHYSICAL CONDITION          4.0         12               0.02
+5  VERY POOR PHYSICAL CONDITION          5.0          1                0.0
+
+
+
+S142.Q21 DO YOU THINK YOU MIGHT WANT TO STAY IN THE ARMY AFTER THE WAR?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0          2                0.0
+1          YES, I WOULD WANT TO VERY MUCH          1.0        277               0.42
+2  YES, I MIGHT WANT TO, BUT I'M NOT SURE          2.0        193                0.3
+3       NO, I DON'T THINK I WOULD WANT TO          3.0         73               0.11
+4          NO, I WOULD NOT WANT TO AT ALL          4.0         61               0.09
+5                               UNDECIDED          5.0         48               0.07
+
+
+
+S142.Q22 CONSIDERING EVERYTHING, HOW WOULD YOU RATE THE TRAINING YOU RECEIVED IN THE UNITED STATES?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         12               0.02
+1    VERY GOOD          1.0        286               0.44
+2         GOOD          2.0        226               0.35
+3         FAIR          3.0        110               0.17
+4         POOR          4.0         17               0.03
+5    VERY POOR          5.0          3                0.0
+
+
+
+S142.Q23A SHOOTING AT TARGETS IN RAPID MOTION?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0          5               0.01
+1        MORE THAN ENOUGH          1.0          9               0.01
+2  ABOUT THE RIGHT AMOUNT          2.0        230               0.35
+3        NOT QUITE ENOUGH          3.0        236               0.36
+4       NOT NEARLY ENOUGH          4.0        174               0.27
+
+
+
+S142.Q23B CAMERA GUNNERY?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0          6               0.01
+1        MORE THAN ENOUGH          1.0         38               0.06
+2  ABOUT THE RIGHT AMOUNT          2.0        293               0.45
+3        NOT QUITE ENOUGH          3.0        202               0.31
+4       NOT NEARLY ENOUGH          4.0        115               0.18
+
+
+
+S142.Q23C DOG-FIGHTING TACTICS; "AERIAL ACROBATICS"; "RAT-RACING", ETC.?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0          9               0.01
+1        MORE THAN ENOUGH          1.0         32               0.05
+2  ABOUT THE RIGHT AMOUNT          2.0        216               0.33
+3        NOT QUITE ENOUGH          3.0        161               0.25
+4       NOT NEARLY ENOUGH          4.0        236               0.36
+
+
+
+S142.Q23D ENEMY FIGHTER TACTICS?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0          7               0.01
+1        MORE THAN ENOUGH          1.0          7               0.01
+2  ABOUT THE RIGHT AMOUNT          2.0        164               0.25
+3        NOT QUITE ENOUGH          3.0        211               0.32
+4       NOT NEARLY ENOUGH          4.0        265               0.41
+
+
+
+S142.Q23E USE OF RADIO CODE?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0         10               0.02
+1        MORE THAN ENOUGH          1.0        138               0.21
+2  ABOUT THE RIGHT AMOUNT          2.0        371               0.57
+3        NOT QUITE ENOUGH          3.0         97               0.15
+4       NOT NEARLY ENOUGH          4.0         38               0.06
+
+
+
+S142.Q23F AIRCRAFT IDENTIFICATION?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0          7               0.01
+1        MORE THAN ENOUGH          1.0        111               0.17
+2  ABOUT THE RIGHT AMOUNT          2.0        475               0.73
+3        NOT QUITE ENOUGH          3.0         51               0.08
+4       NOT NEARLY ENOUGH          4.0         10               0.02
+
+
+
+S142.Q23G CROSS-COUNTRY NAVIGATION?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0          7               0.01
+1        MORE THAN ENOUGH          1.0         35               0.05
+2  ABOUT THE RIGHT AMOUNT          2.0        322               0.49
+3        NOT QUITE ENOUGH          3.0        184               0.28
+4       NOT NEARLY ENOUGH          4.0        106               0.16
+
+
+
+S142.Q23H INSTRUMENT FLYING IN CLOUDS?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0         12               0.02
+1        MORE THAN ENOUGH          1.0          8               0.01
+2  ABOUT THE RIGHT AMOUNT          2.0        115               0.18
+3        NOT QUITE ENOUGH          3.0        186               0.28
+4       NOT NEARLY ENOUGH          4.0        333               0.51
+
+
+
+S142.Q24A USE OF OXYGEN EQUIPMENT?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0          5               0.01
+1        MORE THAN ENOUGH          1.0         83               0.13
+2  ABOUT THE RIGHT AMOUNT          2.0        493               0.75
+3        NOT QUITE ENOUGH          3.0         40               0.06
+4       NOT NEARLY ENOUGH          4.0         33               0.05
+
+
+
+S142.Q24B HIGH ALTITUDE FORMATION FLYING?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0          8               0.01
+1        MORE THAN ENOUGH          1.0         16               0.02
+2  ABOUT THE RIGHT AMOUNT          2.0        213               0.33
+3        NOT QUITE ENOUGH          3.0        229               0.35
+4       NOT NEARLY ENOUGH          4.0        188               0.29
+
+
+
+S142.Q24C LOW ALTITUDE FORMATION FLYING?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0          6               0.01
+1        MORE THAN ENOUGH          1.0        120               0.18
+2  ABOUT THE RIGHT AMOUNT          2.0        372               0.57
+3        NOT QUITE ENOUGH          3.0         89               0.14
+4       NOT NEARLY ENOUGH          4.0         67                0.1
+
+
+
+S142.Q24D PARACHUTE TRAINING AND BAILING-OUT PROCEDURE?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0          7               0.01
+1        MORE THAN ENOUGH          1.0         20               0.03
+2  ABOUT THE RIGHT AMOUNT          2.0        462               0.71
+3        NOT QUITE ENOUGH          3.0        127               0.19
+4       NOT NEARLY ENOUGH          4.0         38               0.06
+
+
+
+S142.Q24E STRAFING PRACTICE?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0         10               0.02
+1        MORE THAN ENOUGH          1.0         11               0.02
+2  ABOUT THE RIGHT AMOUNT          2.0        122               0.19
+3        NOT QUITE ENOUGH          3.0        229               0.35
+4       NOT NEARLY ENOUGH          4.0        282               0.43
+
+
+
+S142.Q24F BOMBING PRACTICE?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0         14               0.02
+1        MORE THAN ENOUGH          1.0         15               0.02
+2  ABOUT THE RIGHT AMOUNT          2.0        141               0.22
+3        NOT QUITE ENOUGH          3.0        184               0.28
+4       NOT NEARLY ENOUGH          4.0        300               0.46
+
+
+
+S142.Q24G ARE THERE ANY TYPES OF TRAINING NOT LISTED ABOVE WHICH YOU THINK YOU SHOULD HAVE RECEIVED MORE OF BEFORE YOUR FIRST COMBAT MISSION?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        116               0.18
+1          YES          1.0        226               0.35
+2           NO          2.0        312               0.48
+
+
+
+S142.Q25A BEFORE GOING ON YOUR FIRST COMBAT MISSION, ABOUT HOW MANY HOURS HIGH ALTITUDE FLYING ON OXYGEN HAD YOU HAD IN ALL?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1               0.06
+1  LESS THAN 10 HOURS          1.0          5               0.31
+2               10-19          2.0          4               0.25
+3               20-29          3.0          2               0.12
+4               30-39          4.0          2               0.12
+5               60-69          7.0          1               0.06
+6           NO ANSWER         10.0          1               0.06
+
+
+
+S142.Q25B BEFORE YOUR FIRST COMBAT MISSION, ABOUT HOW MANY HOURS HAD YOU FLOWN IN THE TYPES OF FORMATION YOU NOW USE IN COMBAT MISSIONS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          1               0.06
+1   1-24 HOURS          1.0          7               0.44
+2        25-49          2.0          3               0.19
+3        50-3.          3.0          2               0.12
+4        75-99          4.0          2               0.12
+5      150-174          7.0          1               0.06
+
+
+
+S142.Q26A WHAT WOULD YOU LIKE TO SEE HAPPEN TO THE GERMANS AFTER THE WAR?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                         NO ANSWER          0.0          1               0.06
+1  PUNISH THE LEADERS, BUT NOT THE ORDINARY GERMANS          1.0         11               0.69
+2     MAKE THE ORDINARY GERMAN PEOPLE SUFFER PLENTY          2.0          2               0.12
+3                  WIPE OUT THE WHOLE GERMAN NATION          3.0          2               0.12
+
+
+
+S142.Q26B WHAT WOULD YOU LIKE TO SEE HAPPEN TO THE JAPANESE AFTER THE WAR?
+                                        answer_label answer_value raw_counts relative_frequency
+0                                          NO ANSWER          0.0          1               0.06
+1  PUNISH THE LEADERS, BUT NOT THE ORDINARY JAPANESE          1.0          4               0.25
+2    MAKE THE ORDINARY JAPANESE PEOPLE SUFFER PLENTY          2.0          6               0.38
+3                 WIPE OUT THE WHOLE JAPANESE NATION          3.0          5               0.31
+
+
+
+S142.Q27A DO YOU HAVE ANY PARTICULAR FEELING ABOUT THE WAY THE NEWS OF AMERICAN AIR FORCES (AAF) FIGHTER OPERATIONS IS WRITTEN UP IN BRITISH NEWSPAPERS?
+                                                        answer_label answer_value raw_counts relative_frequency
+0                                                          NO ANSWER          0.0          1               0.06
+1                    YES, IT MATTERS QUITE A BIT TO ME WHAT THEY SAY          1.0          6               0.38
+2  NO, IT DOESN'T MAKE ANY PARTICULAR DIFFERENCE TO ME WHAT THEY SAY          2.0          9               0.56
+
+
+
+S142.Q27B ALL THINGS CONSIDERED, DO YOU FEEL THAT THE BRITISH NEWSPAPERS GIVE THE AMERICAN AIR FORCES TOO MUCH CREDIT, TOO LITTLE CREDIT, OR ABOUT THE RIGHT AMOUNT OF CREDIT FOR THE JOB THEY ARE DOING?
+                            answer_label answer_value raw_counts relative_frequency
+0                              NO ANSWER          0.0          2               0.12
+1                        TOO MUCH CREDIT          1.0          1               0.06
+2       ABOUT THE RIGHT AMOUNT OF CREDIT          2.0          2               0.12
+3                      TOO LITTLE CREDIT          3.0          8                0.5
+4  I DON'T READ THEM OFTEN ENOUGH TO SAY          4.0          3               0.19
+
+
+
+S142.Q28 WHAT DO YOU THINK OF THE JOB "STARS AND STRIPES" IS DOING IN REPORTING THE OPERATIONS OF THE EIGHTH AIR FORCE?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0          1               0.06
+1  A VERY GOOD JOB          1.0         13               0.81
+2       A GOOD JOB          2.0          1               0.06
+3  A VERY POOR JOB          5.0          1               0.06
+
+
+
+S142.Q29A.1 DURING THE PAST FOUR WEEKS, HOW MANY FURLOUGHS, LEAVES AND PASSES (FOR 24 HOURS OR MORE) HAVE YOU HAD? E. LEAVES OR PASSES:
+  answer_label answer_value raw_counts relative_frequency
+0          ONE          1.0          8                0.5
+1          TWO          2.0          2               0.12
+2         NONE          6.0          5               0.31
+3    NO ANSWER          7.0          1               0.06
+
+
+
+S142.Q29A.2DURING THE PAST FOUR WEEKS, HOW MANY FURLOUGHS, LEAVES AND PASSES (FOR 24 HOURS OR MORE) HAVE YOU HAD? E. FURLOUGHS:
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          1               0.06
+1          ONE          1.0          1               0.06
+2         NONE          6.0         14               0.88
+
+
+
+S142.Q29B HOW DO YOU FEEL ABOUT THE PRESENT PRACTICE IN YOUR OUTFIT WITH RESPECT TO THE GRANTING OF LEAVES AND PASSES?
+                                           answer_label answer_value raw_counts relative_frequency
+0                                             NO ANSWER          0.0          1               0.06
+1  IT IS AS GOOD AS IT COULD BE UNDER THE CIRCUMSTANCES          1.0         11               0.69
+2                           IT COULD BE SOMEWHAT BETTER          2.0          1               0.06
+3                              IT COULD BE A LOT BETTER          3.0          3               0.19
+
+
+
+S142.Q30 DO YOU USUALLY KNOW AHEAD OF TIME WHEN YOU CAN COUNT ON HAVING A LEAVE OR PASS?
+                                                       answer_label answer_value raw_counts relative_frequency
+0                                                         NO ANSWER          0.0          3               0.19
+1                            USUALLY KNOW A WEEK OR MORE BEFOREHAND          1.0          7               0.44
+2                                   USUALLY GIVEN A FEW DAYS NOTICE          2.0          5               0.31
+3  USUALLY FIND OUT ABOUT IT JUST BEFORE A LEAVE OR PASS IS GRANTED          3.0          1               0.06
+
+
+
+S142.Q31 HOW DO YOU FEEL ABOUT THE PROMOTION POLICY FOR FIGHTER PILOTS?
+              answer_label answer_value raw_counts relative_frequency
+0                NO ANSWER          0.0          2               0.12
+1      VERY WELL SATISFIED          1.0          2               0.12
+2                SATISFIED          2.0          5               0.31
+3  NOT VERY WELL SATISFIED          3.0          5               0.31
+4     NOT SATISFIED AT ALL          4.0          2               0.12
+
+
+
+S142.Q32 ON THE AVERAGE, ABOUT HOW MANY HOURS SLEEP PER 24 HOURS DAY HAVE YOU HAD DURING THE LAST 10 DAYS?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0          2               0.12
+1            6 HOURS          4.0          2               0.12
+2            7 HOURS          5.0          3               0.19
+3            8 HOURS          6.0          7               0.44
+4  MORE THAN 8 HOURS          7.0          2               0.12
+
+
+
+S142.Q33 IN GENERAL, HOW DO YOU FEEL ABOUT THE AMOUNT OF TIME YOU HAVE FOR SLEEP?
+                                          answer_label answer_value raw_counts relative_frequency
+0                                            NO ANSWER          0.0          2               0.12
+1  IT WOULD HELP A LITTLE IF I HAD MORE TIME FOR SLEEP          1.0          2               0.12
+2                   USUALLY HAVE ENOUGH TIME FOR SLEEP          3.0         12               0.75
+
+
+
+S142.Q34 DO YOU EVER HAVE ANY DIFFICULTY IN SLEEPING WHEN YOU HAVE THE CHANCE?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0          2               0.12
+1  ALMOST NEVER          1.0          7               0.44
+2  OCCASIONALLY          2.0          5               0.31
+3  FAIRLY OFTEN          3.0          2               0.12
+
+
+
+S142.Q35A THE MEDICAL SERVICE YOU ARE GETTING?
+                                                       answer_label answer_value raw_counts relative_frequency
+0                                                         NO ANSWER          0.0          2               0.12
+1              ABOUT AS GOOD AS IT COULD BE UNDER THE CIRCUMSTANCES          1.0         13               0.81
+2  COULD BE IMPROVED BUT IT WOULDN'T MAKE TOO MUCH DIFFERENCE TO ME          2.0          1               0.06
+
+
+
+S142.Q35B THE FOOD AT YOUR BASE?
+                                                       answer_label answer_value raw_counts relative_frequency
+0                                                         NO ANSWER          0.0          2               0.12
+1              ABOUT AS GOOD AS IT COULD BE UNDER THE CIRCUMSTANCES          1.0          6               0.38
+2  COULD BE IMPROVED BUT IT WOULDN'T MAKE TOO MUCH DIFFERENCE TO ME          2.0          1               0.06
+3              COULD BE IMPROVED AND IT WOULD HELP A LOT IF IT WERE          3.0          7               0.44
+
+
+
+S142.Q35C ARRANGEMENTS FOR GETTING BREAKFAST BEFORE AN EARLY MISSION?
+                                                       answer_label answer_value raw_counts relative_frequency
+0                                                         NO ANSWER          0.0          2               0.12
+1              ABOUT AS GOOD AS IT COULD BE UNDER THE CIRCUMSTANCES          1.0          8                0.5
+2  COULD BE IMPROVED BUT IT WOULDN'T MAKE TOO MUCH DIFFERENCE TO ME          2.0          2               0.12
+3              COULD BE IMPROVED AND IT WOULD HELP A LOT IF IT WERE          3.0          4               0.25
+
+
+
+S142.Q36 ABOUT HOW OFTEN DO YOU LISTEN TO THE AMERICAN FORCES NETWORK, THE RADIO PROGRAMS PUT ON BY THE U.S. ARMY FOR THE AMERICAN FORCES OVERSEAS?
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0          1               0.06
+1            ALMOST EVERY DAY          1.0          7               0.44
+2  THREE OR FOUR TIMES A WEEK          2.0          2               0.12
+3        ONCE OR TWICE A WEEK          3.0          1               0.06
+4       LESS THAN ONCE A WEEK          4.0          3               0.19
+5                ALMOST NEVER          5.0          2               0.12
+
+
+
+S142.Q37 ALL THINGS CONSIDERED, DO YOU FEEL THAT THE BRITISH RADIO PROGRAMS GIVE THE AMERICAN AIR FORCES TOO MUCH CREDIT, TOO LITTLE CREDIT, OR ABOUT THE RIGHT AMOUNT OF CREDIT FOR THE JOB THEY ARE DOING?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0          1               0.06
+1            ABOUT THE RIGHT AMOUNT OF CREDIT          2.0          4               0.25
+2                           TOO LITTLE CREDIT          3.0          4               0.25
+3  I DON'T LISTEN TO THEM OFTEN ENOUGH TO SAY          4.0          7               0.44
+
+
+
+S142.Q38A ABOUT HOW OFTEN DO YOU LISTEN TO THE GERMAN RADIO PROGRAMS?
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0          1               0.06
+1            ALMOST EVERY DAY          1.0          2               0.12
+2  THREE OR FOUR TIMES A WEEK          2.0          4               0.25
+3        ONCE OR TWICE A WEEK          3.0          5               0.31
+4       LESS THAN ONCE A WEEK          4.0          1               0.06
+5                ALMOST NEVER          5.0          3               0.19
+
+
+
+S142.Q38B HOW DO YOU FEEL ABOUT THE NEWS AND TALKS INCLUDED IN GERMAN RADIO PROGRAMS?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0          1               0.06
+1  VERY LITTLE TRUTH IN WHAT THEY SAY          1.0          9               0.56
+2         SOME TRUTH IN WHAT THEY SAY          2.0          3               0.19
+3                          NO OPINION          4.0          3               0.19
+
+
+
+S142.Q39A DO YOU FEEL THAT YOU HAVE BEEN GIVEN AS MUCH INFORMATION AS YOU WOULD LIKE TO HAVE ABOUT THE KIND OF ASSIGNMENTS MEN CAN GET AT THAT TIME?
+                                                  answer_label answer_value raw_counts relative_frequency
+0                                                    NO ANSWER          0.0          1               0.06
+1  YES, I FEEL I HAVE BEEN GIVEN ENOUGH INFORMATION ABOUT THIS          1.0          1               0.06
+2                 NO, I WISH I HAD MORE INFORMATION ABOUT THIS          2.0         14               0.88
+
+
+
+S142.Q39B WHAT DO YOU THINK OF THE PRESENT POLICY REGARDING ASSIGNMENT OF MEN AT THAT TIME?
+                                    answer_label answer_value raw_counts relative_frequency
+0                                      NO ANSWER          0.0          1               0.06
+1        I THINK THE POLICY OUGHT TO BE IMPROVED          2.0          3               0.19
+2  I DON'T KNOW WHAT THE POLICY OF ASSIGNMENT IS          3.0         12               0.75
+
+
+
+S142.Q39C CONSIDERING WHAT YOU PERSONALLY CAN CONTRIBUTE TO THE WAR EFFORT, WHAT KIND OF AN ARMY ASSIGNMENT DO YOU THINK YOU OUGHT TO HAVE AT THAT TIME?
+                                                                                       answer_label answer_value raw_counts relative_frequency
+0                                                                                         NO ANSWER          0.0          4               0.25
+1                                                     INSTRUCTOR IN THE U.S.; TRAINING SCHOOL, ETC.          1.0          2               0.12
+2                               INSTRUCTOR - LOCALE UNSPECIFIED OR LOCALE OTHER THAN U.S. SPECIFIED          2.0          1               0.06
+3  ANOTHER COMBAT TOUR, AFTER A REST; "COMBAT" (EUROPEAN THEATER OPERATIONS OR THEATER UNSPECIFIED)          3.0          2               0.12
+4                                                         ANOTHER COMBAT TOUR IN SOME OTHER THEATER          4.0          1               0.06
+5                                                                                 OTHER JOB IN U.S.          7.0          1               0.06
+6      GROUND JOB, IN EUROPEAN THEATER OPERATIONS (OR SPECIFIED DESIRE TO STAY WITH PRESENT OUTFIT)          8.0          1               0.06
+7                                                                  MISCELLANEOUS AND UNCLASSIFIABLE         10.0          3               0.19
+8                                                                             DON'T KNOW, UNDECIDED         11.0          1               0.06
+
+
+
+S142.V42 UNIT IDENTIFICATION: (SPECIFIC UNIT NOT SPECIFIED.)
+                              answer_label answer_value raw_counts relative_frequency
+0  PRESENT PLANE P-38 - FORMERLY FLEW P-38          1.0          4               0.25
+1  PRESENT PLANE P-47 - FORMERLY FLEW P-47          4.0          4               0.25
+2  PRESENT PLANE P-47 - FORMERLY FLEW P-51          6.0          1               0.06
+3  PRESENT PLANE P-51 - FORMERLY FLEW P-47          7.0          2               0.12
+4  PRESENT PLANE P-51 - FORMERLY FLEW P-47          8.0          3               0.19
+5  PRESENT PLANE P-51 - FORMERLY FLEW P-47          9.0          1               0.06
+6  PRESENT PLANE P-51 - FORMERLY FLEW P-47         10.0          1               0.06
+
+
+

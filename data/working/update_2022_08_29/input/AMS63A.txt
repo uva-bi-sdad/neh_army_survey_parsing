@@ -1,0 +1,1524 @@
+FORMFORM
+  answer_label answer_value raw_counts relative_frequency
+0        S-63A          1.0       1112                1.0
+
+
+
+S63A.Q1 WHAT IS YOUR ARMY RANK OR GRADE?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0          7               0.01
+1                                 PRIVATE          1.0        500               0.45
+2                     PRIVATE FIRST CLASS          2.0        256               0.23
+3        TECHNICIAN 5TH GRADE OR CORPORAL          3.0        171               0.15
+4        TECHNICIAN 4TH GRADE OR SERGEANT          4.0        109                0.1
+5  TECHNICIAN 3RD GRADE OR STAFF SERGEANT          5.0         41               0.04
+6                      TECHNICAL SERGEANT          6.0         21               0.02
+7       MASTER SERGEANT OR FIRST SERGEANT          7.0          7               0.01
+
+
+
+S63A.Q2 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0         33               0.03
+1   18 YEARS OR YOUNGER          1.0         96               0.09
+2                    19          2.0        162               0.15
+3                    20          3.0        115                0.1
+4                    21          4.0         75               0.07
+5                    22          5.0         81               0.07
+6                    23          6.0         74               0.07
+7                    24          7.0         56               0.05
+8                    25          8.0         67               0.06
+9                 26-29          9.0        151               0.14
+10                30-34         10.0        119               0.11
+11    35 YEARS AND OVER         11.0         83               0.07
+
+
+
+S63A.Q3 HOW FAR DID YOU GO IN SCHOOL?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0          7               0.01
+1                  LESS THAN 6TH GRADE          1.0         30               0.03
+2                   FINISHED 6TH GRADE          2.0         28               0.03
+3                   FINISHED 7TH GRADE          3.0         46               0.04
+4                   FINISHED 8TH GRADE          4.0        148               0.13
+5  SOME HIGH SCHOOL BUT DID NOT FINISH          5.0        324               0.29
+6           GRADUATED FROM HIGH SCHOOL          6.0        354               0.32
+7      SOME COLLEGE BUT DID NOT FINISH          7.0        142               0.13
+8               GRADUATED FROM COLLEGE          8.0         33               0.03
+
+
+
+S63A.Q4 IN WHAT STATE OF THE UNITED STATES DID YOU SPEND MOST OF THE LAST FIVE YEARS OF YOUR CIVILIAN LIFE BEFORE YOU CAME INTO THE ARMY? E. SECTION:
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0        101               0.09
+1                  NEW ENGLAND          1.0         95               0.09
+2              MIDDLE ATLANTIC          2.0        239               0.21
+3           EAST NORTH CENTRAL          3.0        206               0.19
+4           WEST NORTH CENTRAL          4.0        152               0.14
+5               SOUTH ATLANTIC          5.0         82               0.07
+6           EAST SOUTH CENTRAL          6.0         51               0.05
+7           WEST SOUTH CENTRAL          7.0         76               0.07
+8                     MOUNTAIN          8.0         38               0.03
+9                      PACIFIC          9.0         66               0.06
+10   FOREIGN - U.S. POSSESSION         10.0          1                0.0
+11  U.S. - STATE NOT SPECIFIED         12.0          5                0.0
+
+
+
+S63A.Q5 WHERE WERE YOU LIVING MOST OF THE LAST FIVE YEARS OF YOUR CIVILIAN LIFE BEFORE YOU CAME INTO THE ARMY?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                         NO ANSWER          0.0          7               0.01
+1                       ON A FARM OR IN THE COUNTRY          1.0        204               0.18
+2         IN A SMALL TOWN (FEWER THAN 2,500 PEOPLE)          2.0        147               0.13
+3  IN A TOWN (WITH BETWEEN 2,500 AND 25,000 PEOPLE)          3.0        208               0.19
+4     IN A CITY (BETWEEN 25,000 AND 100,000 PEOPLE)          4.0        178               0.16
+5        IN A LARGE CITY (MORE THAN 100,000 PEOPLE)          5.0        368               0.33
+
+
+
+S63A.Q6.x ARE YOU SINGLE, MARRIED, DIVORCED OR SEPARATED, OR WIDOWED? F. IF MARRIED:  Q.7. WERE YOU MARRIED BEFORE OR AFTER ENTERING THE ARMY?
+                       answer_label answer_value raw_counts relative_frequency
+0                         NO ANSWER          0.0          2                0.0
+1                            SINGLE          1.0        763               0.69
+2             DIVORCED OR SEPARATED          2.0         25               0.02
+3                           WIDOWED          3.0          2                0.0
+4  MARRIED BEFORE ENTERING THE ARMY          4.0        245               0.22
+5   MARRIED AFTER ENTERING THE ARMY          5.0         74               0.07
+6        MARRIED BUT NO ANSWER WHEN          6.0          1                0.0
+
+
+
+S63A.Q8 HOW MANY CHILDREN DO YOU HAVE?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0          8               0.01
+1              I'M NOT MARRIED          1.0        766               0.69
+2             HAVE NO CHILDREN          2.0        225                0.2
+3               HAVE ONE CHILD          3.0         92               0.08
+4            HAVE TWO CHILDREN          4.0         14               0.01
+5  HAVE THREE OR MORE CHILDREN          5.0          7               0.01
+
+
+
+S63A.Q9 IS YOUR WIFE NOW EXPECTING A BABY?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         12               0.01
+1              YES          1.0         43               0.04
+2               NO          2.0        277               0.25
+3  I'M NOT MARRIED          3.0        780                0.7
+
+
+
+S63A.Q10 HOW DID YOU COME INTO THE ARMY?
+                                                                                        answer_label answer_value raw_counts relative_frequency
+0                                                                                          NO ANSWER          0.0          3                0.0
+1                                                                                      I WAS DRAFTED          1.0        838               0.75
+2                                                                                      I VOLUNTEERED          2.0        244               0.22
+3                                                                        I WAS IN THE NATIONAL GUARD          3.0         22               0.02
+4  ENLISTED RESERVE CORPS (ERC), REGULAR ARMY RESERVE (RAR) OR RESERVE OFFICER TRAINING CORPS (ROTC)          4.0          5                0.0
+
+
+
+S63A.Q11 HOW LONG HAVE YOU BEEN IN THE ARMY?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0          1                0.0
+1              3 MONTHS OR LESS          1.0         48               0.04
+2  OVER 3 MONTHS UP TO 6 MONTHS          2.0        450                0.4
+3  OVER 6 MONTHS UP TO 9 MONTHS          3.0        166               0.15
+4    OVER 9 MONTHS UP TO 1 YEAR          4.0        173               0.16
+5     OVER 1 YEAR UP TO 2 YEARS          5.0        177               0.16
+6                  OVER 2 YEARS          6.0         97               0.09
+
+
+
+S63A.Q12 HAS THE ARMY CLASSIFIED YOU AS A LIMITED SERVICE MAN?
+                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                  NO ANSWER          0.0          9               0.01
+1                         YES, THE ARMY HAS CLASSIFIED ME AS LIMITED SERVICE          1.0        143               0.13
+2                      NO, THE ARMY HAS NOT CLASSIFIED ME AS LIMITED SERVICE          2.0        817               0.73
+3  I DON'T KNOW WHETHER THE ARMY HAS CLASSIFIED ME AS LIMITED SERVICE OR NOT          3.0        143               0.13
+
+
+
+S63A.Q13 HOW LONG HAVE YOU BEEN IN THE CAMP WHERE YOU ARE NOW STATIONED?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0          4                0.0
+1              3 MONTHS OR LESS          1.0        234               0.21
+2  OVER 3 MONTHS UP TO 6 MONTHS          2.0        552                0.5
+3  OVER 6 MONTHS UP TO 9 MONTHS          3.0        128               0.12
+4    OVER 9 MONTHS UP TO 1 YEAR          4.0         89               0.08
+5                   OVER 1 YEAR          5.0        105               0.09
+
+
+
+S63A.Q14 WHAT BRANCH OF THE ARMY ARE YOU IN NOW?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0          7               0.01
+1                           ENGINEERS          1.0         57               0.05
+2                     FIELD ARTILLERY          2.0        139               0.12
+3                 QUARTERMASTER CORPS          3.0         64               0.06
+4                            INFANTRY          4.0        145               0.13
+5                  MEDICAL DEPARTMENT          5.0         96               0.09
+6                       ARMORED FORCE          6.0         56               0.05
+7                        SIGNAL CORPS          7.0         61               0.05
+8   COAST ARTILLERY AND ANTI-AIRCRAFT          8.0         97               0.09
+9                           AIR CORPS          9.0        270               0.24
+10                ORDNANCE DEPARTMENT         11.0         59               0.05
+11           CHEMICAL WARFARE SERVICE         12.0         18               0.02
+12                    MILITARY POLICE         13.0         27               0.02
+13                            CAVALRY         14.0         10               0.01
+14                            FINANCE         15.0          1                0.0
+15                              OTHER         16.0          5                0.0
+
+
+
+S63A.Q15 IF YOU HAD A CHOICE, WHICH ONE OF THESE BRANCHES OF THE ARMY WOULD YOU LIKE TO BE IN?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0         21               0.02
+1                           ENGINEERS          1.0         37               0.03
+2                     FIELD ARTILLERY          2.0         49               0.04
+3                 QUARTERMASTER CORPS          3.0         74               0.07
+4                            INFANTRY          4.0         37               0.03
+5                  MEDICAL DEPARTMENT          5.0         35               0.03
+6                       ARMORED FORCE          6.0         31               0.03
+7                        SIGNAL CORPS          7.0         37               0.03
+8   COAST ARTILLERY AND ANTI-AIRCRAFT          8.0         66               0.06
+9                           AIR CORPS          9.0        547               0.49
+10               TRANSPORTATION CORPS         10.0         44               0.04
+11                ORDNANCE DEPARTMENT         11.0         72               0.06
+12           CHEMICAL WARFARE SERVICE         12.0          8               0.01
+13                    MILITARY POLICE         13.0         49               0.04
+14                            CAVALRY         14.0          1                0.0
+15                            FINANCE         15.0          2                0.0
+16                              OTHER         16.0          2                0.0
+
+
+
+S63A.Q16 ABOUT HOW OFTEN DO YOU GO TO ANY TOWN OR CITY SINCE YOU'VE BEEN IN THIS CAMP?
+                            answer_label answer_value raw_counts relative_frequency
+0                              NO ANSWER          0.0         12               0.01
+1  I LIVE OFF THE POST IN A TOWN OR CITY          1.0         68               0.06
+2             THREE OR MORE TIMES A WEEK          2.0        139               0.12
+3                           TWICE A WEEK          3.0        169               0.15
+4                            ONCE A WEEK          4.0        247               0.22
+5                ONCE EVERY 2 OR 3 WEEKS          5.0        241               0.22
+6                           ONCE A MONTH          6.0        118               0.11
+7                 LESS THAN ONCE A MONTH          7.0         79               0.07
+8                                  NEVER          8.0         39               0.04
+
+
+
+S63A.Q17 DO YOU FEEL PROUD OF YOUR COMPANY (BATTERY, SQUADRON, TROOP)?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0          7               0.01
+1    YES, VERY PROUD          1.0        456               0.41
+2  YES, FAIRLY PROUD          2.0        344               0.31
+3      NO, NOT PROUD          3.0        151               0.14
+4          UNDECIDED          4.0        154               0.14
+
+
+
+S63A.Q18 HOW INTERESTED ARE YOU IN YOUR ARMY JOB?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0         13               0.01
+1   VERY MUCH INTERESTED          1.0        591               0.53
+2  A LITTLE BUT NOT MUCH          2.0        370               0.33
+3  NOT INTERESTED AT ALL          3.0        138               0.12
+
+
+
+S63A.Q19 WOULD YOU CHANGE TO SOME OTHER ARMY JOB IF GIVEN A CHANCE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         10               0.01
+1          YES          1.0        683               0.61
+2           NO          2.0        307               0.28
+3    UNDECIDED          3.0        112                0.1
+
+
+
+S63A.Q20 DO YOU USUALLY FEEL THAT WHAT YOU ARE DOING IN THE ARMY IS WORTHWHILE OR NOT?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0         10               0.01
+1  I USUALLY FEEL IT IS NOT WORTHWHILE          1.0        256               0.23
+2      I USUALLY FEEL IT IS WORTHWHILE          2.0        726               0.65
+3                            UNDECIDED          3.0        120               0.11
+
+
+
+S63A.Q21 DO YOU THINK YOU CAN MAKE GOOD IN THE ARMY?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0          8               0.01
+1  I FEEL PRETTY SURE I CAN MAKE GOOD          1.0        805               0.72
+2       I AM NOT SURE I CAN MAKE GOOD          2.0        191               0.17
+3                           UNDECIDED          3.0        108                0.1
+
+
+
+S63A.Q22 IN GENERAL, WHAT SORT OF A TIME DO YOU HAVE IN THE ARMY?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0          6               0.01
+1    I HAVE A PRETTY GOOD TIME          1.0        352               0.32
+2       IT'S ABOUT FIFTY-FIFTY          2.0        600               0.54
+3  I HAVE A PRETTY ROTTEN TIME          3.0        154               0.14
+
+
+
+S63A.Q23 IN GENERAL, HOW WOULD YOU SAY YOU FEEL MOST OF THE TIME, IN GOOD SPIRITS OR IN LOW SPIRITS?
+                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                  NO ANSWER          0.0          6               0.01
+1                                               I AM USUALLY IN GOOD SPIRITS          1.0        420               0.38
+2  I AM IN GOOD SPIRITS SOME OF THE TIME AND IN LOW SPIRITS SOME OF THE TIME          2.0        577               0.52
+3                                                I AM USUALLY IN LOW SPIRITS          3.0        109                0.1
+
+
+
+S63A.Q24 ARE YOU EVER WORRIED AND UPSET?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0          8               0.01
+1  I AM HARDLY EVER WORRIED AND UPSET          1.0        443                0.4
+2    I AM SOMETIMES WORRIED AND UPSET          2.0        502               0.45
+3        I AM OFTEN WORRIED AND UPSET          3.0        159               0.14
+
+
+
+S63A.Q25 IF IT WERE UP TO YOU, WHAT KIND OF OUTFIT WOULD YOU RATHER BE IN?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                         NO ANSWER          0.0         28               0.03
+1                       IN A COMBAT OUTFIT OVERSEAS          1.0        516               0.46
+2                   IN A NON-COMBAT OUTFIT OVERSEAS          2.0        150               0.13
+3  IN AN OUTFIT THAT WILL STAY IN THE UNITED STATES          3.0        418               0.38
+
+
+
+S63A.Q26 IF IT WERE UP TO YOU TO CHOOSE, WOULD YOU RATHER BE A SOLDIER OR WOULD YOU RATHER BE A CIVILIAN DOING SOME KIND OF WORK NEEDED TO WIN THE WAR?
+                                                                 answer_label answer_value raw_counts relative_frequency
+0                                                                   NO ANSWER          0.0          9               0.01
+1                                                 I WOULD RATHER BE A SOLDIER          1.0        494               0.44
+2  I WOULD RATHER BE A CIVILIAN DOING SOME KIND OF WORK NEEDED TO WIN THE WAR          2.0        526               0.47
+3                                                                   UNDECIDED          3.0         83               0.07
+
+
+
+S63A.Q27 DO YOU HAVE TROUBLE FINDING INTERESTING THINGS TO DO IN YOUR OFF-DUTY FREE TIME?
+       answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER          0.0         14               0.01
+1  MOST OF THE TIME          1.0        277               0.25
+2  MUCH OF THE TIME          2.0        157               0.14
+3    NOT VERY OFTEN          3.0        444                0.4
+4             NEVER          4.0        220                0.2
+
+
+
+S63A.Q28 DURING YOUR OFF-DUTY FREE TIME ABOUT HOW OFTEN DO YOU GO TO THE MOVIES HERE IN CAMP?
+                                    answer_label answer_value raw_counts relative_frequency
+0                                      NO ANSWER          0.0          7               0.01
+1                     THREE OR MORE TIMES A WEEK          1.0        122               0.11
+2                                   TWICE A WEEK          2.0        238               0.21
+3                                    ONCE A WEEK          3.0        279               0.25
+4                  ONCE EVERY TWO OR THREE WEEKS          4.0        168               0.15
+5                                   ONCE A MONTH          5.0         87               0.08
+6                         LESS THAN ONCE A MONTH          6.0        102               0.09
+7                                          NEVER          7.0        101               0.09
+8  WE DON'T HAVE ANY REGULAR MOVIES HERE IN CAMP          8.0          8               0.01
+
+
+
+S63A.Q29.1 DURING THE PAST SEVEN DAYS, ON WHAT DAY OR DAYS DID YOU GO TO THE MOVIES HERE IN CAMP?
+  answer_label answer_value raw_counts relative_frequency
+0       MONDAY          1.0        118               0.11
+1   NOT CHOSEN          2.0        994               0.89
+
+
+
+S63A.Q29.2DURING THE PAST SEVEN DAYS, ON WHAT DAY OR DAYS DID YOU GO TO THE MOVIES HERE IN CAMP?
+  answer_label answer_value raw_counts relative_frequency
+0      TUESDAY          1.0        113                0.1
+1   NOT CHOSEN          2.0        999                0.9
+
+
+
+S63A.Q29.3DURING THE PAST SEVEN DAYS, ON WHAT DAY OR DAYS DID YOU GO TO THE MOVIES HERE IN CAMP?
+  answer_label answer_value raw_counts relative_frequency
+0    WEDNESDAY          1.0         89               0.08
+1   NOT CHOSEN          2.0       1023               0.92
+
+
+
+S63A.Q29.4DURING THE PAST SEVEN DAYS, ON WHAT DAY OR DAYS DID YOU GO TO THE MOVIES HERE IN CAMP?
+  answer_label answer_value raw_counts relative_frequency
+0     THURSDAY          1.0         74               0.07
+1   NOT CHOSEN          2.0       1038               0.93
+
+
+
+S63A.Q29.5DURING THE PAST SEVEN DAYS, ON WHAT DAY OR DAYS DID YOU GO TO THE MOVIES HERE IN CAMP?
+  answer_label answer_value raw_counts relative_frequency
+0       FRIDAY          1.0         69               0.06
+1   NOT CHOSEN          2.0       1043               0.94
+
+
+
+S63A.Q29.6DURING THE PAST SEVEN DAYS, ON WHAT DAY OR DAYS DID YOU GO TO THE MOVIES HERE IN CAMP?
+  answer_label answer_value raw_counts relative_frequency
+0     SATURDAY          1.0        129               0.12
+1   NOT CHOSEN          2.0        983               0.88
+
+
+
+S63A.Q29.7DURING THE PAST SEVEN DAYS, ON WHAT DAY OR DAYS DID YOU GO TO THE MOVIES HERE IN CAMP?
+  answer_label answer_value raw_counts relative_frequency
+0       SUNDAY          1.0        207               0.19
+1   NOT CHOSEN          2.0        905               0.81
+
+
+
+S63A.Q29.8DURING THE PAST SEVEN DAYS, ON WHAT DAY OR DAYS DID YOU GO TO THE MOVIES HERE IN CAMP?
+                 answer_label answer_value raw_counts relative_frequency
+0  THREE OR MORE DAYS CHECKED          1.0         96               0.09
+1                  NOT CHOSEN          2.0       1016               0.91
+
+
+
+S63A.Q29.9DURING THE PAST SEVEN DAYS, ON WHAT DAY OR DAYS DID YOU GO TO THE MOVIES HERE IN CAMP?
+                                                      answer_label answer_value raw_counts relative_frequency
+0  DID NOT GO TO THE REGULAR MOVIES IN CAMP DURING PAST SEVEN DAYS          1.0        399               0.36
+1                                                       NOT CHOSEN          2.0        713               0.64
+
+
+
+S63A.Q29.10DURING THE PAST SEVEN DAYS, ON WHAT DAY OR DAYS DID YOU GO TO THE MOVIES HERE IN CAMP?
+                                    answer_label answer_value raw_counts relative_frequency
+0  WE DON'T HAVE ANY REGULAR MOVIES HERE IN CAMP          1.0          6               0.01
+1                                     NOT CHOSEN          2.0       1106               0.99
+
+
+
+S63A.Q29.11DURING THE PAST SEVEN DAYS, ON WHAT DAY OR DAYS DID YOU GO TO THE MOVIES HERE IN CAMP?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0         19               0.02
+1   NOT CHOSEN          2.0       1093               0.98
+
+
+
+S63A.Q30 SINCE YOU HAVE BEEN IN THIS CAMP, ABOUT HOW OFTEN DO YOU GO TO THE MOVIES IN A TOWN OR CITY?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0          5                0.0
+1     THREE OR MORE TIMES A WEEK          1.0         13               0.01
+2                   TWICE A WEEK          2.0         55               0.05
+3                    ONCE A WEEK          3.0        211               0.19
+4  ONCE EVERY TWO OR THREE WEEKS          4.0        209               0.19
+5                   ONCE A MONTH          5.0        141               0.13
+6         LESS THAN ONCE A MONTH          6.0        203               0.18
+7                          NEVER          7.0        275               0.25
+
+
+
+S63A.Q31.1 DURING THE PAST SEVEN DAYS, ON WHAT DAY OR DAYS DID YOU GO TO THE MOVIES IN A TOWN OR CITY?
+  answer_label answer_value raw_counts relative_frequency
+0       MONDAY          1.0         28               0.03
+1   NOT CHOSEN          2.0       1084               0.97
+
+
+
+S63A.Q31.2DURING THE PAST SEVEN DAYS, ON WHAT DAY OR DAYS DID YOU GO TO THE MOVIES IN A TOWN OR CITY?
+  answer_label answer_value raw_counts relative_frequency
+0      TUESDAY          1.0         40               0.04
+1   NOT CHOSEN          2.0       1072               0.96
+
+
+
+S63A.Q31.3DURING THE PAST SEVEN DAYS, ON WHAT DAY OR DAYS DID YOU GO TO THE MOVIES IN A TOWN OR CITY?
+  answer_label answer_value raw_counts relative_frequency
+0    WEDNESDAY          1.0         32               0.03
+1   NOT CHOSEN          2.0       1080               0.97
+
+
+
+S63A.Q31.4DURING THE PAST SEVEN DAYS, ON WHAT DAY OR DAYS DID YOU GO TO THE MOVIES IN A TOWN OR CITY?
+  answer_label answer_value raw_counts relative_frequency
+0     THURSDAY          1.0         41               0.04
+1   NOT CHOSEN          2.0       1071               0.96
+
+
+
+S63A.Q31.5DURING THE PAST SEVEN DAYS, ON WHAT DAY OR DAYS DID YOU GO TO THE MOVIES IN A TOWN OR CITY?
+  answer_label answer_value raw_counts relative_frequency
+0       FRIDAY          1.0         25               0.02
+1   NOT CHOSEN          2.0       1087               0.98
+
+
+
+S63A.Q31.6DURING THE PAST SEVEN DAYS, ON WHAT DAY OR DAYS DID YOU GO TO THE MOVIES IN A TOWN OR CITY?
+  answer_label answer_value raw_counts relative_frequency
+0     SATURDAY          1.0        131               0.12
+1   NOT CHOSEN          2.0        981               0.88
+
+
+
+S63A.Q31.7DURING THE PAST SEVEN DAYS, ON WHAT DAY OR DAYS DID YOU GO TO THE MOVIES IN A TOWN OR CITY?
+  answer_label answer_value raw_counts relative_frequency
+0       SUNDAY          1.0        186               0.17
+1   NOT CHOSEN          2.0        926               0.83
+
+
+
+S63A.Q31.8DURING THE PAST SEVEN DAYS, ON WHAT DAY OR DAYS DID YOU GO TO THE MOVIES IN A TOWN OR CITY?
+                 answer_label answer_value raw_counts relative_frequency
+0  THREE OR MORE DAYS CHECKED          1.0         14               0.01
+1                  NOT CHOSEN          2.0       1098               0.99
+
+
+
+S63A.Q31.9DURING THE PAST SEVEN DAYS, ON WHAT DAY OR DAYS DID YOU GO TO THE MOVIES IN A TOWN OR CITY?
+                                                        answer_label answer_value raw_counts relative_frequency
+0  DID NOT GO TO THE MOVIES IN A TOWN OR CITY DURING PAST SEVEN DAYS          1.0        660               0.59
+1                                                         NOT CHOSEN          2.0        452               0.41
+
+
+
+S63A.Q31.10DURING THE PAST SEVEN DAYS, ON WHAT DAY OR DAYS DID YOU GO TO THE MOVIES IN A TOWN OR CITY?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0         18               0.02
+1   NOT CHOSEN          2.0       1094               0.98
+
+
+
+S63A.Q32.1 WHEN YOU GO TO THE MOVIES, WHAT THREE KINDS OF FEATURE PICTURES DO YOU LIKE BEST?
+                                answer_label answer_value raw_counts relative_frequency
+0  STORIES ABOUT THE ARMY, NAVY, OR AVIATION          1.0        443                0.4
+1                                 NOT CHOSEN          2.0        669                0.6
+
+
+
+S63A.Q32.2WHEN YOU GO TO THE MOVIES, WHAT THREE KINDS OF FEATURE PICTURES DO YOU LIKE BEST?
+                     answer_label answer_value raw_counts relative_frequency
+0  LIGHT COMEDY WITH CLEVER LINES          1.0        327               0.29
+1                      NOT CHOSEN          2.0        785               0.71
+
+
+
+S63A.Q32.3WHEN YOU GO TO THE MOVIES, WHAT THREE KINDS OF FEATURE PICTURES DO YOU LIKE BEST?
+                       answer_label answer_value raw_counts relative_frequency
+0  DANGER, EXCITEMENT AND ADVENTURE          1.0        429               0.39
+1                        NOT CHOSEN          2.0        683               0.61
+
+
+
+S63A.Q32.4WHEN YOU GO TO THE MOVIES, WHAT THREE KINDS OF FEATURE PICTURES DO YOU LIKE BEST?
+           answer_label answer_value raw_counts relative_frequency
+0  ROMANCE AND MARRIAGE          1.0        157               0.14
+1            NOT CHOSEN          2.0        955               0.86
+
+
+
+S63A.Q32.5WHEN YOU GO TO THE MOVIES, WHAT THREE KINDS OF FEATURE PICTURES DO YOU LIKE BEST?
+        answer_label answer_value raw_counts relative_frequency
+0  DETECTIVE-MYSTERY          1.0        220                0.2
+1         NOT CHOSEN          2.0        892                0.8
+
+
+
+S63A.Q32.6WHEN YOU GO TO THE MOVIES, WHAT THREE KINDS OF FEATURE PICTURES DO YOU LIKE BEST?
+                    answer_label answer_value raw_counts relative_frequency
+0  COMEDY WITH MUSIC AND DANCING          1.0        515               0.46
+1                     NOT CHOSEN          2.0        597               0.54
+
+
+
+S63A.Q32.7WHEN YOU GO TO THE MOVIES, WHAT THREE KINDS OF FEATURE PICTURES DO YOU LIKE BEST?
+       answer_label answer_value raw_counts relative_frequency
+0  FUNNY OR COMICAL          1.0        198               0.18
+1        NOT CHOSEN          2.0        914               0.82
+
+
+
+S63A.Q32.8WHEN YOU GO TO THE MOVIES, WHAT THREE KINDS OF FEATURE PICTURES DO YOU LIKE BEST?
+    answer_label answer_value raw_counts relative_frequency
+0  SERIOUS DRAMA          1.0        136               0.12
+1     NOT CHOSEN          2.0        976               0.88
+
+
+
+S63A.Q32.9WHEN YOU GO TO THE MOVIES, WHAT THREE KINDS OF FEATURE PICTURES DO YOU LIKE BEST?
+  answer_label answer_value raw_counts relative_frequency
+0   HISTORICAL          1.0        230               0.21
+1   NOT CHOSEN          2.0        882               0.79
+
+
+
+S63A.Q32.10WHEN YOU GO TO THE MOVIES, WHAT THREE KINDS OF FEATURE PICTURES DO YOU LIKE BEST?
+  answer_label answer_value raw_counts relative_frequency
+0  OTHER KINDS          1.0         18               0.02
+1   NOT CHOSEN          2.0       1094               0.98
+
+
+
+S63A.Q32.11WHEN YOU GO TO THE MOVIES, WHAT THREE KINDS OF FEATURE PICTURES DO YOU LIKE BEST?
+               answer_label answer_value raw_counts relative_frequency
+0  I DON'T GO TO THE MOVIES          1.0         19               0.02
+1                NOT CHOSEN          2.0       1093               0.98
+
+
+
+S63A.Q32.12WHEN YOU GO TO THE MOVIES, WHAT THREE KINDS OF FEATURE PICTURES DO YOU LIKE BEST?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0         10               0.01
+1   NOT CHOSEN          2.0       1102               0.99
+
+
+
+S63A.Q33.1 BESIDES THE FEATURE PICTURE, WHAT THREE KINDS OF "SHORTS" DO YOU LIKE BEST?
+  answer_label answer_value raw_counts relative_frequency
+0  TRAVELOGUES          1.0        157               0.14
+1   NOT CHOSEN          2.0        955               0.86
+
+
+
+S63A.Q33.2BESIDES THE FEATURE PICTURE, WHAT THREE KINDS OF "SHORTS" DO YOU LIKE BEST?
+  answer_label answer_value raw_counts relative_frequency
+0     CARTOONS          1.0        476               0.43
+1   NOT CHOSEN          2.0        636               0.57
+
+
+
+S63A.Q33.3BESIDES THE FEATURE PICTURE, WHAT THREE KINDS OF "SHORTS" DO YOU LIKE BEST?
+     answer_label answer_value raw_counts relative_frequency
+0  SHORT COMEDIES          1.0        234               0.21
+1      NOT CHOSEN          2.0        878               0.79
+
+
+
+S63A.Q33.4BESIDES THE FEATURE PICTURE, WHAT THREE KINDS OF "SHORTS" DO YOU LIKE BEST?
+  answer_label answer_value raw_counts relative_frequency
+0   NEWS REELS          1.0        574               0.52
+1   NOT CHOSEN          2.0        538               0.48
+
+
+
+S63A.Q33.5BESIDES THE FEATURE PICTURE, WHAT THREE KINDS OF "SHORTS" DO YOU LIKE BEST?
+                       answer_label answer_value raw_counts relative_frequency
+0  PICTURES SUCH AS "MARCH OF TIME"          1.0        542               0.49
+1                        NOT CHOSEN          2.0        570               0.51
+
+
+
+S63A.Q33.6BESIDES THE FEATURE PICTURE, WHAT THREE KINDS OF "SHORTS" DO YOU LIKE BEST?
+   answer_label answer_value raw_counts relative_frequency
+0  SPORTS REELS          1.0        387               0.35
+1    NOT CHOSEN          2.0        725               0.65
+
+
+
+FORM..1FORM.
+  answer_label answer_value raw_counts relative_frequency
+0        S-63A          1.0       1112                1.0
+
+
+
+S63A.Q33.7 BESIDES THE FEATURE PICTURE, WHAT THREE KINDS OF "SHORTS" DO YOU LIKE BEST? 92
+        answer_label answer_value raw_counts relative_frequency
+0  HISTORICAL SHORTS          1.0         92               0.08
+1         NOT CHOSEN          2.0       1020               0.92
+
+
+
+S63A.Q33.8BESIDES THE FEATURE PICTURE, WHAT THREE KINDS OF "SHORTS" DO YOU LIKE BEST?
+                  answer_label answer_value raw_counts relative_frequency
+0  PICTURES OF VAUDEVILLE ACTS          1.0         53               0.05
+1                   NOT CHOSEN          2.0       1059               0.95
+
+
+
+S63A.Q33.9BESIDES THE FEATURE PICTURE, WHAT THREE KINDS OF "SHORTS" DO YOU LIKE BEST?
+                          answer_label answer_value raw_counts relative_frequency
+0  PICTURES OF DANCE BANDS AND SINGERS          1.0        347               0.31
+1                           NOT CHOSEN          2.0        765               0.69
+
+
+
+S63A.Q33.10BESIDES THE FEATURE PICTURE, WHAT THREE KINDS OF "SHORTS" DO YOU LIKE BEST?
+  answer_label answer_value raw_counts relative_frequency
+0  OTHER KINDS          1.0          8               0.01
+1   NOT CHOSEN          2.0       1104               0.99
+
+
+
+S63A.Q33.11BESIDES THE FEATURE PICTURE, WHAT THREE KINDS OF "SHORTS" DO YOU LIKE BEST?
+               answer_label answer_value raw_counts relative_frequency
+0  I DON'T GO TO THE MOVIES          1.0         17               0.02
+1                NOT CHOSEN          2.0       1095               0.98
+
+
+
+S63A.Q33.12BESIDES THE FEATURE PICTURE, WHAT THREE KINDS OF "SHORTS" DO YOU LIKE BEST?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0         11               0.01
+1   NOT CHOSEN          2.0       1101               0.99
+
+
+
+S63A.Q34 WOULD YOU LIKE TO HAVE THE MOVIE THEATERS YOU ATTEND SHOW MORE WAR PICTURES, OR NOT SO MANY WAR PICTURES?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                         NO ANSWER          0.0         15               0.01
+1       I WOULD LIKE THEM TO SHOW MORE WAR PICTURES          1.0        189               0.17
+2  THEY SHOW ABOUT THE RIGHT NUMBER OF WAR PICTURES          2.0        527               0.47
+3       I WOULD LIKE THEM TO SHOW LESS WAR PICTURES          3.0        354               0.32
+4                          I DON'T GO TO THE MOVIES          4.0         27               0.02
+
+
+
+S63A.Q35 ARE THE MOVIES AT YOUR CAMP THEATER SHOWN AT THE HOURS AND TIMES WHEN YOU CAN MOST EASILY GO, OR COULD YOU GO MORE EASILY AT SOME OTHER HOURS OR TIMES?
+                                                     answer_label answer_value raw_counts relative_frequency
+0                                                       NO ANSWER          0.0         42               0.04
+1  THE MOVIES ARE AT THE HOURS OR TIMES WHEN I CAN MOST EASILY GO          1.0        971               0.87
+2             I COULD MORE EASILY GO AT SOME OTHER HOURS OR TIMES          2.0         91               0.08
+3                   WE DON'T HAVE ANY REGULAR MOVIES HERE IN CAMP          3.0          8               0.01
+
+
+
+S63A.Q36 ON THE WHOLE, WHICH DO YOU LIKE BEST - THE SINGLE FEATURE PROGRAMS OR THE DOUBLE FEATURE PROGRAMS AT YOUR CAMP THEATER?
+                                      answer_label answer_value raw_counts relative_frequency
+0                                        NO ANSWER          0.0         13               0.01
+1  I USUALLY LIKE THE DOUBLE FEATURE PROGRAMS BEST          1.0        381               0.34
+2  I USUALLY LIKE THE SINGLE FEATURE PROGRAMS BEST          2.0        586               0.53
+3                          I DON'T LIKE EITHER ONE          3.0          8               0.01
+4                                        UNDECIDED          4.0         53               0.05
+5    WE DON'T HAVE ANY REGULAR MOVIES HERE IN CAMP          5.0          4                0.0
+6                 I DON'T GO TO THE MOVIES IN CAMP          6.0         67               0.06
+
+
+
+S63A.Q37 ON THE WHOLE HOW SATISFIED ARE YOU WITH YOUR CHANCES TO SEE MOVIES HERE IN THIS CAMP?
+                 answer_label answer_value raw_counts relative_frequency
+0    I AM VERY WELL SATISFIED          1.0        609               0.55
+1  I AM PRETTY WELL SATISFIED          2.0        303               0.27
+2   I AM NOT SATISFIED AT ALL          4.0         68               0.06
+3                   NO ANSWER          0.0         29               0.03
+4  I AM NOT SO WELL SATISFIED          3.0        103               0.09
+
+
+
+S63A.Q40 HOW IMPORTANT IS IT TO YOU PERSONALLY TO HAVE A CHANCE TO SEE MOVIES WHILE YOU ARE IN THE ARMY?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0         14               0.01
+1     IT IS ABSOLUTELY NECESSARY          1.0        129               0.12
+2      IT IS OF GREAT IMPORTANCE          2.0        330                0.3
+3     IT IS OF MEDIUM IMPORTANCE          3.0        399               0.36
+4     IT IS OF LITTLE IMPORTANCE          4.0        152               0.14
+5  IT IS OF NO IMPORTANCE AT ALL          5.0         88               0.08
+
+
+
+S63A.Q41 HOW MANY OF THESE NEW SHORT NEWS FILMS CALLED, "THE WAR," HAVE YOU SEEN?
+                                    answer_label answer_value raw_counts relative_frequency
+0                                      NO ANSWER          0.0         13               0.01
+1                          I HAVE NEVER SEEN ANY          1.0        539               0.48
+2                         I HAVE SEEN ONE OR TWO          2.0        231               0.21
+3                      I HAVE SEEN THREE OR FOUR          3.0        136               0.12
+4                       I HAVE SEEN FIVE OR MORE          4.0         56               0.05
+5  WE DON'T HAVE ANY REGULAR MOVIES HERE IN CAMP          5.0         10               0.01
+6               I DON'T GO TO THE MOVIES IN CAMP          6.0         44               0.04
+7                                     DON'T KNOW          7.0         83               0.07
+
+
+
+S63A.Q43A IS THE AIR FRESH ENOUGH?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0          3                0.0
+1                              USUALLY          1.0        566               0.51
+2                ONLY PART OF THE TIME          2.0        218                0.2
+3                          HARDLY EVER          3.0        171               0.15
+4                           NO OPINION          4.0         39               0.04
+5  I GO TO AN OPEN-AIR THEATER IN CAMP          5.0         15               0.01
+6      I DON'T GO TO A THEATER IN CAMP          6.0        100               0.09
+
+
+
+S63A.Q43B ARE THERE ENOUGH SEATS FOR EVERYONE WHO WANTS TO GO?
+                      answer_label answer_value raw_counts relative_frequency
+0                        NO ANSWER          0.0          6               0.01
+1                          USUALLY          1.0        591               0.53
+2            ONLY PART OF THE TIME          2.0        246               0.22
+3                      HARDLY EVER          3.0        145               0.13
+4                       NO OPINION          4.0         24               0.02
+5  I DON'T GO TO A THEATER IN CAMP          5.0        100               0.09
+
+
+
+S63A.Q43C ARE THE SEATS COMFORTABLE?
+                      answer_label answer_value raw_counts relative_frequency
+0                        NO ANSWER          0.0          7               0.01
+1                 VERY COMFORTABLE          1.0        117               0.11
+2               PRETTY COMFORTABLE          2.0        395               0.36
+3               NOT SO COMFORTABLE          3.0        284               0.26
+4           NOT COMFORTABLE AT ALL          4.0        200               0.18
+5                       NO OPINION          5.0         10               0.01
+6  I DON'T GO TO A THEATER IN CAMP          6.0         99               0.09
+
+
+
+S63A.Q43D ARE TOO MANY SEATS SAVED FOR OFFICERS?
+                                          answer_label answer_value raw_counts relative_frequency
+0                                            NO ANSWER          0.0         14               0.01
+1     YES, THERE ARE TOO MANY SEATS SAVED FOR OFFICERS          1.0        234               0.21
+2  NO, THERE ARE NOT TOO MANY SEATS SAVED FOR OFFICERS          2.0        607               0.55
+3                                           NO OPINION          3.0        155               0.14
+4                      I DON'T GO TO A THEATER IN CAMP          4.0         99               0.09
+5                    OFFICERS DON'T GO TO THIS THEATER          5.0          3                0.0
+
+
+
+S63A.Q45 HAVE YOU SEEN ANY USO TRAVELING CAMP SHOWS HERE IN THIS CAMP? (IF YES, HOW MANY?)
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0          6               0.01
+1               YES, HAVE SEEN          1.0        131               0.12
+2                       YES, 2          2.0        127               0.11
+3                       YES, 3          3.0         76               0.07
+4                       YES, 4          4.0         38               0.03
+5                       YES, 5          5.0         18               0.02
+6                     YES, 6-9          6.0         25               0.02
+7             YES, 10 AND OVER          7.0         11               0.01
+8   YES, NO ANSWER TO HOW MANY          8.0         34               0.03
+9        NO, HAVE NOT SEEN ANY          9.0        639               0.57
+10                  DON'T KNOW         10.0          7               0.01
+
+
+
+S63A.Q46 HAVE YOU SEEN ANY STAGE SHOWS PUT ON BY CIVILIANS FROM NEARBY TOWNS HERE IN THIS CAMP? (IF YES, HOW MANY?)
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0          5                0.0
+1               YES, HAVE SEEN          1.0        124               0.11
+2                       YES, 2          2.0         87               0.08
+3                       YES, 3          3.0         47               0.04
+4                       YES, 4          4.0         25               0.02
+5                       YES, 5          5.0         14               0.01
+6                     YES, 6-9          6.0          8               0.01
+7             YES, 10 AND OVER          7.0          7               0.01
+8   YES, NO ANSWER TO HOW MANY          8.0         29               0.03
+9        NO, HAVE NOT SEEN ANY          9.0        756               0.68
+10                  DON'T KNOW         10.0         10               0.01
+
+
+
+S63A.Q47 HAVE YOU SEEN ANY "BIG TIME" RADIO PROGRAMS THAT VISITED THIS CAMP? (IF YES, HOW MANY?)
+                  answer_label answer_value raw_counts relative_frequency
+0           NO CODE OR NO DATA          0.0          1                0.0
+1               YES, HAVE SEEN          1.0        109                0.1
+2                       YES, 2          2.0         36               0.03
+3                       YES, 3          3.0          7               0.01
+4                       YES, 4          4.0          2                0.0
+5                       YES, 5          5.0          2                0.0
+6                     YES, 6-9          6.0          4                0.0
+7   YES, NO ANSWER TO HOW MANY          8.0         19               0.02
+8        NO, HAVE NOT SEEN ANY          9.0        914               0.82
+9                   DON'T KNOW         10.0         13               0.01
+10                   NO ANSWER         11.0          5                0.0
+
+
+
+S63A.Q48 HAVE YOU SEEN ANY STAGE SHOWS PUT ON BY SOLDIERS HERE IN THIS CAMP? (IF YES, HOW MANY?) (THIS INCLUDES SMALL SHOWS LIKE "AMATEUR NIGHT" OR VAUDEVILLE ACTS, AS WELL AS BIG SHOWS.)
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0          7               0.01
+1               YES, HAVE SEEN          1.0        136               0.12
+2                       YES, 2          2.0         91               0.08
+3                       YES, 3          3.0         47               0.04
+4                       YES, 4          4.0         20               0.02
+5                       YES, 5          5.0         24               0.02
+6                     YES, 6-9          6.0         11               0.01
+7             YES, 10 AND OVER          7.0         10               0.01
+8   YES, NO ANSWER TO HOW MANY          8.0         42               0.04
+9        NO, HAVE NOT SEEN ANY          9.0        719               0.65
+10                  DON'T KNOW         10.0          5                0.0
+
+
+
+S63A.Q49 HAVE YOU SEEN ANY OTHER KINDS OF STAGE SHOWS BESIDES THE FOUR KINDS JUST ASKED ABOUT, HERE IN THIS CAMP? (IF YES, HOW MANY?)
+              answer_label answer_value raw_counts relative_frequency
+0                NO ANSWER          0.0         21               0.02
+1           YES, HAVE SEEN          1.0         32               0.03
+2                   YES, 2          2.0          8               0.01
+3                   YES, 3          3.0          2                0.0
+4                   YES, 4          4.0          5                0.0
+5                   YES, 5          5.0          1                0.0
+6                 YES, 6-9          6.0          3                0.0
+7         YES, 10 AND OVER          7.0          4                0.0
+8  YES, NO ANSWER HOW MANY          8.0         13               0.01
+9    NO, HAVE NOT SEEN ANY          9.0       1023               0.92
+
+
+
+S63A.Q50 ABOUT HOW OFTEN DO THEY HAVE STAGE SHOWS OF ANY KIND, HERE IN THIS CAMP, CLOSE ENOUGH FOR THE MEN IN YOUR OUTFIT TO GET TO?
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0         13               0.01
+1       MORE THAN ONCE A WEEK          1.0         48               0.04
+2           ABOUT ONCE A WEEK          2.0        190               0.17
+3  ABOUT ONCE EVERY TWO WEEKS          3.0        115                0.1
+4          ABOUT ONCE A MONTH          4.0        225                0.2
+5      LESS THAN ONCE A MONTH          5.0        114                0.1
+6      DON'T HAVE THEM AT ALL          6.0         51               0.05
+7                  DON'T KNOW          7.0        356               0.32
+
+
+
+S63A.Q51.1 HOW DO YOU MOST OFTEN FIND OUT ABOUT A STAGE SHOW THAT IS GOING TO BE PUT ON IN YOUR CAMP?
+            answer_label answer_value raw_counts relative_frequency
+0  OVER THE LOUD-SPEAKER          1.0         41               0.04
+1             NOT CHOSEN          2.0       1071               0.96
+
+
+
+S63A.Q51.2HOW DO YOU MOST OFTEN FIND OUT ABOUT A STAGE SHOW THAT IS GOING TO BE PUT ON IN YOUR CAMP?
+           answer_label answer_value raw_counts relative_frequency
+0  FROM CAMP NEWSPAPERS          1.0         93               0.08
+1            NOT CHOSEN          2.0       1019               0.92
+
+
+
+S63A.Q51.3HOW DO YOU MOST OFTEN FIND OUT ABOUT A STAGE SHOW THAT IS GOING TO BE PUT ON IN YOUR CAMP?
+                       answer_label answer_value raw_counts relative_frequency
+0  FROM POSTERS AND BULLETIN BOARDS          1.0        726               0.65
+1                        NOT CHOSEN          2.0        386               0.35
+
+
+
+S63A.Q51.4HOW DO YOU MOST OFTEN FIND OUT ABOUT A STAGE SHOW THAT IS GOING TO BE PUT ON IN YOUR CAMP?
+                 answer_label answer_value raw_counts relative_frequency
+0  FROM OFFICERS AND NON-COMS          1.0         33               0.03
+1                  NOT CHOSEN          2.0       1079               0.97
+
+
+
+S63A.Q51.5HOW DO YOU MOST OFTEN FIND OUT ABOUT A STAGE SHOW THAT IS GOING TO BE PUT ON IN YOUR CAMP?
+                             answer_label answer_value raw_counts relative_frequency
+0  FROM HEARING THE FELLOWS TALK ABOUT IT          1.0        124               0.11
+1                              NOT CHOSEN          2.0        988               0.89
+
+
+
+S63A.Q51.6HOW DO YOU MOST OFTEN FIND OUT ABOUT A STAGE SHOW THAT IS GOING TO BE PUT ON IN YOUR CAMP?
+        answer_label answer_value raw_counts relative_frequency
+0  IN SOME OTHER WAY          1.0          5                0.0
+1         NOT CHOSEN          2.0       1107                1.0
+
+
+
+S63A.Q51.7HOW DO YOU MOST OFTEN FIND OUT ABOUT A STAGE SHOW THAT IS GOING TO BE PUT ON IN YOUR CAMP?
+  answer_label answer_value raw_counts relative_frequency
+0   DON'T KNOW          1.0         71               0.06
+1   NOT CHOSEN          2.0       1041               0.94
+
+
+
+S63A.Q51.8HOW DO YOU MOST OFTEN FIND OUT ABOUT A STAGE SHOW THAT IS GOING TO BE PUT ON IN YOUR CAMP?
+                                      answer_label answer_value raw_counts relative_frequency
+0  I HARDLY EVER FIND OUT ABOUT IT TILL AFTERWARDS          1.0         15               0.01
+1                                       NOT CHOSEN          2.0       1097               0.99
+
+
+
+S63A.Q51.9HOW DO YOU MOST OFTEN FIND OUT ABOUT A STAGE SHOW THAT IS GOING TO BE PUT ON IN YOUR CAMP?
+                                        answer_label answer_value raw_counts relative_frequency
+0  THEY DON'T HAVE ANY STAGE SHOWS HERE IN THIS CAMP          1.0         20               0.02
+1                                         NOT CHOSEN          2.0       1092               0.98
+
+
+
+S63A.Q51.10HOW DO YOU MOST OFTEN FIND OUT ABOUT A STAGE SHOW THAT IS GOING TO BE PUT ON IN YOUR CAMP?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0         16               0.01
+1   NOT CHOSEN          2.0       1096               0.99
+
+
+
+S63A.Q52 ABOUT HOW OFTEN DO YOU SEE STAGE SHOWS WHEN THEY HAVE THEM HERE IN THIS CAMP, CLOSE ENOUGH FOR THE MEN IN YOUR OUTFIT TO GET TO?
+                                                          answer_label answer_value raw_counts relative_frequency
+0                                                            NO ANSWER          0.0         24               0.02
+1                                          I HAVE SEEN ALL THEY'VE HAD          1.0         41               0.04
+2                                I HAVE SEEN MOST OF THOSE THEY'VE HAD          2.0        128               0.12
+3                          I HAVE SEEN ABOUT HALF OF THOSE THEY'VE HAD          3.0        107                0.1
+4                          I HAVE SEEN ONLY A FEW OF THOSE THEY'VE HAD          4.0        351               0.32
+5                                I HAVE SEEN NONE OF THOSE THEY'VE HAD          5.0        411               0.37
+6  THEY DON'T HAVE ANY STAGE SHOWS IN THIS CAMP CLOSE ENOUGH TO GET TO          6.0         50               0.04
+
+
+
+S63A.Q54 DID YOU EVER GO TO STAGE SHOWS IN THIS CAMP EITHER BECAUSE YOU WERE ORDERED TO GO, OR BECAUSE IF YOU DIDN'T, YOU WOULD BE MADE TO WORK?
+                                        answer_label answer_value raw_counts relative_frequency
+0                                          NO ANSWER          0.0         27               0.02
+1                                 YES, SEVERAL TIMES          1.0         34               0.03
+2                                 YES, ONCE OR TWICE          2.0        108                0.1
+3                                          NO, NEVER          3.0        895                0.8
+4  THEY DON'T HAVE ANY STAGE SHOWS HERE IN THIS CAMP          4.0         48               0.04
+
+
+
+S63A.Q55 IN GENERAL, DO YOU THINK THEY HAVE TOO MANY, ABOUT THE RIGHT NUMBER, OR NOT ENOUGH STAGE SHOWS HERE IN THIS CAMP?
+                            answer_label answer_value raw_counts relative_frequency
+0                 THEY DON'T HAVE ENOUGH          1.0        513               0.46
+1  THEY HAVE JUST ABOUT THE RIGHT NUMBER          2.0        286               0.26
+2                             NO OPINION          4.0        292               0.26
+3                              NO ANSWER          0.0         13               0.01
+4                     THEY HAVE TOO MANY          3.0          8               0.01
+
+
+
+S63A.Q57A BIG SHOWS PUT ON BY SOLDIERS?
+                     answer_label answer_value raw_counts relative_frequency
+0                       NO ANSWER          0.0         36               0.03
+1           MORE THAN ONCE A WEEK          1.0         52               0.05
+2               ABOUT ONCE A WEEK          2.0        259               0.23
+3   ABOUT ONCE EVERY 2 OR 3 WEEKS          3.0        226                0.2
+4              ABOUT ONCE A MONTH          4.0        286               0.26
+5  ABOUT ONCE EVERY 2 OR 3 MONTHS          5.0         92               0.08
+6   LESS THAN ONCE EVERY 3 MONTHS          6.0         36               0.03
+7                           NEVER          7.0        125               0.11
+
+
+
+S63A.Q57B LITTLE SHOWS PUT ON BY SOLDIERS?
+                     answer_label answer_value raw_counts relative_frequency
+0                       NO ANSWER          0.0         48               0.04
+1           MORE THAN ONCE A WEEK          1.0         76               0.07
+2               ABOUT ONCE A WEEK          2.0        308               0.28
+3   ABOUT ONCE EVERY 2 OR 3 WEEKS          3.0        211               0.19
+4              ABOUT ONCE A MONTH          4.0        218                0.2
+5  ABOUT ONCE EVERY 2 OR 3 MONTHS          5.0         69               0.06
+6   LESS THAN ONCE EVERY 3 MONTHS          6.0         31               0.03
+7                           NEVER          7.0        151               0.14
+
+
+
+S63A.Q58 IN GENERAL, WHAT DO YOU THINK OF THE USO TRAVELLING CAMP SHOWS YOU HAVE SEEN HERE IN THIS CAMP?
+                                                     answer_label answer_value raw_counts relative_frequency
+0                                                       NO ANSWER          0.0          8               0.01
+1                                                       VERY GOOD          1.0        223                0.2
+2                                                     PRETTY GOOD          2.0        191               0.17
+3                                                     NOT SO GOOD          3.0         31               0.03
+4                                                          ROTTEN          4.0         21               0.02
+5                                                       UNDECIDED          5.0         28               0.03
+6  I HAVEN'T SEEN ANY USO TRAVELLING CAMP SHOWS HERE IN THIS CAMP          6.0        610               0.55
+
+
+
+S63A.Q59 IN GENERAL, WHAT DO YOU THINK OF THE STAGE SHOWS PUT ON BY CIVILIANS FROM NEARBY TOWNS THAT YOU HAVE SEEN HERE IN THIS CAMP?
+                                                                             answer_label answer_value raw_counts relative_frequency
+0                                                                               NO ANSWER          0.0          9               0.01
+1                                                                               VERY GOOD          1.0         95               0.09
+2                                                                             PRETTY GOOD          2.0        177               0.16
+3                                                                             NOT SO GOOD          3.0         61               0.05
+4                                                                                  ROTTEN          4.0         25               0.02
+5                                                                               UNDECIDED          5.0         28               0.03
+6  I HAVEN'T SEEN ANY STAGE SHOWS PUT ON BY CIVILIANS FROM NEARBY TOWNS HERE IN THIS CAMP          6.0        717               0.64
+
+
+
+S63A.Q60 IN GENERAL, WHAT DO YOU THINK OF THE "BIG TIME" RADIO SHOWS THAT HAVE VISITED THIS CAMP?
+                                                  answer_label answer_value raw_counts relative_frequency
+0                                                    NO ANSWER          0.0         18               0.02
+1                                                    VERY GOOD          1.0        141               0.13
+2                                                  PRETTY GOOD          2.0         46               0.04
+3                                                  NOT SO GOOD          3.0          6               0.01
+4                                                       ROTTEN          4.0          7               0.01
+5                                                    UNDECIDED          5.0         19               0.02
+6  I HAVEN'T SEEN ANY "BIG TIME" RADIO SHOWS HERE IN THIS CAMP          6.0        875               0.79
+
+
+
+S63A.Q61A BIG SHOWS PUT ON BY SOLDIERS?
+                                                        answer_label answer_value raw_counts relative_frequency
+0                                                          NO ANSWER          0.0         20               0.02
+1                                                          VERY GOOD          1.0        111                0.1
+2                                                        PRETTY GOOD          2.0        178               0.16
+3                                                        NOT SO GOOD          3.0         36               0.03
+4                                                             ROTTEN          4.0         15               0.01
+5                                                          UNDECIDED          5.0         23               0.02
+6  I HAVEN'T SEEN ANY BIG SHOWS PUT ON BY SOLDIERS HERE IN THIS CAMP          6.0        729               0.66
+
+
+
+S63A.Q61B LITTLE SHOWS PUT ON BY SOLDIERS?
+                                                           answer_label answer_value raw_counts relative_frequency
+0                                                             NO ANSWER          0.0         24               0.02
+1                                                             VERY GOOD          1.0        107                0.1
+2                                                           PRETTY GOOD          2.0        200               0.18
+3                                                           NOT SO GOOD          3.0         62               0.06
+4                                                                ROTTEN          4.0         26               0.02
+5                                                             UNDECIDED          5.0         27               0.02
+6  I HAVEN'T SEEN ANY LITTLE SHOWS PUT ON BY SOLDIERS HERE IN THIS CAMP          6.0        666                0.6
+
+
+
+S63A.Q62 HAVE YOU TAKEN PART IN ANY STAGE SHOWS PUT ON BY SOLDIERS SINCE YOU'VE BEEN IN THE ARMY?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         19               0.02
+1          YES          1.0         41               0.04
+2           NO          2.0       1052               0.95
+
+
+
+S63A.Q63 WHETHER OR NOT YOU HAVE TAKEN PART IN ANY STAGE SHOWS PUT ON BY SOLDIERS SINCE YOU'VE BEEN IN THE ARMY, WOULD YOU LIKE TO IN THE FUTURE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         13               0.01
+1          YES          1.0        201               0.18
+2           NO          2.0        661               0.59
+3    UNDECIDED          3.0        237               0.21
+
+
+
+S63A.Q64.1 WHAT KINDS OF STAGE SHOWS DO YOU LIKE BEST TO SEE?
+     answer_label answer_value raw_counts relative_frequency
+0  MINSTREL SHOWS          1.0        200               0.18
+1      NOT CHOSEN          2.0        912               0.82
+
+
+
+S63A.Q64.2WHAT KINDS OF STAGE SHOWS DO YOU LIKE BEST TO SEE?
+                          answer_label answer_value raw_counts relative_frequency
+0  MUSICAL COMEDIES WITH POPULAR MUSIC          1.0        492               0.44
+1                           NOT CHOSEN          2.0        620               0.56
+
+
+
+S63A.Q64.3WHAT KINDS OF STAGE SHOWS DO YOU LIKE BEST TO SEE?
+               answer_label answer_value raw_counts relative_frequency
+0  LIGHT OPERA OR OPERETTAS          1.0         75               0.07
+1                NOT CHOSEN          2.0       1037               0.93
+
+
+
+S63A.Q64.4WHAT KINDS OF STAGE SHOWS DO YOU LIKE BEST TO SEE?
+         answer_label answer_value raw_counts relative_frequency
+0  GIRL DANCING SHOWS          1.0        397               0.36
+1          NOT CHOSEN          2.0        715               0.64
+
+
+
+S63A.Q64.5WHAT KINDS OF STAGE SHOWS DO YOU LIKE BEST TO SEE?
+           answer_label answer_value raw_counts relative_frequency
+0  PLAYS THAT ARE FUNNY          1.0        339                0.3
+1            NOT CHOSEN          2.0        773                0.7
+
+
+
+S63A.Q64.6WHAT KINDS OF STAGE SHOWS DO YOU LIKE BEST TO SEE?
+             answer_label answer_value raw_counts relative_frequency
+0  PLAYS THAT ARE SERIOUS          1.0        118               0.11
+1              NOT CHOSEN          2.0        994               0.89
+
+
+
+S63A.Q64.7WHAT KINDS OF STAGE SHOWS DO YOU LIKE BEST TO SEE?
+             answer_label answer_value raw_counts relative_frequency
+0  WELL-KNOWN DANCE BANDS          1.0        613               0.55
+1              NOT CHOSEN          2.0        499               0.45
+
+
+
+S63A.Q64.8WHAT KINDS OF STAGE SHOWS DO YOU LIKE BEST TO SEE?
+                                                   answer_label answer_value raw_counts relative_frequency
+0  CONCERT ORCHESTRAS PLAYING CLASSICAL OR SEMI-CLASSICAL MUSIC          1.0         73               0.07
+1                                                    NOT CHOSEN          2.0       1039               0.93
+
+
+
+S63A.Q64.9WHAT KINDS OF STAGE SHOWS DO YOU LIKE BEST TO SEE?
+               answer_label answer_value raw_counts relative_frequency
+0  SINGERS OF POPULAR MUSIC          1.0        345               0.31
+1                NOT CHOSEN          2.0        767               0.69
+
+
+
+S63A.Q64.10WHAT KINDS OF STAGE SHOWS DO YOU LIKE BEST TO SEE?
+                                   answer_label answer_value raw_counts relative_frequency
+0  SINGERS OF CLASSICAL OR SEMI-CLASSICAL MUSIC          1.0         45               0.04
+1                                    NOT CHOSEN          2.0       1067               0.96
+
+
+
+S63A.Q64.11WHAT KINDS OF STAGE SHOWS DO YOU LIKE BEST TO SEE?
+      answer_label answer_value raw_counts relative_frequency
+0  VAUDEVILLE ACTS          1.0        357               0.32
+1       NOT CHOSEN          2.0        755               0.68
+
+
+
+S63A.Q64.12WHAT KINDS OF STAGE SHOWS DO YOU LIKE BEST TO SEE?
+  answer_label answer_value raw_counts relative_frequency
+0        OTHER          1.0         34               0.03
+1   NOT CHOSEN          2.0       1078               0.97
+
+
+
+S63A.Q64.13WHAT KINDS OF STAGE SHOWS DO YOU LIKE BEST TO SEE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0         83               0.07
+1   NOT CHOSEN          2.0       1029               0.93
+
+
+
+S63A.Q65 HOW IMPORTANT IS IT TO YOU PERSONALLY TO HAVE A CHANCE TO SEE STAGE SHOWS WHILE IN THE ARMY?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0         30               0.03
+1     IT IS ABSOLUTELY NECESSARY          1.0         52               0.05
+2      IT IS OF GREAT IMPORTANCE          2.0        219                0.2
+3     IT IS OF MEDIUM IMPORTANCE          3.0        426               0.38
+4     IT IS OF LITTLE IMPORTANCE          4.0        234               0.21
+5  IT IS OF NO IMPORTANCE AT ALL          5.0        151               0.14
+
+
+
+S63A.Q67 DO YOU LIKE TO SING?
+                                     answer_label answer_value raw_counts relative_frequency
+0                                       NO ANSWER          0.0         16               0.01
+1                                             YES          1.0        747               0.67
+2                                              NO          2.0        145               0.13
+3  IT DEPENDS ON WHOM I'M SINGING WITH, AND WHERE          3.0        204               0.18
+
+
+
+S63A.Q68 HOW MUCH DO YOU LIKE TO SING WHEN A FEW FELLOWS GET TOGETHER?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         17               0.02
+1        A LOT          1.0        616               0.55
+2     A LITTLE          2.0        377               0.34
+3   NOT AT ALL          3.0        102               0.09
+
+
+
+S63A.Q69 HOW MUCH DO YOU LIKE TO SING WHEN LARGE GROUPS ARE TOGETHER - SUCH AS "COMMUNITY SINGING"?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         15               0.01
+1        A LOT          1.0        499               0.45
+2     A LITTLE          2.0        400               0.36
+3   NOT AT ALL          3.0        198               0.18
+
+
+
+S63A.Q70 HOW MUCH DO YOU LIKE TO SING IN GLEE CLUBS, QUARTETS, AND OTHER GROUPS THAT PRACTICE AND GIVE PROGRAMS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         22               0.02
+1        A LOT          1.0        236               0.21
+2     A LITTLE          2.0        311               0.28
+3   NOT AT ALL          3.0        543               0.49
+
+
+
+S63A.Q71 WHAT KIND OF GROUP DO YOU MOST ENJOY SINGING WITH?
+                                                                  answer_label answer_value raw_counts relative_frequency
+0                                                                    NO ANSWER          0.0         26               0.02
+1                                                           WITH A FEW FELLOWS          1.0        661               0.59
+2                                     WITH A LARGE GROUP ("COMMUNITY SINGING")          2.0        240               0.22
+3  WITH A GLEE CLUB, QUARTET, OR OTHER GROUP THAT PRACTICES AND GIVES PROGRAMS          3.0        107                0.1
+4                                                 I DON'T ENJOY SINGING AT ALL          4.0         78               0.07
+
+
+
+S63A.Q72.1 WHAT THREE PLACES OR TIMES IN THE FOLLOWING LIST DO YOU MOST LIKE TO SING IN?
+  answer_label answer_value raw_counts relative_frequency
+0     BARRACKS          1.0        553                0.5
+1   NOT CHOSEN          2.0        559                0.5
+
+
+
+S63A.Q72.2WHAT THREE PLACES OR TIMES IN THE FOLLOWING LIST DO YOU MOST LIKE TO SING IN?
+   answer_label answer_value raw_counts relative_frequency
+0  SERVICE CLUB          1.0        155               0.14
+1    NOT CHOSEN          2.0        957               0.86
+
+
+
+S63A.Q72.3WHAT THREE PLACES OR TIMES IN THE FOLLOWING LIST DO YOU MOST LIKE TO SING IN?
+  answer_label answer_value raw_counts relative_frequency
+0     DAY ROOM          1.0        146               0.13
+1   NOT CHOSEN          2.0        966               0.87
+
+
+
+S63A.Q72.4WHAT THREE PLACES OR TIMES IN THE FOLLOWING LIST DO YOU MOST LIKE TO SING IN?
+  answer_label answer_value raw_counts relative_frequency
+0   "REC" HALL          1.0         99               0.09
+1   NOT CHOSEN          2.0       1013               0.91
+
+
+
+FORM..2FORM.
+  answer_label answer_value raw_counts relative_frequency
+0        S-63A          1.0       1112                1.0
+
+
+
+S63A.Q72.5WHAT THREE PLACES OR TIMES IN THE FOLLOWING LIST DO YOU MOST LIKE TO SING IN?
+          answer_label answer_value raw_counts relative_frequency
+0  WHEN ON WORK DETAIL          1.0        290               0.26
+1           NOT CHOSEN          2.0        822               0.74
+
+
+
+S63A.Q72.6WHAT THREE PLACES OR TIMES IN THE FOLLOWING LIST DO YOU MOST LIKE TO SING IN?
+    answer_label answer_value raw_counts relative_frequency
+0  WHEN MARCHING          1.0        583               0.52
+1     NOT CHOSEN          2.0        529               0.48
+
+
+
+S63A.Q72.7WHAT THREE PLACES OR TIMES IN THE FOLLOWING LIST DO YOU MOST LIKE TO SING IN?
+      answer_label answer_value raw_counts relative_frequency
+0  WHEN ON BIVOUAC          1.0        194               0.17
+1       NOT CHOSEN          2.0        918               0.83
+
+
+
+S63A.Q72.8WHAT THREE PLACES OR TIMES IN THE FOLLOWING LIST DO YOU MOST LIKE TO SING IN?
+           answer_label answer_value raw_counts relative_frequency
+0  WHEN ON TROOP TRAINS          1.0        297               0.27
+1            NOT CHOSEN          2.0        815               0.73
+
+
+
+S63A.Q72.9 WHAT THREE PLACES OR TIMES IN THE FOLLOWING LIST DO YOU MOST LIKE TO SING IN? 170
+    answer_label answer_value raw_counts relative_frequency
+0  AT THE MOVIES          1.0        170               0.15
+1     NOT CHOSEN          2.0        942               0.85
+
+
+
+S63A.Q72.10WHAT THREE PLACES OR TIMES IN THE FOLLOWING LIST DO YOU MOST LIKE TO SING IN?
+               answer_label answer_value raw_counts relative_frequency
+0  AT OTHER PLACES OR TIMES          1.0        178               0.16
+1                NOT CHOSEN          2.0        934               0.84
+
+
+
+S63A.Q72.11WHAT THREE PLACES OR TIMES IN THE FOLLOWING LIST DO YOU MOST LIKE TO SING IN?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0         98               0.09
+1   NOT CHOSEN          2.0       1014               0.91
+
+
+
+S63A.Q73 IF YOU WERE SINGING IN A GROUP OF 20 OR MORE SOLDIERS, WOULD YOU RATHER SING WITH A SONG LEADER OR WITHOUT A SONG LEADER?
+                        answer_label answer_value raw_counts relative_frequency
+0                          NO ANSWER          0.0         23               0.02
+1      I'D RATHER HAVE A SONG LEADER          1.0        514               0.46
+2  I'D RATHER NOT HAVE A SONG LEADER          2.0        206               0.19
+3            IT DOESN'T MATTER TO ME          3.0        369               0.33
+
+
+
+S63A.Q74 DO YOU FEEL THAT THE ARMY TRIES TOO HARD OR NOT HARD ENOUGH TO GET THE SOLDIERS TO SING?
+                                                   answer_label answer_value raw_counts relative_frequency
+0               THE ARMY TRIES TOO HARD TO GET SOLDIERS TO SING          1.0         95               0.09
+1                               THE ARMY HANDLES IT ABOUT RIGHT          2.0        389               0.35
+2                                                  I DON'T KNOW          4.0        207               0.19
+3                                                     NO ANSWER          0.0         21               0.02
+4  THE ARMY DOESN'T TRY HARD ENOUGH TO GET THE SOLDIERS TO SING          3.0        400               0.36
+
+
+
+S63A.Q76.1 BELOW ARE TEN DIFFERENT KINDS OF SONGS. GO THROUGH THE LIST CAREFULLY AND CHECK THE THREE KINDS OF SONGS YOU LIKE BEST TO SING.
+      answer_label answer_value raw_counts relative_frequency
+0  PATRIOTIC SONGS          1.0        272               0.24
+1       NOT CHOSEN          2.0        840               0.76
+
+
+
+S63A.Q76.2BELOW ARE TEN DIFFERENT KINDS OF SONGS. GO THROUGH THE LIST CAREFULLY AND CHECK THE THREE KINDS OF SONGS YOU LIKE BEST TO SING.
+                            answer_label answer_value raw_counts relative_frequency
+0  ARMY MARCHING SONGS AND SERVICE SONGS          1.0        569               0.51
+1                             NOT CHOSEN          2.0        543               0.49
+
+
+
+S63A.Q76.3BELOW ARE TEN DIFFERENT KINDS OF SONGS. GO THROUGH THE LIST CAREFULLY AND CHECK THE THREE KINDS OF SONGS YOU LIKE BEST TO SING.
+                               answer_label answer_value raw_counts relative_frequency
+0  OLD FAVORITES (FROM BEFORE THE LAST WAR)          1.0        307               0.28
+1                                NOT CHOSEN          2.0        805               0.72
+
+
+
+S63A.Q76.4BELOW ARE TEN DIFFERENT KINDS OF SONGS. GO THROUGH THE LIST CAREFULLY AND CHECK THE THREE KINDS OF SONGS YOU LIKE BEST TO SING.
+  answer_label answer_value raw_counts relative_frequency
+0   FOLK SONGS          1.0         97               0.09
+1   NOT CHOSEN          2.0       1015               0.91
+
+
+
+S63A.Q76.5BELOW ARE TEN DIFFERENT KINDS OF SONGS. GO THROUGH THE LIST CAREFULLY AND CHECK THE THREE KINDS OF SONGS YOU LIKE BEST TO SING.
+       answer_label answer_value raw_counts relative_frequency
+0  HILL-BILLY SONGS          1.0        164               0.15
+1        NOT CHOSEN          2.0        948               0.85
+
+
+
+S63A.Q76.6BELOW ARE TEN DIFFERENT KINDS OF SONGS. GO THROUGH THE LIST CAREFULLY AND CHECK THE THREE KINDS OF SONGS YOU LIKE BEST TO SING.
+   answer_label answer_value raw_counts relative_frequency
+0  COWBOY SONGS          1.0        212               0.19
+1    NOT CHOSEN          2.0        900               0.81
+
+
+
+S63A.Q76.7BELOW ARE TEN DIFFERENT KINDS OF SONGS. GO THROUGH THE LIST CAREFULLY AND CHECK THE THREE KINDS OF SONGS YOU LIKE BEST TO SING.
+  answer_label answer_value raw_counts relative_frequency
+0   SPIRITUALS          1.0         62               0.06
+1   NOT CHOSEN          2.0       1050               0.94
+
+
+
+S63A.Q76.8BELOW ARE TEN DIFFERENT KINDS OF SONGS. GO THROUGH THE LIST CAREFULLY AND CHECK THE THREE KINDS OF SONGS YOU LIKE BEST TO SING.
+           answer_label answer_value raw_counts relative_frequency
+0  THE LATEST HIT TUNES          1.0        594               0.53
+1            NOT CHOSEN          2.0        518               0.47
+
+
+
+S63A.Q76.9BELOW ARE TEN DIFFERENT KINDS OF SONGS. GO THROUGH THE LIST CAREFULLY AND CHECK THE THREE KINDS OF SONGS YOU LIKE BEST TO SING.
+                                  answer_label answer_value raw_counts relative_frequency
+0  POPULAR SONGS OF THE LAST TWENTY-FIVE YEARS          1.0        502               0.45
+1                                   NOT CHOSEN          2.0        610               0.55
+
+
+
+S63A.Q76.10BELOW ARE TEN DIFFERENT KINDS OF SONGS. GO THROUGH THE LIST CAREFULLY AND CHECK THE THREE KINDS OF SONGS YOU LIKE BEST TO SING.
+   answer_label answer_value raw_counts relative_frequency
+0  CHURCH SONGS          1.0        164               0.15
+1    NOT CHOSEN          2.0        948               0.85
+
+
+
+S63A.Q76.11BELOW ARE TEN DIFFERENT KINDS OF SONGS. GO THROUGH THE LIST CAREFULLY AND CHECK THE THREE KINDS OF SONGS YOU LIKE BEST TO SING.
+                     answer_label answer_value raw_counts relative_frequency
+0  I DON'T LIKE TO SING ANY SONGS          1.0         65               0.06
+1                      NOT CHOSEN          2.0       1047               0.94
+
+
+
+S63A.Q76.12BELOW ARE TEN DIFFERENT KINDS OF SONGS. GO THROUGH THE LIST CAREFULLY AND CHECK THE THREE KINDS OF SONGS YOU LIKE BEST TO SING.
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0         29               0.03
+1   NOT CHOSEN          2.0       1083               0.97
+
+
+
+S63A.Q77A ARE THERE ANY TIMES WHEN YOUR OUTFIT IS ORDERED TO SING?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         19               0.02
+1           NO          2.0        777                0.7
+2          YES          1.0        261               0.23
+3   DON'T KNOW          3.0         55               0.05
+
+
+
+S63A.Q78 HAVE YOU EVER HAD A COPY OF THE ARMY SONG BOOK?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0         12               0.01
+1  I HAD ONE BUT I DON'T KNOW WHERE IT IS          1.0        143               0.13
+2                          I HAVE ONE NOW          2.0        392               0.35
+3                         I NEVER HAD ONE          3.0        544               0.49
+4                            I DON'T KNOW          4.0         21               0.02
+
+
+
+S63A.Q79A HOW DO YOU LIKE THE ARMY SONG BOOK?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0         19               0.02
+1                 I LIKE IT VERY MUCH          1.0        250               0.22
+2               I LIKE IT PRETTY MUCH          2.0        237               0.21
+3             I DON'T LIKE IT SO MUCH          3.0         60               0.05
+4              I DON'T LIKE IT AT ALL          4.0         32               0.03
+5                           UNDECIDED          5.0         70               0.06
+6  I'VE NEVER SEEN THE ARMY SONG BOOK          6.0        444                0.4
+
+
+
+S63A.Q80 EVERY MONTH THE WAR DEPARTMENT SENDS OUT A "HIT KIT" WHICH HAS THE WORDS OF SEVERAL POPULAR SONGS PRINTED IN IT. THERE IS A DIFFERENT SET OF SONGS EACH MONTH. HOW OFTEN DO YOU SEE A NEW COPY OF THE ARMY HIT KIT?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         16               0.01
+1   I SEE A NEW ONE EVERY MONTH          1.0         63               0.06
+2  I SEE A NEW ONE NOW AND THEN          2.0        193               0.17
+3         I HAVE NEVER SEEN ONE          3.0        840               0.76
+
+
+
+S63A.Q81A HOW DO YOU LIKE THE ARMY HIT KIT?
+                                 answer_label answer_value raw_counts relative_frequency
+0                          NO CODE OR NO DATA          0.0          5                0.0
+1                         I LIKE IT VERY MUCH          1.0        122               0.11
+2                       I LIKE IT PRETTY MUCH          2.0         96               0.09
+3                        I DON'T LIKE IT MUCH          3.0         11               0.01
+4                      I DON'T LIKE IT AT ALL          4.0          5                0.0
+5                                   UNDECIDED          5.0         32               0.03
+6  I'VE NEVER SEEN A COPY OF THE ARMY HIT KIT          6.0        818               0.74
+7                                   NO ANSWER          7.0         23               0.02
+
+
+
+S63A.Q82 HOW IMPORTANT IS IT TO YOU PERSONALLY FOR THE ARMY TO PROVIDE SONG BOOKS AND OTHER THINGS TO HELP SOLDIERS SING?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0         34               0.03
+1     IT IS ABSOLUTELY NECESSARY          1.0         91               0.08
+2      IT IS OF GREAT IMPORTANCE          2.0        337                0.3
+3     IT IS OF MEDIUM IMPORTANCE          3.0        319               0.29
+4     IT IS OF LITTLE IMPORTANCE          4.0        189               0.17
+5  IT IS OF NO IMPORTANCE AT ALL          5.0        142               0.13
+
+
+
+S63A.Q83 CAN YOU READ MUSICAL NOTES WELL ENOUGH TO SING FROM THEM?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         15               0.01
+1          YES          1.0        341               0.31
+2           NO          2.0        756               0.68
+
+
+
+S63A.Q84 CAN YOU READ MUSICAL NOTES WELL ENOUGH TO PLAY THE PIANO FOR SMALL GROUPS THAT WANT TO SING?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         13               0.01
+1          YES          1.0         62               0.06
+2           NO          2.0       1037               0.93
+
+
+
+S63A.Q85 CAN YOU PLAY A GUITAR FROM CHORDS WELL ENOUGH FOR SMALL GROUPS THAT WANT TO SING?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         21               0.02
+1          YES          1.0         92               0.08
+2           NO          2.0        999                0.9
+
+
+
+S63A.Q86 HOW IMPORTANT IS IT TO YOU PERSONALLY TO HAVE SINGING IN THE ARMY?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0         28               0.03
+1     IT IS ABSOLUTELY NECESSARY          1.0        102               0.09
+2      IT IS OF GREAT IMPORTANCE          2.0        318               0.29
+3     IT IS OF MEDIUM IMPORTANCE          3.0        354               0.32
+4     IT IS OF LITTLE IMPORTANCE          4.0        184               0.17
+5  IT IS OF NO IMPORTANCE AT ALL          5.0        126               0.11
+
+
+
+S63A.Q88 IF IT WERE UP TO YOU TO CHOOSE, DO YOU THINK YOU COULD DO MORE FOR YOUR COUNTRY AS A SOLDIER OR AS A WORKER IN A WAR JOB?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         37               0.03
+1  AS A WAR WORKER          2.0        519               0.47
+2     AS A SOLDIER          1.0        397               0.36
+3        UNDECIDED          3.0        159               0.14
+
+
+
+S63A.V90 IDENTIFICATION OF CAMP.
+                             answer_label answer_value raw_counts relative_frequency
+0                              DREW FIELD          0.0        130               0.12
+1                           CAMP BLANDING         41.0        162               0.15
+2                               CAMP POLK         57.0        131               0.12
+3   MUNICIPAL AIRPORT, MEMPHIS, TENNESSEE         58.0         26               0.02
+4                 CAMP SHERIDAN, ILLINOIS         63.0         67               0.06
+5                              FORT BRADY         65.0         74               0.07
+6                        FT. LEONARD WOOD         72.0        154               0.14
+7                         ELLINGTON FIELD         77.0         46               0.04
+8                             LOWRY FIELD         91.0        112                0.1
+9                  CAMP LEWIS, WASHINGTON         95.0         91               0.08
+10                           CAMP ROBERTS         99.0        119               0.11
+
+
+

@@ -1,0 +1,1464 @@
+FORMFORM
+        answer_label answer_value raw_counts relative_frequency
+0  S-0XXX - INFANTRY          3.0        314                1.0
+
+
+
+S44I.Q2 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0          1                0.0
+1  19 YEARS OR YOUNGER          1.0          2               0.01
+2             20 YEARS          2.0         31                0.1
+3       21 TO 24 YEARS          3.0        147               0.47
+4       25 TO 27 YEARS          4.0         59               0.19
+5       28 TO 29 YEARS          5.0         25               0.08
+6       30 TO 34 YEARS          6.0         41               0.13
+7       35 TO 37 YEARS          7.0          5               0.02
+8    38 YEARS OR OLDER          8.0          3               0.01
+
+
+
+S44I.Q3 ARE YOU:
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          3               0.01
+1       SINGLE          1.0        225               0.72
+2      MARRIED          2.0         80               0.25
+3     DIVORCED          3.0          6               0.02
+
+
+
+S44I.Q4 IN WHAT STATE OF THE UNITED STATES DID YOU SPEND MOST OF THE LAST FIVE YEARS OF YOUR CIVILIAN LIFE? E. SECTION:
+                                                                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                                                                  NO ANSWER          0.0         29               0.09
+1                                       NEW ENGLAND: CONNECTICUT, MAINE, MASSACHUSETTS, NEW HAMPSHIRE, RHODE ISLAND, VERMONT          1.0          2               0.01
+2                                                                        MIDDLE ATLANTIC: NEW JERSEY, NEW YORK, PENNSYLVANIA          2.0         84               0.27
+3                                                           EAST NORTH CENTRAL: ILLINOIS, INDIANA, MICHIGAN, OHIO, WISCONSIN          3.0         79               0.25
+4                                WEST NORTH CENTRAL: IOWA, KANSAS, MINNESOTA, MISSOURI, NEBRASKA, NORTH DAKOTA, SOUTH DAKOTA          4.0         20               0.06
+5   SOUTH ATLANTIC: DELAWARE, DISTRICT OF COLUMBIA, FLORIDA, GEORGIA, MARYLAND, NORTH CAROLINA, SOUTH CAROLINA, VIRGINIA, WE          5.0         27               0.09
+6                                                              EAST SOUTH CENTRAL: ALABAMA, KENTUCKY, MISSISSIPPI, TENNESSEE          6.0         12               0.04
+7                                                                   WEST SOUTH CENTRAL: ARKANSAS, LOUISIANA, OKLAHOMA, TEXAS          7.0         28               0.09
+8                                             MOUNTAIN: ARIZONA, COLORADO, IDAHO, MONTANA, NEVADA, NEW MEXICO, UTAH, WYOMING          8.0          5               0.02
+9                                                                                    PACIFIC: CALIFORNIA, OREGON, WASHINGTON          9.0         27               0.09
+10                                                                                                U.S. - STATE NOT SPECIFIED         12.0          1                0.0
+
+
+
+S44I.Q5 HOW DID YOU COME INTO THE ARMY?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0          1                0.0
+1                I WAS DRAFTED          1.0        237               0.75
+2                I VOLUNTEERED          2.0         53               0.17
+3  I WAS IN THE NATIONAL GUARD          3.0         23               0.07
+
+
+
+S44I.Q6 HOW LONG HAVE YOU BEEN IN THE ARMY? E. IF YOU HAVE SERVED PREVIOUSLY IN THE ARMY, CHECK THE LENGTH OF TIME SINCE YOU ENTERED THIS LAST TIME. IF YOU WERE A NATIONAL GUARDSMAN, GIVE THE LENGTH OF TIME SINCE YOUR OUTFIT ENTERED THE ARMY.
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0          1                0.0
+1              3 MONTHS OR LESS          1.0          2               0.01
+2  OVER 3 MONTHS UP TO 6 MONTHS          2.0        132               0.42
+3    OVER 6 MONTHS UP TO 1 YEAR          3.0         43               0.14
+4     OVER 1 YEAR UP TO 2 YEARS          4.0         60               0.19
+5                  OVER 2 YEARS          5.0         76               0.24
+
+
+
+S44I.Q7 WHERE WERE YOU LIVING BEFORE YOU ENTERED THE ARMY?
+                                       answer_label answer_value raw_counts relative_frequency
+0                       ON A FARM OR IN THE COUNTRY          1.0         77               0.25
+1         IN A SMALL TOWN (FEWER THAN 2,500 PEOPLE)          2.0         39               0.12
+2  IN A TOWN (WITH BETWEEN 2,500 AND 25,000 PEOPLE)          3.0         53               0.17
+3     IN A CITY (BETWEEN 25,000 AND 100,000 PEOPLE)          4.0         56               0.18
+4        IN A LARGE CITY (MORE THAN 100,000 PEOPLE)          5.0         89               0.28
+
+
+
+S44I.Q8 HOW FAR DID YOU GO IN SCHOOL?
+                      answer_label answer_value raw_counts relative_frequency
+0              LESS THAN 6TH GRADE          1.0         11               0.04
+1               FINISHED 6TH GRADE          2.0          8               0.03
+2               FINISHED 7TH GRADE          3.0         24               0.08
+3               FINISHED 8TH GRADE          4.0         62                0.2
+4                 SOME HIGH SCHOOL          5.0         76               0.24
+5       GRADUATED FROM HIGH SCHOOL          6.0         98               0.31
+6  SOME COLLEGE BUT DID NOT FINISH          7.0         24               0.08
+7           GRADUATED FROM COLLEGE          8.0         11               0.04
+
+
+
+S44I.Q9 ARE YOU LIMITED SERVICE?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0          7               0.02
+1     YES, I AM LIMITED SERVICE          1.0         18               0.06
+2  NO, I AM NOT LIMITED SERVICE          2.0        256               0.82
+3                    DON'T KNOW          3.0         33               0.11
+
+
+
+S44I.Q10 WHAT BRANCH OF THE ARMY ARE YOU IN?
+  answer_label answer_value raw_counts relative_frequency
+0    ENGINEERS          1.0          1                0.0
+1     INFANTRY          4.0        313                1.0
+
+
+
+S44I.Q11.1 WHAT OTHER BRANCHES HAVE YOU EVER BEEN IN?
+  answer_label answer_value raw_counts relative_frequency
+0    ENGINEERS          1.0          5               0.02
+1   NOT CHOSEN          2.0        309               0.98
+
+
+
+S44I.Q11.2WHAT OTHER BRANCHES HAVE YOU EVER BEEN IN?
+      answer_label answer_value raw_counts relative_frequency
+0  FIELD ARTILLERY          1.0          1                0.0
+1       NOT CHOSEN          2.0        313                1.0
+
+
+
+S44I.Q11.3WHAT OTHER BRANCHES HAVE YOU EVER BEEN IN?
+  answer_label answer_value raw_counts relative_frequency
+0   NOT CHOSEN          2.0        314                1.0
+
+
+
+S44I.Q11.4WHAT OTHER BRANCHES HAVE YOU EVER BEEN IN?
+  answer_label answer_value raw_counts relative_frequency
+0   NOT CHOSEN          2.0        314                1.0
+
+
+
+S44I.Q11.5WHAT OTHER BRANCHES HAVE YOU EVER BEEN IN?
+         answer_label answer_value raw_counts relative_frequency
+0  MEDICAL DEPARTMENT          1.0          1                0.0
+1          NOT CHOSEN          2.0        313                1.0
+
+
+
+S44I.Q11.6WHAT OTHER BRANCHES HAVE YOU EVER BEEN IN?
+    answer_label answer_value raw_counts relative_frequency
+0  ARMORED FORCE          1.0          1                0.0
+1     NOT CHOSEN          2.0        313                1.0
+
+
+
+S44I.Q11.7WHAT OTHER BRANCHES HAVE YOU EVER BEEN IN?
+   answer_label answer_value raw_counts relative_frequency
+0  SIGNAL CORPS          1.0          3               0.01
+1    NOT CHOSEN          2.0        311               0.99
+
+
+
+S44I.Q11.8WHAT OTHER BRANCHES HAVE YOU EVER BEEN IN?
+                        answer_label answer_value raw_counts relative_frequency
+0  COAST ARTILLERY AND ANTI-AIRCRAFT          1.0          1                0.0
+1                         NOT CHOSEN          2.0        313                1.0
+
+
+
+S44I.Q11.9WHAT OTHER BRANCHES HAVE YOU EVER BEEN IN?
+  answer_label answer_value raw_counts relative_frequency
+0   NOT CHOSEN          2.0        314                1.0
+
+
+
+S44I.Q11.10WHAT OTHER BRANCHES HAVE YOU EVER BEEN IN?
+           answer_label answer_value raw_counts relative_frequency
+0  TRANSPORTATION CORPS          1.0          1                0.0
+1            NOT CHOSEN          2.0        313                1.0
+
+
+
+S44I.Q11.11WHAT OTHER BRANCHES HAVE YOU EVER BEEN IN?
+          answer_label answer_value raw_counts relative_frequency
+0  ORDNANCE DEPARTMENT          1.0          2               0.01
+1           NOT CHOSEN          2.0        312               0.99
+
+
+
+S44I.Q11.12WHAT OTHER BRANCHES HAVE YOU EVER BEEN IN?
+  answer_label answer_value raw_counts relative_frequency
+0   NOT CHOSEN          2.0        314                1.0
+
+
+
+S44I.Q11.13WHAT OTHER BRANCHES HAVE YOU EVER BEEN IN?
+      answer_label answer_value raw_counts relative_frequency
+0  MILITARY POLICE          1.0          2               0.01
+1       NOT CHOSEN          2.0        312               0.99
+
+
+
+S44I.Q11.14WHAT OTHER BRANCHES HAVE YOU EVER BEEN IN?
+  answer_label answer_value raw_counts relative_frequency
+0        OTHER          1.0          8               0.03
+1   NOT CHOSEN          2.0        306               0.97
+
+
+
+S44I.Q11.15WHAT OTHER BRANCHES HAVE YOU EVER BEEN IN?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0         10               0.03
+1   NOT CHOSEN          2.0        304               0.97
+
+
+
+S44I.Q20 IF YOU HAD A CHOICE, WHICH ONE OF THESE BRANCHES OF THE ARMY WOULD YOU LIKE TO BE IN?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0         10               0.03
+1                           ENGINEERS          1.0         14               0.04
+2                     FIELD ARTILLERY          2.0          2               0.01
+3                 QUARTERMASTER CORPS          3.0         21               0.07
+4                            INFANTRY          4.0         31                0.1
+5                  MEDICAL DEPARTMENT          5.0          8               0.03
+6                       ARMORED FORCE          6.0         11               0.04
+7                        SIGNAL CORPS          7.0         10               0.03
+8   COAST ARTILLERY AND ANTI-AIRCRAFT          8.0         20               0.06
+9                           AIR CORPS          9.0        125                0.4
+10               TRANSPORTATION CORPS         10.0         23               0.07
+11                ORDNANCE DEPARTMENT         11.0         22               0.07
+12           CHEMICAL WARFARE SERVICE         12.0          1                0.0
+13                    MILITARY POLICE         13.0         16               0.05
+
+
+
+S44I.Q20A.1 WHY WOULD YOU CHOOSE THIS BRANCH? E. PERSONAL MOTIVATION:
+                                                                                                       answer_label answer_value raw_counts relative_frequency
+0  FITTED FOR WORK: PREVIOUS TRAINING, EXPERIENCE AND EDUCATION; KNOW MOST ABOUT IT (EMPHASIS ON PREVIOUS TRAINING)          1.0        101               0.32
+1                                                                                                        NOT CHOSEN          2.0        213               0.68
+
+
+
+S44I.Q20A.2WHY WOULD YOU CHOOSE THIS BRANCH? E. PERSONAL MOTIVATION:
+                                                                                            answer_label answer_value raw_counts relative_frequency
+0  USEFUL IN PEACE TIME OR IN CIVILIAN LIFE; CHANCE TO LEARN SOMETHING (EMPHASIS ON TRAINING FOR FUTURE)          1.0         24               0.08
+1                                                                                             NOT CHOSEN          2.0        290               0.92
+
+
+
+S44I.Q20A.3WHY WOULD YOU CHOOSE THIS BRANCH? E. PERSONAL MOTIVATION:
+                                                                                          answer_label answer_value raw_counts relative_frequency
+0  CHANCE FOR ADVANCEMENT; CHANCE FOR PROMOTION (AS A PERSONAL AIM; NOT FOR DOING MOST FOR WAR EFFORT)          1.0         11               0.04
+1                                                                                           NOT CHOSEN          2.0        303               0.96
+
+
+
+S44I.Q20A.4WHY WOULD YOU CHOOSE THIS BRANCH? E. PERSONAL MOTIVATION:
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0  LIKES THE WORK, OR CONNECTED DUTIES; DESIRABLE WORK; INTERESTED IN WORK OR EQUIPMENT; LIKES CERTAIN JOB IN THIS BRANCH (          1.0        142               0.45
+1                                                                                                                NOT CHOSEN          2.0        172               0.55
+
+
+
+S44I.Q20A.5WHY WOULD YOU CHOOSE THIS BRANCH? E. PERSONAL MOTIVATION:
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0  CHANCE TO SEE ACTION; HAS EXCITEMENT; GETS INTO COMBAT OR FIGHTING (EMPHASIS ON PERSONAL AIMS; NO IMPLICATION OF BEING B          1.0         13               0.04
+1                                                                                                                NOT CHOSEN          2.0        301               0.96
+
+
+
+S44I.Q20A.6WHY WOULD YOU CHOOSE THIS BRANCH? E. PERSONAL MOTIVATION:
+  answer_label answer_value raw_counts relative_frequency
+0   NOT CHOSEN          2.0        314                1.0
+
+
+
+S44I.Q20A.7WHY WOULD YOU CHOOSE THIS BRANCH? E. PERSONAL MOTIVATION:
+  answer_label answer_value raw_counts relative_frequency
+0   NOT CHOSEN          2.0        314                1.0
+
+
+
+S44I.Q20A.8WHY WOULD YOU CHOOSE THIS BRANCH? E. PERSONAL MOTIVATION:
+                         answer_label answer_value raw_counts relative_frequency
+0  EASIEST WORK; SOFTEST; "GOLDBRICK"          1.0          4               0.01
+1                          NOT CHOSEN          2.0        310               0.99
+
+
+
+S44I.Q20A.9WHY WOULD YOU CHOOSE THIS BRANCH? E. PERSONAL MOTIVATION:
+                                                                                           answer_label answer_value raw_counts relative_frequency
+0  INDIVIDUAL'S PHYSICAL CAPACITY; "I AM IN LIMITED SERVICE", "I DON'T HAVE STRENGTH TO DO COMBAT WORK"          1.0         12               0.04
+1                                                                                            NOT CHOSEN          2.0        302               0.96
+
+
+
+S44I.Q20A.10WHY WOULD YOU CHOOSE THIS BRANCH? E. ALTRUISTIC MOTIVATION:
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0  I COULD DO MOST SERVICE FOR ARMY OR COUNTRY; CHANCE TO SHOW WHAT I CAN DO (FOR BENEFIT OF WAR EFFORT RATHER THAN FOR SEL          1.0         17               0.05
+1                                                                                                                NOT CHOSEN          2.0        297               0.95
+
+
+
+S44I.Q20A.11WHY WOULD YOU CHOOSE THIS BRANCH? E. ALTRUISTIC MOTIVATION:
+                                                                      answer_label answer_value raw_counts relative_frequency
+0  IMPORTANT (IN THE ARMY OR IN WINNING THE WAR); TOUGHEST JOB (NO MENTION OF "I")          1.0          6               0.02
+1                                                                       NOT CHOSEN          2.0        308               0.98
+
+
+
+S44I.Q20A.12WHY WOULD YOU CHOOSE THIS BRANCH? E. ALTRUISTIC MOTIVATION:
+                                                                                                   answer_label answer_value raw_counts relative_frequency
+0  IT IS BEST, OR HIGHEST, SERVICE (WITHOUT GIVING ANY REASON, SUCH AS "IMPORTANT" OR "MOST HIGHLY THOUGHT OF")          1.0          1                0.0
+1                                                                                                    NOT CHOSEN          2.0        313                1.0
+
+
+
+S44I.Q20A.13WHY WOULD YOU CHOOSE THIS BRANCH? E. OTHER MOTIVATION:
+                                                                                                          answer_label answer_value raw_counts relative_frequency
+0  I AM IN IT AND LIKE IT; I DON'T KNOW ABOUT THE OTHERS; I'M IN IT AND IT'S AS GOOD AS ANY (EMPHASIS ON "I AM IN IT")          1.0          7               0.02
+1                                                                                                           NOT CHOSEN          2.0        307               0.98
+
+
+
+S44I.Q20A.14WHY WOULD YOU CHOOSE THIS BRANCH? E. OTHER MOTIVATION:
+  answer_label answer_value raw_counts relative_frequency
+0   NOT CHOSEN          2.0        314                1.0
+
+
+
+S44I.Q20A.15WHY WOULD YOU CHOOSE THIS BRANCH? E. OTHER MOTIVATION:
+                           answer_label answer_value raw_counts relative_frequency
+0  EFFICIENCY; LIKES WAY THINGS ARE RUN          1.0          1                0.0
+1                            NOT CHOSEN          2.0        313                1.0
+
+
+
+S44I.Q20A.16WHY WOULD YOU CHOOSE THIS BRANCH? E. GENERAL:
+                           answer_label answer_value raw_counts relative_frequency
+0  UNINTELLIGIBLE OR IRRELEVANT COMMENT          1.0          1                0.0
+1                            NOT CHOSEN          2.0        313                1.0
+
+
+
+S44I.Q20A.17WHY WOULD YOU CHOOSE THIS BRANCH? E. GENERAL:
+            answer_label answer_value raw_counts relative_frequency
+0  DON'T KNOW; UNDECIDED          1.0          3               0.01
+1             NOT CHOSEN          2.0        311               0.99
+
+
+
+S44I.Q20A.18WHY WOULD YOU CHOOSE THIS BRANCH? E. GENERAL:
+     answer_label answer_value raw_counts relative_frequency
+0  OTHER COMMENTS          1.0          6               0.02
+1      NOT CHOSEN          2.0        308               0.98
+
+
+
+S44I.Q21 WOULD YOU CHANGE TO SOME OTHER ARMY JOB IF GIVEN A CHANCE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          2               0.01
+1          YES          1.0        257               0.82
+2           NO          2.0         31                0.1
+3    UNDECIDED          3.0         24               0.08
+
+
+
+S44I.Q22 WHAT WOULD YOU SAY WAS MORE IMPORTANT TO YOU PERSONALLY - THE PARTICULAR KIND OF JOB YOU GET TO DO, OR THE BRANCH OF THE ARMY YOU GET INTO?
+                        answer_label answer_value raw_counts relative_frequency
+0                          NO ANSWER          0.0          2               0.01
+1              THE KIND OF JOB I GET          1.0        116               0.37
+2  THE BRANCH OF THE ARMY I GET INTO          2.0         74               0.24
+3             IT MAKES NO DIFFERENCE          3.0         16               0.05
+4         BOTH ARE EQUALLY IMPORTANT          4.0         90               0.29
+5                         DON'T KNOW          5.0         16               0.05
+
+
+
+S44I.Q40 WHICH ONE OF THESE BRANCHES DO YOU THINK WOULD GIVE YOU THE BEST TRAINING FOR A CIVILIAN JOB AFTER THE WAR?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0          6               0.02
+1                           ENGINEERS          1.0         45               0.14
+2                 QUARTERMASTER CORPS          3.0         22               0.07
+3                            INFANTRY          4.0          4               0.01
+4                  MEDICAL DEPARTMENT          5.0         10               0.03
+5                       ARMORED FORCE          6.0          2               0.01
+6                        SIGNAL CORPS          7.0         19               0.06
+7   COAST ARTILLERY AND ANTI-AIRCRAFT          8.0          4               0.01
+8                           AIR CORPS          9.0         95                0.3
+9                TRANSPORTATION CORPS         10.0         22               0.07
+10                ORDNANCE DEPARTMENT         11.0         38               0.12
+11           CHEMICAL WARFARE SERVICE         12.0          2               0.01
+12                    MILITARY POLICE         13.0          9               0.03
+13                          UNDECIDED         14.0         36               0.11
+
+
+
+S44I.Q41 WHICH ONE OF THESE BRANCHES WOULD YOU SAY HAS THE MOST DIRTY AND DISAGREEABLE JOBS?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0          7               0.02
+1                           ENGINEERS          1.0         61               0.19
+2                     FIELD ARTILLERY          2.0          2               0.01
+3                 QUARTERMASTER CORPS          3.0          5               0.02
+4                            INFANTRY          4.0        151               0.48
+5                  MEDICAL DEPARTMENT          5.0         18               0.06
+6                       ARMORED FORCE          6.0          5               0.02
+7                        SIGNAL CORPS          7.0          1                0.0
+8   COAST ARTILLERY AND ANTI-AIRCRAFT          8.0          2               0.01
+9                           AIR CORPS          9.0          1                0.0
+10               TRANSPORTATION CORPS         10.0          2               0.01
+11                ORDNANCE DEPARTMENT         11.0          1                0.0
+12           CHEMICAL WARFARE SERVICE         12.0          9               0.03
+13                    MILITARY POLICE         13.0         25               0.08
+14                          UNDECIDED         14.0         24               0.08
+
+
+
+S44I.Q42 WHICH ONE OF THESE BRANCHES DO YOU THINK WORKS ITS SOLDIERS THE HARDEST?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0          6               0.02
+1                           ENGINEERS          1.0         55               0.18
+2                     FIELD ARTILLERY          2.0          2               0.01
+3                 QUARTERMASTER CORPS          3.0          2               0.01
+4                            INFANTRY          4.0        224               0.71
+5                  MEDICAL DEPARTMENT          5.0          2               0.01
+6                       ARMORED FORCE          6.0          3               0.01
+7                        SIGNAL CORPS          7.0          1                0.0
+8   COAST ARTILLERY AND ANTI-AIRCRAFT          8.0          1                0.0
+9                           AIR CORPS          9.0          1                0.0
+10               TRANSPORTATION CORPS         10.0          1                0.0
+11                    MILITARY POLICE         13.0          2               0.01
+12                          UNDECIDED         14.0         14               0.04
+
+
+
+S44I.Q43 WHICH ONE OF THESE BRANCHES WOULD YOU SAY GIVES THE SOLDIERS THE LEAST AMOUNT OF WORK TO DO?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0          6               0.02
+1                           ENGINEERS          1.0          1                0.0
+2                     FIELD ARTILLERY          2.0          2               0.01
+3                 QUARTERMASTER CORPS          3.0         34               0.11
+4                            INFANTRY          4.0          3               0.01
+5                  MEDICAL DEPARTMENT          5.0         32                0.1
+6                        SIGNAL CORPS          7.0          5               0.02
+7   COAST ARTILLERY AND ANTI-AIRCRAFT          8.0         15               0.05
+8                           AIR CORPS          9.0         23               0.07
+9                TRANSPORTATION CORPS         10.0          4               0.01
+10                ORDNANCE DEPARTMENT         11.0          9               0.03
+11           CHEMICAL WARFARE SERVICE         12.0         14               0.04
+12                    MILITARY POLICE         13.0        123               0.39
+13                          UNDECIDED         14.0         43               0.14
+
+
+
+S44I.Q44 WHICH ONE OF THESE BRANCHES DO YOU THINK HAS THE MOST DANGEROUS JOBS?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0          6               0.02
+1                           ENGINEERS          1.0         56               0.18
+2                     FIELD ARTILLERY          2.0          2               0.01
+3                 QUARTERMASTER CORPS          3.0          1                0.0
+4                            INFANTRY          4.0         94                0.3
+5                  MEDICAL DEPARTMENT          5.0          7               0.02
+6                       ARMORED FORCE          6.0         26               0.08
+7                        SIGNAL CORPS          7.0          6               0.02
+8   COAST ARTILLERY AND ANTI-AIRCRAFT          8.0          5               0.02
+9                           AIR CORPS          9.0         72               0.23
+10               TRANSPORTATION CORPS         10.0          2               0.01
+11           CHEMICAL WARFARE SERVICE         12.0         13               0.04
+12                    MILITARY POLICE         13.0          1                0.0
+13                          UNDECIDED         14.0         23               0.07
+
+
+
+S44I.Q45 WHICH ONE OF THESE BRANCHES DO YOU THINK HAS THE LEAST DANGEROUS JOBS?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0          5               0.02
+1                           ENGINEERS          1.0          1                0.0
+2                     FIELD ARTILLERY          2.0          1                0.0
+3                 QUARTERMASTER CORPS          3.0         66               0.21
+4                            INFANTRY          4.0          2               0.01
+5                  MEDICAL DEPARTMENT          5.0         24               0.08
+6                       ARMORED FORCE          6.0          1                0.0
+7                        SIGNAL CORPS          7.0          4               0.01
+8   COAST ARTILLERY AND ANTI-AIRCRAFT          8.0          9               0.03
+9                           AIR CORPS          9.0          1                0.0
+10               TRANSPORTATION CORPS         10.0          1                0.0
+11                ORDNANCE DEPARTMENT         11.0         45               0.14
+12           CHEMICAL WARFARE SERVICE         12.0         10               0.03
+13                    MILITARY POLICE         13.0        120               0.38
+14                          UNDECIDED         14.0         24               0.08
+
+
+
+S44I.Q46 WHICH ONE OF THESE BRANCHES WILL BE NEEDED THE MOST TO WIN THE WAR?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0          4               0.01
+1                           ENGINEERS          1.0          3               0.01
+2                     FIELD ARTILLERY          2.0          2               0.01
+3                 QUARTERMASTER CORPS          3.0          4               0.01
+4                            INFANTRY          4.0        117               0.37
+5                  MEDICAL DEPARTMENT          5.0          4               0.01
+6                       ARMORED FORCE          6.0          7               0.02
+7                        SIGNAL CORPS          7.0          1                0.0
+8   COAST ARTILLERY AND ANTI-AIRCRAFT          8.0          3               0.01
+9                           AIR CORPS          9.0        139               0.44
+10               TRANSPORTATION CORPS         10.0          5               0.02
+11                ORDNANCE DEPARTMENT         11.0          2               0.01
+12                    MILITARY POLICE         13.0          1                0.0
+13                          UNDECIDED         14.0         22               0.07
+
+
+
+S44I.Q47 WHICH ONE OF THESE BRANCHES WOULD YOU SAY WILL BE LEAST IMPORTANT IN WINNING THE WAR?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0          4               0.01
+1                           ENGINEERS          1.0          1                0.0
+2                 QUARTERMASTER CORPS          3.0          9               0.03
+3                            INFANTRY          4.0          6               0.02
+4                        SIGNAL CORPS          7.0          3               0.01
+5   COAST ARTILLERY AND ANTI-AIRCRAFT          8.0         10               0.03
+6                           AIR CORPS          9.0          2               0.01
+7                TRANSPORTATION CORPS         10.0          1                0.0
+8                 ORDNANCE DEPARTMENT         11.0          3               0.01
+9            CHEMICAL WARFARE SERVICE         12.0         29               0.09
+10                    MILITARY POLICE         13.0        198               0.63
+11                          UNDECIDED         14.0         48               0.15
+
+
+
+S44I.Q49 WHICH BRANCH OF THE ARMY DO YOU THINK MOST HIGHLY OF?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0         13               0.04
+1                           ENGINEERS          1.0          9               0.03
+2                     FIELD ARTILLERY          2.0          3               0.01
+3                 QUARTERMASTER CORPS          3.0          8               0.03
+4                            INFANTRY          4.0         54               0.17
+5                  MEDICAL DEPARTMENT          5.0          5               0.02
+6                       ARMORED FORCE          6.0          7               0.02
+7                        SIGNAL CORPS          7.0          5               0.02
+8   COAST ARTILLERY AND ANTI-AIRCRAFT          8.0          4               0.01
+9                           AIR CORPS          9.0        158                0.5
+10               TRANSPORTATION CORPS         10.0          4               0.01
+11                ORDNANCE DEPARTMENT         11.0          4               0.01
+12           CHEMICAL WARFARE SERVICE         12.0          1                0.0
+13                    MILITARY POLICE         13.0          4               0.01
+14                          UNDECIDED         14.0         35               0.11
+
+
+
+S44I.Q49A.1 WHY DO YOU THINK MOST HIGHLY OF THIS BRANCH? E. ALTRUISTIC MOTIVATION:
+                                                                answer_label answer_value raw_counts relative_frequency
+0  MOST IMPORTANT WORK; MOST IMPORTANT IN WINNING THE WAR (EMPHASIS ON MOST)          1.0         23               0.07
+1                                                                 NOT CHOSEN          2.0        291               0.93
+
+
+
+S44I.Q49A.2WHY DO YOU THINK MOST HIGHLY OF THIS BRANCH? E. ALTRUISTIC MOTIVATION:
+                                                                                 answer_label answer_value raw_counts relative_frequency
+0  IMPORTANT (NO "MOST"); OTHERS DEPEND ON IT; SPECIFIC DUTIES ARE NECESSARY; IT IS NECESSARY          1.0         47               0.15
+1                                                                                  NOT CHOSEN          2.0        267               0.85
+
+
+
+S44I.Q49A.3WHY DO YOU THINK MOST HIGHLY OF THIS BRANCH? E. ALTRUISTIC MOTIVATION:
+                                                                       answer_label answer_value raw_counts relative_frequency
+0  BECAUSE OF WHAT IT HAS DONE UP TO NOW; BEST RECORD SO FAR (EMPHASIS ON "SO FAR")          1.0          5               0.02
+1                                                                        NOT CHOSEN          2.0        309               0.98
+
+
+
+S44I.Q49A.4WHY DO YOU THINK MOST HIGHLY OF THIS BRANCH? E. ALTRUISTIC MOTIVATION:
+                                                        answer_label answer_value raw_counts relative_frequency
+0  SIMPLE STATEMENT OF FUNCTIONS WITHOUT ANY REFERENCE TO IMPORTANCE          1.0         21               0.07
+1                                                         NOT CHOSEN          2.0        293               0.93
+
+
+
+FORM..1FORM.
+        answer_label answer_value raw_counts relative_frequency
+0  S-0XXX - INFANTRY          3.0        314                1.0
+
+
+
+S44I.Q49A.5 WHICH BRANCH OF THE ARMY DO YOU THINK MOST HIGHLY OF?
+                                                                             answer_label answer_value raw_counts relative_frequency
+0  IT IS HIGHEST OR BEST OR SUPERIOR (NO REASON GIVEN SUCH AS "IMPORTANT" OR "I LIKE IT")          1.0         10               0.03
+1                                                                              NOT CHOSEN          2.0        304               0.97
+
+
+
+S44I.Q49A.6 WHICH BRANCH OF THE ARMY DO YOU THINK MOST HIGHLY OF?
+                      answer_label answer_value raw_counts relative_frequency
+0  MOST DANGEROUS; HAS MOST COMBAT          1.0         33               0.11
+1                       NOT CHOSEN          2.0        281               0.89
+
+
+
+S44I.Q49A.7 WHICH BRANCH OF THE ARMY DO YOU THINK MOST HIGHLY OF?
+                                                                                     answer_label answer_value raw_counts relative_frequency
+0  DOES THE HARDEST WORK; HARD WORK; ROUGH LIFE (BUT NO WORDS "DANGER" OR "COMBAT" OR "FIGHTING")          1.0         13               0.04
+1                                                                                      NOT CHOSEN          2.0        301               0.96
+
+
+
+S44I.Q49A.8 WHICH BRANCH OF THE ARMY DO YOU THINK MOST HIGHLY OF?
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0  RUNS MOST EFFICIENTLY; "SATISFIED WITH WAY THINGS ARE REGULATED AND PUT IN ORDER"; "LIKES THE WAY THEY WORK" (EMPHASIS O          1.0          5               0.02
+1                                                                                                                NOT CHOSEN          2.0        309               0.98
+
+
+
+S44I.Q49A.9 WHICH BRANCH OF THE ARMY DO YOU THINK MOST HIGHLY OF?
+                                                                     answer_label answer_value raw_counts relative_frequency
+0  MOST ADVANCED; UP-TO-DATE, MODERN (IN EQUIPMENT OR ACTIVITY, NOT ORGANIZATION)          1.0          9               0.03
+1                                                                      NOT CHOSEN          2.0        305               0.97
+
+
+
+S44I.Q49A.10 WHICH BRANCH OF THE ARMY DO YOU THINK MOST HIGHLY OF?
+                                                       answer_label answer_value raw_counts relative_frequency
+0  COOPERATION BETWEEN MEN AND OFFICERS; MEN OR UNITS WORK TOGETHER          1.0          2               0.01
+1                                                        NOT CHOSEN          2.0        312               0.99
+
+
+
+S44I.Q49A.11 WHICH BRANCH OF THE ARMY DO YOU THINK MOST HIGHLY OF?
+              answer_label answer_value raw_counts relative_frequency
+0  I AM IN IT; I PICKED IT          1.0         14               0.04
+1               NOT CHOSEN          2.0        300               0.96
+
+
+
+S44I.Q49A.12 WHICH BRANCH OF THE ARMY DO YOU THINK MOST HIGHLY OF?
+                                                                              answer_label answer_value raw_counts relative_frequency
+0  LIKES THE WORK; HAS MOST INTERESTING WORK; I LIKE IT THE BEST; I WOULD LIKE TO BE IN IT          1.0         28               0.09
+1                                                                               NOT CHOSEN          2.0        286               0.91
+
+
+
+S44I.Q49A.13 WHICH BRANCH OF THE ARMY DO YOU THINK MOST HIGHLY OF?
+                                               answer_label answer_value raw_counts relative_frequency
+0  USEFUL IN PEACE TIME OR IN CIVILIAN LIFE; LEARN THE MOST          1.0         20               0.06
+1                                                NOT CHOSEN          2.0        294               0.94
+
+
+
+S44I.Q49A.14 WHICH BRANCH OF THE ARMY DO YOU THINK MOST HIGHLY OF?
+                                                   answer_label answer_value raw_counts relative_frequency
+0  RAPID PROMOTION; PAYS THE MOST MONEY; CHANCE FOR ADVANCEMENT          1.0          1                0.0
+1                                                    NOT CHOSEN          2.0        313                1.0
+
+
+
+S44I.Q49A.15 WHICH BRANCH OF THE ARMY DO YOU THINK MOST HIGHLY OF?
+                                     answer_label answer_value raw_counts relative_frequency
+0  I COULD DO MORE THERE; I AM BEST FITTED FOR IT          1.0          4               0.01
+
+
+
+S44I.Q49A.16 WHICH BRANCH OF THE ARMY DO YOU THINK MOST HIGHLY OF?
+         answer_label answer_value raw_counts relative_frequency
+0  KNOW MORE ABOUT IT          1.0          1                0.0
+1          NOT CHOSEN          2.0        313                1.0
+
+
+
+S44I.Q49A.17 WHICH BRANCH OF THE ARMY DO YOU THINK MOST HIGHLY OF?
+                                                                                                   answer_label answer_value raw_counts relative_frequency
+0  BEST MEN; BETTER CLASS MEN; MOST INTELLIGENT MEN; STRICTEST REQUIREMENTS; BEST TRAINED MEN (EMPHASIS ON MEN)          1.0         30                0.1
+1                                                                                                    NOT CHOSEN          2.0        284                0.9
+
+
+
+S44I.Q49A.18 WHICH BRANCH OF THE ARMY DO YOU THINK MOST HIGHLY OF?
+                                      answer_label answer_value raw_counts relative_frequency
+0  IT IS THOUGHT MOST HIGHLY OF; MOST LOOKED UP TO          1.0          1                0.0
+1                                       NOT CHOSEN          2.0        313                1.0
+
+
+
+S44I.Q49A.19 WHICH BRANCH OF THE ARMY DO YOU THINK MOST HIGHLY OF?
+  answer_label answer_value raw_counts relative_frequency
+0   NOT CHOSEN          2.0        314                1.0
+
+
+
+S44I.Q49A.20 WHICH BRANCH OF THE ARMY DO YOU THINK MOST HIGHLY OF?
+  answer_label answer_value raw_counts relative_frequency
+0   NOT CHOSEN          2.0        314                1.0
+
+
+
+S44I.Q49A.21 WHICH BRANCH OF THE ARMY DO YOU THINK MOST HIGHLY OF?
+     answer_label answer_value raw_counts relative_frequency
+0  OTHER COMMENTS          1.0         24               0.08
+1      NOT CHOSEN          2.0        290               0.92
+
+
+
+S44I.Q50 WHICH BRANCH OF THE ARMY DO YOU LIKE THE LEAST?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0          4               0.01
+1                           ENGINEERS          1.0          9               0.03
+2                     FIELD ARTILLERY          2.0          3               0.01
+3                 QUARTERMASTER CORPS          3.0         11               0.04
+4                            INFANTRY          4.0         71               0.23
+5                  MEDICAL DEPARTMENT          5.0         12               0.04
+6                       ARMORED FORCE          6.0          4               0.01
+7                        SIGNAL CORPS          7.0          1                0.0
+8   COAST ARTILLERY AND ANTI-AIRCRAFT          8.0          3               0.01
+9                           AIR CORPS          9.0         15               0.05
+10               TRANSPORTATION CORPS         10.0          2               0.01
+11                ORDNANCE DEPARTMENT         11.0          1                0.0
+12           CHEMICAL WARFARE SERVICE         12.0         10               0.03
+13                    MILITARY POLICE         13.0        104               0.33
+14                          UNDECIDED         14.0         64                0.2
+
+
+
+S44I.Q50A.1 WHY DO YOU LIKE THIS BRANCH THE LEAST? E. UNDESIRABLE WORK:
+                                                                                                             answer_label answer_value raw_counts relative_frequency
+0  UNPLEASANT DUTIES; DIRTIEST JOBS; DISLIKE THE DUTIES (INCLUDING SPECIFIC DUTIES, SUCH AS MARCHING, CARING FOR WOUNDED)          1.0         42               0.13
+1                                                                                                              NOT CHOSEN          2.0        272               0.87
+
+
+
+S44I.Q50A.2WHY DO YOU LIKE THIS BRANCH THE LEAST? E. UNDESIRABLE WORK:
+                           answer_label answer_value raw_counts relative_frequency
+0  UNINTERESTED IN WORK; NOT INTERESTED          1.0         16               0.05
+1                            NOT CHOSEN          2.0        298               0.95
+
+
+
+S44I.Q50A.3WHY DO YOU LIKE THIS BRANCH THE LEAST? E. UNDESIRABLE WORK:
+                     answer_label answer_value raw_counts relative_frequency
+0  TOO TOUGH WORK; WORKS TOO HARD          1.0         20               0.06
+1                      NOT CHOSEN          2.0        294               0.94
+
+
+
+S44I.Q50A.4WHY DO YOU LIKE THIS BRANCH THE LEAST? E. UNDESIRABLE WORK:
+               answer_label answer_value raw_counts relative_frequency
+0  NO PROMOTIONS; NO FUTURE          1.0          7               0.02
+1                NOT CHOSEN          2.0        307               0.98
+
+
+
+S44I.Q50A.5WHY DO YOU LIKE THIS BRANCH THE LEAST? E. UNDESIRABLE WORK:
+                 answer_label answer_value raw_counts relative_frequency
+0  DANGEROUS; TOO MUCH COMBAT          1.0          6               0.02
+1                  NOT CHOSEN          2.0        308               0.98
+
+
+
+S44I.Q50A.6WHY DO YOU LIKE THIS BRANCH THE LEAST? E. UNDESIRABLE WORK:
+                        answer_label answer_value raw_counts relative_frequency
+0  NO FIGHTING; NO COMBAT; NO ACTION          1.0         14               0.04
+1                         NOT CHOSEN          2.0        300               0.96
+
+
+
+S44I.Q50A.7WHY DO YOU LIKE THIS BRANCH THE LEAST? E. UNDESIRABLE WORK:
+                                                       answer_label answer_value raw_counts relative_frequency
+0  CAN'T LEARN ANYTHING (IMPLYING NOTHING USEFUL FOR CIVILIAN LIFE)          1.0          5               0.02
+1                                                        NOT CHOSEN          2.0        309               0.98
+
+
+
+S44I.Q50A.8WHY DO YOU LIKE THIS BRANCH THE LEAST? E. UNDESIRABLE PERSONNEL:
+                                                                               answer_label answer_value raw_counts relative_frequency
+0  ARROGANT; "SHOW OFF"; ATTITUDE OF PERSONNEL UNFAIR; ABUSE THEIR POWER; BULLIES (BAD MEN)          1.0         39               0.12
+1                                                                                NOT CHOSEN          2.0        275               0.88
+
+
+
+S44I.Q50A.9WHY DO YOU LIKE THIS BRANCH THE LEAST? E. UNDESIRABLE PERSONNEL:
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0  MAKES ENEMIES; BAD RELATIONS WITH OTHER SOLDIERS; HARD TO KEEP FRIENDS; YOU CAN'T KEEP YOUR FRIENDS (AS PART OF JOB, NOT          1.0          7               0.02
+1                                                                                                                NOT CHOSEN          2.0        307               0.98
+
+
+
+S44I.Q50A.10WHY DO YOU LIKE THIS BRANCH THE LEAST? E. UNDESIRABLE PERSONNEL:
+                            answer_label answer_value raw_counts relative_frequency
+0  LOW QUALITY PERSONNEL; LEAST TRAINING          1.0         16               0.05
+1                             NOT CHOSEN          2.0        298               0.95
+
+
+
+S44I.Q50A.11WHY DO YOU LIKE THIS BRANCH THE LEAST? E. UNDESIRABLE PERSONNEL:
+  answer_label answer_value raw_counts relative_frequency
+0   NOT CHOSEN          2.0        314                1.0
+
+
+
+S44I.Q50A.12WHY DO YOU LIKE THIS BRANCH THE LEAST? E. UNDESIRABLE PERSONNEL:
+             answer_label answer_value raw_counts relative_frequency
+0  HAS POOREST DISCIPLINE          1.0          1                0.0
+1              NOT CHOSEN          2.0        313                1.0
+
+
+
+S44I.Q50A.13WHY DO YOU LIKE THIS BRANCH THE LEAST? E. OTHER:
+                              answer_label answer_value raw_counts relative_frequency
+0  NO ONE LIKES IT; IT IS LOOKED DOWN UPON          1.0          1                0.0
+1                               NOT CHOSEN          2.0        313                1.0
+
+
+
+S44I.Q50A.14WHY DO YOU LIKE THIS BRANCH THE LEAST? E. OTHER:
+                 answer_label answer_value raw_counts relative_frequency
+0  UNIMPORTANT OR UNNECESSARY          1.0         22               0.07
+1                  NOT CHOSEN          2.0        292               0.93
+
+
+
+S44I.Q50A.15WHY DO YOU LIKE THIS BRANCH THE LEAST? E. OTHER:
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0  TOO MUCH RESPONSIBILITY; IT IS FOR A MORE EDUCATED MAN THAN I AM; I AM PERSONALLY NOT FITTED FOR IT; CAN'T MEET REQUIREM          1.0          3               0.01
+1                                                                                                                NOT CHOSEN          2.0        311               0.99
+
+
+
+S44I.Q50A.16WHY DO YOU LIKE THIS BRANCH THE LEAST? E. OTHER:
+                                                answer_label answer_value raw_counts relative_frequency
+0  NO RECOGNITION OF THE BRANCH; NO APPRECIATION; NO REWARDS          1.0          2               0.01
+1                                                 NOT CHOSEN          2.0        312               0.99
+
+
+
+S44I.Q50A.17WHY DO YOU LIKE THIS BRANCH THE LEAST? E. OTHER:
+                    answer_label answer_value raw_counts relative_frequency
+0  I AM IN IT; I HAVE BEEN IN IT          1.0          9               0.03
+1                     NOT CHOSEN          2.0        305               0.97
+
+
+
+S44I.Q50A.18WHY DO YOU LIKE THIS BRANCH THE LEAST? E. OTHER:
+  answer_label answer_value raw_counts relative_frequency
+0  INEFFICIENT          1.0          3               0.01
+1   NOT CHOSEN          2.0        311               0.99
+
+
+
+S44I.Q50A.19WHY DO YOU LIKE THIS BRANCH THE LEAST? E. GENERAL:
+                                                                               answer_label answer_value raw_counts relative_frequency
+0  MISUNDERSTOOD THE QUESTION (THOUGHT IT WAS THE BEST SINCE WANTED; REFER TO Q.20 OR Q.49)          1.0         22               0.07
+1                                                                                NOT CHOSEN          2.0        292               0.93
+
+
+
+S44I.Q50A.20WHY DO YOU LIKE THIS BRANCH THE LEAST? E. GENERAL:
+                       answer_label answer_value raw_counts relative_frequency
+0  REPETITION; I JUST DON'T LIKE IT          1.0          6               0.02
+1                        NOT CHOSEN          2.0        308               0.98
+
+
+
+S44I.Q50A.21WHY DO YOU LIKE THIS BRANCH THE LEAST? E. GENERAL:
+                           answer_label answer_value raw_counts relative_frequency
+0  UNINTELLIGIBLE OR IRRELEVANT COMMENT          1.0          1                0.0
+1                            NOT CHOSEN          2.0        313                1.0
+
+
+
+S44I.Q50A.22WHY DO YOU LIKE THIS BRANCH THE LEAST? E. GENERAL:
+            answer_label answer_value raw_counts relative_frequency
+0  DON'T KNOW; UNDECIDED          1.0          1                0.0
+1             NOT CHOSEN          2.0        313                1.0
+
+
+
+S44I.Q50A.23WHY DO YOU LIKE THIS BRANCH THE LEAST? E. GENERAL:
+                                     answer_label answer_value raw_counts relative_frequency
+0  I LIKE THEM ALL THE SAME; I LIKE THEM ALL WELL          1.0          1                0.0
+1                                      NOT CHOSEN          2.0        313                1.0
+
+
+
+S44I.Q50A.24WHY DO YOU LIKE THIS BRANCH THE LEAST? E. GENERAL:
+  answer_label answer_value raw_counts relative_frequency
+0       OTHERS          1.0          9               0.03
+1   NOT CHOSEN          2.0        305               0.97
+
+
+
+S44I.V52A CHEMICAL WARFARE SCORE:
+  answer_label answer_value raw_counts relative_frequency
+0   SCORE OF 0          0.0        140               0.45
+1   SCORE OF 1          1.0         58               0.18
+2   SCORE OF 2          2.0         42               0.13
+3   SCORE OF 3          3.0         27               0.09
+4   SCORE OF 4          4.0         23               0.07
+5   SCORE OF 5          5.0          8               0.03
+6    NO ANSWER          6.0         16               0.05
+
+
+
+S44I.V52B ENGINEERS SCORE:
+  answer_label answer_value raw_counts relative_frequency
+0   SCORE OF 0          0.0         63                0.2
+1   SCORE OF 1          1.0         67               0.21
+2   SCORE OF 2          2.0         50               0.16
+3   SCORE OF 3          3.0         54               0.17
+4   SCORE OF 4          4.0         45               0.14
+5   SCORE OF 5          5.0         19               0.06
+6    NO ANSWER          6.0         16               0.05
+
+
+
+S44I.V52C MEDICAL DEPARTMENT SCORE:
+  answer_label answer_value raw_counts relative_frequency
+0   SCORE OF 0          0.0         88               0.28
+1   SCORE OF 1          1.0         62                0.2
+2   SCORE OF 2          2.0         31                0.1
+3   SCORE OF 3          3.0         48               0.15
+4   SCORE OF 4          4.0         45               0.14
+5   SCORE OF 5          5.0         24               0.08
+6    NO ANSWER          6.0         16               0.05
+
+
+
+S44I.V52D MILITARY POLICE SCORE:
+  answer_label answer_value raw_counts relative_frequency
+0   SCORE OF 0          0.0        222               0.71
+1   SCORE OF 1          1.0         24               0.08
+2   SCORE OF 2          2.0         17               0.05
+3   SCORE OF 3          3.0         10               0.03
+4   SCORE OF 4          4.0         18               0.06
+5   SCORE OF 5          5.0          7               0.02
+6    NO ANSWER          6.0         16               0.05
+
+
+
+S44I.V52E ORDNANCE SCORE:
+  answer_label answer_value raw_counts relative_frequency
+0   SCORE OF 0          0.0        101               0.32
+1   SCORE OF 1          1.0         65               0.21
+2   SCORE OF 2          2.0         43               0.14
+3   SCORE OF 3          3.0         39               0.12
+4   SCORE OF 4          4.0         34               0.11
+5   SCORE OF 5          5.0         16               0.05
+6    NO ANSWER          6.0         16               0.05
+
+
+
+S44I.V52F QUARTERMASTER CORPS SCORE:
+  answer_label answer_value raw_counts relative_frequency
+0   SCORE OF 0          0.0        123               0.39
+1   SCORE OF 1          1.0         59               0.19
+2   SCORE OF 2          2.0         27               0.09
+3   SCORE OF 3          3.0         32                0.1
+4   SCORE OF 4          4.0         43               0.14
+5   SCORE OF 5          5.0         14               0.04
+6    NO ANSWER          6.0         16               0.05
+
+
+
+S44I.V52G SIGNAL CORPS SCORE:
+  answer_label answer_value raw_counts relative_frequency
+0   SCORE OF 0          0.0         97               0.31
+1   SCORE OF 1          1.0         59               0.19
+2   SCORE OF 2          2.0         40               0.13
+3   SCORE OF 3          3.0         36               0.11
+4   SCORE OF 4          4.0         56               0.18
+5   SCORE OF 5          5.0         10               0.03
+6    NO ANSWER          6.0         16               0.05
+
+
+
+S44I.V52H TRANSPORTATION SCORE:
+  answer_label answer_value raw_counts relative_frequency
+0   SCORE OF 0          0.0         89               0.28
+1   SCORE OF 1          1.0         70               0.22
+2   SCORE OF 2          2.0         43               0.14
+3   SCORE OF 3          3.0         42               0.13
+4   SCORE OF 4          4.0         39               0.12
+5   SCORE OF 5          5.0         15               0.05
+6    NO ANSWER          6.0         16               0.05
+
+
+
+S44I.V52I ARMORED FORCE SCORE:
+   answer_label answer_value raw_counts relative_frequency
+0    SCORE OF 0          0.0          8               0.03
+1    SCORE OF 1          1.0         18               0.06
+2    SCORE OF 2          2.0         20               0.06
+3    SCORE OF 3          3.0         26               0.08
+4    SCORE OF 4          4.0         28               0.09
+5    SCORE OF 5          5.0         37               0.12
+6    SCORE OF 6          6.0         40               0.13
+7    SCORE OF 7          7.0         68               0.22
+8    SCORE OF 8          8.0         47               0.15
+9    SCORE OF 9          9.0          6               0.02
+10    NO ANSWER         10.0         16               0.05
+
+
+
+S44I.V52J COAST ARTILLERY SCORE:
+   answer_label answer_value raw_counts relative_frequency
+0    SCORE OF 0          0.0          7               0.02
+1    SCORE OF 1          1.0         19               0.06
+2    SCORE OF 2          2.0         33               0.11
+3    SCORE OF 3          3.0         25               0.08
+4    SCORE OF 4          4.0         30                0.1
+5    SCORE OF 5          5.0         41               0.13
+6    SCORE OF 6          6.0         45               0.14
+7    SCORE OF 7          7.0         44               0.14
+8    SCORE OF 8          8.0         46               0.15
+9    SCORE OF 9          9.0          8               0.03
+10    NO ANSWER         10.0         16               0.05
+
+
+
+S44I.Q52K FIELD ARTILLERY SCORE:
+   answer_label answer_value raw_counts relative_frequency
+0    SCORE OF 0          0.0          7               0.02
+1    SCORE OF 1          1.0         22               0.07
+2    SCORE OF 2          2.0         15               0.05
+3    SCORE OF 3          3.0         22               0.07
+4    SCORE OF 4          4.0         31                0.1
+5    SCORE OF 5          5.0         39               0.12
+6    SCORE OF 6          6.0         49               0.16
+7    SCORE OF 7          7.0         63                0.2
+8    SCORE OF 8          8.0         44               0.14
+9    SCORE OF 9          9.0          6               0.02
+10    NO ANSWER         10.0         16               0.05
+
+
+
+S44I.Q52L INFANTRY SCORE:
+   answer_label answer_value raw_counts relative_frequency
+0    SCORE OF 0          0.0         29               0.09
+1    SCORE OF 1          1.0         32                0.1
+2    SCORE OF 2          2.0         18               0.06
+3    SCORE OF 3          3.0         17               0.05
+4    SCORE OF 4          4.0         18               0.06
+5    SCORE OF 5          5.0         19               0.06
+6    SCORE OF 6          6.0         29               0.09
+7    SCORE OF 7          7.0         41               0.13
+8    SCORE OF 8          8.0         57               0.18
+9    SCORE OF 9          9.0         38               0.12
+10    NO ANSWER         10.0         16               0.05
+
+
+
+S44I.Q52M AIR CORPS SCORE:
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0         16               0.05
+1    SCORE OF 1          1.0          2               0.01
+2    SCORE OF 2          2.0          3               0.01
+3    SCORE OF 3          3.0          2               0.01
+4    SCORE OF 4          4.0          7               0.02
+5    SCORE OF 5          5.0          4               0.01
+6    SCORE OF 6          6.0          6               0.02
+7    SCORE OF 7          7.0          7               0.02
+8    SCORE OF 8          8.0         11               0.04
+9    SCORE OF 9          9.0         18               0.06
+10  SCORE OF 10         10.0         37               0.12
+11  SCORE OF 11         11.0         79               0.25
+12  SCORE OF 12         12.0        122               0.39
+
+
+
+S44I.V52N.1 HIGHEST SCORE IN SERVICE FORCES:
+              answer_label answer_value raw_counts relative_frequency
+0  C.W. (CHEMICAL WARFARE)          1.0         15               0.05
+1               NOT CHOSEN          2.0        299               0.95
+
+
+
+S44I.V52N.2HIGHEST SCORE IN SERVICE FORCES:
+    answer_label answer_value raw_counts relative_frequency
+0  E (ENGINEERS)          1.0         81               0.26
+1     NOT CHOSEN          2.0        233               0.74
+
+
+
+S44I.V52N.3HIGHEST SCORE IN SERVICE FORCES:
+                answer_label answer_value raw_counts relative_frequency
+0  M.D. (MEDICAL DEPARTMENT)          1.0         60               0.19
+1                 NOT CHOSEN          2.0        254               0.81
+
+
+
+S44I.V52N.4HIGHEST SCORE IN SERVICE FORCES:
+             answer_label answer_value raw_counts relative_frequency
+0  M.P. (MILITARY POLICE)          1.0          7               0.02
+1              NOT CHOSEN          2.0        307               0.98
+
+
+
+S44I.V52N.5HIGHEST SCORE IN SERVICE FORCES:
+   answer_label answer_value raw_counts relative_frequency
+0  O (ORDNANCE)          1.0         40               0.13
+1    NOT CHOSEN          2.0        274               0.87
+
+
+
+S44I.V52N.6HIGHEST SCORE IN SERVICE FORCES:
+        answer_label answer_value raw_counts relative_frequency
+0  Q (QUARTERMASTER)          1.0         27               0.09
+1         NOT CHOSEN          2.0        287               0.91
+
+
+
+S44I.V52N.7HIGHEST SCORE IN SERVICE FORCES:
+  answer_label answer_value raw_counts relative_frequency
+0   S (SIGNAL)          1.0         41               0.13
+1   NOT CHOSEN          2.0        273               0.87
+
+
+
+S44I.V52N.8HIGHEST SCORE IN SERVICE FORCES:
+                         answer_label answer_value raw_counts relative_frequency
+0  THREE OR MORE ARE TIED FOR HIGHEST          1.0         72               0.23
+1                          NOT CHOSEN          2.0        242               0.77
+
+
+
+S44I.V52N.9HIGHEST SCORE IN SERVICE FORCES:
+                                           answer_label answer_value raw_counts relative_frequency
+0  NOTHING CODED BECAUSE FIVE OR MORE PAIRS CROSSED OUT          1.0         16               0.05
+1                                            NOT CHOSEN          2.0        298               0.95
+
+
+
+FORM..2FORM.
+        answer_label answer_value raw_counts relative_frequency
+0  S-0XXX - INFANTRY          3.0        314                1.0
+
+
+
+S44I.V52O.1 LOWEST SCORE IN SERVICE FORCES:
+              answer_label answer_value raw_counts relative_frequency
+0  C.W. (CHEMICAL WARFARE)          1.0         37               0.12
+1               NOT CHOSEN          2.0        277               0.88
+
+
+
+S44I.V52O.2LOWEST SCORE IN SERVICE FORCES:
+    answer_label answer_value raw_counts relative_frequency
+0  E (ENGINEERS)          1.0         17               0.05
+1     NOT CHOSEN          2.0        297               0.95
+
+
+
+S44I.V52O.3LOWEST SCORE IN SERVICE FORCES:
+                answer_label answer_value raw_counts relative_frequency
+0  M.D. (MEDICAL DEPARTMENT)          1.0         11               0.04
+1                 NOT CHOSEN          2.0        303               0.96
+
+
+
+S44I.V52O.4LOWEST SCORE IN SERVICE FORCES:
+             answer_label answer_value raw_counts relative_frequency
+0  M.P. (MILITARY POLICE)          1.0         93                0.3
+1              NOT CHOSEN          2.0        221                0.7
+
+
+
+S44I.V52O.5LOWEST SCORE IN SERVICE FORCES:
+   answer_label answer_value raw_counts relative_frequency
+0  O (ORDNANCE)          1.0         10               0.03
+1    NOT CHOSEN          2.0        304               0.97
+
+
+
+S44I.V52O.6LOWEST SCORE IN SERVICE FORCES:
+        answer_label answer_value raw_counts relative_frequency
+0  Q (QUARTERMASTER)          1.0         12               0.04
+1         NOT CHOSEN          2.0        302               0.96
+
+
+
+S44I.V52O.7LOWEST SCORE IN SERVICE FORCES:
+  answer_label answer_value raw_counts relative_frequency
+0   S (SIGNAL)          1.0         10               0.03
+1   NOT CHOSEN          2.0        304               0.97
+
+
+
+S44I.V52O.8LOWEST SCORE IN SERVICE FORCES:
+                        answer_label answer_value raw_counts relative_frequency
+0  THREE OR MORE ARE TIED FOR LOWEST          1.0        163               0.52
+1                         NOT CHOSEN          2.0        151               0.48
+
+
+
+S44I.V52O.9LOWEST SCORE IN SERVICE FORCES:
+                                           answer_label answer_value raw_counts relative_frequency
+0  NOTHING CODED BECAUSE FIVE OR MORE PAIRS CROSSED OUT          1.0         17               0.05
+1                                            NOT CHOSEN          2.0        297               0.95
+
+
+
+S44I.V52P.1 HIGHEST SCORE IN GROUND FORCES:
+           answer_label answer_value raw_counts relative_frequency
+0  A.F. (ARMORED FORCE)          1.0         74               0.24
+1            NOT CHOSEN          2.0        240               0.76
+
+
+
+S44I.V52P.2HIGHEST SCORE IN GROUND FORCES:
+             answer_label answer_value raw_counts relative_frequency
+0  C.A. (COAST ARTILLERY)          1.0         73               0.23
+1              NOT CHOSEN          2.0        241               0.77
+
+
+
+S44I.V52P.3HIGHEST SCORE IN GROUND FORCES:
+             answer_label answer_value raw_counts relative_frequency
+0  F.A. (FIELD ARTILLERY)          1.0         56               0.18
+1              NOT CHOSEN          2.0        258               0.82
+
+
+
+S44I.V52P.4HIGHEST SCORE IN GROUND FORCES:
+   answer_label answer_value raw_counts relative_frequency
+0  I (INFANTRY)          1.0        111               0.35
+1    NOT CHOSEN          2.0        203               0.65
+
+
+
+S44I.V52P.5HIGHEST SCORE IN GROUND FORCES:
+                         answer_label answer_value raw_counts relative_frequency
+0  THREE OR MORE ARE TIED FOR HIGHEST          1.0         54               0.17
+1                          NOT CHOSEN          2.0        260               0.83
+
+
+
+S44I.V52P.6HIGHEST SCORE IN GROUND FORCES:
+                                           answer_label answer_value raw_counts relative_frequency
+0  NOTHING CODED BECAUSE FIVE OR MORE PAIRS CROSSED OUT          1.0         16               0.05
+1                                            NOT CHOSEN          2.0        298               0.95
+
+
+
+S44I.V52Q.1 LOWEST SCORE IN GROUND FORCES:
+           answer_label answer_value raw_counts relative_frequency
+0  A.F. (ARMORED FORCE)          1.0         58               0.18
+1            NOT CHOSEN          2.0        256               0.82
+
+
+
+S44I.V52Q.2LOWEST SCORE IN GROUND FORCES:
+             answer_label answer_value raw_counts relative_frequency
+0  C.A. (COAST ARTILLERY)          1.0        101               0.32
+1              NOT CHOSEN          2.0        213               0.68
+
+
+
+S44I.V52Q.3LOWEST SCORE IN GROUND FORCES:
+             answer_label answer_value raw_counts relative_frequency
+0  F.A. (FIELD ARTILLERY)          1.0         56               0.18
+1              NOT CHOSEN          2.0        258               0.82
+
+
+
+S44I.V52Q.4LOWEST SCORE IN GROUND FORCES:
+   answer_label answer_value raw_counts relative_frequency
+0  I (INFANTRY)          1.0         97               0.31
+1    NOT CHOSEN          2.0        217               0.69
+
+
+
+S44I.V52Q.5LOWEST SCORE IN GROUND FORCES:
+                        answer_label answer_value raw_counts relative_frequency
+0  THREE OR MORE ARE TIED FOR LOWEST          1.0         44               0.14
+1                         NOT CHOSEN          2.0        270               0.86
+
+
+
+S44I.V52Q.6LOWEST SCORE IN GROUND FORCES:
+                                           answer_label answer_value raw_counts relative_frequency
+0  NOTHING CODED BECAUSE FIVE OR MORE PAIRS CROSSED OUT          1.0         17               0.05
+1                                            NOT CHOSEN          2.0        297               0.95
+
+
+
+S44I.V52R COMPARISON:
+             answer_label answer_value raw_counts relative_frequency
+0           NOTHING CODED          0.0         17               0.05
+1    AIR, SERVICE, GROUND          1.0         61               0.19
+2    AIR, GROUND, SERVICE          2.0        183               0.58
+3    GROUND, AIR, SERVICE          3.0         15               0.05
+4    GROUND, SERVICE, AIR          4.0          3               0.01
+5    SERVICE, AIR, GROUND          5.0          3               0.01
+6    SERVICE, GROUND, AIR          6.0          1                0.0
+7   GROUND (AIR, SERVICE)          7.0          3               0.01
+8   AIR (GROUND, SERVICE)          8.0          8               0.03
+9   SERVICE (GROUND, AIR)          9.0          3               0.01
+10        EVERYTHING ELSE         10.0          5               0.02
+11             TWO ON TOP         11.0         11               0.04
+12            MEANINGLESS         12.0          1                0.0
+
+
+
+S44I.Q58A WHICH OF THE FOLLOWING DUTIES OR JOBS ARE PERFORMED MAINLY BY THE QUARTERMASTER CORPS? INSPECTS MEAT (SCORE AS -1) SUPPLIES CLOTHING (SCORE AS +1) TESTS WEAPONS AND AMMUNITION (SCORE AS -1) TRAINS COOKS AND BAKERS (SCORE AS +1)
+  answer_label answer_value raw_counts relative_frequency
+0           +2          1.0         13               0.04
+1           +1          2.0        182               0.58
+2            0          3.0         89               0.28
+3           -1          4.0         28               0.09
+4           -2          5.0          2               0.01
+
+
+
+S44I.Q58B WHICH OF THE FOLLOWING DUTIES OR JOBS ARE PERFORMED MAINLY BY THE ORDNANCE DEPARTMENT? REPAIRS TRUCKS AND WEAPONS (SCORE AS +1) REPAIRS TELEGRAPH LINES (SCORE AS -1) BUILDS LANDING FIELDS (SCORE AS -1) MANUFACTURES AMMUNITION (SCORE AS +1)
+  answer_label answer_value raw_counts relative_frequency
+0           +2          1.0         76               0.24
+1           +1          2.0        192               0.61
+2            0          3.0         37               0.12
+3           -1          4.0          9               0.03
+
+
+
+S44I.Q58C WHICH OF THE FOLLOWING DUTIES OR JOBS ARE PERFORMED MAINLY BY THE MEDICAL DEPARTMENT? OPERATES FIELD HOSPITALS (SCORE AS +1) SELLS INSURANCE (SCORE AS -1) DRIVES AMBULANCES (SCORE AS +1) STERILIZES CLOTHING (SCORE AS -1)
+  answer_label answer_value raw_counts relative_frequency
+0           +2          1.0         85               0.27
+1           +1          2.0        209               0.67
+2            0          3.0         17               0.05
+3           -1          4.0          2               0.01
+4           -2          5.0          1                0.0
+
+
+
+S44I.Q58D WHICH OF THE FOLLOWING DUTIES OR JOBS ARE PERFORMED MAINLY BY THE SIGNAL CORPS? PLOTS ENEMY ARTILLERY FIRE (SCORE AS -1) OPERATES AIR CRAFT WARNING SERVICE (SCORE AS +1) PLANS TROOP MOVEMENTS (SCORE AS -1) OPERATES MESSAGE CENTERS (SCORE AS +1)
+  answer_label answer_value raw_counts relative_frequency
+0           +2          1.0         84               0.27
+1           +1          2.0        168               0.54
+2            0          3.0         34               0.11
+3           -1          4.0         26               0.08
+4           -2          5.0          2               0.01
+
+
+
+S44I.Q58E WHICH OF THE FOLLOWING DUTIES OR JOBS ARE PERFORMED MAINLY BY THE CHEMICAL WARFARE SERVICE? DECONTAMINATION (SCORE AS +1) TREATS GAS WOUNDS (SCORE AS -1) STERILIZES CLOTHING (SCORE AS -1) OPERATES FLAME THROWERS (SCORE AS +1)
+  answer_label answer_value raw_counts relative_frequency
+0           +2          1.0         44               0.14
+1           +1          2.0        148               0.47
+2            0          3.0         66               0.21
+3           -1          4.0         51               0.16
+4           -2          5.0          5               0.02
+
+
+
+S44I.Q58F WHICH OF THE FOLLOWING DUTIES OR JOBS ARE PERFORMED MAINLY BY THE FIELD ARTILLERY? LAYS LAND MINES (SCORE AS -1) COUNTERBATTERY FIRE (SCORE AS +1) PLOTS ENEMY ARTILLERY FIRE (SCORE AS +1) FIRES ANTI-AIRCRAFT GUNS (SCORE AS -1)
+  answer_label answer_value raw_counts relative_frequency
+0           +2          1.0         66               0.21
+1           +1          2.0        177               0.56
+2            0          3.0         40               0.13
+3           -1          4.0         29               0.09
+4           -2          5.0          2               0.01
+
+
+
+S44I.Q58G WHICH OF THE FOLLOWING DUTIES OR JOBS ARE PERFORMED MAINLY BY THE ENGINEERS? BUILDS BRIDGES (SCORE AS +1) LAYS LAND MINES (SCORE AS +1) SURVEYS ENEMY POSITIONS (SCORE AS -1) PUTS UP TELEGRAPH LINES (SCORE AS -1)
+  answer_label answer_value raw_counts relative_frequency
+0           +2          1.0         67               0.21
+1           +1          2.0        189                0.6
+2            0          3.0         45               0.14
+3           -1          4.0         12               0.04
+4           -2          5.0          1                0.0
+
+
+
+S44I.Q58H WHICH OF THE FOLLOWING DUTIES OR JOBS ARE PERFORMED MAINLY BY THE ARMORED FORCES? LAYS LAND MINES (SCORE AS -1) PROTECTS TROOPS FROM MECHANIZED ATTACKS (SCORE AS +1) TRANSPORTS TROOPS TO THE FRONT (SCORE AS -1) USES HEAVY TANKS (SCORE AS +1)
+  answer_label answer_value raw_counts relative_frequency
+0           +2          1.0        110               0.35
+1           +1          2.0        175               0.56
+2            0          3.0         18               0.06
+3           -1          4.0         11               0.04
+
+
+
+S44I.Q58I WHICH OF THE FOLLOWING DUTIES OR JOBS ARE PERFORMED MAINLY BY THE AIR CORPS? BUILDS LANDING FIELDS (SCORE AS -1) MAKES PHOTOGRAPHIC MAPS (SCORE AS +1) TESTS NEW AIRPLANES (SCORE AS +1) OPERATES ANTI-AIRCRAFT GUNS (SCORE AS -1)
+  answer_label answer_value raw_counts relative_frequency
+0           +2          1.0         87               0.28
+1           +1          2.0        178               0.57
+2            0          3.0         34               0.11
+3           -1          4.0         14               0.04
+4           -2          5.0          1                0.0
+
+
+
+S44I.Q58J WHICH OF THE FOLLOWING DUTIES OR JOBS ARE PERFORMED MAINLY BY THE MILITARY POLICE? MAKES TROOP INSPECTIONS (SCORE AS -1) SOLVES CODES AND SECRET MESSAGES (SCORE AS -1) CONTROLS TRAFFIC IN THE FIELD (SCORE AS +1) PRESERVES LAW AND ORDER (SCORE AS +1)
+  answer_label answer_value raw_counts relative_frequency
+0           +2          1.0        115               0.37
+1           +1          2.0        176               0.56
+2            0          3.0         17               0.05
+3           -1          4.0          6               0.02
+
+
+
+S44I.Q58K WHICH OF THE FOLLOWING DUTIES OR JOBS ARE PERFORMED MAINLY BY THE TRANSPORTATION CORPS? SHIPS MEN OVERSEAS (SCORE AS +1) LAYS RAILROAD TRACKS (SCORE AS -1) MOVES ADVANCE MATERIALS (SCORE AS +1) REPAIRS TRUCKS (SCORE AS -1)
+  answer_label answer_value raw_counts relative_frequency
+0           +2          1.0         92               0.29
+1           +1          2.0        165               0.53
+2            0          3.0         41               0.13
+3           -1          4.0         14               0.04
+4           -2          5.0          2               0.01
+
+
+
+S44I.Q58L WHICH OF THE FOLLOWING DUTIES OR JOBS ARE PERFORMED MAINLY BY THE COAST ARTILLERY CORPS? LAYS OFF-SHORE MINES (SCORE AS +1) GATHERS WEATHER INFORMATION (SCORE AS -1) LAYS LAND MINES (SCORE AS -1) FIRES ANTI-AIRCRAFT GUNS (SCORE AS +1)
+  answer_label answer_value raw_counts relative_frequency
+0           +2          1.0         69               0.22
+1           +1          2.0        199               0.63
+2            0          3.0         38               0.12
+3           -1          4.0          8               0.03
+
+
+
+S44I.Q58M WHICH OF THE FOLLOWING DUTIES OR JOBS ARE PERFORMED MAINLY BY THE INFANTRY? FORMS THE PARATROOPS (SCORE AS +1) USES RIFLE AND BAYONET (SCORE AS +1) DRIVES AMBULANCES (SCORE AS -1) DESTROYS MINE FIELDS (SCORE AS -1)
+  answer_label answer_value raw_counts relative_frequency
+0           +2          1.0         51               0.16
+1           +1          2.0        214               0.68
+2            0          3.0         46               0.15
+3           -1          4.0          3               0.01
+
+
+
+S44I.V60 PERSONAL ADJUSTMENT SCORE E. DERIVED FROM QUESTIONS 26, 27, 30, 31, 32, 33.
+          answer_label answer_value raw_counts relative_frequency
+0           SCORE OF 4          4.0         32                0.1
+1           SCORE OF 5          5.0         28               0.09
+2           SCORE OF 6          6.0         26               0.08
+3  SCORE NOT TABULATED          7.0          2               0.01
+4           SCORE OF 0          0.0         36               0.11
+5           SCORE OF 1          1.0         37               0.12
+6           SCORE OF 2          2.0         92               0.29
+7           SCORE OF 3          3.0         61               0.19
+
+
+
+S44I.V61 JOB ADJUSTMENT SCORE E. DERIVED FROM QUESTIONS 18, 19, 21, 26, 28, 29.
+          answer_label answer_value raw_counts relative_frequency
+0           SCORE OF 0          0.0         33               0.11
+1           SCORE OF 1          1.0         93                0.3
+2           SCORE OF 2          2.0         83               0.26
+3           SCORE OF 3          3.0         49               0.16
+4           SCORE OF 4          4.0         23               0.07
+5           SCORE OF 5          5.0         19               0.06
+6           SCORE OF 6          6.0         12               0.04
+7  SCORE NOT TABULATED          7.0          2               0.01
+
+
+
+S44I.V62 COMBAT ITEMS SCORE E. DERIVED FROM QUESTIONS 34, 35, 36.
+          answer_label answer_value raw_counts relative_frequency
+0           SCORE OF 0          0.0        111               0.35
+1           SCORE OF 1          1.0         67               0.21
+2           SCORE OF 2          2.0         70               0.22
+3           SCORE OF 3          3.0         64                0.2
+4  SCORE NOT TABULATED          4.0          2               0.01
+
+
+
+S44I.V63 CROSS-SECTION IDENTIFICATION:
+      answer_label answer_value raw_counts relative_frequency
+0    CROSS-SECTION          1.0        159               0.51
+1  ALL OTHER CASES          2.0        155               0.49
+
+
+
+S44I.V65 CAMP IDENTIFICATION:
+                   answer_label answer_value raw_counts relative_frequency
+0  CAMP GORDON-JOHNSON, FLORIDA          1.0         92               0.29
+1         CAMP MCCOY, WISCONSIN          2.0         87               0.28
+2                 CAMP VAN DORN          3.0         63                0.2
+3            CAMP WHITE, OREGON          4.0         72               0.23
+
+
+

@@ -1,0 +1,383 @@
+{
+  "S196.Q1": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "PRIVATE OR PRIVATE 1ST CLASS",
+    "2.0": "CORPORAL (TECHNICIAN 5TH GRADE)",
+    "3.0": "SERGEANT (ANY GRADE)",
+    "4.0": "NO ANSWER"
+  },
+  "S196.Q2": {
+    "1.0": "LESS THAN 5TH GRADE",
+    "2.0": "FINISHED 5TH OR 6TH GRADE",
+    "3.0": "FINISHED 7TH OR 8TH GRADE",
+    "4.0": "SOME HIGH SCHOOL, BUT DID NOT GRADUATE",
+    "5.0": "GRADUATED FROM HIGH SCHOOL",
+    "6.0": "SOME COLLEGE, BUT DID NOT FINISH",
+    "7.0": "GRADUATED FROM COLLEGE"
+  },
+  "S196.Q3": {
+    "0.0": "NO ANSWER",
+    "1.0": "NORTH EAST",
+    "2.0": "BORDER STATES",
+    "3.0": "SOUTH",
+    "4.0": "MID-WEST",
+    "5.0": "WEST"
+  },
+  "S196.Q4": {
+    "0.0": "NO ANSWER",
+    "1.0": "USUALLY DO IT MYSELF",
+    "2.0": "USUALLY GIVE IT TO GI LAUNDRY",
+    "3.0": "USUALLY GIVE IT TO CIVILIANS",
+    "4.0": "CIVILIANS AND MYSELF",
+    "5.0": "OTHER"
+  },
+  "S196.Q5": {
+    "0.0": "NO CODE OR NO DATA",
+    "2.0": "NO",
+    "NaN": "QUESTIONS 6 AND 7 NOT CODED.",
+    "1.0": "YES",
+    "3.0": "NO ANSWER"
+  },
+  "S196.Q8": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY SATISFIED",
+    "NaN": "QUESTION 9 NOT CODED.",
+    "2.0": "FAIRLY SATISFIED",
+    "3.0": "SOMEWHAT DISSATISFIED",
+    "4.0": "VERY DISSATISFIED",
+    "5.0": "NO ANSWER"
+  },
+  "S196.Q10": {
+    "0.0": "NO ANSWER",
+    "1.0": "USUALLY GET ALL I WANT TO EAT",
+    "2.0": "USUALLY DON'T GET ENOUGH TO EAT"
+  },
+  "S196.Q11": {
+    "0.0": "NO ANSWER",
+    "1.0": "NIGHT SHIFT",
+    "2.0": "DAY SHIFT"
+  },
+  "S196.Q12": {
+    "0.0": "NO ANSWER",
+    "1.0": "SANDWICH LUNCH",
+    "2.0": "HOT LUNCH",
+    "3.0": "K RATION",
+    "4.0": "C RATION",
+    "5.0": "OTHER",
+    "6.0": "NONE"
+  },
+  "S196.Q13": {
+    "1.0": "VERY SATISFIED",
+    "2.0": "FAIRLY SATISFIED",
+    "4.0": "VERY DISSATISFIED",
+    "NaN": "QUESTION 14 NOT CODED.",
+    "0.0": "NO ANSWER",
+    "3.0": "SOMEWHAT DISSATISFIED"
+  },
+  "S196.Q15": {
+    "1.0": "VERY SATISFIED",
+    "2.0": "FAIRLY SATISFIED",
+    "4.0": "VERY DISSATISFIED",
+    "NaN": "QUESTION 16 NOT CODED.",
+    "0.0": "NO ANSWER",
+    "3.0": "SOMEWHAT DISSATISFIED"
+  },
+  "S196.Q17": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY SATISFIED",
+    "2.0": "FAIRLY SATISFIED",
+    "3.0": "SOMEWHAT DISSATISFIED",
+    "4.0": "VERY DISSATISFIED",
+    "5.0": "NO ANSWER"
+  },
+  "S196.Q18": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY SATISFIED",
+    "2.0": "FAIRLY SATISFIED",
+    "3.0": "SOMEWHAT DISSATISFIED",
+    "4.0": "VERY DISSATISFIED"
+  },
+  "S196.Q19": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY SATISFIED",
+    "2.0": "FAIRLY SATISFIED",
+    "3.0": "SOMEWHAT DISSATISFIED",
+    "4.0": "VERY DISSATISFIED"
+  },
+  "S196.Q20": {
+    "0.0": "NO ANSWER",
+    "1.0": "1 TIME",
+    "2.0": "2",
+    "3.0": "2 TO 4",
+    "4.0": "3 TO 5",
+    "5.0": "4 TO 6",
+    "6.0": "5 TO 7",
+    "7.0": "6 TO 8",
+    "8.0": "8",
+    "9.0": "9 OR MORE TIMES",
+    "10.0": "NONE"
+  },
+  "S196.Q21": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY SATISFIED",
+    "2.0": "FAIRLY SATISFIED",
+    "3.0": "SOMEWHAT DISSATISFIED",
+    "4.0": "VERY DISSATISFIED",
+    "5.0": "NO ANSWER"
+  },
+  "S196.Q22": {
+    "1.0": "VERY SATISFIED",
+    "2.0": "FAIRLY SATISFIED",
+    "5.0": "DON'T NEED TRANSPORTATION TO GET TO WORK",
+    "6.0": "NO ANSWER",
+    "NaN": "QUESTION 23 NOT CODED.",
+    "0.0": "NO CODE OR NO DATA",
+    "3.0": "SOMEWHAT DISSATISFIED",
+    "4.0": "VERY DISSATISFIED"
+  },
+  "S196.Q24": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY SATISFIED",
+    "2.0": "FAIRLY SATISFIED",
+    "3.0": "SOMEWHAT DISSATISFIED",
+    "4.0": "VERY DISSATISFIED"
+  },
+  "S196.Q25": {
+    "0.0": "NO ANSWER",
+    "1.0": "A VERY GOOD CHANCE",
+    "2.0": "A FAIRLY GOOD CHANCE",
+    "3.0": "NOT MUCH OF A CHANCE",
+    "4.0": "NO CHANCE AT ALL",
+    "5.0": "UNDECIDED"
+  },
+  "S196.Q26": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY WELL",
+    "NaN": "QUESTIONS 27 AND 28 TO BE CODED TOGETHER.",
+    "2.0": "FAIRLY WELL",
+    "3.0": "NOT VERY WELL",
+    "4.0": "NOT WELL AT ALL",
+    "5.0": "NO ANSWER"
+  },
+  "S196.Q29": {
+    "0.0": "NO CODE OR NO DATA",
+    "2.0": "NO",
+    "NaN": "QUESTION 30 NOT CODED.",
+    "1.0": "YES",
+    "3.0": "NO ANSWER"
+  },
+  "S196.Q31": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I USUALLY PUT ALL I HAVE INTO IT",
+    "2.0": "I USUALLY WORK HARD BUT COULD DO MORE",
+    "3.0": "I USUALLY WORK JUST HARD ENOUGH TO GET BY",
+    "4.0": "NO ANSWER"
+  },
+  "S196.Q32": {
+    "0.0": "NO ANSWER",
+    "1.0": "TOO MUCH",
+    "2.0": "ABOUT RIGHT AMOUNT",
+    "3.0": "TOO LITTLE"
+  },
+  "S196.Q33": {
+    "0.0": "NO ANSWER",
+    "1.0": "NO, NEVER",
+    "2.0": "YES, SOMETIMES",
+    "3.0": "YES, FREQUENTLY"
+  },
+  "S196.Q34": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT IS USUALLY EASY TO TELL SOMEONE WHO CAN PUT IDEA INTO USE",
+    "2.0": "IT IS USUALLY HARD TO TELL SOMEONE WHO CAN PUT IDEA INTO USE"
+  },
+  "S196.Q35": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALWAYS",
+    "2.0": "USUALLY",
+    "3.0": "RARELY",
+    "4.0": "NEVER",
+    "5.0": "DON'T KNOW"
+  },
+  "S196.Q36": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I DON'T KNOW IF THEY ARE OR NOT",
+    "2.0": "YES, THESE RECORDS ARE KEPT",
+    "3.0": "NO, THESE RECORDS ARE NOT KEPT",
+    "4.0": "NO ANSWER"
+  },
+  "S196.Q37": {
+    "0.0": "NO ANSWER",
+    "1.0": "NO, I DO NOT KNOW",
+    "2.0": "MY OUTFIT PUTS OUT MORE TONNAGE THAN MOST OF THE OTHERS",
+    "3.0": "MY OUTFIT PUTS OUT ABOUT THE SAME AS OTHERS",
+    "4.0": "MY OUTFIT PUTS OUT LESS TONNAGE THAN MOST OF THE OTHERS"
+  },
+  "S196.Q38": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I THINK IT HELPS VERY MUCH",
+    "2.0": "I THINK IT HELPS SOME",
+    "3.0": "I DON'T THINK IT HELPS AT ALL",
+    "4.0": "NO ANSWER"
+  },
+  "S196.Q39": {
+    "0.0": "NO ANSWER",
+    "1.0": "7 HOURS",
+    "2.0": "8 HOURS",
+    "3.0": "9 HOURS",
+    "4.0": "10 HOURS",
+    "5.0": "11 HOURS",
+    "6.0": "12 HOURS",
+    "7.0": "13 HOURS",
+    "8.0": "OTHER",
+    "9.0": "UNDER 7 HOURS",
+    "10.0": "OVER 13 HOURS"
+  },
+  "S196.Q40": {
+    "0.0": "NO ANSWER",
+    "1.0": "1/2 HOUR WAITING AROUND",
+    "2.0": "1 HOUR WAITING AROUND",
+    "3.0": "1 1/2 HOURS WAITING AROUND",
+    "4.0": "2 HOURS WAITING AROUND",
+    "5.0": "2 1/2 HOURS WAITING AROUND",
+    "6.0": "3 HOURS WAITING AROUND",
+    "7.0": "3 1/2 HOURS WAITING AROUND",
+    "8.0": "4 HOURS WAITING AROUND",
+    "9.0": "4 1/2 HOURS WAITING AROUND",
+    "10.0": "NO HOURS WAITING AROUND",
+    "11.0": "INTERPRETED QUESTION INCORRECTLY"
+  },
+  "S196.Q41": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, TOO MANY OF THEM DO SEEM UNNECESSARY",
+    "2.0": "NO, NOT TOO MANY OF THEM SEEM UNNECESSARY"
+  },
+  "S196.Q42": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S196.Q43": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALWAYS",
+    "2.0": "USUALLY",
+    "3.0": "RARELY",
+    "4.0": "NEVER"
+  },
+  "S196.Q44": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY GOOD",
+    "2.0": "FAIRLY GOOD",
+    "3.0": "NOT SO GOOD",
+    "4.0": "NOT GOOD AT ALL"
+  },
+  "S196.Q45": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT MORE COULD BE DONE",
+    "2.0": "SOME MORE COULD BE DONE",
+    "3.0": "EVERYTHING POSSIBLE IS BEING DONE NOW"
+  },
+  "S196.Q46": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S196.Q47": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED"
+  },
+  "S196.Q48": {
+    "0.0": "NO ANSWER",
+    "1.0": "I AM BETTER OFF NOW",
+    "2.0": "I AM WORSE OFF NOW",
+    "3.0": "ABOUT THE SAME"
+  },
+  "S196.Q49": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, VERY PROUD",
+    "2.0": "YES, FAIRLY PROUD",
+    "3.0": "NO, NOT VERY PROUD",
+    "4.0": "UNDECIDED"
+  },
+  "S196.Q50": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY HIGH",
+    "2.0": "FAIRLY HIGH",
+    "3.0": "JUST SO-SO",
+    "4.0": "FAIRLY LOW",
+    "5.0": "VERY LOW"
+  },
+  "S196.Q51": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH SO",
+    "2.0": "FAIRLY MUCH SO",
+    "3.0": "NOT VERY MUCH",
+    "4.0": "NOT AT ALL"
+  },
+  "S196.Q52": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALWAYS",
+    "2.0": "USUALLY",
+    "3.0": "ABOUT HALF THE TIME",
+    "4.0": "RARELY",
+    "5.0": "NEVER"
+  },
+  "S196.Q53": {
+    "0.0": "NO ANSWER",
+    "1.0": "HE GETS TOO MUCH PUNISHMENT",
+    "2.0": "HE GETS ABOUT WHAT HE SHOULD",
+    "3.0": "HE GET TOO LITTLE PUNISHMENT"
+  },
+  "S196.Q54": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S196.Q55": {
+    "0.0": "NO ANSWER",
+    "NaN": "QUESTION 56 NOT CODED.",
+    "1.0": "YES, TOO MANY OF THEM DO SEEM UNNECESSARY",
+    "2.0": "NO, NOT TOO MANY OF THEM SEEM UNNECESSARY"
+  },
+  "S196.Q57": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY FAVORABLE",
+    "2.0": "FAIRLY FAVORABLE",
+    "3.0": "RATHER UNFAVORABLE",
+    "4.0": "VERY UNFAVORABLE"
+  },
+  "S196.Q58": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY FAVORABLE",
+    "2.0": "FAIRLY FAVORABLE",
+    "3.0": "RATHER UNFAVORABLE",
+    "4.0": "VERY UNFAVORABLE",
+    "5.0": "NO ANSWER"
+  },
+  "S196.Q59": {
+    "0.0": "NO ANSWER",
+    "2.0": "TREATED ABOUT RIGHT",
+    "NaN": "QUESTIONS 60 AND 61 NOT CODED.",
+    "1.0": "TREATED TOO WELL",
+    "3.0": "NOT TREATED WELL ENOUGH"
+  },
+  "S196.V62": {
+    "1.0": "LE HAVRE CROSS-SECTION COMPANIES",
+    "2.0": "ROUEN CROSS-SECTION COMPANIES",
+    "3.0": "CHERBOURG CROSS-SECTION COMPANIES"
+  },
+  "S196.V63": {
+    "1.0": "MEN WITH HIGH JOB MORALE",
+    "2.0": "ALL OTHERS"
+  },
+  "S196.V64": {
+    "1.0": "WHITE COMPANY",
+    "2.0": "NEGRO COMPANY"
+  },
+  "S196.V65": {
+    "1.0": "LE HAVRE",
+    "2.0": "ROUEN",
+    "3.0": "CHERBOURG"
+  }
+}

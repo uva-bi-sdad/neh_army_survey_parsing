@@ -1,0 +1,731 @@
+FORMFORM:
+  answer_label answer_value raw_counts relative_frequency
+0       S-195B          2.0        295                1.0
+
+
+
+S195B.Q1 WHAT IS YOUR ARMY RANK OR GRADE?
+                                               answer_label answer_value raw_counts relative_frequency
+0                                                 NO ANSWER          0.0          4               0.01
+1                                                   PRIVATE          1.0         63               0.21
+2                                       PRIVATE FIRST CLASS          2.0         84               0.28
+3  NONCOM (CORPORAL OR ANY GRADE OF SERGEANT OR TECHNICIAN)          3.0        142               0.48
+4                                  SOME OTHER RANK OR GRADE          4.0          2               0.01
+
+
+
+S195B.Q2 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0          2               0.01
+1  19 YEARS OR YOUNGER          1.0          6               0.02
+2       20 TO 24 YEARS          2.0         71               0.24
+3       25 TO 29 YEARS          3.0         84               0.28
+4       30 TO 34 YEARS          4.0         62               0.21
+5    35 YEARS OR OLDER          5.0         70               0.24
+
+
+
+S195B.Q3 HOW FAR DID YOU GO IN SCHOOL?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0          5               0.02
+1                  LESS THAN 6TH GRADE          1.0         14               0.05
+2                   FINISHED 6TH GRADE          2.0          7               0.02
+3                   FINISHED 7TH GRADE          3.0         18               0.06
+4                   FINISHED 8TH GRADE          4.0         34               0.12
+5  SOME HIGH SCHOOL BUT DID NOT FINISH          5.0         63               0.21
+6           GRADUATED FROM HIGH SCHOOL          6.0         78               0.26
+7      SOME COLLEGE BUT DID NOT FINISH          7.0         56               0.19
+8               GRADUATED FROM COLLEGE          8.0         20               0.07
+
+
+
+S195B.Q4A HOW DO YOU FEEL ABOUT THE IMPORTANCE OF THE WORK YOU ARE DOING RIGHT NOW AS COMPARED WITH OTHER JOBS YOU MIGHT BE DOING IN THE ARMY?
+                                                 answer_label answer_value raw_counts relative_frequency
+0                                                   NO ANSWER          0.0          7               0.02
+1              IT IS AS IMPORTANT AS ANY OTHER JOB I COULD DO          1.0        117                0.4
+2  IT IS FAIRLY IMPORTANT, BUT I COULD DO MORE IMPORTANT WORK          2.0        113               0.38
+3                            IT HARDLY SEEMS IMPORTANT AT ALL          3.0         58                0.2
+
+
+
+S195B.Q4B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0          5               0.02
+1    VERY STRONGLY          1.0        174               0.59
+2  FAIRLY STRONGLY          2.0        100               0.34
+3     NOT STRONGLY          3.0         16               0.05
+
+
+
+S195B.Q5A HOW INTERESTED ARE YOU IN YOUR ARMY JOB?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0          6               0.02
+1   VERY MUCH INTERESTED          1.0        121               0.41
+2  A LITTLE BUT NOT MUCH          2.0        104               0.35
+3  NOT INTERESTED AT ALL          3.0         64               0.22
+
+
+
+S195B.Q5B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0          7               0.02
+1    VERY STRONGLY          1.0        178                0.6
+2  FAIRLY STRONGLY          2.0         91               0.31
+3     NOT STRONGLY          3.0         19               0.06
+
+
+
+S195B.Q6A HOW SATISFIED ARE YOU ABOUT BEING IN YOUR PRESENT ARMY JOB INSTEAD OF SOME OTHER ARMY JOB?
+                            answer_label answer_value raw_counts relative_frequency
+0                              NO ANSWER          0.0          5               0.02
+1                         VERY SATISFIED          1.0         79               0.27
+2                              SATISFIED          2.0         88                0.3
+3  IT DOES NOT MAKE ANY DIFFERENCE TO ME          3.0         40               0.14
+4                           DISSATISFIED          4.0         50               0.17
+5                      VERY DISSATISFIED          5.0         33               0.11
+
+
+
+S195B.Q6B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0          9               0.03
+1    VERY STRONGLY          1.0        168               0.57
+2  FAIRLY STRONGLY          2.0         94               0.32
+3     NOT STRONGLY          3.0         24               0.08
+
+
+
+S195B.Q7A WOULD YOU CHANGE TO SOME OTHER ARMY JOB IF GIVEN A CHANCE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          5               0.02
+1          YES          1.0        139               0.47
+2           NO          2.0         86               0.29
+3    UNDECIDED          3.0         65               0.22
+
+
+
+S195B.Q7B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0          8               0.03
+1    VERY STRONGLY          1.0        187               0.63
+2  FAIRLY STRONGLY          2.0         70               0.24
+3     NOT STRONGLY          3.0         30                0.1
+
+
+
+S195B.Q8A DO YOU FEEL THAT EVERYTHING POSSIBLE HAS BEEN DONE TO PLACE YOU IN THE ARMY JOB WHERE YOU BEST FIT?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          5               0.02
+1          YES          1.0        115               0.39
+2           NO          2.0        148                0.5
+3    UNDECIDED          3.0         27               0.09
+
+
+
+S195B.Q8B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0          9               0.03
+1    VERY STRONGLY          1.0        201               0.68
+2  FAIRLY STRONGLY          2.0         67               0.23
+3     NOT STRONGLY          3.0         18               0.06
+
+
+
+S195B.Q9A DO YOU CONSIDER YOUR OWN PRESENT JOB OR DUTY IN THE ARMY AN IMPORTANT ONE IN THE WAR EFFORT?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0          5               0.02
+1        VERY IMPORTANT          1.0         84               0.28
+2      PRETTY IMPORTANT          2.0         85               0.29
+3      NOT SO IMPORTANT          3.0         63               0.21
+4  NOT IMPORTANT AT ALL          4.0         51               0.17
+5             UNDECIDED          5.0          7               0.02
+
+
+
+S195B.Q9B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0          7               0.02
+1    VERY STRONGLY          1.0        177                0.6
+2  FAIRLY STRONGLY          2.0         96               0.33
+3     NOT STRONGLY          3.0         15               0.05
+
+
+
+S195B.Q10A ON THE WHOLE, DO YOU THINK THE ARMY IS GIVING YOU A CHANCE TO SHOW WHAT YOU CAN DO?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0          2               0.01
+1    A VERY GOOD CHANCE          1.0         61               0.21
+2  A FAIRLY GOOD CHANCE          2.0         87               0.29
+3  NOT MUCH OF A CHANCE          3.0         75               0.25
+4      NO CHANCE AT ALL          4.0         60                0.2
+5             UNDECIDED          5.0         10               0.03
+
+
+
+S195B.Q10B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0          5               0.02
+1    VERY STRONGLY          1.0        189               0.64
+2  FAIRLY STRONGLY          2.0         88                0.3
+3     NOT STRONGLY          3.0         13               0.04
+
+
+
+S195B.Q11A DO YOU USUALLY FEEL THAT WHAT YOU ARE DOING IN THE ARMY IS WORTHWHILE OR NOT?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0          4               0.01
+1  I USUALLY FEEL IT IS NOT WORTHWHILE          1.0         81               0.27
+2      I USUALLY FEEL IT IS WORTHWHILE          2.0        177                0.6
+3                            UNDECIDED          3.0         33               0.11
+
+
+
+S195B.Q11B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0          5               0.02
+1    VERY STRONGLY          1.0        181               0.61
+2  FAIRLY STRONGLY          2.0         90               0.31
+3     NOT STRONGLY          3.0         19               0.06
+
+
+
+S195B.Q12A WHICH OF THE FOLLOWING WOULD YOU SAY BEST APPLIES TO YOUR JOB?
+                                                  answer_label answer_value raw_counts relative_frequency
+0                                                    NO ANSWER          0.0          5               0.02
+1                                   TIME ALWAYS PASSES QUICKLY          1.0         56               0.19
+2                         TIME PASSES QUICKLY MOST OF THE TIME          2.0         87               0.29
+3  ENJOY WORKING PART OF THE TIME, BUT IT DRAGS AT OTHER TIMES          3.0         77               0.26
+4                                  TIME DRAGS MOST OF THE TIME          4.0         46               0.16
+5                                            TIME ALWAYS DRAGS          5.0         24               0.08
+
+
+
+S195B.Q12B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0          7               0.02
+1    VERY STRONGLY          1.0        181               0.61
+2  FAIRLY STRONGLY          2.0         96               0.33
+3     NOT STRONGLY          3.0         11               0.04
+
+
+
+S195B.Q13A WOULD YOU HONESTLY SAY THAT YOU USUALLY PUT ALL YOU HAVE INTO YOUR ARMY DUTIES, OR DO YOU USUALLY WORK JUST HARD ENOUGH TO GET BY?
+                                answer_label answer_value raw_counts relative_frequency
+0                                  NO ANSWER          0.0          7               0.02
+1           I USUALLY PUT ALL I HAVE INTO IT          1.0        199               0.67
+2  I USUALLY WORK JUST HARD ENOUGH TO GET BY          2.0         71               0.24
+3                                  UNDECIDED          3.0         18               0.06
+
+
+
+S195B.Q13B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0          8               0.03
+1    VERY STRONGLY          1.0        211               0.72
+2  FAIRLY STRONGLY          2.0         63               0.21
+3     NOT STRONGLY          3.0         13               0.04
+
+
+
+S195B.Q14A IN YOUR OPINION IS IT NECESSARY FOR THE WAR EFFORT TO HAVE WOMEN IN THE ARMY?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          6               0.02
+1          YES          1.0        132               0.45
+2           NO          2.0        157               0.53
+
+
+
+S195B.Q14B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0          8               0.03
+1    VERY STRONGLY          1.0        206                0.7
+2  FAIRLY STRONGLY          2.0         62               0.21
+3     NOT STRONGLY          3.0         19               0.06
+
+
+
+S195B.Q15A SUPPOSE A GIRL FRIEND OF YOURS WAS CONSIDERING JOINING THE WAC, WOULD YOU ADVISE HER TO JOIN OR NOT TO JOIN?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         12               0.04
+1          YES          1.0         57               0.19
+2           NO          2.0        226               0.77
+
+
+
+S195B.Q15B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0          9               0.03
+1    VERY STRONGLY          1.0        231               0.78
+2  FAIRLY STRONGLY          2.0         39               0.13
+3     NOT STRONGLY          3.0         16               0.05
+
+
+
+S195B.Q16A IN YOUR OPINION ARE THE JOBS WHICH WOMEN IN THE WAC DO LESS IMPORTANT THAN THE JOBS WHICH ARE DONE BY MEN IN THE ARMY WHO ARE NOT ON COMBAT DUTY?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         10               0.03
+1          YES          1.0        152               0.52
+2           NO          2.0        133               0.45
+
+
+
+S195B.Q16B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         11               0.04
+1    VERY STRONGLY          1.0        180               0.61
+2  FAIRLY STRONGLY          2.0         88                0.3
+3     NOT STRONGLY          3.0         16               0.05
+
+
+
+S195B.Q17A IF YOU HAD A SISTER, 21 YEARS OR OLDER, WOULD YOU LIKE TO SEE HER JOIN THE WAC OR NOT?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         13               0.04
+1          YES          1.0         37               0.13
+2           NO          2.0        245               0.83
+
+
+
+S195B.Q17B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         12               0.04
+1    VERY STRONGLY          1.0        231               0.78
+2  FAIRLY STRONGLY          2.0         38               0.13
+3     NOT STRONGLY          3.0         14               0.05
+
+
+
+S195B.Q18A CAN A WOMAN DO MORE FOR HER COUNTRY IN THE WAC THAN SHE CAN BY WORKING IN A WAR INDUSTRY?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         13               0.04
+1          YES          1.0         39               0.13
+2           NO          2.0        243               0.82
+
+
+
+S195B.Q18B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         13               0.04
+1    VERY STRONGLY          1.0        218               0.74
+2  FAIRLY STRONGLY          2.0         51               0.17
+3     NOT STRONGLY          3.0         13               0.04
+
+
+
+S195B.Q19A WILL THE TRAINING A WOMAN GETS IN THE WAC BE USEFUL IN CIVILIAN LIFE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         19               0.06
+1          YES          1.0        122               0.41
+2           NO          2.0        154               0.52
+
+
+
+S195B.Q19B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         15               0.05
+1    VERY STRONGLY          1.0        187               0.63
+2  FAIRLY STRONGLY          2.0         69               0.23
+3     NOT STRONGLY          3.0         24               0.08
+
+
+
+S195B.Q20A ARE MOST OF THE JOBS IN THE WAC INTERESTING AND AGREEABLE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         49               0.17
+1          YES          1.0        121               0.41
+2           NO          2.0        125               0.42
+
+
+
+S195B.Q20B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         45               0.15
+1    VERY STRONGLY          1.0        120               0.41
+2  FAIRLY STRONGLY          2.0         88                0.3
+3     NOT STRONGLY          3.0         42               0.14
+
+
+
+S195B.Q21A IS BEING A WAC BAD FOR A GIRL'S REPUTATION?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         24               0.08
+1          YES          1.0        166               0.56
+2           NO          2.0        105               0.36
+
+
+
+S195B.Q21B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         21               0.07
+1    VERY STRONGLY          1.0        181               0.61
+2  FAIRLY STRONGLY          2.0         71               0.24
+3     NOT STRONGLY          3.0         22               0.07
+
+
+
+S195B.Q22A IS THE ARMY ANY PLACE FOR A GIRL TO BE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         20               0.07
+1          YES          1.0         65               0.22
+2           NO          2.0        210               0.71
+
+
+
+S195B.Q22B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         20               0.07
+1    VERY STRONGLY          1.0        200               0.68
+2  FAIRLY STRONGLY          2.0         63               0.21
+3     NOT STRONGLY          3.0         12               0.04
+
+
+
+S195B.Q23A DO WAC OFFICERS DESERVE A SALUTE JUST THE SAME AS MEN OFFICERS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         17               0.06
+1          YES          1.0        194               0.66
+2           NO          2.0         84               0.28
+
+
+
+S195B.Q23B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         16               0.05
+1    VERY STRONGLY          1.0        188               0.64
+2  FAIRLY STRONGLY          2.0         63               0.21
+3     NOT STRONGLY          3.0         28               0.09
+
+
+
+S195B.Q24A DO WAC'S GET RATINGS A LOT EASIER THAN MEN?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         40               0.14
+1          YES          1.0        135               0.46
+2           NO          2.0        120               0.41
+
+
+
+S195B.Q24B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         35               0.12
+1    VERY STRONGLY          1.0        152               0.52
+2  FAIRLY STRONGLY          2.0         75               0.25
+3     NOT STRONGLY          3.0         33               0.11
+
+
+
+S195B.Q25 DO YOUR OFFICERS GIVE YOU A GOOD CHANCE TO ASK QUESTIONS AS TO THE REASON WHY THINGS ARE DONE THE WAY THEY ARE?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0         10               0.03
+1         YES, ALWAYS          1.0         49               0.17
+2        YES, USUALLY          2.0         75               0.25
+3           UNDECIDED          3.0         23               0.08
+4  NO, NOT VERY OFTEN          4.0         74               0.25
+5    NO, ALMOST NEVER          5.0         64               0.22
+
+
+
+S195B.Q26 HOW OFTEN DOES IT HAPPEN THAT YOU ARE CALLED DOWN OR PUNISHED FOR SOMETHING YOU DIDN'T DO?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          8               0.03
+1   VERY OFTEN          1.0         18               0.06
+2        OFTEN          2.0          8               0.03
+3    SOMETIMES          3.0         50               0.17
+4  HARDLY EVER          4.0        130               0.44
+5        NEVER          5.0         81               0.27
+
+
+
+S195B.Q27 HOW MANY OF YOUR OFFICERS TAKE A PERSONAL INTEREST IN THEIR MEN?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0         10               0.03
+1         ALL OF THEM DO          1.0         37               0.13
+2        MOST OF THEM DO          2.0         62               0.21
+3  ABOUT HALF OF THEM DO          3.0         48               0.16
+4         FEW OF THEM DO          4.0        112               0.38
+5        NONE OF THEM DO          5.0         26               0.09
+
+
+
+S195B.Q28 DO YOU THINK THAT YOUR OFFICERS GENERALLY DO WHAT THEY CAN TO HELP YOU?
+               answer_label answer_value raw_counts relative_frequency
+0                 NO ANSWER          0.0          9               0.03
+1         YES, ALL THE TIME          1.0         38               0.13
+2     YES, MOST OF THE TIME          2.0        128               0.43
+3     NO, THEY OFTEN DO NOT          3.0         83               0.28
+4  NO, THEY ALMOST NEVER DO          4.0         37               0.13
+
+
+
+S195B.Q29 HOW WELL DO YOU FEEL THAT YOUR OFFICERS UNDERSTAND YOUR PROBLEMS AND NEEDS?
+                                                 answer_label answer_value raw_counts relative_frequency
+0                                                   NO ANSWER          0.0          8               0.03
+1           THEY ARE VERY MUCH AWARE OF MY PROBLEMS AND NEEDS          1.0         35               0.12
+2         THEY ARE FAIRLY WELL AWARE OF MY PROBLEMS AND NEEDS          2.0        111               0.38
+3  THEY DO NOT KNOW VERY MUCH ABOUT MY REAL PROBLEMS OR NEEDS          3.0        141               0.48
+
+
+
+S195B.Q30 DO YOU FEEL THAT YOUR OFFICERS RECOGNIZE YOUR ABILITIES AND WHAT YOU ARE ABLE TO DO?
+                            answer_label answer_value raw_counts relative_frequency
+0                              NO ANSWER          0.0          8               0.03
+1                  YES, I'M SURE THEY DO          1.0         64               0.22
+2  YES, I THINK THEY DO BUT I'M NOT SURE          2.0         92               0.31
+3              NO, I DON'T THINK THEY DO          3.0        107               0.36
+4                              UNDECIDED          4.0         24               0.08
+
+
+
+S195B.Q31 IN GENERAL, HOW GOOD WOULD YOU SAY YOUR OFFICERS ARE?
+    answer_label answer_value raw_counts relative_frequency
+0      NO ANSWER          0.0          8               0.03
+1      VERY GOOD          1.0         60                0.2
+2    FAIRLY GOOD          2.0         79               0.27
+3  ABOUT AVERAGE          3.0         93               0.32
+4    PRETTY POOR          4.0         42               0.14
+5      VERY POOR          5.0         13               0.04
+
+
+
+S195B.Q32 HOW MANY OF YOUR OFFICERS USE THEIR RANK IN WAYS THAT SEEM UNNECESSARY TO YOU?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0          9               0.03
+1  ALMOST ALL OF THEM DO          1.0         27               0.09
+2        MOST OF THEM DO          2.0         30                0.1
+3        SOME OF THEM DO          3.0        100               0.34
+4  ONLY A FEW OF THEM DO          4.0         82               0.28
+5        NONE OF THEM DO          5.0         47               0.16
+
+
+
+S195B.Q33 WHEN YOU DO A PARTICULARLY GOOD JOB DO YOU USUALLY GET RECOGNITION OR PRAISE FOR IT FROM YOUR OFFICERS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         10               0.03
+1       ALWAYS          1.0         22               0.07
+2      USUALLY          2.0         99               0.34
+3       RARELY          3.0        116               0.39
+4        NEVER          4.0         48               0.16
+
+
+
+S195B.Q34 HOW MANY OF THE OFFICERS IN YOUR COMPANY (BATTERY, SQUADRON, TROOP) ARE THE KIND YOU WOULD WANT TO SERVE UNDER IN COMBAT?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0         12               0.04
+1         ALL OF THEM ARE          1.0         29                0.1
+2        MOST OF THEM ARE          2.0         50               0.17
+3  ABOUT HALF OF THEM ARE          3.0         43               0.15
+4         FEW OF THEM ARE          4.0         95               0.32
+5        NONE OF THEM ARE          5.0         66               0.22
+
+
+
+S195B.Q35 HOW MUCH DO YOU PERSONALLY LIKE YOUR OFFICERS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         10               0.03
+1    VERY MUCH          1.0         43               0.15
+2  PRETTY MUCH          2.0        135               0.46
+3  NOT SO MUCH          3.0         89                0.3
+4   NOT AT ALL          4.0         18               0.06
+
+
+
+S195B.Q36 WHEN YOUR OFFICERS GIVE YOU SOMETHING TO DO, DO THEY TELL YOU ENOUGH ABOUT IT SO THAT YOU CAN DO A GOOD JOB?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0          9               0.03
+1        ALWAYS TELL ME ENOUGH          1.0         45               0.15
+2       USUALLY TELL ME ENOUGH          2.0        141               0.48
+3  OFTEN DO NOT TELL ME ENOUGH          3.0         64               0.22
+4  ALMOST NEVER TELL ME ENOUGH          4.0         28               0.09
+5                    UNDECIDED          5.0          8               0.03
+
+
+
+S195B.Q37 HOW MANY OF YOUR COMPANY OFFICERS ARE THE KIND WHO ARE WILLING TO GO THROUGH ANYTHING THEY ASK THEIR MEN TO GO THROUGH?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0          9               0.03
+1         ALL OF THEM ARE          1.0         32               0.11
+2        MOST OF THEM ARE          2.0         82               0.28
+3  ABOUT HALF OF THEM ARE          3.0         61               0.21
+4         FEW OF THEM ARE          4.0         86               0.29
+5        NONE OF THEM ARE          5.0         25               0.08
+
+
+
+S195B.Q38 HOW DO YOU FEEL ABOUT THE OFFICERS THAT HAVE BEEN PICKED FOR YOUR OUTFIT?
+                                          answer_label answer_value raw_counts relative_frequency
+0                                            NO ANSWER          0.0         11               0.04
+1   THEY ARE THE BEST ONES THAT COULD HAVE BEEN PICKED          1.0         31               0.11
+2  THEY ARE AS GOOD AS ANY THAT COULD HAVE BEEN PICKED          2.0         96               0.33
+3          SOMEWHAT BETTER ONES COULD HAVE BEEN PICKED          3.0         88                0.3
+4              MUCH BETTER ONES COULD HAVE BEEN PICKED          4.0         46               0.16
+5                                            UNDECIDED          5.0         23               0.08
+
+
+
+S195B.Q39 CAN YOU COUNT ON YOUR OFFICERS TO BACK YOU UP IN YOUR DUTIES?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0         16               0.05
+1                YES, ALWAYS          1.0         63               0.21
+2               YES, USUALLY          2.0        148                0.5
+3  NO, YOU CAN'T COUNT ON IT          3.0         68               0.23
+
+
+
+S195B.Q40A WHO IS THE CHIEF OF STAFF OF THE U.S. ARMY?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0         17               0.06
+1   GENERAL MACARTHUR          1.0         12               0.04
+2  GENERAL EISENHOWER          2.0         13               0.04
+3      GENERAL ARNOLD          3.0         12               0.04
+4    GENERAL MARSHALL          4.0        241               0.82
+
+
+
+S195B.Q40B HOW SURE ARE YOU OF YOUR ANSWER?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         16               0.05
+1    VERY SURE          1.0        204               0.69
+2  FAIRLY SURE          2.0         54               0.18
+3     NOT SURE          3.0         21               0.07
+
+
+
+S195B.Q41A WHICH OF THE FOLLOWING COUNTRIES IS AT WAR AGAINST THE AXIS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         48               0.16
+1    ARGENTINA          1.0         27               0.09
+2       SWEDEN          2.0         31               0.11
+3       BRAZIL          3.0        139               0.47
+4       TURKEY          4.0         50               0.17
+
+
+
+S195B.Q41B HOW SURE ARE YOU OF YOUR ANSWER?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         34               0.12
+1    VERY SURE          1.0        146               0.49
+2  FAIRLY SURE          2.0         88                0.3
+3     NOT SURE          3.0         27               0.09
+
+
+
+S195B.Q42A WHERE WAS THE FIRST MAJOR BEACH HEAD ESTABLISHED BY THE ALLIES IN ITS INVASION OF EUROPE?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         21               0.07
+1  SOUTHERN FRANCE          1.0         22               0.07
+2         NORMANDY          2.0        245               0.83
+3          HOLLAND          3.0          4               0.01
+4          BELGIUM          4.0          3               0.01
+
+
+
+S195B.Q42B HOW SURE ARE YOU OF YOUR ANSWER?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         22               0.07
+1    VERY SURE          1.0        204               0.69
+2  FAIRLY SURE          2.0         59                0.2
+3     NOT SURE          3.0         10               0.03
+
+
+
+S195B.Q43A WHO IS THE RECENTLY APPOINTED AMERICAN SECRETARY OF STATE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         34               0.12
+1       WELLES          1.0         33               0.11
+2   STETTINIUS          2.0        195               0.66
+3       NELSON          3.0         24               0.08
+4       BYRNES          4.0          9               0.03
+
+
+
+S195B.Q43B HOW SURE ARE YOU OF YOUR ANSWER?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         35               0.12
+1    VERY SURE          1.0        172               0.58
+2  FAIRLY SURE          2.0         59                0.2
+3     NOT SURE          3.0         29                0.1
+
+
+
+S195B.Q44A THE MAN WHO SAID WE WOULD HAVE "PEACE IN OUR TIME" WAS...?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         28               0.09
+1    CHURCHILL          1.0        138               0.47
+2    MUSSOLINI          2.0          4               0.01
+3  CHAMBERLAIN          3.0        119                0.4
+4       TANAKA          4.0          6               0.02
+
+
+
+S195B.Q44B HOW SURE ARE YOU OF YOUR ANSWER?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         29                0.1
+1    VERY SURE          1.0         89                0.3
+2  FAIRLY SURE          2.0         82               0.28
+3     NOT SURE          3.0         95               0.32
+
+
+
+S195B.Q45A THE "CO-PROSPERITY SPHERE" WAS A SCHEME OF ...?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0         53               0.18
+1   THE GERMANS          1.0         90               0.31
+2   THE SPANISH          2.0         21               0.07
+3  THE ITALIANS          3.0         25               0.08
+4  THE JAPANESE          4.0        106               0.36
+
+
+
+S195B.Q45B HOW SURE ARE YOU OF YOUR ANSWER?
+       answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER CARD 2          0.0         48               0.16
+1         VERY SURE          1.0         67               0.23
+2       FAIRLY SURE          2.0         71               0.24
+3          NOT SURE          3.0        109               0.37
+
+
+
+FORM..1FORM:
+  answer_label answer_value raw_counts relative_frequency
+0       S-195B          2.0        295                1.0
+
+
+
+S195B.Q46A "FASCISM" BEGAN IN...?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         25               0.08
+1      IRELAND          1.0          3               0.01
+2       RUSSIA          2.0         14               0.05
+3        ITALY          3.0        190               0.64
+4      GERMANY          4.0         63               0.21
+
+
+
+S195B.Q46B HOW SURE ARE YOU OF YOUR ANSWER?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         27               0.09
+1    VERY SURE          1.0        156               0.53
+2  FAIRLY SURE          2.0         80               0.27
+3     NOT SURE          3.0         32               0.11
+
+
+
+S195B.Q47A THE FIRST OF THESE COUNTRIES TO BE INVADED BY THE NAZIS WAS...?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0         27               0.09
+1          NORWAY          1.0         19               0.06
+2  CZECHOSLOVAKIA          2.0        101               0.34
+3          POLAND          3.0        134               0.45
+4         BELGIUM          4.0         14               0.05
+
+
+
+S195B.Q47B HOW SURE ARE YOU OF YOUR ANSWER?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         24               0.08
+1  FAIRLY SURE          2.0         89                0.3
+2    VERY SURE          1.0        157               0.53
+3     NOT SURE          3.0         25               0.08
+
+
+

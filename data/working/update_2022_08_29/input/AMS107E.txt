@@ -1,0 +1,1340 @@
+FORMFORM
+            answer_label answer_value raw_counts relative_frequency
+0  S-107E - ENLISTED MEN          1.0       4025                1.0
+
+
+
+S107E.Q1 WHAT IS YOUR RANK OR GRADE?
+                                          answer_label answer_value raw_counts relative_frequency
+0                                            NO ANSWER          0.0         64               0.02
+1                       PRIVATE OR PRIVATE FIRST CLASS          1.0       2982               0.74
+2                     CORPORAL OR TECHNICIAN 5TH GRADE          2.0        484               0.12
+3  SERGEANT (ANY GRADE) OR TECHNICIAN 3RD OR 4TH GRADE          3.0        495               0.12
+
+
+
+S107E.Q2 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         24               0.01
+1  19 YEARS OR YOUNGER          1.0        329               0.08
+2             20 YEARS          2.0        315               0.08
+3       21 TO 24 YEARS          3.0       1080               0.27
+4       25 TO 27 YEARS          4.0        689               0.17
+5       28 TO 29 YEARS          5.0        389                0.1
+6       30 TO 34 YEARS          6.0        708               0.18
+7       35 TO 37 YEARS          7.0        327               0.08
+8    38 YEARS OR OLDER          8.0        164               0.04
+
+
+
+S107E.Q3 HOW FAR DID YOU GO IN SCHOOL?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0         43               0.01
+1                  LESS THAN 6TH GRADE          1.0        127               0.03
+2                   FINISHED 6TH GRADE          2.0        128               0.03
+3                   FINISHED 7TH GRADE          3.0        229               0.06
+4                   FINISHED 8TH GRADE          4.0        580               0.14
+5  SOME HIGH SCHOOL BUT DID NOT FINISH          5.0       1182               0.29
+6           GRADUATED FROM HIGH SCHOOL          6.0       1147               0.28
+7      SOME COLLEGE BUT DID NOT FINISH          7.0        448               0.11
+8               GRADUATED FROM COLLEGE          8.0        141               0.04
+
+
+
+S107E.Q4 ARE YOU:
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0         33               0.01
+1                 SINGLE          1.0       2140               0.53
+2                MARRIED          2.0       1725               0.43
+3  DIVORCED OR SEPARATED          3.0        119               0.03
+4                WIDOWED          4.0          8                0.0
+
+
+
+S107E.Q5 DID YOU ASK FOR MILITARY POLICE DUTY?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         43               0.01
+1          YES          1.0        582               0.14
+2           NO          2.0       3400               0.84
+
+
+
+S107E.Q6 DID YOU HAVE ANY CIVILIAN EXPERIENCE OR TRAINING WHICH FITTED YOU FOR MILITARY POLICE WORK?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         45               0.01
+1          YES          1.0        536               0.13
+2           NO          2.0       3444               0.86
+
+
+
+S107E.Q7 IF YOU HAD TO MAKE A CHOICE, WHICH ONE OF THESE BRANCHES OF THE ARMY WOULD YOU LIKE TO BE IN?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0        112               0.03
+1                           ENGINEERS          1.0        140               0.03
+2                     FIELD ARTILLERY          2.0        109               0.03
+3                 QUARTERMASTER CORPS          3.0        367               0.09
+4                            INFANTRY          4.0        135               0.03
+5                  MEDICAL DEPARTMENT          5.0         78               0.02
+6                     ARMORED COMMAND          6.0         63               0.02
+7                        SIGNAL CORPS          7.0        100               0.02
+8   COAST ARTILLERY AND ANTI-AIRCRAFT          8.0        186               0.05
+9                           AIR CORPS          9.0       1015               0.25
+10               TRANSPORTATION CORPS         10.0        263               0.07
+11                ORDNANCE DEPARTMENT         11.0        344               0.09
+12           CHEMICAL WARFARE SERVICE         12.0         25               0.01
+13                    MILITARY POLICE         13.0       1088               0.27
+
+
+
+S107E.Q8B IF YOU CHECKED MORE THAN ONE OF THE REASONS IN THE LIST, WHICH ONE IS THE MOST IMPORTANT OF ALL THE REASONS YOU CHECKED? E. I WOULD LIKE TO BE IN THAT BRANCH:
+                                                         answer_label answer_value raw_counts relative_frequency
+0                                                           NO ANSWER          0.0        480               0.12
+1                BECAUSE IT WOULD GIVE ME A CHANCE TO GET INTO COMBAT          1.0        227               0.06
+2                                   BECAUSE IT GETS THE BEST TRAINING          2.0        126               0.03
+3               BECAUSE I THINK THE WORK IN IT WOULD NOT BE TOO TOUGH          3.0        112               0.03
+4           BECAUSE IT IS GIVEN A LOT OF CREDIT BY THE GENERAL PUBLIC          4.0         70               0.02
+5         BECAUSE IT WOULD GIVE ME A BETTER CHANCE TO STAY IN THE USA          5.0         65               0.02
+6                              BECAUSE IT GETS THE BEST OF EVERYTHING          6.0         71               0.02
+7                BECAUSE IT IS AN IMPORTANT BRANCH IN WINNING THE WAR          7.0        535               0.13
+8   BECAUSE I WOULD GET A CHANCE TO DO THE KIND OF WORK I CAN DO BEST          8.0       1447               0.36
+9            BECAUSE THE MEN IN IT ARE THE BEST AND TOUGHEST SOLDIERS          9.0         56               0.01
+10   BECAUSE IT WOULD GIVE ME TRAINING FOR A BETTER JOB AFTER THE WAR         10.0        819                0.2
+11                                 BECAUSE IT HAS A LOW CASUALTY RATE         11.0         17                0.0
+
+
+
+S107E.Q9 IF YOU HAD TO MAKE A CHOICE, WHICH ONE OF THESE BRANCHES WOULD YOU TRY HARDEST TO STAY OUT OF?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0        261               0.06
+1                           ENGINEERS          1.0        376               0.09
+2                     FIELD ARTILLERY          2.0         29               0.01
+3                 QUARTERMASTER CORPS          3.0         99               0.02
+4                            INFANTRY          4.0       1512               0.38
+5                  MEDICAL DEPARTMENT          5.0        587               0.15
+6                     ARMORED COMMAND          6.0         67               0.02
+7                        SIGNAL CORPS          7.0         25               0.01
+8   COAST ARTILLERY AND ANTI-AIRCRAFT          8.0         31               0.01
+9                           AIR CORPS          9.0         74               0.02
+10               TRANSPORTATION CORPS         10.0         19                0.0
+11                ORDNANCE DEPARTMENT         11.0         27               0.01
+12           CHEMICAL WARFARE SERVICE         12.0        201               0.05
+13                    MILITARY POLICE         13.0        717               0.18
+
+
+
+S107E.Q10B IF YOU CHECKED MORE THAN ONE OF THE REASONS IN THE LIST, WHICH ONE IS THE MOST IMPORTANT OF ALL THE REASONS YOU CHECKED? E. I WOULD TRY TO STAY OUT OF THAT BRANCH:
+                                                                  answer_label answer_value raw_counts relative_frequency
+0                                                                    NO ANSWER          0.0        384                0.1
+1   BECAUSE IT WOULD NOT GIVE ME A CHANCE TO DO THE KIND OF WORK I CAN DO BEST          1.0       1099               0.27
+2                                    BECAUSE IT DOES NOT GET THE BEST TRAINING          2.0         57               0.01
+3                                              BECAUSE IT SEES TOO MUCH COMBAT          3.0         45               0.01
+4         BECAUSE IT WOULD NOT GIVE ME TRAINING FOR A BETTER JOB AFTER THE WAR          4.0        422                0.1
+5                    BECAUSE IT IS NOT GIVEN MUCH CREDIT BY THE GENERAL PUBLIC          5.0         74               0.02
+6                                 BECAUSE IT IS UNIMPORTANT IN WINNING THE WAR          6.0         27               0.01
+7                                            BECAUSE IT WORKS ITS MEN TOO HARD          7.0        157               0.04
+8                   BECAUSE IT DOES NOT OFFER MUCH OF A CHANCE TO GET A RATING          8.0         62               0.02
+9                       BECAUSE I DON'T THINK I AM PHYSICALLY QUALIFIED FOR IT          9.0       1215                0.3
+10                     BECAUSE IT DOESN'T OFFER MUCH CHANCE TO GET INTO COMBAT         10.0        121               0.03
+11                                       BECAUSE ITS CASUALTY RATE IS TOO HIGH         11.0         39               0.01
+12                                 BECAUSE THE MEN IN IT ARE NOT REAL SOLDIERS         12.0        120               0.03
+13                                                           SOME OTHER REASON         13.0        203               0.05
+
+
+
+S107E.Q11 IN YOUR OPINION, HOW IMPORTANT IS THE JOB OF THE CORPS OF MILITARY POLICE IN WINNING THE WAR?
+                            answer_label answer_value raw_counts relative_frequency
+0                              NO ANSWER          0.0        101               0.03
+1          IT HAS THE MOST IMPORTANT JOB          1.0        395                0.1
+2  IT HAS ONE OF THE MORE IMPORTANT JOBS          2.0       2091               0.52
+3  IT HAS ONE OF THE LESS IMPORTANT JOBS          3.0        588               0.15
+4         IT HAS THE LEAST IMPORTANT JOB          4.0        226               0.06
+5                              UNDECIDED          5.0        624               0.16
+
+
+
+S107E.Q12 WHAT TYPE OF MILITARY POLICE UNIT ARE YOU IN?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0          1                0.0
+1  SERVICE UNIT, MILITARY POLICE DETACHMENT          1.0       1148               0.29
+2        DIVISIONAL MILITARY POLICE PLATOON          2.0        348               0.09
+3                 MILITARY POLICE BATTALION          3.0       1146               0.28
+4      MILITARY POLICE ESCORT GUARD COMPANY          4.0       1097               0.27
+5                                       RTC          5.0        285               0.07
+
+
+
+S107E.Q13 HOW LONG HAVE YOU BEEN IN YOUR PRESENT UNIT (COMPANY, DETACHMENT, UNIT?)
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         70               0.02
+1              3 MONTHS OR LESS          1.0        756               0.19
+2  OVER 3 MONTHS UP TO 6 MONTHS          2.0        695               0.17
+3    OVER 6 MONTHS UP TO 1 YEAR          3.0        915               0.23
+4                   OVER 1 YEAR          4.0       1589               0.39
+
+
+
+S107E.Q14 HOW LONG HAVE YOU BEEN IN THE CORPS OF MILITARY POLICE?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0        105               0.03
+1              3 MONTHS OR LESS          1.0        293               0.07
+2  OVER 3 MONTHS UP TO 6 MONTHS          2.0        650               0.16
+3    OVER 6 MONTHS UP TO 1 YEAR          3.0        940               0.23
+4     OVER 1 YEAR UP TO 2 YEARS          4.0       1692               0.42
+5                  OVER 2 YEARS          5.0        345               0.09
+
+
+
+S107E.Q15 HOW LONG HAVE YOU BEEN IN THE ARMY? E. IF YOU HAVE SERVED PREVIOUSLY IN THE ARMY, CHECK THE LENGTH OF THE TIME SINCE YOU ENTERED THIS LAST TIME. IF YOU WERE A NATIONAL GUARDSMAN, GIVE THE LENGTH OF TIME SINCE YOUR OUTFIT ENTERED THE ARMY.
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         43               0.01
+1              3 MONTHS OR LESS          1.0         57               0.01
+2  OVER 3 MONTHS UP TO 6 MONTHS          2.0        301               0.07
+3    OVER 6 MONTHS UP TO 1 YEAR          3.0        683               0.17
+4     OVER 1 YEAR UP TO 2 YEARS          4.0       2030                0.5
+5    OVER 2 YEARS UP TO 3 YEARS          5.0        464               0.12
+6                  OVER 3 YEARS          6.0        447               0.11
+
+
+
+S107E.Q16 HOW DID YOU COME INTO THE ARMY?
+                           answer_label answer_value raw_counts relative_frequency
+0                             NO ANSWER          0.0         63               0.02
+1    I WAS DRAFTED, BEFORE PEARL HARBOR          1.0        308               0.08
+2     I WAS DRAFTED, AFTER PEARL HARBOR          2.0       2985               0.74
+3    I VOLUNTEERED, BEFORE PEARL HARBOR          3.0        286               0.07
+4     I VOLUNTEERED, AFTER PEARL HARBOR          4.0        319               0.08
+5  I CAME IN THROUGH THE NATIONAL GUARD          5.0         64               0.02
+
+
+
+S107E.Q17 HAS THE ARMY AT ANY TIME CLASSIFIED YOU AS A LIMITED SERVICE MAN?
+                                                                     answer_label answer_value raw_counts relative_frequency
+0                                                                       NO ANSWER          0.0         49               0.01
+1                            YES, I WAS CLASSIFIED AS LIMITED SERVICE BY THE ARMY          1.0       1823               0.45
+2                       NO, I WAS NEVER CLASSIFIED AS LIMITED SERVICE BY THE ARMY          2.0       1592                0.4
+3  I DON'T KNOW WHETHER THE ARMY HAS EVER CLASSIFIED ME AS LIMITED SERVICE OR NOT          3.0        561               0.14
+
+
+
+S107E.Q18 WHICH OF THE FOLLOWING JOBS OR DUTIES HAVE YOU DONE IN THE LAST SIX MONTHS? (TRAINING, STOCKADE GUARD, TRAFFIC CONTROL, TOWN PATROL, PRISON CHASER, PRISONER CONVOY, CLERK, TRAIN GUARD, JEEP PATROL, MOTOR POOL, GUARD DUTY)
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0         11                0.0
+1             ONE JOB          1.0        920               0.23
+2            TWO JOBS          2.0        598               0.15
+3          THREE JOBS          3.0        650               0.16
+4           FOUR JOBS          4.0        643               0.16
+5           FIVE JOBS          5.0        485               0.12
+6            SIX JOBS          6.0        319               0.08
+7          SEVEN JOBS          7.0        197               0.05
+8  EIGHT OR MORE JOBS          8.0        161               0.04
+9           NO ANSWER          9.0         41               0.01
+
+
+
+S107E.Q19 WHAT IS YOUR MAIN ARMY JOB OR DUTY?
+                                                  answer_label answer_value raw_counts relative_frequency
+0                                                    NO ANSWER          0.0         91               0.02
+1                                                     TRAINING          1.0        975               0.24
+2                                               STOCKADE GUARD          2.0        204               0.05
+3                                              TRAFFIC CONTROL          3.0        187               0.05
+4                                                  TOWN PATROL          4.0        327               0.08
+5                                                PRISON CHASER          5.0        155               0.04
+6                                              PRISONER CONVOY          6.0         39               0.01
+7                                                        CLERK          7.0        203               0.05
+8                                                  TRAIN GUARD          8.0         62               0.02
+9                                                  JEEP PATROL          9.0         34               0.01
+10                                                  MOTOR POOL         10.0        149               0.04
+11                                                  GUARD DUTY         11.0        609               0.15
+12                                                APPREHENSION         12.0         11                0.0
+13                                               INVESTIGATION         13.0         26               0.01
+14  COOKS, MESS SERGEANTS, GENERAL SERVICE JOBS: ARMORER, ETC.         14.0        189               0.05
+15                                                      SUPPLY         15.0         44               0.01
+16                               DEMONSTRATION AND/OR TEACHING         16.0         46               0.01
+17                                     TRAINING AND GUARD DUTY         17.0         61               0.02
+18                                GUARD DUTY AND PRISON CHASER         18.0         70               0.02
+19                            STOCKADE GUARD AND PRISON CHASER         19.0        113               0.03
+20                PRISON CHASER, STOCKADE GUARD AND GUARD DUTY         20.0         25               0.01
+21                                      ALL OTHER COMBINATIONS         21.0        357               0.09
+22                                     OTHER (NOT COMBINATION)         22.0         48               0.01
+
+
+
+S107E.Q20 HOW LONG HAVE YOU HAD THIS JOB?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         77               0.02
+1              3 MONTHS OR LESS          1.0        817                0.2
+2  OVER 3 MONTHS UP TO 6 MONTHS          2.0        799                0.2
+3  OVER 6 MONTHS UP TO ONE YEAR          3.0       1148               0.29
+4                   OVER 1 YEAR          4.0       1184               0.29
+
+
+
+S107E.Q21A HAVE YOU SPENT MOST OF YOUR WORKING TIME ON YOUR MAIN JOB OR DUTY DURING THE LAST FOUR WEEKS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         67               0.02
+1          YES          1.0       3307               0.82
+2           NO          2.0        651               0.16
+
+
+
+S107E.Q22 WHICH ONE OF THE FOLLOWING JOBS WOULD YOU MOST LIKE TO BE DOING?
+                                                  answer_label answer_value raw_counts relative_frequency
+0                                                    NO ANSWER          0.0        504               0.13
+1                                                     TRAINING          1.0        168               0.04
+2                                               STOCKADE GUARD          2.0         53               0.01
+3                                              TRAFFIC CONTROL          3.0        170               0.04
+4                                                  TOWN PATROL          4.0        755               0.19
+5                                                PRISON CHASER          5.0         80               0.02
+6                                              PRISONER CONVOY          6.0        452               0.11
+7                                                        CLERK          7.0        278               0.07
+8                                                  TRAIN GUARD          8.0        679               0.17
+9                                                  JEEP PATROL          9.0        236               0.06
+10                                                  MOTOR POOL         10.0        296               0.07
+11                                                  GUARD DUTY         11.0         75               0.02
+12                                                APPREHENSION         12.0          9                0.0
+13                                               INVESTIGATION         13.0         73               0.02
+14  COOKS, MESS SERGEANTS, GENERAL SERVICE JOBS: ARMORER, ETC.         14.0        122               0.03
+15                                                      SUPPLY         15.0         39               0.01
+16                               DEMONSTRATION AND/OR TEACHING         16.0         12                0.0
+17                                                       OTHER         17.0         24               0.01
+
+
+
+S107E.Q23 WHICH ONE OF THE FOLLOWING JOBS WOULD YOU LEAST LIKE TO BE DOING?
+                                                  answer_label answer_value raw_counts relative_frequency
+0                                                    NO ANSWER          0.0        455               0.11
+1                                                     TRAINING          1.0        467               0.12
+2                                               STOCKADE GUARD          2.0        645               0.16
+3                                              TRAFFIC CONTROL          3.0        129               0.03
+4                                                  TOWN PATROL          4.0        334               0.08
+5                                                PRISON CHASER          5.0        774               0.19
+6                                              PRISONER CONVOY          6.0         94               0.02
+7                                                        CLERK          7.0        231               0.06
+8                                                  TRAIN GUARD          8.0        105               0.03
+9                                                  JEEP PATROL          9.0         21               0.01
+10                                                  MOTOR POOL         10.0         86               0.02
+11                                                  GUARD DUTY         11.0        674               0.17
+12  COOKS, MESS SERGEANTS, GENERAL SERVICE JOBS: ARMORER, ETC.         14.0          8                0.0
+13                                                      SUPPLY         15.0          1                0.0
+14                               DEMONSTRATION AND/OR TEACHING         16.0          1                0.0
+
+
+
+S107E.Q26 IS THERE ANY OTHER WORK IN THE CORPS OF MILITARY POLICE THAT YOU FEEL YOU WOULD RATHER BE DOING THAN YOUR PRESENT WORK?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        286               0.07
+1          YES          1.0       1710               0.42
+2           NO          2.0       2029                0.5
+
+
+
+S107E.Q27 IS THERE ANY WORK IN SOME OTHER BRANCH OF SERVICE THAN THE CORPS OF MILITARY POLICE THAT YOU WOULD RATHER BE DOING THAN YOUR PRESENT WORK?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        355               0.09
+1          YES          1.0       2094               0.52
+2           NO          2.0       1576               0.39
+
+
+
+S107E.Q28 DO YOU USUALLY FEEL THAT WHAT YOU ARE DOING IN THE ARMY IS WORTHWHILE OR NOT?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0         73               0.02
+1  I USUALLY FEEL IT IS NOT WORTHWHILE          1.0       1174               0.29
+2      I USUALLY FEEL IT IS WORTHWHILE          2.0       2086               0.52
+3                            UNDECIDED          3.0        692               0.17
+
+
+
+S107E.Q29 WHICH OF THE FOLLOWING WOULD YOU SAY BEST APPLIES TO YOUR JOB?
+                                                  answer_label answer_value raw_counts relative_frequency
+0                                                    NO ANSWER          0.0         91               0.02
+1                                   TIME ALWAYS PASSES QUICKLY          1.0        503               0.12
+2                         TIME PASSES QUICKLY MOST OF THE TIME          2.0        896               0.22
+3  ENJOY WORKING PART OF THE TIME, BUT IT DRAGS AT OTHER TIMES          3.0       1349               0.34
+4                                  TIME DRAGS MOST OF THE TIME          4.0        592               0.15
+5                                            TIME ALWAYS DRAGS          5.0        594               0.15
+
+
+
+S107E.Q30 HOW INTERESTED ARE YOU IN YOUR ARMY JOB?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0         65               0.02
+1   VERY MUCH INTERESTED          1.0       1766               0.44
+2  A LITTLE BUT NOT MUCH          2.0       1494               0.37
+3  NOT INTERESTED AT ALL          3.0        700               0.17
+
+
+
+S107E.Q31 DO YOU CONSIDER YOUR OWN PRESENT JOB OR DUTY IN THE ARMY AN IMPORTANT ONE IN THE WAR EFFORT?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0         63               0.02
+1        VERY IMPORTANT          1.0       1290               0.32
+2      PRETTY IMPORTANT          2.0       1145               0.28
+3      NOT SO IMPORTANT          3.0        883               0.22
+4  NOT IMPORTANT AT ALL          4.0        403                0.1
+5             UNDECIDED          5.0        241               0.06
+
+
+
+S107E.Q32 WOULD YOU CHANGE TO SOME OTHER ARMY JOB IF GIVEN A CHANCE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         68               0.02
+1          YES          1.0       2480               0.62
+2           NO          2.0        917               0.23
+3    UNDECIDED          3.0        560               0.14
+
+
+
+S107E.Q33 ARE YOU KEPT TOO BUSY, ABOUT AS BUSY AS YOU SHOULD BE, OR NOT BUSY ENOUGH, DURING YOUR DUTY TIME?
+                                    answer_label answer_value raw_counts relative_frequency
+0                                      NO ANSWER          0.0         60               0.01
+1                      I HAVE BEEN KEPT TOO BUSY          1.0       1314               0.33
+2  I HAVE BEEN KEPT ABOUT AS BUSY AS I SHOULD BE          2.0       2462               0.61
+3               I HAVE NOT BEEN KEPT BUSY ENOUGH          3.0        189               0.05
+
+
+
+S107E.Q34 HOW DO YOU FEEL ABOUT YOUR PRESENT WORKING HOURS?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0         66               0.02
+1                   I WORK TOO MANY HOURS          1.0       1770               0.44
+2  I WORK ABOUT THE RIGHT NUMBER OF HOURS          2.0       2141               0.53
+3                    I WORK TOO FEW HOURS          3.0         48               0.01
+
+
+
+S107E.Q35 DO YOU FEEL THAT YOU GET YOUR FAIR SHARE OF OFF-DUTY FREE TIME?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         63               0.02
+1          YES          1.0       2171               0.54
+2           NO          2.0       1791               0.44
+
+
+
+S107E.Q36 WOULD YOU LIKE YOUR PRESENT JOB BETTER OR WORSE IF THE DUTY HOURS COULD BE REARRANGED?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0        121               0.03
+1          BETTER          1.0       1386               0.34
+2  ABOUT THE SAME          2.0       2278               0.57
+3           WORSE          3.0        240               0.06
+
+
+
+S107E.Q37 DO YOU THINK THAT YOU ARE GIVEN ENOUGH AUTHORITY TO DO YOUR JOB PROPERLY?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         76               0.02
+1          YES          1.0       2644               0.66
+2           NO          2.0       1305               0.32
+
+
+
+S107E.Q38 IF IT WERE UP TO YOU, WHAT KIND OF OUTFIT WOULD YOU RATHER BE IN?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                         NO ANSWER          0.0        183               0.05
+1                       IN A COMBAT OUTFIT OVERSEAS          1.0       1505               0.37
+2                   IN A NON-COMBAT OUTFIT OVERSEAS          2.0        914               0.23
+3  IN AN OUTFIT THAT WILL STAY IN THE UNITED STATES          3.0       1423               0.35
+
+
+
+S107E.Q39 WHAT DO YOU THINK YOUR CHANCES ARE OF BEING SENT OVERSEAS BEFORE THE END OF THE WAR?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0         74               0.02
+1             I'M ALMOST CERTAIN TO BE SENT          1.0        737               0.18
+2             I'M FAIRLY CERTAIN TO BE SENT          2.0        573               0.14
+3  THE CHANCES ARE ABOUT 50-50 I'LL BE SENT          3.0       1963               0.49
+4         I'M FAIRLY CERTAIN NOT TO BE SENT          4.0        407                0.1
+5         I'M ALMOST CERTAIN NOT TO BE SENT          5.0        271               0.07
+
+
+
+S107E.Q40 IF IT WERE UP TO YOU TO CHOOSE, DO YOU THINK YOU COULD DO MORE FOR YOUR COUNTRY AS A SOLDIER OR AS A WORKER IN A WAR JOB?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1        AS A SOLDIER          1.0       1221                0.3
+2     AS A WAR WORKER          2.0       2198               0.55
+3           UNDECIDED          3.0        547               0.14
+4           NO ANSWER          4.0         57               0.01
+
+
+
+S107E.Q41 IN GENERAL, WHAT SORT OF A TIME DO YOU HAVE IN THE ARMY?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         43               0.01
+1    I HAVE A PRETTY GOOD TIME          1.0       1036               0.26
+2       IT'S ABOUT FIFTY-FIFTY          2.0       2169               0.54
+3  I HAVE A PRETTY ROTTEN TIME          3.0        777               0.19
+
+
+
+S107E.Q42 ARE YOU EVER WORRIED AND UPSET?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0         47               0.01
+1  I AM HARDLY EVER WORRIED AND UPSET          1.0       1129               0.28
+2    I AM SOMETIMES WORRIED AND UPSET          2.0       1931               0.48
+3        I AM OFTEN WORRIED AND UPSET          3.0        918               0.23
+
+
+
+S107E.Q43 DO YOU FEEL PROUD OF YOUR COMPANY (DETACHMENT, UNIT)?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0         50               0.01
+1    YES, VERY PROUD          1.0       1430               0.36
+2  YES, FAIRLY PROUD          2.0       1246               0.31
+3      NO, NOT PROUD          3.0        933               0.23
+4          UNDECIDED          4.0        366               0.09
+
+
+
+S107E.Q44 HOW MANY OF THE MEN IN YOUR COMPANY WOULD YOU SAY ARE GOOD ALL-AROUND SOLDIERS?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         42               0.01
+1                       ALL ARE          1.0        387                0.1
+2                      MOST ARE          2.0       1898               0.47
+3  ABOUT HALF ARE, HALF ARE NOT          3.0        991               0.25
+4                ONLY A FEW ARE          4.0        593               0.15
+5               ALMOST NONE ARE          5.0        114               0.03
+
+
+
+S107E.Q45 ON THE WHOLE, HOW IS THE MORALE OF THE MEN IN YOUR COMPANY?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          3                0.0
+1           VERY HIGH          1.0        308               0.08
+2         FAIRLY HIGH          2.0       1057               0.26
+3          JUST SO-SO          3.0       1173               0.29
+4          FAIRLY LOW          4.0        614               0.15
+5            VERY LOW          5.0        828               0.21
+6           NO ANSWER          6.0         42               0.01
+
+
+
+S107E.Q47 HAVE YOU RECEIVED ANY MILITARY POLICE TRAINING?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        194               0.05
+1          YES          1.0       3235                0.8
+2           NO          2.0        596               0.15
+
+
+
+S107E.Q50 HOW LONG DID THIS TRAINING LAST?
+                   answer_label answer_value raw_counts relative_frequency
+0             ONE MONTH OR LESS          1.0        172               0.04
+1   OVER 1 MONTH UP TO 3 MONTHS          2.0       1144               0.28
+2  OVER 3 MONTHS UP TO 6 MONTHS          3.0       1024               0.25
+3                 OVER 6 MONTHS          4.0        829               0.21
+4       INAPPLICABLE, NO ANSWER          9.0        856               0.21
+
+
+
+S107E.Q53 IN YOUR PRESENT ASSIGNMENT HOW MUCH ARE YOU USING THE MILITARY POLICE TRAINING YOU GOT?
+                              answer_label answer_value raw_counts relative_frequency
+0         I USE THIS TRAINING ALL THE TIME          1.0        852               0.21
+1     I USE THIS TRAINING MOST OF THE TIME          2.0        680               0.17
+2  I USE THIS TRAINING ABOUT HALF THE TIME          3.0        541               0.13
+3          I HARDLY EVER USE THIS TRAINING          4.0        695               0.17
+4                I NEVER USE THIS TRAINING          5.0        305               0.08
+5                  INAPPLICABLE, NO ANSWER          9.0        952               0.24
+
+
+
+S107E.Q54 DO YOU FEEL THAT YOU HAVE RECEIVED OR ARE RECEIVING SUFFICIENT TRAINING FOR THE KINDS OF JOBS YOU HAVE TO DO?
+                                           answer_label answer_value raw_counts relative_frequency
+0                                             NO ANSWER          0.0        137               0.03
+1                              HAVE SUFFICIENT TRAINING          1.0       2165               0.54
+2      HAVE NEED FOR TRAINING IN SOME ASPECTS OF MY JOB          2.0       1346               0.33
+3  HAVE NEED FOR SOME TRAINING IN ALL ASPECTS OF MY JOB          3.0        377               0.09
+
+
+
+S107E.Q55A DO YOU THINK YOU SHOULD BE GETTING MORE OF ANY KIND OF TRAINING OR DRILL THAN YOU GET NOW?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         66               0.02
+1           NO          2.0       2244               0.56
+2          YES          1.0       1199                0.3
+3    UNDECIDED          3.0        516               0.13
+
+
+
+S107E.Q56A DO YOU THINK THAT SOME OF THE ARMY TRAINING OR DRILL YOU ARE GETTING IS NOT NEEDED TO MAKE MEN GOOD SOLDIERS?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0        105               0.03
+1  YES, MUCH OF IT IS NOT NEEDED          1.0        527               0.13
+2  YES, SOME OF IT IS NOT NEEDED          2.0       1116               0.28
+3              NO, ALL IS NEEDED          3.0       1728               0.43
+4                      UNDECIDED          4.0        549               0.14
+
+
+
+S107E.Q57 IN YOUR OPINION HOW MUCH USE IS MADE OF TRAINING FILMS IN YOUR PRESENT TRAINING PROGRAM?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0         64               0.02
+1                TOO MUCH          1.0        219               0.05
+2  ABOUT THE RIGHT AMOUNT          2.0       2476               0.62
+3        NOT QUITE ENOUGH          3.0        905               0.22
+4         MUCH TOO LITTLE          4.0        361               0.09
+
+
+
+S107E.Q58 IN YOUR PRESENT ASSIGNMENT, HOW MUCH OF YOUR DUTY TIME IS USUALLY SPENT ON TRAINING?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0         97               0.02
+1      ALMOST ALL OF IT          1.0       1468               0.36
+2  MORE THAN HALF OF IT          2.0        377               0.09
+3      ABOUT HALF OF IT          3.0        556               0.14
+4  LESS THAN HALF OF IT          4.0        726               0.18
+5     ALMOST NONE OF IT          5.0        801                0.2
+
+
+
+S107E.Q59 HOW MUCH OF YOUR DUTY TIME (OUTSIDE OF TRAINING TIME) IS USED IN DOING THINGS THAT DO NOT SEEM IMPORTANT TO YOU?
+                                             answer_label answer_value raw_counts relative_frequency
+0                                               NO ANSWER          0.0        118               0.03
+1                                             A LOT OF IT          1.0        782               0.19
+2                                              SOME OF IT          2.0       1095               0.27
+3                                     ONLY A LITTLE OF IT          3.0        792                0.2
+4                                              NONE OF IT          4.0        746               0.19
+5  I DO NOT HAVE ANY DUTY TIME (OUTSIDE OF TRAINING TIME)          5.0        492               0.12
+
+
+
+S107E.Q60 HOW MUCH OF YOUR TRAINING TIME IS USED IN DOING THINGS THAT DO NOT SEEM IMPORTANT TO YOU?
+                      answer_label answer_value raw_counts relative_frequency
+0                        NO ANSWER          0.0        116               0.03
+1                      A LOT OF IT          1.0        794                0.2
+2                       SOME OF IT          2.0       1342               0.33
+3              ONLY A LITTLE OF IT          3.0        806                0.2
+4                       NONE OF IT          4.0        678               0.17
+5  I DO NOT HAVE ANY TRAINING TIME          5.0        289               0.07
+
+
+
+S107E.Q61 WHAT OTHER BRANCHES OF THE ARMY THAN THE MILITARY POLICE HAVE YOU EVER BEEN IN?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0        184               0.05
+1                            ENGINEERS          1.0         73               0.02
+2                      FIELD ARTILLERY          2.0        189               0.05
+3                  QUARTERMASTER CORPS          3.0         68               0.02
+4                             INFANTRY          4.0        668               0.17
+5                   MEDICAL DEPARTMENT          5.0         78               0.02
+6                      ARMORED COMMAND          6.0         53               0.01
+7                         SIGNAL CORPS          7.0         18                0.0
+8    COAST ARTILLERY AND ANTI-AIRCRAFT          8.0        150               0.04
+9                            AIR CORPS          9.0         10                0.0
+10                TRANSPORTATION CORPS         10.0         17                0.0
+11                 ORDNANCE DEPARTMENT         11.0         21               0.01
+12            CHEMICAL WARFARE SERVICE         12.0         20                0.0
+13                               OTHER         13.0         76               0.02
+14        MORE THAN ONE BRANCH CHECKED         14.0        342               0.08
+15  I HAVEN'T BEEN IN ANY OTHER BRANCH         15.0       2058               0.51
+
+
+
+S107E.Q62 HOW LONG WERE YOU IN SOME BRANCH OF SERVICE OTHER THAN THE MILITARY POLICE?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0        171               0.04
+1                    3 MONTHS OR LESS          1.0        328               0.08
+2        OVER 3 MONTHS UP TO 6 MONTHS          2.0        400                0.1
+3        OVER 6 MONTHS UP TO ONE YEAR          3.0        438               0.11
+4                         OVER 1 YEAR          4.0        660               0.16
+5  I HAVEN'T BEEN IN ANY OTHER BRANCH          5.0       2028                0.5
+
+
+
+S107E.Q63 WERE YOU GIVEN A LOWER RATING WHEN YOU WERE TRANSFERRED TO THE MILITARY POLICE FROM SOME OTHER BRANCH OF THE SERVICE?
+                         answer_label answer_value raw_counts relative_frequency
+0                  NO CODE OR NO DATA          0.0          2                0.0
+1                                 YES          1.0        280               0.07
+2                                  NO          2.0       1558               0.39
+3  I HAVEN'T BEEN IN ANY OTHER BRANCH          3.0       2064               0.51
+4                           NO ANSWER          4.0        121               0.03
+
+
+
+S107E.Q64 DO YOU NOW HAVE MORE OR LESS RESPECT FOR THE MILITARY POLICE THAN WHEN YOU FIRST ENTERED THIS BRANCH OF SERVICE?
+                              answer_label answer_value raw_counts relative_frequency
+0                                NO ANSWER          0.0         64               0.02
+1                  I NOW HAVE MORE RESPECT          1.0       2156               0.54
+2  I HAVE ABOUT THE SAME AMOUNT OF RESPECT          2.0       1317               0.33
+3                  I NOW HAVE LESS RESPECT          3.0        488               0.12
+
+
+
+S107E.Q65 SOME MEN THINK THERE IS NO NEED FOR A SEPARATE CORPS OF MILITARY POLICE. HOW WELL DO YOU THINK EACH BRANCH OF THE SERVICE COULD DO ITS OWN MILITARY POLICE WORK BY ITSELF?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         46               0.01
+1        VERY WELL          1.0        652               0.16
+2      FAIRLY WELL          2.0        490               0.12
+3      NOT SO WELL          3.0       1059               0.26
+4  NOT WELL AT ALL          4.0       1396               0.35
+5        UNDECIDED          5.0        382               0.09
+
+
+
+S107E.Q66 HOW MUCH DO YOU LIKE TO WEAR WHITE EQUIPMENT WHILE ON DUTY AS A MILITARY POLICEMAN?
+                                           answer_label answer_value raw_counts relative_frequency
+0                                             NO ANSWER          0.0        125               0.03
+1                                             VERY MUCH          1.0       1011               0.25
+2                                              SOMEWHAT          2.0       1004               0.25
+3                                            NOT AT ALL          3.0       1706               0.42
+4  NEVER HAD ANY, NEVER ISSUED ANY, DON'T WEAR IT, ETC.          4.0        179               0.04
+
+
+
+S107E.Q67 DO YOU FEEL THAT ANY OF YOUR WORK COULD BE DONE BY SOLDIERS WITH LESS TRAINING AND ABILITY THAN YOU HAVE?
+                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                  NO ANSWER          0.0         84               0.02
+1  ALMOST ALL OF IT COULD BE DONE BY SOLDIERS WITH LESS TRAINING AND ABILITY          1.0        831               0.21
+2                                                           MUCH OF IT COULD          2.0       1020               0.25
+3                                                       A LITTLE OF IT COULD          3.0       1516               0.38
+4                                                           NONE OF IT COULD          4.0        574               0.14
+
+
+
+S107E.Q68 HOW DO YOU LIKE WEARING THE MILITARY POLICE BRASSARD?
+              answer_label answer_value raw_counts relative_frequency
+0                NO ANSWER          0.0        106               0.03
+1   IT MAKES ME FEEL PROUD          1.0       1150               0.29
+2   IT MAKES NO DIFFERENCE          2.0       1870               0.46
+3  I DON'T LIKE TO WEAR IT          3.0        899               0.22
+
+
+
+S107E.Q69 DO TOO MANY OF THE ARMY RULES AND REGULATIONS SEEM USELESS TO YOU?
+                            answer_label answer_value raw_counts relative_frequency
+0                              NO ANSWER          0.0         51               0.01
+1             YES, TOO MANY SEEM USELESS          1.0       1237               0.31
+2  NO, I USED TO THINK SO, BUT DON'T NOW          2.0        999               0.25
+3                 NO, I NEVER THOUGHT SO          3.0       1299               0.32
+4                              UNDECIDED          4.0        439               0.11
+
+
+
+FORM..1FORM.
+            answer_label answer_value raw_counts relative_frequency
+0  S-107E - ENLISTED MEN          1.0       4025                1.0
+
+
+
+S107E.Q70HOW SERIOUS AN OFFENSE DO YOU THINK IT IS FOR A SOLDIER TO GO AWOL?
+                   answer_label answer_value raw_counts relative_frequency
+0            NO CODE OR NO DATA          0.0          2                0.0
+1                  VERY SERIOUS          1.0       1764               0.44
+2                PRETTY SERIOUS          2.0        562               0.14
+3                NOT SO SERIOUS          3.0        139               0.03
+4            NOT SERIOUS AT ALL          4.0         33               0.01
+5                     UNDECIDED          5.0         30               0.01
+6  IT DEPENDS ON THE CONDITIONS          6.0       1410               0.35
+7                     NO ANSWER          7.0         85               0.02
+
+
+
+S107E.Q71 SINCE YOU HAVE BEEN IN THE ARMY, HAVE YOU EVER BEEN PUNISHED FOR BREAKING RULES OR REGULATIONS?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0         33               0.01
+1      YES, ONCE OR TWICE          1.0        922               0.23
+2      YES, SEVERAL TIMES          2.0        100               0.02
+3  YES, QUITE A FEW TIMES          3.0         26               0.01
+4               NO, NEVER          4.0       2944               0.73
+
+
+
+S107E.Q72 WOULD YOU SAY THAT MOST OF THE MEN IN YOUR OUTFIT USUALLY PUT ALL THEY HAVE INTO THEIR ARMY DUTIES, OR DO THEY USUALLY WORK JUST HARD ENOUGH TO GET BY?
+                                              answer_label answer_value raw_counts relative_frequency
+0                                                NO ANSWER          0.0         42               0.01
+1        MOST OF THE MEN USUALLY PUT ALL THEY HAVE INTO IT          1.0       1287               0.32
+2  MOST OF THE MEN USUALLY WORK JUST HARD ENOUGH TO GET BY          2.0       2395                0.6
+3                                                UNDECIDED          3.0        301               0.07
+
+
+
+S107E.Q73 HOW ABOUT YOURSELF - WOULD YOU HONESTLY SAY THAT YOU USUALLY PUT ALL YOU HAVE INTO YOUR ARMY DUTIES, OR DO YOU USUALLY WORK JUST HARD ENOUGH TO GET BY?
+                                answer_label answer_value raw_counts relative_frequency
+0                                  NO ANSWER          0.0         64               0.02
+1           I USUALLY PUT ALL I HAVE INTO IT          1.0       2113               0.52
+2  I USUALLY WORK JUST HARD ENOUGH TO GET BY          2.0       1633               0.41
+3                                  UNDECIDED          3.0        215               0.05
+
+
+
+S107E.Q74 WHEN YOU GET A VERY IMPORTANT JOB TO DO, DO YOU WORRY ABOUT WHETHER YOU WILL DO ALL RIGHT OR NOT?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0         43               0.01
+1         I WORRY A LOT          1.0       1307               0.32
+2      I WORRY A LITTLE          2.0       1842               0.46
+3  I DON'T WORRY AT ALL          3.0        833               0.21
+
+
+
+S107E.Q75 DO YOU THINK YOU CAN MAKE GOOD IN THE ARMY?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0         68               0.02
+1  I FEEL PRETTY SURE I CAN MAKE GOOD          1.0       2363               0.59
+2    I AM NOT SO SURE I CAN MAKE GOOD          2.0       1025               0.25
+3                           UNDECIDED          3.0        569               0.14
+
+
+
+S107E.Q76 DO YOU THINK A SOLDIER WITH ABILITY HAS A GOOD CHANCE FOR PROMOTION IN THE ARMY?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0         98               0.02
+1    A VERY GOOD CHANCE          1.0       1354               0.34
+2  A FAIRLY GOOD CHANCE          2.0       1457               0.36
+3  NOT MUCH OF A CHANCE          3.0        743               0.18
+4      NO CHANCE AT ALL          4.0        174               0.04
+5             UNDECIDED          5.0        199               0.05
+
+
+
+S107E.Q77 DO YOU THINK MEN IN THE MILITARY POLICE HAVE AS GOOD A CHANCE FOR PROMOTION AS MEN IN OTHER BRANCHES OF THE SERVICE?
+                                                 answer_label answer_value raw_counts relative_frequency
+0                                                   NO ANSWER          0.0         61               0.02
+1          MILITARY POLICE HAVE A BETTER CHANCE FOR PROMOTION          1.0        133               0.03
+2    MILITARY POLICE HAVE JUST AS GOOD A CHANCE FOR PROMOTION          2.0       1279               0.32
+3  MILITARY POLICE DO NOT HAVE AS GOOD A CHANCE FOR PROMOTION          3.0       2552               0.63
+
+
+
+S107E.Q78 DO YOU THINK YOUR PRESENT ARMY ASSIGNMENT IN THE MILITARY POLICE GIVE YOU A FAIR CHANCE OF PROMOTION?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         57               0.01
+1          YES          1.0        863               0.21
+2           NO          2.0       1954               0.49
+3   DON'T KNOW          3.0       1151               0.29
+
+
+
+S107E.Q79 IT HAS BEEN SAID THAT SOME BRANCHES OF THE ARMY DO NOT GET AS MUCH CREDIT FROM THE GENERAL PUBLIC AS THEY DESERVE. CHECK THE BRANCHES LISTED BELOW THAT YOU THINK OUGHT TO GET MORE CREDIT FROM THE GENERAL PUBLIC. (FIELD ARTILLERY, INFANTRY, COAST ARTILLER
+                  answer_label answer_value raw_counts relative_frequency
+0           NO CODE OR NO DATA          0.0         10                0.0
+1      MILITARY POLICE CHECKED          1.0       2238               0.56
+2  MILITARY POLICE NOT CHECKED          2.0       1629                0.4
+3                    NO ANSWER          3.0        148               0.04
+
+
+
+S107E.Q80A DO YOU THINK THAT SOLDIERS IN OTHER BRANCHES OF SERVICE HAVE ANY IDEAS ABOUT THE MILITARY POLICE THAT ARE NOT TRUE?
+                                                                             answer_label answer_value raw_counts relative_frequency
+0                                                                               NO ANSWER          0.0         82               0.02
+1  SOLDIERS IN OTHER BRANCHES HAVE MANY IDEAS ABOUT THE MILITARY POLICE THAT ARE NOT TRUE          1.0       2410                0.6
+2  SOLDIERS IN OTHER BRANCHES HAVE SOME IDEAS ABOUT THE MILITARY POLICE THAT ARE NOT TRUE          2.0       1112               0.28
+3    SOLDIERS IN OTHER BRANCHES HAVE NO IDEAS ABOUT THE MILITARY POLICE THAT ARE NOT TRUE          3.0        119               0.03
+4                                                                               UNDECIDED          4.0        302               0.08
+
+
+
+S107E.Q81A DO YOU THINK THAT THE GENERAL PUBLIC HAS ANY IDEAS ABOUT THE MILITARY POLICE THAT ARE NOT TRUE?
+                                                            answer_label answer_value raw_counts relative_frequency
+0                                                              NO ANSWER          0.0        145               0.04
+1  THE PUBLIC HAS MANY IDEAS ABOUT THE MILITARY POLICE THAT ARE NOT TRUE          1.0       1114               0.28
+2  THE PUBLIC HAS SOME IDEAS ABOUT THE MILITARY POLICE THAT ARE NOT TRUE          2.0       1407               0.35
+3    THE PUBLIC HAS NO IDEAS ABOUT THE MILITARY POLICE THAT ARE NOT TRUE          3.0        313               0.08
+4                                                              UNDECIDED          4.0       1046               0.26
+
+
+
+S107E.Q82 WHICH ONE OF THESE BRANCHES DO YOU THINK GETS THE LEAST AMOUNT OF CREDIT FROM THE GENERAL PUBLIC?
+                        answer_label answer_value raw_counts relative_frequency
+0                          NO ANSWER          0.0        547               0.14
+1                    FIELD ARTILLERY          1.0        114               0.03
+2                           INFANTRY          2.0        765               0.19
+3  COAST ARTILLERY AND ANTI-AIRCRAFT          3.0        147               0.04
+4                    MILITARY POLICE          4.0       1846               0.46
+5                          AIR CORPS          5.0         85               0.02
+6                    ARMORED COMMAND          6.0         80               0.02
+7                          ENGINEERS          7.0        441               0.11
+
+
+
+S107E.Q83 IN YOUR OPINION, HOW "TOUGH" ARE MOST MILITARY POLICEMEN IN THEIR TREATMENT OF SOLDIERS?
+       answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER          0.0         92               0.02
+1        VERY TOUGH          1.0        375               0.09
+2    SOMEWHAT TOUGH          2.0       1941               0.48
+3  NOT TOUGH AT ALL          3.0       1617                0.4
+
+
+
+S107E.Q84 IN GENERAL, DO YOU THINK MILITARY POLICEMEN SHOULD BE MORE OR LESS "TOUGH" IN THEIR TREATMENT OF SOLDIERS?
+               answer_label answer_value raw_counts relative_frequency
+0                 NO ANSWER          0.0        118               0.03
+1                MORE TOUGH          1.0        516               0.13
+2  THE SAME AS THEY NOW ARE          2.0       2358               0.59
+3                LESS TOUGH          3.0       1033               0.26
+
+
+
+S107E.Q85 HOW MANY OF YOUR OFFICERS TAKE A PERSONAL INTEREST IN THEIR MEN?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0         79               0.02
+1         ALL OF THEM DO          1.0       1039               0.26
+2        MOST OF THEM DO          2.0        984               0.24
+3  ABOUT HALF OF THEM DO          3.0        501               0.12
+4         FEW OF THEM DO          4.0       1015               0.25
+5        NONE OF THEM DO          5.0        407                0.1
+
+
+
+S107E.Q86 HOW WELL DO YOU FEEL THAT YOUR OFFICERS UNDERSTAND YOUR PROBLEMS AND NEEDS?
+                                                 answer_label answer_value raw_counts relative_frequency
+0                                                   NO ANSWER          0.0        103               0.03
+1           THEY ARE VERY MUCH AWARE OF MY PROBLEMS AND NEEDS          1.0        837               0.21
+2         THEY ARE FAIRLY WELL AWARE OF MY PROBLEMS AND NEEDS          2.0       1350               0.34
+3  THEY DO NOT KNOW VERY MUCH ABOUT MY REAL PROBLEMS OR NEEDS          3.0       1735               0.43
+
+
+
+S107E.Q87 DO YOU THINK THAT YOUR OFFICERS GENERALLY DO WHAT THEY CAN TO HELP YOU?
+               answer_label answer_value raw_counts relative_frequency
+0                 NO ANSWER          0.0         85               0.02
+1         YES, ALL THE TIME          1.0        922               0.23
+2     YES, MOST OF THE TIME          2.0       1617                0.4
+3     NO, THEY OFTEN DO NOT          3.0       1002               0.25
+4  NO, THEY ALMOST NEVER DO          4.0        399                0.1
+
+
+
+S107E.Q88 DO YOU FEEL THAT YOUR OFFICERS RECOGNIZE YOUR ABILITIES AND WHAT YOU ARE ABLE TO DO?
+                            answer_label answer_value raw_counts relative_frequency
+0                              NO ANSWER          0.0         70               0.02
+1                  YES, I'M SURE THEY DO          1.0       1052               0.26
+2  YES, I THINK THEY DO BUT I'M NOT SURE          2.0       1148               0.29
+3              NO, I DON'T THINK THEY DO          3.0       1411               0.35
+4                              UNDECIDED          4.0        344               0.09
+
+
+
+S107E.Q89 HOW DO YOU FEEL ABOUT THE NONCOMS THAT HAVE BEEN PICKED FROM YOUR OUTFIT?
+                                          answer_label answer_value raw_counts relative_frequency
+0                                            NO ANSWER          0.0         84               0.02
+1   THEY ARE THE BEST ONES THAT COULD HAVE BEEN PICKED          1.0        424               0.11
+2  THEY ARE AS GOOD AS ANY THAT COULD HAVE BEEN PICKED          2.0       1034               0.26
+3          SOMEWHAT BETTER ONES COULD HAVE BEEN PICKED          3.0       1369               0.34
+4              MUCH BETTER ONES COULD HAVE BEEN PICKED          4.0        936               0.23
+5                                            UNDECIDED          5.0        178               0.04
+
+
+
+S107E.Q90 ARE CONDITIONS AND OPPORTUNITIES FOR SPORTS AND ATHLETICS SATISFACTORY IN YOUR OUTFIT?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         78               0.02
+1    VERY SATISFACTORY          1.0        685               0.17
+2         SATISFACTORY          2.0       1340               0.33
+3       UNSATISFACTORY          3.0        938               0.23
+4  VERY UNSATISFACTORY          4.0        528               0.13
+5            UNDECIDED          5.0        456               0.11
+
+
+
+S107E.Q91 IN GENERAL, WHAT SORT OF PHYSICAL CONDITION WOULD YOU SAY YOU ARE IN AT THE PRESENT TIME?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         54               0.01
+1  VERY GOOD PHYSICAL CONDITION          1.0        509               0.13
+2       GOOD PHYSICAL CONDITION          2.0        952               0.24
+3       FAIR PHYSICAL CONDITION          3.0       1667               0.41
+4       POOR PHYSICAL CONDITION          4.0        632               0.16
+5  VERY POOR PHYSICAL CONDITION          5.0        211               0.05
+
+
+
+S107E.Q92 WHEN YOUR FOOD IS SERVED, IS IT USUALLY FRESH AND HOT?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1                 YES          1.0       3132               0.78
+2                  NO          2.0        793                0.2
+3           NO ANSWER          3.0         98               0.02
+
+
+
+S107E.Q93 ARE CONDITIONS AND OPPORTUNITIES FOR KEEPING THE SOLDIER INFORMED ABOUT THE BACKGROUND AND PROGRESS OF THE WAR SATISFACTORY IN YOUR OUTFIT?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         72               0.02
+1    VERY SATISFACTORY          1.0        830               0.21
+2         SATISFACTORY          2.0       1786               0.44
+3       UNSATISFACTORY          3.0        598               0.15
+4  VERY UNSATISFACTORY          4.0        248               0.06
+5            UNDECIDED          5.0        491               0.12
+
+
+
+S107E.Q94 HOW SATISFACTORY ARE THE RECREATIONAL FACILITIES AVAILABLE TO YOUR UNIT?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         96               0.02
+1    VERY SATISFACTORY          1.0        530               0.13
+2         SATISFACTORY          2.0       1610                0.4
+3       UNSATISFACTORY          3.0        867               0.22
+4  VERY UNSATISFACTORY          4.0        442               0.11
+5            UNDECIDED          5.0        480               0.12
+
+
+
+S107E.Q95 DO YOU HAVE TROUBLE FINDING INTERESTING THINGS TO DO IN YOUR OFF-DUTY FREE TIME?
+       answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER          0.0        113               0.03
+1  MOST OF THE TIME          1.0        853               0.21
+2  MUCH OF THE TIME          2.0        715               0.18
+3    NOT VERY OFTEN          3.0       1488               0.37
+4             NEVER          4.0        856               0.21
+
+
+
+S107E.Q96 HOW MANY FURLOUGHS HAVE YOU HAD IN THE PAST 12 MONTHS?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          5                0.0
+1                NONE          1.0        762               0.19
+2                 ONE          2.0       2267               0.56
+3                 TWO          3.0        884               0.22
+4       THREE OR MORE          4.0         47               0.01
+5           NO ANSWER          5.0         60               0.01
+
+
+
+S107E.Q97 ABOUT HOW MANY TIMES IN THE PAST 30 DAYS HAVE YOU HAD LEAVE FROM CAMP FOR 12 HOURS OR MORE AT A TIME?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0        248               0.06
+1            ONE TIME          1.0        773               0.19
+2           TWO TIMES          2.0        608               0.15
+3         THREE TIMES          3.0        373               0.09
+4          FOUR TIMES          4.0        360               0.09
+5          FIVE TIMES          5.0         89               0.02
+6           SIX TIMES          6.0         73               0.02
+7         SEVEN TIMES          7.0         24               0.01
+8         EIGHT TIMES          8.0         39               0.01
+9          NINE TIMES          9.0         12                0.0
+10  TEN TIMES OR MORE         10.0        300               0.07
+11               NONE         11.0       1126               0.28
+
+
+
+S107E.Q98 DO YOU FEEL THAT YOU HAVE BEEN GIVEN YOUR FAIR SHARE OF FURLOUGHS AND PASSES?
+                                                     answer_label answer_value raw_counts relative_frequency
+0                                                       NO ANSWER          0.0         99               0.02
+1      YES, I HAVE HAD MY FAIR SHARE OF BOTH FURLOUGHS AND PASSES          1.0       1227                0.3
+2        I HAVE HAD MY FAIR SHARE OF FURLOUGHS, BUT NOT OF PASSES          2.0        767               0.19
+3        I HAVE HAD MY FAIR SHARE OF PASSES, BUT NOT OF FURLOUGHS          3.0        792                0.2
+4  NO, I HAVE NOT HAD MY FAIR SHARE OF EITHER FURLOUGHS OR PASSES          4.0       1140               0.28
+
+
+
+S107E.Q99 DO YOU THINK YOU HAVE TO SPEND MORE MONEY ON THE UPKEEP (LAUNDRY, DRY CLEANING, ETC.) OF YOUR UNIFORM THAN MEN IN OTHER BRANCHES OF SERVICE?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1                 YES          1.0       2527               0.63
+2                  NO          2.0       1398               0.35
+3           NO ANSWER          3.0         98               0.02
+
+
+
+S107E.Q100 HOW DO YOU THINK MEN IN YOUR PRESENT OUTFIT ARE SELECTED FOR PROMOTION?
+                      answer_label answer_value raw_counts relative_frequency
+0                        NO ANSWER          0.0        435               0.11
+1               BECAUSE OF ABILITY          1.0       1069               0.27
+2  BOOTLICKING OR PLAYING POLITICS          2.0       1649               0.41
+3                       PLAIN LUCK          3.0        430               0.11
+4     BEEN IN THE ARMY A LONG TIME          4.0        309               0.08
+5                            OTHER          5.0        133               0.03
+
+
+
+S107E.Q101 DOES YOUR OUTFIT HAVE A REGULAR SYSTEM OF PASSES AND FURLOUGHS SO THAT EACH MAN GETS HIS EQUAL SHARE OF WHATEVER PASSES OR FURLOUGHS ARE AVAILABLE?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          3                0.0
+1                 YES          1.0       2148               0.53
+2                  NO          2.0       1652               0.41
+3           NO ANSWER          3.0        222               0.06
+
+
+
+S107E.Q102 DO YOUR OFFICERS KNOW YOU BY NAME?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1                 YES          1.0       2828                0.7
+2                  NO          2.0        637               0.16
+3        I DON'T KNOW          3.0        478               0.12
+4           NO ANSWER          4.0         80               0.02
+
+
+
+S107E.Q103 HAVE YOUR OFFICERS EVER TALKED TO YOU PERSONALLY ABOUT HOW YOU WERE COMING ALONG WITH YOUR TRAINING OR WORK?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1          YES, OFTEN          1.0        556               0.14
+2      YES, SOMETIMES          2.0       1303               0.32
+3           NO, NEVER          3.0       2093               0.52
+4           NO ANSWER          4.0         71               0.02
+
+
+
+S107E.Q104 HAVE YOUR OFFICERS GIVEN YOUR OUTFIT ANY TALKS ON THE IMPORTANCE OF THE MILITARY POLICEMAN'S JOB?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1        YES, SEVERAL          1.0       2837                0.7
+2     YES, ONE OR TWO          2.0        864               0.21
+3            NO, NONE          3.0        248               0.06
+4           NO ANSWER          4.0         74               0.02
+
+
+
+S107E.Q105 DO YOUR OFFICERS GIVE YOU A GOOD CHANCE TO ASK QUESTIONS AS TO THE REASON WHY THINGS ARE DONE THE WAY THEY ARE?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0         50               0.01
+1         YES, ALWAYS          1.0       1224                0.3
+2        YES, USUALLY          2.0       1215                0.3
+3  NO, NOT VERY OFTEN          3.0        795                0.2
+4    NO, ALMOST NEVER          4.0        445               0.11
+5           UNDECIDED          5.0        296               0.07
+
+
+
+S107E.Q106 HOW OFTEN DOES IT HAPPEN THAT YOU ARE CALLED DOWN OR PUNISHED FOR SOMETHING YOU DIDN'T DO?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         55               0.01
+1   VERY OFTEN          1.0         76               0.02
+2        OFTEN          2.0        113               0.03
+3    SOMETIMES          3.0        526               0.13
+4  HARDLY EVER          4.0       1423               0.35
+5        NEVER          5.0       1832               0.46
+
+
+
+S107E.Q107 CAN YOU COUNT ON YOUR OFFICERS TO BACK YOU UP IN YOUR MILITARY POLICE DUTIES?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0        114               0.03
+1                YES, ALWAYS          1.0       1742               0.43
+2               YES, USUALLY          2.0       1569               0.39
+3  NO, YOU CAN'T COUNT ON IT          3.0        600               0.15
+
+
+
+S107E.Q108 WHAT FRAME OF MIND ARE YOUR OFFICERS USUALLY IN?
+                       answer_label answer_value raw_counts relative_frequency
+0                NO CODE OR NO DATA          0.0          2                0.0
+1              GOOD HUMOR, PLEASANT          1.0       1414               0.35
+2    MATTER-OF-FACT - BUSINESS LIKE          2.0       1770               0.44
+3  BAD HUMOR, IRRITABLE AND ON EDGE          3.0        444               0.11
+4     MEAN - TAKE IT OUT ON THE MEN          4.0        236               0.06
+5                         NO ANSWER          5.0        159               0.04
+
+
+
+S107E.Q109 WHICH OF THE FOLLOWING DESCRIPTIONS MOST CLOSELY FITS THE WAY THE MEN IN YOUR UNIT FEEL WHEN THEIR OFFICERS ARE AROUND?
+                                         answer_label answer_value raw_counts relative_frequency
+0                                           NO ANSWER          0.0        136               0.03
+1          FRIENDLY, LIKE TO HAVE THE OFFICERS AROUND          1.0       1281               0.32
+2                        RESPECTFUL, BUT NOT FRIENDLY          2.0       1093               0.27
+3            MATTER-OF-FACT, NOT ONE WAY OR THE OTHER          3.0        776               0.19
+4                          ILL-AT-EASE, UNCOMFORTABLE          4.0        385                0.1
+5  UNFRIENDLY, DON'T LIKE TO HAVE THE OFFICERS AROUND          5.0        354               0.09
+
+
+
+S107E.Q111A "BEING AN MP IS A SOFT JOB?"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        221               0.05
+1        AGREE          1.0        582               0.14
+2     DISAGREE          2.0       3222                0.8
+
+
+
+S107E.Q111B "THE MP'S LIKE TO SHOW OFF THEIR AUTHORITY?"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        280               0.07
+1        AGREE          1.0       1143               0.28
+2     DISAGREE          2.0       2602               0.65
+
+
+
+S107E.Q111C "THE MP'S HAVE A BAD REPUTATION?"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        302               0.08
+1        AGREE          1.0       2560               0.64
+2     DISAGREE          2.0       1163               0.29
+
+
+
+S107E.Q111D "MP'S LIKE TO HELP SOLDIERS WHO ARE IN TROUBLE?"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        286               0.07
+1        AGREE          1.0       3133               0.78
+2     DISAGREE          2.0        606               0.15
+
+
+
+S107E.Q111E "MOST SOLDIERS DO NOT LIKE THE MP'S?"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        213               0.05
+1        AGREE          1.0       3430               0.85
+2     DISAGREE          2.0        382               0.09
+
+
+
+S107E.Q111F "THE MP'S ARE THE BEST DISCIPLINED SOLDIERS IN THE ARMY?"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        297               0.07
+1        AGREE          1.0       2066               0.51
+2     DISAGREE          2.0       1662               0.41
+
+
+
+S107E.Q111G "IT DOESN'T TAKE AS MUCH TRAINING TO MAKE A MAN A GOOD MP AS IT DOES TO MAKE A MAN A GOOD SOLDIER IN OTHER BRANCHES OF SERVICE?"
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          3                0.0
+1               AGREE          1.0       1326               0.33
+2            DISAGREE          2.0       2445               0.61
+3           NO ANSWER          3.0        251               0.06
+
+
+
+S107E.Q112 DO YOU THINK YOU MIGHT WANT TO STAY IN THE ARMY AFTER THE WAR?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0        105               0.03
+1          YES, I WOULD WANT TO VERY MUCH          1.0        137               0.03
+2  YES, I MIGHT WANT TO, BUT I'M NOT SURE          2.0        431               0.11
+3       NO, I DON'T THINK I WOULD WANT TO          3.0        761               0.19
+4          NO, I WOULD NOT WANT TO AT ALL          4.0       2310               0.57
+5                               UNDECIDED          5.0        281               0.07
+
+
+
+S107E.Q113 DO YOU EVER GET THE FEELING THAT THIS WAR IS NOT WORTH FIGHTING?
+                 answer_label answer_value raw_counts relative_frequency
+0          NO CODE OR NO DATA          0.0          4                0.0
+1                  VERY OFTEN          1.0        224               0.06
+2                   SOMETIMES          2.0        528               0.13
+3  ONLY ONCE IN A GREAT WHILE          3.0        703               0.17
+4                       NEVER          4.0       2456               0.61
+5                   NO ANSWER          5.0        110               0.03
+
+
+
+S107E.V119 ATTITUDES TOWARD PROMOTIONS SCORE E. DERIVED FROM QUESTIONS 76, 77, 78
+          answer_label answer_value raw_counts relative_frequency
+0  ORIGINAL SCORE OF 8          1.0        557               0.14
+1  ORIGINAL SCORE OF 9          2.0        892               0.22
+2  ORIGINAL SCORE OF 0          3.0       1630                0.4
+3  ORIGINAL SCORE OF X          4.0        940               0.23
+4  SCORE NOT TABULATED          9.0          6                0.0
+
+
+
+S107E.V120 ATTITUDE TOWARD MILITARY POLICE SCORE E. DERIVED FROM QUESTIONS 68, 111B, 111D, 111F, 111G.
+          answer_label answer_value raw_counts relative_frequency
+0  ORIGINAL SCORE OF 1          1.0        566               0.14
+1  ORIGINAL SCORE OF 2          2.0        969               0.24
+2  ORIGINAL SCORE OF 3          3.0        938               0.23
+3  ORIGINAL SCORE OF 4          4.0        696               0.17
+4  ORIGINAL SCORE OF 5          5.0        465               0.12
+5  ORIGINAL SCORE OF 6          6.0        382               0.09
+6  SCORE NOT TABULATED          9.0          9                0.0
+
+
+
+S107E.V121 UNIDENTIFIED RATING C.O.:
+     answer_label answer_value raw_counts relative_frequency
+0  ORIGINAL PUNCH          1.0        408                0.1
+1  ORIGINAL PUNCH          2.0        511               0.13
+2  ORIGINAL PUNCH          3.0        404                0.1
+3  ORIGINAL PUNCH          4.0        343               0.09
+4    UNDESIGNATED          9.0       2359               0.59
+
+
+
+S107E.V122 TYPE OF MILITARY POLICE OUTFIT:
+                               answer_label answer_value raw_counts relative_frequency
+0                        NO CODE OR NO DATA          0.0          5                0.0
+1  SERVICE UNIT, MILITARY POLICE DETACHMENT          1.0       1146               0.28
+2        DIVISIONAL MILITARY POLICE PLATOON          2.0        351               0.09
+3                  TRAINING - RTC BATTALION          3.0        309               0.08
+4                  TRAINING - UTC BATTALION          4.0        156               0.04
+5           TRAINING - UTC ENGINEER COMPANY          5.0        257               0.06
+6                 MILITARY POLICE BATTALION          6.0        961               0.24
+7                          ENGINEER COMPANY          7.0        840               0.21
+
+
+
+S107E.V123 IDENTIFICATION OF CROSS SECTION:
+           answer_label answer_value raw_counts relative_frequency
+0  MEN IN CROSS SECTION          1.0       3249               0.81
+1       ALL OTHER CASES          2.0        776               0.19
+
+
+
+S107E.V124 CAMP AND OUTFIT IDENTIFICATION:
+                                                         answer_label answer_value raw_counts relative_frequency
+0                                                  NO CODE OR NO DATA          0.0          1                0.0
+1                          CAMP ADAIR, OREGON - DIVISION M.P. PLATOON          1.0         65               0.02
+2                       CAMP BENNING, GEORGIA - 312 M.P. ESC GRD. CO.          2.0         49               0.01
+3                       CAMP BENNING, GEORGIA - 578 M.P. ESC GRD. CO.          3.0         53               0.01
+4                       CAMP BENNING, GEORGIA - 471 M.P. ESC GRD. CO.          4.0         27               0.01
+5        CAMP BENNING, GEORGIA - M.P. SUBSECTION, HDQRS. DET. SECTION          5.0         63               0.02
+6                   CAMP BENNING, GEORGIA - 7TH DIVISION M.P. PLATOON          6.0         41               0.01
+7                 CAMP BUTNER, NORTH CAROLINA - 381 M.P. ESC GRD. CO.          7.0         70               0.02
+8                         CAMP BUTNER, NORTH CAROLINA - M.P. DET. S/C          8.0        138               0.03
+9              CAMP BUTNER, NORTH CAROLINA - 35 DIVISION M.P. PLATOON          9.0         40               0.01
+10                    CAMP CAMPBELL, KENTUCKY - 494 M.P. ESC GRD. CO.         10.0         53               0.01
+11                    CAMP CAMPBELL, KENTUCKY - 658 M.P. ESC GRD. CO.         11.0         57               0.01
+12                    CAMP CAMPBELL, KENTUCKY - 405 M.P. ESC GRD. CO.         12.0         50               0.01
+13              CAMP CAMPBELL, KENTUCKY - 1580 SCU STATION COMPLEMENT         13.0         70               0.02
+14                 CAMP CAMPBELL, KENTUCKY - 14 DIVISION M.P. PLATOON         14.0         39               0.01
+15                    CAMP CUSTER, MICHIGAN - 701 M.P. BN., COMPANY A         15.0         55               0.01
+16                    CAMP CUSTER, MICHIGAN - 701 M.P. BN., COMPANY B         16.0         48               0.01
+17                    CAMP CUSTER, MICHIGAN - 701 M.P. BN., COMPANY C         17.0         48               0.01
+18                    CAMP CUSTER, MICHIGAN - 701 M.P. BN., COMPANY D         18.0         53               0.01
+19              CAMP CUSTER, MICHIGAN - 784 M.P. BN. (UTC), COMPANY A         19.0         53               0.01
+20              CAMP CUSTER, MICHIGAN - 784 M.P. BN. (UTC), COMPANY B         20.0         39               0.01
+21              CAMP CUSTER, MICHIGAN - 784 M.P. BN. (UTC), COMPANY C         21.0         26               0.01
+22              CAMP CUSTER, MICHIGAN - 784 M.P. BN. (UTC), COMPANY D         22.0         41               0.01
+23                      CAMP CUSTER, MICHIGAN - 659 M.P. ESC GRD. CO.         23.0         49               0.01
+24                      CAMP CUSTER, MICHIGAN - 661 M.P. ESC GRD. CO.         24.0         41               0.01
+25                      CAMP CUSTER, MICHIGAN - 656 M.P. ESC GRD. CO.         25.0         50               0.01
+26                                   CAMP CUSTER, MICHIGAN - 1621 SCU         26.0         77               0.02
+27                      CAMP CUSTER, MICHIGAN - 418 M.P. ESC GRD. CO.         27.0         37               0.01
+28                      CAMP CUSTER, MICHIGAN - 432 M.P. ESC GRD. CO.         28.0         44               0.01
+29                      CAMP CUSTER, MICHIGAN - 491 M.P. ESC GRD. CO.         29.0         36               0.01
+30                     CAMP CUSTER, MICHIGAN - 26 M.P. BN., COMPANY A         30.0         57               0.01
+31                     CAMP CUSTER, MICHIGAN - 26 M.P. BN., COMPANY C         31.0         59               0.01
+32                     CAMP CUSTER, MICHIGAN - 29 M.P. BN., COMPANY E         32.0         52               0.01
+33                     CAMP CUSTER, MICHIGAN - 29 M.P. BN., COMPANY F         33.0         49               0.01
+34                     CAMP CUSTER, MICHIGAN - 29 M.P. BN., COMPANY G         34.0         44               0.01
+35                     CAMP CUSTER, MICHIGAN - 29 M.P. BN., COMPANY H         35.0         46               0.01
+36             CAMP JACKSON, NORTH CAROLINA - 791 M.P. BN., COMPANY A         36.0         42               0.01
+37             CAMP JACKSON, NORTH CAROLINA - 791 M.P. BN., COMPANY B         37.0         45               0.01
+38             CAMP JACKSON, NORTH CAROLINA - 791 M.P. BN., COMPANY C         38.0         43               0.01
+39             CAMP JACKSON, NORTH CAROLINA - 791 M.P. BN., COMPANY D         39.0         16                0.0
+40                      CAMP JACKSON, NORTH CAROLINA - HDQRS. SECTION         40.0         10                0.0
+41             CAMP JACKSON, NORTH CAROLINA - 506 M.P. BN., COMPANY A         41.0        110               0.03
+42             CAMP JACKSON, NORTH CAROLINA - 506 M.P. BN., COMPANY B         42.0         61               0.02
+43  CAMP JACKSON, NORTH CAROLINA - 1458 SCU STATION COMPLEMENT \(#1\)         43.0        144               0.04
+44      CAMP JACKSON, NORTH CAROLINA - 1414 SCU REHABILITATION CENTER         44.0         90               0.02
+45            CAMP JACKSON, NORTH CAROLINA - 87 DIVISION M.P. PLATOON         45.0         52               0.01
+46                             CAMP LEWIS, WASHINGTON - 1907 SCU M.P.         46.0         90               0.02
+47                              CAMP LEWIS, WASHINGTON - 772 M.P. BN.         47.0         82               0.02
+48        CAMP LEWIS, WASHINGTON - 378, 678 AND 679 M.P. ESC GRD. CO.         48.0         31               0.01
+49                                                 NEW YORK CITY AREA         49.0        155               0.04
+50                       CAMP POLK, LOUISIANA - 485 M.P. ESC GRD. CO.         50.0         50               0.01
+51                       CAMP POLK, LOUISIANA - 452 M.P. ESC GRD. CO.         51.0         48               0.01
+52                       CAMP POLK, LOUISIANA - 638 M.P. ESC GRD. CO.         52.0         59               0.01
+53                 CAMP POLK, LOUISIANA - 1880 SCU STATION COMPLEMENT         53.0        103               0.03
+54             CAMP SHELBY, MISSISSIPPI - 1473 SCU STATION COMPLEMENT         54.0         82               0.02
+55                 CAMP SHELBY, MISSISSIPPI - 601 M.P. BN., COMPANY A         55.0         44               0.01
+56                 CAMP SHELBY, MISSISSIPPI - 601 M.P. BN., COMPANY B         56.0         51               0.01
+57                 CAMP SHELBY, MISSISSIPPI - 601 M.P. BN., COMPANY C         57.0         41               0.01
+58                 CAMP SHELBY, MISSISSIPPI - 601 M.P. BN., COMPANY D         58.0         51               0.01
+59                   CAMP SHELBY, MISSISSIPPI - 386 M.P. ESC GRD. CO.         59.0         47               0.01
+60           CAMP SHELBY, MISSISSIPPI - HDQRS. DET. AND ATTACHED MED.         60.0         14                0.0
+61                   CAMP SHELBY, MISSISSIPPI - 355 M.P. ESC GRD. CO.         61.0         52               0.01
+62                CAMP SHELBY, MISSISSIPPI - 65 DIVISION M.P. PLATOON         62.0         35               0.01
+63                CAMP SHELBY, MISSISSIPPI - 69 DIVISION M.P. PLATOON         63.0         42               0.01
+64              CAMP LEONARD WOOD, MISSOURI - 757 M.P. BN., COMPANY A         64.0         28               0.01
+65              CAMP LEONARD WOOD, MISSOURI - 757 M.P. BN., COMPANY B         65.0         50               0.01
+66              CAMP LEONARD WOOD, MISSOURI - 757 M.P. BN., COMPANY C         66.0         31               0.01
+67              CAMP LEONARD WOOD, MISSOURI - 757 M.P. BN., COMPANY D         67.0         31               0.01
+68               CAMP LEONARD WOOD, MISSOURI - HDQRS. AND MED. DETACH         68.0         11                0.0
+69          CAMP LEONARD WOOD, MISSOURI - 1751 SCU STATION COMPLEMENT         69.0        135               0.03
+70                CAMP LEONARD WOOD, MISSOURI - 363 M.P. ESC GRD. CO.         70.0         71               0.02
+71                CAMP LEONARD WOOD, MISSOURI - 364 M.P. ESC GRD. CO.         71.0         70               0.02
+72                CAMP LEONARD WOOD, MISSOURI - 365 M.P. ESC GRD. CO.         72.0         54               0.01
+73             CAMP LEONARD WOOD, MISSOURI - 97 DIVISION M.P. PLATOON         73.0         34               0.01
+
+
+

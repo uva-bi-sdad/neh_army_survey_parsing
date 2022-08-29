@@ -1,0 +1,638 @@
+{
+  "FORM": {
+    "1.0": "A FORM",
+    "NaN": "IN THIS CODEBOOK THE NUMERICAL CODING OF SOME ITEMS IS REVERSED. THIS ASPECT OF THE ORIGINAL CODING WAS CONTINUED TO ACC",
+    "2.0": "B FORM"
+  },
+  "PS5B.Q1": {
+    "0.0": "NO ANSWER",
+    "1.0": "PRIVATE",
+    "2.0": "PRIVATE FIRST CLASS",
+    "3.0": "TECHNICIAN 5TH GRADE, CORPORAL",
+    "4.0": "TECHNICIAN 4TH GRADE, SERGEANT",
+    "5.0": "TECHNICIAN 3RD GRADE, STAFF SERGEANT",
+    "6.0": "TECHNICAL SERGEANT",
+    "7.0": "MASTER SERGEANT"
+  },
+  "PS5B.Q2": {
+    "0.0": "NO ANSWER",
+    "1.0": "NEW ENGLAND",
+    "2.0": "MIDDLE ATLANTIC",
+    "3.0": "EAST NORTH CENTRAL",
+    "4.0": "WEST NORTH CENTRAL",
+    "5.0": "SOUTH ATLANTIC",
+    "6.0": "EAST SOUTH CENTRAL",
+    "7.0": "WEST SOUTH CENTRAL",
+    "8.0": "MOUNTAIN",
+    "9.0": "PACIFIC",
+    "10.0": "FOREIGN"
+  },
+  "PS5B.Q3": {
+    "0.0": "NO ANSWER",
+    "1.0": "ON A FARM",
+    "2.0": "IN A TOWN WITH FEWER THAN 2,500 PEOPLE",
+    "3.0": "IN A CITY BETWEEN 2,500 AND 25,000",
+    "4.0": "IN A CITY BETWEEN 25,000 AND 100,000",
+    "5.0": "IN A CITY WITH MORE THAN 100,000"
+  },
+  "PS5B.Q4": {
+    "0.0": "NO ANSWER",
+    "1.0": "19 YEARS OR UNDER",
+    "2.0": "20 YEARS",
+    "3.0": "21-24",
+    "4.0": "25-27",
+    "5.0": "28-29",
+    "6.0": "30-34",
+    "7.0": "35 YEARS AND OVER"
+  },
+  "PS5B.Q5": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN 6TH GRADE",
+    "2.0": "FINISHED 6TH GRADE",
+    "3.0": "FINISHED 7TH GRADE",
+    "4.0": "FINISHED 8TH GRADE",
+    "5.0": "SOME HIGH SCHOOL OR TRADE SCHOOL",
+    "6.0": "GRADUATED FROM HIGH SCHOOL",
+    "7.0": "SOME COLLEGE BUT DID NOT FINISH",
+    "8.0": "COLLEGE GRADUATE"
+  },
+  "PS5B.Q6": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "SINGLE",
+    "2.0": "MARRIED",
+    "3.0": "DIVORCED",
+    "4.0": "WIDOWED",
+    "5.0": "SEPARATED",
+    "6.0": "NO ANSWER"
+  },
+  "PS5B.Q7A": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN 2 MONTHS",
+    "2.0": "2 OR 3 MONTHS",
+    "3.0": "4 OR 5 MONTHS",
+    "4.0": "6 OR 7 MONTHS",
+    "5.0": "8 OR 9 MONTHS",
+    "6.0": "10 OR 11 MONTHS",
+    "7.0": "12 OR 13 MONTHS",
+    "8.0": "14 OR 15 MONTHS",
+    "9.0": "16 TO 22 MONTHS",
+    "10.0": "22 MONTHS OR MORE",
+    "99.0": "SINGLE"
+  },
+  "PS5B.Q7B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "BEFORE ENTERING THE ARMY",
+    "2.0": "AFTER ENTERING THE ARMY",
+    "3.0": "NO ANSWER",
+    "9.0": "SINGLE"
+  },
+  "PS5B.Q8": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "NONE",
+    "2.0": "ONE",
+    "3.0": "TWO",
+    "4.0": "THREE OR MORE",
+    "5.0": "NO ANSWER",
+    "9.0": "SINGLE"
+  },
+  "PS5B.Q9": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "CATHOLIC",
+    "2.0": "JEWISH",
+    "3.0": "PROTESTANT",
+    "4.0": "OTHER",
+    "5.0": "NO ANSWER"
+  },
+  "PS5B.Q10": {
+    "0.0": "NO ANSWER",
+    "1.0": "OCT. 1942 TO PRESENT (3 MONTHS OR LESS)",
+    "2.0": "JULY 1942 TO SEPT. 1942 (4-6 MONTHS)",
+    "3.0": "JAN. 1942 TO JUNE 1942 (7-12 MONTHS)",
+    "4.0": "JAN. 1941 TO DEC. 1941 (1-2 YEARS)",
+    "5.0": "PRIOR TO JAN. 1941 (2 YEARS AND OVER)"
+  },
+  "PS5B.Q11": {
+    "0.0": "NO ANSWER",
+    "1.0": "PROFESSIONAL AND MANAGERIAL OCCUPATION",
+    "2.0": "CLERICAL AND SALES",
+    "3.0": "SERVICE",
+    "4.0": "AGRICULTURAL",
+    "5.0": "SKILLED WORKER",
+    "6.0": "SEMI-SKILLED WORKER",
+    "7.0": "UNSKILLED WORKER",
+    "8.0": "OTHERS"
+  },
+  "PS5B.Q12": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, VERY WELL",
+    "2.0": "YES, FAIRLY WELL",
+    "3.0": "UNDECIDED",
+    "4.0": "NO, POORLY",
+    "5.0": "NO, VERY POORLY"
+  },
+  "PS5B.Q13": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, VERY WELL",
+    "2.0": "YES, FAIRLY WELL",
+    "3.0": "DON'T KNOW",
+    "4.0": "NO, POORLY",
+    "5.0": "NO, VERY POORLY"
+  },
+  "PS5B.Q14": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, ONE OF THE BEST",
+    "2.0": "YES",
+    "3.0": "NO, NOT YET, BUT I WILL BE",
+    "4.0": "DON'T KNOW",
+    "5.0": "NO",
+    "6.0": "NO ANSWER"
+  },
+  "PS5B.Q15": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, ALL OF THE TIME",
+    "2.0": "YES, MOST OF THE TIME",
+    "3.0": "DON'T KNOW",
+    "4.0": "NO, OFTEN DO NOT",
+    "5.0": "NO, ALMOST NEVER DO"
+  },
+  "PS5B.Q16": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, VERY GOOD",
+    "2.0": "YES, GOOD",
+    "3.0": "DON'T KNOW",
+    "4.0": "NO, POOR",
+    "5.0": "NO, VERY POOR"
+  },
+  "PS5B.Q17": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, VERY PROUD",
+    "2.0": "YES, RATHER PROUD",
+    "3.0": "I HAVE NO PARTICULAR FEELING ABOUT IT",
+    "4.0": "NO, NOT PROUD",
+    "5.0": "NO, I'M ASHAMED OF IT",
+    "6.0": "NO ANSWER"
+  },
+  "PS5B.Q18": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, VERY MUCH",
+    "2.0": "YES, A LITTLE",
+    "3.0": "DON'T KNOW",
+    "4.0": "NO, NOT PARTICULARLY",
+    "5.0": "NO, NONE AT ALL",
+    "6.0": "NO ANSWER"
+  },
+  "PS5B.Q19": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, ABSOLUTELY THE BEST",
+    "2.0": "YES, AS GOOD AS ANY",
+    "3.0": "DON'T KNOW",
+    "4.0": "NO",
+    "5.0": "NO ANSWER"
+  },
+  "PS5B.Q20": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, ALWAYS",
+    "2.0": "YES, USUALLY",
+    "3.0": "DON'T KNOW",
+    "4.0": "NO, NOT VERY OFTEN",
+    "5.0": "NO, ALMOST NEVER"
+  },
+  "PS5B.Q21": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, A VERY GOOD CHANCE",
+    "2.0": "YES, A FAIRLY GOOD CHANCE",
+    "3.0": "DON'T KNOW",
+    "4.0": "NO, NOT MUCH OF A CHANCE",
+    "5.0": "NO CHANCE AT ALL",
+    "6.0": "NO ANSWER"
+  },
+  "PS5B.Q22": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, ABOUT AS GOOD AS ANY",
+    "2.0": "DON'T KNOW",
+    "3.0": "NO",
+    "4.0": "NO ANSWER"
+  },
+  "PS5B.Q23": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY SATISFIED",
+    "2.0": "SATISFIED",
+    "3.0": "UNDECIDED",
+    "4.0": "DISSATISFIED",
+    "5.0": "VERY DISSATISFIED",
+    "6.0": "NO ANSWER"
+  },
+  "PS5B.Q24": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN 6 MONTHS",
+    "2.0": "6 MONTHS TO 1 YEAR",
+    "3.0": "OVER 1 YEAR TO 2 YEARS",
+    "4.0": "OVER 2 YEARS TO 3 YEARS",
+    "5.0": "OVER 3 YEARS TO 4 YEARS",
+    "6.0": "OVER 4 YEARS TO 5 YEARS",
+    "7.0": "OVER 5 YEARS",
+    "8.0": "HAVEN'T ANY IDEA"
+  },
+  "PS5B.Q25": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "DUTY IN A COMBAT OUTFIT",
+    "2.0": "DUTY IN A NON-COMBAT OUTFIT",
+    "3.0": "NO ANSWER"
+  },
+  "PS5B.Q26": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "DUTY IN AN OUTFIT OVERSEAS",
+    "2.0": "DUTY IN AN OUTFIT IN THE U.S.",
+    "3.0": "NO ANSWER"
+  },
+  "PS5B.Q27": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, ONCE OR TWICE",
+    "2.0": "YES, SEVERAL TIMES",
+    "3.0": "NO",
+    "4.0": "NO ANSWER"
+  },
+  "PS5B.Q28": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY MUCH INTERESTED",
+    "2.0": "SOMEWHAT INTERESTED",
+    "3.0": "SLIGHTLY INTERESTED",
+    "4.0": "NOT INTERESTED AT ALL",
+    "5.0": "NO ANSWER"
+  },
+  "PS5B.Q29": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALMOST ALL OF THEM ARE",
+    "2.0": "A GOOD MANY ARE",
+    "3.0": "SOME, BUT NOT MANY ARE",
+    "4.0": "HARDLY ANY ARE",
+    "5.0": "NO OPINION"
+  },
+  "PS5B.Q30": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALMOST ALL OF THEM ARE",
+    "2.0": "A GOOD MANY ARE",
+    "3.0": "SOME, BUT NOT MANY ARE",
+    "4.0": "HARDLY ANY ARE",
+    "5.0": "NO OPINION"
+  },
+  "PS5B.Q31": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ALMOST ALL OF THEM ARE",
+    "2.0": "A GOOD MANY ARE",
+    "3.0": "SOME, BUT NOT MANY ARE",
+    "4.0": "HARDLY ANY ARE",
+    "5.0": "NO OPINION",
+    "6.0": "NO ANSWER"
+  },
+  "PS5B.Q32": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALMOST ALL OF THEM ARE",
+    "2.0": "A GOOD MANY ARE",
+    "3.0": "SOME, BUT NOT MANY ARE",
+    "4.0": "HARDLY ANY ARE",
+    "5.0": "NO OPINION"
+  },
+  "PS5B.Q33": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALMOST ALL OF THEM ARE",
+    "2.0": "A GOOD MANY ARE",
+    "3.0": "SOME, BUT NOT MANY ARE",
+    "4.0": "HARDLY ANY ARE",
+    "5.0": "NO OPINION"
+  },
+  "PS5B.Q34": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALMOST ALL OF THEM ARE",
+    "2.0": "A GOOD MANY ARE",
+    "3.0": "SOME, BUT NOT MANY ARE",
+    "4.0": "HARDLY ANY ARE",
+    "5.0": "NO OPINION"
+  },
+  "PS5B.Q35": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALMOST ALL OF THEM ARE",
+    "2.0": "A GOOD MANY ARE",
+    "3.0": "SOME, BUT NOT MANY ARE",
+    "4.0": "HARDLY ANY ARE",
+    "5.0": "NO OPINION"
+  },
+  "PS5B.Q36": {
+    "0.0": "NO ANSWER",
+    "1.0": "I AM STRONGLY IN FAVOR OF IT",
+    "2.0": "I AM NOT EXACTLY IN FAVOR OF IT, BUT IT MIGHT BE A GOOD IDEA",
+    "3.0": "I AM NOT EXACTLY AGAINST IT, BUT IT DOESN'T SEEM TO BE A GOOD IDEA",
+    "4.0": "I AM STRONGLY AGAINST IT",
+    "5.0": "NO OPINION"
+  },
+  "PS5B.Q37": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, THEY ARE COOPERATING ALL THEY POSSIBLY CAN",
+    "2.0": "YES, THEY ARE COOPERATING QUITE A BIT, BUT COULD COOPERATE MORE",
+    "3.0": "NO, THEY ARE NOT COOPERATING NEARLY AS MUCH AS THEY SHOULD",
+    "4.0": "NO OPINION",
+    "5.0": "NO ANSWER"
+  },
+  "PS5B.Q38": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "THEY ARE DOING ALL THEY CAN",
+    "2.0": "THEY ARE DOING QUITE A BIT, BUT COULD DO MORE",
+    "3.0": "THEY ARE NOT DOING NEARLY AS MUCH AS THEY COULD",
+    "4.0": "NO OPINION",
+    "5.0": "NO ANSWER"
+  },
+  "PS5B.Q39": {
+    "0.0": "NO ANSWER",
+    "1.0": "THEY ARE DOING ALL THEY CAN",
+    "2.0": "THEY ARE DOING QUITE A BIT, BUT COULD DO MORE",
+    "3.0": "THEY ARE NOT DOING NEARLY AS MUCH AS THEY COULD",
+    "4.0": "NO OPINION"
+  },
+  "PS5B.Q40": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "THEY ARE DOING ALL THEY CAN",
+    "2.0": "THEY ARE DOING QUITE A BIT, BUT COULD DO MORE",
+    "3.0": "THEY ARE NOT DOING NEARLY AS MUCH AS THEY COULD",
+    "4.0": "NO OPINION",
+    "5.0": "NO ANSWER"
+  },
+  "PS5B.Q41": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "THEY ARE DOING ALL THEY CAN",
+    "2.0": "THEY ARE DOING QUITE A BIT, BUT COULD DO MORE",
+    "3.0": "THEY ARE NOT DOING NEARLY AS MUCH AS THEY COULD",
+    "4.0": "NO OPINION",
+    "5.0": "NO ANSWER"
+  },
+  "PS5B.Q42": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "THEY ARE DOING ALL THEY CAN",
+    "2.0": "THEY ARE DOING QUITE A BIT, BUT COULD DO MORE",
+    "3.0": "THEY ARE NOT DOING NEARLY AS MUCH AS THEY COULD",
+    "4.0": "NO OPINION",
+    "5.0": "NO ANSWER"
+  },
+  "PS5B.Q43": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "BETTER",
+    "2.0": "WORSE",
+    "3.0": "ABOUT THE SAME",
+    "4.0": "NO ANSWER"
+  },
+  "PS5B.Q44": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "BETTER",
+    "2.0": "WORSE",
+    "3.0": "ABOUT THE SAME",
+    "4.0": "NO ANSWER"
+  },
+  "PS5B.Q45": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "BETTER",
+    "2.0": "WORSE",
+    "3.0": "ABOUT THE SAME",
+    "4.0": "NO ANSWER"
+  },
+  "PS5B.Q46": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "BETTER",
+    "2.0": "WORSE",
+    "3.0": "ABOUT THE SAME",
+    "4.0": "NO ANSWER"
+  },
+  "PS5B.Q47": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "BETTER",
+    "2.0": "WORSE",
+    "3.0": "ABOUT THE SAME",
+    "4.0": "NO ANSWER"
+  },
+  "PS5B.Q48": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I FEEL MORE AT EASE WITH CIVILIAN MEN",
+    "2.0": "I FEEL MORE AT EASE WITH OTHER SOLDIERS",
+    "3.0": "I FEEL ABOUT THE SAME WITH SOLDIERS OR WITH CIVILIAN MEN",
+    "4.0": "NO OPINION",
+    "5.0": "NO ANSWER"
+  },
+  "PS5B.Q49": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "THERE'S A LOT TO IT",
+    "2.0": "THERE MAY BE SOMETHING TO IT, BUT I'M STILL DOUBTFUL",
+    "3.0": "THERE IS NOT MUCH TO IT",
+    "4.0": "NO OPINION",
+    "5.0": "NO ANSWER"
+  },
+  "PS5B.Q50": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, I WOULD LIKE IT VERY MUCH",
+    "2.0": "YES, I MIGHT LIKE IT, BUT I'M NOT SURE",
+    "3.0": "NO, I DON'T THINK I WOULD LIKE IT",
+    "4.0": "NO, I WOULD NOT LIKE IT AT ALL",
+    "5.0": "NO OPINION"
+  },
+  "PS5B.Q51": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, I WOULD WANT TO VERY MUCH",
+    "2.0": "YES, I MIGHT WANT TO, BUT I'M NOT SURE",
+    "3.0": "NO, I DON'T THINK I WOULD WANT TO",
+    "4.0": "NO, I ABSOLUTELY WOULD NOT WANT TO",
+    "5.0": "NO OPINION"
+  },
+  "PS5B.Q52": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "HE THINKS MORE AND MORE ABOUT IT THE LONGER HE IS IN THE ARMY",
+    "2.0": "HE THINKS LESS AND LESS ABOUT IT THE LONGER HE IS IN THE ARMY",
+    "3.0": "HE THINKS ABOUT IT NO MORE AND NO LESS",
+    "4.0": "NO ANSWER"
+  },
+  "PS5B.Q53": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, TOO MANY SEEM USELESS",
+    "2.0": "NO, I USED TO THINK SO, BUT DON'T NOW",
+    "3.0": "NO, I NEVER THOUGHT SO",
+    "4.0": "NO OPINION",
+    "5.0": "NO ANSWER"
+  },
+  "PS5B.Q54": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "BETTER THAN BEFORE ENTERING THE ARMY",
+    "2.0": "WORSE THAN BEFORE ENTERING THE ARMY",
+    "3.0": "ABOUT THE SAME AS BEFORE ENTERING THE ARMY",
+    "4.0": "NO OPINION",
+    "5.0": "NO ANSWER"
+  },
+  "PS5B.Q55": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "BETTER THAN BEFORE THE WAR",
+    "2.0": "WORSE THAN BEFORE THE WAR",
+    "3.0": "ABOUT THE SAME AS BEFORE THE WAR",
+    "4.0": "NO OPINION",
+    "5.0": "NO ANSWER"
+  },
+  "PS5B.Q56A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I HAVE WONDERED A GREAT DEAL ABOUT IT",
+    "2.0": "I HAVE WONDERED FAIRLY OFTEN ABOUT IT",
+    "3.0": "I HAVE HARDLY EVER WONDERED ABOUT IT",
+    "4.0": "I HAVE NEVER WONDERED ABOUT IT",
+    "5.0": "NO OPINION",
+    "6.0": "NO ANSWER"
+  },
+  "PS5B.Q56B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I HAVE WONDERED A GREAT DEAL ABOUT IT",
+    "2.0": "I HAVE WONDERED FAIRLY OFTEN ABOUT IT",
+    "3.0": "I HAVE HARDLY EVER WONDERED ABOUT IT",
+    "4.0": "I HAVE NEVER WONDERED ABOUT IT",
+    "5.0": "NO OPINION",
+    "6.0": "NO ANSWER"
+  },
+  "PS5B.Q56C": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I HAVE WONDERED A GREAT DEAL ABOUT IT",
+    "2.0": "I HAVE WONDERED FAIRLY OFTEN ABOUT IT",
+    "3.0": "I HAVE HARDLY EVER WONDERED ABOUT IT",
+    "4.0": "I HAVE NEVER WONDERED ABOUT IT",
+    "5.0": "NO OPINION",
+    "6.0": "NO ANSWER"
+  },
+  "PS5B.Q56D": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I HAVE WONDERED A GREAT DEAL ABOUT IT",
+    "2.0": "I HAVE WONDERED FAIRLY OFTEN ABOUT IT",
+    "3.0": "I HAVE HARDLY EVER WONDERED ABOUT IT",
+    "4.0": "I HAVE NEVER WONDERED ABOUT IT",
+    "5.0": "NO OPINION",
+    "6.0": "NO ANSWER"
+  },
+  "PS5B.Q56E": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I HAVE WONDERED A GREAT DEAL ABOUT IT",
+    "2.0": "I HAVE WONDERED FAIRLY OFTEN ABOUT IT",
+    "3.0": "I HAVE HARDLY EVER WONDERED ABOUT IT",
+    "4.0": "I HAVE NEVER WONDERED ABOUT IT",
+    "5.0": "NO OPINION",
+    "6.0": "NO ANSWER"
+  },
+  "PS5B.Q56F": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I HAVE WONDERED A GREAT DEAL ABOUT IT",
+    "2.0": "I HAVE WONDERED FAIRLY OFTEN ABOUT IT",
+    "3.0": "I HAVE HARDLY EVER WONDERED ABOUT IT",
+    "4.0": "I HAVE NEVER WONDERED ABOUT IT",
+    "5.0": "NO OPINION",
+    "6.0": "NO ANSWER"
+  },
+  "PS5B.Q56G": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I HAVE WONDERED A GREAT DEAL ABOUT IT",
+    "2.0": "I HAVE WONDERED FAIRLY OFTEN ABOUT IT",
+    "3.0": "I HAVE HARDLY EVER WONDERED ABOUT IT",
+    "4.0": "I HAVE NEVER WONDERED ABOUT IT",
+    "5.0": "NO OPINION",
+    "6.0": "NO ANSWER"
+  },
+  "PS5B.Q56H": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I HAVE WONDERED A GREAT DEAL ABOUT IT",
+    "2.0": "I HAVE WONDERED FAIRLY OFTEN ABOUT IT",
+    "3.0": "I HAVE HARDLY EVER WONDERED ABOUT IT",
+    "4.0": "I HAVE NEVER WONDERED ABOUT IT",
+    "5.0": "NO OPINION",
+    "6.0": "NO ANSWER"
+  },
+  "PS5B.Q56I": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I HAVE WONDERED A GREAT DEAL ABOUT IT",
+    "2.0": "I HAVE WONDERED FAIRLY OFTEN ABOUT IT",
+    "3.0": "I HAVE HARDLY EVER WONDERED ABOUT IT",
+    "4.0": "I HAVE NEVER WONDERED ABOUT IT",
+    "5.0": "NO OPINION",
+    "6.0": "NO ANSWER"
+  },
+  "PS5B.Q56J": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I HAVE WONDERED A GREAT DEAL ABOUT IT",
+    "2.0": "I HAVE WONDERED FAIRLY OFTEN ABOUT IT",
+    "3.0": "I HAVE HARDLY EVER WONDERED ABOUT IT",
+    "4.0": "I HAVE NEVER WONDERED ABOUT IT",
+    "5.0": "NO OPINION",
+    "6.0": "NO ANSWER"
+  },
+  "PS5B.Q56K": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I HAVE WONDERED A GREAT DEAL ABOUT IT",
+    "2.0": "I HAVE WONDERED FAIRLY OFTEN ABOUT IT",
+    "3.0": "I HAVE HARDLY EVER WONDERED ABOUT IT",
+    "4.0": "I HAVE NEVER WONDERED ABOUT IT",
+    "5.0": "NO OPINION",
+    "6.0": "NO ANSWER"
+  },
+  "PS5B.Q56L": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I HAVE WONDERED A GREAT DEAL ABOUT IT",
+    "2.0": "I HAVE WONDERED FAIRLY OFTEN ABOUT IT",
+    "3.0": "I HAVE HARDLY EVER WONDERED ABOUT IT",
+    "4.0": "I HAVE NEVER WONDERED ABOUT IT",
+    "5.0": "NO OPINION",
+    "6.0": "NO ANSWER"
+  },
+  "PS5B.Q56M": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I HAVE WONDERED A GREAT DEAL ABOUT IT",
+    "2.0": "I HAVE WONDERED FAIRLY OFTEN ABOUT IT",
+    "3.0": "I HAVE HARDLY EVER WONDERED ABOUT IT",
+    "4.0": "I HAVE NEVER WONDERED ABOUT IT",
+    "5.0": "NO OPINION",
+    "6.0": "NO ANSWER"
+  },
+  "FORM..1": {
+    "1.0": "FORM A",
+    "2.0": "FORM B"
+  },
+  "PS5B.Q57": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "DON'T KNOW",
+    "4.0": "NO ANSWER"
+  },
+  "PS5B.Q58": {
+    "0.0": "NO ANSWER, INAPPLICABLE",
+    "NaN": "Q.59 NOT CODED.",
+    "1.0": "$1,000",
+    "2.0": "2,000",
+    "3.0": "3,000",
+    "4.0": "4,000",
+    "5.0": "5,000",
+    "6.0": "6,000",
+    "7.0": "7,000",
+    "8.0": "8,000",
+    "9.0": "9,000",
+    "10.0": "10,000",
+    "11.0": "DON'T REMEMBER"
+  },
+  "PS5B.V61": {
+    "0.0": "NUMBER OF POSITIVE RESPONSES: NONE",
+    "1.0": "ONE",
+    "2.0": "TWO",
+    "3.0": "THREE",
+    "NaN": "NA",
+    "4.0": "FOUR",
+    "5.0": "FIVE",
+    "6.0": "SIX"
+  },
+  "PS5B.V63": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "EDWARDS, MASS.",
+    "2.0": "ETHAN ALLEN, VT.",
+    "3.0": "STEWART, GA.",
+    "4.0": "COLUMBIA AIR BASE, S.C.",
+    "5.0": "FUNSTON, CALIF.",
+    "6.0": "RILEY, KANSAS",
+    "7.0": "SAM HOUSTON, TEXAS",
+    "8.0": "SAN LUIS OBISPO, CALIF.",
+    "9.0": "LOS ANGELES, CALIF., 329TH FIGHTER GROUP"
+  }
+}

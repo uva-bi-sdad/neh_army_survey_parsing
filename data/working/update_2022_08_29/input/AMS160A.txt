@@ -1,0 +1,450 @@
+FORMFORM
+  answer_label answer_value raw_counts relative_frequency
+0       S-160A          1.0        403                1.0
+
+
+
+S160A.Q1 WHAT IS YOUR RANK OR GRADE?
+                                             answer_label answer_value raw_counts relative_frequency
+0                                               NO ANSWER          0.0         15               0.04
+1                                                 PRIVATE          1.0        127               0.32
+2                                     PRIVATE FIRST CLASS          2.0         89               0.22
+3                                        CORPORAL OR TECH          3.0         85               0.21
+4                                        SERGEANT OR TECH          4.0         44               0.11
+5                                  STAFF SERGEANT OR TECH          5.0         32               0.08
+6  TECHNICAL SERGEANT, MASTER SERGEANT, OR FIRST SERGEANT          6.0         11               0.03
+
+
+
+S160A.Q2 WHAT BRANCH OF THE ARMY ARE YOU IN NOW?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0         13               0.03
+1                           ENGINEERS          1.0         46               0.11
+2                     FIELD ARTILLERY          2.0         26               0.06
+3                 QUARTERMASTER CORPS          3.0         66               0.16
+4                            INFANTRY          4.0         95               0.24
+5                       MEDICAL CORPS          5.0         31               0.08
+6                     ARMORED COMMAND          6.0         12               0.03
+7                        SIGNAL CORPS          7.0         33               0.08
+8   COAST ARTILLERY AND ANTI-AIRCRAFT          8.0          2                0.0
+9                TRANSPORTATION CORPS         10.0         40                0.1
+10                ORDNANCE DEPARTMENT         11.0         25               0.06
+11                    MILITARY POLICE         13.0         12               0.03
+12                              OTHER         14.0          2                0.0
+
+
+
+S160A.Q3 WHAT IS YOUR MAIN ARMY JOB AT THE PRESENT TIME? (TELL EXACTLY WHAT IT IS, AS "SQUAD LEADER IN RIFLE COMPANY", "DRIVER IN HEAVY TRUCKING COMPANY", "TANK COMMANDER (MEDIUM TANKS)", "COOK IN REGIMENTAL MESS", "CLERK IN DIVISION CP", OR WHATEVER YOUR JOB IS.
+                     answer_label answer_value raw_counts relative_frequency
+0                       NO ANSWER          0.0         38               0.09
+1        LINE JOB IN INFANTRY CO.          1.0         79                0.2
+2    NON-LINE JOB IN INFANTRY CO.          2.0         15               0.04
+3  INFANTRY JOB - NOT IN LINE CO.          3.0          1                0.0
+4        ARMORED COMMAND LINE JOB          4.0          9               0.02
+5             TANK DESTROYERS JOB          5.0          4               0.01
+6             FIELD ARTILLERY JOB          6.0         25               0.06
+7                         SOS JOB          7.0        231               0.57
+8                    UNCLASSIFIED          8.0          1                0.0
+
+
+
+S160A.Q4 HOW LONG HAVE YOU BEEN OVERSEAS?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0         12               0.03
+1    LESS THAN 3 MONTHS          1.0         58               0.14
+2  3 MONTHS TO 6 MONTHS          2.0         49               0.12
+3    6 MONTHS TO 1 YEAR          3.0        121                0.3
+4     1 YEAR TO 2 YEARS          4.0        130               0.32
+5          OVER 2 YEARS          5.0         33               0.08
+
+
+
+S160A.Q5A HOW LONG HAVE YOU HAD YOUR FIELD JACKET?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         23               0.06
+1                     ONE MONTH          1.0         23               0.06
+2                    TWO MONTHS          2.0         51               0.13
+3                  THREE MONTHS          3.0         63               0.16
+4                   FOUR MONTHS          4.0         53               0.13
+5                   FIVE MONTHS          5.0         28               0.07
+6                    SIX MONTHS          6.0         55               0.14
+7         SEVEN TO EIGHT MONTHS          7.0         55               0.14
+8            NINE TO TEN MONTHS          8.0         18               0.04
+9       ELEVEN TO TWELVE MONTHS          9.0         13               0.03
+10  THIRTEEN TO EIGHTEEN MONTHS         10.0         13               0.03
+11         OVER EIGHTEEN MONTHS         11.0          8               0.02
+
+
+
+S160A.Q5B WHAT KIND OF CONDITION WOULD YOU SAY IT IS IN NOW?
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0         20               0.05
+1                   VERY GOOD          1.0         42                0.1
+2                        GOOD          2.0        102               0.25
+3                        FAIR          3.0        177               0.44
+4                        POOR          4.0         41                0.1
+5                   VERY POOR          5.0         20               0.05
+6  DO NOT HAVE A FIELD JACKET          6.0          1                0.0
+
+
+
+S160A.Q5C ABOUT HOW MUCH LONGER DO YOU EXPECT IT WILL WEAR?
+                                   answer_label answer_value raw_counts relative_frequency
+0                                     NO ANSWER          0.0         46               0.11
+1                                     ONE MONTH          1.0         56               0.14
+2                                    TWO MONTHS          2.0         85               0.21
+3                                  THREE MONTHS          3.0         52               0.13
+4                                   FOUR MONTHS          4.0         34               0.08
+5                            FIVE OR SIX MONTHS          5.0         50               0.12
+6                         SEVEN OR EIGHT MONTHS          6.0         14               0.03
+7                            NINE OR TEN MONTHS          7.0         10               0.02
+8                             11 MONTHS OR MORE          8.0         18               0.04
+9                                    DON'T KNOW          9.0          5               0.01
+10  INDEFINITE PERIOD INDICATING A "SHORT TIME"         10.0         26               0.06
+11   INDEFINITE PERIOD INDICATING A "LONG TIME"         11.0          7               0.02
+
+
+
+S160A.Q6A IF YOU HAD YOUR CHOICE, WHICH OF THE FOLLOWING WOULD YOU RATHER HAVE?
+                              answer_label answer_value raw_counts relative_frequency
+0                             FIELD JACKET          1.0         62               0.15
+1           "NEW" FIELD JACKET (LONG TYPE)          2.0         11               0.03
+2  SOME OTHER KIND OF FIELD JACKET OR COAT          4.0         25               0.06
+3                                NO ANSWER          0.0         10               0.02
+4                            COMBAT JACKET          3.0        295               0.73
+
+
+
+S160A.Q7 DO YOU THINK THE PRESENT FIELD JACKET IS THE RIGHT COLOR? IF NO, WHAT COLOR WOULD YOU RECOMMEND?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         12               0.03
+1                           YES          1.0        276               0.68
+2    NO, AND NO COLOR MENTIONED          2.0         11               0.03
+3  NO, AND SOME COLOR MENTIONED          3.0        104               0.26
+
+
+
+S160A.Q8 HAVE YOU SEEN A GERMAN GARMENT USED FOR THE SAME PURPOSE AS OUR FIELD JACKET THAT YOU THINK IS BETTER THAN OURS? IF YES, DESCRIBE IT BRIEFLY.
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         25               0.06
+1                            NO          1.0        353               0.88
+2    YES, AND NOTHING DESCRIBED          2.0          4               0.01
+3  YES, AND SOMETHING DESCRIBED          3.0         21               0.05
+
+
+
+S160A.Q9A1 FIELD JACKET?
+       answer_label answer_value raw_counts relative_frequency
+0      ITEM CHECKED          1.0        291               0.72
+1  ITEM NOT CHECKED          2.0        112               0.28
+
+
+
+S160A.Q9A2 COMBAT JACKET?
+       answer_label answer_value raw_counts relative_frequency
+0      ITEM CHECKED          1.0         66               0.16
+1  ITEM NOT CHECKED          2.0        337               0.84
+
+
+
+S160A.Q9A3 MACKINAW?
+       answer_label answer_value raw_counts relative_frequency
+0      ITEM CHECKED          1.0         59               0.15
+1  ITEM NOT CHECKED          2.0        344               0.85
+
+
+
+S160A.Q9A4 SWEATER?
+       answer_label answer_value raw_counts relative_frequency
+0      ITEM CHECKED          1.0         83               0.21
+1  ITEM NOT CHECKED          2.0        320               0.79
+
+
+
+S160A.Q9A5 LIGHT UNDERWEAR TOP?
+       answer_label answer_value raw_counts relative_frequency
+0      ITEM CHECKED          1.0         89               0.22
+1  ITEM NOT CHECKED          2.0        314               0.78
+
+
+
+S160A.Q9A6 HEAVY UNDERWEAR TOP?
+       answer_label answer_value raw_counts relative_frequency
+0      ITEM CHECKED          1.0        257               0.64
+1  ITEM NOT CHECKED          2.0        146               0.36
+
+
+
+S160A.Q9A7 EXTRA LINER FOR FIELD JACKET?
+       answer_label answer_value raw_counts relative_frequency
+0      ITEM CHECKED          1.0          7               0.02
+1  ITEM NOT CHECKED          2.0        396               0.98
+
+
+
+S160A.Q9A8 OVERCOAT?
+       answer_label answer_value raw_counts relative_frequency
+0      ITEM CHECKED          1.0         95               0.24
+1  ITEM NOT CHECKED          2.0        308               0.76
+
+
+
+S160A.Q9B WOULD YOU HAVE WORN OTHER PIECES OF CLOTHING IF YOU COULD HAVE GOTTEN THEM? IF YES, WHAT ARTICLES OF CLOTHING WERE NEEDED?
+               answer_label answer_value raw_counts relative_frequency
+0                 NO ANSWER          0.0         24               0.06
+1       NO, THIS WAS ENOUGH          1.0        167               0.41
+2    YES, NOTHING SPECIFIED          2.0          8               0.02
+3  YES, SOMETHING SPECIFIED          3.0        204               0.51
+
+
+
+S160A.Q10A HOW LONG HAVE YOU HAD YOUR RAINCOAT?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0         21               0.05
+1                                   ONE MONTH          1.0         22               0.05
+2                                  TWO MONTHS          2.0         35               0.09
+3                                THREE MONTHS          3.0         59               0.15
+4                                 FOUR MONTHS          4.0         40                0.1
+5                                 FIVE MONTHS          5.0         18               0.04
+6                                  SIX MONTHS          6.0         39                0.1
+7                      SEVEN TO TWELVE MONTHS          7.0         81                0.2
+8                    THIRTEEN MONTHS AND OVER          8.0         86               0.21
+9   INDEFINITE PERIOD INDICATING "SHORT TIME"         10.0          1                0.0
+10   INDEFINITE PERIOD INDICATING "LONG TIME"         11.0          1                0.0
+
+
+
+S160A.Q10B WHAT KIND OF CONDITION WOULD YOU SAY IT IS IN NOW?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0         15               0.04
+1               VERY GOOD          1.0         67               0.17
+2                    GOOD          2.0        101               0.25
+3                    FAIR          3.0        107               0.27
+4                    POOR          4.0         71               0.18
+5               VERY POOR          5.0         37               0.09
+6  DO NOT HAVE A RAINCOAT          6.0          5               0.01
+
+
+
+S160A.Q10C ABOUT HOW MUCH LONGER DO YOU EXPECT IT WILL WEAR?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0         47               0.12
+1                                   ONE MONTH          1.0         34               0.08
+2                                  TWO MONTHS          2.0         37               0.09
+3                                THREE MONTHS          3.0         30               0.07
+4                                 FOUR MONTHS          4.0         28               0.07
+5                                 FIVE MONTHS          5.0          4               0.01
+6                                  SIX MONTHS          6.0         61               0.15
+7                      SEVEN TO TWELVE MONTHS          7.0         52               0.13
+8                    THIRTEEN MONTHS AND OVER          8.0         14               0.03
+9   INDEFINITE PERIOD INDICATING "SHORT TIME"         10.0         45               0.11
+10   INDEFINITE PERIOD INDICATING "LONG TIME"         11.0         51               0.13
+
+
+
+S160A.Q12A HAVE YOU SEEN A GERMAN GARMENT THAT YOU THINK IS BETTER THAN OUR GI RAINCOAT? IF YES, DESCRIBE IT BRIEFLY.
+               answer_label answer_value raw_counts relative_frequency
+0                 NO ANSWER          0.0         59               0.15
+1                        NO          1.0        305               0.76
+2    YES, NOTHING DESCRIBED          2.0          2                0.0
+3  YES, SOMETHING DESCRIBED          3.0         37               0.09
+
+
+
+S160A.Q13 WHICH WOULD YOU RATHER WEAR IN VERY COLD WEATHER - AN ISSUE OVERCOAT OR A MACKINAW?
+                     answer_label answer_value raw_counts relative_frequency
+0                       NO ANSWER          0.0         17               0.04
+1  WOULD RATHER WEAR THE MACKINAW          1.0        166               0.41
+2  WOULD RATHER WEAR THE OVERCOAT          2.0        220               0.55
+
+
+
+S160A.Q14A IS YOUR GI OVERCOAT WARM ENOUGH FOR VERY COLD WEATHER?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0         15               0.04
+1         YES, ALMOST ALWAYS          1.0        191               0.47
+2               YES, USUALLY          2.0        175               0.43
+3  NO, OFTEN NOT WARM ENOUGH          3.0         22               0.05
+
+
+
+S160A.Q14B WHICH OF THE FOLLOWING WOULD YOU SAY BEST TELLS ABOUT THE LENGTH OF THE COAT?
+                                              answer_label answer_value raw_counts relative_frequency
+0                                                NO ANSWER          0.0         17               0.04
+1                                           IT IS TOO LONG          1.0         66               0.16
+2                        IT IS JUST ABOUT THE RIGHT LENGTH          3.0        299               0.74
+3  IT IS JUST ABOUT THE RIGHT LENGTH, QUALIFIED BY COMMENT          4.0          2                0.0
+4                                          IT IS TOO SHORT          5.0         19               0.05
+
+
+
+S160A.Q16 WHICH ONE OF THE FOLLOWING WOULD YOU RATHER HAVE FOR GENERAL ALL-ROUND WINTER WEAR?
+                        answer_label answer_value raw_counts relative_frequency
+0                          NO ANSWER          0.0         19               0.05
+1                        GI OVERCOAT          1.0        104               0.26
+2  GI OVERCOAT, QUALIFIED BY COMMENT          2.0          3               0.01
+3                           MACKINAW          3.0        122                0.3
+4     MACKINAW, QUALIFIED BY COMMENT          4.0          2                0.0
+5   TRENCHCOAT WITH DETACHABLE LINER          5.0        153               0.38
+
+
+
+S160A.Q17A ARE YOU NOW WEARING LONG WOOLEN UNDERWEAR?
+                        answer_label answer_value raw_counts relative_frequency
+0                          NO ANSWER          0.0         12               0.03
+1  WEARING BOTH TOP AND BOTTOM PARTS          1.0         87               0.22
+2              WEARING TOP PART ONLY          2.0        234               0.58
+3           WEARING BOTTOM PART ONLY          3.0          7               0.02
+4         AM NOT WEARING EITHER PART          4.0         63               0.16
+
+
+
+S160A.Q17B IF YOU ARE NOT WEARING THIS UNDERWEAR, WHAT IS THE REASON?
+              answer_label answer_value raw_counts relative_frequency
+0                NO ANSWER          0.0        230               0.57
+1  BECAUSE I DON'T WANT IT          1.0        132               0.33
+2   BECAUSE I CAN'T GET IT          2.0         41                0.1
+
+
+
+S160A.Q18A HOW MANY BLANKETS DO YOU ORDINARILY USE AT PRESENT?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         10               0.02
+1          ONE          1.0          1                0.0
+2          TWO          2.0        107               0.27
+3        THREE          3.0        156               0.39
+4         FOUR          4.0        129               0.32
+
+
+
+S160A.Q18B IS THIS ENOUGH TO KEEP YOU WARM?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         16               0.04
+1          YES          1.0        173               0.43
+2           NO          2.0        214               0.53
+
+
+
+S160A.Q19 HOW DO YOU USUALLY CARRY YOUR BLANKETS?
+                                  answer_label answer_value raw_counts relative_frequency
+0                                    NO ANSWER          0.0         11               0.03
+1  FOLDED INTO DUFFLE BAG OR SIMILAR CONTAINER          1.0        102               0.25
+2           WRAPPED IN SHELTER HALF AND ROLLED          2.0        177               0.44
+3                                    IN A PACK          3.0         44               0.11
+4       SOME OTHER WAY, BUT NOTHING WRITTEN IN          5.0          1                0.0
+5     SOME OTHER WAY, AND SOMETHING WRITTEN IN          6.0         19               0.05
+6                              CHECKED 2 AND 3          7.0          9               0.02
+7                              CHECKED 1 AND 3          8.0         16               0.04
+8                       ALL OTHER COMBINATIONS          9.0         24               0.06
+
+
+
+S160A.Q21A DO YOU HAVE AN INFANTRY FIELD PACK (HAVERSACK)?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         17               0.04
+1          YES          1.0        295               0.73
+2           NO          2.0         91               0.23
+
+
+
+S160A.Q23 DO WE HAVE SOME OTHER PACK OR CARRYING BAG THAT YOU THINK IS BETTER THAN THE INFANTRY PACK? IF YES, WHAT IS IT?
+                    answer_label answer_value raw_counts relative_frequency
+0                             NO          1.0        136               0.34
+1               YES, MUSETTE BAG          2.0         63               0.16
+2  YES, SOMETHING ELSE SPECIFIED          3.0         20               0.05
+3    YES, NOTHING ELSE SPECIFIED          4.0          2                0.0
+4        INAPPLICABLE, NO ANSWER          9.0        182               0.45
+
+
+
+S160A.Q24A HAVE YOU SEEN A GERMAN PACK OR CARRYING BAG THAT YOU THINK IS BETTER THAN OUR INFANTRY PACK? IF YES, DESCRIBE IT BRIEFLY.
+               answer_label answer_value raw_counts relative_frequency
+0                        NO          1.0        214               0.53
+1    YES, NOTHING SPECIFIED          2.0          4               0.01
+2  YES, SOMETHING SPECIFIED          3.0          7               0.02
+3   INAPPLICABLE, NO ANSWER          9.0        178               0.44
+
+
+
+S160A.Q25A DO YOU HAVE A MUSETTE BAG ("BAG, CANVAS, FIELD")?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         58               0.14
+1          YES          1.0        104               0.26
+2           NO          2.0        241                0.6
+
+
+
+S160A.Q27 DO WE HAVE SOME OTHER CARRYING BAG OR PACK THAT YOU THINK IS BETTER THAN THE MUSETTE BAG? IF YES, WHAT?
+               answer_label answer_value raw_counts relative_frequency
+0                        NO          1.0         81                0.2
+1    YES, NOTHING SPECIFIED          2.0          6               0.01
+2  YES, SOMETHING SPECIFIED          3.0          3               0.01
+3   INAPPLICABLE, NO ANSWER          9.0        313               0.78
+
+
+
+S160A.Q28A HAVE YOU SEEN A GERMAN CARRYING BAG OR PACK THAT YOU THINK IS BETTER THAN THE MUSETTE BAG? IF YES, DESCRIBE IT BRIEFLY.
+               answer_label answer_value raw_counts relative_frequency
+0                        NO          1.0        101               0.25
+1    YES, NOTHING SPECIFIED          2.0          1                0.0
+2  YES, SOMETHING SPECIFIED          3.0          1                0.0
+3   INAPPLICABLE, NO ANSWER          9.0        300               0.74
+
+
+
+S160A.Q29 WITH YOUR PRESENT PACK OR CARRYING BAG, DO YOU HAVE ENOUGH POCKETS IN YOUR CLOTHES FOR CARRYING THINGS?
+               answer_label answer_value raw_counts relative_frequency
+0                 NO ANSWER          0.0         27               0.07
+1  YES, HAVE ENOUGH POCKETS          1.0        279               0.69
+2     NO, NEED MORE POCKETS          2.0         97               0.24
+
+
+
+S160A.Q30 IF AN ADDITIONAL POCKET, OR POCKETS, WERE TO BE INCLUDED IN THE UNIFORM, WHERE DO YOU THINK THE POCKET OR POCKETS SHOULD BE PUT? (CHECK THE STATEMENT THAT BEST TELLS WHAT YOU WOULD RECOMMEND.)
+                                                    answer_label answer_value raw_counts relative_frequency
+0                                                      NO ANSWER          0.0         78               0.19
+1                           I THINK THERE ARE ENOUGH POCKETS NOW          1.0        214               0.53
+2   ONE LARGE OUTSIDE CARGO POCKET ON THE LEFT SIDE OF THE PANTS          2.0         12               0.03
+3  ONE LARGE OUTSIDE CARGO POCKET ON THE RIGHT SIDE OF THE PANTS          3.0          6               0.01
+4       TWO OUTSIDE CARGO POCKETS, ONE ON EACH SIDE OF THE PANTS          4.0         24               0.06
+5           AN EXTRA POCKET ON THE FIELD JACKET, PLACE SPECIFIED          5.0         56               0.14
+6       AN EXTRA POCKET ON THE FIELD JACKET, PLACE NOT SPECIFIED          6.0          3               0.01
+7                                                SOME OTHER IDEA          7.0         10               0.02
+
+
+
+S160A.Q31 THE SPACE BELOW IS FOR ANY OTHER COMMENTS OR SUGGESTIONS YOU WANT TO MAKE ABOUT QUARTERMASTER SUPPLIES OR EQUIPMENT.
+   answer_label answer_value raw_counts relative_frequency
+0    NO COMMENT          0.0        203                0.5
+1  SOME COMMENT          1.0        200                0.5
+
+
+
+S160A.Q32 AT THE PRESENT WHERE DO YOU KEEP YOUR GAS MASK?
+                                  answer_label answer_value raw_counts relative_frequency
+0                                    NO ANSWER          0.0         26               0.06
+1                       USUALLY CARRY IT ON ME          1.0         55               0.14
+2     USUALLY LEAVE IT IN A CONVENIENT VEHICLE          2.0         54               0.13
+3  HAVE IT IN STORAGE WITH THE SERVICE COMPANY          3.0         64               0.16
+4              SOMEWHERE ELSE, PLACE SPECIFIED          4.0        163                0.4
+5          SOMEWHERE ELSE, PLACE NOT SPECIFIED          5.0         36               0.09
+6                     I DO NOT HAVE A GAS MASK          6.0          5               0.01
+
+
+
+S160A.Q33A HAVE YOU EVER KNOWN ANYONE TO THROW AWAY OR DISCARD THEIR GAS MASK?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         33               0.08
+1           NO          1.0        330               0.82
+2          YES          2.0         40                0.1
+
+
+
+S160A.Q33B HAVE YOU YOURSELF EVER THROWN AWAY OR DISCARDED YOUR GAS MASK?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         31               0.08
+1           NO          1.0        365               0.91
+2          YES          2.0          7               0.02
+
+
+

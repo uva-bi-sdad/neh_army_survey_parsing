@@ -1,0 +1,897 @@
+FORMFORM
+                      answer_label answer_value raw_counts relative_frequency
+0  ENLISTED MEN: FORM A (AMS-198E)          5.0       1191               0.34
+1  ENLISTED MEN: FORM B (AMS-198E)          6.0       1186               0.34
+2  ENLISTED MEN: FORM X (AMS-198E)          7.0       1123               0.32
+
+
+
+S198E.Q1 WHAT IS YOUR ARMY RANK OR GRADE?
+                      answer_label answer_value raw_counts relative_frequency
+0                          PRIVATE          1.0       1299               0.37
+1              PRIVATE FIRST CLASS          2.0        620               0.18
+2             TECHNICIAN 5TH GRADE          3.0        178               0.05
+3                         CORPORAL          4.0        526               0.15
+4             TECHNICIAN 4TH GRADE          5.0        106               0.03
+5                    BUCK SERGEANT          6.0        309               0.09
+6             TECHNICIAN 3RD GRADE          7.0         19               0.01
+7                   STAFF SERGEANT          8.0        294               0.08
+8                    TECH SERGEANT          9.0         74               0.02
+9  MASTER SERGEANT OR 1ST SERGEANT         10.0         75               0.02
+
+
+
+S198E.Q2 HOW LONG HAVE YOU BEEN IN YOUR PRESENT GRADE?
+              answer_label answer_value raw_counts relative_frequency
+0                NO ANSWER          0.0         16                0.0
+1         6 MONTHS OR LESS          1.0       1153               0.33
+2  OVER 6 MONTHS TO 1 YEAR          2.0        747               0.21
+3   OVER 1 YEAR TO 2 YEARS          3.0        929               0.27
+4             OVER 2 YEARS          4.0        655               0.19
+
+
+
+S198E.Q3 HOW DID YOU COME INTO THE ARMY?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0         16                0.0
+1                           I WAS DRAFTED          1.0       2270               0.65
+2        I VOLUNTEERED AFTER PEARL HARBOR          2.0        401               0.11
+3       I VOLUNTEERED BEFORE PEARL HARBOR          3.0        352                0.1
+4             I WAS IN THE NATIONAL GUARD          4.0        103               0.03
+5  I WAS IN THE E.R.C. (ENLISTED RESERVE)          5.0        358                0.1
+
+
+
+S198E.Q4 HOW LONG HAVE YOU BEEN IN THE ARMY? P. NOTE: IF YOU HAVE BEEN IN THE ARMY BEFORE, THEN WERE OUT FOR AWHILE, JUST CHECK THE LENGTH OF TIME SINCE YOU ENTERED THIS LAST TIME. IF YOU WERE IN THE NATIONAL GUARD, CHECK THE LENGTH OF TIME SINCE YOUR OUTFIT CAME
+               answer_label answer_value raw_counts relative_frequency
+0                 NO ANSWER          0.0         13                0.0
+1          6 MONTHS OR LESS          1.0        333                0.1
+2   OVER 6 MONTHS TO 1 YEAR          2.0        550               0.16
+3    OVER 1 YEAR TO 2 YEARS          3.0        662               0.19
+4   OVER 2 YEARS TO 3 YEARS          4.0        958               0.27
+5   OVER 3 YEARS TO 4 YEARS          5.0        531               0.15
+6   OVER 4 YEARS TO 5 YEARS          6.0        315               0.09
+7  OVER 5 YEARS TO 10 YEARS          7.0         99               0.03
+8             OVER 10 YEARS          8.0         39               0.01
+
+
+
+S198E.Q5 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0         30               0.01
+1   EIGHTEEN YEARS OF AGE          1.0        270               0.08
+2                NINETEEN          2.0        222               0.06
+3                  TWENTY          3.0        149               0.04
+4              TWENTY-ONE          4.0        140               0.04
+5              TWENTY-TWO          5.0        157               0.04
+6            TWENTY-THREE          6.0        258               0.07
+7             TWENTY-FOUR          7.0        270               0.08
+8             TWENTY-FIVE          8.0        281               0.08
+9      26-29 YEARS OF AGE          9.0        849               0.24
+10                  30-34         10.0        498               0.14
+11      35 YEARS AND OVER         11.0        376               0.11
+
+
+
+S198E.Q6A ARE YOU:
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0         12                0.0
+1                 SINGLE          1.0       1736                0.5
+2                MARRIED          2.0       1666               0.48
+3  DIVORCED OR SEPARATED          3.0         77               0.02
+4                WIDOWED          4.0          9                0.0
+
+
+
+S198E.Q6B HOW MANY CHILDREN DO YOU HAVE?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         45               0.01
+1              I'M NOT MARRIED          1.0       1701               0.49
+2             HAVE NO CHILDREN          2.0        830               0.24
+3               HAVE ONE CHILD          3.0        567               0.16
+4            HAVE TWO CHILDREN          4.0        232               0.07
+5  HAVE THREE OR MORE CHILDREN          5.0        125               0.04
+
+
+
+S198E.Q7 HOW FAR DID YOU GO IN SCHOOL (CHECK ONLY ONE ANSWER - THE HIGHEST GRADE OF SCHOOL YOU COMPLETED.)?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0         19               0.01
+1                  LESS THAN 6TH GRADE          1.0         89               0.03
+2                   FINISHED 6TH GRADE          2.0         61               0.02
+3                   FINISHED 7TH GRADE          3.0        138               0.04
+4                   FINISHED 8TH GRADE          4.0        401               0.11
+5  SOME HIGH SCHOOL BUT DID NOT FINISH          5.0        902               0.26
+6           GRADUATED FROM HIGH SCHOOL          6.0       1157               0.33
+7      SOME COLLEGE BUT DID NOT FINISH          7.0        574               0.16
+8               GRADUATED FROM COLLEGE          8.0        159               0.05
+
+
+
+S198E.Q8 HOW MANY YEARS WAS IT BETWEEN THE TIME YOU LEFT FULL-TIME SCHOOL AND THE TIME YOU CAME INTO THE ARMY?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0         61               0.02
+1  I CAME INTO THE ARMY RIGHT OUT OF SCHOOL          1.0        412               0.12
+2                            1 YEAR OR LESS          2.0        386               0.11
+3                    OVER 1 YEAR TO 2 YEARS          3.0        304               0.09
+4                   OVER 2 YEARS TO 3 YEARS          4.0        285               0.08
+5                   OVER 3 YEARS TO 5 YEARS          5.0        470               0.13
+6                              OVER 5 YEARS          6.0       1582               0.45
+
+
+
+S198E.Q9 IN WHAT STATE OF THE UNITED STATES DID YOU SPEND MOST OF THE LAST FIVE YEARS OF YOUR CIVILIAN LIFE BEFORE YOU CAME INTO THE ARMY?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         68               0.02
+1                  NEW ENGLAND          1.0        185               0.05
+2              MIDDLE ATLANTIC          2.0        769               0.22
+3           EAST NORTH CENTRAL          3.0        755               0.22
+4           WEST NORTH CENTRAL          4.0        421               0.12
+5               SOUTH ATLANTIC          5.0        389               0.11
+6           EAST SOUTH CENTRAL          6.0        206               0.06
+7           WEST SOUTH CENTRAL          7.0        345                0.1
+8                     MOUNTAIN          8.0         91               0.03
+9                      PACIFIC          9.0        257               0.07
+10  U.S. (STATE NOT SPECIFIED)         12.0         14                0.0
+
+
+
+S198E.Q10 WHERE WERE YOU LIVING MOST OF THE LAST FIVE YEARS OF YOUR CIVILIAN LIFE BEFORE YOU CAME INTO THE ARMY?
+                                           answer_label answer_value raw_counts relative_frequency
+0                                             NO ANSWER          0.0         34               0.01
+1                                             ON A FARM          1.0        509               0.15
+2                      IN THE COUNTRY BUT NOT ON A FARM          2.0        155               0.04
+3             IN A VILLAGE WITH FEWER THAN 2,500 PEOPLE          3.0        268               0.08
+4  IN A SMALL CITY WITH BETWEEN 2,500 AND 25,000 PEOPLE          4.0        682               0.19
+5      IN A CITY WITH BETWEEN 25,000 AND 100,000 PEOPLE          5.0        590               0.17
+6         IN A LARGE CITY WITH MORE THAN 100,000 PEOPLE          6.0       1262               0.36
+
+
+
+S198E.Q11 HAS THE ARMY AT ANY TIME CLASSIFIED YOU AS A LIMITED SERVICE MAN?
+                                                                     answer_label answer_value raw_counts relative_frequency
+0                                                                       NO ANSWER          0.0         27               0.01
+1                            YES, I WAS CLASSIFIED AS LIMITED SERVICE BY THE ARMY          1.0       1196               0.34
+2                       NO, I WAS NEVER CLASSIFIED AS LIMITED SERVICE BY THE ARMY          2.0       1769               0.51
+3  I DON'T KNOW WHETHER THE ARMY HAS EVER CLASSIFIED ME AS LIMITED SERVICE OR NOT          3.0        508               0.15
+
+
+
+S198E.Q12 IN GENERAL, WHAT SORT OF PHYSICAL CONDITION WOULD YOU SAY YOU ARE IN AT THE PRESENT TIME?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         15                0.0
+1  VERY GOOD PHYSICAL CONDITION          1.0        620               0.18
+2       GOOD PHYSICAL CONDITION          2.0        945               0.27
+3       FAIR PHYSICAL CONDITION          3.0       1253               0.36
+4       POOR PHYSICAL CONDITION          4.0        524               0.15
+5  VERY POOR PHYSICAL CONDITION          5.0        143               0.04
+
+
+
+S198E.Q14 HOW INTERESTED ARE YOU IN THE WORK YOU ARE DOING IN YOUR PRESENT ARMY ASSIGNMENT?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0         50               0.01
+1   VERY MUCH INTERESTED          1.0       1732               0.49
+2  A LITTLE BUT NOT MUCH          2.0       1110               0.32
+3  NOT INTERESTED AT ALL          3.0        608               0.17
+
+
+
+S198E.Q15 TO WHICH OF THE ARMY FORCES ARE YOU NOW ASSIGNED?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         59               0.02
+1      ARMY AIR FORCES          1.0       1263               0.36
+2  ARMY SERVICE FORCES          2.0       1047                0.3
+3   ARMY GROUND FORCES          3.0       1131               0.32
+
+
+
+S198E.Q16 WHAT ARM OR SERVICE ARE YOU IN NOW?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0        104               0.03
+1                  ENGINEERS          1.0        175               0.05
+2            FIELD ARTILLERY          2.0        140               0.04
+3                   INFANTRY          4.0        797               0.23
+4            ARMORED COMMAND          5.0          3                0.0
+5        QUARTERMASTER CORPS          6.0        140               0.04
+6         MEDICAL DEPARTMENT          7.0        246               0.07
+7               SIGNAL CORPS          8.0        105               0.03
+8                  AIR CORPS          9.0       1200               0.34
+9        ORDNANCE DEPARTMENT         10.0        105               0.03
+10           MILITARY POLICE         11.0        245               0.07
+11  CHEMICAL WARFARE SERVICE         12.0         73               0.02
+12      TRANSPORTATION CORPS         13.0          7                0.0
+13           COAST ARTILLERY         14.0         71               0.02
+14    ANTI-AIRCRAFT (C.A.C.)         15.0          5                0.0
+15        OTHER (WHICH ONE?)         17.0         84               0.02
+
+
+
+S198E.Q17A.x HAVE YOU SERVED OUTSIDE THE CONTINENTAL UNITED STATES IN THIS WAR?  Q.17B. (IF YES) HAVE YOU BEEN IN ACTUAL COMBAT IN THIS WAR?
+                                                                            answer_label answer_value raw_counts relative_frequency
+0                                                                              NO ANSWER          0.0         19               0.01
+1                                         NO, HAVE NOT SERVED OUTSIDE CONTINENTAL U.S.A.          1.0       2489               0.71
+2                        YES, HAVE SERVED OUTSIDE U.S.A., HAVE NOT BEEN IN ACTUAL COMBAT          2.0        371               0.11
+3  YES, HAVE SERVED OUTSIDE U.S.A., HAVE BEEN UNDER ENEMY FIRE, BUT NOT IN ACTUAL COMBAT          3.0        310               0.09
+4                            YES, HAVE SERVED OUTSIDE U.S.A., HAVE BEEN IN ACTUAL COMBAT          4.0        304               0.09
+5                           YES, HAVE SERVED OUTSIDE U.S.A., NO ANSWER CONCERNING COMBAT          5.0          7                0.0
+
+
+
+S198E.Q18 HAVE YOU RECEIVED ANY MILITARY AWARDS, CITATIONS, DECORATIONS, ETC.?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0         68               0.02
+1                 NO          1.0       3288               0.94
+2  YES, PURPLE HEART          2.0         67               0.02
+3         YES, OTHER          3.0         42               0.01
+4    YES, NONE NAMED          4.0         35               0.01
+
+
+
+S198E.Q19 AFTER THE WAR, DO YOU THINK THE UNITED STATES SHOULD DRAFT ALL YOUNG MEN FOR A CERTAIN AMOUNT OF ARMY TRAINING DURING PEACETIME OR SHOULD WE GO BACK TO THE REGULAR ARMY SYSTEM OF TAKING VOLUNTEERS ONLY?
+                                           answer_label answer_value raw_counts relative_frequency
+0                                             NO ANSWER          0.0         28               0.01
+1  DRAFT ALL YOUNG MEN FOR A CERTAIN AMOUNT OF TRAINING          1.0       2184               0.62
+2                     GO BACK TO TAKING VOLUNTEERS ONLY          2.0        829               0.24
+3                                             UNDECIDED          3.0        459               0.13
+
+
+
+S198E.Q20.1 WHICH OF THE FOLLOWING WERE YOU DOING JUST BEFORE YOU CAME INTO THE ARMY? (CHECK ONE - IF YOU WERE DOING MORE THAN ONE OF THESE, CHECK THE ONE YOU SPENT THE MOST TIME ON AND WRITE THE OTHER UNDER "SOMETHING ELSE")
+                                              answer_label answer_value raw_counts relative_frequency
+0                                                NO ANSWER          0.0          4                0.0
+1  WORKING FOR AN EMPLOYER, ON SALARY, WAGES OR COMMISSION          1.0        873               0.25
+2                     GOING TO FULL-TIME SCHOOL OR COLLEGE          2.0        117               0.03
+3                                       FARMING FOR MYSELF          3.0         79               0.02
+4                                      HAD MY OWN BUSINESS          4.0        102               0.03
+5                                        LOOKING FOR A JOB          5.0         15                0.0
+6                                   SOMETHING ELSE (WHAT?)          6.0          1                0.0
+7                              INAPPLICABLE (FORM B AND X)          9.0       2309               0.66
+
+
+
+S198E.Q20.2 WHICH OF THE FOLLOWING WERE YOU DOING JUST BEFORE YOU CAME INTO THE ARMY? (CHECK AS MANY AS YOU WERE DOING JUST BEFORE YOU CAME INTO THE ARMY.)
+                                                         answer_label answer_value raw_counts relative_frequency
+0                                                           NO ANSWER          0.0         10                0.0
+1   WORKING FULL-TIME FOR AN EMPLOYER, ON SALARY, WAGES OR COMMISSION          1.0        809               0.23
+2                                GOING TO FULL-TIME SCHOOL OR COLLEGE          2.0        124               0.04
+3                                                  FARMING FOR MYSELF          3.0         58               0.02
+4                                                 HAD MY OWN BUSINESS          4.0         68               0.02
+5                                                   LOOKING FOR A JOB          5.0         10                0.0
+6                                   WORKING PART-TIME FOR AN EMPLOYER          6.0         67               0.02
+7                                GOING TO PART-TIME SCHOOL OR COLLEGE          7.0         15                0.0
+8                                              SOMETHING ELSE (WHAT?)          8.0         11                0.0
+9                                           I WAS IN THE REGULAR ARMY          9.0         14                0.0
+10                                        INAPPLICABLE (FORM A AND X)         99.0       2314               0.66
+
+
+
+S198E.Q23A YOU WILL PROBABLY WANT TO TAKE A VACATION FIRST OF ALL AFTER YOU GET OUT OF THE ARMY. BUT AFTER THAT, WHICH ONE OF THE THINGS BELOW DO YOU THINK YOU ARE MOST LIKELY TO DO? (CHECK ONLY ONE - THE THING YOU THINK YOU ARE MOST LIKELY TO DO FIRST, EVEN IF YOU
+                                           answer_label answer_value raw_counts relative_frequency
+0                                             NO ANSWER          0.0         10                0.0
+1  WORK FOR AN EMPLOYER, ON SALARY, WAGES OR COMMISSION          1.0        438               0.13
+2                     GO TO FULL-TIME SCHOOL OR COLLEGE          2.0        153               0.04
+3                                       FARM FOR MYSELF          3.0        118               0.03
+4                                  HAVE MY OWN BUSINESS          4.0        313               0.09
+5                                      STAY IN THE ARMY          5.0         35               0.01
+6                          I'M UNDECIDED WHAT I WILL DO          6.0        124               0.04
+7                          INAPPLICABLE (FORMS B AND X)          9.0       2309               0.66
+
+
+
+S198E.Q27 WHAT TYPE OF EMPLOYER DO YOU EXPECT TO WORK FOR RIGHT AFTER YOU LEAVE THE ARMY?
+                                                                   answer_label answer_value raw_counts relative_frequency
+0                                                                     NO ANSWER          0.0         20               0.01
+1    I EXPECT TO WORK FOR SOME OTHER EMPLOYER (A COMPANY, PERSON, AGENCY, ETC.)          2.0        432               0.12
+2  I EXPECT TO WORK FOR A BRANCH OF THE GOVERNMENT (FEDERAL, STATE, CITY, ETC.)          1.0        122               0.03
+3                                                   I EXPECT TO FARM FOR MYSELF          3.0         85               0.02
+4                                              I EXPECT TO HAVE MY OWN BUSINESS          4.0        240               0.07
+5                                                    I PLAN TO STAY IN THE ARMY          5.0         20               0.01
+6                                              I PLAN TO GO TO FULL-TIME SCHOOL          6.0        165               0.05
+7                                              I HAVEN'T DECIDED WHAT I WILL DO          7.0        102               0.03
+8                                                   INAPPLICABLE (FORM A AND X)          9.0       2314               0.66
+
+
+
+S198E.Q32 DO YOU PLAN TO START A BUSINESS OF YOUR OWN OR TO RUN A FARM SOON AFTER YOU LEAVE THE ARMY?
+                                                                    answer_label answer_value raw_counts relative_frequency
+0                                                                      NO ANSWER          0.0        104               0.03
+1  I ALREADY HAVE A BUSINESS (OR A FARM) WHICH I EXPECT TO OPERATE AFTER THE WAR          1.0        318               0.09
+2                             NO, I DON'T PLAN TO START A BUSINESS OR RUN A FARM          2.0       1239               0.35
+3                    YES, I AM ALMOST SURE I WILL START A BUSINESS OR RUN A FARM          3.0        969               0.28
+4                                                        I MAY, BUT I'M NOT SURE          4.0        870               0.25
+
+
+
+S198E.Q33 DO YOU EXPECT TO GO BACK TO FULL-TIME SCHOOL OR COLLEGE AFTER YOU LEAVE THE ARMY?
+                                                 answer_label answer_value raw_counts relative_frequency
+0                                                   NO ANSWER          0.0        159               0.05
+1  YES, I AM ALMOST SURE TO GO TO FULL-TIME SCHOOL OR COLLEGE          1.0        464               0.13
+2    I MAY GO TO FULL-TIME SCHOOL OR COLLEGE BUT I'M NOT SURE          2.0        219               0.06
+3                     I AM PLANNING TO GO TO PART-TIME SCHOOL          3.0        653               0.19
+4       NO, I DON'T THINK I WILL GO BACK TO SCHOOL OR COLLEGE          4.0       2005               0.57
+
+
+
+S198E.Q35A AFTER THE WAR, ENLISTED MEN MAY BE GIVEN THE OPPORTUNITY TO ENLIST IN AN ORGANIZED RESERVE CORPS FOR THREE YEAR PERIODS. ASSUMING THAT (1) YOU WOULD KEEP THE GRADE YOU REACH BY THE END OF THE WAR WITH OPPORTUNITY FOR PROMOTION, AND (2) YOU MIGHT BE CALLE
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0         39               0.01
+1       YES, I AM CERTAIN I WOULD WANT TO          1.0        494               0.14
+2  YES, I MIGHT WANT TO, BUT I'M NOT SURE          2.0        683                0.2
+3       NO, I DON'T THINK I WOULD WANT TO          3.0        745               0.21
+4    NO, I AM CERTAIN I WOULD NOT WANT TO          4.0       1539               0.44
+
+
+
+S198E.Q35C PLEASE GO BACK AND WRITE THE NUMBER 1 IN FRONT OF THE ONE MOST IMPORTANT FACTOR.
+                                                                          answer_label answer_value raw_counts relative_frequency
+0                                                                            NO ANSWER          0.0        183               0.05
+1   THE POSSIBLE INTERFERENCE OF 15 DAYS OF ACTIVE DUTY EACH YEAR WITH MY CIVILIAN JOB          1.0        302               0.09
+2                         THE ADVANTAGE OF BEING IN THE RESERVE IN CASE OF ANOTHER WAR          2.0        190               0.05
+3                            THE NATURE OF MY DUTIES DURING THE 15 DAYS OF ACTIVE DUTY          3.0         36               0.01
+4                            THE RANK I WOULD HOLD AND THE OPPORTUNITIES FOR PROMOTION          4.0        108               0.03
+5                    THE NEED OF ENLISTED MEN IN THE RESERVE FOR THE NATIONAL SECURITY          5.0        248               0.07
+6                        MY ABILITY TO SATISFY AGE AND PHYSICAL CONDITION REQUIREMENTS          6.0        101               0.03
+7                                                  THE PAY RECEIVED DURING ACTIVE DUTY          7.0          9                0.0
+8                                 THE FACT THAT I WAS NOT ACCEPTED BY THE REGULAR ARMY          8.0          7                0.0
+9                                                                    SOME OTHER REASON          9.0         36               0.01
+10                                                                        INAPPLICABLE         99.0       2280               0.65
+
+
+
+S198E.Q35E PLEASE GO BACK AND WRITE THE NUMBER 1 IN FRONT OF YOUR ONE MOST IMPORTANT REASON.
+                                                                 answer_label answer_value raw_counts relative_frequency
+0                                BECAUSE I PLAN TO ENLIST IN THE REGULAR ARMY          2.0         29               0.01
+1              BECAUSE I BELIEVE THERE WILL BE NO PLACE FOR ME IN THE RESERVE          4.0        216               0.06
+2                                                           SOME OTHER REASON          5.0        457               0.13
+3                                                                INAPPLICABLE          9.0       1177               0.34
+4                                                                   NO ANSWER          0.0        232               0.07
+5                                   BECAUSE ARMY LIFE IS NOT ATTRACTIVE TO ME          1.0        994               0.28
+6  BECAUSE 15 DAYS ACTIVE DUTY EACH YEAR MIGHT INTERFERE WITH MY CIVILIAN JOB          3.0        395               0.11
+
+
+
+S198E.Q36 DO YOU THINK YOU WOULD WANT TO STAY IN THE ARMY AFTER THE WAR FOR CONTINUED ACTIVE DUTY?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0         32               0.01
+1       YES, I AM CERTAIN I WOULD STAY          1.0         93               0.03
+2  YES, I MIGHT STAY, BUT I'M NOT SURE          2.0        328               0.09
+3       NO, I DON'T THINK I WOULD STAY          3.0        819               0.23
+4    NO, I AM CERTAIN I WOULD NOT STAY          4.0       2228               0.64
+
+
+
+S198E.Q37B PLEASE GO BACK AND WRITE THE NUMBER 1 IN FRONT OF YOUR ONE MOST IMPORTANT REASON.
+                                                      answer_label answer_value raw_counts relative_frequency
+0                                                        NO ANSWER          0.0        349                0.1
+1                        BECAUSE ARMY LIFE IS NOT ATTRACTIVE TO ME          1.0        724               0.21
+2  BECAUSE IT WOULD INTERFERE WITH MY CIVILIAN JOB OR CAREER PLANS          2.0        742               0.21
+3               BECAUSE OF AGE AND PHYSICAL CONDITION REQUIREMENTS          3.0        422               0.12
+4                                        BECAUSE PAY IS INADEQUATE          4.0         83               0.02
+5                        BECAUSE IT MAY INTERFERE WITH FAMILY LIFE          5.0        595               0.17
+6                                                SOME OTHER REASON          6.0        169               0.05
+7                                                     INAPPLICABLE          9.0        416               0.12
+
+
+
+S198E.Q38B PLEASE GO BACK AND WRITE THE NUMBER 1 IN FRONT OF THE ONE MOST IMPORTANT FACTOR.
+                                                       answer_label answer_value raw_counts relative_frequency
+0                                                         NO ANSWER          0.0        106               0.03
+1                           MY INABILITY TO GET A GOOD CIVILIAN JOB          1.0         23               0.01
+2         THE RANK I WOULD HOLD AND THE OPPORTUNITIES FOR PROMOTION          2.0         73               0.02
+3                         THE CHANCE TO CHOOSE MY BRANCH OF SERVICE          3.0         27               0.01
+4                            THE KIND OF JOB ASSIGNMENT I WOULD GET          4.0         40               0.01
+5                                        THE AMOUNT OF PAY RECEIVED          5.0         23               0.01
+6                       THE POST OR STATION TO WHICH I WAS ASSIGNED          6.0         17                0.0
+7                 THE NEED OF MY SERVICES FOR THE NATIONAL SECURITY          7.0         49               0.01
+8                            THE OPPORTUNITY TO LIVE WITH MY FAMILY          8.0         51               0.01
+9   MY ABILITY TO SATISFY AGE AND PHYSICAL CONDITION QUALIFICATIONS          9.0         20               0.01
+10                                                SOME OTHER REASON         10.0         17                0.0
+11                                                     INAPPLICABLE         99.0       3054               0.87
+
+
+
+S198E.Q39 FOR HOW LONG A PERIOD OF CONTINUED ACTIVE DUTY IMMEDIATELY AFTER THE WAR WOULD YOU CONSIDER SIGNING-UP? (CHECK ONE - THE LONGEST TIME PERIOD YOU WOULD BE WILLING TO SERVE)
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0         82               0.02
+1  UP TO 6 MONTHS          1.0         53               0.02
+2    UP TO 1 YEAR          2.0         92               0.03
+3   UP TO 2 YEARS          3.0         33               0.01
+4   UP TO 3 YEARS          4.0        185               0.05
+5    INAPPLICABLE          9.0       3055               0.87
+
+
+
+S198E.Q40A WHAT ARM OR SERVICE WOULD YOU PREFER, IF YOU WERE TO STAY IN THE ARMY ON ACTIVE DUTY AFTER THE WAR?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0         66               0.02
+1                  ENGINEERS          1.0         12                0.0
+2            FIELD ARTILLERY          2.0          4                0.0
+3             TANK DESTROYER          3.0          4                0.0
+4                   INFANTRY          4.0         41               0.01
+5            ARMORED COMMAND          5.0          5                0.0
+6        QUARTERMASTER CORPS          6.0         12                0.0
+7         MEDICAL DEPARTMENT          7.0         14                0.0
+8               SIGNAL CORPS          8.0         17                0.0
+9                  AIR CORPS          9.0        187               0.05
+10       ORDNANCE DEPARTMENT         10.0         27               0.01
+11           MILITARY POLICE         11.0         14                0.0
+12  CHEMICAL WARFARE SERVICE         12.0          1                0.0
+13      TRANSPORTATION CORPS         13.0         19               0.01
+14           COAST ARTILLERY         14.0         11                0.0
+15    ANTI-AIRCRAFT (C.A.C.)         15.0          5                0.0
+16                   CAVALRY         16.0          2                0.0
+17        OTHER (WHICH ONE?)         17.0          4                0.0
+18              INAPPLICABLE         99.0       3055               0.87
+
+
+
+S198E.Q40B IF YOU COULD NOT BE ASSIGNED TO THE ARM OR SERVICE OF YOUR CHOICE, WOULD YOU STILL WANT TO STAY IN THE ARMY ON ACTIVE DUTY?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0         58               0.02
+1           YES          1.0         96               0.03
+2            NO          2.0        136               0.04
+3     UNDECIDED          3.0        155               0.04
+4  INAPPLICABLE          9.0       3055               0.87
+
+
+
+S198E.Q41 WOULD YOU WANT TO REMAIN IN THE AIR CORPS ON ACTIVE DUTY AFTER THE WAR, EVEN IF YOU COULD NOT RETAIN YOUR FLYING STATUS?
+                                                                             answer_label answer_value raw_counts relative_frequency
+0                                                                               NO ANSWER          0.0        356                0.1
+1  YES, I WOULD WANT TO STAY IN THE AIR CORPS EVEN IF I COULD NOT RETAIN MY FLYING STATUS          1.0         44               0.01
+2                                  NO, I WOULD STAY ONLY IF I COULD KEEP MY FLYING STATUS          2.0         50               0.01
+3                                                                               UNDECIDED          3.0         25               0.01
+4                                                                            INAPPLICABLE          9.0       3025               0.86
+
+
+
+S198E.Q42 IF FLYING PAY WERE CUT OUT AFTER THE WAR AND YOU COULD GET ONLY THE REGULAR PAY FOR YOUR GRADE, WOULD YOU STILL WANT TO STAY IN THE AIR CORPS ON ACTIVE DUTY, WITH FLYING STATUS, AFTER THE WAR?
+                                                           answer_label answer_value raw_counts relative_frequency
+0                                                             NO ANSWER          0.0        363                0.1
+1             YES, I WOULD WANT TO STAY EVEN IF FLYING PAY WERE CUT OUT          1.0         47               0.01
+2  NO, I WOULD WANT TO STAY ONLY IF I COULD CONTINUE TO DRAW FLYING PAY          2.0         29               0.01
+3                                                             UNDECIDED          3.0         36               0.01
+4                                                          INAPPLICABLE          9.0       3025               0.86
+
+
+
+S198E.Q43 IF YOU ARE PLANNING TO GO TO COLLEGE AFTER THE WAR, WOULD YOU BE INTERESTED IN CONTINUING YOUR MILITARY TRAINING AS AN OFFICER CANDIDATE IN THE RESERVE OFFICERS TRAINING CORPS (R.O.T.C.) WHILE ATTENDING COLLEGE?
+                                   answer_label answer_value raw_counts relative_frequency
+0                                     NO ANSWER          0.0        163               0.05
+1            I AM NOT PLANNING TO GO TO COLLEGE          1.0       2040               0.58
+2       YES, I AM CERTAIN I WOULD BE INTERESTED          2.0        265               0.08
+3  YES, I MIGHT BE INTERESTED, BUT I'M NOT SURE          3.0        301               0.09
+4           NO, I DON'T THINK I'D BE INTERESTED          4.0        283               0.08
+5    NO, I AM CERTAIN I WOULD NOT BE INTERESTED          5.0        448               0.13
+
+
+
+S198E.Q44 HAVE YOU AT ANY TIME RECEIVED ANY R.O.T.C. TRAINING?
+                      answer_label answer_value raw_counts relative_frequency
+0                        NO ANSWER          0.0        128               0.04
+1                               NO          1.0       2977               0.85
+2              YES, AT HIGH SCHOOL          2.0        218               0.06
+3                  YES, AT COLLEGE          3.0        138               0.04
+4  YES, AT HIGH SCHOOL AND COLLEGE          4.0         39               0.01
+
+
+
+S198E.Q45 WHICH OF THE FOLLOWING WOULD YOU MOST PREFER IN REGARD TO YOUR RELATIONSHIP WITH THE ARMY AFTER THE WAR?
+                                                                                   answer_label answer_value raw_counts relative_frequency
+0                                                                                     NO ANSWER          0.0        124               0.04
+1                                   I WOULD PREFER TO STAY IN THE ARMY ON CONTINUED ACTIVE DUTY          1.0        157               0.04
+2  I WOULD PREFER TO LEAVE THE ARMY, BUT TO STAY IN AN ORGANIZED RESERVE CORPS ON INACTIVE DUTY          2.0        871               0.25
+3                             I WOULD PREFER NOT TO HAVE ANY CONNECTION WITH THE POST- WAR ARMY          3.0       1710               0.49
+4                                                                                     UNDECIDED          4.0        638               0.18
+
+
+
+S198E.Q46.1 AFTER THIS WAR IS OVER, DO YOU THINK EVERY ABLE BODIED YOUNG MAN SHOULD BE REQUIRED TO SERVE ONE YEAR IN THE ARMY OR NAVY?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         21               0.01
+1                          YES          1.0        749               0.21
+2                           NO          2.0        267               0.08
+3                   NO OPINION          3.0        154               0.04
+4  INAPPLICABLE (FORM B AND X)          9.0       2309               0.66
+
+
+
+S198E.Q46.2 AFTER THE WAR, DO YOU THINK ALL YOUNG MEN SHOULD BE REQUIRED TO TAKE ONE YEAR OF MILITARY TRAINING?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         19               0.01
+1                          YES          1.0        786               0.22
+2                           NO          2.0        213               0.06
+3                    UNDECIDED          3.0        168               0.05
+4  INAPPLICABLE (FORM A AND X)          9.0       2314               0.66
+
+
+
+S198E.Qii1A "NOT ENOUGH PASSES AND FURLOUGHS"?
+                                        answer_label answer_value raw_counts relative_frequency
+0         USUALLY HAVE GOOD REASON TO GRIPE ABOUT IT          1.0       1257               0.36
+1  USUALLY DO NOT HAVE GOOD REASON TO GRIPE ABOUT IT          2.0        960               0.27
+2                                          NO ANSWER          3.0        160               0.05
+3                              INAPPLICABLE (FORM X)          9.0       1123               0.32
+
+
+
+S198E.Qii1B "PROMOTIONS FROZEN OR TOO SLOW"?
+                                        answer_label answer_value raw_counts relative_frequency
+0         USUALLY HAVE GOOD REASON TO GRIPE ABOUT IT          1.0       1649               0.47
+1  USUALLY DO NOT HAVE GOOD REASON TO GRIPE ABOUT IT          2.0        569               0.16
+2                                          NO ANSWER          3.0        159               0.05
+3                              INAPPLICABLE (FORM X)          9.0       1123               0.32
+
+
+
+S198E.Qii1C "WRONG JOB ASSIGNMENT"?
+                                        answer_label answer_value raw_counts relative_frequency
+0         USUALLY HAVE GOOD REASON TO GRIPE ABOUT IT          1.0       1528               0.44
+1  USUALLY DO NOT HAVE GOOD REASON TO GRIPE ABOUT IT          2.0        699                0.2
+2                                          NO ANSWER          3.0        150               0.04
+3                              INAPPLICABLE (FORM X)          9.0       1123               0.32
+
+
+
+S198E.Qii1D "DISCIPLINE TOO STRICT ABOUT PETTY THINGS"?
+                                        answer_label answer_value raw_counts relative_frequency
+0         USUALLY HAVE GOOD REASON TO GRIPE ABOUT IT          1.0       1209               0.35
+1  USUALLY DO NOT HAVE GOOD REASON TO GRIPE ABOUT IT          2.0       1012               0.29
+2                                          NO ANSWER          3.0        156               0.04
+3                              INAPPLICABLE (FORM X)          9.0       1123               0.32
+
+
+
+S198E.Qii1E "WORK TOO HARD OR HOURS TOO LONG"?
+                                        answer_label answer_value raw_counts relative_frequency
+0         USUALLY HAVE GOOD REASON TO GRIPE ABOUT IT          1.0        537               0.15
+1  USUALLY DO NOT HAVE GOOD REASON TO GRIPE ABOUT IT          2.0       1665               0.48
+2                                          NO ANSWER          3.0        175               0.05
+3                              INAPPLICABLE (FORM X)          9.0       1123               0.32
+
+
+
+S198E.Qii1F "TOO MUCH TIME IS WASTED DURING THE DAY"?
+                                        answer_label answer_value raw_counts relative_frequency
+0         USUALLY HAVE GOOD REASON TO GRIPE ABOUT IT          1.0       1147               0.33
+1  USUALLY DO NOT HAVE GOOD REASON TO GRIPE ABOUT IT          2.0       1048                0.3
+2                                          NO ANSWER          3.0        182               0.05
+3                              INAPPLICABLE (FORM X)          9.0       1123               0.32
+
+
+
+S198E.Qii1G "TOO MUCH ,CHICKEN, TO PUT UP WITH"?
+                                        answer_label answer_value raw_counts relative_frequency
+0         USUALLY HAVE GOOD REASON TO GRIPE ABOUT IT          1.0       1679               0.48
+1  USUALLY DO NOT HAVE GOOD REASON TO GRIPE ABOUT IT          2.0        535               0.15
+2                                          NO ANSWER          3.0        163               0.05
+3                              INAPPLICABLE (FORM X)          9.0       1123               0.32
+
+
+
+S198E.Qii1H "THE WRONG MEN GET THE BREAKS"?
+                                        answer_label answer_value raw_counts relative_frequency
+0         USUALLY HAVE GOOD REASON TO GRIPE ABOUT IT          1.0       1271               0.36
+1  USUALLY DO NOT HAVE GOOD REASON TO GRIPE ABOUT IT          2.0        947               0.27
+2                                          NO ANSWER          3.0        159               0.05
+3                              INAPPLICABLE (FORM X)          9.0       1123               0.32
+
+
+
+S198E.Qii2A "IF ENLISTED MEN HAVE TO OBSERVE CURFEW, OFFICERS SHOULD TOO."
+               answer_label answer_value raw_counts relative_frequency
+0     I WOULD TEND TO AGREE          1.0       1991               0.57
+1  I WOULD TEND TO DISAGREE          2.0        141               0.04
+2            I AM UNDECIDED          3.0        185               0.05
+3                 NO ANSWER          4.0         60               0.02
+4     INAPPLICABLE (FORM X)          9.0       1123               0.32
+
+
+
+S198E.Qii2B "WHEN ENLISTED MEN CANNOT BE GIVEN PASSES OR LEAVES, OFFICERS SHOULD NOT GET THEM EITHER."
+               answer_label answer_value raw_counts relative_frequency
+0     I WOULD TEND TO AGREE          1.0       1879               0.54
+1  I WOULD TEND TO DISAGREE          2.0        242               0.07
+2            I AM UNDECIDED          3.0        187               0.05
+3                 NO ANSWER          4.0         69               0.02
+4     INAPPLICABLE (FORM X)          9.0       1123               0.32
+
+
+
+S198E.Qii2C "TOO MANY OFFICERS TAKE UNFAIR ADVANTAGE OF THEIR RANK AND PRIVILEGES."
+               answer_label answer_value raw_counts relative_frequency
+0     I WOULD TEND TO AGREE          1.0       1422               0.41
+1  I WOULD TEND TO DISAGREE          2.0        601               0.17
+2            I AM UNDECIDED          3.0        279               0.08
+3                 NO ANSWER          4.0         75               0.02
+4     INAPPLICABLE (FORM X)          9.0       1123               0.32
+
+
+
+S198E.Qii2D "IT WOULD BE A LOT BETTER IF OFFICERS AND ENLISTED MEN WERE MORE FRIENDLY WITH EACH OTHER."
+               answer_label answer_value raw_counts relative_frequency
+0     I WOULD TEND TO AGREE          1.0       1455               0.42
+1  I WOULD TEND TO DISAGREE          2.0        617               0.18
+2            I AM UNDECIDED          3.0        232               0.07
+3                 NO ANSWER          4.0         73               0.02
+4     INAPPLICABLE (FORM X)          9.0       1123               0.32
+
+
+
+S198E.Qii3A IN GENERAL DO YOU THINK THE ARMY HAS TRIED ITS BEST TO SEE THAT ENLISTED MEN GET AS SQUARE A DEAL AS POSSIBLE?
+                            answer_label answer_value raw_counts relative_frequency
+0             YES, IT HAS TRIED ITS BEST          1.0        899               0.26
+1  IT HAS TRIED SOME BUT NOT HARD ENOUGH          2.0       1233               0.35
+2             IT HAS HARDLY TRIED AT ALL          3.0        172               0.05
+3                              NO ANSWER          4.0         73               0.02
+4                  INAPPLICABLE (FORM X)          9.0       1123               0.32
+
+
+
+S198E.Qii4A IN GENERAL, DO YOU FEEL THAT YOU YOURSELF HAVE GOTTEN A SQUARE DEAL FROM THE ARMY?
+                                       answer_label answer_value raw_counts relative_frequency
+0                          YES, IN MOST WAYS I HAVE          1.0        980               0.28
+1              IN SOME WAYS, YES, IN OTHER WAYS, NO          2.0       1013               0.29
+2  NO, ON THE WHOLE I HAVE NOT GOTTEN A SQUARE DEAL          3.0        313               0.09
+3                                         NO ANSWER          4.0         71               0.02
+4                             INAPPLICABLE (FORM X)          9.0       1123               0.32
+
+
+
+S198E.Qii5.1 HOW DO YOU THINK WE WILL GET ALONG WITH ENGLAND AFTER THE WAR?
+                                                            answer_label answer_value raw_counts relative_frequency
+0                                            WE WILL GET ALONG VERY WELL          1.0        260               0.07
+1             WE WILL DISAGREE ABOUT SOME THINGS BUT MANAGE TO GET ALONG          2.0       1204               0.34
+2  WE WILL HAVE SOME SERIOUS DISAGREEMENTS BUT WE WON'T FIGHT EACH OTHER          3.0        567               0.16
+3                                                              UNDECIDED          4.0        294               0.08
+4                                                              NO ANSWER          5.0         52               0.01
+5                                                  INAPPLICABLE (FORM X)          9.0       1123               0.32
+
+
+
+S198E.Qii6 HOW DO YOU THINK WE WILL GET ALONG WITH RUSSIA AFTER THE WAR?
+                                                            answer_label answer_value raw_counts relative_frequency
+0                                            WE WILL GET ALONG VERY WELL          1.0        264               0.08
+1             WE WILL DISAGREE ABOUT SOME THINGS BUT MANAGE TO GET ALONG          2.0        807               0.23
+2  WE WILL HAVE SOME SERIOUS DISAGREEMENTS BUT WE WON'T FIGHT EACH OTHER          3.0        525               0.15
+3                   WE WILL VERY LIKELY FIGHT EACH OTHER SOONER OR LATER          4.0        321               0.09
+4                                                              UNDECIDED          5.0        397               0.11
+5                                                              NO ANSWER          6.0         63               0.02
+6                                                  INAPPLICABLE (FORM X)          9.0       1123               0.32
+
+
+
+S198E.Qii7.1 DO YOU THINK THERE WILL BE ANOTHER WAR IN THE NEXT 2 YEARS OR SO?
+            answer_label answer_value raw_counts relative_frequency
+0                    YES          1.0       1035                0.3
+1                     NO          2.0        472               0.13
+2              UNDECIDED          3.0        817               0.23
+3              NO ANSWER          4.0         53               0.02
+4  INAPPLICABLE (FORM X)          9.0       1123               0.32
+
+
+
+S198E.Qiii1 HAVE YOU HEARD OR READ ABOUT THIS CONFERENCE?
+            answer_label answer_value raw_counts relative_frequency
+0                    YES          1.0       1840               0.53
+1                     NO          2.0        349                0.1
+2             DON'T KNOW          3.0        126               0.04
+3              NO ANSWER          4.0         62               0.02
+4  INAPPLICABLE (FORM X)          9.0       1123               0.32
+
+
+
+S198E.Qiii2 WAS THIS CONFERENCE DISCUSSED IN A RECENT ORIENTATION MEETING AT WHICH YOU WERE PRESENT?
+                                                              answer_label answer_value raw_counts relative_frequency
+0                                                                      YES          1.0        613               0.18
+1                                                                       NO          2.0        785               0.22
+2                                                               DON'T KNOW          3.0        159               0.05
+3  I HAVE NOT ATTENDED AN ORIENTATION MEETING SINCE THE CRIMEAN CONFERENCE          4.0        745               0.21
+4                                                                NO ANSWER          5.0         75               0.02
+5                                                    INAPPLICABLE (FORM X)          9.0       1123               0.32
+
+
+
+FORM..1FORM.
+                        answer_label answer_value raw_counts relative_frequency
+0  ENLISTED MEN: FORM A \(AMS-198E\)          5.0       1191               0.34
+1  ENLISTED MEN: FORM B \(AMS-198E\)          6.0       1186               0.34
+2  ENLISTED MEN: FORM X \(AMS-198E\)          7.0       1123               0.32
+
+
+
+S198E.Qiii3 LEADERS FROM WHICH OF THE FOLLOWING COUNTRIES TOOK PART IN THE RECENT CRIMEAN CONFERENCE: NORWAY, FRANCE, GREAT BRITAIN, CHINA, YUGOSLAVIA, UNITED STATES, ITALY, RUSSIA?
+            answer_label answer_value raw_counts relative_frequency
+0           RIGHT ANSWER          1.0       1635               0.47
+1           WRONG ANSWER          2.0        583               0.17
+2              NO ANSWER          3.0        159               0.05
+3  INAPPLICABLE (FORM X)          9.0       1123               0.32
+
+
+
+S198E.Qiii4 IN WHICH ONE OF THE FOLLOWING WAYS DID THE ALLIES DECIDE TO TREAT GERMANY AFTER THE WAR?
+                                                                                   answer_label answer_value raw_counts relative_frequency
+0          DIVIDE GERMANY INTO ZONES AND HAVE EACH OF THE MAIN ALLIED COUNTRIES POLICE ONE ZONE          1.0       1476               0.42
+1                              PUT THE FREE-GERMAN GOVERNMENT NOW IN RUSSIA IN POWER IN GERMANY          2.0        139               0.04
+2                                             CUT UP GERMANY INTO A NUMBER OF SMALLER COUNTRIES          3.0        234               0.07
+3  LET THE GERMANS RULE THEMSELVES POLITICALLY, BUT HAVE THE ALLIES CONTROL THEIR SCHOOL SYSTEM          4.0        224               0.06
+4                                                                                     NO ANSWER          5.0        303               0.09
+5                                                                         INAPPLICABLE (FORM X)          9.0       1124               0.32
+
+
+
+S198E.Qiii5 WHAT WAS ANNOUNCED AT THE CONFERENCE ABOUT THE PACIFIC WAR?
+                                                                         answer_label answer_value raw_counts relative_frequency
+0                         THAT CHINA WOULD GREATLY INCREASE ITS SHARE IN THE FIGHTING          1.0        118               0.03
+1            THAT RUSSIA WOULD JOIN THE FIGHT AGAINST JAPAN AFTER GERMANY IS DEFEATED          2.0        447               0.13
+2                                         NOTHING WAS ANNOUNCED ABOUT THE PACIFIC WAR          3.0        782               0.22
+3  THAT BRITAIN WOULD SEND ALL OF HER NAVY TO THE PACIFIC AFTER THE DEFEAT OF GERMANY          4.0        660               0.19
+4                                                                           NO ANSWER          5.0        369               0.11
+5                                                               INAPPLICABLE (FORM X)          9.0       1124               0.32
+
+
+
+S198E.Qiii6 THE CONFERENCE AGREED THAT:
+                                                                       answer_label answer_value raw_counts relative_frequency
+0                                                    RUSSIA WOULD GET ALL OF POLAND          1.0        149               0.04
+1                        POLAND AND CZECHOSLOVAKIA WOULD BE COMBINED INTO NEW STATE          2.0        184               0.05
+2  THE POLISH GOVERNMENT NOW IN LONDON WOULD TAKE OVER THE ENTIRE CONTROL OF POLAND          3.0        469               0.13
+3                                       POLAND WOULD GET NEW TERRITORY FROM GERMANY          4.0       1154               0.33
+4                                                                         NO ANSWER          5.0        421               0.12
+5                                                             INAPPLICABLE (FORM X)          9.0       1123               0.32
+
+
+
+S198E.Qiii7 THE CONFERENCE ANNOUNCED ITS DECISION TO:
+                                                               answer_label answer_value raw_counts relative_frequency
+0                                               DESTROY ALL GERMAN INDUSTRY          1.0        364                0.1
+1  TREAT THE GERMAN PEOPLE THE WAY THEY TREATED THE COUNTRIES THEY OCCUPIED          2.0         81               0.02
+2                                         BREAK UP THE GERMAN GENERAL STAFF          3.0       1353               0.39
+3           PREVENT GERMAN FIRMS FROM INVESTING THEIR MONEY OUTSIDE GERMANY          4.0        141               0.04
+4                                                                 NO ANSWER          5.0        438               0.13
+5                                                     INAPPLICABLE (FORM X)          9.0       1123               0.32
+
+
+
+S198E.Qiiii36 HOW LONG WERE YOU OVERSEAS IN THIS WAR?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0         10                0.0
+1           6 MONTHS OR LESS          1.0         12                0.0
+2    OVER 6 MONTHS TO 1 YEAR          2.0         34               0.01
+3   OVER 1 YEAR TO 18 MONTHS          3.0         66               0.02
+4  OVER 18 MONTHS TO 2 YEARS          4.0         86               0.02
+5    OVER 2 YEARS TO 3 YEARS          5.0        209               0.06
+6               OVER 3 YEARS          6.0         34               0.01
+7      INAPPLICABLE (FORM X)          8.0        672               0.19
+8  INAPPLICABLE (FORMS A, B)          9.0       2377               0.68
+
+
+
+S198E.Qiiii37 WHEN DID YOU LAND IN THE U.S.? GIVE THE MONTH IN WHICH YOU ACTUALLY ARRIVED BACK IN THE U.S.
+                                  answer_label answer_value raw_counts relative_frequency
+0                       FEBRUARY 1945 OR LATER          1.0          2                0.0
+1                                 JANUARY 1945          2.0         16                0.0
+2                                DECEMBER 1944          3.0         62               0.02
+3                                NOVEMBER 1944          4.0         29               0.01
+4                                 OCTOBER 1944          5.0         28               0.01
+5                               SEPTEMBER 1944          6.0         21               0.01
+6                      JUNE 1944 - AUGUST 1944          7.0         94               0.03
+7                        MARCH 1944 - MAY 1944          8.0         88               0.03
+8   DECEMBER 1943, JANUARY 1944, FEBRUARY 1944          9.0         32               0.01
+9                       PRIOR TO DECEMBER 1943         10.0         59               0.02
+10              NO ANSWER OR JUST 1943 OR 1944         11.0         20               0.01
+11                       INAPPLICABLE (FORM X)         98.0        672               0.19
+12                   INAPPLICABLE (FORMS A, B)         99.0       2377               0.68
+
+
+
+S198E.Qiiii38.1 WHAT WAS THE BRANCH OF SERVICE THAT YOU WERE LAST IN WHILE YOU WERE OVERSEAS?
+                             answer_label answer_value raw_counts relative_frequency
+0                               ENGINEERS          1.0         24               0.01
+1                         FIELD ARTILLERY          2.0          5                0.0
+2                                INFANTRY          4.0        203               0.06
+3                         ARMORED COMMAND          5.0          4                0.0
+4                          TANK DESTROYER          3.0          3                0.0
+5                     QUARTERMASTER CORPS          6.0         27               0.01
+6                      MEDICAL DEPARTMENT          7.0         29               0.01
+7                            SIGNAL CORPS          8.0         13                0.0
+8                               AIR CORPS          9.0          1                0.0
+9                     ORDNANCE DEPARTMENT         10.0         23               0.01
+10                        MILITARY POLICE         11.0         13                0.0
+11                              NO ANSWER         97.0         16                0.0
+12  INAPPLICABLE (FORM X), OR CODED BELOW         98.0        762               0.22
+13            INAPPLICABLE \(FORMS A, B\)         99.0       2377               0.68
+
+
+
+S198E.Qiiii38.2 WHAT WAS THE BRANCH OF SERVICE THAT YOU WERE LAST IN WHILE YOU WERE OVERSEAS?
+                            answer_label answer_value raw_counts relative_frequency
+0               CHEMICAL WARFARE SERVICE         12.0         39               0.01
+1                   TRANSPORTATION CORPS         13.0          8                0.0
+2                        COAST ARTILLERY         14.0         11                0.0
+3                 ANTI-AIRCRAFT (C.A.C.)         15.0         14                0.0
+4                                CAVALRY         16.0          3                0.0
+5                         OTHER (WHICH?)         17.0         15                0.0
+6                              NO ANSWER         97.0         16                0.0
+7  INAPPLICABLE (FORM X), OR CODED ABOVE         98.0       1017               0.29
+8              INAPPLICABLE (FORMS A, B)         99.0       2377               0.68
+
+
+
+S198E.Qiiii39 IN WHAT OVERSEAS THEATER OR AREA DID YOU LAST SERVE (CHECK THE ONE IN WHICH YOU WERE LAST ON DUTY)?
+                                                      answer_label answer_value raw_counts relative_frequency
+0                         EUROPEAN THEATER (BRITISH ISLES, FRANCE)          1.0         32               0.01
+1                      MEDITERRANEAN THEATER (ITALY, NORTH AFRICA)          2.0         80               0.02
+2                                                CARIBBEAN, PANAMA          3.0         61               0.02
+3                   SOUTHWEST PACIFIC AREA (AUSTRALIA, NEW GUINEA)          4.0         71               0.02
+4    SOUTH PACIFIC BASE COMMAND (NEW CALEDONIA, GUADALCANAL, ETC.)          5.0         52               0.01
+5   CENTRAL PACIFIC BASE COMMAND (HAWAII, KWAJALEIN, SAIPAN, ETC.)          6.0         35               0.01
+6                                                ALASKA, ALEUTIANS          7.0         85               0.02
+7                             MIDDLE EAST (CAIRO, PALESTINE, IRAN)          8.0          3                0.0
+8                                              CHINA, BURMA, INDIA          9.0          5                0.0
+9                                              OTHER PLACE (WHAT?)         10.0          2                0.0
+10                                                       NO ANSWER         11.0         25               0.01
+11                                           INAPPLICABLE (FORM X)         98.0        672               0.19
+12                                       INAPPLICABLE (FORMS A, B)         99.0       2377               0.68
+
+
+
+S198E.Qiiii40 WHAT WAS THE REASON FOR YOUR RETURN TO THE U.S.?
+                   answer_label answer_value raw_counts relative_frequency
+0                 ROTATION PLAN          1.0        292               0.08
+1  COMPLETED A TOUR OF MISSIONS          2.0         19               0.01
+2     SOME OTHER REASON (WHAT?)          3.0        123               0.04
+3                     NO ANSWER          4.0         17                0.0
+4         INAPPLICABLE (FORM X)          8.0        672               0.19
+5     INAPPLICABLE (FORMS A, B)          9.0       2377               0.68
+
+
+
+S198E.Viiii47 ATTITUDE TOWARD POST-WAR SERVICE: E. DERIVED FROM Q.35A AND Q.36.
+                                 answer_label answer_value raw_counts relative_frequency
+0                                  Q.36 CODED          1.0         93               0.03
+1                  Q.36 CODED 2 : Q.35A CODED          2.0        144               0.04
+2            Q.36 CODED 3, 4, 0 : Q.35A CODED          3.0        301               0.09
+3                  Q.36 CODED 2 : Q.35A CODED          4.0        145               0.04
+4            Q.36 CODED 3, 4, 0 : Q.35A CODED          5.0        535               0.15
+5  Q.36 CODED 2, 3, 4, 0: Q.35A CODED 3, 4, 0          6.0       2282               0.65
+
+
+
+S198E.Viiii48 TYPE OF ARMY FORCE:
+          answer_label answer_value raw_counts relative_frequency
+0      ARMY AIR FORCES          1.0       1274               0.36
+1  ARMY SERVICE FORCES          2.0       1118               0.32
+2   ARMY GROUND FORCES          3.0       1108               0.32
+
+
+
+S198E.Viiii49 CAMP IDENTIFICATION:
+                          answer_label answer_value raw_counts relative_frequency
+0            FORT MONMOUTH, NEW JERSEY          1.0         74               0.02
+1   BOCA RATON ARMY AIR FIELD, FLORIDA          2.0        213               0.06
+2              BUCKLEY FIELD, COLORADO          3.0        170               0.05
+3              CAMP ROBINSON, ARKANSAS          4.0        202               0.06
+4   THOS. ENGLAND HOSPITAL, NEW JERSEY          5.0         79               0.02
+5                  CAMP WOLTERS, TEXAS          6.0        124               0.04
+6               CAMP CROWDER, MISSOURI          7.0         42               0.01
+7              FORT SHERIDAN, ILLINOIS          8.0         56               0.02
+8        AVON PARK ARMY FIELD, FLORIDA          9.0        205               0.06
+9             PETERSON FIELD, COLORADO         10.0        108               0.03
+10           CAMP CLAIBORNE, LOUISIANA         11.0         72               0.02
+11                FORT WARREN, WYOMING         12.0        147               0.04
+12           DALE MABRY FIELD, FLORIDA         13.0         83               0.02
+13               CAMP GRUBER, OKLAHOMA         14.0         56               0.02
+14              MISSISSIPPI ORD. PLANT         15.0         61               0.02
+15           SAN FRANCISCO, CALIFORNIA         16.0        119               0.03
+16                   CAMP SWIFT, TEXAS         17.0        195               0.06
+17               GULFPORT, MISSISSIPPI         18.0        195               0.06
+18                 FORT SILL, OKLAHOMA         19.0        111               0.03
+19                     SIBERT, ALABAMA         20.0        309               0.09
+20                  MCCLELLAN, ALABAMA         21.0        513               0.15
+21      KEESLER AIR FIELD, MISSISSIPPI         22.0        300               0.09
+22              FORT BELVOIR, VIRGINIA         23.0         66               0.02
+
+
+

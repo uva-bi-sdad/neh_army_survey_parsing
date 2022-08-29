@@ -1,0 +1,1307 @@
+S215.Q1 WHAT IS YOUR ARMY RANK OR GRADE?
+                                               answer_label answer_value raw_counts relative_frequency
+0                                                 NO ANSWER          0.0         26               0.01
+1                                                   PRIVATE          1.0        403               0.23
+2                                       PRIVATE FIRST CLASS          2.0        375               0.21
+3  NONCOM (CORPORAL OR ANY GRADE OF SERGEANT OR TECHNICIAN)          3.0        934               0.53
+4                                  SOME OTHER RANK OR GRADE          4.0         19               0.01
+
+
+
+S215.Q2 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         10               0.01
+1  19 YEARS OR YOUNGER          1.0        155               0.09
+2       20 TO 24 YEARS          2.0        536               0.31
+3       25 TO 29 YEARS          3.0        584               0.33
+4       30 TO 34 YEARS          4.0        278               0.16
+5    35 YEARS OR OLDER          5.0        194               0.11
+
+
+
+S215.Q3 HOW FAR DID YOU GO IN SCHOOL?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0          6                0.0
+1                  LESS THAN 6TH GRADE          1.0         33               0.02
+2                   FINISHED 6TH GRADE          2.0         43               0.02
+3                   FINISHED 7TH GRADE          3.0         63               0.04
+4                   FINISHED 8TH GRADE          4.0        201               0.11
+5  SOME HIGH SCHOOL BUT DID NOT FINISH          5.0        483               0.27
+6           GRADUATED FROM HIGH SCHOOL          6.0        595               0.34
+7      SOME COLLEGE BUT DID NOT FINISH          7.0        259               0.15
+8               GRADUATED FROM COLLEGE          8.0         74               0.04
+
+
+
+S215.Q4A.x HAVE YOU SERVED OUTSIDE THE CONTINENTAL UNITED STATES IN THIS WAR?  Q.4B. IF YES, HAVE YOU BEEN IN ACTUAL COMBAT IN THIS WAR?
+                                                  answer_label answer_value raw_counts relative_frequency
+0                                                    NO ANSWER          0.0         16               0.01
+1  YES, I HAVE BEEN UNDER ENEMY FIRE, BUT NOT IN ACTUAL COMBAT          1.0        171                0.1
+2                            YES, I HAVE BEEN IN ACTUAL COMBAT          2.0        488               0.28
+3                                               YES, NO ANSWER          3.0          3                0.0
+4               NO, HAVE NOT BEEN IN ACTUAL COMBAT IN THIS WAR          4.0        158               0.09
+5        NO, HAVE NOT SERVED OUTSIDE CONTINENTAL UNITED STATES          5.0        921               0.52
+
+
+
+S215.Q5 HOW LONG HAVE YOU BEEN IN THE ARMY? E. IF YOU HAVE BEEN IN THE ARMY BEFORE, THEN WERE OUT FOR AWHILE, JUST CHECK THE LENGTH OF TIME SINCE YOU ENTERED THIS LAST TIME. IF YOU WERE IN THE NATIONAL GUARD, CHECK THE LENGTH OF TIME SINCE YOUR OUTFIT CAME INTO
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         13               0.01
+1              3 MONTHS OR LESS          1.0        153               0.09
+2  OVER 3 MONTHS UP TO 6 MONTHS          2.0         55               0.03
+3  OVER 6 MONTHS UP TO 9 MONTHS          3.0         12               0.01
+4    OVER 9 MONTHS UP TO 1 YEAR          4.0         37               0.02
+5     OVER 1 YEAR UP TO 2 YEARS          5.0        227               0.13
+6    OVER 2 YEARS UP TO 3 YEARS          6.0        594               0.34
+7    OVER 3 YEARS UP TO 4 YEARS          7.0        360                0.2
+8                  OVER 4 YEARS          8.0        306               0.17
+
+
+
+S215.Q6A IN GENERAL, WHAT DO YOU THINK OF THE ARMY SCORE CARD PLAN (THE POINT SYSTEM)?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0         10               0.01
+1        IT IS VERY GOOD          1.0        401               0.23
+2      IT IS FAIRLY GOOD          2.0        850               0.48
+3      IT IS NOT SO GOOD          3.0        291               0.17
+4  IT IS NOT GOOD AT ALL          4.0        125               0.07
+5              UNDECIDED          5.0         80               0.05
+
+
+
+S215.Q6B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         24               0.01
+1  NOT AT ALL STRONGLY          1.0         81               0.05
+2      NOT SO STRONGLY          2.0        270               0.15
+3      FAIRLY STRONGLY          3.0        759               0.43
+4        VERY STRONGLY          4.0        623               0.35
+
+
+
+S215.Q7A DO YOU APPROVE OR DISAPPROVE OF THE ARMY SCORE CARD PLAN (THE POINT SYSTEM)?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0         17               0.01
+1     I APPROVE VERY MUCH          1.0        338               0.19
+2               I APPROVE          2.0        831               0.47
+3            I DISAPPROVE          3.0        268               0.15
+4  I DISAPPROVE VERY MUCH          4.0         93               0.05
+5               UNDECIDED          5.0        210               0.12
+
+
+
+S215.Q7B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         33               0.02
+1  NOT AT ALL STRONGLY          1.0         69               0.04
+2      NOT SO STRONGLY          2.0        280               0.16
+3      FAIRLY STRONGLY          3.0        774               0.44
+4        VERY STRONGLY          4.0        601               0.34
+
+
+
+S215.Q8A WHEN THE ARMY SCORE CARD PLAN (THE POINT SYSTEM) GETS GOING, DO YOU THINK IT WILL REALLY BE CARRIED OUT IN THE WAY IT IS SUPPOSED TO BE?
+                                                            answer_label answer_value raw_counts relative_frequency
+0                                                              NO ANSWER          0.0         11               0.01
+1       YES, I THINK IT WILL BE CARRIED OUT THE WAY IT IS SUPPOSED TO BE          1.0        743               0.42
+2  NO, I DON'T THINK IT WILL BE CARRIED OUT THE WAY IT IS SUPPOSED TO BE          2.0        669               0.38
+3                                                              UNDECIDED          3.0        334               0.19
+
+
+
+S215.Q8B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         36               0.02
+1  NOT AT ALL STRONGLY          1.0        101               0.06
+2      NOT SO STRONGLY          2.0        233               0.13
+3      FAIRLY STRONGLY          3.0        762               0.43
+4        VERY STRONGLY          4.0        625               0.36
+
+
+
+S215.Q9A IF THE ARMY SCORE CARD PLAN (THE POINT SYSTEM) IS CARRIED OUT IN THE WAY IT IS SUPPOSED TO BE, DO YOU THINK IT WILL GIVE THE MEN A SQUARE DEAL?
+                                                   answer_label answer_value raw_counts relative_frequency
+0                                                     NO ANSWER          0.0          7                0.0
+1               THE PLAN WILL GIVE ALMOST ALL MEN A SQUARE DEAL          1.0        463               0.26
+2        THE PLAN WILL GIVE MANY MEN A SQUARE DEAL, BUT NOT ALL          2.0        783               0.45
+3  THE PLAN WILL GIVE SOME MEN A SQUARE DEAL, BUT NOT VERY MANY          3.0        360                0.2
+4                 THE PLAN WILL GIVE VERY FEW MEN A SQUARE DEAL          4.0        111               0.06
+5                                                     UNDECIDED          5.0         33               0.02
+
+
+
+S215.Q9B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         18               0.01
+1  NOT AT ALL STRONGLY          1.0         39               0.02
+2      NOT SO STRONGLY          2.0        155               0.09
+3      FAIRLY STRONGLY          3.0        685               0.39
+4        VERY STRONGLY          4.0        860               0.49
+
+
+
+S215.Q10A HOW SATISFIED ARE YOU PERSONALLY WITH THE ARMY SCORE CARD PLAN?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0         13               0.01
+1     VERY SATISFIED          1.0        264               0.15
+2          SATISFIED          2.0        814               0.46
+3       DISSATISFIED          3.0        353                0.2
+4  VERY DISSATISFIED          4.0        148               0.08
+5          UNDECIDED          5.0        165               0.09
+
+
+
+S215.Q10B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         25               0.01
+1  NOT AT ALL STRONGLY          1.0         65               0.04
+2      NOT SO STRONGLY          2.0        212               0.12
+3      FAIRLY STRONGLY          3.0        787               0.45
+4        VERY STRONGLY          4.0        668               0.38
+
+
+
+S215.Q11A THE ARMY SCORE CARD PLAN IS BASED ON WHAT THE SOLDIERS THEMSELVES SAID. DO YOU THINK IT WAS A GOOD IDEA OR A BAD IDEA TO ASK THE SOLDIERS THEMSELVES ABOUT WHICH MEN SHOULD GET OUT OF THE ARMY FIRST?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0         20               0.01
+1    IT WAS A VERY GOOD IDEA          1.0       1330               0.76
+2  IT WAS A FAIRLY GOOD IDEA          2.0        268               0.15
+3  IT WAS A PRETTY POOR IDEA          3.0         53               0.03
+4     IT WAS A VERY BAD IDEA          4.0         33               0.02
+5                  UNDECIDED          5.0         53               0.03
+
+
+
+S215.Q11B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         31               0.02
+1  NOT AT ALL STRONGLY          1.0         35               0.02
+2      NOT SO STRONGLY          2.0         74               0.04
+3      FAIRLY STRONGLY          3.0        359                0.2
+4        VERY STRONGLY          4.0       1258               0.72
+
+
+
+S215.Q12A HOW DO YOU FEEL ABOUT THE ARMY SCORE CARD PLAN AS COMPARED TO SOME OTHER PLAN THAT MIGHT HAVE BEEN USED?
+                                     answer_label answer_value raw_counts relative_frequency
+0                                       NO ANSWER          0.0         22               0.01
+1    IT IS THE BEST ONE THAT COULD HAVE BEEN USED          1.0        357                0.2
+2  IT IS AS GOOD AS ANY THAT COULD HAVE BEEN USED          2.0        726               0.41
+3      A SOMEWHAT BETTER ONE COULD HAVE BEEN USED          3.0        373               0.21
+4          A MUCH BETTER ONE COULD HAVE BEEN USED          4.0        167                0.1
+5                                       UNDECIDED          5.0        112               0.06
+
+
+
+S215.Q12B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         46               0.03
+1  NOT AT ALL STRONGLY          1.0         35               0.02
+2      NOT SO STRONGLY          2.0        123               0.07
+3      FAIRLY STRONGLY          3.0        723               0.41
+4        VERY STRONGLY          4.0        830               0.47
+
+
+
+S215.Q13A IN YOUR OPINION, ARE THERE ANY THINGS FOR WHICH POINTS OUGHT TO BE GIVEN THAT ARE NOT USED IN THE ARMY SCORE CARD PLAN?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         58               0.03
+1          YES          1.0        837               0.48
+2           NO          2.0        451               0.26
+3    UNDECIDED          3.0        411               0.23
+
+
+
+S215.Q13B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0        116               0.07
+1  NOT AT ALL STRONGLY          1.0         78               0.04
+2      NOT SO STRONGLY          2.0        151               0.09
+3      FAIRLY STRONGLY          3.0        477               0.27
+4        VERY STRONGLY          4.0        935               0.53
+
+
+
+S215.Q14A IN YOUR OPINION, IS THE ARMY SCORE CARD PLAN GIVING POINTS FOR ANYTHING WHICH YOU THINK SHOULD NOT BE USED?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         33               0.02
+1          YES          1.0        168                0.1
+2           NO          2.0       1320               0.75
+3    UNDECIDED          3.0        236               0.13
+
+
+
+S215.Q14B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         80               0.05
+1  NOT AT ALL STRONGLY          1.0         77               0.04
+2      NOT SO STRONGLY          2.0        123               0.07
+3      FAIRLY STRONGLY          3.0        571               0.32
+4        VERY STRONGLY          4.0        906               0.52
+
+
+
+S215.Q15A IN YOUR OPINION, HOW FAIR DO YOU THINK THE ARMY SCORE CARD PLAN IS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         17               0.01
+1        VERY FAIR          1.0        369               0.21
+2      PRETTY FAIR          2.0        990               0.56
+3      NOT SO FAIR          3.0        229               0.13
+4  NOT AT ALL FAIR          4.0        108               0.06
+5        UNDECIDED          5.0         44               0.03
+
+
+
+S215.Q15B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         27               0.02
+1  NOT AT ALL STRONGLY          1.0         30               0.02
+2      NOT SO STRONGLY          2.0        117               0.07
+3      FAIRLY STRONGLY          3.0        780               0.44
+4        VERY STRONGLY          4.0        803               0.46
+
+
+
+S215.Q16A UNDER THE ARMY SCORE CARD PLAN, SOME MEN WILL BE RETURNED TO THE STATES BECAUSE THEY HAVE THE HIGHEST POINT SCORES AND THEREFORE WILL BE FIRST IN TURN TO GET OUT OF THE ARMY. HOW MANY OF THESE MEN WHO ARE FIRST IN TURN TO GET OUT OF THE ARMY DO YOU THINK
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0         21               0.01
+1   ALMOST ALL OF THEM WILL BE LET OUT          1.0        202               0.11
+2         MOST OF THEM WILL BE LET OUT          2.0        588               0.33
+3   ABOUT HALF OF THEM WILL BE LET OUT          3.0        591               0.34
+4   ONLY A FEW OF THEM WILL BE LET OUT          4.0        329               0.19
+5  ALMOST NONE OF THEM WILL BE LET OUT          5.0         26               0.01
+
+
+
+S215.Q16B HOW SURE DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         23               0.01
+1  NOT AT ALL SURE          1.0         41               0.02
+2      NOT SO SURE          2.0        205               0.12
+3      FAIRLY SURE          3.0       1022               0.58
+4        VERY SURE          4.0        466               0.27
+
+
+
+S215.Q17A IN YOUR OPINION, HOW GOOD A JOB DO YOU THINK THE ARMY WILL DO IN CARRYING OUT THE ARMY SCORE CARD PLAN?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0         17               0.01
+1    A VERY GOOD JOB          1.0        219               0.12
+2  A FAIRLY GOOD JOB          2.0        926               0.53
+3  A PRETTY POOR JOB          3.0        229               0.13
+4     A VERY BAD JOB          4.0         58               0.03
+5          UNDECIDED          5.0        308               0.18
+
+
+
+S215.Q17B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         47               0.03
+1  NOT AT ALL STRONGLY          1.0         44               0.03
+2      NOT SO STRONGLY          2.0        158               0.09
+3      FAIRLY STRONGLY          3.0        882                0.5
+4        VERY STRONGLY          4.0        626               0.36
+
+
+
+S215.Q18A AS FAR AS YOU CAN TELL, HOW SATISFIED ARE YOU WITH THE WAY THE ARMY SCORE CARD PLAN IS WORKING OUT UP TO NOW?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0         18               0.01
+1     VERY SATISFIED          1.0        156               0.09
+2          SATISFIED          2.0        605               0.34
+3       DISSATISFIED          3.0        440               0.25
+4  VERY DISSATISFIED          4.0        181                0.1
+5          UNDECIDED          5.0        357                0.2
+
+
+
+S215.Q18B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         49               0.03
+1  NOT AT ALL STRONGLY          1.0         49               0.03
+2      NOT SO STRONGLY          2.0        153               0.09
+3      FAIRLY STRONGLY          3.0        778               0.44
+4        VERY STRONGLY          4.0        728               0.41
+
+
+
+S215.Q19A IN GENERAL, DO YOU THINK THE ARMY IS TRYING ITS BEST TO CARRY OUT THE ARMY SCORE CARD PLAN AS IT SHOULD BE CARRIED OUT?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0         21               0.01
+1              YES, IT IS TRYING ITS BEST          1.0        777               0.44
+2  IT IS TRYING SOME, BUT NOT HARD ENOUGH          2.0        850               0.48
+3              IT IS HARDLY TRYING AT ALL          3.0        109               0.06
+
+
+
+S215.Q19B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         24               0.01
+1  NOT AT ALL STRONGLY          1.0         22               0.01
+2      NOT SO STRONGLY          2.0        104               0.06
+3      FAIRLY STRONGLY          3.0        678               0.39
+4        VERY STRONGLY          4.0        929               0.53
+
+
+
+S215.Q20 WHAT IS YOUR OWN POINT SCORE?  ANP (ACTUAL NUMBER POINTS)
+          answer_label answer_value raw_counts relative_frequency
+0              1 POINT          1.0         23               0.01
+1            89 POINTS         89.0          8                0.0
+2         90-99 POINTS         90.0        102               0.06
+3       100-109 POINTS         91.0         72               0.04
+4       110-119 POINTS         92.0         33               0.02
+5  120 POINTS AND OVER         93.0         26               0.01
+6           DON'T KNOW         94.0        111               0.06
+7            NO ANSWER         99.0         66               0.04
+
+
+
+S215.Q21A ON THE WHOLE, WOULD YOU SAY YOU ARE WELL ADJUSTED OR POORLY ADJUSTED TO ARMY LIFE?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0         13               0.01
+1    I AM VERY WELL ADJUSTED          1.0        305               0.17
+2  I AM FAIRLY WELL ADJUSTED          2.0        814               0.46
+3  I AM NOT SO WELL ADJUSTED          3.0        313               0.18
+4  I AM VERY POORLY ADJUSTED          4.0        312               0.18
+
+
+
+S215.Q21B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         17               0.01
+1  NOT AT ALL STRONGLY          1.0         30               0.02
+2      NOT SO STRONGLY          2.0        107               0.06
+3      FAIRLY STRONGLY          3.0        650               0.37
+4        VERY STRONGLY          4.0        953               0.54
+
+
+
+S215.Q22A HOW MUCH DO YOU PERSONALLY LIKE YOUR OFFICERS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         32               0.02
+1    VERY MUCH          1.0        295               0.17
+2  PRETTY MUCH          2.0        800               0.46
+3  NOT SO MUCH          3.0        447               0.25
+4   NOT AT ALL          4.0        183                0.1
+
+
+
+S215.Q22B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         25               0.01
+1  NOT AT ALL STRONGLY          1.0         21               0.01
+2      NOT SO STRONGLY          2.0         94               0.05
+3      FAIRLY STRONGLY          3.0        725               0.41
+4        VERY STRONGLY          4.0        892               0.51
+
+
+
+S215.Q23A DO YOUR OFFICERS GIVE YOU A GOOD CHANCE TO ASK QUESTIONS AS TO THE REASON WHY THINGS ARE DONE THE WAY THEY ARE?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0         17               0.01
+1         YES, ALWAYS          1.0        259               0.15
+2        YES, USUALLY          2.0        655               0.37
+3  NO, NOT VERY OFTEN          3.0        489               0.28
+4    NO, ALMOST NEVER          4.0        234               0.13
+5           UNDECIDED          5.0        103               0.06
+
+
+
+S215.Q23B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         34               0.02
+1  NOT AT ALL STRONGLY          1.0         19               0.01
+2      NOT SO STRONGLY          2.0        109               0.06
+3      FAIRLY STRONGLY          3.0        639               0.36
+4        VERY STRONGLY          4.0        956               0.54
+
+
+
+S215.Q24A DO YOU FEEL THAT YOUR OFFICERS RECOGNIZE YOUR ABILITIES AND WHAT YOU ARE ABLE TO DO?
+                            answer_label answer_value raw_counts relative_frequency
+0                              NO ANSWER          0.0         15               0.01
+1                  YES, I'M SURE THEY DO          1.0        375               0.21
+2  YES, I THINK THEY DO BUT I'M NOT SURE          2.0        548               0.31
+3              NO, I DON'T THINK THEY DO          3.0        719               0.41
+4                              UNDECIDED          4.0        100               0.06
+
+
+
+S215.Q24B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         28               0.02
+1  NOT AT ALL STRONGLY          1.0         35               0.02
+2      NOT SO STRONGLY          2.0         92               0.05
+3      FAIRLY STRONGLY          3.0        616               0.35
+4        VERY STRONGLY          4.0        986               0.56
+
+
+
+S215.Q25A ON THE WHOLE, HOW IS YOUR MORALE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         10               0.01
+1    VERY HIGH          1.0        113               0.06
+2  FAIRLY HIGH          2.0        441               0.25
+3   JUST SO-SO          3.0        589               0.34
+4   FAIRLY LOW          4.0        228               0.13
+5     VERY LOW          5.0        376               0.21
+
+
+
+S215.Q25B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         18               0.01
+1  NOT AT ALL STRONGLY          1.0         28               0.02
+2      NOT SO STRONGLY          2.0         79               0.04
+3      FAIRLY STRONGLY          3.0        523                0.3
+4        VERY STRONGLY          4.0       1109               0.63
+
+
+
+S215.Q26A ALL THINGS CONSIDERED, DO YOU THINK THE ARMY IS RUN ABOUT AS EFFICIENTLY AS POSSIBLE, OR DO YOU THINK IT COULD BE RUN BETTER?
+                                                 answer_label answer_value raw_counts relative_frequency
+0                                                   NO ANSWER          0.0         14               0.01
+1  IT IS RUN ABOUT AS WELL AS POSSIBLE, EVERYTHING CONSIDERED          1.0        577               0.33
+2                             IT COULD BE RUN SOMEWHAT BETTER          2.0        606               0.34
+3                                IT COULD BE RUN A LOT BETTER          3.0        560               0.32
+
+
+
+S215.Q26B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         22               0.01
+1  NOT AT ALL STRONGLY          1.0         17               0.01
+2      NOT SO STRONGLY          2.0         48               0.03
+3      FAIRLY STRONGLY          3.0        492               0.28
+4        VERY STRONGLY          4.0       1178               0.67
+
+
+
+S215.Q27A DO TOO MANY OF THE THINGS YOU HAVE TO DO IN THE ARMY SEEM UNNECESSARY?
+                                answer_label answer_value raw_counts relative_frequency
+0                         NO CODE OR NO DATA          0.0          2                0.0
+1     YES, TOO MANY OF THEM SEEM UNNECESSARY          1.0       1142               0.65
+2  NO, NOT TOO MANY OF THEM SEEM UNNECESSARY          2.0        595               0.34
+3                                  NO ANSWER          3.0         18               0.01
+
+
+
+S215.Q27B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         20               0.01
+1  NOT AT ALL STRONGLY          1.0         17               0.01
+2      NOT SO STRONGLY          2.0         69               0.04
+3      FAIRLY STRONGLY          3.0        455               0.26
+4        VERY STRONGLY          4.0       1196               0.68
+
+
+
+S215.Q28A IN GENERAL DO YOU THINK THE ARMY HAS TRIED ITS BEST TO SEE THAT MEN GET AS SQUARE A DEAL AS POSSIBLE?
+                            answer_label answer_value raw_counts relative_frequency
+0                              NO ANSWER          0.0          9               0.01
+1             YES, IT HAS TRIED ITS BEST          1.0        508               0.29
+2  IT HAS TRIED SOME BUT NOT HARD ENOUGH          2.0       1031               0.59
+3             IT HAS HARDLY TRIED AT ALL          3.0        209               0.12
+
+
+
+S215.Q28B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         14               0.01
+1  NOT AT ALL STRONGLY          1.0         16               0.01
+2      NOT SO STRONGLY          2.0         56               0.03
+3      FAIRLY STRONGLY          3.0        571               0.32
+4        VERY STRONGLY          4.0       1100               0.63
+
+
+
+S215.Q29A IN GENERAL, DO YOU FEEL YOU YOURSELF HAVE GOTTEN A SQUARE DEAL FROM THE ARMY?
+                                      answer_label answer_value raw_counts relative_frequency
+0                                        NO ANSWER          0.0          6                0.0
+1                         YES, IN MOST WAYS I HAVE          1.0        524                0.3
+2             IN SOME WAYS, YES, IN OTHER WAYS, NO          2.0        885                0.5
+3  NO, ON THE WHOLE I HAVEN'T GOTTEN A SQUARE DEAL          3.0        342               0.19
+
+
+
+S215.Q29B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         16               0.01
+1  NOT STRONGLY AT ALL          1.0         21               0.01
+2      NOT SO STRONGLY          2.0         54               0.03
+3      FAIRLY STRONGLY          3.0        465               0.26
+4        VERY STRONGLY          4.0       1201               0.68
+
+
+
+S215.Q30A DO YOU FEEL THAT THE ARMY IS TRYING ITS BEST TO LOOK OUT FOR THE WELFARE OF ENLISTED MEN?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0         11               0.01
+1              YES, IT IS TRYING ITS BEST          1.0        605               0.34
+2  IT IS TRYING SOME, BUT NOT HARD ENOUGH          2.0        965               0.55
+3              IT IS HARDLY TRYING AT ALL          3.0        176                0.1
+
+
+
+S215.Q30B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         15               0.01
+1  NOT AT ALL STRONGLY          1.0         16               0.01
+2      NOT SO STRONGLY          2.0         65               0.04
+3      FAIRLY STRONGLY          3.0        578               0.33
+4        VERY STRONGLY          4.0       1083               0.62
+
+
+
+S215.Q31A IN GENERAL, HOW INTERESTED DO YOU THINK THE ARMY IS IN YOUR WELFARE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         15               0.01
+1    VERY MUCH          1.0        276               0.16
+2  PRETTY MUCH          2.0        718               0.41
+3  NOT SO MUCH          3.0        564               0.32
+4   NOT AT ALL          4.0        184                0.1
+
+
+
+S215.Q31B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         15               0.01
+1  NOT AT ALL STRONGLY          1.0         18               0.01
+2      NOT SO STRONGLY          2.0         84               0.05
+3      FAIRLY STRONGLY          3.0        697                0.4
+4        VERY STRONGLY          4.0        943               0.54
+
+
+
+S215.Q32A WHAT DO YOU THINK OF THE STATEMENT THAT "THE ARMY MAKES A MAN OUT OF YOU"?
+                                           answer_label answer_value raw_counts relative_frequency
+0                                             NO ANSWER          0.0         27               0.02
+1                                   THERE'S A LOT TO IT          1.0        460               0.26
+2  THERE MAY BE SOMETHING TO IT, BUT I'M STILL DOUBTFUL          2.0        536               0.31
+3                               THERE IS NOT MUCH TO IT          3.0        626               0.36
+4                                            NO OPINION          4.0        108               0.06
+
+
+
+S215.Q32B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+          answer_label answer_value raw_counts relative_frequency
+0   NO CODE OR NO DATA          0.0          3                0.0
+1  NOT AT ALL STRONGLY          1.0         27               0.02
+2      NOT SO STRONGLY          2.0         89               0.05
+3      FAIRLY STRONGLY          3.0        511               0.29
+4        VERY STRONGLY          4.0       1091               0.62
+5            NO ANSWER          5.0         36               0.02
+
+
+
+S215.Q33A IN THE ARMY, SOME JOBS ARE NATURALLY HARDER AND MORE DANGEROUS THAN OTHERS AND THE ARMY HAS TO PUT MEN WHERE IT THINKS THEY ARE NEEDED. CONSIDERING EVERYTHING, DO YOU THINK THE ARMY IS TRYING ITS BEST TO SEE THAT, AS FAR AS POSSIBLE, NO MAN GETS MORE THA
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0         28               0.02
+1              YES, IT IS TRYING ITS BEST          1.0        691               0.39
+2  IT IS TRYING SOME, BUT NOT HARD ENOUGH          2.0        810               0.46
+3              IT IS HARDLY TRYING AT ALL          3.0        228               0.13
+
+
+
+S215.Q33B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         33               0.02
+1  NOT AT ALL STRONGLY          1.0         17               0.01
+2      NOT SO STRONGLY          2.0         77               0.04
+3      FAIRLY STRONGLY          3.0        646               0.37
+4        VERY STRONGLY          4.0        984               0.56
+
+
+
+S215.Q34A DO YOU THINK THE ARMY IS TRYING ITS BEST TO SEE THAT THE MEN WHO HAVE THE HARD AND DANGEROUS JOBS GET THE SPECIAL CONSIDERATION AND BREAKS THEY DESERVE?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0         30               0.02
+1              YES, IT IS TRYING ITS BEST          1.0        479               0.27
+2  IT IS TRYING SOME, BUT NOT HARD ENOUGH          2.0        881                0.5
+3              IT IS HARDLY TRYING AT ALL          3.0        367               0.21
+
+
+
+S215.Q34B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         30               0.02
+1  NOT AT ALL STRONGLY          1.0         16               0.01
+2      NOT SO STRONGLY          2.0         88               0.05
+3      FAIRLY STRONGLY          3.0        611               0.35
+4        VERY STRONGLY          4.0       1012               0.58
+
+
+
+S215.Q35A ON THE WHOLE, DO YOU THINK THE ARMY GIVES A MAN A CHANCE TO SHOW WHAT HE CAN DO?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0         11               0.01
+1    A VERY GOOD CHANCE          1.0        141               0.08
+2  A FAIRLY GOOD CHANCE          2.0        627               0.36
+3  NOT MUCH OF A CHANCE          3.0        733               0.42
+4      NO CHANCE AT ALL          4.0        213               0.12
+5             UNDECIDED          5.0         32               0.02
+
+
+
+S215.Q35B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         19               0.01
+1  NOT AT ALL STRONGLY          1.0         12               0.01
+2      NOT SO STRONGLY          2.0         74               0.04
+3      FAIRLY STRONGLY          3.0        599               0.34
+4        VERY STRONGLY          4.0       1053                0.6
+
+
+
+S215.Q36A IN GENERAL, HOW WELL DO YOU THINK THE ARMY IS RUN?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0         18               0.01
+1    IT IS RUN VERY WELL          1.0        238               0.14
+2  IT IS RUN PRETTY WELL          2.0        947               0.54
+3  IT IS NOT RUN SO WELL          3.0        344                0.2
+4  IT IS RUN VERY POORLY          4.0        167                0.1
+5              UNDECIDED          5.0         43               0.02
+
+
+
+S215.Q36B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         24               0.01
+1  NOT AT ALL STRONGLY          1.0         20               0.01
+2      NOT SO STRONGLY          2.0         85               0.05
+3      FAIRLY STRONGLY          3.0        727               0.41
+4        VERY STRONGLY          4.0        901               0.51
+
+
+
+S215.Q37A DO YOU THINK WHEN YOU ARE DISCHARGED YOU WILL GO BACK TO CIVILIAN LIFE WITH A FAVORABLE OR UNFAVORABLE ATTITUDE TOWARD THE ARMY?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0         12               0.01
+1      VERY FAVORABLE          1.0        258               0.15
+2    FAIRLY FAVORABLE          2.0        472               0.27
+3         ABOUT 50-50          3.0        615               0.35
+4  FAIRLY UNFAVORABLE          4.0        199               0.11
+5    VERY UNFAVORABLE          5.0        201               0.11
+
+
+
+S215.Q37B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         16               0.01
+1  NOT AT ALL STRONGLY          1.0         15               0.01
+2      NOT SO STRONGLY          2.0         64               0.04
+3      FAIRLY STRONGLY          3.0        618               0.35
+4        VERY STRONGLY          4.0       1044               0.59
+
+
+
+S215.Q38A DO YOU HAVE ANY PARTICULAR PHYSICAL OR HEALTH PROBLEM?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         34               0.02
+1           NO          2.0        776               0.44
+2          YES          1.0        801               0.46
+3    UNDECIDED          3.0        146               0.08
+
+
+
+S215.Q38B HOW HARD WAS IT FOR YOU TO ANSWER THIS QUESTION?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         28               0.02
+1        VERY HARD          1.0         59               0.03
+2      FAIRLY HARD          2.0        146               0.08
+3      NOT SO HARD          3.0        368               0.21
+4  NOT HARD AT ALL          4.0       1156               0.66
+
+
+
+S215.Q39A HAVE YOU EVER BEEN BOTHERED BY SHORTNESS OF BREATH WHEN YOU WERE NOT EXERCISING OR WORKING HARD?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0         21               0.01
+1      YES, OFTEN          1.0        271               0.15
+2  YES, SOMETIMES          2.0        594               0.34
+3       NO, NEVER          3.0        871                0.5
+
+
+
+S215.Q39B HOW HARD WAS IT FOR YOU TO ANSWER THIS QUESTION?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         22               0.01
+1        VERY HARD          1.0         13               0.01
+2      FAIRLY HARD          2.0         86               0.05
+3      NOT SO HARD          3.0        424               0.24
+4  NOT HARD AT ALL          4.0       1212               0.69
+
+
+
+S215.Q40A ARE YOU EVER TROUBLED BY YOUR HANDS SWEATING SO THAT THEY FEEL DAMP AND CLAMMY?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1          YES, OFTEN          1.0        539               0.31
+2      YES, SOMETIMES          2.0        702                0.4
+3           NO, NEVER          3.0        492               0.28
+4           NO ANSWER          4.0         22               0.01
+
+
+
+S215.Q40B HOW HARD WAS IT FOR YOU TO ANSWER THIS QUESTION?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         28               0.02
+1        VERY HARD          1.0         15               0.01
+2      FAIRLY HARD          2.0         72               0.04
+3      NOT SO HARD          3.0        403               0.23
+4  NOT HARD AT ALL          4.0       1239               0.71
+
+
+
+S215.Q41A ARE YOU EVER BOTHERED BY HAVING NIGHTMARES (DREAMS THAT FRIGHTEN OR UPSET YOU VERY MUCH)?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1     YES, MANY TIMES          1.0        201               0.11
+2    YES, A FEW TIMES          2.0        624               0.36
+3           NO, NEVER          3.0        910               0.52
+4           NO ANSWER          4.0         20               0.01
+
+
+
+S215.Q41B HOW HARD WAS IT FOR YOU TO ANSWER THIS QUESTION?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         23               0.01
+1        VERY HARD          1.0          9               0.01
+2      FAIRLY HARD          2.0         41               0.02
+3      NOT SO HARD          3.0        298               0.17
+4  NOT HARD AT ALL          4.0       1386               0.79
+
+
+
+S215.Q42A HOW OFTEN ARE YOU BOTHERED BY HAVING AN UPSET STOMACH?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         20               0.01
+1  NEARLY ALL THE TIME          1.0        120               0.07
+2         PRETTY OFTEN          2.0        396               0.23
+3       NOT VERY OFTEN          3.0        942               0.54
+4                NEVER          4.0        279               0.16
+
+
+
+S215.Q42B HOW HARD WAS IT FOR YOU TO ANSWER THIS QUESTION?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         21               0.01
+1        VERY HARD          1.0          9               0.01
+2      FAIRLY HARD          2.0         34               0.02
+3      NOT SO HARD          3.0        347                0.2
+4  NOT HARD AT ALL          4.0       1346               0.77
+
+
+
+S215.Q43A HAVE YOU EVER BEEN TROUBLED BY "COLD SWEATS"?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1          YES, OFTEN          1.0        137               0.08
+2    YES, A FEW TIMES          2.0        717               0.41
+3           NO, NEVER          3.0        876                0.5
+4           NO ANSWER          4.0         25               0.01
+
+
+
+S215.Q43B HOW HARD WAS IT FOR YOU TO ANSWER THIS QUESTION?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         26               0.01
+1        VERY HARD          1.0          8                0.0
+2      FAIRLY HARD          2.0         55               0.03
+3      NOT SO HARD          3.0        328               0.19
+4  NOT HARD AT ALL          4.0       1340               0.76
+
+
+
+S215.Q44A HAVE YOU EVER HAD ANY FAINTING SPELLS?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0         24               0.01
+1  YES, SEVERAL TIMES          1.0         92               0.05
+2    YES, A FEW TIMES          2.0        384               0.22
+3       NEVER HAD ANY          3.0       1257               0.72
+
+
+
+S215.Q44B HOW HARD WAS IT FOR YOU TO ANSWER THIS QUESTION?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         25               0.01
+1        VERY HARD          1.0          8                0.0
+2      FAIRLY HARD          2.0         32               0.02
+3      NOT SO HARD          3.0        199               0.11
+4  NOT HARD AT ALL          4.0       1493               0.85
+
+
+
+S215.Q45A HAVE YOU EVER BEEN BOTHERED BY YOUR HEART BEATING HARD?
+       answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER          0.0         26               0.01
+1        YES, OFTEN          1.0        326               0.19
+2  YES, A FEW TIMES          2.0        836               0.48
+3         NO, NEVER          3.0        569               0.32
+
+
+
+S215.Q45B HOW HARD WAS IT FOR YOU TO ANSWER THIS QUESTION?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         27               0.02
+1        VERY HARD          1.0         12               0.01
+2      FAIRLY HARD          2.0         42               0.02
+3      NOT SO HARD          3.0        335               0.19
+4  NOT HARD AT ALL          4.0       1341               0.76
+
+
+
+S215.Q46A HAVE YOU EVER BEEN BOTHERED BY PRESSURE OR PAINS IN THE HEAD?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0         27               0.02
+1      YES, OFTEN          1.0        264               0.15
+2  YES, SOMETIMES          2.0        669               0.38
+3       NO, NEVER          3.0        797               0.45
+
+
+
+S215.Q46B HOW HARD WAS IT FOR YOU TO ANSWER THIS QUESTION?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         28               0.02
+1        VERY HARD          1.0         10               0.01
+2      FAIRLY HARD          2.0         34               0.02
+3      NOT SO HARD          3.0        272               0.15
+4  NOT HARD AT ALL          4.0       1413                0.8
+
+
+
+S215.Q47A HAVE YOU EVER HAD SPELLS OF DIZZINESS?
+       answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER          0.0         28               0.02
+1   YES, MANY TIMES          1.0        270               0.15
+2  YES, A FEW TIMES          2.0        820               0.47
+3         NO, NEVER          3.0        639               0.36
+
+
+
+S215.Q47B HOW HARD WAS IT FOR YOU TO ANSWER THIS QUESTION?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         29               0.02
+1        VERY HARD          1.0         11               0.01
+2      FAIRLY HARD          2.0         30               0.02
+3      NOT SO HARD          3.0        287               0.16
+4  NOT HARD AT ALL          4.0       1400                0.8
+
+
+
+S215.Q48A DO YOU OFTEN HAVE TROUBLE IN GETTING TO SLEEP OR STAYING ASLEEP?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0         29               0.02
+1    VERY OFTEN          1.0        347                0.2
+2     SOMETIMES          2.0        788               0.45
+3  ALMOST NEVER          3.0        593               0.34
+
+
+
+S215.Q48B HOW HARD WAS IT FOR YOU TO ANSWER THIS QUESTION?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         30               0.02
+1        VERY HARD          1.0         13               0.01
+2      FAIRLY HARD          2.0         29               0.02
+3      NOT SO HARD          3.0        311               0.18
+4  NOT HARD AT ALL          4.0       1374               0.78
+
+
+
+S215.Q49A DO YOUR HANDS EVER TREMBLE ENOUGH TO BOTHER YOU?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0         25               0.01
+1      YES, OFTEN          1.0        243               0.14
+2  YES, SOMETIMES          2.0        564               0.32
+3       NO, NEVER          3.0        925               0.53
+
+
+
+S215.Q49B HOW HARD WAS IT FOR YOU TO ANSWER THIS QUESTION?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         26               0.01
+1        VERY HARD          1.0         11               0.01
+2      FAIRLY HARD          2.0         29               0.02
+3      NOT SO HARD          3.0        267               0.15
+4  NOT HARD AT ALL          4.0       1424               0.81
+
+
+
+S215.Q50A DO YOU EVER BITE YOUR FINGERNAILS NOW?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0         23               0.01
+1      YES, OFTEN          1.0        239               0.14
+2  YES, SOMETIMES          2.0        461               0.26
+3       NO, NEVER          3.0       1034               0.59
+
+
+
+S215.Q50B HOW HARD WAS IT FOR YOU TO ANSWER THIS QUESTION?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         24               0.01
+1        VERY HARD          1.0         10               0.01
+2      FAIRLY HARD          2.0         13               0.01
+3      NOT SO HARD          3.0        187               0.11
+4  NOT HARD AT ALL          4.0       1523               0.87
+
+
+
+S215.Q51A ARE YOU EVER TROUBLED BY SICK HEADACHES?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0         25               0.01
+1      YES, OFTEN          1.0        204               0.12
+2  YES, SOMETIMES          2.0        703                0.4
+3       NO, NEVER          3.0        825               0.47
+
+
+
+S215.Q51B HOW HARD WAS IT FOR YOU TO ANSWER THIS QUESTION?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         24               0.01
+1        VERY HARD          1.0          8                0.0
+2      FAIRLY HARD          2.0         32               0.02
+3      NOT SO HARD          3.0        234               0.13
+4  NOT HARD AT ALL          4.0       1459               0.83
+
+
+
+S215.Q52A ARE YOU EVER BOTHERED BY NERVOUSNESS?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0         24               0.01
+1      YES, OFTEN          1.0        497               0.28
+2  YES, SOMETIMES          2.0        813               0.46
+3       NO, NEVER          3.0        423               0.24
+
+
+
+S215.Q52B HOW HARD WAS IT FOR YOU TO ANSWER THIS QUESTION?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         23               0.01
+1        VERY HARD          1.0          7                0.0
+2      FAIRLY HARD          2.0         41               0.02
+3      NOT SO HARD          3.0        267               0.15
+4  NOT HARD AT ALL          4.0       1419               0.81
+
+
+
+S215.Q53A DO YOU THINK A WOMAN CAN DO MORE FOR HER COUNTRY IN THE WAC OR BY WORKING IN A WAR INDUSTRY?
+                               answer_label answer_value raw_counts relative_frequency
+0                        NO CODE OR NO DATA          0.0          5                0.0
+1      SHE CAN DO MUCH MORE IN WAR INDUSTRY          1.0        826               0.47
+2  SHE CAN DO SOMEWHAT MORE IN WAR INDUSTRY          2.0        322               0.18
+3       SHE CAN DO SOMEWHAT MORE IN THE WAC          3.0        131               0.07
+4           SHE CAN DO MUCH MORE IN THE WAC          4.0         73               0.04
+5                                 UNDECIDED          5.0        357                0.2
+6                                 NO ANSWER          6.0         43               0.02
+
+
+
+S215.Q53B HOW SURE ARE YOU ABOUT THIS?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          7                0.0
+1     NOT SURE AT ALL          1.0         69               0.04
+2         NOT SO SURE          2.0        158               0.09
+3         FAIRLY SURE          3.0        633               0.36
+4           VERY SURE          4.0        836               0.48
+5           NO ANSWER          5.0         54               0.03
+
+
+
+S215.Q54A HOW USEFUL DO YOU THINK THE TRAINING A WOMAN GETS IN THE WAC WILL BE IN CIVILIAN LIFE?
+             answer_label answer_value raw_counts relative_frequency
+0      NO CODE OR NO DATA          0.0          2                0.0
+1           NO USE AT ALL          1.0        456               0.26
+2  SOME USE, BUT NOT MUCH          2.0        631               0.36
+3           FAIRLY USEFUL          3.0        351                0.2
+4             VERY USEFUL          4.0        149               0.08
+5               UNDECIDED          5.0        128               0.07
+6               NO ANSWER          6.0         40               0.02
+
+
+
+S215.Q54B HOW SURE ARE YOU ABOUT THIS?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          6                0.0
+1     NOT SURE AT ALL          1.0         43               0.02
+2         NOT SO SURE          2.0        126               0.07
+3         FAIRLY SURE          3.0        771               0.44
+4           VERY SURE          4.0        765               0.44
+5           NO ANSWER          5.0         46               0.03
+
+
+
+S215.Q55A HOW MANY OF THE JOBS IN THE WAC DO YOU THINK ARE INTERESTING AND AGREEABLE?
+             answer_label answer_value raw_counts relative_frequency
+0      NO CODE OR NO DATA          0.0          8                0.0
+1         ALL OF THEM ARE          1.0         68               0.04
+2        MOST OF THEM ARE          2.0        439               0.25
+3  ABOUT HALF OF THEM ARE          3.0        551               0.31
+4         FEW OF THEM ARE          4.0        532                0.3
+5        NONE OF THEM ARE          5.0         79               0.04
+6               NO ANSWER          6.0         80               0.05
+
+
+
+S215.Q55B HOW SURE ARE YOU ABOUT THIS?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0         10               0.01
+1     NOT SURE AT ALL          1.0         63               0.04
+2         NOT SO SURE          2.0        206               0.12
+3         FAIRLY SURE          3.0        874                0.5
+4           VERY SURE          4.0        537               0.31
+5           NO ANSWER          5.0         67               0.04
+
+
+
+S215.Q56A IN YOUR OPINION, IS IT GOOD OR BAD FOR A GIRL'S REPUTATION TO BE A WAC?
+             answer_label answer_value raw_counts relative_frequency
+0      NO CODE OR NO DATA          0.0          4                0.0
+1         IT IS VERY GOOD          1.0         93               0.05
+2       IT IS FAIRLY GOOD          2.0        241               0.14
+3  IT MAKES NO DIFFERENCE          3.0        516               0.29
+4        IT IS PRETTY BAD          4.0        514               0.29
+5          IT IS VERY BAD          5.0        338               0.19
+6               NO ANSWER          6.0         51               0.03
+
+
+
+S215.Q56B HOW SURE ARE YOU ABOUT THIS?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          8                0.0
+1     NOT SURE AT ALL          1.0         26               0.01
+2         NOT SO SURE          2.0        106               0.06
+3         FAIRLY SURE          3.0        728               0.41
+4           VERY SURE          4.0        844               0.48
+5           NO ANSWER          5.0         45               0.03
+
+
+
+S215.Q57A IN YOUR OPINION, IS THE WAC A GOOD PLACE OR A BAD PLACE FOR A GIRL TO BE?
+                                      answer_label answer_value raw_counts relative_frequency
+0                               NO CODE OR NO DATA          0.0          6                0.0
+1    THE WAC IS A VERY GOOD PLACE FOR A GIRL TO BE          1.0         90               0.05
+2  THE WAC IS A FAIRLY GOOD PLACE FOR A GIRL TO BE          2.0        359                0.2
+3             THE WAC IS NO PLACE FOR A GIRL TO BE          3.0        809               0.46
+4                                        UNDECIDED          4.0        449               0.26
+5                                        NO ANSWER          5.0         44               0.03
+
+
+
+S215.Q57B HOW SURE ARE YOU ABOUT THIS?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          8                0.0
+1     NOT SURE AT ALL          1.0         49               0.03
+2         NOT SO SURE          2.0        157               0.09
+3         FAIRLY SURE          3.0        618               0.35
+4           VERY SURE          4.0        864               0.49
+5           NO ANSWER          5.0         61               0.03
+
+
+
+S215.Q58A DO YOU THINK WAC OFFICERS DO OR DO NOT DESERVE TO BE SALUTED JUST THE SAME AS MEN OFFICERS?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                NO CODE OR NO DATA          0.0          7                0.0
+1        YES, THEY DEFINITELY DESERVE TO BE SALUTED          1.0        477               0.27
+2          YES, THEY PROBABLY DESERVE TO BE SALUTED          2.0        440               0.25
+3    NO, THEY PROBABLY DO NOT DESERVE TO BE SALUTED          3.0        219               0.12
+4  NO, THEY DEFINITELY DO NOT DESERVE TO BE SALUTED          4.0        353                0.2
+5                                         UNDECIDED          5.0        217               0.12
+6                                         NO ANSWER          6.0         44               0.03
+
+
+
+S215.Q58B HOW SURE ARE YOU ABOUT THIS?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          9               0.01
+1     NOT SURE AT ALL          1.0         39               0.02
+2         NOT SO SURE          2.0        130               0.07
+3         FAIRLY SURE          3.0        555               0.32
+4           VERY SURE          4.0        971               0.55
+5           NO ANSWER          5.0         53               0.03
+
+
+
+S215.Q59A SUPPOSE A GIRL FRIEND OF YOURS WAS CONSIDERING JOINING THE WAC, WOULD YOU ADVISE HER TO JOIN?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0         43               0.02
+1            YES, I'M ALMOST SURE I WOULD          1.0         58               0.03
+2  YES, I THINK I WOULD, BUT I'M NOT SURE          2.0        106               0.06
+3                NO, I PROBABLY WOULD NOT          3.0        354                0.2
+4                NO, I'M SURE I WOULD NOT          4.0       1123               0.64
+5                               UNDECIDED          5.0         73               0.04
+
+
+
+S215.Q59B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         49               0.03
+1  NOT AT ALL STRONGLY          1.0         10               0.01
+2      NOT SO STRONGLY          2.0         26               0.01
+3        ABOUT AVERAGE          3.0         95               0.05
+4      FAIRLY STRONGLY          4.0        305               0.17
+5        VERY STRONGLY          5.0       1272               0.72
+
+
+
+S215.Q60A AFTER THE WAR, DO YOU THINK THE UNITED STATES SHOULD DRAFT ALL YOUNG MEN FOR A CERTAIN AMOUNT OF ARMY TRAINING OR SHOULD WE GO BACK TO THE REGULAR ARMY SYSTEM OF VOLUNTEERS ONLY?
+                                           answer_label answer_value raw_counts relative_frequency
+0                                             NO ANSWER          0.0         44               0.03
+1  DRAFT ALL YOUNG MEN FOR A CERTAIN AMOUNT OF TRAINING          1.0       1084               0.62
+2                     GO BACK TO TAKING VOLUNTEERS ONLY          2.0        445               0.25
+3                                             UNDECIDED          3.0        184                0.1
+
+
+
+S215.Q60B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+          answer_label answer_value raw_counts relative_frequency
+0   NO CODE OR NO DATA          0.0          2                0.0
+1  NOT AT ALL STRONGLY          1.0         22               0.01
+2      NOT SO STRONGLY          2.0         29               0.02
+3        ABOUT AVERAGE          3.0        144               0.08
+4      FAIRLY STRONGLY          4.0        342               0.19
+5        VERY STRONGLY          5.0       1164               0.66
+6            NO ANSWER          6.0         54               0.03
+
+
+
+S215.Q61A AFTER THE WAR, DO YOU THINK THE UNITED STATES COULD OR COULD NOT HAVE AN ARMY SUFFICIENT FOR THE COUNTRY'S NEEDS BY TAKING VOLUNTEERS ONLY?
+                              answer_label answer_value raw_counts relative_frequency
+0                       NO CODE OR NO DATA          0.0          2                0.0
+1            YES, I'M ALMOST SURE IT COULD          1.0        371               0.21
+2  YES, I THINK IT COULD, BUT I'M NOT SURE          2.0        478               0.27
+3                NO, IT PROBABLY COULD NOT          3.0        557               0.32
+4                NO, I'M SURE IT COULD NOT          4.0        304               0.17
+5                                NO ANSWER          5.0         45               0.03
+
+
+
+S215.Q61B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         46               0.03
+1  NOT AT ALL STRONGLY          1.0         17               0.01
+2      NOT SO STRONGLY          2.0         40               0.02
+3        ABOUT AVERAGE          3.0        187               0.11
+4      FAIRLY STRONGLY          4.0        609               0.35
+5        VERY STRONGLY          5.0        858               0.49
+
+
+
+S215.Q62A IF YOU HAD A SON, WOULD YOU WANT HIM TO HAVE A CERTAIN AMOUNT OF ARMY TRAINING DURING PEACETIME, AFTER THIS WAR, OR NOT?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0         38               0.02
+1            YES, I'M ALMOST SURE I WOULD          1.0        759               0.43
+2  YES, I THINK I WOULD, BUT I'M NOT SURE          2.0        390               0.22
+3                NO, I PROBABLY WOULD NOT          3.0        214               0.12
+4                NO, I'M SURE I WOULD NOT          4.0        256               0.15
+5                               UNDECIDED          5.0        100               0.06
+
+
+
+S215.Q62B HOW HARD WAS IT FOR YOU TO MAKE THIS CHOICE?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1           VERY HARD          1.0        109               0.06
+2         FAIRLY HARD          2.0        325               0.18
+3         NOT SO HARD          3.0        440               0.25
+4     NOT HARD AT ALL          4.0        840               0.48
+5           NO ANSWER          5.0         41               0.02
+
+
+
+S215.Q63A DO YOU AGREE OR DISAGREE WITH THE STATEMENT? "EVEN IF ALL OTHER COUNTRIES AGREE NOT TO HAVE LARGE ARMIES, THE UNITED STATES SHOULD STILL DRAFT ALL YOUNG MEN FOR MILITARY TRAINING."
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          4                0.0
+1      STRONGLY AGREE          1.0        498               0.28
+2               AGREE          2.0        409               0.23
+3            DISAGREE          3.0        289               0.16
+4   STRONGLY DISAGREE          4.0        186               0.11
+5           UNDECIDED          5.0        336               0.19
+6           NO ANSWER          6.0         35               0.02
+
+
+
+S215.Q63B HOW HARD WAS IT FOR YOU TO MAKE THIS CHOICE?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          3                0.0
+1           VERY HARD          1.0         76               0.04
+2         FAIRLY HARD          2.0        302               0.17
+3         NOT SO HARD          3.0        492               0.28
+4     NOT HARD AT ALL          4.0        838               0.48
+5           NO ANSWER          5.0         46               0.03
+
+
+
+S215.Q64A DO YOU AGREE OR DISAGREE WITH THE STATEMENT? "THE BEST WAY TO PROTECT THE UNITED STATES AGAINST ANOTHER WAR IS TO MAKE HER SO STRONG MILITARILY THAT NO ONE WOULD DARE TO ATTACK HER."
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1      STRONGLY AGREE          1.0        650               0.37
+2               AGREE          2.0        453               0.26
+3            DISAGREE          3.0        224               0.13
+4   STRONGLY DISAGREE          4.0        105               0.06
+5           UNDECIDED          5.0        281               0.16
+6           NO ANSWER          6.0         42               0.02
+
+
+
+S215.Q64B HOW HARD WAS IT FOR YOU TO MAKE THIS CHOICE?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         50               0.03
+1        VERY HARD          1.0         74               0.04
+2      FAIRLY HARD          2.0        244               0.14
+3      NOT SO HARD          3.0        458               0.26
+4  NOT HARD AT ALL          4.0        931               0.53
+
+
+
+S215.V66 NEUROPSYCHIATRIC INVENTORY SCORE E. DERIVED FROM QUESTIONS 40A, 42A, 48A, 49A, 52A.
+           answer_label answer_value raw_counts relative_frequency
+0   ORIGINAL SCORE OF 1          1.0        109               0.06
+1   ORIGINAL SCORE OF 2          2.0        134               0.08
+2   ORIGINAL SCORE OF 3          3.0        136               0.08
+3   ORIGINAL SCORE OF 4          4.0        210               0.12
+4   ORIGINAL SCORE OF 5          5.0        222               0.13
+5   ORIGINAL SCORE OF 6          6.0        256               0.15
+6   ORIGINAL SCORE OF 7          7.0        250               0.14
+7   ORIGINAL SCORE OF 8          8.0        175                0.1
+8   ORIGINAL SCORE OF 9          9.0        126               0.07
+9   ORIGINAL SCORE OF 0         10.0         71               0.04
+10  ORIGINAL SCORE OF X         11.0         68               0.04
+
+
+
+S215.V67 NEUROPSYCHIATRIC INVENTORY SCORE E. DERIVED FROM QUESTIONS 39A, 41A, 42A, 44A, 48A, 49A.
+           answer_label answer_value raw_counts relative_frequency
+0   SCORE NOT TABULATED          0.0        123               0.07
+1   ORIGINAL SCORE OF 1          1.0         20               0.01
+2   ORIGINAL SCORE OF 2          2.0         35               0.02
+3   ORIGINAL SCORE OF 3          3.0         53               0.03
+4   ORIGINAL SCORE OF 4          4.0         91               0.05
+5   ORIGINAL SCORE OF 5          5.0        123               0.07
+6   ORIGINAL SCORE OF 6          6.0        164               0.09
+7   ORIGINAL SCORE OF 7          7.0        193               0.11
+8   ORIGINAL SCORE OF 8          8.0        222               0.13
+9   ORIGINAL SCORE OF 9          9.0        251               0.14
+10  ORIGINAL SCORE OF 0         10.0         23               0.01
+11  ORIGINAL SCORE OF X         11.0        268               0.15
+12  ORIGINAL SCORE OF V         12.0        191               0.11
+
+
+
+S215.V68 GENERAL INTENSITY SCORE E. DERIVED FROM QUESTIONS 7B, 11B, 16B, 23B, 27B, 36B, 37B, 55B, 59B, 61B, 62B.
+           answer_label answer_value raw_counts relative_frequency
+0   ORIGINAL SCORE OF 1          1.0        105               0.06
+1   ORIGINAL SCORE OF 2          2.0        128               0.07
+2   ORIGINAL SCORE OF 3          3.0        146               0.08
+3   ORIGINAL SCORE OF 4          4.0        180                0.1
+4   ORIGINAL SCORE OF 5          5.0        208               0.12
+5   ORIGINAL SCORE OF 6          6.0        211               0.12
+6   ORIGINAL SCORE OF 7          7.0        196               0.11
+7   ORIGINAL SCORE OF 8          8.0        190               0.11
+8   ORIGINAL SCORE OF 9          9.0        168                0.1
+9   ORIGINAL SCORE OF 0         10.0         61               0.03
+10  ORIGINAL SCORE OF X         11.0        105               0.06
+11  ORIGINAL SCORE OF V         12.0         59               0.03
+
+
+

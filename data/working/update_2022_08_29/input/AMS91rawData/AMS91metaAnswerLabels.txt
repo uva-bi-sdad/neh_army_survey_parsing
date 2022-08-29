@@ -1,0 +1,892 @@
+{
+  "S91.Q1": {
+    "1.0": "PRIVATE",
+    "2.0": "PRIVATE FIRST CLASS",
+    "5.0": "STAFF SERGEANT OR TECHNICIAN",
+    "6.0": "TECHNICAL SGT., MASTER SGT., OR FIRST SGT.",
+    "NaN": "NA",
+    "0.0": "NO ANSWER",
+    "3.0": "CORPORAL OR TECHNICIAN",
+    "4.0": "SERGEANT OR TECHNICIAN"
+  },
+  "S91.Q2": {
+    "0.0": "NO ANSWER",
+    "1.0": "18 YEARS OR YOUNGER",
+    "2.0": "19 YEARS",
+    "3.0": "20 YEARS",
+    "4.0": "21 YEARS",
+    "5.0": "22 YEARS",
+    "6.0": "23 YEARS",
+    "7.0": "24 YEARS",
+    "8.0": "25 YEARS",
+    "9.0": "26 THRU 29 YEARS",
+    "10.0": "30 THRU 34 YEARS",
+    "11.0": "35 YEARS AND OVER"
+  },
+  "S91.Q3": {
+    "0.0": "NO ANSWER",
+    "1.0": "SINGLE",
+    "2.0": "MARRIED BEFORE JOINING ARMY",
+    "3.0": "MARRIED AFTER JOINING ARMY",
+    "4.0": "WIDOWED, DIVORCED, OR SEPARATED"
+  },
+  "S91.Q4": {
+    "0.0": "NO ANSWER",
+    "1.0": "I'M NOT MARRIED",
+    "2.0": "HAVE NO CHILDREN",
+    "3.0": "HAVE ONE CHILD",
+    "4.0": "HAVE MORE THAN ONE CHILD"
+  },
+  "S91.Q5": {
+    "1.0": "DID NOT FINISH GRADE SCHOOL",
+    "2.0": "FINISHED GRADE SCHOOL",
+    "3.0": "HAD SOME HIGH SCHOOL, BUT DID NOT GRADUATE",
+    "4.0": "GRADUATED FROM HIGH SCHOOL",
+    "5.0": "HAD SOME COLLEGE, BUT DID NOT GRADUATE",
+    "6.0": "GRADUATED FROM COLLEGE",
+    "7.0": "NO ANSWER"
+  },
+  "S91.Q6": {
+    "0.0": "NO ANSWER",
+    "1.0": "SIX MONTHS OR LESS",
+    "2.0": "MORE THAN 6 MONTHS BUT NOT OVER 1 YEAR",
+    "3.0": "MORE THAN 1 YEAR BUT NOT OVER 2 YEARS",
+    "4.0": "MORE THAN 2 YEARS"
+  },
+  "S91.Q7": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I WAS DRAFTED",
+    "2.0": "I VOLUNTEERED",
+    "3.0": "I WAS IN THE NATIONAL GUARD",
+    "4.0": "NO ANSWER"
+  },
+  "S91.Q8": {
+    "0.0": "NO ANSWER",
+    "1.0": "OCTOBER 31, 1942 OR EARLIER",
+    "2.0": "NOVEMBER 1, 1942 TO MAY 10, 1943",
+    "3.0": "MAY 11, 1943 TO JULY 9, 1943",
+    "4.0": "JULY 10, 1943 TO AUGUST 31, 1943"
+  },
+  "S91.Q9": {
+    "0.0": "NO ANSWER",
+    "1.0": "I LIKE THE ARMY VERY MUCH",
+    "2.0": "I LIKE IT FAIRLY WELL",
+    "3.0": "I RATHER DISLIKE IT",
+    "4.0": "I DISLIKE THE ARMY VERY MUCH"
+  },
+  "S91.Q10": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY HIGH",
+    "2.0": "FAIRLY HIGH",
+    "3.0": "JUST SO-SO",
+    "4.0": "FAIRLY LOW",
+    "5.0": "VERY LOW",
+    "6.0": "NO ANSWER"
+  },
+  "S91.Q11": {
+    "0.0": "NO ANSWER",
+    "1.0": "A VERY GOOD CHANCE",
+    "2.0": "A FAIRLY GOOD CHANCE",
+    "3.0": "NOT MUCH OF A CHANCE",
+    "4.0": "NO CHANCE AT ALL",
+    "5.0": "UNDECIDED"
+  },
+  "S91.Q12": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, VERY PROUD",
+    "2.0": "YES, FAIRLY PROUD",
+    "3.0": "NO, NOT PROUD",
+    "4.0": "UNDECIDED"
+  },
+  "S91.Q13": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY WELL ON THE WHOLE",
+    "2.0": "PRETTY WELL ON THE WHOLE",
+    "3.0": "FIT IN MORE OR LESS",
+    "4.0": "NOT WELL ON THE WHOLE",
+    "5.0": "HAVEN'T BEEN ABLE TO FIT INTO ARMY LIFE AT ALL",
+    "6.0": "NO OPINION"
+  },
+  "S91.Q14": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY ENTHUSIASTIC",
+    "2.0": "FAIRLY ENTHUSIASTIC",
+    "3.0": "NOT VERY ENTHUSIASTIC",
+    "4.0": "HAVE NO ENTHUSIASM AT ALL"
+  },
+  "S91.Q15": {
+    "0.0": "NO ANSWER",
+    "1.0": "TIME ALWAYS PASSES QUICKLY",
+    "2.0": "TIME PASSES QUICKLY MOST OF THE TIME",
+    "3.0": "ENJOY WORKING PART OF THE TIME, BUT IT DRAGS AT OTHER TIMES",
+    "4.0": "TIME DRAGS MOST OF THE TIME",
+    "5.0": "TIME ALWAYS DRAGS"
+  },
+  "S91.Q16": {
+    "0.0": "NO ANSWER",
+    "1.0": "I AM USUALLY IN GOOD SPIRITS",
+    "2.0": "I AM IN GOOD SPIRITS SOME OF THE TIME AND IN LOW SPIRITS SOME OF THE TIME",
+    "3.0": "I AM USUALLY IN LOW SPIRITS"
+  },
+  "S91.Q17": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH SO",
+    "2.0": "FAIRLY MUCH SO",
+    "3.0": "NOT VERY MUCH",
+    "4.0": "NOT AT ALL"
+  },
+  "S91.Q18A": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY GOOD",
+    "2.0": "FAIRLY GOOD",
+    "3.0": "NOT VERY GOOD",
+    "4.0": "NOT GOOD AT ALL"
+  },
+  "S91.Q18B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY GOOD",
+    "2.0": "FAIRLY GOOD",
+    "3.0": "NOT VERY GOOD",
+    "4.0": "NOT GOOD AT ALL"
+  },
+  "S91.Q19": {
+    "0.0": "NO ANSWER",
+    "1.0": "MOST OF THE MEN USUALLY PUT ALL THAT THEY HAVE INTO IT",
+    "2.0": "MOST OF THE MEN USUALLY WORK JUST HARD ENOUGH TO GET BY",
+    "3.0": "UNDECIDED"
+  },
+  "S91.Q20": {
+    "0.0": "NO ANSWER",
+    "1.0": "I USUALLY PUT ALL I HAVE INTO IT",
+    "2.0": "I USUALLY WORK JUST HARD ENOUGH TO GET BY",
+    "3.0": "UNDECIDED"
+  },
+  "S91.Q21": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY SATISFIED",
+    "2.0": "SATISFIED",
+    "3.0": "IT DOESN'T MAKE ANY DIFFERENCE TO ME",
+    "4.0": "DISSATISFIED",
+    "5.0": "VERY DISSATISFIED"
+  },
+  "S91.Q22": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE IMPORTANT THAN MOST ANY OTHER SOLDIER'S JOB",
+    "2.0": "IMPORTANT, BUT NO MORE SO THAN MANY OTHERS",
+    "3.0": "NOT VERY IMPORTANT COMPARED WITH WHAT OTHER SOLDIERS CAN DO"
+  },
+  "S91.Q23": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED"
+  },
+  "S91.Q24": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED"
+  },
+  "S91.Q25": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED"
+  },
+  "S91.Q26": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED"
+  },
+  "S91.Q27": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED",
+    "4.0": "NO ANSWER"
+  },
+  "S91.Q28": {
+    "0.0": "NO ANSWER",
+    "1.0": "A VERY IMPORTANT PART",
+    "2.0": "A FAIRLY IMPORTANT PART",
+    "3.0": "NOT A VERY IMPORTANT PART",
+    "4.0": "NOT IMPORTANT AT ALL"
+  },
+  "S91.Q29": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I USUALLY FEEL IT IS NOT WORTHWHILE",
+    "2.0": "I USUALLY FEEL IT IS WORTHWHILE",
+    "3.0": "UNDECIDED",
+    "4.0": "NO ANSWER"
+  },
+  "S91.Q30": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, ALMOST ALWAYS",
+    "2.0": "YES, SOMETIMES",
+    "3.0": "NO, NEVER",
+    "4.0": "UNDECIDED"
+  },
+  "S91.Q31": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED"
+  },
+  "S91.Q32": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED",
+    "4.0": "NO ANSWER"
+  },
+  "S91.Q33": {
+    "0.0": "NO ANSWER",
+    "1.0": "I LIKED IT",
+    "2.0": "I LIKED IT, BUT THINK IT COULD HAVE BEEN BETTER",
+    "3.0": "I DID NOT LIKE IT"
+  },
+  "S91.Q34": {
+    "0.0": "NO ANSWER",
+    "1.0": "AS MUCH AS THEY COULD",
+    "2.0": "THEY COULD HAVE GIVEN US A LITTLE MORE",
+    "3.0": "THEY COULD HAVE GIVEN US A GREAT DEAL MORE"
+  },
+  "S91.Q35": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "IT MAKES NO DIFFERENCE",
+    "3.0": "NO"
+  },
+  "S91.Q36": {
+    "0.0": "NO ANSWER",
+    "1.0": "I FELT THEY WERE VERY MUCH AWARE OF OUR NEEDS",
+    "2.0": "I FELT THAT THEY WERE FAIRLY WELL AWARE OF OUR NEEDS",
+    "3.0": "I FELT THAT THEY DID NOT KNOW VERY MUCH ABOUT OUR REAL PROBLEMS OR NEEDS"
+  },
+  "S91.Q37": {
+    "0.0": "NO ANSWER",
+    "1.0": "AS MUCH AS THEY COULD",
+    "2.0": "COULD HAVE DONE SOMEWHAT MORE",
+    "3.0": "COULD HAVE DONE A GREAT DEAL MORE"
+  },
+  "S91.Q38": {
+    "0.0": "NO ANSWER",
+    "1.0": "USUALLY VERY GOOD",
+    "2.0": "USUALLY PRETTY GOOD",
+    "3.0": "USUALLY PRETTY BAD",
+    "4.0": "USUALLY VERY BAD"
+  },
+  "S91.Q39A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S91.Q39B": {
+    "0.0": "NO ANSWER",
+    "1.0": "I FELT ALL THE MORE LIKE KILLING THEM",
+    "2.0": "I FELT THAT THEY ARE MEN JUST LIKE US AND IT IS TOO BAD THAT WE HAVE TO BE FIGHTING THEM",
+    "3.0": "I DIDN'T HAVE ANY FEELING ONE WAY OR ANOTHER",
+    "4.0": "SOME OTHER FEELING"
+  },
+  "S91.Q40": {
+    "0.0": "NO ANSWER",
+    "1.0": "NO",
+    "2.0": "YES"
+  },
+  "S91.Q41": {
+    "0.0": "NO ANSWER",
+    "1.0": "NO",
+    "2.0": "YES"
+  },
+  "S91.Q42": {
+    "0.0": "NO ANSWER",
+    "1.0": "NO",
+    "2.0": "YES"
+  },
+  "S91.Q42A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ANGER, HATRED, DESIRE FOR REVENGE: ONE THAT GOT HIM, REVENGE, LOST TEMPER, SORROW FOLLOWED BY ANGER, SORRY AND REVENGE,",
+    "2.0": "FEAR, HOPELESSNESS, LOST FEELING: SHOCK FOLLOWED BY FEAR, HOPELESSNESS, LOST FEELING",
+    "3.0": "SHOCK, BUT NEITHER FEAR NOR ANGER: SURPRISE OR SHOCK, FOLLOWED BY MATTER-OF-FACTNESS, STUNNED BUT IT PASSED, SURPRISED,",
+    "4.0": "EXPRESSED FACT THAT HAD NO FEELING: NO FEELING, NO TIME FOR THAT IN COMBAT, I'D SEEN TOO MUCH OF THAT ALREADY",
+    "5.0": "SORROW: FELT BAD, FELT SORROW, HURT",
+    "6.0": "INCREASED THOUGHTS OF OWN CHANCES, BECAME MORE CAUTIOUS",
+    "7.0": "MISCELLANEOUS: FACTUAL ACCOUNT GIVEN, NO EMOTION RECORDED - DESCRIBES WHAT ACTION HE TOOK HIMSELF, REPRESSION - DIDN'T W",
+    "8.0": "FATALISM",
+    "9.0": "NO ANSWER TO Q.42A OR NO TO Q.42"
+  },
+  "S91.Q43": {
+    "0.0": "NO ANSWER",
+    "1.0": "TUNISIAN CAMPAIGN - ANY OF THE FOLLOWING: TEBORBA, ORAN, EL GUETTAR, GAFSA, MATEUR, ST. CLOUD, MEDZ EL BAB, CASABLANCA,",
+    "2.0": "SICILIAN CAMPAIGN - ANY OF THE FOLLOWING: GELA, TROINA, RANDASSO",
+    "3.0": "BOTH TUNISIAN AND SICILIAN"
+  },
+  "S91.Q44": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, PURPLE HEART",
+    "2.0": "YES, SILVER STAR",
+    "3.0": "YES, BOTH SILVER STAR AND PURPLE HEART",
+    "4.0": "NO, NEITHER"
+  },
+  "S91.Q45": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALL MEN I KNOW WHO GOT THEM REALLY DESERVED THEM",
+    "2.0": "A FEW MEN I KNOW WHO GOT THEM DID NOT DESERVE THEM",
+    "3.0": "MANY MEN I KNOW WHO GOT THEM DID NOT DESERVE THEM"
+  },
+  "S91.Q46": {
+    "0.0": "NO ANSWER",
+    "1.0": "MANY MEN I KNOW DESERVED SILVER STARS BUT DID NOT GET THEM",
+    "2.0": "A FEW MEN I KNOW DESERVED SILVER STARS BUT DID NOT GET THEM",
+    "3.0": "NOBODY I KNOW DESERVED A SILVER STAR BUT DID NOT GET IT"
+  },
+  "S91.Q47": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED"
+  },
+  "S91.Q48": {
+    "0.0": "NO ANSWER",
+    "1.0": "NO",
+    "2.0": "YES"
+  },
+  "S91.Q49": {
+    "0.0": "NO ANSWER",
+    "1.0": "NO, THEY NEED EVERYTHING THEY GET",
+    "2.0": "YES"
+  },
+  "S91.Q50": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT BECAME MORE FRIGHTENING THE MORE I SAW OF IT",
+    "2.0": "IT BECAME LESS FRIGHTENING THE MORE I SAW OF IT",
+    "3.0": "IT WAS NEVER FRIGHTENING",
+    "4.0": "IT STAYED FRIGHTENING ALL THE TIME"
+  },
+  "S91.Q51": {
+    "0.0": "NO ANSWER",
+    "1.0": "THEY BECAME MORE FRIGHTENING THE MORE I SAW OF THEM",
+    "2.0": "THEY BECAME LESS FRIGHTENING THE MORE I SAW OF THEM",
+    "3.0": "THEY WERE NEVER FRIGHTENING",
+    "4.0": "THEY STAYED FRIGHTENING ALL THE TIME"
+  },
+  "S91.Q52": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT BECAME MORE FRIGHTENING THE MORE I SAW OF IT",
+    "2.0": "IT BECAME LESS FRIGHTENING THE MORE I SAW OF IT",
+    "3.0": "IT WAS NEVER FRIGHTENING",
+    "4.0": "IT STAYED FRIGHTENING ALL THE TIME"
+  },
+  "S91.Q53": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT BECAME MORE FRIGHTENING THE MORE I SAW OF IT",
+    "2.0": "IT BECAME LESS FRIGHTENING THE MORE I SAW OF IT",
+    "3.0": "IT WAS NEVER FRIGHTENING",
+    "4.0": "IT STAYED FRIGHTENING ALL THE TIME"
+  },
+  "S91.Q54": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "IT BECAME MORE FRIGHTENING THE MORE I SAW OF IT",
+    "2.0": "IT BECAME LESS FRIGHTENING THE MORE I SAW OF IT",
+    "3.0": "IT WAS NEVER FRIGHTENING",
+    "4.0": "IT STAYED FRIGHTENING ALL THE TIME",
+    "5.0": "NO ANSWER"
+  },
+  "S91.Q55": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT WAS MORE FRIGHTENING THE MORE I SAW OF IT",
+    "2.0": "IT WAS LESS FRIGHTENING THE MORE I SAW OF IT",
+    "3.0": "IT WAS NEVER FRIGHTENING",
+    "4.0": "IT STAYED FRIGHTENING ALL THE TIME"
+  },
+  "S91.Q56": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ALMOST NEVER"
+  },
+  "S91.Q57": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED"
+  },
+  "S91.Q58": {
+    "0.0": "NO ANSWER",
+    "1.0": "REALLY LIKED FIGHTING",
+    "2.0": "DIDN'T PARTICULARLY LIKE IT OR DISLIKE IT",
+    "3.0": "DIDN'T LIKE FIGHTING AT ALL"
+  },
+  "S91.Q59": {
+    "0.0": "NO ANSWER",
+    "1.0": "REALLY WANTED VERY MUCH TO GO",
+    "2.0": "DIDN'T CARE VERY MUCH WHETHER I WENT TO SCHOOL OR NOT",
+    "3.0": "DID NOT AT ALL WANT TO GO"
+  },
+  "S91.Q60": {
+    "0.0": "NO ANSWER",
+    "1.0": "I USUALLY WENT AROUND BY MYSELF",
+    "2.0": "I USUALLY WENT AROUND WITH JUST ONE OR TWO OTHERS",
+    "3.0": "I USUALLY WENT AROUND WITH A BUNCH OF OTHERS"
+  },
+  "S91.Q61A": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL"
+  },
+  "S91.Q61B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL"
+  },
+  "S91.Q61C": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL"
+  },
+  "S91.Q61D": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY MUCH",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL",
+    "4.0": "NO ANSWER"
+  },
+  "S91.Q61E": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL"
+  },
+  "S91.Q61F": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL"
+  },
+  "S91.Q61G": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL"
+  },
+  "S91.Q61H": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL"
+  },
+  "S91.Q61I": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL"
+  },
+  "S91.Q61J": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL"
+  },
+  "S91.Q61K": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL"
+  },
+  "S91.Q61L": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL"
+  },
+  "S91.Q61M": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL"
+  },
+  "S91.Q61N": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL"
+  },
+  "S91.Q61O": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL"
+  },
+  "S91.Q61P": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL"
+  },
+  "S91.Q61Q": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL"
+  },
+  "S91.Q61R": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL"
+  },
+  "S91.Q61S": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL"
+  },
+  "S91.Q61T": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL"
+  },
+  "S91.V61U": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "1 \"VERY MUCH\" ANSWER CHECKED",
+    "2.0": "2",
+    "3.0": "3",
+    "4.0": "4",
+    "5.0": "5",
+    "6.0": "6 OR 7",
+    "7.0": "8 OR 9",
+    "8.0": "10 OR 11",
+    "9.0": "12 OR 13",
+    "10.0": "14 OR MORE",
+    "11.0": "NO \"VERY MUCH\" ANSWERS CHECKED"
+  },
+  "S91.V61V": {
+    "0.0": "EVERY ITEM CHECKED",
+    "1.0": "1 NO ANSWER CHECKED",
+    "2.0": "2",
+    "3.0": "3",
+    "4.0": "4",
+    "5.0": "5",
+    "6.0": "6 OR 7",
+    "7.0": "8 OR 9",
+    "8.0": "10 OR 11",
+    "9.0": "12 OR 13",
+    "10.0": "14 TO 19",
+    "11.0": "NO ANSWER TO WHOLE QUESTION"
+  },
+  "S91.Q62": {
+    "0.0": "NO ANSWER",
+    "1.0": "NO",
+    "2.0": "YES"
+  },
+  "S91.Q63": {
+    "1.0": "NEVER",
+    "2.0": "ONCE OR TWICE",
+    "3.0": "SEVERAL TIMES",
+    "4.0": "QUITE A FEW TIMES",
+    "5.0": "NO ANSWER"
+  },
+  "S91.Q64": {
+    "0.0": "NO ANSWER",
+    "1.0": "NEVER",
+    "2.0": "ONCE OR TWICE",
+    "3.0": "SEVERAL TIMES",
+    "4.0": "QUITE A FEW TIMES"
+  },
+  "S91.Q65": {
+    "0.0": "NO ANSWER",
+    "1.0": "I WANT VERY MUCH TO GET INTO IT AS SOON AS POSSIBLE",
+    "2.0": "I AM READY TO GO ANY TIME",
+    "3.0": "I HOPE I WON'T HAVE TO GO, BUT IF I DO, THINK I WILL DO O.K.",
+    "4.0": "I HOPE I WON'T HAVE TO GO, BECAUSE I DON'T THINK I WILL DO VERY WELL",
+    "5.0": "NONE OF THE ABOVE, HAVE DONE MY SHARE, LET OTHERS FIGHT",
+    "6.0": "NONE OF THE ABOVE, NEED A REST OR FURLOUGH FIRST",
+    "7.0": "NONE OF THE ABOVE, COULDN'T STAND IT, AFRAID, NERVES SHOT",
+    "8.0": "NONE OF THE ABOVE, PHYSICAL CONDITION",
+    "9.0": "QUALIFIED ACCEPTANCE",
+    "10.0": "REFUSAL (MISCELLANEOUS)",
+    "11.0": "ALL OTHERS"
+  },
+  "S91.Q66": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I AM HARDLY EVER WORRIED AND UPSET",
+    "2.0": "I AM SOMETIMES WORRIED AND UPSET",
+    "3.0": "I AM OFTEN WORRIED AND UPSET",
+    "4.0": "NO ANSWER"
+  },
+  "S91.Q67": {
+    "0.0": "NO ANSWER",
+    "1.0": "I HAVE A PRETTY GOOD TIME",
+    "2.0": "IT'S ABOUT FIFTY-FIFTY",
+    "3.0": "I HAVE A PRETTY ROTTEN TIME"
+  },
+  "S91.Q68": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, OFTEN",
+    "2.0": "YES, SOMETIMES",
+    "3.0": "NO",
+    "4.0": "NO ANSWER"
+  },
+  "S91.Q69": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I WOULD WANT TO HEAR ABOUT IT RIGHT AWAY",
+    "2.0": "I WOULD RATHER THEY WOULD WAIT UNTIL THE SICKNESS OR TROUBLE IS OVER BEFORE THEY TELL ME",
+    "3.0": "I WOULD RATHER THEY WOULDN'T MENTION THE SICKNESS OR TROUBLE AT ALL",
+    "4.0": "NO ANSWER"
+  },
+  "S91.Q70": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALL OF OUR EQUIPMENT IS BETTER",
+    "2.0": "MOST OF OUR EQUIPMENT IS BETTER",
+    "3.0": "OUR EQUIPMENT IS ABOUT THE SAME AS THAT OF THE GERMAN ARMY",
+    "4.0": "MOST OF OUR EQUIPMENT IS WORSE",
+    "5.0": "ALL OF OUR EQUIPMENT IS WORSE",
+    "6.0": "DON'T KNOW"
+  },
+  "S91.Q71": {
+    "1.0": "NO GERMAN WEAPONS ARE BETTER THAN OURS",
+    "2.0": "SOME GERMAN WEAPONS ARE BETTER THAN OURS",
+    "3.0": "NO ANSWER"
+  },
+  "S91.Q72": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY WELL",
+    "2.0": "FAIRLY WELL",
+    "3.0": "NOT VERY WELL",
+    "4.0": "NO ANSWER"
+  },
+  "S91.Q73": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ALL OF THEM ARE",
+    "2.0": "MOST OF THEM ARE",
+    "3.0": "ABOUT HALF OF THEM ARE",
+    "4.0": "FEW OF THEM ARE",
+    "5.0": "NONE OF THEM ARE",
+    "6.0": "NO ANSWER"
+  },
+  "S91.Q74": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ALL OF THEM ARE",
+    "2.0": "MOST OF THEM ARE",
+    "3.0": "ABOUT HALF OF THEM ARE",
+    "4.0": "FEW OF THEM ARE",
+    "5.0": "NONE OF THEM ARE",
+    "6.0": "NO ANSWER"
+  },
+  "S91.Q75": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALL OF THEM ARE",
+    "2.0": "MOST OF THEM ARE",
+    "3.0": "ABOUT HALF OF THEM ARE",
+    "4.0": "FEW OF THEM ARE",
+    "5.0": "NONE OF THEM ARE"
+  },
+  "S91.Q76": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALL OF THEM DO",
+    "2.0": "MOST OF THEM DO",
+    "3.0": "ABOUT HALF OF THEM DO",
+    "4.0": "FEW OF THEM DO",
+    "5.0": "NONE OF THEM DO"
+  },
+  "S91.Q77": {
+    "0.0": "NO ANSWER",
+    "1.0": "I FEEL THAT WAY NEARLY ALL OF THE TIME",
+    "2.0": "I FEEL THAT WAY FAIRLY OFTEN",
+    "3.0": "I FEEL THAT WAY ONLY ONCE IN A WHILE",
+    "4.0": "I ALMOST NEVER FEEL THAT WAY"
+  },
+  "S91.Q78": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ONLY ONCE IN A GREAT WHILE",
+    "4.0": "NEVER",
+    "5.0": "NO ANSWER"
+  },
+  "S91.Q79": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED",
+    "4.0": "NO ANSWER"
+  },
+  "S91.Q80": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "WORSE AFTER THE WAR THAN BEFORE THE WAR",
+    "2.0": "SAME AFTER THE WAR AS BEFORE THE WAR",
+    "3.0": "BETTER AFTER THE WAR THAN BEFORE THE WAR",
+    "4.0": "UNDECIDED",
+    "5.0": "NO ANSWER"
+  },
+  "S91.Q81": {
+    "1.0": "LESS THAN A YEAR, OR JUST 1943, OR A TIME NAMED BETWEEN DECEMBER, 1943 AND NOVEMBER, 1944",
+    "2.0": "ONE YEAR (OR DECEMBER 1944)",
+    "3.0": "OVER ONE YEAR BUT LESS THAN TWO",
+    "4.0": "TWO YEARS",
+    "5.0": "OVER TWO YEARS BUT LESS THAN THREE",
+    "6.0": "THREE YEARS",
+    "7.0": "OVER THREE YEARS",
+    "8.0": "INDEFINITE ANSWER INDICATING A SHORT TIME E.G. \"NOT LONG\"",
+    "9.0": "INDEFINITE ANSWER INDICATING A LONG TIME E.G. \"WILL LAST SEVERAL YEARS\"",
+    "10.0": "INDEFINITE ANSWER WITH NO INDICATION OF TIME, E.G. \"WILL LAST UNTIL WE STOP IT\"",
+    "11.0": "DON'T KNOW OR UNDECIDED",
+    "12.0": "NO ANSWER"
+  },
+  "S91.Q82": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT WILL NOT BE VERY HARD",
+    "2.0": "IT WILL BE A TOUGH JOB BUT OUR LOSSES WON'T BE HEAVY",
+    "3.0": "IT WILL BE A TOUGH JOB, WITH HEAVY LOSSES OF MEN AND EQUIPMENT"
+  },
+  "S91.Q83": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, I HAVE HAD MY FAIR SHARE OF BOTH FURLOUGHS AND PASSES",
+    "2.0": "I HAVE HAD MY FAIR SHARE OF PASSES, BUT NOT OF FURLOUGHS",
+    "3.0": "I HAVE HAD MY FAIR SHARE OF FURLOUGHS, BUT NOT OF PASSES",
+    "4.0": "I HAVE NOT HAD MY FAIR SHARE OF EITHER FURLOUGHS OR PASSES",
+    "5.0": "NO ANSWER"
+  },
+  "S91.Q84": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "THEY TRIED THEIR BEST TO HELP AND KNEW HOW TO GO ABOUT IT",
+    "2.0": "THEY MAY HAVE KNOWN WHAT TO DO, BUT DIDN'T TRY MUCH TO HELP",
+    "3.0": "THEY TRIED TO HELP, BUT DIDN'T SEEM TO KNOW MUCH ABOUT IT",
+    "4.0": "THEY DIDN'T TRY MUCH TO HELP AND DIDN'T SEEM TO KNOW MUCH ABOUT IT",
+    "5.0": "NO ANSWER"
+  },
+  "S91.Q85": {
+    "0.0": "NO ANSWER",
+    "1.0": "A VERY GOOD CHANCE",
+    "2.0": "A FAIRLY GOOD CHANCE",
+    "3.0": "NOT MUCH OF A CHANCE",
+    "4.0": "NO CHANCE AT ALL",
+    "5.0": "UNDECIDED"
+  },
+  "S91.Q86": {
+    "0.0": "NO ANSWER",
+    "1.0": "THIS DID NOT HAPPEN IN MY COMPANY",
+    "2.0": "I THOUGHT IT WAS O.K.",
+    "3.0": "I DID NOT CARE MUCH ONE WAY OR ANOTHER",
+    "4.0": "I THOUGHT IT WAS BAD"
+  },
+  "S91.Q87A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "GOOD",
+    "2.0": "POOR",
+    "3.0": "NO OPINION",
+    "4.0": "NO ANSWER"
+  },
+  "S91.Q87B": {
+    "0.0": "NO ANSWER",
+    "1.0": "GOOD",
+    "2.0": "POOR",
+    "3.0": "NO OPINION"
+  },
+  "S91.Q87C": {
+    "0.0": "NO ANSWER",
+    "1.0": "GOOD",
+    "2.0": "POOR",
+    "3.0": "NO OPINION"
+  },
+  "S91.Q87D": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "GOOD",
+    "2.0": "POOR",
+    "3.0": "NO OPINION",
+    "4.0": "NO ANSWER"
+  },
+  "S91.Q87E": {
+    "0.0": "NO ANSWER",
+    "1.0": "GOOD",
+    "2.0": "POOR",
+    "3.0": "NO OPINION"
+  },
+  "S91.Q87F": {
+    "0.0": "NO ANSWER",
+    "1.0": "GOOD",
+    "2.0": "POOR",
+    "3.0": "NO OPINION"
+  },
+  "S91.Q87G": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "GOOD",
+    "2.0": "POOR",
+    "3.0": "NO OPINION",
+    "4.0": "NO ANSWER"
+  },
+  "S91.Q88": {
+    "0.0": "NO ANSWER",
+    "2.0": "WE OFTEN DID NOT GET WHAT WE NEEDED",
+    "NaN": "QUESTIONS 89A AND 89B TO BE CODED TOGETHER.",
+    "1.0": "WE USUALLY GOT WHAT WE NEEDED",
+    "3.0": "WE SELDOM GOT WHAT WE NEEDED"
+  },
+  "S91.Q89A.x": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, LISTEN; MOSTLY LIES",
+    "2.0": "YES, LISTEN; MOSTLY LIES, BUT MAYBE A LITTLE MORE TRUTH THAN WE CARE TO ADMIT",
+    "3.0": "YES, LISTEN; A LOT OF TRUTH IN WHAT THEY SAID",
+    "4.0": "YES, LISTEN; NO ANSWER TO PART B",
+    "5.0": "NO, DO NOT LISTEN"
+  },
+  "S91.Q90": {
+    "0.0": "NO ANSWER",
+    "1.0": "HAVE BEEN GIVEN ENOUGH TRAINING AND EXPERIENCE",
+    "2.0": "HAVE NOT BEEN GIVEN QUITE ENOUGH TRAINING AND EXPERIENCE",
+    "3.0": "HAVE NOT BEEN GIVEN NEARLY ENOUGH TRAINING AND EXPERIENCE"
+  },
+  "S91.Q91": {
+    "0.0": "NO ANSWER",
+    "1.0": "A VERY GOOD JOB",
+    "2.0": "A FAIRLY GOOD JOB",
+    "3.0": "DON'T THINK THEY WOULD DO VERY GOOD"
+  },
+  "S91.Q92": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY OFTEN",
+    "2.0": "OFTEN",
+    "3.0": "SOMETIMES",
+    "4.0": "HARDLY EVER",
+    "5.0": "NEVER"
+  },
+  "S91.Q93": {
+    "0.0": "NO ANSWER",
+    "1.0": "I OBEY CHEERFULLY ALWAYS",
+    "2.0": "I OBEY BUT NEVER LIKE IT",
+    "3.0": "I OBEY CHEERFULLY, PROVIDED I FEEL THERE IS A GOOD PURPOSE IN NOT TELLING US THE REASON WHY - OTHERWISE I OBEY BUT DON'T",
+    "4.0": "I TRY TO GET OUT OF DOING IT IF I CAN"
+  },
+  "S91.Q94": {
+    "0.0": "NO ANSWER",
+    "1.0": "PUNISH THE LEADERS, BUT NOT THE ORDINARY GERMAN",
+    "2.0": "MAKE THE ORDINARY GERMAN PEOPLE SUFFER PLENTY",
+    "3.0": "WIPE OUT THE WHOLE GERMAN NATION"
+  },
+  "S91.Q95": {
+    "0.0": "NO ANSWER",
+    "1.0": "PUNISH THE LEADERS, BUT NOT THE ORDINARY JAPANESE",
+    "2.0": "MAKE THE ORDINARY JAPANESE PEOPLE SUFFER PLENTY",
+    "3.0": "WIPE OUT THE WHOLE JAPANESE NATION"
+  },
+  "S91.Q96": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "EVERYTHING WILL COME OUT THE WAY THE UNITED STATES WANTS IT",
+    "2.0": "MOST OF THE THINGS WILL BE DONE THE WAY THE UNITED STATES WANTS IT",
+    "3.0": "ONLY A FEW THINGS WILL BE DONE THE WAY THE UNITED STATES WANTS IT",
+    "4.0": "NOTHING WILL BE DONE THE WAY THE UNITED STATES WANTS IT",
+    "5.0": "UNDECIDED",
+    "6.0": "NO ANSWER"
+  },
+  "S91.V97": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "SCORE OF 1",
+    "2.0": "SCORE OF 2",
+    "3.0": "SCORE OF 3"
+  }
+}

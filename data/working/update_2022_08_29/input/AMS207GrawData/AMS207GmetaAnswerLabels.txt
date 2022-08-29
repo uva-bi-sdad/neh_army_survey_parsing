@@ -1,0 +1,562 @@
+{
+  "FORM": {
+    "1.0": "S-207F",
+    "2.0": "S-20XX"
+  },
+  "S207G.Q1": {
+    "0.0": "NO ANSWER",
+    "1.0": "6 MONTHS OR LESS",
+    "2.0": "OVER 6 MONTHS UP TO 1 YEAR",
+    "3.0": "OVER 1 YEAR UP TO 2 YEARS",
+    "4.0": "OVER 2 YEARS UP TO 3 YEARS",
+    "5.0": "OVER 3 YEARS UP TO 5 YEARS",
+    "6.0": "OVER 5 YEARS"
+  },
+  "S207G.Q2": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONE MONTH OR LESS",
+    "2.0": "OVER ONE MONTH UP TO 2 MONTHS",
+    "3.0": "OVER 2 MONTHS UP TO 3 MONTHS",
+    "4.0": "OVER 3 MONTHS UP TO 6 MONTHS",
+    "5.0": "OVER 6 MONTHS UP TO 1 YEAR",
+    "6.0": "OVER 1 YEAR"
+  },
+  "S207G.Q3": {
+    "0.0": "NO ANSWER",
+    "1.0": "1926 - 18 YEARS OLD",
+    "2.0": "1925 - 19 YEARS OLD",
+    "3.0": "1924 - 20 YEARS OLD",
+    "4.0": "1923 - 21 YEARS OLD",
+    "5.0": "1922 - 22 YEARS OLD",
+    "6.0": "1921 - 23 YEARS OLD",
+    "7.0": "1920 - 24 YEARS OLD",
+    "8.0": "1919 - 25 YEARS OLD",
+    "9.0": "1915-1918 - 26-29 YEARS OLD",
+    "10.0": "1910-1914 - 30-34 YEARS OLD",
+    "11.0": "1909 AND BEFORE - 35 YEARS OLD AND OVER"
+  },
+  "S207G.Q4": {
+    "0.0": "NO ANSWER",
+    "1.0": "SINGLE",
+    "2.0": "MARRIED",
+    "3.0": "DIVORCED OR SEPARATED",
+    "4.0": "WIDOWED"
+  },
+  "S207G.Q5": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S207G.Q6A": {
+    "0.0": "NO ANSWER",
+    "1.0": "CREW CHIEF",
+    "2.0": "GROUND CREW, AIRCRAFT MAINTENANCE AND REPAIR",
+    "3.0": "SOME OTHER GROUND JOB",
+    "4.0": "FLYING"
+  },
+  "S207G.Q6B": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S207G.Q7": {
+    "0.0": "NO ANSWER",
+    "1.0": "MASTER SERGEANT",
+    "2.0": "TECHNICAL SERGEANT",
+    "3.0": "STAFF SERGEANT OR TECHNICIAN 3RD GRADE",
+    "4.0": "BUCK SERGEANT OR TECHNICIAN 4TH GRADE",
+    "5.0": "CORPORAL OR TECHNICIAN 5TH GRADE",
+    "6.0": "PRIVATE FIRST CLASS OR PRIVATE"
+  },
+  "S207G.Q8": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "3 MONTHS OR LESS",
+    "2.0": "OVER 3 MONTHS UP TO 6 MONTHS",
+    "3.0": "OVER 6 MONTHS UP TO 1 YEAR",
+    "4.0": "OVER 1 YEAR UP TO 2 YEARS",
+    "5.0": "OVER 2 YEARS",
+    "6.0": "NO ANSWER"
+  },
+  "S207G.Q9A": {
+    "0.0": "NO ANSWER",
+    "1.0": "MASTER SERGEANT",
+    "2.0": "TECHNICAL SERGEANT",
+    "3.0": "STAFF SERGEANT OR TECHNICIAN 3RD GRADE",
+    "4.0": "BUCK SERGEANT OR TECHNICIAN 4TH GRADE",
+    "5.0": "CORPORAL OR TECHNICIAN 5TH GRADE",
+    "6.0": "PRIVATE FIRST CLASS OR PRIVATE"
+  },
+  "S207G.Q9B": {
+    "0.0": "NO ANSWER",
+    "1.0": "COMMISSIONED OFFICER",
+    "2.0": "FLIGHT OFFICER",
+    "3.0": "MASTER SERGEANT",
+    "4.0": "TECHNICAL SERGEANT",
+    "5.0": "STAFF SERGEANT OR TECHNICIAN 3RD GRADE",
+    "6.0": "BUCK SERGEANT OR TECHNICIAN 4TH GRADE",
+    "7.0": "CORPORAL OR TECHNICIAN 5TH GRADE",
+    "8.0": "PRIVATE FIRST CLASS OR PRIVATE"
+  },
+  "S207G.Q10": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY WELL SATISFIED",
+    "2.0": "FAIRLY WELL SATISFIED",
+    "3.0": "SOMEWHAT DISSATISFIED",
+    "4.0": "VERY DISSATISFIED",
+    "5.0": "UNDECIDED"
+  },
+  "S207G.Q11": {
+    "0.0": "NO ANSWER",
+    "1.0": "ABILITY",
+    "2.0": "BOOTLICKING OR PLAYING POLITICS",
+    "3.0": "LUCK",
+    "4.0": "BEEN IN THE ARMY A LONG TIME",
+    "5.0": "AUTOMATIC (\"UP TO T/O LIMITS,\" \"MASS PROMOTION,\" \"UP TO WHATEVER THE JOB CALLS FOR\"; LENGTH OF TIME IN GRADE, UNIT, ETC.",
+    "6.0": "OTHER",
+    "7.0": "MISCELLANEOUS"
+  },
+  "S207G.Q12": {
+    "0.0": "NO ANSWER",
+    "1.0": "HAVE SUFFICIENT TRAINING",
+    "2.0": "HAVE NEED FOR MORE TRAINING IN SOME ASPECTS OF MY JOB",
+    "3.0": "HAVE NEED FOR MORE TRAINING IN ALL ASPECTS OF MY JOB"
+  },
+  "S207G.Q13": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT IS AS IMPORTANT AS ANY OTHER JOB I COULD DO",
+    "2.0": "IT IS FAIRLY IMPORTANT, BUT I COULD DO MORE IMPORTANT WORK",
+    "3.0": "IT HARDLY SEEMS IMPORTANT AT ALL"
+  },
+  "S207G.Q14": {
+    "0.0": "NO ANSWER",
+    "1.0": "A VERY GOOD CHANCE",
+    "2.0": "A FAIRLY GOOD CHANCE",
+    "3.0": "NOT MUCH OF A CHANCE",
+    "4.0": "NO CHANCE AT ALL",
+    "5.0": "UNDECIDED"
+  },
+  "S207G.Q15": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED"
+  },
+  "S207G.Q16": {
+    "0.0": "NO ANSWER",
+    "1.0": "I HAVE TOO MUCH TO DO, BUT MOST OF IT IS NECESSARY",
+    "2.0": "I HAVE TOO MUCH TO DO AND A LOT OF IT IS UNNECESSARY",
+    "3.0": "I HAVE ABOUT THE RIGHT AMOUNT OF WORK TO DO",
+    "4.0": "I AM NOT KEPT VERY BUSY, BUT I DON'T MIND SITTING AROUND",
+    "5.0": "I DON'T HAVE ENOUGH TO DO, AND IT GETS PRETTY TIRESOME SITTING AROUND"
+  },
+  "S207G.Q17": {
+    "0.0": "NO ANSWER",
+    "1.0": "I REALLY ENJOY MY WORK VERY MUCH",
+    "2.0": "I LIKE IT FAIRLY WELL",
+    "3.0": "I DISLIKE IT A LITTLE",
+    "4.0": "I DISLIKE IT VERY MUCH"
+  },
+  "S207G.Q18": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S207G.Q19": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S207G.Q20A": {
+    "0.0": "NO ANSWER",
+    "NaN": "QUESTION 20B NOT CODED.",
+    "1.0": "I WANT TO GET OVERSEAS AS SOON AS POSSIBLE",
+    "2.0": "I'M READY TO GO WHENEVER I'M NEEDED",
+    "3.0": "I'D LIKE TO STAY IN THE U.S. FOR A FEW MONTHS, BUT THEN I'LL BE READY TO GO ANYWHERE",
+    "4.0": "I DON'T WANT TO GO OVERSEAS"
+  },
+  "S207G.Q21A": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN 6 MONTHS",
+    "2.0": "EXACTLY 6 MONTHS",
+    "3.0": "MORE THAN 6 MONTHS UP TO BUT NOT INCLUDING 1 YEAR",
+    "4.0": "EXACTLY 1 YEAR",
+    "5.0": "MORE THAN 1 YEAR UP TO BUT NOT INCLUDING 18 MONTHS",
+    "6.0": "EXACTLY 18 MONTHS (1 1/2 YEARS)",
+    "7.0": "OVER 18 MONTHS UP TO 2 YEARS",
+    "8.0": "EXACTLY 2 YEARS",
+    "9.0": "OVER 2 YEARS UP TO BUT NOT INCLUDING 3 YEARS",
+    "10.0": "3 YEARS OR MORE"
+  },
+  "S207G.Q21B": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN 6 MONTHS",
+    "2.0": "EXACTLY 6 MONTHS",
+    "3.0": "MORE THAN 6 MONTHS UP TO BUT NOT INCLUDING 1 YEAR",
+    "4.0": "EXACTLY 1 YEAR",
+    "5.0": "MORE THAN 1 YEAR UP TO BUT NOT INCLUDING 18 MONTHS",
+    "6.0": "EXACTLY 18 MONTHS (1 1/2 YEARS)",
+    "7.0": "OVER 18 MONTHS UP TO 2 YEARS",
+    "8.0": "EXACTLY 2 YEARS",
+    "9.0": "OVER 2 YEARS UP TO BUT NOT INCLUDING 3 YEARS",
+    "10.0": "3 YEARS OR MORE"
+  },
+  "S207G.Q22": {
+    "0.0": "NO ANSWER",
+    "1.0": "A VERY IMPORTANT PART",
+    "2.0": "A FAIRLY IMPORTANT PART",
+    "3.0": "NOT A VERY IMPORTANT PART",
+    "4.0": "NOT IMPORTANT AT ALL"
+  },
+  "S207G.Q23": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ONLY ONCE IN A GREAT WHILE",
+    "4.0": "NEVER"
+  },
+  "S207G.Q24": {
+    "0.0": "NO ANSWER",
+    "1.0": "NONE",
+    "2.0": "FEW",
+    "3.0": "ABOUT HALF",
+    "4.0": "MOST",
+    "5.0": "ALL",
+    "6.0": "DON'T KNOW"
+  },
+  "S207G.Q25": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH SO",
+    "2.0": "FAIRLY MUCH SO",
+    "3.0": "NOT VERY MUCH",
+    "4.0": "NOT AT ALL"
+  },
+  "S207G.Q26": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, IN MOST WAYS THEY DO",
+    "2.0": "IN SOME WAYS, YES, IN OTHER WAYS, NO",
+    "3.0": "NO, ON THE WHOLE THEY DO NOT GET A SQUARE DEAL",
+    "4.0": "I HAVEN'T BEEN IN THIS OUTFIT LONG ENOUGH TO KNOW"
+  },
+  "S207G.Q27": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, IN MOST WAYS I HAVE",
+    "2.0": "IN SOME WAYS, YES, IN OTHER WAYS, NO",
+    "3.0": "NO, ON THE WHOLE I HAVE NOT GOTTEN A SQUARE DEAL"
+  },
+  "S207G.Q28": {
+    "0.0": "NO ANSWER",
+    "1.0": "FAR TOO MANY PRIVILEGES COMPARED WITH ENLISTED MEN",
+    "2.0": "A FEW TOO MANY PRIVILEGES COMPARED WITH ENLISTED MEN",
+    "3.0": "ABOUT THE RIGHT NUMBER OF PRIVILEGES",
+    "4.0": "TOO FEW PRIVILEGES"
+  },
+  "S207G.Q29": {
+    "0.0": "NO ANSWER",
+    "1.0": "I WOULD RATHER BE STATIONED HERE",
+    "2.0": "I WOULD RATHER BE AT THE PLACE I WAS LAST STATIONED",
+    "3.0": "IT WOULD MAKE NO DIFFERENCE",
+    "4.0": "I HAVE NEVER BEEN STATIONED AT ANY OTHER BASE"
+  },
+  "S207G.Q30A": {
+    "0.0": "NO ANSWER",
+    "1.0": "ABOUT AS GOOD AS IT COULD BE UNDER THE CIRCUMSTANCES",
+    "2.0": "COULD BE IMPROVED BUT IT WOULDN'T MAKE TOO MUCH DIFFERENCE TO ME",
+    "3.0": "COULD BE IMPROVED AND IT WOULD HELP A LOT IF IT WERE",
+    "4.0": "UNCERTAIN"
+  },
+  "S207G.Q30B": {
+    "0.0": "NO ANSWER",
+    "1.0": "ABOUT AS GOOD AS THEY COULD BE UNDER THE CIRCUMSTANCES",
+    "2.0": "COULD BE IMPROVED BUT IT WOULDN'T MAKE TOO MUCH DIFFERENCE TO ME",
+    "3.0": "COULD BE IMPROVED AND IT WOULD HELP A LOT IF IT WERE",
+    "4.0": "UNCERTAIN"
+  },
+  "S207G.Q30C": {
+    "0.0": "NO ANSWER",
+    "1.0": "ABOUT AS GOOD AS IT COULD BE UNDER THE CIRCUMSTANCES",
+    "2.0": "COULD BE IMPROVED BUT IT WOULDN'T MAKE TOO MUCH DIFFERENCE TO ME",
+    "3.0": "COULD BE IMPROVED AND IT WOULD HELP A LOT IF IT WERE",
+    "4.0": "UNCERTAIN"
+  },
+  "S207G.Q31A": {
+    "0.0": "NO ANSWER",
+    "1.0": "GOOD",
+    "2.0": "FAIR",
+    "3.0": "POOR"
+  },
+  "S207G.Q31B": {
+    "0.0": "NO ANSWER",
+    "1.0": "GOOD",
+    "2.0": "FAIR",
+    "3.0": "POOR"
+  },
+  "S207G.Q31C": {
+    "0.0": "NO ANSWER",
+    "1.0": "GOOD",
+    "2.0": "FAIR",
+    "3.0": "POOR"
+  },
+  "S207G.Q32": {
+    "0.0": "NO ANSWER",
+    "1.0": "BOTHERS ME A GREAT DEAL",
+    "2.0": "BOTHERS ME QUITE A BIT",
+    "3.0": "DOESN'T BOTHER ME MUCH",
+    "4.0": "DOESN'T BOTHER ME AT ALL"
+  },
+  "S207G.Q33": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT'S TOO STRICT BUT MOST OF IT IS NECESSARY",
+    "2.0": "IT'S TOO STRICT AND A LOT OF IT IS UNNECESSARY",
+    "3.0": "IT'S ABOUT RIGHT",
+    "4.0": "IT'S NOT STRICT ENOUGH"
+  },
+  "S207G.Q34": {
+    "0.0": "NO ANSWER",
+    "1.0": "TOUGHER TO GET THAN IS NECESSARY",
+    "2.0": "TOUGH, BUT THERE ARE SOME GOOD REASONS FOR IT",
+    "3.0": "ABOUT RIGHT"
+  },
+  "S207G.Q35": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY WELL",
+    "2.0": "FAIRLY WELL",
+    "3.0": "NOT VERY WELL",
+    "4.0": "VERY POORLY"
+  },
+  "S207G.Q36": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY SUCCESSFUL",
+    "2.0": "FAIRLY SUCCESSFUL",
+    "3.0": "NOT VERY SUCCESSFUL",
+    "4.0": "UNSUCCESSFUL",
+    "5.0": "NOT SURE"
+  },
+  "S207G.Q37": {
+    "0.0": "NO ANSWER",
+    "1.0": "THEY HAVE A GOOD IDEA",
+    "2.0": "THEY HAVE A FAIR IDEA",
+    "3.0": "THEY KNOW LITTLE OR NOTHING ABOUT MY ABILITIES"
+  },
+  "S207G.Q38": {
+    "0.0": "NO ANSWER",
+    "1.0": "NONE",
+    "2.0": "FEW",
+    "3.0": "ABOUT HALF",
+    "4.0": "MOST",
+    "5.0": "ALL",
+    "6.0": "DON'T KNOW"
+  },
+  "S207G.Q39": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALWAYS TOLD ENOUGH",
+    "2.0": "USUALLY TOLD ENOUGH",
+    "3.0": "OFTEN NOT TOLD ENOUGH",
+    "4.0": "ALMOST NEVER TOLD ENOUGH"
+  },
+  "S207G.Q40": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S207G.Q41": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALMOST ALWAYS",
+    "2.0": "USUALLY",
+    "3.0": "ABOUT HALF THE TIME",
+    "4.0": "USUALLY NOT"
+  },
+  "S207G.Q42": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, MOST OF THEM DO",
+    "2.0": "ABOUT HALF OF THEM DO",
+    "3.0": "NO, MOST OF THEM DO NOT"
+  },
+  "S207G.Q43": {
+    "0.0": "NO ANSWER",
+    "1.0": "WORK FOR AN EMPLOYER, ON SALARY, WAGES OR COMMISSION",
+    "2.0": "GO TO FULL-TIME SCHOOL OR COLLEGE",
+    "3.0": "FARM",
+    "4.0": "HAVE MY OWN BUSINESS",
+    "5.0": "I PLAN TO STAY IN THE ARMY",
+    "6.0": "I'M UNDECIDED WHAT I WILL DO",
+    "7.0": "ALL DOUBLE CHECKS"
+  },
+  "S207G.Q44": {
+    "0.0": "NO ANSWER",
+    "NaN": "QUESTION 45 NOT CODED.",
+    "1.0": "LESS THAN 6TH GRADE",
+    "2.0": "FINISHED 6TH GRADE",
+    "3.0": "FINISHED 7TH GRADE",
+    "4.0": "FINISHED 8TH GRADE",
+    "5.0": "SOME HIGH SCHOOL BUT DID NOT FINISH",
+    "6.0": "GRADUATED FROM HIGH SCHOOL",
+    "7.0": "SOME COLLEGE BUT DID NOT FINISH",
+    "8.0": "GRADUATED FROM COLLEGE (EDUCATION BEYOND COLLEGE)"
+  },
+  "S207G.Q46": {
+    "0.0": "NO ANSWER",
+    "1.0": "PREFER B-29 OUTFIT",
+    "2.0": "B-17",
+    "3.0": "B-24",
+    "4.0": "ALL OTHER \"B'S\" (BOMBERS)",
+    "5.0": "ALL \"A\" SHIPS, SUCH AS A-26 (ATTACK)",
+    "6.0": "ALL \"P\" SHIPS, (PURSUIT OR FIGHTER)",
+    "7.0": "ALL OTHER SPECIFIED (MISCELLANEOUS)",
+    "8.0": "ALL OTHER (NOT SPECIFIED)",
+    "9.0": "MAKES NO DIFFERENCE"
+  },
+  "S207G.Q47": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY HIGH",
+    "2.0": "HIGH",
+    "3.0": "JUST SO-SO",
+    "4.0": "LOW",
+    "5.0": "VERY LOW"
+  },
+  "S207G.Q48.1": {
+    "1.0": "OFFICER - ENLISTED MEN RELATIONS IN GENERAL (NOT FRIENDLY ENOUGH, PULL RANK ON YOU, DON'T TREAT YOU LIKE A MAN, NOT INTE",
+    "2.0": "NOT CHOSEN"
+  },
+  "S207G.Q48.2": {
+    "1.0": "OFFICER - ENLISTED MEN RELATIONS WITH REGARD TO JOB SPECIFICALLY \\(OFFICERS DON'T KNOW STUFF, DON'T LAY OUT WORK WELL, D",
+    "2.0": "NOT CHOSEN"
+  },
+  "S207G.Q48.3": {
+    "1.0": "PASS SITUATION BAD",
+    "2.0": "NOT CHOSEN"
+  },
+  "S207G.Q48.4": {
+    "1.0": "FURLOUGH SITUATION BAD",
+    "2.0": "NOT CHOSEN"
+  },
+  "S207G.Q48.5": {
+    "1.0": "FOOD (CHOW, MESS) NOT GOOD, NOT ENOUGH, ETC.",
+    "2.0": "NOT CHOSEN"
+  },
+  "S207G.Q48.6": {
+    "1.0": "RECREATION NOT ADEQUATE (U.S.O., SERVICE CLUBS, SHOWS, P.X., NOTHING TO DO ON BASE)",
+    "2.0": "NOT CHOSEN"
+  },
+  "S207G.Q48.7": {
+    "1.0": "WORK SCHEDULES BAD (NEED STANDARDIZED PROCEDURES, HOURS YOU CAN DEPEND ON, NO TIME TO YOURSELF)",
+    "2.0": "NOT CHOSEN"
+  },
+  "S207G.Q48.8": {
+    "1.0": "LESS CHICKEN-RED TAPE, DETAIL AND ROUTINE; FEWER RESTRICTIONS; MORE PRIVILEGES",
+    "2.0": "NOT CHOSEN"
+  },
+  "S207G.Q48.9": {
+    "1.0": "COMPLAINT OF OFFICERS BUT NO INDICATION WHETHER COLUMN 66 OR COLUMN 67 ABOVE",
+    "2.0": "NOT CHOSEN"
+  },
+  "S207G.Q48.10": {
+    "1.0": "COMPLAINTS ON RATINGS AND PROMOTIONS; T/O NOT HIGH ENOUGH",
+    "2.0": "NOT CHOSEN"
+  },
+  "S207G.Q48.11": {
+    "1.0": "MISCELLANEOUS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S207G.Q48.12": {
+    "1.0": "NO ANSWER OR DON'T KNOW",
+    "2.0": "NOT CHOSEN"
+  },
+  "S207G.Q49": {
+    "0.0": "NO ANSWER",
+    "1.0": "AS A SOLDIER",
+    "2.0": "AS A WAR WORKER",
+    "3.0": "UNDECIDED"
+  },
+  "S207G.Q50": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY GOOD PHYSICAL CONDITION",
+    "2.0": "GOOD PHYSICAL CONDITION",
+    "3.0": "FAIR PHYSICAL CONDITION",
+    "4.0": "POOR PHYSICAL CONDITION",
+    "5.0": "VERY POOR PHYSICAL CONDITION"
+  },
+  "S207G.Q51A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "I DON'T KNOW"
+  },
+  "FORM..1": {
+    "1.0": "S-207F",
+    "2.0": "S-20XX"
+  },
+  "S207G.Q51B": {
+    "0.0": "NO ANSWER",
+    "2.0": "NO",
+    "NaN": "DATA FOR QUESTIONS 52A-52O NOT PROVIDED BY SURVEY ORGANIZATION. SEE QUESTION V.53D1.",
+    "1.0": "YES",
+    "3.0": "UNDECIDED"
+  },
+  "S207G.V53D1": {
+    "0.0": "SCORE OF 0",
+    "1.0": "SCORE OF 1",
+    "2.0": "SCORE OF 2",
+    "3.0": "SCORE OF 3",
+    "4.0": "SCORE OF 4",
+    "5.0": "SCORE OF 5",
+    "6.0": "SCORE OF 6",
+    "7.0": "SCORE OF 7",
+    "8.0": "SCORE OF 8",
+    "9.0": "SCORE OF 9",
+    "10.0": "SCORE OF 10",
+    "11.0": "SCORE OF 11",
+    "12.0": "SCORE OF 12",
+    "13.0": "SCORE OF 13",
+    "14.0": "SCORE OF 14",
+    "15.0": "SCORE OF 15",
+    "16.0": "SCORE OF 16",
+    "17.0": "SCORE OF 17",
+    "18.0": "SCORE OF 18",
+    "19.0": "SCORE OF 19",
+    "20.0": "SCORE OF 20",
+    "21.0": "SCORE OF 21",
+    "22.0": "SCORE OF 22",
+    "23.0": "SCORE OF 23",
+    "24.0": "SCORE OF 24",
+    "25.0": "SCORE OF 25",
+    "26.0": "SCORE OF 26",
+    "27.0": "SCORE OF 27",
+    "28.0": "SCORE OF 28",
+    "29.0": "SCORE OF 29",
+    "30.0": "SCORE OF 30",
+    "99.0": "NO ANSWER"
+  },
+  "S207G.V53D2": {
+    "0.0": "SCORE OF 0",
+    "1.0": "SCORE OF 1",
+    "2.0": "SCORE OF 2",
+    "3.0": "SCORE OF 3",
+    "4.0": "SCORE OF 4",
+    "5.0": "SCORE OF 5",
+    "6.0": "SCORE OF 6",
+    "7.0": "SCORE OF 7",
+    "8.0": "SCORE OF 8",
+    "9.0": "SCORE OF 9",
+    "10.0": "SCORE OF 10",
+    "NaN": "QUESTION 54 NOT CODED.",
+    "11.0": "SCORE OF 11",
+    "12.0": "SCORE OF 12",
+    "13.0": "SCORE OF 13",
+    "14.0": "SCORE OF 14",
+    "15.0": "SCORE OF 15",
+    "16.0": "SCORE OF 16",
+    "99.0": "NO ANSWER"
+  },
+  "S207G.V55": {
+    "1.0": "SCORE OF 1",
+    "5.0": "1. SCORE OF 1 2. SCORE OF 2 3. SCORE OF 3 4. SCORE OF 4 5. SCORE OF 5",
+    "NaN": "NA",
+    "2.0": "SCORE OF 2",
+    "3.0": "SCORE OF 3"
+  },
+  "S207G.V56.1": {
+    "1.0": "CAMP PRATT - BOMB SQUADRON",
+    "2.0": "CAMP PRATT - BASE UNIT",
+    "3.0": "CAMP PRATT - 369TH SERVICE GROUP V. SERIAL NUMBER WITHIN CAMP AND OUTFIT:"
+  }
+}

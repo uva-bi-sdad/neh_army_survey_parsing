@@ -1,0 +1,610 @@
+S186B.Q1 WHAT IS YOUR RANK OR GRADE?
+                                          answer_label answer_value raw_counts relative_frequency
+0                                            NO ANSWER          0.0         23               0.01
+1                                              PRIVATE          1.0        311               0.12
+2                                  PRIVATE FIRST CLASS          2.0        522               0.21
+3                     CORPORAL OR TECHNICIAN 5TH GRADE          3.0        662               0.26
+4  SERGEANT (ANY GRADE) OR TECHNICIAN 3RD OR 4TH GRADE          4.0       1004                0.4
+
+
+
+S186B.Q2 HOW LONG HAVE YOU BEEN IN THE ARMY? E. IF YOU HAVE SERVED PREVIOUSLY IN THE ARMY, CHECK THE LENGTH OF TIME SINCE YOU ENTERED THIS LAST TIME. IF YOU WERE A NATIONAL GUARDSMAN GIVE THE LENGTH OF TIME SINCE YOUR OUTFIT ENTERED THE ARMY.
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         15               0.01
+1              3 MONTHS OR LESS          1.0          2                0.0
+2  OVER 3 MONTHS UP TO 6 MONTHS          2.0         18               0.01
+3    OVER 6 MONTHS UP TO 1 YEAR          3.0         70               0.03
+4     OVER 1 YEAR UP TO 2 YEARS          4.0        397               0.16
+5         2 YEARS UP TO 3 YEARS          5.0       1067               0.42
+6             MORE THAN 3 YEARS          6.0        953               0.38
+
+
+
+S186B.Q3 ARE YOU:
+                      answer_label answer_value raw_counts relative_frequency
+0                        NO ANSWER          0.0         14               0.01
+1                           SINGLE          1.0       1202               0.48
+2                          MARRIED          2.0       1260                0.5
+3  WIDOWED, DIVORCED, OR SEPARATED          3.0         46               0.02
+
+
+
+S186B.Q4 IN WHICH STATE WERE YOU BORN?
+          answer_label answer_value raw_counts relative_frequency
+0   ORIGINAL CODE OF 1          1.0        150               0.06
+1   ORIGINAL CODE OF 2          2.0        532               0.21
+2   ORIGINAL CODE OF 3          3.0        361               0.14
+3   ORIGINAL CODE OF 4          4.0        421               0.17
+4   ORIGINAL CODE OF 5          5.0        250                0.1
+5   ORIGINAL CODE OF 6          6.0        199               0.08
+6   ORIGINAL CODE OF 7          7.0        296               0.12
+7   ORIGINAL CODE OF 8          8.0         80               0.03
+8   ORIGINAL CODE OF 9          9.0        128               0.05
+9   ORIGINAL CODE OF 0         10.0         38               0.02
+10  ORIGINAL CODE OF X         11.0          6                0.0
+11  ORIGINAL CODE OF V         12.0         61               0.02
+
+
+
+S186B.Q5 WHEN WERE YOU BORN?
+                                answer_label answer_value raw_counts relative_frequency
+0                                  NO ANSWER          0.0         44               0.02
+1  APRIL 1926 OR LATER - 18 YEARS OR YOUNGER          1.0         30               0.01
+2        APRIL 1925 TO MARCH 1926 - 19 YEARS          2.0         66               0.03
+3        APRIL 1924 TO MARCH 1925 - 20 YEARS          3.0        120               0.05
+4        APRIL 1923 TO MARCH 1924 - 21 YEARS          4.0        141               0.06
+5     APRIL 1920 TO MARCH 1923 - 22-24 YEARS          5.0        607               0.24
+6     APRIL 1915 TO MARCH 1920 - 25-29 YEARS          6.0        861               0.34
+7     APRIL 1910 TO MARCH 1915 - 30-34 YEARS          7.0        428               0.17
+8   MARCH 1910 OR EARLIER - 35 YEARS OR MORE          8.0        225               0.09
+
+
+
+S186B.Q6 HOW FAR DID YOU GO IN SCHOOL BEFORE ENTERING THE ARMY?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0         20               0.01
+1                  LESS THAN 6TH GRADE          1.0         86               0.03
+2                   FINISHED 6TH GRADE          2.0         53               0.02
+3                   FINISHED 7TH GRADE          3.0        108               0.04
+4                   FINISHED 8TH GRADE          4.0        290               0.11
+5  SOME HIGH SCHOOL BUT DID NOT FINISH          5.0        636               0.25
+6           GRADUATED FROM HIGH SCHOOL          6.0        879               0.35
+7      SOME COLLEGE BUT DID NOT FINISH          7.0        362               0.14
+8               GRADUATED FROM COLLEGE          8.0         88               0.03
+
+
+
+S186B.Q7 WHAT BRANCH OF THE ARMY ARE YOU IN NOW?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0         23               0.01
+1                  ENGINEERS          1.0        446               0.18
+2            FIELD ARTILLERY          2.0          2                0.0
+3        QUARTERMASTER CORPS          3.0        507                0.2
+4                   INFANTRY          4.0        436               0.17
+5         MEDICAL DEPARTMENT          5.0        157               0.06
+6               SIGNAL CORPS          7.0          7                0.0
+7            COAST ARTILLERY          8.0          3                0.0
+8              ANTI-AIRCRAFT          9.0          3                0.0
+9                  AIR CORPS         10.0        899               0.36
+10      TRANSPORTATION CORPS         11.0          1                0.0
+11       ORDNANCE DEPARTMENT         12.0         15               0.01
+12  CHEMICAL WARFARE SERVICE         13.0          2                0.0
+13           MILITARY POLICE         14.0         12                0.0
+14            TANK DESTROYER         15.0          1                0.0
+15                     OTHER         16.0          8                0.0
+
+
+
+S186B.Q8 HOW DO YOU SIZE UP THE WAR AHEAD IN THE PACIFIC - HAVE WE ALREADY DONE MOST OF THE JOB OR DO WE STILL HAVE THE HARDEST PART OF THE JOB AHEAD OF US?
+                                                                                           answer_label answer_value raw_counts relative_frequency
+0                                                                                             NO ANSWER          0.0         37               0.01
+1                                                 WE HAVE ALREADY PRACTICALLY WON THE WAR AGAINST JAPAN          1.0         77               0.03
+2                                      WE STILL HAVE A BIG JOB AHEAD, BUT IT SHOULDN'T BE SO VERY TOUGH          2.0        763                0.3
+3  WE STILL HAVE TO FACE A HARD STRUGGLE IN WHICH AMERICA WILL SUFFER GREAT LOSSES IN MEN AND MATERIALS          3.0       1645               0.65
+
+
+
+S186B.Q9 SOME PEOPLE HAVE SAID THAT THE JOB OF DEFEATING JAPAN WILL TAKE AT LEAST TWO YEARS AFTER GERMANY'S DEFEAT. DO YOU AGREE OR DISAGREE WITH THIS?
+                              answer_label answer_value raw_counts relative_frequency
+0                                NO ANSWER          0.0         44               0.02
+1  I AGREE, IT WILL TAKE TWO YEARS OR MORE          1.0        913               0.36
+2                               I DISAGREE          2.0       1565               0.62
+
+
+
+S186B.Q11 WHAT IS YOUR GUESS AS TO HOW LONG IT WILL PROBABLY TAKE US TO BEAT JAPAN AFTER GERMANY'S DEFEAT?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         85               0.03
+1            LESS THAN 6 MONTHS          1.0         30               0.01
+2         6 MONTHS UP TO 1 YEAR          2.0        474               0.19
+3      1 YEAR UP TO 1 1/2 YEARS          3.0        855               0.34
+4     1 1/2 YEARS UP TO 2 YEARS          4.0        382               0.15
+5     2 YEARS UP TO 2 1/2 YEARS          5.0        409               0.16
+6     2 1/2 YEARS UP TO 3 YEARS          6.0        143               0.06
+7         3 YEARS UP TO 4 YEARS          7.0         79               0.03
+8         4 YEARS UP TO 5 YEARS          8.0          7                0.0
+9               5 YEARS OR MORE          9.0          6                0.0
+10  INDEFINITE OR INDETERMINATE         10.0         52               0.02
+
+
+
+S186B.Q12 WHAT IS THE VERY LONGEST YOU THINK JAPAN MIGHT HOLD OUT AGAINST US?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0        121               0.05
+1            LESS THAN 6 MONTHS          1.0         12                0.0
+2         6 MONTHS UP TO 1 YEAR          2.0        157               0.06
+3      1 YEAR UP TO 1 1/2 YEARS          3.0        523               0.21
+4     1 1/2 YEARS UP TO 2 YEARS          4.0        459               0.18
+5     2 YEARS UP TO 2 1/2 YEARS          5.0        584               0.23
+6     2 1/2 YEARS UP TO 3 YEARS          6.0        131               0.05
+7         3 YEARS UP TO 4 YEARS          7.0        278               0.11
+8         4 YEARS UP TO 5 YEARS          8.0         58               0.02
+9               5 YEARS OR MORE          9.0        104               0.04
+10  INDEFINITE OR INDETERMINATE         10.0         95               0.04
+
+
+
+S186B.Q13 WHAT IS YOUR OPINION OF THE FIGHTING ABILITY OF THE AVERAGE JAP SOLDIER - IS HE HARD TO DEFEAT OR EASY TO DEFEAT?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0         44               0.02
+1    VERY HARD TO DEFEAT          1.0       1018                0.4
+2  FAIRLY HARD TO DEFEAT          2.0       1254                0.5
+3  FAIRLY EASY TO DEFEAT          3.0        168               0.07
+4    VERY EASY TO DEFEAT          4.0         38               0.02
+
+
+
+S186B.Q14 DO YOU THINK THE JAPS HAVE ENOUGH OIL, STEEL, AND OTHER WAR MATERIALS TO LAST THEM THROUGH A LONG WAR?
+                                  answer_label answer_value raw_counts relative_frequency
+0                                    NO ANSWER          0.0         38               0.02
+1     YES, THE JAPS HAVE ENOUGH FOR A LONG WAR          1.0       1175               0.47
+2  NO, THE JAPS WILL SOON RUN OUT OF MATERIALS          2.0       1309               0.52
+
+
+
+S186B.Q15 WHAT IS YOUR IDEA OF HOW MUCH DAMAGE OUR AIR RAIDS IN JAPAN ARE DOING TO THE JAP WAR EFFORT?
+                                                                      answer_label answer_value raw_counts relative_frequency
+0                                                                        NO ANSWER          0.0         24               0.01
+1                                         ALREADY HAVE DONE A GREAT DEAL OF DAMAGE          1.0       1071               0.42
+2                       NOT DOING MUCH DAMAGE SO FAR BUT WILL DO A GREAT DEAL SOON          2.0       1282               0.51
+3  NOT DOING MUCH DAMAGE SO FAR AND WILL NOT DO A GREAT DEAL FOR QUITE A WHILE YET          3.0        145               0.06
+
+
+
+S186B.Q16 HOW MUCH HELP DO YOU THINK AMERICA WILL GET FROM OTHER COUNTRIES WHEN IT COMES TO THE JOB OF DEFEATING THE JAPS? IF, A GREAT DEAL, WHICH COUNTRIES?
+                                                        answer_label answer_value raw_counts relative_frequency
+0                                                          NO ANSWER          0.0         26               0.01
+1                                                        VERY LITTLE          1.0        340               0.13
+2                                         SOME, BUT NOT A GREAT DEAL          2.0       1356               0.54
+3                                                             RUSSIA          3.0         48               0.02
+4                     ENGLAND OR GREAT BRITAIN (CANADA NOT INCLUDED)          4.0         64               0.03
+5                                                              CHINA          5.0          5                0.0
+6                                                 RUSSIA AND ENGLAND          6.0        431               0.17
+7                                                   RUSSIA AND CHINA          7.0         16               0.01
+8                                                  ENGLAND AND CHINA          8.0         21               0.01
+9   RUSSIA, ENGLAND AND CHINA (INCLUDE "OUR ALLIES" OR "ALL ALLIES")          9.0        154               0.06
+10             ANY OTHER COUNTRIES, BUT NOT RUSSIA, ENGLAND OR CHINA         10.0          4                0.0
+11                               A GREAT DEAL, COUNTRY NOT SPECIFIED         11.0         57               0.02
+
+
+
+S186B.Q17 AFTER THE WAR, DO YOU THINK THE UNITED STATES SHOULD DRAFT ALL YOUNG MEN FOR A CERTAIN AMOUNT OF ARMY TRAINING DURING PEACETIME OR SHOULD WE GO BACK TO THE REGULAR ARMY SYSTEM OF TAKING VOLUNTEERS ONLY?
+                                           answer_label answer_value raw_counts relative_frequency
+0                                             NO ANSWER          0.0         34               0.01
+1  DRAFT ALL YOUNG MEN FOR A CERTAIN AMOUNT OF TRAINING          1.0       1519                0.6
+2                     GO BACK TO TAKING VOLUNTEERS ONLY          2.0        625               0.25
+3                                             UNDECIDED          3.0        344               0.14
+
+
+
+S186B.Q18 COMPARED WITH OTHER PEOPLE, HOW GOOD DO YOU THINK YOUR CHANCES WILL BE OF GETTING THE KIND OF JOB YOU WANT BY THE TIME YOU GET OUT OF THE ARMY?
+                                         answer_label answer_value raw_counts relative_frequency
+0                                  NO CODE OR NO DATA          0.0          2                0.0
+1        MY CHANCES WILL BE BETTER THAN MOST PEOPLE'S          1.0        545               0.22
+2  MY CHANCES WILL BE ABOUT THE SAME AS MOST PEOPLE'S          2.0       1433               0.57
+3         MY CHANCES WILL BE WORSE THAN MOST PEOPLE'S          3.0        500                0.2
+4                                           NO ANSWER          4.0         42               0.02
+
+
+
+S186B.Q19 DO YOU EVER GET THE FEELING THAT THIS WAR IS NOT WORTH FIGHTING?
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0         32               0.01
+1                  VERY OFTEN          1.0        230               0.09
+2                   SOMETIMES          2.0        621               0.25
+3  ONLY ONCE IN A GREAT WHILE          3.0        553               0.22
+4                       NEVER          4.0       1086               0.43
+
+
+
+S186B.Q20 IN GENERAL, DO YOU FEEL YOU YOURSELF HAVE GOTTEN A SQUARE DEAL FROM THE ARMY?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                         NO ANSWER          0.0         17               0.01
+1                          YES, IN MOST WAYS I HAVE          1.0        845               0.34
+2              IN SOME WAYS, YES, IN OTHER WAYS, NO          2.0       1248               0.49
+3  NO, ON THE WHOLE I HAVE NOT GOTTEN A SQUARE DEAL          3.0        412               0.16
+
+
+
+S186B.Q21 IN GENERAL, WHAT SORT OF PHYSICAL CONDITION WOULD YOU SAY YOU ARE IN AT THE PRESENT TIME?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         15               0.01
+1  VERY GOOD PHYSICAL CONDITION          1.0        279               0.11
+2       GOOD PHYSICAL CONDITION          2.0        601               0.24
+3       FAIR PHYSICAL CONDITION          3.0       1048               0.42
+4       POOR PHYSICAL CONDITION          4.0        443               0.18
+5  VERY POOR PHYSICAL CONDITION          5.0        136               0.05
+
+
+
+S186B.Q22A AS FAR AS YOU KNOW, ARE YOU NOW CLASSIFIED BY THE ARMY AS PHYSICALLY FIT FOR OVERSEAS DUTY?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0         10                0.0
+1           YES          1.0       1664               0.66
+2            NO          2.0        492                0.2
+3  I DON'T KNOW          3.0        356               0.14
+
+
+
+S186B.Q22B IN YOUR OWN OPINION, ARE YOU PHYSICALLY FIT FOR OVERSEAS DUTY?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         17               0.01
+1          YES          1.0       1126               0.45
+2           NO          2.0       1041               0.41
+3    UNDECIDED          3.0        338               0.13
+
+
+
+S186B.Q23 IN GENERAL, HOW WOULD YOU SAY YOU FEEL MOST OF THE TIME, IN GOOD SPIRITS OR IN LOW SPIRITS?
+                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                  NO ANSWER          0.0         14               0.01
+1                                               I AM USUALLY IN GOOD SPIRITS          1.0        864               0.34
+2  I AM IN GOOD SPIRITS SOME OF THE TIME AND IN LOW SPIRITS SOME OF THE TIME          2.0       1242               0.49
+3                                                I AM USUALLY IN LOW SPIRITS          3.0        402               0.16
+
+
+
+S186B.Q24 IF IT WERE UP TO YOU, WHAT KIND OF OUTFIT WOULD YOU RATHER BE IN?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                         NO ANSWER          0.0        107               0.04
+1                       IN A COMBAT OUTFIT OVERSEAS          1.0        736               0.29
+2                   IN A NON-COMBAT OUTFIT OVERSEAS          2.0        423               0.17
+3  IN AN OUTFIT THAT WILL STAY IN THE UNITED STATES          3.0       1256                0.5
+
+
+
+S186B.Q25 IF IT WERE UP TO YOU TO CHOOSE, DO YOU THINK YOU COULD DO MORE FOR YOUR COUNTRY AS A SOLDIER OR AS A WORKER IN A WAR JOB?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         23               0.01
+1     AS A SOLDIER          1.0        577               0.23
+2  AS A WAR WORKER          2.0       1534               0.61
+3        UNDECIDED          3.0        388               0.15
+
+
+
+S186B.Q26 IF THE JAPS OFFERED TO STOP FIGHTING NOW AND TRY TO WORK OUT A PEACE IN WHICH BOTH SIDES WOULD HAVE SOMETHING TO SAY ABOUT THE PEACE TERMS, WHICH OF THESE DO YOU THINK WE SHOULD DO?
+                                                       answer_label answer_value raw_counts relative_frequency
+0                                                         NO ANSWER          0.0         20               0.01
+1       WE SHOULD KEEP ON FIGHTING UNTIL THEY ARE COMPLETELY BEATEN          1.0       1850               0.73
+2  WE SHOULD STOP AND TRY TO WORK OUT PEACE TERMS WITH THE JAPS NOW          2.0        355               0.14
+3                                                         UNDECIDED          3.0        297               0.12
+
+
+
+S186B.Q27 WHAT DO YOU THINK OF THE MILITARY CONTROL AND DISCIPLINE AT THIS POST?
+                                     answer_label answer_value raw_counts relative_frequency
+0                                       NO ANSWER          0.0         52               0.02
+1     IT'S TOO STRICT BUT MOST OF IT IS NECESSARY          1.0        238               0.09
+2  IT'S TOO STRICT AND A LOT OF IT IS UNNECESSARY          2.0       1001                0.4
+3                                IT'S ABOUT RIGHT          3.0       1163               0.46
+4                          IT'S NOT STRICT ENOUGH          4.0         68               0.03
+
+
+
+S186B.Q28 IN THE ARMY YOU ARE OFTEN NOT ASKED TO DO THINGS, YOU ARE ORDERED TO DO THINGS. HOW DO YOU FEEL ABOUT TAKING ORDERS FROM YOUR SUPERIORS IN THE ARMY?
+                                                                         answer_label answer_value raw_counts relative_frequency
+0                                                                           NO ANSWER          0.0         13               0.01
+1                                               DON'T MIND BEING ORDERED TO DO THINGS          1.0        915               0.36
+2                                        SOMETIMES DISLIKE BEING ORDERED TO DO THINGS          2.0       1273                0.5
+3                                    NEARLY ALWAYS DISLIKE BEING ORDERED TO DO THINGS          3.0        286               0.11
+4  QUALIFIED ("IF I'M ABLE", "IF WITHIN REASON", "IF DONE IN THE RIGHT MANNER", ETC.)          4.0         35               0.01
+
+
+
+S186B.Q29 CONSIDERING EVERYTHING, HOW DO YOU FEEL ABOUT FURTHER SERVICE IN THE ARMY?
+                                                                              answer_label answer_value raw_counts relative_frequency
+0                                                                                NO ANSWER          0.0         32               0.01
+1                                                               I SHOULD BE DISCHARGED NOW          1.0        646               0.26
+2  I SHOULD SERVE A WHILE LONGER, BUT I SHOULD NOT HAVE TO STAY IN UNTIL JAPAN IS DEFEATED          2.0        536               0.21
+3                    I SHOULD BE DISCHARGED AS SOON AFTER JAPAN IS DEFEATED AS IS POSSIBLE          3.0       1212               0.48
+4                                               I WANT TO REMAIN IN THE ARMY AFTER THE WAR          4.0         96               0.04
+
+
+
+S186B.Q30 HOW GOOD DO YOU THINK YOUR CHANCES ARE OF BEING DISCHARGED FROM THE ARMY BEFORE THE WAR WITH JAPAN IS OVER?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0         40               0.02
+1      VERY GOOD CHANCE          1.0        182               0.07
+2    FAIRLY GOOD CHANCE          2.0        504                0.2
+3  FAIRLY LITTLE CHANCE          3.0        793               0.31
+4      NO CHANCE AT ALL          4.0       1003                0.4
+
+
+
+S186B.Q31 DO YOU EXPECT THAT MANY SOLDIERS WILL BE DISCHARGED FROM OUR ARMY DURING THE FIRST SIX MONTHS AFTER GERMANY'S DEFEAT?
+                                    answer_label answer_value raw_counts relative_frequency
+0                                      NO ANSWER          0.0         24               0.01
+1  YES, A FAIRLY LARGE NUMBER WILL BE DISCHARGED          1.0       1347               0.53
+2                NO, VERY FEW WILL BE DISCHARGED          2.0       1151               0.46
+
+
+
+S186B.Q32 THERE ARE NOW BETWEEN SEVEN AND EIGHT MILLION MEN IN THE AMERICAN ARMY. HOW MANY OF THESE DO YOU EXPECT WILL BE DISCHARGED DURING THE FIRST SIX MONTHS AFTER GERMANY'S DEFEAT?
+                                    answer_label answer_value raw_counts relative_frequency
+0                                      NO ANSWER          0.0         49               0.02
+1            PRACTICALLY NONE WILL BE DISCHARGED          1.0        311               0.12
+2  LESS THAN ONE-HALF MILLION WILL BE DISCHARGED          2.0        678               0.27
+3     ONE-HALF TO ONE MILLION WILL BE DISCHARGED          3.0        795               0.32
+4          ONE TO TWO MILLION WILL BE DISCHARGED          4.0        560               0.22
+5         TWO TO FOUR MILLION WILL BE DISCHARGED          5.0        112               0.04
+6           OVER FOUR MILLION WILL BE DISCHARGED          6.0         17               0.01
+
+
+
+S186B.Q33 HOW INTERESTED ARE YOU IN READING UP ON WORLD-WIDE CURRENT EVENTS?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0         25               0.01
+1        VERY INTERESTED          1.0       1340               0.53
+2    SOMEWHAT INTERESTED          2.0        843               0.33
+3    NOT VERY INTERESTED          3.0        221               0.09
+4  NOT AT ALL INTERESTED          4.0         93               0.04
+
+
+
+S186B.Q34 CHECK THE ONE BELOW THAT BEST DESCRIBES THE WAY IN WHICH YOU USUALLY FOLLOW THE WAR NEWS.
+                                                                     answer_label answer_value raw_counts relative_frequency
+0                                                                       NO ANSWER          0.0         23               0.01
+1                                          DON'T KEEP UP WITH THE WAR NEWS AT ALL          1.0        105               0.04
+2  DON'T KEEP UP WITH THE WAR NEWS EVERY DAY, BUT DO FOLLOW THE REALLY BIG EVENTS          2.0        637               0.25
+3          KEEP UP WITH IMPORTANT WAR NEWS EVERYDAY, BUT DON'T FOLLOW THE DETAILS          3.0       1082               0.43
+4                              KEEP UP WITH THE DETAILS OF THE WAR NEWS EVERY DAY          4.0        675               0.27
+
+
+
+S186B.Q35 WHAT MAGAZINES DO YOU USUALLY READ FAIRLY REGULARLY?
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0                                                                                                                 NO ANSWER          0.0         84               0.03
+1                                                       MAGAZINES COVERING UP TO DATE NEWS: (TIME, NEWSWEEK CURRENT EVENTS)          1.0        927               0.37
+2  MAGAZINES COVERING WORLD WIDE EVENTS: (NON-FICTION OF GENERALIZED INTEREST; READER'S DIGEST, YANK, OMNIBOOK, CORONET, FO          2.0        649               0.26
+3                                                                     LIFE - PLUS NON-FICTION SPECIALIZING MAGAZINES CODE 6          3.0         13               0.01
+4                                   LIFE - PLUS MIXED NON-FICTION AND HIGH CLASS FICTION CODE 7, OTHER MISCELLANEOUS CODE 8          4.0         39               0.02
+5                                                                                             LIFE - NOTHING ELSE MENTIONED          5.0         64               0.03
+6  NON-FICTION SPECIALIZING MAGAZINES: (THEATER ARTS, OUTDOOR LIFE, AIR FORCES, PHOTOGRAPHY, SCIENCE, ELECTRONICS, INFANTRY          6.0         47               0.02
+7                           MIXED NON-FICTION AND HIGH CLASSIFICATION: (SATURDAY EVENING POST, COLLIERS, AMERICAN, LIBERTY)          7.0         28               0.01
+8  OTHER, MISCELLANEOUS: (LOOK, BILLBOARD, ESQUIRE, OUTFIT, COMICS, SIGNS OF THE TIMES, AMERICAN SCREEN, COSMOPOLITAN, TRUE          8.0         38               0.02
+9                                                                       I DON'T READ ANY PARTICULAR MAGAZINE VERY REGULARLY          9.0        633               0.25
+
+
+
+S186B.Q36 DO YOU FEEL THAT THE INFORMATION ABOUT THE WAR THAT THE ARMY GIVES YOU IS TRUE AND ACCURATE?
+              answer_label answer_value raw_counts relative_frequency
+0                NO ANSWER          0.0         30               0.01
+1  YES, GENERALLY ACCURATE          1.0       1605               0.64
+2     NO, OFTEN INACCURATE          2.0        570               0.23
+3                UNDECIDED          3.0        317               0.13
+
+
+
+S186B.Q37 DO YOU FEEL THAT THE INFORMATION ABOUT THE WAR THE ARMY GIVES YOU IS MOSTLY JUST THE STRAIGHT FACTS OR IS IT SOMETIMES PROPAGANDA?
+                                              answer_label answer_value raw_counts relative_frequency
+0                                                NO ANSWER          0.0         44               0.02
+1                           ALWAYS JUST THE STRAIGHT FACTS          1.0        301               0.12
+2  MOSTLY JUST THE FACTS BUT SOMETIMES A LITTLE PROPAGANDA          2.0       2063               0.82
+3                                        MOSTLY PROPAGANDA          3.0        114               0.05
+
+
+
+S186B.Q38 HOW CLEAR AN IDEA DO YOU HAVE OF WHY WE ARE FIGHTING THIS WAR?
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0         32               0.01
+1    I HAVE A VERY CLEAR IDEA          1.0       1122               0.44
+2  I HAVE A FAIRLY CLEAR IDEA          2.0       1108               0.44
+3           I AM NOT SO CLEAR          3.0        185               0.07
+4       I AM NOT AT ALL CLEAR          4.0         75               0.03
+
+
+
+S186B.Q39 WHEN YOU AND OTHER SOLDIERS GET INTO BULL-SESSIONS AND DISCUSSIONS ON SERIOUS SUBJECTS RELATED TO THE WAR DO YOU USUALLY DO A FAIR AMOUNT OF THE TALKING?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                         NO ANSWER          0.0         39               0.02
+1         I USUALLY DO MORE TALKING THAN THE OTHERS          1.0         99               0.04
+2         I USUALLY DO A FAIR AMOUNT OF THE TALKING          2.0        833               0.33
+3   I USUALLY DO A LITTLE TALKING BUT MAINLY LISTEN          3.0       1132               0.45
+4               I USUALLY JUST LISTEN TO THE OTHERS          4.0        283               0.11
+5  I DON'T GET INTO DISCUSSIONS ON SERIOUS SUBJECTS          5.0        136               0.05
+
+
+
+S186B.Q40 DO YOU THINK JAPAN WILL GIVE UP AND SURRENDER ON OUR TERMS BEFORE THEY LOSE EVERYTHING OR DO YOU THINK THEY WILL KEEP RIGHT ON FIGHTING TO THE VERY END?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                         NO ANSWER          0.0         80               0.03
+1                   THEY WILL GIVE UP AND SURRENDER          1.0       1014                0.4
+2  THEY WILL KEEP RIGHT ON FIGHTING TO THE VERY END          2.0       1428               0.57
+
+
+
+S186B.Q41 HOW DO YOU FEEL ABOUT WHAT YOU'VE DONE IN THIS WAR?
+                                                      answer_label answer_value raw_counts relative_frequency
+0                                                        NO ANSWER          0.0         84               0.03
+1  I FEEL I'VE DONE MY SHARE AS A SOLDIER AND SHOULD BE DISCHARGED          1.0        749                0.3
+2      I FEEL I'VE ALREADY DONE MY SHARE, BUT I'M READY TO DO MORE          2.0       1155               0.46
+3                              I DON'T FEEL I'VE DONE MY SHARE YET          3.0        534               0.21
+
+
+
+S186B.Q42 HAVE YOU EVER SERVED IN THE ARMY OUTSIDE THE UNITED STATES IN THIS WAR?
+  answer_label answer_value raw_counts relative_frequency
+0          YES          1.0       1136               0.45
+1           NO          2.0       1386               0.55
+
+
+
+S186B.Q43 HOW DO YOU FEEL ABOUT SERVING OVERSEAS?
+                                                                           answer_label answer_value raw_counts relative_frequency
+0                                            I WANT TO GET OVERSEAS AS SOON AS POSSIBLE          1.0        110               0.04
+1                                                   I'M READY TO GO WHENEVER I'M NEEDED          2.0        736               0.29
+2  I'D LIKE TO STAY IN THE U.S. FOR A FEW MONTHS, BUT THAN I'LL BE READY TO GO ANYWHERE          3.0        163               0.06
+3                                                           I DON'T WANT TO GO OVERSEAS          4.0        422               0.17
+4                                                               INAPPLICABLE, NO ANSWER          9.0       1091               0.43
+
+
+
+S186B.Q44 REGARDLESS OF WHAT YOU WANT TO DO, DO YOU THINK YOU ACTUALLY WILL BE SENT TO SOME OVERSEAS THEATER?
+                                                                                                    answer_label answer_value raw_counts relative_frequency
+0                                                           I AM VERY SURE I'LL BE SENT TO SOME OVERSEAS THEATER          1.0        346               0.14
+1                                                         I AM FAIRLY SURE I'LL BE SENT TO SOME OVERSEAS THEATER          2.0        360               0.14
+2                                                                              THE CHANCES ARE ABOUT FIFTY-FIFTY          3.0        440               0.17
+3                                                     I AM FAIRLY SURE I'LL NOT BE SENT TO SOME OVERSEAS THEATER          4.0        118               0.05
+4                                                       I AM VERY SURE I'LL NOT BE SENT TO SOME OVERSEAS THEATER          5.0         40               0.02
+5                                                                                                      UNDECIDED          6.0        126               0.05
+6  INAPPLICABLE, NO ANSWER I. QUESTIONS 45-50 TO BE ANSWERED BY MEN WHO HAVE SERVED OVERSEAS \(RETURNEES\) ONLY:          9.0       1092               0.43
+
+
+
+S186B.Q45 WHEN DID YOU LAND IN THE U.S.? (GIVE THE MONTH IN WHICH YOU ACTUALLY ARRIVED BACK IN THE U.S.)
+              answer_label answer_value raw_counts relative_frequency
+0                NO ANSWER          0.0         33               0.01
+1       FEB. 1945 OR LATER          1.0        298               0.12
+2                     JAN.          2.0         95               0.04
+3                     DEC.          3.0         62               0.02
+4                     NOV.          4.0         38               0.02
+5                     OCT.          5.0         43               0.02
+6                    SEPT.          6.0         54               0.02
+7    AUG., JULY, JUNE 1944          7.0        203               0.08
+8   MAY, APRIL, MARCH 1944          8.0        106               0.04
+9    SEPT., 1943 THRU FEB.          9.0        140               0.06
+10          PRIOR TO SEPT.         10.0         65               0.03
+11            INAPPLICABLE         99.0       1385               0.55
+
+
+
+S186B.Q46 FROM WHAT OVERSEAS AREA OR THEATER WERE YOU SHIPPED BACK TO THE U.S.?
+                                     answer_label answer_value raw_counts relative_frequency
+0                                       NO ANSWER          0.0         46               0.02
+1   MTOUSA (ITALY, NORTH AFRICA, SOUTHERN FRANCE)          1.0        209               0.08
+2            ETO (BRITISH ISLES, NORTHERN FRANCE)          2.0         62               0.02
+3                                       CARIBBEAN          3.0        335               0.13
+4                                   SOUTH PACIFIC          4.0         36               0.01
+5                               SOUTHWEST PACIFIC          5.0        166               0.07
+6                                 CENTRAL PACIFIC          6.0         15               0.01
+7                               ALASKA, ALEUTIANS          7.0        207               0.08
+8                               CHINA-BURMA-INDIA          8.0         33               0.01
+9                              SOME OTHER THEATER          9.0          2                0.0
+10                                 NORTH AMERICAN         10.0         21               0.01
+11                                    MIDDLE EAST         11.0          4                0.0
+12                                   INAPPLICABLE         99.0       1386               0.55
+
+
+
+S186B.Q47 HAVE YOU BEEN IN ACTUAL COMBAT OR UNDER ENEMY FIRE IN THIS WAR?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0         26               0.01
+1           YES          1.0        523               0.21
+2            NO          2.0        587               0.23
+3  INAPPLICABLE          9.0       1386               0.55
+
+
+
+S186B.Q48A HOW DO YOU FEEL ABOUT SERVING OVERSEAS AGAIN?
+                                                                           answer_label answer_value raw_counts relative_frequency
+0                                                                    NO CODE OR NO DATA          0.0          9                0.0
+1                                      I WANT TO GET OVERSEAS AGAIN AS SOON AS POSSIBLE          1.0         47               0.02
+2                                                   I'M READY TO GO WHENEVER I'M NEEDED          2.0        226               0.09
+3  I'D LIKE TO STAY IN THE U.S. FOR A FEW MONTHS, BUT THEN I'LL BE READY TO GO ANYWHERE          3.0        186               0.07
+4                                                     I DON'T WANT TO GO OVERSEAS AGAIN          4.0        639               0.25
+5                                                                             NO ANSWER          5.0         29               0.01
+6                                                                          INAPPLICABLE          9.0       1386               0.55
+
+
+
+S186B.Q48B.1 WHAT ARE THE REASONS FOR YOUR ANSWER? E. TYPE A (CODES 1, 2 OR 3 CHECKED IN 48A):
+                                                                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                                                                  NO ANSWER          0.0         97               0.04
+1                                      I WANT TO GET INTO THIS FIGHT; I'VE BEEN IN THE STATES LONG ENOUGH; I WANT TO SOLDIER          1.0         13               0.01
+2    I COULD BE OF MORE USE (TO THE ARMY) OVER THERE; WOULD HAVE BETTER CHANCE OF DOING MY SHARE OR WHAT I WAS TRAINED FOR -          2.0         57               0.02
+3    WANT TO GET AWAY FROM ALL THIS GARRISON SOLDIERING; WANT TO GET AWAY FROM MY PRESENT OUTFIT; TOO GI HERE IN THE STATES;          3.0         47               0.02
+4   IT'S MY PATRIOTIC DUTY; BECAUSE I'M A SOLDIER; I'M READY TO SERVE WHEN AND WHERE THE ARMY NEEDS ME; AS LONG AS I'M IN TH          4.0         56               0.02
+5        WILLING TO GO LATER - AFTER ZI SOLDIERS (U.S. COMMANDOS) HAVE GONE OVER; PLENTY AVAILABLE WHO HAVEN'T BEEN OVER YET          5.0         45               0.02
+6   WILLING TO GO LATER - BUT WANT MORE TIME IN THE STATES BECAUSE; (ANY REASON EXCEPT CODE "05") (E.G., AFTER MORE TRAINING          6.0         85               0.03
+7   WILLING TO GO BUT NOT ABLE TO GO BECAUSE: (E.G., NOT PHYSICALLY OR MENTALLY ABLE TO TAKE IT; CLASSIFIED AS PHYSICALLY DI          7.0         18               0.01
+8             WILLING (READY) TO GO - BUT WOULD RATHER NOT GO AT ALL; IF THE ARMY SAYS GO, YOU GO WHETHER YOU WANT TO OR NOT          8.0         18               0.01
+9          WILLING TO GO - IF I DON'T GO OVER, I'LL NEVER GET OUT OF THIS ARMY; ZI MEN HAVE LOW SCORE ON DEMOBILIZATION PLAN          9.0          1                0.0
+10                                                                          ANSWER IS OF TYPE, "I DON'T WANT TO GO OVERSEAS"         10.0          5                0.0
+11                                                                        ALL OTHER COMMENTS INDICATING MAN IS WILLING TO GO         11.0         17               0.01
+12                                                                           INAPPLICABLE E. TYPE B (CODE 4 CHECKED IN 48A):         99.0       2063               0.82
+
+
+
+S186B.Q48B.2S186BQ48B. WHAT ARE THE REASONS FOR YOUR ANSWER? E. TYPE A (CODES 1, 2 OR 3 CHECKED IN 48A):
+                                                                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                                                                  NO ANSWER          0.0         56               0.02
+1   HAVE DONE MY SHARE; WAS OVER THERE LONG ENOUGH; FED UP WITH SOLDIERING; WANT TO STAY IN THE STATES; COULD DO MORE AS A W          1.0         90               0.04
+2   AGGRESSION VS ZI SOLDIERS; THERE ARE PLENTY WHO HAVEN'T BEEN OVERSEAS; LET THEM HAVE SOME OF THE GLORY AND FIND OUT WHAT          2.0        157               0.06
+3                    PHYSICALLY UNFIT; TOO OLD; LIMITED SERVICE; DISQUALIFIED FOR OVERSEAS DUTY (D.P.O., P.L.A., N.F.P.O.R.)          3.0         89               0.04
+4               MENTALLY UNFIT; NERVOUSNESS; TROUBLE SLEEPING; (STOMACH TROUBLE IS LIKELY TO BE MENTAL RATHER THAN PHYSICAL)          4.0         40               0.02
+5   WILLING TO GO LATER - AFTER ZI SOLDIERS (U.S. COMMANDOS) HAVE GONE OVER; PLENTY OF ZI AVAILABLE WHO HAVEN'T BEEN OVER YE          5.0         40               0.02
+6                                                                       COULDN'T TAKE IT; IT'S NO GOOD; TOO TOUGH; DANGEROUS          6.0         44               0.02
+7                                                                                                    HOME AND FAMILY REASONS          7.0         57               0.02
+8   BECAUSE I WANT OR EXPECT TO BE DISCHARGED FROM THE ARMY (SOON); WILL BE AWAY TOO LONG IF I GO NOW; WILL BE STUCK IN ARMY          8.0          6                0.0
+9   AGGRESSION VS ARMY, OFFICERS, CIVILIANS - BECAUSE OF THE WAY I'VE BEEN TREATED; (E.G., BECAUSE OF THE WAY I'VE BEEN TREA          9.0          9                0.0
+10   WILLING TO GO LATER BUT WANT MORE TIME IN THE STATES BECAUSE: (ANY REASON EXCEPT CODE "05") (E.G., AFTER MORE TRAINING,         10.0         13               0.01
+11                                                            ALL OTHER COMMENTS INDICATING MAN DOES NOT WANT TO GO OVERSEAS         11.0         38               0.02
+12                                                                                                              INAPPLICABLE         99.0       1883               0.75
+
+
+
+S186B.Q49 REGARDLESS OF WHAT YOU WANT TO DO, DO YOU THINK YOU ACTUALLY WILL BE SENT TO SOME OVERSEAS THEATER AGAIN?
+                                   answer_label answer_value raw_counts relative_frequency
+0                                     NO ANSWER          0.0         42               0.02
+1        I AM VERY SURE I'LL BE SENT OVER AGAIN          1.0        228               0.09
+2      I AM FAIRLY SURE I'LL BE SENT OVER AGAIN          2.0        187               0.07
+3             THE CHANCES ARE ABOUT FIFTY-FIFTY          3.0        391               0.16
+4  I AM FAIRLY SURE I'LL NOT BE SENT OVER AGAIN          4.0        156               0.06
+5    I AM VERY SURE I'LL NOT BE SENT OVER AGAIN          5.0         49               0.02
+6                                     UNDECIDED          6.0         83               0.03
+7                                  INAPPLICABLE          9.0       1386               0.55
+
+
+
+S186B.Q50 KNOWING WHAT YOU DO NOW, HOW DO YOU FEEL ABOUT HAVING COME BACK TO THE U.S.?
+                                                                                    answer_label answer_value raw_counts relative_frequency
+0                                                                                      NO ANSWER          0.0         44               0.02
+1                                                                      I WISH I HADN'T COME BACK          1.0         71               0.03
+2  I WOULD RATHER HAVE COME BACK JUST FOR A FURLOUGH AND THEN RETURNED TO MY OLD OUTFIT OVERSEAS          2.0        233               0.09
+3                                                                          I AM GLAD I CAME BACK          3.0        740               0.29
+4                                                                                 SOMETHING ELSE          4.0         43               0.02
+5                                                                                   INAPPLICABLE          9.0       1391               0.55
+
+
+
+S186B.V51 CAMP AND OUTFIT IDENTIFICATION:
+                                                                                                      answer_label answer_value raw_counts relative_frequency
+0                                                                COLUMBIA ARMY AIR BASE, SOUTH CAROLINA - FLYERS -          1.0        180               0.07
+1                                                           COLUMBIA ARMY AIR BASE, SOUTH CAROLINA - FLYERS - Z.I.          2.0        223               0.09
+2                                                      COLUMBIA ARMY AIR BASE, SOUTH CAROLINA - GROUND - RETURNEES          3.0         44               0.02
+3                                                           COLUMBIA ARMY AIR BASE, SOUTH CAROLINA - GROUND - Z.I.          4.0        102               0.04
+4   FT. LEONARD WOOD, MISSOURI - SCHEDULES NOT SEPARATED INTO UNITS (ENGR. TNG. BNS; HDQS. CO.; D-CO. 8TH BN.; PER          5.0        460               0.18
+5                                                                  MITCHELL FIELD, NEW YORK - SQUADRON B 110TH AAB          6.0        161               0.06
+6                                                                  MITCHELL FIELD, NEW YORK - SQUADRON P 110TH AAB          7.0         68               0.03
+7                                                                  MITCHELL FIELD, NEW YORK - SQUADRON D 110TH AAB          8.0         61               0.02
+8                                                                  MITCHELL FIELD, NEW YORK - SQUADRON H 110TH AAB          9.0         84               0.03
+9                                                                  MITCHELL FIELD, NEW YORK - SQUADRON U 110TH AAB         10.0        112               0.04
+10                                                                   MITCHELL FIELD, NEW YORK - FLYERS - 110TH AAB         11.0         63               0.02
+11                                                    CAMP SHELBY, MISSISSIPPI - CO. A, 9TH BN., 55TH REGT., IARTC         12.0        160               0.06
+12                                                     CAMP SHELBY, MISSISSIPPI - CO. A, 5TH BN., 54TH RGT., IARTC         13.0        124               0.05
+13                                                     CAMP SHELBY, MISSISSIPPI - CO. B, 5TH BN., 54TH RGT., IARTC         14.0        176               0.07
+14                                                                    FT. WARREN, WYOMING - ASFTC - CADRE TRAINEES         15.0        380               0.15
+15                                              FT. WARREN, WYOMING - 351TH QM LAUNDRY CO., 19TH QM SALVAGE REPAIR         16.0        124               0.05
+
+
+

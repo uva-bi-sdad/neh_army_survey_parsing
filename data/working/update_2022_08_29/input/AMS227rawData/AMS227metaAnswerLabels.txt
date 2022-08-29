@@ -1,0 +1,927 @@
+{
+  "FORM": {
+    "1.0": "B FORM",
+    "2.0": "C FORM"
+  },
+  "S227.Q1": {
+    "0.0": "NO ANSWER",
+    "1.0": "6 MONTHS OR LESS",
+    "2.0": "OVER 6 MONTHS TO 1 YEAR",
+    "3.0": "OVER 1 YEAR TO 1 1/2 YEARS",
+    "4.0": "OVER 1 1/2 YEARS TO 2 YEARS",
+    "5.0": "OVER 2 YEARS TO 2 1/2 YEARS",
+    "6.0": "OVER 2 1/2 YEARS TO 3 YEARS",
+    "7.0": "OVER 3 YEARS TO 3 1/2 YEARS",
+    "8.0": "OVER 3 1/2 YEARS"
+  },
+  "S227.Q2": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN 6TH GRADE",
+    "2.0": "FINISHED 6TH GRADE",
+    "3.0": "FINISHED 7TH GRADE",
+    "4.0": "FINISHED 8TH GRADE",
+    "5.0": "SOME HIGH SCHOOL BUT DID NOT FINISH",
+    "6.0": "GRADUATED FROM HIGH SCHOOL",
+    "7.0": "SOME COLLEGE BUT DID NOT FINISH",
+    "8.0": "GRADUATED FROM COLLEGE"
+  },
+  "S227.Q3": {
+    "0.0": "NO ANSWER",
+    "1.0": "6 MONTHS OR LESS",
+    "2.0": "OVER 6 MONTHS TO A YEAR",
+    "3.0": "OVER 1 YEAR TO 1 1/2 YEARS",
+    "4.0": "OVER 1 1/2 YEARS TO 2 YEARS",
+    "5.0": "OVER 2 YEARS TO 2 1/2 YEARS",
+    "6.0": "OVER 2 1/2 YEARS TO 3 YEARS",
+    "7.0": "OVER 3 YEARS TO 3 1/2 YEARS",
+    "8.0": "OVER 3 1/2 YEARS"
+  },
+  "S227.Q4.1": {
+    "NaN": "ON FORM C CODES LISTED IN REVERSE ORDER.",
+    "1.0": "MORE MOVIES",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q4.2": {
+    "NaN": "ON FORM C CODES LISTED IN REVERSE ORDER.",
+    "1.0": "BETTER MOVIES",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q4.3": {
+    "NaN": "ON FORM C CODES LISTED IN REVERSE ORDER.",
+    "1.0": "MORE RADIO SETS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q4.4": {
+    "NaN": "ON FORM C CODES LISTED IN REVERSE ORDER.",
+    "1.0": "BETTER RADIO PROGRAMS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q4.5": {
+    "NaN": "ON FORM C CODES LISTED IN REVERSE ORDER.",
+    "1.0": "MORE BOOKS AND MAGAZINES",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q4.6": {
+    "NaN": "ON FORM C CODES LISTED IN REVERSE ORDER.",
+    "1.0": "MORE ATHLETIC EQUIPMENT FOR BASEBALL, VOLLEYBALL, ETC.",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q4.7": {
+    "NaN": "ON FORM C CODES LISTED IN REVERSE ORDER.",
+    "1.0": "MORE LIGHT GAMES SUCH AS PING-PONG, HORSESHOES, DARTS, ETC.",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q4.8": {
+    "NaN": "ON FORM C CODES LISTED IN REVERSE ORDER.",
+    "1.0": "MORE TABLE GAMES SUCH AS CHECKERS, CARD GAMES, ETC.",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q4.9": {
+    "NaN": "ON FORM C CODES LISTED IN REVERSE ORDER.",
+    "1.0": "MORE EDUCATION CLASSES",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q4.10": {
+    "NaN": "ON FORM C CODES LISTED IN REVERSE ORDER.",
+    "1.0": "BETTER EDUCATION CLASSES",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q4.11": {
+    "NaN": "ON FORM C CODES LISTED IN REVERSE ORDER.",
+    "1.0": "NO ANSWER",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q5": {
+    "0.0": "NO ANSWER",
+    "1.0": "DIDN'T LISTEN AT ALL",
+    "2.0": "LISTENED LESS THAN 15 MINUTES DAILY",
+    "3.0": "LISTENED BETWEEN 15 MINUTES AND A HALF HOUR DAILY",
+    "4.0": "LISTENED BETWEEN A HALF HOUR AND AN HOUR DAILY",
+    "5.0": "LISTENED BETWEEN 1 HOUR AND 2 HOURS DAILY",
+    "6.0": "LISTENED BETWEEN 2 HOURS AND 3 HOURS DAILY",
+    "7.0": "LISTENED BETWEEN 3 HOURS AND 5 HOURS DAILY",
+    "8.0": "LISTENED MORE THAN 5 HOURS DAILY"
+  },
+  "S227.Q6.1": {
+    "NaN": "ON FORM C CODES LISTED IN REVERSE ORDER.",
+    "1.0": "I LISTENED ALL I WANTED TO",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q6.2": {
+    "NaN": "ON FORM C CODES LISTED IN REVERSE ORDER.",
+    "1.0": "THERE IS NO RADIO IN MY OUTFIT THAT I CAN USE",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q6.3": {
+    "NaN": "ON FORM C CODES LISTED IN REVERSE ORDER.",
+    "1.0": "RADIO WAS NOT IN WORKING ORDER",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q6.4": {
+    "NaN": "ON FORM C CODES LISTED IN REVERSE ORDER.",
+    "1.0": "PROGRAMS DON'T COME IN LOUD OR CLEAR ENOUGH - POOR RECEPTION",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q6.5": {
+    "NaN": "ON FORM C CODES LISTED IN REVERSE ORDER.",
+    "1.0": "RADIO NOT NEAR ENOUGH",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q6.6": {
+    "NaN": "ON FORM C CODES LISTED IN REVERSE ORDER.",
+    "1.0": "TOO MANY MEN ARE LISTENING TO RADIO AT SAME TIME",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q6.7": {
+    "NaN": "ON FORM C CODES LISTED IN REVERSE ORDER.",
+    "1.0": "WAS TOO BUSY THIS PAST WEEK TO LISTEN AS MUCH AS I'D LIKE TO",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q6.8": {
+    "NaN": "ON FORM C CODES LISTED IN REVERSE ORDER.",
+    "1.0": "DON'T LIKE THE PROGRAMS WE GET OVER THE RADIO",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q6.9": {
+    "NaN": "ON FORM C CODES LISTED IN REVERSE ORDER.",
+    "1.0": "OTHER",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q6.10": {
+    "NaN": "ON FORM C CODES LISTED IN REVERSE ORDER.",
+    "1.0": "NO ANSWER",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q8.1": {
+    "1.0": "DIDN'T HEAR AFN STATION DURING PAST WEEK",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q8.2": {
+    "1.0": "HEARD PARIS AFN STATION PAST WEEK",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q8.3": {
+    "1.0": "HEARD NANCY AFN STATION PAST WEEK",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q8.4": {
+    "1.0": "HEARD REIMS AFN STATION PAST WEEK",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q8.5": {
+    "1.0": "HEARD MARSEILLES AFN STATION PAST WEEK",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q8.6": {
+    "1.0": "HEARD FRANKFURT AFN STATION PAST WEEK",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q8.7": {
+    "1.0": "HEARD MUNICH AFN STATION PAST WEEK",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q8.8": {
+    "1.0": "HEARD 15TH ARMY AFN STATION PAST WEEK",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q8.9": {
+    "1.0": "DON'T KNOW WHAT AFN STATION I HEARD PAST WEEK",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q8.10": {
+    "1.0": "NO ANSWER",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q9": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, THERE ARE MORE THAN ENOUGH SETS",
+    "2.0": "YES, THERE ARE ABOUT ENOUGH SETS",
+    "3.0": "NO, THEY NEED A FEW MORE SETS",
+    "4.0": "NO, THEY NEED A LOT MORE SETS"
+  },
+  "S227.Q10": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY EASY",
+    "2.0": "FAIRLY EASY",
+    "3.0": "PRETTY HARD",
+    "4.0": "VERY HARD"
+  },
+  "S227.Q11": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY EASY",
+    "2.0": "FAIRLY EASY",
+    "3.0": "PRETTY HARD",
+    "4.0": "VERY HARD"
+  },
+  "S227.Q12": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, I THINK I WOULD BUY ONE",
+    "2.0": "NO, I DON'T THINK I WOULD BUY ONE"
+  },
+  "S227.Q13": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT INTERESTED AT ALL",
+    "2.0": "INTERESTED ONLY A LITTLE",
+    "3.0": "FAIRLY INTERESTED",
+    "4.0": "VERY INTERESTED"
+  },
+  "S227.Q14": {
+    "0.0": "NO ANSWER",
+    "1.0": "A NEWS BROADCAST EVERY HOUR: (USUALLY 1 MINUTE SUMMARIES, SOMETIMES 5 MINUTE SUMMARIES)",
+    "2.0": "A NEWS BROADCAST 5 OR 6 TIMES A DAY: (A FEW 5 MINUTE SUMMARIES, AND A FEW 15 MINUTE MORE DETAILED BROADCASTS)",
+    "3.0": "IT DOESN'T MATTER TO ME"
+  },
+  "S227.Q15": {
+    "0.0": "NO ANSWER",
+    "1.0": "A NEWS BROADCAST 5 OR 6 TIMES A DAY: (A FEW 5 MINUTE SUMMARIES, AND A FEW 15 MINUTE MORE DETAILED BROADCASTS)",
+    "2.0": "A NEWS BROADCAST 5 OR 6 TIMES A DAY: (A FEW 5 MINUTE SUMMARIES, ONE OR TWO 15 MINUTE BROADCASTS AND ONE 30 MINUTE BROADC",
+    "3.0": "IT DOESN'T MATTER TO ME"
+  },
+  "S227.Q16": {
+    "0.0": "NO ANSWER",
+    "1.0": "A NEWS BROADCAST 5 OR 6 TIMES A DAY: (A FEW 5 MINUTE SUMMARIES, ONE OR TWO 15 MINUTE BROADCASTS AND ONE 30 MINUTE BROADC",
+    "2.0": "A NEWS BROADCAST EVERY HOUR: (USUALLY 1 MINUTE SUMMARIES, SOMETIMES 5 MINUTE SUMMARIES)",
+    "3.0": "IT DOESN'T MATTER TO ME"
+  },
+  "S227.Q17.1": {
+    "1.0": "IT DOESN'T MATTER TO ME",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q17.2": {
+    "1.0": "MIDNIGHT",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q17.3": {
+    "1.0": "1 A.M.",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q17.4": {
+    "1.0": "2 A.M.",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q17.5": {
+    "1.0": "3, 4, 5 A.M.",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q17.6": {
+    "1.0": "6 A.M.",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q17.7": {
+    "1.0": "7 A.M.",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q17.8": {
+    "1.0": "8 A.M.",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q17.9": {
+    "1.0": "9 A.M.",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q17.10": {
+    "1.0": "10 A.M.",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q17.11": {
+    "1.0": "11 A.M.",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q17.12": {
+    "1.0": "12 NOON",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q17.13": {
+    "1.0": "1 P.M.",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q17.14": {
+    "1.0": "2 P.M.",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q17.15": {
+    "1.0": "3 P.M.",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q17.16": {
+    "1.0": "4 P.M.",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q17.17": {
+    "1.0": "5 P.M.",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q17.18": {
+    "1.0": "6 P.M.",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q17.19": {
+    "1.0": "7 P.M.",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q17.20": {
+    "1.0": "8 P.M.",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q17.21": {
+    "1.0": "9 P.M.",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q17.22": {
+    "1.0": "10 P.M.",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q17.23": {
+    "1.0": "11 P.M.",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q17.24": {
+    "1.0": "NO ANSWER",
+    "2.0": "NOT CHOSEN"
+  },
+  "S227.Q18": {
+    "NaN": "COLS. 79-80 NOT USED. CARD 2",
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "IT DOESN'T MATTER TO ME",
+    "2.0": "12 MIDNIGHT",
+    "3.0": "1 A.M.",
+    "4.0": "2 A.M.",
+    "5.0": "3, 4, 5 A.M.",
+    "6.0": "6 A.M.",
+    "7.0": "7 A.M.",
+    "8.0": "8 A.M.",
+    "9.0": "9 A.M.",
+    "10.0": "10 A.M.",
+    "11.0": "11 A.M.",
+    "12.0": "12 NOON",
+    "13.0": "1 P.M.",
+    "14.0": "2 P.M.",
+    "15.0": "3 P.M.",
+    "16.0": "4 P.M.",
+    "17.0": "5 P.M.",
+    "18.0": "6 P.M.",
+    "19.0": "7 P.M.",
+    "20.0": "8 P.M.",
+    "21.0": "9 P.M.",
+    "22.0": "10 P.M.",
+    "23.0": "11 P.M.",
+    "24.0": "NO ANSWER"
+  },
+  "FORM..1": {
+    "1.0": "B FORM",
+    "2.0": "C FORM \\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*PART 2\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\"
+  },
+  "S227.Qi1": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NOT SURE",
+    "9.0": "INAPPLICABLE (C FORM)"
+  },
+  "S227.Qi1A": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL INTERESTED",
+    "2.0": "A LITTLE INTERESTED",
+    "3.0": "FAIRLY INTERESTED",
+    "4.0": "VERY MUCH INTERESTED",
+    "9.0": "INAPPLICABLE (C FORM)"
+  },
+  "S227.Qi2": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NOT SURE",
+    "9.0": "INAPPLICABLE (C FORM)"
+  },
+  "S227.Qi2A": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL INTERESTED",
+    "2.0": "A LITTLE INTERESTED",
+    "3.0": "FAIRLY INTERESTED",
+    "4.0": "VERY MUCH INTERESTED",
+    "9.0": "INAPPLICABLE (C FORM)"
+  },
+  "S227.Qi3": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NOT SURE",
+    "9.0": "INAPPLICABLE (C FORM)"
+  },
+  "S227.Qi3A": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL INTERESTED",
+    "2.0": "A LITTLE INTERESTED",
+    "3.0": "FAIRLY INTERESTED",
+    "4.0": "VERY MUCH INTERESTED",
+    "9.0": "INAPPLICABLE (C FORM)"
+  },
+  "S227.Qi4": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NOT SURE",
+    "9.0": "INAPPLICABLE (C FORM)"
+  },
+  "S227.Qi4A": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL INTERESTED",
+    "2.0": "A LITTLE INTERESTED",
+    "3.0": "FAIRLY INTERESTED",
+    "4.0": "VERY MUCH INTERESTED",
+    "9.0": "INAPPLICABLE (C FORM)"
+  },
+  "S227.Qi5": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NOT SURE",
+    "9.0": "INAPPLICABLE (C FORM)"
+  },
+  "S227.Qi5A": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL INTERESTED",
+    "2.0": "A LITTLE INTERESTED",
+    "3.0": "FAIRLY INTERESTED",
+    "4.0": "VERY MUCH INTERESTED",
+    "9.0": "INAPPLICABLE (C FORM)"
+  },
+  "S227.Qi6": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NOT SURE",
+    "9.0": "INAPPLICABLE (C FORM)"
+  },
+  "S227.Qi6A": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL INTERESTED",
+    "2.0": "A LITTLE INTERESTED",
+    "3.0": "FAIRLY INTERESTED",
+    "4.0": "VERY MUCH INTERESTED",
+    "9.0": "INAPPLICABLE (C FORM)"
+  },
+  "S227.Qi7": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NOT SURE",
+    "9.0": "INAPPLICABLE (C FORM)"
+  },
+  "S227.Qi7A": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL INTERESTED",
+    "2.0": "A LITTLE INTERESTED",
+    "3.0": "FAIRLY INTERESTED",
+    "4.0": "VERY MUCH INTERESTED",
+    "9.0": "INAPPLICABLE (C FORM)"
+  },
+  "S227.Qi8": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NOT SURE",
+    "9.0": "INAPPLICABLE (C FORM)"
+  },
+  "S227.Qi8A": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL INTERESTED",
+    "2.0": "A LITTLE INTERESTED",
+    "3.0": "FAIRLY INTERESTED",
+    "4.0": "VERY MUCH INTERESTED",
+    "9.0": "INAPPLICABLE (C FORM)"
+  },
+  "S227.Qi9": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NOT SURE",
+    "9.0": "INAPPLICABLE (C FORM)"
+  },
+  "S227.Qi9A": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL INTERESTED",
+    "2.0": "A LITTLE INTERESTED",
+    "3.0": "FAIRLY INTERESTED",
+    "4.0": "VERY MUCH INTERESTED",
+    "9.0": "INAPPLICABLE (C FORM)"
+  },
+  "S227.Qi10": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NOT SURE",
+    "9.0": "INAPPLICABLE (C FORM)"
+  },
+  "S227.Qi10A": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL INTERESTED",
+    "2.0": "A LITTLE INTERESTED",
+    "3.0": "FAIRLY INTERESTED",
+    "4.0": "VERY MUCH INTERESTED",
+    "9.0": "INAPPLICABLE (C FORM)"
+  },
+  "S227.Qi11": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NOT SURE",
+    "9.0": "INAPPLICABLE (C FORM)"
+  },
+  "S227.Qi11A": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL INTERESTED",
+    "2.0": "A LITTLE INTERESTED",
+    "3.0": "FAIRLY INTERESTED",
+    "4.0": "VERY MUCH INTERESTED",
+    "9.0": "INAPPLICABLE (C FORM)"
+  },
+  "S227.Qi12": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NOT SURE",
+    "9.0": "INAPPLICABLE (C FORM)"
+  },
+  "S227.Qi12A": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL INTERESTED",
+    "2.0": "A LITTLE INTERESTED",
+    "3.0": "FAIRLY INTERESTED",
+    "4.0": "VERY MUCH INTERESTED",
+    "9.0": "INAPPLICABLE (C FORM)"
+  },
+  "S227.Qi13": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NOT SURE",
+    "9.0": "INAPPLICABLE (C FORM)"
+  },
+  "S227.Qi13A": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL INTERESTED",
+    "2.0": "A LITTLE INTERESTED",
+    "3.0": "FAIRLY INTERESTED",
+    "4.0": "VERY MUCH INTERESTED",
+    "9.0": "INAPPLICABLE (C FORM)"
+  },
+  "S227.Qi14": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NOT SURE",
+    "9.0": "INAPPLICABLE (C FORM)"
+  },
+  "S227.Qi14A": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL INTERESTED",
+    "2.0": "A LITTLE INTERESTED",
+    "3.0": "FAIRLY INTERESTED",
+    "4.0": "VERY MUCH INTERESTED",
+    "9.0": "INAPPLICABLE (C FORM)"
+  },
+  "S227.Qi15": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NOT SURE",
+    "9.0": "INAPPLICABLE (C FORM)"
+  },
+  "S227.Qi15A": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL INTERESTED",
+    "2.0": "A LITTLE INTERESTED",
+    "3.0": "FAIRLY INTERESTED",
+    "4.0": "VERY MUCH INTERESTED",
+    "9.0": "INAPPLICABLE (C FORM)"
+  },
+  "S227.Qi16": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NOT SURE",
+    "9.0": "INAPPLICABLE (C FORM)"
+  },
+  "S227.Qi16A": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL INTERESTED",
+    "2.0": "A LITTLE INTERESTED",
+    "3.0": "FAIRLY INTERESTED",
+    "4.0": "VERY MUCH INTERESTED",
+    "9.0": "INAPPLICABLE (C FORM)"
+  },
+  "S227.Qi17A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NOT SURE",
+    "9.0": "INAPPLICABLE (C FORM)"
+  },
+  "S227.Qi17B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL INTERESTED",
+    "2.0": "A LITTLE INTERESTED",
+    "3.0": "FAIRLY INTERESTED",
+    "4.0": "VERY MUCH INTERESTED",
+    "9.0": "INAPPLICABLE (C FORM)"
+  },
+  "S227.Qi18A": {
+    "NaN": "QUESTION 18B NOT CODED BY SURVEY ORGANIZATION.",
+    "0.0": "NO ANSWER",
+    "1.0": "VERY FAVORABLE",
+    "2.0": "FAIRLY FAVORABLE",
+    "3.0": "RATHER UNFAVORABLE",
+    "4.0": "VERY UNFAVORABLE",
+    "9.0": "INAPPLICABLE (C FORM)"
+  },
+  "S227.Qi19A": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY FAVORABLE",
+    "2.0": "FAIRLY FAVORABLE",
+    "3.0": "RATHER UNFAVORABLE",
+    "4.0": "VERY UNFAVORABLE",
+    "9.0": "INAPPLICABLE (C FORM)",
+    "NaN": "QUESTION 19B NOT CODED BY SURVEY ORGANIZATION."
+  },
+  "S227.Qi20A": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY FAVORABLE",
+    "2.0": "FAIRLY FAVORABLE",
+    "3.0": "RATHER UNFAVORABLE",
+    "4.0": "VERY UNFAVORABLE",
+    "9.0": "INAPPLICABLE (C FORM)",
+    "NaN": "QUESTIONS 20B AND 21 NOT CODED BY SURVEY ORGANIZATION."
+  },
+  "S227.Qii1": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NOT SURE",
+    "9.0": "INAPPLICABLE (B FORM)"
+  },
+  "S227.Qii1A": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL INTERESTED",
+    "2.0": "A LITTLE INTERESTED",
+    "3.0": "FAIRLY INTERESTED",
+    "4.0": "VERY MUCH INTERESTED",
+    "9.0": "INAPPLICABLE (B FORM)"
+  },
+  "S227.Qii2": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NOT SURE",
+    "9.0": "INAPPLICABLE (B FORM)"
+  },
+  "S227.Qii2A": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL INTERESTED",
+    "2.0": "A LITTLE INTERESTED",
+    "3.0": "FAIRLY INTERESTED",
+    "4.0": "VERY MUCH INTERESTED",
+    "9.0": "INAPPLICABLE (B FORM)"
+  },
+  "S227.Qii3": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NOT SURE",
+    "9.0": "INAPPLICABLE (B FORM)"
+  },
+  "S227.Qii3A": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL INTERESTED",
+    "2.0": "A LITTLE INTERESTED",
+    "3.0": "FAIRLY INTERESTED",
+    "4.0": "VERY MUCH INTERESTED",
+    "9.0": "INAPPLICABLE (B FORM)"
+  },
+  "S227.Qii4": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NOT SURE",
+    "9.0": "INAPPLICABLE (B FORM)"
+  },
+  "S227.Qii4A": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL INTERESTED",
+    "2.0": "A LITTLE INTERESTED",
+    "3.0": "FAIRLY INTERESTED",
+    "4.0": "VERY MUCH INTERESTED",
+    "9.0": "INAPPLICABLE (B FORM)"
+  },
+  "S227.Qii5": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NOT SURE",
+    "9.0": "INAPPLICABLE (B FORM)"
+  },
+  "S227.Qii5A": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL INTERESTED",
+    "2.0": "A LITTLE INTERESTED",
+    "3.0": "FAIRLY INTERESTED",
+    "4.0": "VERY MUCH INTERESTED",
+    "9.0": "INAPPLICABLE (B FORM)"
+  },
+  "S227.Qii6": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NOT SURE",
+    "9.0": "INAPPLICABLE (B FORM)"
+  },
+  "S227.Qii6A": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL INTERESTED",
+    "2.0": "A LITTLE INTERESTED",
+    "3.0": "FAIRLY INTERESTED",
+    "4.0": "VERY MUCH INTERESTED",
+    "9.0": "INAPPLICABLE (B FORM)"
+  },
+  "S227.Qii7": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NOT SURE",
+    "9.0": "INAPPLICABLE (B FORM)"
+  },
+  "S227.Qii7A": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL INTERESTED",
+    "2.0": "A LITTLE INTERESTED",
+    "3.0": "FAIRLY INTERESTED",
+    "4.0": "VERY MUCH INTERESTED",
+    "9.0": "INAPPLICABLE (B FORM)"
+  },
+  "S227.Qii8": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NOT SURE",
+    "9.0": "INAPPLICABLE (B FORM)"
+  },
+  "S227.Qii8A": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL INTERESTED",
+    "2.0": "A LITTLE INTERESTED",
+    "3.0": "FAIRLY INTERESTED",
+    "4.0": "VERY MUCH INTERESTED",
+    "9.0": "INAPPLICABLE (B FORM)"
+  },
+  "S227.Qii9": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NOT SURE",
+    "9.0": "INAPPLICABLE (B FORM)"
+  },
+  "S227.Qii9A": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL INTERESTED",
+    "2.0": "A LITTLE INTERESTED",
+    "3.0": "FAIRLY INTERESTED",
+    "4.0": "VERY MUCH INTERESTED",
+    "9.0": "INAPPLICABLE (B FORM)"
+  },
+  "S227.Qii10": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NOT SURE",
+    "9.0": "INAPPLICABLE (B FORM)"
+  },
+  "S227.Qii10A": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL INTERESTED",
+    "2.0": "A LITTLE INTERESTED",
+    "3.0": "FAIRLY INTERESTED",
+    "4.0": "VERY MUCH INTERESTED",
+    "9.0": "INAPPLICABLE (B FORM)"
+  },
+  "S227.Qii11": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NOT SURE",
+    "9.0": "INAPPLICABLE (B FORM)"
+  },
+  "S227.Qii11A": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL INTERESTED",
+    "2.0": "A LITTLE INTERESTED",
+    "3.0": "FAIRLY INTERESTED",
+    "4.0": "VERY MUCH INTERESTED",
+    "9.0": "INAPPLICABLE (B FORM)"
+  },
+  "S227.Qii12": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NOT SURE",
+    "9.0": "INAPPLICABLE (B FORM)"
+  },
+  "S227.Qii12A": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL INTERESTED",
+    "2.0": "A LITTLE INTERESTED",
+    "3.0": "FAIRLY INTERESTED",
+    "4.0": "VERY MUCH INTERESTED",
+    "9.0": "INAPPLICABLE (B FORM)"
+  },
+  "S227.Qii13": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NOT SURE",
+    "9.0": "INAPPLICABLE (B FORM)"
+  },
+  "S227.Qii13A": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL INTERESTED",
+    "2.0": "A LITTLE INTERESTED",
+    "3.0": "FAIRLY INTERESTED",
+    "4.0": "VERY MUCH INTERESTED",
+    "9.0": "INAPPLICABLE (B FORM)"
+  },
+  "S227.Qii14": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NOT SURE",
+    "9.0": "INAPPLICABLE (B FORM)"
+  },
+  "S227.Qii14A": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL INTERESTED",
+    "2.0": "A LITTLE INTERESTED",
+    "3.0": "FAIRLY INTERESTED",
+    "4.0": "VERY MUCH INTERESTED",
+    "9.0": "INAPPLICABLE (B FORM)"
+  },
+  "S227.Qii15": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NOT SURE",
+    "9.0": "INAPPLICABLE (B FORM)"
+  },
+  "S227.Qii15A": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL INTERESTED",
+    "2.0": "A LITTLE INTERESTED",
+    "3.0": "FAIRLY INTERESTED",
+    "4.0": "VERY MUCH INTERESTED",
+    "9.0": "INAPPLICABLE (B FORM)"
+  },
+  "S227.Qii16A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NOT SURE",
+    "9.0": "INAPPLICABLE (B FORM)"
+  },
+  "S227.Qii16B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOT AT ALL INTERESTED",
+    "2.0": "A LITTLE INTERESTED",
+    "3.0": "FAIRLY INTERESTED",
+    "4.0": "VERY MUCH INTERESTED",
+    "9.0": "INAPPLICABLE (B FORM)"
+  },
+  "S227.Qii17A": {
+    "NaN": "Q.17B NOT CODED BY SURVEY ORGANIZATION.",
+    "0.0": "NO ANSWER",
+    "1.0": "VERY FAVORABLE",
+    "2.0": "FAIRLY FAVORABLE",
+    "3.0": "RATHER UNFAVORABLE",
+    "4.0": "VERY UNFAVORABLE",
+    "9.0": "INAPPLICABLE (B FORM)"
+  },
+  "FORM..2": {
+    "1.0": "B FORM",
+    "2.0": "C FORM"
+  },
+  "S227.Qii18A": {
+    "NaN": "Q.18B NOT CODED BY SURVEY ORGANIZATION.",
+    "0.0": "NO ANSWER",
+    "1.0": "VERY FAVORABLE",
+    "2.0": "FAIRLY FAVORABLE",
+    "3.0": "RATHER UNFAVORABLE",
+    "4.0": "VERY UNFAVORABLE",
+    "9.0": "INAPPLICABLE (B FORM)"
+  },
+  "S227.Qii19A": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY FAVORABLE",
+    "2.0": "FAIRLY FAVORABLE",
+    "3.0": "RATHER UNFAVORABLE",
+    "4.0": "VERY UNFAVORABLE",
+    "9.0": "INAPPLICABLE (B FORM)",
+    "NaN": "QUESTIONS 19B AND 20 NOT CODED BY SURVEY ORGANIZATION."
+  }
+}

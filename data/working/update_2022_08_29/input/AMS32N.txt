@@ -1,0 +1,1451 @@
+FORM Y. Col. 9
+                   answer_label answer_value raw_counts relative_frequency
+0  Sample of Negro enlisted men          1.0       7442                1.0
+
+
+
+S32N.VI Cross-Section Identification: E. While the complete sample for S-32 included a representative cross-section of 3000 Negro and 4800 white troops (AMS-032W) in the U.S. to be used for cross-section comparisons, the Negro sample was augmented to over 7400 t
+          answer_label answer_value raw_counts relative_frequency
+0  Cross-section cases          1.0       2992                0.4
+1      All other cases          2.0       4450                0.6
+
+
+
+S32N.Q1How old were you on your last birthday?
+          answer_label answer_value raw_counts relative_frequency
+0            No Answer          0.0         89               0.01
+1  19 years or younger          1.0        262               0.04
+2             20 years          2.0        498               0.07
+3       21 to 24 years          3.0       2679               0.36
+4                25 to          4.0       1241               0.17
+5       28 to 29 years          5.0        623               0.08
+6       30 to 34 years          6.0       1066               0.14
+7    35 years or older          7.0        984               0.13
+
+
+
+S32N.Q2 How far did you go in school?
+                         answer_label answer_value raw_counts relative_frequency
+0   No code or no data - 3 - AMS-032N          0.0          2                0.0
+1                 Less than 4th grade          1.0        776                0.1
+2                  Finished 4th grade          2.0        364               0.05
+3                  Finished 5th grade          3.0        497               0.07
+4                  Finished 6th grade          4.0        599               0.08
+5                  Finished 7th grade          5.0        781                0.1
+6                  Finished 8th grade          6.0       1143               0.15
+7    Some high school or trade school          7.0       1540               0.21
+8          Graduated from high school          8.0        990               0.13
+9     Some college but did not finish          9.0        556               0.07
+10             Graduated from college         10.0        145               0.02
+11                          No Answer         11.0         49               0.01
+
+
+
+S32N.Q3How did you come into the Army?
+                  answer_label answer_value raw_counts relative_frequency
+0           No code or no data          0.0          6                0.0
+1                I was drafted          1.0       6074               0.82
+2                I volunteered          2.0       1202               0.16
+3  I was in the National Guard          3.0         40               0.01
+4                    No Answer          4.0        120               0.02
+
+
+
+S32N.Q4 What branch of the service are you in? (If your branch is not listed write it out)
+                              answer_label answer_value raw_counts relative_frequency
+0        No code or no data - 4 - AMS-032N          0.0          9                0.0
+1                                  Cavalry          1.0          5                0.0
+2                                Engineers          2.0        856               0.12
+3                                 Infantry          3.0       1500                0.2
+4                          Field artillery          4.0        600               0.08
+5                             Signal corps          5.0        125               0.02
+6                            Medical corps          6.0        690               0.09
+7                      Ordnance Department          7.0        366               0.05
+8                      Quartermaster Corps          8.0       1355               0.18
+9                         Chemical Warfare          9.0         64               0.01
+10              Armored Force (Tank Corps)         10.0        293               0.04
+11  Undesignated Code (possibly Air Corps)         11.0        833               0.11
+12                       Undesignated Code         12.0        436               0.06
+13                       Undesignated Code         13.0        217               0.03
+14                       Undesignated Code         14.0         93               0.01
+
+
+
+S32N.Q5.1If you could have a free chance to choose your branch of service now, which one would you rather be in?
+  answer_label answer_value raw_counts relative_frequency
+0      Cavalry          1.0        414               0.06
+1   Not chosen          2.0       7028               0.94
+
+
+
+S32N.Q5.2If you could have a free chance to choose your branch of service now, which one would you rather be in?
+  answer_label answer_value raw_counts relative_frequency
+0    Engineers          1.0        451               0.06
+1   Not chosen          2.0       6991               0.94
+
+
+
+S32N.Q5.3If you could have a free chance to choose your branch of service now, which one would you rather be in?
+  answer_label answer_value raw_counts relative_frequency
+0     Infantry          1.0        379               0.05
+1   Not chosen          2.0       7063               0.95
+
+
+
+S32N.Q5.4If you could have a free chance to choose your branch of service now, which one would you rather be in?
+      answer_label answer_value raw_counts relative_frequency
+0  Field Artillery          1.0        546               0.07
+1       Not chosen          2.0       6896               0.93
+
+
+
+S32N.Q5.5If you could have a free chance to choose your branch of service now, which one would you rather be in?
+   answer_label answer_value raw_counts relative_frequency
+0  Signal Corps          1.0        275               0.04
+1    Not chosen          2.0       7167               0.96
+
+
+
+S32N.Q5.6If you could have a free chance to choose your branch of service now, which one would you rather be in?
+    answer_label answer_value raw_counts relative_frequency
+0  Medical Corps          1.0        712                0.1
+1     Not chosen          2.0       6730                0.9
+
+
+
+S32N.Q5.7If you could have a free chance to choose your branch of service now, which one would you rather be in?
+          answer_label answer_value raw_counts relative_frequency
+0  Ordnance Department          1.0        404               0.05
+1           Not chosen          2.0       7038               0.95
+
+
+
+S32N.Q5.8If you could have a free chance to choose your branch of service now, which one would you rather be in?
+          answer_label answer_value raw_counts relative_frequency
+0  Quartermaster Corps          1.0       1493                0.2
+1           Not chosen          2.0       5949                0.8
+
+
+
+S32N.Q5.9If you could have a free chance to choose your branch of service now, which one would you rather be in?
+                 answer_label answer_value raw_counts relative_frequency
+0  Armored Force (Tank Corps)          1.0        277               0.04
+1   Not chosen - 5 - AMS-032N          2.0       7165               0.96
+
+
+
+S32N.Q5.10If you could have a free chance to choose your branch of service now, which one would you rather be in?
+       answer_label answer_value raw_counts relative_frequency
+0  Chemical Warfare          1.0        141               0.02
+1        Not chosen          2.0       7301               0.98
+
+
+
+S32N.Q5.11If you could have a free chance to choose your branch of service now, which one would you rather be in?
+                             answer_label answer_value raw_counts relative_frequency
+0  Undesignated code (possibly Air Corps)          1.0       1742               0.23
+1                              Not chosen          2.0       5700               0.77
+
+
+
+S32N.Q5.12If you could have a free chance to choose your branch of service now, which one would you rather be in?
+                   answer_label answer_value raw_counts relative_frequency
+0  Other branches, undesignated          1.0        395               0.05
+1                    Not chosen          2.0       7047               0.95
+
+
+
+S32N.Q5.13If you could have a free chance to choose your branch of service now, which one would you rather be in?
+       answer_label answer_value raw_counts relative_frequency
+0  No answer to Q.5          1.0        329               0.04
+1        Not chosen          2.0       7113               0.96
+
+
+
+S32N.Q6What kind of a chance is the Army giving you to show what you can do?
+           answer_label answer_value raw_counts relative_frequency
+0             No Answer          0.0         92               0.01
+1    A very good chance          1.0       1943               0.26
+2  A fairly good chance          2.0       2404               0.32
+3             Undecided          3.0        573               0.08
+4  Not much of a chance          4.0       1505                0.2
+5      No chance at all          5.0        925               0.12
+
+
+
+S32N.Q7How do you feel about the bus service to and from camp for the soldiers in your outfit?
+                        answer_label answer_value raw_counts relative_frequency
+0  No code or no data - 6 - AMS-032N          0.0          2                0.0
+1                    It is very good          1.0        861               0.12
+2                  It is fairly good          2.0       1484                0.2
+3                         It is poor          3.0       1502                0.2
+4                    It is very poor          4.0       2919               0.39
+5                         Don't know          5.0        557               0.07
+6                          No Answer          6.0        117               0.02
+
+
+
+S32N.Q7A.1Write any comments you have about bus service here:
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0  Criticisms of operation (too crowded, too infrequent, too small, wait too long, schedules irregular, prices too high, et          1.0       1654               0.22
+1                                                                                                                Not chosen          2.0       5788               0.78
+
+
+
+S32N.Q7A.2Write any comments you have about bus service here:
+                             answer_label answer_value raw_counts relative_frequency
+0  Civilians treated better than soldiers          1.0         40               0.01
+1                              Not chosen          2.0       7402               0.99
+
+
+
+S32N.Q7A.3Write any comments you have about bus service here:
+                                answer_label answer_value raw_counts relative_frequency
+0  Officers treated better than enlisted men          1.0         19                0.0
+1                                 Not chosen          2.0       7423                1.0
+
+
+
+S32N.Q7A.4Write any comments you have about bus service here:
+                                                            answer_label answer_value raw_counts relative_frequency
+0  Whites treated better than Negroes, "segregation", any racial comment          1.0        924               0.12
+1                                                             Not chosen          2.0       6518               0.88
+
+
+
+S32N.Q7A.5Write any comments you have about bus service here:
+                                                                answer_label answer_value raw_counts relative_frequency
+0  Merely a repetitious restatement of check-list answers (service is awful)          1.0        608               0.08
+1                                                                 Not chosen          2.0       6834               0.92
+
+
+
+S32N.Q7A.6Write any comments you have about bus service here:
+  answer_label answer_value raw_counts relative_frequency
+0        Other          1.0        243               0.03
+1   Not chosen          2.0       7199               0.97
+
+
+
+S32N.Q7A.7Write any comments you have about bus service here:
+   answer_label answer_value raw_counts relative_frequency
+0    No comment          1.0       4128               0.55
+1  Not chosen -          2.0       3314               0.45
+
+
+
+S32N.Q8Do you think you might want to stay in the Army after the war?
+                             answer_label answer_value raw_counts relative_frequency
+0                               No Answer          0.0         66               0.01
+1          Yes, I would want to very much          1.0        431               0.06
+2  Yes, I might want to, but I'm not sure          2.0       1681               0.23
+3       No, I don't think I would want to          3.0       1848               0.25
+4          No, I would not want to at all          4.0       2384               0.32
+5                               Undecided          5.0       1032               0.14
+
+
+
+S32N.Q9After the war do you think you would like to come back to your old outfit for two weeks of Army training every year?
+                             answer_label answer_value raw_counts relative_frequency
+0                               No Answer          0.0         82               0.01
+1          Yes, I would want to very much          1.0       2831               0.38
+2  Yes, I might want to, but I'm not sure          2.0       1810               0.24
+3       No, I don't think I would want to          3.0        835               0.11
+4          No, I would not want to at all          4.0       1254               0.17
+5                               Undecided          5.0        630               0.08
+
+
+
+S32N.Q10If you could go to any Army camp you wanted to, would you rather stay here or would you rather go to some other camp?
+                           answer_label answer_value raw_counts relative_frequency
+0                             No Answer          0.0        124               0.02
+1              I would rather stay here          1.0       1745               0.23
+2  I would rather go to some other camp          2.0       5002               0.67
+3                             Undecided          3.0        571               0.08
+
+
+
+S32N.Q11 If you would like to go to any other Army camp in the United States, which one would you want to go to?
+                   answer_label answer_value raw_counts relative_frequency
+0            No code or no data          0.0       3259               0.44
+1   Inapplicable (Q.10 coded 1)          6.0          1                0.0
+2                         Maine         11.0          1                0.0
+3                       Vermont         13.0          1                0.0
+4                 Massachusetts         14.0         99               0.01
+5                      New York         21.0        290               0.04
+6                    New Jersey         22.0        695               0.09
+7                  Pennsylvania         23.0         73               0.01
+8                          Ohio         31.0         98               0.01
+9                       Indiana         32.0         59               0.01
+10                     Illinois         33.0         86               0.01
+11                     Michigan         34.0        443               0.06
+12                    Wisconsin         35.0          3                0.0
+13                    Minnesota         41.0          2                0.0
+14                         Iowa         42.0          6                0.0
+15                     Missouri         43.0         97               0.01
+16                     Nebraska         46.0          5                0.0
+17                       Kansas         47.0         79               0.01
+18                     Delaware         51.0          4                0.0
+19                     Maryland         52.0        180               0.02
+20         District of Columbia         53.0          8                0.0
+21                     Virginia         54.0        235               0.03
+22                West Virginia         55.0          2                0.0
+23               North Carolina         56.0        188               0.03
+24               South Carolina         57.0         69               0.01
+25                      Georgia         58.0        163               0.02
+26                      Florida         59.0        112               0.02
+27                     Kentucky         61.0        161               0.02
+28                    Tennessee         62.0         66               0.01
+29                      Alabama         63.0        123               0.02
+30                  Mississippi         64.0         89               0.01
+31                     Arkansas         71.0         37                0.0
+32                    Louisiana         72.0        187               0.03
+33                     Oklahoma         73.0         91               0.01
+34                        Texas         74.0        192               0.03
+35                      Wyoming         83.0          5                0.0
+36                     Colorado         84.0         16                0.0
+37                   New Mexico         85.0          1                0.0
+38                      Arizona         86.0         51               0.01
+39                         Utah         87.0          1                0.0
+40                   Washington         91.0         14                0.0
+41                       Oregon         92.0          2                0.0
+42                   California         93.0        148               0.02
+
+
+
+S32N.Q12In general, where would you like best to be stationed?
+             answer_label answer_value raw_counts relative_frequency
+0      No code or no data          0.0          4                0.0
+1  In a camp in the North          1.0       4659               0.63
+2  In a camp in the South          2.0       1539               0.21
+3   In a camp in the West          3.0        657               0.09
+4               Undecided          4.0        439               0.06
+5               No Answer          5.0        144               0.02
+
+
+
+S32N.Q12A.1In general, where would you like best to be stationed? Why?
+                answer_label answer_value raw_counts relative_frequency
+0  Closer to home, or family          1.0       1475                0.2
+1                 Not chosen          2.0       5967                0.8
+
+
+
+S32N.Q12A.2In general, where would you like best to be stationed? Why?
+                                            answer_label answer_value raw_counts relative_frequency
+0  Habit (used to the South, or North, born there, etc.)          1.0        607               0.08
+1                                           Not chosen -          2.0       6835               0.92
+
+
+
+S32N.Q12A.3In general, where would you like best to be stationed? Why?
+                                                                                                  answer_label answer_value raw_counts relative_frequency
+0  (Negro only) racial and/or sectional differences (better treatment in North, discrimination in south, etc.)          1.0       2619               0.35
+1                                                                                                   Not chosen          2.0       4823               0.65
+
+
+
+S32N.Q12A.4In general, where would you like best to be stationed? Why?
+     answer_label answer_value raw_counts relative_frequency
+0  Prefer climate          1.0        661               0.09
+1      Not chosen          2.0       6781               0.91
+
+
+
+S32N.Q12A.5In general, where would you like best to be stationed? Why?
+                                          answer_label answer_value raw_counts relative_frequency
+0  Adventure (want to see places where I haven't been)          1.0         85               0.01
+1                                           Not chosen          2.0       7357               0.99
+
+
+
+S32N.Q12A.6In general, where would you like best to be stationed? Why?
+                                                              answer_label answer_value raw_counts relative_frequency
+0  Farther from home (so I won't be close enough to home to feel homesick)          1.0          8                0.0
+1                                                               Not chosen          2.0       7434                1.0
+
+
+
+S32N.Q12A.7In general, where would you like best to be stationed? Why?
+                                                                     answer_label answer_value raw_counts relative_frequency
+0  Restatement of preference without reasons given (I just like the South better)          1.0        558               0.07
+1                                                                      Not chosen          2.0       6884               0.93
+
+
+
+S32N.Q12A.8In general, where would you like best to be stationed? Why?
+                                        answer_label answer_value raw_counts relative_frequency
+0  Better Army training (specific military training)          1.0         23                0.0
+1                                         Not chosen          2.0       7419                1.0
+
+
+
+S32N.Q12A.9In general, where would you like best to be stationed? Why?
+  answer_label answer_value raw_counts relative_frequency
+0        Other          1.0        339               0.05
+1   Not chosen          2.0       7103               0.95
+
+
+
+S32N.Q12A.10In general, where would you like best to be stationed? Why?
+   answer_label answer_value raw_counts relative_frequency
+0    No comment          1.0       1585               0.21
+1  Not chosen -          2.0       5857               0.79
+
+
+
+S32N.Q14Where were you living before you entered the Army?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                       No Answer -          0.0         76               0.01
+1                       On a farm or in the country          1.0       1067               0.14
+2         In a small town (fewer than 2,500 people)          2.0        691               0.09
+3  In a town (with between 2,500 and 25,000 people)          3.0       1062               0.14
+4     In a city (between 25,000 and 100,000 people)          4.0       1692               0.23
+5        In a large city (more than 100,000 people)          5.0       2854               0.38
+
+
+
+S32N.Q15Think for a minute about the different sergeants and corporals you have served with. How fair do most of them seem to be with their men?
+                   answer_label answer_value raw_counts relative_frequency
+0                     No Answer          0.0         94               0.01
+1         Most of them are fair          1.0       4163               0.56
+2  About half are; half are not          2.0       2014               0.27
+3     Most of them are not fair          3.0        976               0.13
+4                     Undecided          4.0        195               0.03
+
+
+
+S32N.Q16 What is your own rank or grade?  R. Col 59
+                                          answer_label answer_value raw_counts relative_frequency
+0                                            No Answer          0.0         58               0.01
+1                       Private or private first class          1.0       5484               0.74
+2                     Corporal or technician 5th grade          2.0       1018               0.14
+3  Sergeant (any grade) or technician 3rd or 4th grade          3.0        882               0.12
+
+
+
+S32N.Q17If you are a private, do you want to be a noncom?
+                    answer_label answer_value raw_counts relative_frequency
+0           No code or no data -          0.0          1                0.0
+1                            Yes          1.0       4174               0.56
+2                             No          2.0        718                0.1
+3                      Undecided          3.0        563               0.08
+4  Inapplicable (already noncom)          4.0       1869               0.25
+5                      No Answer          5.0        117               0.02
+
+
+
+S32N.Q18Do you want to be a commissioned Officer?
+  answer_label answer_value raw_counts relative_frequency
+0    No Answer          0.0        156               0.02
+1          Yes          1.0       3810               0.51
+2           No          2.0       2254                0.3
+3    Undecided          3.0       1222               0.16
+
+
+
+S32N.Q18A.1(Do you want to be a Commissioned Officer?) If no, why not?
+        answer_label answer_value raw_counts relative_frequency
+0  Lack of education          1.0        541               0.07
+1         Not chosen          2.0       6901               0.93
+
+
+
+S32N.Q18A.2(Do you want to be a Commissioned Officer?) If no, why not?
+                                    answer_label answer_value raw_counts relative_frequency
+0  Health, physical condition, or age disqualify          1.0        107               0.01
+1                                     Not chosen          2.0       7335               0.99
+
+
+
+S32N.Q18A.3(Do you want to be a Commissioned Officer?) If no, why not?
+                                    answer_label answer_value raw_counts relative_frequency
+0  Not in Army long enough, need more experience          1.0         37                0.0
+1                                     Not chosen          2.0       7405                1.0
+
+
+
+S32N.Q18A.4(Do you want to be a Commissioned Officer?) If no, why not?
+                                                   answer_label answer_value raw_counts relative_frequency
+0  Not good at (or don't want to) handling men or giving orders          1.0         64               0.01
+1                                                    Not chosen          2.0       7378               0.99
+
+
+
+S32N.Q18A.5(Do you want to be a Commissioned Officer?) If no, why not?
+                                                                            answer_label answer_value raw_counts relative_frequency
+0  Simple statement of "I'm not qualified" - but no mention of reasons why not qualified          1.0        310               0.04
+1                                                                             Not chosen          2.0       7132               0.96
+
+
+
+S32N.Q18A.6(Do you want to be a Commissioned Officer?) If no, why not?
+                      answer_label answer_value raw_counts relative_frequency
+0  Too much responsibility or work          1.0        372               0.05
+1                       Not chosen          2.0       7070               0.95
+
+
+
+S32N.Q18A.7(Do you want to be a Commissioned Officer?) If no, why not?
+                                                    answer_label answer_value raw_counts relative_frequency
+0  Would lose or be limited in choice of friends because of rank          1.0         51               0.01
+1                                                   Not chosen -          2.0       7391               0.99
+
+
+
+S32N.Q18A.8(Do you want to be a Commissioned Officer?) If no, why not?
+                                                                answer_label answer_value raw_counts relative_frequency
+0  Dislike or criticism of C.O.'s, including criticism of training of C.O.'s          1.0         81               0.01
+1                                                                 Not chosen          2.0       7361               0.99
+
+
+
+S32N.Q18A.9(Do you want to be a Commissioned Officer?) If no, why not?
+                                                   answer_label answer_value raw_counts relative_frequency
+0  Belief that being a C.O. means staying in Army after the war          1.0         55               0.01
+1                                                    Not chosen          2.0       7387               0.99
+
+
+
+S32N.Q18A.10(Do you want to be a Commissioned Officer?) If no, why not?
+                                                                                              answer_label answer_value raw_counts relative_frequency
+0  Repetition of check list answer (I'd rather be a private or a non-com, I don't want to be a C.O., etc.)          1.0        294               0.04
+1                                                                                               Not chosen          2.0       7148               0.96
+
+
+
+S32N.Q18A.11(Do you want to be a Commissioned Officer?) If no, why not?
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0  (Negro only) Racial objections (Negro officers have no prestige; treated like privates; receive prejudiced treatment, ha          1.0        197               0.03
+1                                                                                                                Not chosen          2.0       7245               0.97
+
+
+
+S32N.Q18A.12(Do you want to be a Commissioned Officer?) If no, why not?
+  answer_label answer_value raw_counts relative_frequency
+0        Other          1.0        372               0.05
+1   Not chosen          2.0       7070               0.95
+
+
+
+S32N.Q18A.13(Do you want to be a Commissioned Officer?) If no, why not?
+               answer_label answer_value raw_counts relative_frequency
+0  Inapplicable, no comment          1.0       5021               0.67
+1              Not chosen -          2.0       2421               0.33
+
+
+
+S32N.Q19When did you come into the Army?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   No Answer          0.0        187               0.03
+1         12/1/42 - present; 3 months or less          1.0        999               0.13
+2  9/1/42 - 11/30/42; 3 months up to 6 months          2.0       2171               0.29
+3     3/1/42 - 8/31/42; 6 months up to 1 year          3.0       2107               0.28
+4      3/1/41 - 2/28/42; 1 year up to 2 years          4.0       1453                0.2
+5                 Before 3/1/41; over 2 years          5.0        525               0.07
+
+
+
+S32N.Q20How interested are you in your Army job?
+            answer_label answer_value raw_counts relative_frequency
+0     No code or no data          0.0          1                0.0
+1   Very much interested          1.0       5362               0.72
+2  A little but not much          2.0       1355               0.18
+3  Not interested at all          3.0        612               0.08
+4              No Answer          4.0        112               0.02
+
+
+
+S32N.Q21What is your main Army job or duty? (What is your job called? For example, rifleman, orderly, stock clerk, electrician, or what?)
+                             answer_label answer_value raw_counts relative_frequency
+0                    No code or no data -          0.0         15                0.0
+1                              Combat job          1.0       1638               0.22
+2    Non-combat, professional or clerical          2.0       1080               0.15
+3                     Non-combat, skilled          3.0       1043               0.14
+4  Non-combat, semi-skilled and unskilled          4.0       1904               0.26
+5                    Combat and technical          5.0        409               0.05
+6                          Basic training          6.0        106               0.01
+7                            Unclassified          7.0        284               0.04
+8                               No Answer          8.0        963               0.13
+
+
+
+S32N.Q22Do the men in your company or battery cooperate, and work well together?
+            answer_label answer_value raw_counts relative_frequency
+0     No code or no data          0.0          2                0.0
+1   Yes, all of the time          1.0       2345               0.32
+2  Yes, most of the time          2.0       3970               0.53
+3       No, often do not          3.0        615               0.08
+4    No, almost never do          4.0        320               0.04
+5              Undecided          5.0        139               0.02
+6              No Answer          6.0         51               0.01
+
+
+
+S32N.Q23In general, what sort of a time do you have in the Army?
+                  answer_label answer_value raw_counts relative_frequency
+0           No code or no data          0.0          1                0.0
+1    I have a pretty good time          1.0       1950               0.26
+2      It is about fifty-fifty          2.0       3648               0.49
+3  I have a pretty rotten time          3.0       1763               0.24
+4                    No Answer          4.0         80               0.01
+
+
+
+S32N.V1Cross-section identification
+          answer_label answer_value raw_counts relative_frequency
+0  Cross-section cases          1.0       2992                0.4
+1      All other cases          2.0       4450                0.6
+
+
+
+S32N.Q24Do you usually feel that what you are doing in the Army is worthwhile or not?
+                          answer_label answer_value raw_counts relative_frequency
+0                   No code or no data          0.0          1                0.0
+1  I usually feel it is not worthwhile          1.0       1563               0.21
+2      I usually feel it is worthwhile          2.0       5072               0.68
+3                            Undecided          3.0        709                0.1
+4                            No Answer          4.0         97               0.01
+
+
+
+S32N.Q25Do you feel proud of your company or battery?
+        answer_label answer_value raw_counts relative_frequency
+0        No Answer -          0.0         66               0.01
+1    Yes, very proud          1.0       4043               0.54
+2  Yes, fairly proud          2.0       2109               0.28
+3      No, not proud          3.0        922               0.12
+4          Undecided          4.0        302               0.04
+
+
+
+S32N.Q26Are you ever worried and upset?
+                         answer_label answer_value raw_counts relative_frequency
+0                           No Answer          0.0         73               0.01
+1  I am hardly ever worried and upset          1.0       1675               0.23
+2                      I am sometimes          2.0       3899               0.52
+3        I am often worried and upset          3.0       1795               0.24
+
+
+
+S32N.Q27Do you think you can make good in the army?
+                         answer_label answer_value raw_counts relative_frequency
+0                  No code or no data          0.0          1                0.0
+1  I feel pretty sure I can make good          1.0       4705               0.63
+2    I am not so sure I can make good          2.0       2150               0.29
+3                           Undecided          3.0        510               0.07
+4                           No Answer          4.0         76               0.01
+
+
+
+S32N.Q28How would you say you felt most of the time, satisfied and in good spirits or dissatisfied and in low spirits?
+                                   answer_label answer_value raw_counts relative_frequency
+0                                     No Answer          0.0         97               0.01
+1                 Satisfied and in good spirits          1.0       2561               0.34
+2  I am up half the time and down half the time          2.0       3352               0.45
+3               Dissatisfied and in low spirits          3.0       1432               0.19
+
+
+
+S32N.Q29How much longer do you think this war will last?
+                                                                 answer_label answer_value raw_counts relative_frequency
+0                                             Less than a year or just "1943"          1.0       1120               0.15
+1                                                                    One year          2.0       1031               0.14
+2                                     Over one to less than two years, "1944"          3.0        878               0.12
+3                                                                   Two years          4.0        969               0.13
+4                                  Over two but less than three years, "1945"          5.0        351               0.05
+5                                                                 Three years          6.0        287               0.04
+6                                                            Over three years          7.0        454               0.06
+7                        Indefinite answer indicating a short time (not long)          8.0        150               0.02
+8              Indefinite answer indicating a long time (several years yet) -          9.0         67               0.01
+9   Indefinite answer with no indication of time (will last until we stop it)         10.0        132               0.02
+10                                                      Don't know, undecided         11.0       1455                0.2
+11                                                                  No Answer         12.0        548               0.07
+
+
+
+S32N.Q30If it were up to you, what kind of outfit would you rather be in?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                No code or no data          0.0          1                0.0
+1                       In a combat outfit overseas          1.0       1277               0.17
+2                   In a non-combat outfit overseas          2.0        766                0.1
+3  In an outfit that will stay in the United States          3.0       5210                0.7
+4                                         No Answer          4.0        188               0.03
+
+
+
+S32N.Q31If your outfit went overseas, would you rather have an actual fighting job or have some other job?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   No Answer          0.0        113               0.02
+1  I would rather have an actual fighting job          1.0       2166               0.29
+2          I would rather have some other job          2.0       3943               0.53
+3                                   Undecided          3.0       1220               0.16
+
+
+
+S32N.Q32If it were up to you to choose, do you think you could do more for your country as a soldier or as a worker in a war job?
+           answer_label answer_value raw_counts relative_frequency
+0  No code or no data -          0.0          1                0.0
+1          As a soldier          1.0       1938               0.26
+2       As a war worker          2.0       4873               0.65
+3             Undecided          3.0        555               0.07
+4             No Answer          4.0         75               0.01
+
+
+
+S32N.Q33Do you think there will be another war in the next 25 years or so?
+         answer_label answer_value raw_counts relative_frequency
+0  No code or no data          0.0          1                0.0
+1                 Yes          1.0       2732               0.37
+2                  No          2.0       2458               0.33
+3           Undecided          3.0       2187               0.29
+4           No Answer          4.0         64               0.01
+
+
+
+S32N.Q34 If you think there will be another war, who do you think will be fighting whom?
+                                                                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                                                       No code or no data -          0.0          2                0.0
+1                                                                                              Civil War or race war in U.S.          1.0        329               0.04
+2                                                                         Dark against light races on an International scale          2.0         39               0.01
+3              Russia with dark allies only (China, Japan, Africa, India) against any other nation or combination of nations          3.0         28                0.0
+4                   Russia with one or more of axis nations besides Japan against any other nation or combination of nations          4.0         24                0.0
+5                    Russia with one or more allied nations besides China against any other nation or combination of nations          5.0         12                0.0
+6                                                   Russia with no allies against any other nation or combination of nations          6.0        650               0.09
+7                                                                                                   Communism vs. Capitalism          7.0          6                0.0
+8   World War III - any line up like World Wars I and II - (same set up as last time, those defeated now fighting the winner          8.0        532               0.07
+9                                                                  Russia is involved, but everything else is indeterminable          9.0        184               0.02
+10                                                                     Race war but whether U.S. or International not stated         10.0        167               0.02
+11                                                                                               Unclassifiable combinations         11.0        545               0.07
+12                                                                                       No answer, don't know, inapplicable         12.0       4924               0.66
+
+
+
+S32N.Q35Up to now, has the war made things better or worse for your family and friends back home (such things as jobs, pay, and living conditions)?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 No Answer          0.0         93               0.01
+1                   Things are a lot better          1.0       1262               0.17
+2  Things are a little better, but not much          2.0       1589               0.21
+3                I don't see any difference          3.0        991               0.13
+4                 Things are a little worse          4.0       1649               0.22
+5                    Things are a lot worse          5.0       1162               0.16
+6                                Don't know          6.0        696               0.09
+
+
+
+S32N.Q36Are you:
+                                answer_label answer_value raw_counts relative_frequency
+0                                  No Answer          0.0        180               0.02
+1                    Single, and not engaged          1.0       2917               0.39
+2                         Single and engaged          2.0       1455                0.2
+3                                    Married          3.0       2223                0.3
+4                                   Divorced          4.0        150               0.02
+5  Separated (before you went into the Army)          5.0        402               0.05
+6                                    Widowed          6.0        115               0.02
+
+
+
+S32N.Q37Were you married before or after entering the Army?
+                       answer_label answer_value raw_counts relative_frequency
+0                No code or no data          0.0          1                0.0
+1                   I'm not married          1.0       4697               0.63
+2  Married before entering the Army          2.0       2044               0.27
+3   Married after entering the Army          3.0        550               0.07
+4                         No Answer          4.0        150               0.02
+
+
+
+S32N.Q38How many children do you have?
+                  answer_label answer_value raw_counts relative_frequency
+0           No code or no data          0.0          2                0.0
+1              I'm not married          1.0       4086               0.55
+2             Have no children          2.0       1599               0.21
+3               Have one child          3.0       1076               0.14
+4            Have two children          4.0        343               0.05
+5  Have three or more children          5.0        203               0.03
+6                    No Answer          6.0        133               0.02
+
+
+
+S32N.Q39Is your wife now expecting a baby?
+           answer_label answer_value raw_counts relative_frequency
+0  No code or no data -          0.0          3                0.0
+1       I'm not married          1.0       4677               0.63
+2                   Yes          2.0        328               0.04
+3                    No          3.0       1624               0.22
+4            Don't know          4.0        618               0.08
+5             No Answer          5.0        192               0.03
+
+
+
+S32N.Q40Do you think that after the war soldiers in your outfit will find it easier or harder to get jobs than they did before the war?
+                 answer_label answer_value raw_counts relative_frequency
+0          No code or no data          0.0          1                0.0
+1  Easier than before the war          1.0       1930               0.26
+2              About the same          2.0       1543               0.21
+3  Harder than before the war          3.0       2862               0.38
+4                   Undecided          4.0       1032               0.14
+5                   No Answer          5.0         74               0.01
+
+
+
+S32N.Q41Do you think that after the war the training you are getting in the Army will or will not help you to get a better job than you had before you went in the Army?
+                           answer_label answer_value raw_counts relative_frequency
+0                    No code or no data          0.0          6                0.0
+1      Will help me to get a better job          1.0       4351               0.58
+2  Will not help me to get a better job          2.0       1788               0.24
+3                             Undecided          3.0       1235               0.17
+4                             No Answer          4.0         62               0.01
+
+
+
+S32N.Q42Do you think this war is as much your affair as it is anybody else's?
+           answer_label answer_value raw_counts relative_frequency
+0  No code or no data -          0.0          2                0.0
+1                   Yes          1.0       4909               0.66
+2                    No          2.0       1565               0.21
+3             Undecided          3.0        873               0.12
+4             No Answer          4.0         93               0.01
+
+
+
+S32N.Q42A Why or why not?
+                                                                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                                                         No code or no data          0.0         98               0.01
+1               Yes, statement of patriotism, duty, etc. (this is my country, I am an American, protect my country and home)          1.0       2585               0.35
+2                        Yes, idealistic aims (we're all fighting for freedom, we got to see that this doesn't happen again)          2.0        509               0.07
+3   Yes, answer indicating things could be worse and any racialist comment (nobody wants to go back to the feudal age, we kn          3.0        213               0.03
+4                                                                                                   Yes, unclassified answer          4.0        264               0.04
+5                                                                                                            Yes, no comment          5.0       1336               0.18
+6   No, political or isolationist answer and uninformed about war aims (we wouldn't be in it except for big shots in Washing          6.0        145               0.02
+7                                   No, racialist answer (we are 'Jim-crowed, I am a Negro, the axis attacked the white man)          7.0       1077               0.14
+8                                                 No, sore at the draft (I should never have been drafted, I have flat feet)          8.0         19                0.0
+9                                                                                                   No, unclassified answers          9.0         71               0.01
+10                                                                                                            No, no comment         10.0        265               0.04
+11                                                                                             Undecided, racialist comments         11.0        145               0.02
+12                                                                                                 Undecided, other comments         12.0         68               0.01
+13                                                                                                     Undecided, no comment         13.0        647               0.09
+
+
+
+S32N.Q43How do you think this war will come out?
+                                         answer_label answer_value raw_counts relative_frequency
+0                                No code or no data -          0.0          4                0.0
+1                It will be a complete victory for us          1.0       3485               0.47
+2     We will win, but it won't be a complete victory          2.0       2417               0.32
+3                               It will end in a draw          3.0        184               0.02
+4  The other side has a pretty good chance of winning          4.0        187               0.03
+5                                           Undecided          5.0       1071               0.14
+6                                           No Answer          6.0         94               0.01
+
+
+
+S32N.Q44After the war do you think that you yourself will have more rights and privileges or less rights and privileges than you had before the war?
+                                     answer_label answer_value raw_counts relative_frequency
+0                                       No Answer          0.0         75               0.01
+1  More rights and privileges than before the war          1.0       3189               0.43
+2  Less rights and privileges than before the war          2.0        477               0.06
+3                About the same as before the war          3.0       2817               0.38
+4                                       Undecided          4.0        884               0.12
+
+
+
+S32N.Q45Do you think that one of the things the United States is fighting for is to give everybody a fair chance to make a decent living?
+  answer_label answer_value raw_counts relative_frequency
+0    No Answer          0.0        103               0.01
+1          Yes          1.0       4754               0.64
+2           No          2.0       1334               0.18
+3    Undecided          3.0       1251               0.17
+
+
+
+S32N.Q46Do you think that the United States is fighting mainly for the benefit of the rich people in this country?
+           answer_label answer_value raw_counts relative_frequency
+0  No code or no data -          0.0          4                0.0
+1                   Yes          1.0       1831               0.25
+2                    No          2.0       4220               0.57
+3             Undecided          3.0       1285               0.17
+4             No Answer          4.0        102               0.01
+
+
+
+S32N.Q47Do you think that one of the things the United States is fighting for is to protect the right of free speech for everyone?
+  answer_label answer_value raw_counts relative_frequency
+0    No Answer          0.0         81               0.01
+1          Yes          1.0       5130               0.69
+2           No          2.0       1212               0.16
+3    Undecided          3.0       1019               0.14
+
+
+
+S32N.Q48If Germany and Japan were to offer to stop fighting now and to give up the countries they have taken over, do you think we should talk peace with them or not?
+                                        answer_label answer_value raw_counts relative_frequency
+0                                          No Answer          0.0         76               0.01
+1                           We should talk peace now          1.0       1934               0.26
+2  We should keep on fighting until they are crushed          2.0       4608               0.62
+3                                          Undecided          3.0        824               0.11
+
+
+
+S32N.Q50Which of these things do you think Negroes back home in civilian life should try hardest to do now?
+                                      answer_label answer_value raw_counts relative_frequency
+0                                        No Answer          0.0        194               0.03
+1  Try hardest to make things better for the Negro          1.0       2009               0.27
+2                 Try hardest to win the war first          2.0       2266                0.3
+3                  Try to do both at the same time          3.0       2733               0.37
+4                                        Undecided          4.0        240               0.03
+
+
+
+S32N.Q50A Which of these things do you think Negroes back home in civilian life should try hardest to do now: further comments?
+                                                                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                                                       No code or no data -          0.0         58               0.01
+1                 Try hardest to make things better for the Negro: this is our best, only, most opportune time, chance, etc.         11.0        243               0.03
+2                     Better for the Negro: if conditions were bettered Negroes would support the war (have improved morale)         12.0         46               0.01
+3                           Better for the Negro: ought to establish democracy at home before we try to give it to the world         13.0         24                0.0
+4   Better for the Negro: a matter of division of labor (soldiers will work to win the war; civilians, to make things better         14.0         42               0.01
+5                                    Better for the Negro: a simple statement of Negro sufferings (Negroes have a hard time)         15.0        316               0.04
+6    Better for the Negro: a statement indicating acceptance of a "both" position (at the same time we should try to win the         16.0         63               0.01
+7                                                                                       Better for the Negro: other comments         17.0        220               0.03
+8                                                                                          Better for the Negro: no comments         18.0       1028               0.14
+9                                                            Try hardest to win the war first: the war is most important now         21.0        325               0.04
+10  Win the war: there will be more time or a better chance to improve Negro conditions after the war, or "things will be be         22.0        173               0.02
+11                                                    Win the war: after the war concentrate on improving Negro conditions -         23.0        216               0.03
+12   Win the war: Negroes can (must or will) demonstrate or earn in the war their right to better treatment, or, things will         24.0        100               0.01
+13               Win the war: a statement indicating a "both" position (at the same time we should try to better conditions)         25.0         64               0.01
+14                                                                                               Win the war: other comments         26.0        230               0.03
+15                                                                                                  Win the war: no comments         27.0       1158               0.16
+16  Try to do both at the same time: this is the best or only way to improve things, the opportune moment, the proper method         31.0        252               0.03
+17                                                            Both: Negroes have a duty both to themselves and their country         32.0        185               0.02
+18                                              Both: A matter of division of labor (civilians can do both; soldiers cannot)         33.0         24                0.0
+19                                                                          Both: It will have a good effect on Negro morale         34.0         47               0.01
+20                             Both: A simple statement of Negro sufferings (negroes in America do not have an equal chance)         35.0        139               0.02
+21                          Both: a statement implying "win the war first" (war must be finished before Negro can do better)         36.0        115               0.02
+22                                 Both: A statement implying "better for the Negro first" (try to get Negroes their rights)         37.0        180               0.02
+23                                                                                                       Both: other comment         38.0        310               0.04
+24                                                                                                          Both: no comment         39.0       1470                0.2
+25                                                                                 Undecided: Comment implying win war first         41.0          4                0.0
+26                                                                            Undecided: Comment implying better for Negroes         42.0          1                0.0
+27                                                                                          Undecided: Comment implying both         43.0          7                0.0
+28                                                                                       Undecided: Comment not classifiable         44.0         15                0.0
+29                                                                 Undecided: No comment or comment merely repeats undecided         45.0        205               0.03
+30                                                                             No Answer: Comment implying win the war first         51.0          9                0.0
+31                                                                              No Answer: Comment implying better for Negro         52.0         10                0.0
+32                                                                                          No Answer: Comment implying both         53.0         15                0.0
+33                                                                                         No Answer: Comment unclassifiable         54.0         14                0.0
+34                                                                                                     No Answer: No comment         55.0        134               0.02
+
+
+
+S32N.Q51Do you think that after the war you will be treated better or worse by white people than you were before the war?
+         answer_label answer_value raw_counts relative_frequency
+0  No code or no data          0.0         14                0.0
+1              Better          1.0       2195               0.29
+2      About the same          2.0       3281               0.44
+3               Worse          3.0        666               0.09
+4           Undecided          4.0       1169               0.16
+5           No Answer          5.0        117               0.02
+
+
+
+S32N.Q51A Do you think that after the war you will be treated better or worse by white people than you were before the war: Why?
+                                                                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                                                         No code or no data          0.0         16                0.0
+1                                                       Better: a militant answer (we will take it, demand it; fight for it)          1.0        229               0.03
+2   Better: an historical answer (gains were made after last war, present improvements already visible because we are now mo          2.0         61               0.01
+3   Better: a virtue will be rewarded answer (it will be because it ought to be, after whites have seen our patriotism, they          3.0        793               0.11
+4   Better: racial contacts answer and war is bringing us closer (there will be more association and better understanding be          4.0        141               0.02
+5   Better: a statement of the specific ways in which it will be better (we'll be allowed to vote, there'll be less discrimi          5.0         59               0.01
+6          Better: a war aims answer (that is what we're fighting this war for, we're all fighting for the same thing, etc.)          6.0        120               0.02
+7   Better: an inevitability of change answer (wars always change things, changes are always occurring, Negroes can't be kep          7.0         22                0.0
+8                                                                                                       Better: other answer          8.0        237               0.03
+9                                                                                                          Better: no answer          9.0        553               0.07
+10   About the same: an historical answer (nothing changed after the last war, haven't seen any sign of change so far, etc.)         11.0        582               0.08
+11  About the same: a time perspective answer (only time can change things like this, it will take generations to modify rac         12.0         58               0.01
+12  About the same: a distrustful cynical answer and militant (whites always make promises when they need us, then take them         13.0        204               0.03
+13  About the same: a resigned accepting answer (whites won't let Negroes rise, we'll never get further than the level white         14.0        995               0.13
+14                                                                                              About the same: other answer         15.0        400               0.05
+15                                                                                                 About the same: no answer         16.0       1046               0.14
+16                   Worse: an historical answer (things are getting worse now, look at how they're treating Negro soldiers)         21.0        173               0.02
+17                                   Worse: a resigned defeated answer (whites are never going to treat Negroes fairly, etc)         22.0        152               0.02
+18  Worse: a prediction of reaction after the war (Negroes will lose the gains they've made southerners will act more harshl         23.0        134               0.02
+19                                                                                                       Worse: other answer         24.0         72               0.01
+20                                                                                                          Worse: no answer         25.0        124               0.02
+21                                                                                       Undecided: with or without comments         31.0       1163               0.16
+22                                                                               No answer to Q.50, with or without comments         32.0        108               0.01
+
+
+
+S32N.Q52 Do you think that in the long run white civilians will be better off or worse off after the war than they were before?
+                           answer_label answer_value raw_counts relative_frequency
+0                    No code or no data          0.0         16                0.0
+1  Better off after the war than before          1.0       2674               0.36
+2   Worse off after the war than before          2.0        831               0.11
+3                        About the same          3.0       2277               0.31
+4                             Undecided          4.0       1490                0.2
+5                             No Answer          5.0        154               0.02
+
+
+
+S32N.Q53 Do you think that in the long run Negro civilians will be better off or worse off after the war than they were before?
+                           answer_label answer_value raw_counts relative_frequency
+0                    No code or no data          0.0         16                0.0
+1  Better off after the war than before          1.0       3066               0.41
+2   Worse off after the war than before          2.0        723                0.1
+3                        About the same          3.0       2447               0.33
+4                             Undecided          4.0       1097               0.15
+5                             No Answer          5.0         93               0.01
+
+
+
+S32N.Q54 Do you think that after the war Negroes in this country will have more rights and privileges or less rights and privileges than they had before the war?
+                                                    answer_label answer_value raw_counts relative_frequency
+0                                             No code or no data          0.0          1                0.0
+1  They will have more rights and privileges than before the war          1.0       3115               0.42
+2  They will have less rights and privileges than before the war          2.0        492               0.07
+3                                                 About the same          3.0       2599               0.35
+4                                                      Undecided          4.0       1125               0.15
+5                                                      No Answer          5.0        110               0.01
+
+
+
+S32N.Q54A Do you think that after the war Negroes in this country will have more rights and privileges or less rights and privileges than they had before the war: Why?
+                                                                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                                                         No code or no data          0.0         17                0.0
+1                                     More rights and privileges: militant answer (we will take it, demand it; fight for it)          1.0        353               0.05
+2                             More: historical answer (gains were made after last war, present improvements already visible)          2.0        171               0.02
+3   More: virtue will be rewarded answer (it will be because it ought to be, after whites have seen our patriotism, they wil          3.0       1012               0.14
+4   More: racial contacts answer (there will be more association and better understanding between whites and Negroes through          4.0         87               0.01
+5   More: statement of the specific ways in which it will be better (we'll be allowed to vote, there'll be less discriminati          5.0        107               0.01
+6             More: a war aims answer (that's what we're fighting this war for, we're all fighting for the same thing, etc.)          6.0        217               0.03
+7   More: Inevitability of change answer (wars always change things, changes are always occurring, Negroes can't be kept dow          7.0         44               0.01
+8                                                                                                         More: other answer          8.0        298               0.04
+9                                                                                                            More: no answer          9.0        806               0.11
+10  About the same: an historical answer (nothing changed after the last war, haven't seen any signs of change so far, etc.)         11.0        406               0.05
+11   About the same: time perspective answer (only time can change things like this, it will take generations to modify race         12.0         45               0.01
+12  About the same: distrustful cynical answer (whites always make promises when they need us, then take them back after the         13.0        130               0.02
+13   About the same: resigned accepting answer (whites won't let Negroes rise, we'll never get further than the level whites         14.0        752                0.1
+14                                                                                              About the same: other answer         15.0        308               0.04
+15                                                                                                 About the same: no answer         16.0        986               0.13
+16  Less rights and privileges: an historical answer (things are getting worse now, look at how they're treating Negro soldi         21.0         89               0.01
+17                                       Less: resigned defeated answer (whites are never going to treat Negroes fair, etc.)         22.0        102               0.01
+18   Less: prediction of reaction after the war (Negroes will lose the gains they've made, southerners will act more harshly         23.0         68               0.01
+19                                                                                                        Less: other answer         24.0         65               0.01
+20                                                                                                           Less: no answer         25.0        156               0.02
+21                                                                                       Undecided: with or without comments         31.0       1116               0.15
+22                                                                               No answer to Q.54, with or without comments         32.0        107               0.01
+
+
+
+S32N.Q55 Do you think that in the long run white soldiers will be better off or worse off after they get out of the Army than they were before they went into the Army?
+         answer_label answer_value raw_counts relative_frequency
+0  No code or no data          0.0          4                0.0
+1          Better off          1.0       3875               0.52
+2           Worse off          2.0        396               0.05
+3      About the same          3.0       1781               0.24
+4           Undecided          4.0       1246               0.17
+5           No Answer          5.0        140               0.02
+
+
+
+S32N.Q56 Do you think that in the long run Negro soldiers will be better off or worse off after they get out of the Army than they were before they went into the Army?
+     answer_label answer_value raw_counts relative_frequency
+0       No Answer          0.0        126               0.02
+1      Better off          1.0       3125               0.42
+2       Worse off          2.0        853               0.11
+3  About the same          3.0       2328               0.31
+4       Undecided          4.0       1010               0.14
+
+
+
+S32N.Q57 Do you think most Negroes are doing more than their share or less than their share to help win the war?
+                   answer_label answer_value raw_counts relative_frequency
+0            No code or no data          0.0          2                0.0
+1   Doing more than their share          1.0       2842               0.38
+2  Doing just about their share          2.0       3775               0.51
+3   Doing less than their share          3.0        189               0.03
+4                     Undecided          4.0        508               0.07
+5                     No Answer          5.0        126               0.02
+
+
+
+S32N.Q58 Do you think that most Negroes are being given a fair chance to do as much as they want to do to help win the war?
+  answer_label answer_value raw_counts relative_frequency
+0    No Answer          0.0         85               0.01
+1          Yes          1.0       2571               0.35
+2           No          2.0       4023               0.54
+3    Undecided          3.0        763                0.1
+
+
+
+S32N.Q59 Do you think most white people are doing more than their share or less than their share to help win the war?
+                   answer_label answer_value raw_counts relative_frequency
+0            No code or no data          0.0          5                0.0
+1   Doing more than their share          1.0        921               0.12
+2  Doing just about their share          2.0       4420               0.59
+3   Doing less than their share          3.0       1133               0.15
+4                     Undecided          4.0        855               0.11
+5                     No Answer          5.0        108               0.01
+
+
+
+S32N.Q60 Do you think that Negro soldiers who are being trained as combat troops will get a chance to use their combat training against the enemy?
+        answer_label answer_value raw_counts relative_frequency
+0          No Answer          0.0         94               0.01
+1  Most of them will          1.0       2290               0.31
+2   A good many will          2.0       3009                0.4
+3    Only a few will          3.0       1354               0.18
+4  None of them will          4.0         98               0.01
+5          Undecided          5.0        597               0.08
+
+
+
+S32N.Q61 How fair do you think the white newspapers are in reporting news about what Negroes are doing in the war?
+                      answer_label answer_value raw_counts relative_frequency
+0                        No Answer          0.0        130               0.02
+1               Almost always fair          1.0        888               0.12
+2  Usually fair, but sometimes not          2.0       2532               0.34
+3                 Usually not fair          3.0       3087               0.41
+4                        Undecided          4.0        805               0.11
+
+
+
+S32N.Q62 Do you think a Negro soldier with ability has a good chance for promotion in the Army?
+           answer_label answer_value raw_counts relative_frequency
+0             No Answer          0.0         95               0.01
+1    A very good chance          1.0       2334               0.31
+2  A fairly good chance          2.0       3208               0.43
+3  Not much of a chance          3.0       1455                0.2
+4      No chance at all          4.0        167               0.02
+5             Undecided          5.0        183               0.02
+
+
+
+S32N.Q63 Suppose your company lieutenants were all Negro officers, would you rather have them come from the North or from the South?
+                            answer_label answer_value raw_counts relative_frequency
+0                              No Answer          0.0        129               0.02
+1       Negro lieutenants from the North          1.0       3742                0.5
+2       Negro lieutenants from the South          2.0        484               0.07
+3  It wouldn't make any difference to me          3.0       2874               0.39
+4                              Undecided          4.0        213               0.03
+
+
+
+S32N.Q64 Suppose your company lieutenants were all white officers, but they could come either from the North or from the South, which would you rather have?
+                            answer_label answer_value raw_counts relative_frequency
+0                     No code or no data          0.0         14                0.0
+1       White lieutenants from the North          1.0       5799               0.78
+2       White lieutenants from the South          2.0        181               0.02
+3  It wouldn't make any difference to me          3.0       1126               0.15
+4                              Undecided          4.0        200               0.03
+5                              No Answer          5.0        122               0.02
+
+
+
+S32N.Q65 Suppose your company could get its lieutenants from the North only, but they could be either white or Negro, which would you rather have?
+                            answer_label answer_value raw_counts relative_frequency
+0                     No code or no data          0.0         13                0.0
+1       White lieutenants from the North          1.0        667               0.09
+2       Negro lieutenants from the North          2.0       4106               0.55
+3  It wouldn't make any difference to me          3.0       2226                0.3
+4                              Undecided          4.0        268               0.04
+5                              No Answer          5.0        162               0.02
+
+
+
+S32N.Q66 Suppose your company could get Southern officers only. If so, would you rather have white or Negro lieutenants?
+                            answer_label answer_value raw_counts relative_frequency
+0                              No Answer          0.0        155               0.02
+1       White lieutenants from the South          1.0        359               0.05
+2       Negro lieutenants from the South          2.0       5153               0.69
+3  It wouldn't make any difference to me          3.0       1348               0.18
+4                              Undecided          4.0        427               0.06
+
+
+
+S32N.Q67 Do you think that a Negro soldier with ability has a good chance to become a commissioned officer in the Army?
+           answer_label answer_value raw_counts relative_frequency
+0             No Answer          0.0        123               0.02
+1    A very good chance          1.0       2439               0.33
+2  A fairly good chance          2.0       3546               0.48
+3  Not much of a chance          3.0       1101               0.15
+4      No chance at all          4.0         90               0.01
+5             Undecided          5.0        143               0.02
+
+
+
+S32N.Q68 Are the lieutenants in your company white or Negro?
+                        answer_label answer_value raw_counts relative_frequency
+0                 No code or no data          0.0         15                0.0
+1              All of them are white          1.0       3576               0.48
+2  Some are white and some are Negro          2.0       2729               0.37
+3              All of them are Negro          3.0       1014               0.14
+4                          No Answer          4.0        108               0.01
+
+
+
+S32N.Q69 Do you think town police usually treat Negro soldiers fairly or unfairly?
+                       answer_label answer_value raw_counts relative_frequency
+0                No code or no data          0.0          1                0.0
+1      Town police are usually fair          1.0       1654               0.22
+2      About half are; half are not          2.0       2381               0.32
+3  Town police are usually not fair          3.0       2638               0.35
+4                         Undecided          4.0        615               0.08
+5                         No Answer          5.0        153               0.02
+
+
+
+S32N.Q70 Do you think white M.P.'s usually treat Negro soldiers fairly or unfairly?
+                        answer_label answer_value raw_counts relative_frequency
+0                 No code or no data          0.0          1                0.0
+1      White M.P.'s are usually fair          1.0       1417               0.19
+2       About half are; half are not          2.0       2795               0.38
+3  White M.P.'s are usually not fair          3.0       2461               0.33
+4                          Undecided          4.0        617               0.08
+5                          No Answer          5.0        151               0.02
+
+
+
+S32N.Q71 Do you think Negro M.P.'s usually treat Negro soldiers fairly or unfairly?
+                        answer_label answer_value raw_counts relative_frequency
+0                 No code or no data          0.0         15                0.0
+1      Negro M.P.'s are usually fair          1.0       2607               0.35
+2       About half are; half are not          2.0       3428               0.46
+3  Negro M.P.'s are usually not fair          3.0        768                0.1
+4                          Undecided          4.0        485               0.07
+5                          No Answer          5.0        139               0.02
+
+
+
+S32N.Q72 Do you think the length of the war will make any difference in the way Negroes will be treated after the war?
+                                          answer_label answer_value raw_counts relative_frequency
+0                                   No code or no data          0.0         16                0.0
+1   They will be treated better if we have a short war          1.0        897               0.12
+2    They will be treated better if we have a long war          2.0       2515               0.34
+3  It won't make any difference how long the war lasts          3.0       2392               0.32
+4                                            Undecided          4.0       1474                0.2
+5                                            No Answer          5.0        148               0.02
+
+
+
+S32N.Q73 Does your camp have separate PX's for Negro and white soldiers?
+  answer_label answer_value raw_counts relative_frequency
+0    No Answer          0.0        176               0.02
+1          Yes          1.0       4507               0.61
+2           No          2.0       2325               0.31
+3   Don't know          3.0        434               0.06
+
+
+
+S32N.Q74 Do you think it is a good idea or a poor idea for white and Negro soldiers to have separate PX's in army camps?
+        answer_label answer_value raw_counts relative_frequency
+0          No Answer          0.0        123               0.02
+1  It is a good idea          1.0       2728               0.37
+2  It is a poor idea          2.0       3823               0.51
+3          Undecided          3.0        768                0.1
+
+
+
+S32N.Q74A Do you think it is a good idea or a poor idea for white and Negro soldiers to have separate PX's in army camps: write any comments here?
+                                                                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                                                                  No Answer          0.0         95               0.01
+1   Good idea: the existence of prejudice (whites don't want to be with colored, there might be trouble and misunderstanding         11.0       1268               0.17
+2   Good idea: because of principle (the race ought to be kept separate, Negroes and whites should associate with own race o         12.0         71               0.01
+3    Good idea: comment cannot clearly be classified as either existence of prejudice or as principle (we just don't mix, we         13.0        319               0.04
+4                                                                                                      Good idea: no comment         14.0       1090               0.15
+5   Poor idea: and statements of equality, democracy, justice, etc. as principles (that's what we're fighting for - democrac         21.0       2241                0.3
+6   Poor idea: belief or hope that closer association would bring better understanding between the races (we'll never improv         22.0        359               0.05
+7                                                                                                  Poor idea: other comments         23.0        244               0.03
+8                                                                                                     Poor idea: no comments         24.0        985               0.13
+9                                                                                          Undecided: existence of prejudice         31.0        115               0.02
+10                                                                                                      Undecided: principle         32.0         13                0.0
+11                                                                Undecided: not clearly existence of prejudice or principle         33.0         78               0.01
+12                                                                                                     Undecided: no comment         34.0        564               0.08
+
+
+
+S32N.Q75 Does your camp have separate service clubs for white and Negro soldiers?
+                    answer_label answer_value raw_counts relative_frequency
+0             No code or no data          0.0          2                0.0
+1                            Yes          1.0       5229                0.7
+2                             No          2.0       1501                0.2
+3                     Don't know          3.0        465               0.06
+4  No service club (volunteered)          4.0         88               0.01
+5                      No Answer          5.0        157               0.02
+
+
+
+S32N.Q76 Do you think it is a good idea or a poor idea for Negro and white soldiers to have separate service clubs in Army camps?
+         answer_label answer_value raw_counts relative_frequency
+0  No code or no data          0.0          4                0.0
+1   It is a good idea          1.0       3210               0.43
+2   It is a poor idea          2.0       3107               0.42
+3           Undecided          3.0        951               0.13
+4           No Answer          4.0        170               0.02
+
+
+
+S32N.Q76A Do you think it is a good idea or a poor idea for Negro and white soldiers to have separate service clubs in Army camps: write any comments here?
+                                                                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                                                                  No Answer          0.0        123               0.02
+1   Good idea: the existence of prejudice (whites don't want to be with colored, there might be trouble and misunderstanding         11.0       1280               0.17
+2    Good idea: because of principle (the races ought to be kept separate, Negroes and whites should associate with own race         12.0         98               0.01
+3    Good idea: comment cannot clearly be classified as either existence or prejudice or as principle (we just don't mix, we         13.0        331               0.04
+4                                                                                                      Good idea: no comment         14.0       1531               0.21
+5   Poor idea: and statements of equality, democracy, justice, etc. as principles (that's what we're fighting for - democrac         21.0       1454                0.2
+6   Poor idea: belief or hope that closer association would bring better understanding between the races (we'll never improv         22.0        375               0.05
+7                                                                                                  Poor idea: other comments         23.0        205               0.03
+8                                                                                                     Poor idea: no comments         24.0       1087               0.15
+9                                                                                          Undecided: existence of prejudice         31.0        111               0.01
+10                                                                                                      Undecided: principle         32.0         16                0.0
+11                                                                Undecided: not clearly existence of prejudice or principle         33.0         72               0.01
+12                                                                                                     Undecided: no comment         34.0        759                0.1
+
+
+
+S32N.Q77 Do you think white and Negro soldiers should be in separate outfits or should they be together in the same outfits?
+                                  answer_label answer_value raw_counts relative_frequency
+0                           No code or no data          0.0          9                0.0
+1           They should be in separate outfits          1.0       2610               0.35
+2  They should be together in the same outfits          2.0       2765               0.37
+3               It doesn't make any difference          3.0       1312               0.18
+4                                    Undecided          4.0        616               0.08
+5                                    No Answer          5.0        130               0.02
+
+
+
+S32N.Q77A Do you think white and Negro soldiers should be in separate outfits or should they be together in the same outfits: write any comments here?
+                                                                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                                                         No code or no data          0.0         28                0.0
+1   Separate outfits: the existence of prejudice (whites don't want to be with colored, there might be trouble and misunders         11.0        903               0.12
+2   Separate outfits: because of principle (the races ought to be kept separate, Negroes and whites should associate with ow         12.0         76               0.01
+3   Separate outfits: comment cannot clearly be classified as either existence of prejudice or as principle (we just don't m         13.0        386               0.05
+4                                                                                               Separate outfits: no comment         14.0       1228               0.17
+5   Same outfits: statements of equality, democracy, justice, etc. as principles (that's what we're fighting for - democracy         21.0       1153               0.15
+6   Same outfits: belief or hope that closer association would bring better understanding between the races (we'll never imp         22.0        474               0.06
+7                                                                                                Same outfits: other comment         23.0        248               0.03
+8                                                                                                   Same outfits: no comment         24.0        932               0.13
+9                          Doesn't make any difference: comment implies non-segregation because of belief in democracy, etc.         31.0        307               0.04
+10    Doesn't make any difference: comment implies non-segregation because of hope that association will bring understanding         32.0         26                0.0
+11              Doesn't make any difference: comment implies acceptance of segregation because of the existence of prejudice         33.0         46               0.01
+12                                       Doesn't make any difference: comment implies acceptance of segregation on principle         34.0          1                0.0
+13                                                                         Doesn't make any difference: comment unclassified         35.0         81               0.01
+14                                                                                   Doesn't make any difference: no comment         36.0        799               0.11
+15                                                                                         Undecided: existence of prejudice         41.0         44               0.01
+16                                                                                                      Undecided: principle         42.0          8                0.0
+17                                                                                         Undecided: unclassifiable comment         43.0         43               0.01
+18                                                                                                     Undecided: no comment         44.0        507               0.07
+19                                                          Comment implies non-segregation but codes 31 and 32 do not apply         51.0         53               0.01
+20                                                                                                                 No Answer         52.0         99               0.01
+
+
+
+FORM.1FORM
+                   answer_label answer_value raw_counts relative_frequency
+0  Sample of Negro enlisted men          1.0       7442                1.0
+
+
+
+S32N.V2Cross-section identification
+          answer_label answer_value raw_counts relative_frequency
+0  Cross-section cases          1.0       2992                0.4
+1      All other cases          2.0       4450                0.6
+
+
+
+S32N.V78 Personal adjustment score? E. Derived from Q.20, Q.23, Q.24, Q.26, Q.27, Q.28.
+  answer_label answer_value raw_counts relative_frequency
+0     Score of          0.0        625               0.08
+1     Score of          1.0       1071               0.14
+2     Score of          2.0       1554               0.21
+3     Score of          3.0       1553               0.21
+4     Score of          4.0       1263               0.17
+5     Score of          5.0        921               0.12
+6     Score of          6.0        455               0.06
+
+
+
+S32N.V81 Equality of treatment: Intra-Army? E. Derived from Q.62, Q.67, Q.70.
+         answer_label answer_value raw_counts relative_frequency
+0            Score of          1.0       3018               0.41
+1            Score of          2.0       1380               0.19
+2            Score of          3.0       1320               0.18
+3  No code or no data          9.0         13                0.0
+
+
+
+S32N.V85 Combat types, personal preference: E. Derived from Q.30, Q.31, Q.32.
+                                               answer_label answer_value raw_counts relative_frequency
+0      Combat outfit overseas, actual fighting job, soldier          1.0        632               0.08
+1        Combat outfit overseas, actual fighting job, other          2.0        415               0.06
+2                Combat outfit overseas, other job, soldier          3.0         93               0.01
+3                  Combat outfit overseas, other job, other          4.0        136               0.02
+4   Noncombat outfit overseas, actual fighting job, soldier          5.0         57               0.01
+5     Noncombat outfit overseas, actual fighting job, other          6.0         82               0.01
+6             Noncombat outfit overseas, other job, soldier          7.0        205               0.03
+7               Noncombat outfit overseas, other job, other          8.0        422               0.06
+8              Outfit in U.S., actual fighting job, soldier          9.0        299               0.04
+9                Outfit in U.S., actual fighting job, other         10.0        635               0.09
+10                       Outfit in U.S., other job, soldier         11.0        608               0.08
+11                         Outfit in U.S., other job, other         12.0       3668               0.49
+12                                                No Answer         13.0        190               0.03
+
+
+
+S32N.V86 Camp and North-South origin of men:
+                  answer_label answer_value raw_counts relative_frequency
+0           No code or no data          0.0         10                0.0
+1           Tuskegee: Northern          1.0        186               0.02
+2       Tuskegee: Border state          2.0         32                0.0
+3           Tuskegee: Southern          3.0        123               0.02
+4           Huachuca: Northern          4.0        682               0.09
+5       Huachuca: Border state          5.0        150               0.02
+6           Huachuca: Southern          6.0        758                0.1
+7       Northern: Northern men          7.0        524               0.07
+8   Northern: Border state men          8.0        157               0.02
+9           Northern: Southern          9.0        719                0.1
+10      Southern: Northern men         10.0       1380               0.19
+11  Southern: Border state men         11.0        290               0.04
+12      Southern: Southern men         12.0       2431               0.33
+
+
+
+S32N.V87 Camp identification:
+             answer_label answer_value raw_counts relative_frequency
+0         McClellan, Ala.          0.0        681               0.09
+1          Tuskegee, Ala.          1.0        340               0.05
+2           Rucker, Ala.,          2.0        385               0.05
+3          Eglin, Florida          3.0        184               0.02
+4           Devens, Mass.         14.0        240               0.03
+5       Pickett, Virginia         30.0        340               0.05
+6       Pickett, Virginia         35.0        143               0.02
+7         Clairborne, La.         45.0        603               0.08
+8           Shelby, Miss.         48.0        316               0.04
+9         Atterbury, Ind.         53.0        389               0.05
+10        Atterbury, Ind.         56.0        240               0.03
+11       Custer, Michigan         61.0        200               0.03
+12  Randolph Field, Texas         80.0        221               0.03
+13      Huachuca, Arizona         82.0        833               0.11
+14      Huachuca, Arizona         83.0        758                0.1
+15        Ft. Sill, Okla.         84.0        346               0.05
+16            Hood, Texas         85.0        338               0.05
+17     Kelly Field, Texas         86.0        212               0.03
+18          Duncan, Texas         87.0        190               0.03
+19    Brooks Field, Texas         88.0        155               0.02
+20      Fort Lewis, Wash.         95.0        122               0.02
+21      Fort Lewis, Wash.         96.0        202               0.03
+22     No code or no data         99.0          4                0.0
+
+
+
+S32N.V88 Army General classification test group and type of administration of questionnaire:
+                                    answer_label answer_value raw_counts relative_frequency
+0                             No code or no data          0.0         14                0.0
+1  AGCT I, II, III, IV: classroom administration          1.0       3452               0.46
+2               AGCT V: classroom administration          2.0       1913               0.26
+3                     AGCT V: personal interview          3.0        950               0.13
+4         AGCT unknown: classroom administration          4.0        984               0.13
+5               AGCT unknown: personal interview          5.0        129               0.02
+
+
+

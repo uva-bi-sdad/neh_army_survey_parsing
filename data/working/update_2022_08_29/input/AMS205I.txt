@@ -1,0 +1,931 @@
+FORMFORM
+                      answer_label answer_value raw_counts relative_frequency
+0  S-20XX - CHINA-INDIA-BURMA FORM          4.0       1796                1.0
+
+
+
+S205I.Q1 WHAT IS YOUR RANK OR GRADE?
+                                          answer_label answer_value raw_counts relative_frequency
+0                                            NO ANSWER          0.0         16               0.01
+1                                              PRIVATE          1.0         90               0.05
+2                                  PRIVATE FIRST CLASS          2.0        433               0.24
+3                     CORPORAL OR TECHNICIAN 5TH GRADE          3.0        509               0.28
+4  SERGEANT (ANY GRADE) OR TECHNICIAN 3RD OR 4TH GRADE          4.0        748               0.42
+
+
+
+S205I.Q2 HOW LONG HAVE YOU BEEN IN THE ARMY? E. IF YOU HAVE SERVED PREVIOUSLY IN THE ARMY, GIVE THE LENGTH OF TIME SINCE YOU ENTERED THIS LAST TIME. IF YOU WERE A NATIONAL GUARDSMAN GIVE THE LENGTH OF TIME SINCE YOUR OUTFIT ENTERED THE ARMY.  ANP (ACTUAL NUMBER M
+        answer_label answer_value raw_counts relative_frequency
+0     8 MONTHS . . .          8.0          2                0.0
+1  99 MONTHS OR MORE         99.0          6                0.0
+
+
+
+S205I.Q3 HAVE YOU BEEN IN ACTUAL COMBAT IN THIS WAR?
+                                                  answer_label answer_value raw_counts relative_frequency
+0                                                    NO ANSWER          0.0         54               0.03
+1                            YES, I HAVE BEEN IN ACTUAL COMBAT          1.0        103               0.06
+2  YES, I HAVE BEEN UNDER ENEMY FIRE, BUT NOT IN ACTUAL COMBAT          2.0        454               0.25
+3                                                           NO          3.0       1185               0.66
+
+
+
+S205I.Q4 ARE YOU ENTITLED TO WEAR ANY CAMPAIGN STARS? IF YES, HOW MANY?
+                                                                                                  answer_label answer_value raw_counts relative_frequency
+0                                                                                                    NO ANSWER          0.0         25               0.01
+1                                                                                       YES, ONE CAMPAIGN STAR          1.0        718                0.4
+2                                                                                      YES, TWO CAMPAIGN STARS          2.0        273               0.15
+3                                                                                    YES, THREE CAMPAIGN STARS          3.0         31               0.02
+4                                                                                     YES, FOUR CAMPAIGN STARS          4.0          5                0.0
+5  YES, FIVE CAMPAIGN STARS OR ONE SILVER CAMPAIGN STAR (A SILVER CAMPAIGN STAR COUNTS AS FIVE CAMPAIGN STARS)          5.0          5                0.0
+6                                                                                      YES, SIX CAMPAIGN STARS          6.0          2                0.0
+7                                                                                               YES, NO ANSWER         10.0         18               0.01
+8                                                                                                           NO         11.0        719                0.4
+
+
+
+S205I.Q5 WHICH OF THE FOLLOWING DECORATIONS OR AWARDS DO YOU HAVE? (DISTINGUISHED SERVICE CROSS, LEGION OF MERIT, SILVER STAR, DISTINGUISHED-FLYING CROSS, SOLDIER'S MEDAL, BRONZE STAR MEDAL (NOT CAMPAIGN STAR), AIR MEDAL, PURPLE HEART) Z. COUNT EACH STAR, AWARD A
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0         27               0.02
+1                            TOTAL OF ONE          1.0        685               0.38
+2  I DON'T HAVE ANY AWARDS OR DECORATIONS         99.0        730               0.41
+
+
+
+S205I.Q6 ARE YOU:
+                      answer_label answer_value raw_counts relative_frequency
+0                        NO ANSWER          0.0         18               0.01
+1                           SINGLE          1.0       1047               0.58
+2                          MARRIED          2.0        679               0.38
+3  WIDOWED, DIVORCED, OR SEPARATED          3.0         52               0.03
+
+
+
+S205I.Q7 HAVE YOU ANY CHILDREN UNDER 18 YEARS OF AGE? IF YES, HOW MANY?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0        134               0.07
+1               YES, ONE CHILD          1.0        251               0.14
+2            YES, TWO CHILDREN          2.0         63               0.04
+3          YES, THREE CHILDREN          3.0         15               0.01
+4   YES, FOUR OR MORE CHILDREN          4.0          6                0.0
+5  YES, HOW MANY NOT SPECIFIED          5.0          5                0.0
+6                           NO          6.0       1322               0.74
+
+
+
+S205I.Q8 WHAT BRANCH OF THE ARMY ARE YOU IN NOW?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0          4                0.0
+1                  ENGINEERS          1.0        263               0.15
+2            FIELD ARTILLERY          2.0          4                0.0
+3        QUARTERMASTER CORPS          3.0        179                0.1
+4                   INFANTRY          4.0         15               0.01
+5         MEDICAL DEPARTMENT          5.0        133               0.07
+6               SIGNAL CORPS          7.0        221               0.12
+7              ANTI-AIRCRAFT          9.0         38               0.02
+8                  AIR CORPS         10.0        684               0.38
+9       TRANSPORTATION CORPS         11.0         84               0.05
+10       ORDNANCE DEPARTMENT         12.0         85               0.05
+11  CHEMICAL WARFARE SERVICE         13.0          1                0.0
+12           MILITARY POLICE         14.0         34               0.02
+13                     OTHER         16.0         51               0.03
+
+
+
+S205I.Q9 HOW CLEAR AN IDEA DO YOU HAVE OF WHY WE ARE FIGHTING THIS WAR?
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0         35               0.02
+1    I HAVE A VERY CLEAR IDEA          1.0       1015               0.57
+2  I HAVE A FAIRLY CLEAR IDEA          2.0        627               0.35
+3           I AM NOT SO CLEAR          3.0         64               0.04
+4       I AM NOT AT ALL CLEAR          4.0         55               0.03
+
+
+
+S205I.Q10 DO YOU EVER GET THE FEELING THAT THIS WAR IS NOT WORTH FIGHTING?
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0         40               0.02
+1                  VERY OFTEN          1.0        117               0.07
+2                   SOMETIMES          2.0        431               0.24
+3  ONLY ONCE IN A GREAT WHILE          3.0        394               0.22
+4                       NEVER          4.0        814               0.45
+
+
+
+S205I.Q11 IN GENERAL, HOW WOULD YOU SAY YOU FEEL MOST OF THE TIME, IN GOOD SPIRITS OR IN LOW SPIRITS?
+                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                  NO ANSWER          0.0         23               0.01
+1                                               I AM USUALLY IN GOOD SPIRITS          1.0        555               0.31
+2  I AM IN GOOD SPIRITS SOME OF THE TIME AND IN LOW SPIRITS SOME OF THE TIME          2.0        989               0.55
+3                                                I AM USUALLY IN LOW SPIRITS          3.0        229               0.13
+
+
+
+S205I.Q12 CONSIDERING EVERYTHING, HOW DO YOU FEEL ABOUT FURTHER SERVICE IN THE ARMY?
+                                                                              answer_label answer_value raw_counts relative_frequency
+0                                                                                NO ANSWER          0.0         18               0.01
+1                                                               I SHOULD BE DISCHARGED NOW          1.0        492               0.27
+2  I SHOULD SERVE A WHILE LONGER, BUT I SHOULD NOT HAVE TO STAY IN UNTIL JAPAN IS DEFEATED          2.0        510               0.28
+3                    I SHOULD BE DISCHARGED AS SOON AFTER JAPAN IS DEFEATED AS IS POSSIBLE          3.0        761               0.42
+4                                               I WANT TO REMAIN IN THE ARMY AFTER THE WAR          4.0         15               0.01
+
+
+
+S205I.Q13.x HOW GOOD DO YOU THINK YOUR CHANCES ARE OF BEING DISCHARGED FROM THE ARMY BEFORE THE WAR WITH JAPAN IS OVER?  Q.14. WHAT ARE THE REASONS FOR YOUR ANSWER TO QUESTION 13?
+                                                    answer_label answer_value raw_counts relative_frequency
+0                                                      NO ANSWER          0.0         20               0.01
+1                                               VERY GOOD CHANCE          1.0        111               0.06
+2                                             FAIRLY GOOD CHANCE          2.0        371               0.21
+3                                           NOT MUCH OF A CHANCE          3.0        729               0.41
+4                                               NO CHANCE AT ALL          4.0        528               0.29
+5  VERY GOOD OR FAIRLY GOOD CHANCE \(MEDICAL REASON GIVEN Q.14\)          5.0         37               0.02
+
+
+
+S205I.Q15 WHAT IS YOUR BEST GUESS AS TO HOW MUCH LONGER YOU WILL BE IN THE ARMY BEFORE YOU ARE DISCHARGED?
+                                answer_label answer_value raw_counts relative_frequency
+0                                  NO ANSWER          0.0        156               0.09
+1                         LESS THAN 3 MONTHS          1.0         25               0.01
+2  3 MONTHS UP TO BUT NOT INCLUDING 6 MONTHS          2.0         63               0.04
+3    6 MONTHS UP TO BUT NOT INCLUDING 1 YEAR          3.0        328               0.18
+4   1 YEAR UP TO BUT NOT INCLUDING 18 MONTHS          4.0        615               0.34
+5  18 MONTHS UP TO BUT NOT INCLUDING 2 YEARS          5.0        355                0.2
+6    2 YEARS UP TO BUT NOT INCLUDING 3 YEARS          6.0        231               0.13
+7                            3 YEARS OR MORE          7.0         23               0.01
+
+
+
+S205I.Q16 COMPARED WITH OTHER PEOPLE, HOW GOOD DO YOU THINK YOUR CHANCES WILL BE OF GETTING THE KIND OF JOB YOU WANT BY THE TIME YOU GET OUT OF THE ARMY?
+                                         answer_label answer_value raw_counts relative_frequency
+0                                           NO ANSWER          0.0         35               0.02
+1        MY CHANCES WILL BE BETTER THAN MOST PEOPLE'S          1.0        552               0.31
+2  MY CHANCES WILL BE ABOUT THE SAME AS MOST PEOPLE'S          2.0        966               0.54
+3         MY CHANCES WILL BE WORSE THAN MOST PEOPLE'S          3.0        243               0.14
+
+
+
+S205I.Q17 IF THE JAPS OFFERED TO STOP FIGHTING NOW AND TRY TO WORK OUT A PEACE IN WHICH BOTH SIDES WOULD HAVE SOMETHING TO SAY ABOUT THE PEACE TERMS, WHICH OF THESE DO YOU THINK WE SHOULD DO?
+                                                       answer_label answer_value raw_counts relative_frequency
+0                                                         NO ANSWER          0.0         16               0.01
+1       WE SHOULD KEEP ON FIGHTING UNTIL THEY ARE COMPLETELY BEATEN          1.0       1331               0.74
+2  WE SHOULD STOP AND TRY TO WORK OUT PEACE TERMS WITH THE JAPS NOW          2.0        217               0.12
+3                                                         UNDECIDED          3.0        232               0.13
+
+
+
+S205I.Q18 HOW DO YOU SIZE UP THE WAR AHEAD IN THE PACIFIC - HAVE WE ALREADY DONE MOST OF THE JOB OR DO WE STILL HAVE THE HARDEST PART OF THE JOB AHEAD OF US?
+                                                                                           answer_label answer_value raw_counts relative_frequency
+0                                                                                             NO ANSWER          0.0         27               0.02
+1                                                 WE HAVE ALREADY PRACTICALLY WON THE WAR AGAINST JAPAN          1.0         84               0.05
+2                                      WE STILL HAVE A BIG JOB AHEAD, BUT IT SHOULDN'T BE SO VERY TOUGH          2.0        712                0.4
+3  WE STILL HAVE TO FACE A HARD STRUGGLE IN WHICH AMERICA WILL SUFFER GREAT LOSSES IN MEN AND MATERIALS          3.0        973               0.54
+
+
+
+S205I.Q19 WHAT IS YOUR GUESS AS TO HOW LONG IT WILL PROBABLY TAKE US TO BEAT JAPAN?
+                                  answer_label answer_value raw_counts relative_frequency
+0                                    NO ANSWER          0.0         58               0.03
+1                           LESS THAN 6 MONTHS          1.0         32               0.02
+2      6 MONTHS UP TO BUT NOT INCLUDING 1 YEAR          2.0        544                0.3
+3   1 YEAR UP TO BUT NOT INCLUDING 1 1/2 YEARS          3.0        777               0.43
+4  1 1/2 YEARS UP TO BUT NOT INCLUDING 2 YEARS          4.0        267               0.15
+5  2 YEARS UP TO BUT NOT INCLUDING 2 1/2 YEARS          5.0         96               0.05
+6  2 1/2 YEARS UP TO BUT NOT INCLUDING 3 YEARS          6.0          6                0.0
+7      3 YEARS UP TO BUT NOT INCLUDING 4 YEARS          7.0          6                0.0
+8      4 YEARS UP TO BUT NOT INCLUDING 5 YEARS          8.0          2                0.0
+9                            INDEFINITE ANSWER         10.0          8                0.0
+
+
+
+S205I.Q20 WHAT IS THE VERY LONGEST YOU THINK JAPAN MIGHT HOLD OUT AGAINST US?
+                                   answer_label answer_value raw_counts relative_frequency
+0                                     NO ANSWER          0.0         84               0.05
+1                            LESS THAN 6 MONTHS          1.0         22               0.01
+2       6 MONTHS UP TO BUT NOT INCLUDING 1 YEAR          2.0        216               0.12
+3    1 YEAR UP TO BUT NOT INCLUDING 1 1/2 YEARS          3.0        501               0.28
+4   1 1/2 YEARS UP TO BUT NOT INCLUDING 2 YEARS          4.0        415               0.23
+5   2 YEARS UP TO BUT NOT INCLUDING 2 1/2 YEARS          5.0        397               0.22
+6   2 1/2 YEARS UP TO BUT NOT INCLUDING 3 YEARS          6.0         40               0.02
+7       3 YEARS UP TO BUT NOT INCLUDING 4 YEARS          7.0         77               0.04
+8       4 YEARS UP TO BUT NOT INCLUDING 5 YEARS          8.0         17               0.01
+9                               5 YEARS OR MORE          9.0         13               0.01
+10                            INDEFINITE ANSWER         10.0         14               0.01
+
+
+
+S205I.Q21 DO YOU THINK JAPAN WILL GIVE UP AND SURRENDER ON OUR TERMS BEFORE THEY LOSE EVERYTHING, OR DO YOU THINK THEY WILL KEEP RIGHT ON FIGHTING TO THE VERY END?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                         NO ANSWER          0.0         31               0.02
+1                   THEY WILL GIVE UP AND SURRENDER          1.0        952               0.53
+2  THEY WILL KEEP RIGHT ON FIGHTING TO THE VERY END          2.0        813               0.45
+
+
+
+S205I.Q22 IN GENERAL, DO YOU FEEL YOU YOURSELF HAVE GOTTEN A SQUARE DEAL FROM THE ARMY?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                         NO ANSWER          0.0         24               0.01
+1                          YES, IN MOST WAYS I HAVE          1.0        548               0.31
+2                  IN SOME WAYS, YES, IN OTHERS, NO          2.0        947               0.53
+3  NO, ON THE WHOLE I HAVE NOT GOTTEN A SQUARE DEAL          3.0        277               0.15
+
+
+
+S205I.Q23A NUMBER OF DAYS IN COMBAT?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0        156               0.09
+1     YES, THIS WILL BE USED IN GIVING POINTS          1.0        725                0.4
+2  NO, THIS WILL NOT BE USED IN GIVING POINTS          2.0        746               0.42
+3      I DON'T KNOW WHAT THE ARMY PLANS TO DO          3.0        169               0.09
+
+
+
+S205I.Q23B LENGTH OF TIME IN SERVICE?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0        117               0.07
+1     YES, THIS WILL BE USED IN GIVING POINTS          1.0       1615                0.9
+2  NO, THIS WILL NOT BE USED IN GIVING POINTS          2.0         43               0.02
+3      I DON'T KNOW WHAT THE ARMY PLANS TO DO          3.0         21               0.01
+
+
+
+S205I.Q23C LENGTH OF TIME OVERSEAS?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0        132               0.07
+1     YES, THIS WILL BE USED IN GIVING POINTS          1.0       1612                0.9
+2  NO, THIS WILL NOT BE USED IN GIVING POINTS          2.0         30               0.02
+3      I DON'T KNOW WHAT THE ARMY PLANS TO DO          3.0         22               0.01
+
+
+
+S205I.Q23D WIFE WITHOUT CHILDREN?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0        184                0.1
+1     YES, THIS WILL BE USED IN GIVING POINTS          1.0        137               0.08
+2  NO, THIS WILL NOT BE USED IN GIVING POINTS          2.0       1368               0.76
+3      I DON'T KNOW WHAT THE ARMY PLANS TO DO          3.0        107               0.06
+
+
+
+S205I.Q23E CHILDREN UNDER 18 YEARS OF AGE?
+                                 answer_label answer_value raw_counts relative_frequency
+0                          NO CODE OR NO DATA          0.0          2                0.0
+1     YES, THIS WILL BE USED IN GIVING POINTS          1.0       1582               0.88
+2  NO, THIS WILL NOT BE USED IN GIVING POINTS          2.0         45               0.03
+3      I DON'T KNOW WHAT THE ARMY PLANS TO DO          3.0         24               0.01
+4                                   NO ANSWER          4.0        143               0.08
+
+
+
+S205I.Q23F OTHER DEPENDENTS?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0        190               0.11
+1     YES, THIS WILL BE USED IN GIVING POINTS          1.0        317               0.18
+2  NO, THIS WILL NOT BE USED IN GIVING POINTS          2.0       1096               0.61
+3      I DON'T KNOW WHAT THE ARMY PLANS TO DO          3.0        193               0.11
+
+
+
+S205I.Q23G AGE?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0        178                0.1
+1     YES, THIS WILL BE USED IN GIVING POINTS          1.0        556               0.31
+2  NO, THIS WILL NOT BE USED IN GIVING POINTS          2.0        934               0.52
+3      I DON'T KNOW WHAT THE ARMY PLANS TO DO          3.0        128               0.07
+
+
+
+S205I.Q23H TOTAL NUMBER OF CAMPAIGN STARS?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0        150               0.08
+1     YES, THIS WILL BE USED IN GIVING POINTS          1.0       1496               0.83
+2  NO, THIS WILL NOT BE USED IN GIVING POINTS          2.0         91               0.05
+3      I DON'T KNOW WHAT THE ARMY PLANS TO DO          3.0         59               0.03
+
+
+
+S205I.Q23I COMBAT INFANTRYMAN'S BADGE?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0        194               0.11
+1     YES, THIS WILL BE USED IN GIVING POINTS          1.0        678               0.38
+2  NO, THIS WILL NOT BE USED IN GIVING POINTS          2.0        703               0.39
+3      I DON'T KNOW WHAT THE ARMY PLANS TO DO          3.0        221               0.12
+
+
+
+S205I.Q23J PURPLE HEART?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0        160               0.09
+1     YES, THIS WILL BE USED IN GIVING POINTS          1.0       1457               0.81
+2  NO, THIS WILL NOT BE USED IN GIVING POINTS          2.0        132               0.07
+3      I DON'T KNOW WHAT THE ARMY PLANS TO DO          3.0         47               0.03
+
+
+
+S205I.Q23K OTHER AWARDS AND DECORATIONS (BRONZE STAR, SILVER STAR, DSC, ETC.)?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0        172                0.1
+1     YES, THIS WILL BE USED IN GIVING POINTS          1.0       1501               0.84
+2  NO, THIS WILL NOT BE USED IN GIVING POINTS          2.0         72               0.04
+3      I DON'T KNOW WHAT THE ARMY PLANS TO DO          3.0         51               0.03
+
+
+
+S205I.Q24 FROM WHAT YOU KNOW OF THE PLAN, DO MEN NOW IN THE PACIFIC FIGHTING AGAINST THE JAPS GET POINT SCORES AND A CHANCE TO GET OUT OF THE ARMY?
+                                                                       answer_label answer_value raw_counts relative_frequency
+0                                                                         NO ANSWER          0.0         41               0.02
+1         YES, THE ARMY PLANS TO INCLUDE MEN NOW IN THE PACIFIC IN THE POINT SYSTEM          1.0       1504               0.84
+2  NO, THE ARMY DOES NOT PLAN TO INCLUDE MEN NOW IN THE PACIFIC IN THE POINT SYSTEM          2.0         72               0.04
+3                                 I DON'T KNOW WHAT THE ARMY PLANS TO DO ABOUT THIS          3.0        179                0.1
+
+
+
+S205I.Q25 SUPPOSE AN OUTFIT NOW IN EUROPE IS GOING TO BE SENT TO FIGHT THE JAPS. WHAT WILL HAPPEN TO MEN IN THE OUTFIT WHO ARE ELIGIBLE TO BE LET OUT BECAUSE THEY HAVE THE HIGHEST POINT SCORES?
+                                                                         answer_label answer_value raw_counts relative_frequency
+0                                                                           NO ANSWER          0.0         36               0.02
+1                  THE ARMY PLANS TO SEND THEM TO THE PACIFIC ALONG WITH THEIR OUTFIT          1.0         87               0.05
+2  THE ARMY PLANS TO REPLACE THEM IF POSSIBLE BEFORE THEIR OUTFIT GOES TO THE PACIFIC          2.0       1520               0.85
+3                                   I DON'T KNOW WHAT THE ARMY PLANS TO DO ABOUT THIS          3.0        153               0.09
+
+
+
+S205I.Q26 WHAT ABOUT AMERICAN SOLDIERS IN EUROPE WHO ARE ELIGIBLE TO BE LET OUT OF THE ARMY BECAUSE THEY HAVE THE HIGHEST POINT SCORES AND THEREFORE ARE TO BE SENT BACK TO THE STATES. WILL MOST OF THEM BE SENT BACK TO THE U.S. WITHIN THE NEXT 3 MONTHS?
+                                                          answer_label answer_value raw_counts relative_frequency
+0                                                            NO ANSWER          0.0         81               0.05
+1  YES, MOST OF THEM WILL BE SENT TO THE U.S. WITHIN THE NEXT 3 MONTHS          1.0        547                0.3
+2                NO, MOST OF THEM WILL HAVE TO WAIT MORE THAN 3 MONTHS          2.0       1168               0.65
+
+
+
+S205I.Q27A WHICH OF THESE TWO TYPES OF MEN IS MORE LIKELY TO BE LET OUT FIRST UNDER THE ARMY PLAN (THE POINT SYSTEM) - IF THEY ARE EXACTLY THE SAME IN EVERY OTHER WAY?
+                                    answer_label answer_value raw_counts relative_frequency
+0                                      NO ANSWER          0.0         48               0.03
+1     A MAN WITH ONE CHILD UNDER 18 YEARS OF AGE          1.0         12               0.01
+2  A MAN WITH TWO CHILDREN UNDER 18 YEARS OF AGE          2.0       1359               0.76
+3                      BOTH HAVE THE SAME CHANCE          3.0        224               0.12
+4         I DON'T KNOW WHAT THE ARMY PLANS TO DO          4.0        153               0.09
+
+
+
+S205I.Q27B WHICH OF THESE TWO TYPES OF MEN IS MORE LIKELY TO BE LET OUT FIRST UNDER THE ARMY PLAN (THE POINT SYSTEM) - IF THEY ARE EXACTLY THE SAME IN EVERY OTHER WAY?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0         39               0.02
+1                            A SINGLE MAN          1.0         20               0.01
+2          A MARRIED MAN WITH NO CHILDREN          2.0        331               0.18
+3               BOTH HAVE THE SAME CHANCE          3.0       1220               0.68
+4  I DON'T KNOW WHAT THE ARMY PLANS TO DO          4.0        186                0.1
+
+
+
+S205I.Q27C WHICH OF THESE TWO TYPES OF MEN IS MORE LIKELY TO BE LET OUT FIRST UNDER THE ARMY PLAN (THE POINT SYSTEM) - IF THEY ARE EXACTLY THE SAME IN EVERY OTHER WAY?
+                                                          answer_label answer_value raw_counts relative_frequency
+0                                                            NO ANSWER          0.0         33               0.02
+1                                       A MARRIED MAN WITH NO CHILDREN          1.0         82               0.05
+2  A SINGLE MAN WHOSE PARENTS ARE DEPENDENT UPON HIM FOR THEIR SUPPORT          2.0        562               0.31
+3                                            BOTH HAVE THE SAME CHANCE          3.0        848               0.47
+4                               I DON'T KNOW WHAT THE ARMY PLANS TO DO          4.0        271               0.15
+
+
+
+S205I.Q27D WHICH OF THESE TWO TYPES OF MEN IS MORE LIKELY TO BE LET OUT FIRST UNDER THE ARMY PLAN (THE POINT SYSTEM) - IF THEY ARE EXACTLY THE SAME IN EVERY OTHER WAY?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0         37               0.02
+1              A SINGLE MAN, 23 YEARS OLD          1.0         16               0.01
+2              A SINGLE MAN, 33 YEARS OLD          2.0        435               0.24
+3               BOTH HAVE THE SAME CHANCE          3.0       1104               0.61
+4  I DON'T KNOW WHAT THE ARMY PLANS TO DO          4.0        204               0.11
+
+
+
+S205I.Q27E WHICH OF THESE TWO MEN IS MORE LIKELY TO BE LET OUT FIRST UNDER THE ARMY PLAN (THE POINT SYSTEM) - IF THEY ARE EXACTLY THE SAME IN EVERY OTHER WAY?
+                                                     answer_label answer_value raw_counts relative_frequency
+0                                                       NO ANSWER          0.0         32               0.02
+1  A MAN WITH 24 MONTHS SERVICE, OF WHICH 12 MONTHS WERE OVERSEAS          1.0       1519               0.85
+2   A MAN WITH 24 MONTHS SERVICE, OF WHICH 6 MONTHS WERE OVERSEAS          2.0         52               0.03
+3                                       BOTH HAVE THE SAME CHANCE          3.0         92               0.05
+4                          I DON'T KNOW WHAT THE ARMY PLANS TO DO          4.0        101               0.06
+
+
+
+S205I.Q27F WHICH OF THESE TWO TYPES OF MEN IS MORE LIKELY TO BE LET OUT FIRST UNDER THE ARMY PLAN (THE POINT SYSTEM) - IF THEY ARE EXACTLY THE SAME IN EVERY OTHER WAY?
+                                            answer_label answer_value raw_counts relative_frequency
+0                                              NO ANSWER          0.0         35               0.02
+1  A MAN WHO HAS 180 DAYS OF COMBAT AND 2 CAMPAIGN STARS          1.0        812               0.45
+2   A MAN WHO HAS 90 DAYS OF COMBAT AND 2 CAMPAIGN STARS          2.0         23               0.01
+3                              BOTH HAVE THE SAME CHANCE          3.0        742               0.41
+4                 I DON'T KNOW WHAT THE ARMY PLANS TO DO          4.0        184                0.1
+
+
+
+S205I.Q27G WHICH OF THESE TWO TYPES OF MEN IS MORE LIKELY TO BE LET OUT FIRST UNDER THE ARMY PLAN (THE POINT SYSTEM) - IF THEY ARE EXACTLY THE SAME IN EVERY OTHER WAY?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                         NO ANSWER          0.0         44               0.02
+1                     A MAN WITH TWO CAMPAIGN STARS          1.0        146               0.08
+2  A MAN WITH ONE CAMPAIGN STAR AND THE SILVER STAR          2.0        346               0.19
+3                         BOTH HAVE THE SAME CHANCE          3.0       1005               0.56
+4            I DON'T KNOW WHAT THE ARMY PLANS TO DO          4.0        255               0.14
+
+
+
+S205I.Q28 HOW MANY AMERICAN SOLDIERS WHO ARE NOW IN EUROPE DO YOU THINK WILL BE SENT TO FIGHT AGAINST THE JAPS?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         32               0.02
+1   ALMOST ALL OF THEM          1.0        153               0.09
+2         MOST OF THEM          2.0        747               0.42
+3   ABOUT HALF OF THEM          3.0        750               0.42
+4   ONLY A FEW OF THEM          4.0        103               0.06
+5  ALMOST NONE OF THEM          5.0         11               0.01
+
+
+
+S205I.Q29 SUPPOSE AN OUTFIT IS SHIPPED FROM EUROPE TO THE PACIFIC BEFORE THERE IS TIME TO REPLACE THE MEN WHO ARE ELIGIBLE TO BE LET OUT BECAUSE THEY HAVE THE HIGHEST POINT SCORES. AS FAR AS YOU KNOW, WHAT DOES THE ARMY PLAN TO DO ABOUT THESE MEN WITH VERY HIGH PO
+                                                                          answer_label answer_value raw_counts relative_frequency
+0                                                                            NO ANSWER          0.0         34               0.02
+1                              THEY WILL HAVE TO STAY IN THE PACIFIC WITH THEIR OUTFIT          1.0         44               0.02
+2  THEY WILL HAVE TO STAY IN THE PACIFIC BUT WILL BE TRANSFERRED TO NON-COMBAT OUTFITS          2.0         46               0.03
+3                THEY WILL BE REPLACED AND SENT BACK TO THE STATES AS SOON AS POSSIBLE          3.0       1472               0.82
+4                                    I DON'T KNOW WHAT THE ARMY PLANS TO DO ABOUT THIS          4.0        200               0.11
+
+
+
+S205I.Q30A NOT COUNTING MEDICAL DISCHARGES, HOW MANY SOLDIERS DO YOU THINK WILL BE LET OUT OF THE ARMY DURING THE NEXT SIX MONTHS?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0         28               0.02
+1            ALMOST NONE          1.0         56               0.03
+2  A FAIRLY SMALL NUMBER          2.0        942               0.52
+3  A FAIRLY LARGE NUMBER          3.0        684               0.38
+4    A VERY LARGE NUMBER          4.0         86               0.05
+
+
+
+S205I.Q30B THERE ARE NOW ABOUT EIGHT MILLION MEN IN THE AMERICAN ARMY. NOT COUNTING MEDICAL DISCHARGES, HOW MANY SOLDIERS DO YOU THINK WILL BE LET OUT OF THE ARMY DURING THE NEXT SIX MONTHS?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0         38               0.02
+1            PRACTICALLY NONE WILL BE LET OUT          1.0         59               0.03
+2  LESS THAN ONE-HALF MILLION WILL BE LET OUT          2.0        435               0.24
+3     ONE-HALF TO ONE MILLION WILL BE LET OUT          3.0        650               0.36
+4          ONE TO TWO MILLION WILL BE LET OUT          4.0        514               0.29
+5         TWO TO FOUR MILLION WILL BE LET OUT          5.0         87               0.05
+6           OVER FOUR MILLION WILL BE LET OUT          6.0         13               0.01
+
+
+
+S205I.Q31 HOW DO YOU FEEL ABOUT WHAT YOU'VE DONE IN THIS WAR?
+                                                      answer_label answer_value raw_counts relative_frequency
+0                                                        NO ANSWER          0.0         49               0.03
+1  I FEEL I'VE DONE MY SHARE AS A SOLDIER AND SHOULD BE DISCHARGED          1.0        691               0.38
+2      I FEEL I'VE ALREADY DONE MY SHARE, BUT I'M READY TO DO MORE          2.0        807               0.45
+3                              I DON'T FEEL I'VE DONE MY SHARE YET          3.0        249               0.14
+
+
+
+S205I.Q32 UNDER THE ARMY SCORE CARD PLAN, SOME MEN WILL BE RETURNED TO THE STATES BECAUSE THEY HAVE THE HIGHEST POINT SCORES AND THEREFORE WILL BE FIRST IN TURN TO GET OUT OF THE ARMY. HOW MANY OF THESE MEN WHO ARE FIRST IN TURN TO GET OUT OF THE ARMY DO YOU THINK
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0         40               0.02
+1   ALMOST ALL OF THEM WILL BE LET OUT          1.0        297               0.17
+2         MOST OF THEM WILL BE LET OUT          2.0        702               0.39
+3   ABOUT HALF OF THEM WILL BE LET OUT          3.0        466               0.26
+4   ONLY A FEW OF THEM WILL BE LET OUT          4.0        266               0.15
+5  ALMOST NONE OF THEM WILL BE LET OUT          5.0         25               0.01
+
+
+
+S205I.Q33 IN GENERAL, WHAT DO YOU THINK OF THE ARMY SCORE CARD PLAN (THE POINT SYSTEM)?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0         24               0.01
+1                      IT IS VERY GOOD          1.0        272               0.15
+2                    IT IS FAIRLY GOOD          2.0        895                0.5
+3                    IT IS NOT SO GOOD          3.0        342               0.19
+4                IT IS NOT GOOD AT ALL          4.0        190               0.11
+5  I DON'T KNOW ENOUGH ABOUT IT TO SAY          5.0         73               0.04
+
+
+
+S205I.Q34 WHEN THE ARMY SCORE CARD PLAN (THE POINT SYSTEM) GETS GOING, DO YOU THINK IT WILL REALLY BE CARRIED OUT IN THE WAY IT IS SUPPOSED TO BE?
+                                                            answer_label answer_value raw_counts relative_frequency
+0                                                              NO ANSWER          0.0         36               0.02
+1       YES, I THINK IT WILL BE CARRIED OUT THE WAY IT IS SUPPOSED TO BE          1.0       1046               0.58
+2  NO, I DON'T THINK IT WILL BE CARRIED OUT THE WAY IT IS SUPPOSED TO BE          2.0        520               0.29
+3                              I DON'T KNOW ENOUGH ABOUT THE PLAN TO SAY          3.0        194               0.11
+
+
+
+S205I.Q35 IF THE ARMY SCORE CARD PLAN (THE POINT SYSTEM) IS CARRIED OUT IN THE WAY IT IS SUPPOSED TO BE, DO YOU THINK IT WILL GIVE THE MEN A SQUARE DEAL?
+                                                   answer_label answer_value raw_counts relative_frequency
+0                                                     NO ANSWER          0.0         27               0.02
+1               THE PLAN WILL GIVE ALMOST ALL MEN A SQUARE DEAL          1.0        421               0.23
+2        THE PLAN WILL GIVE MANY MEN A SQUARE DEAL, BUT NOT ALL          2.0        907               0.51
+3  THE PLAN WILL GIVE SOME MEN A SQUARE DEAL, BUT NOT VERY MANY          3.0        262               0.15
+4                 THE PLAN WILL GIVE VERY FEW MEN A SQUARE DEAL          4.0        122               0.07
+5                     I DON'T KNOW ENOUGH ABOUT THE PLAN TO SAY          5.0         57               0.03
+
+
+
+S205I.Q36 HOW DO YOU FEEL ABOUT BEING SENT TO ANOTHER OVERSEAS THEATER, WHICH IS FIGHTING AGAINST THE JAPS?
+                                  answer_label answer_value raw_counts relative_frequency
+0                                    NO ANSWER          0.0        185                0.1
+1                  THE ARMY SHOULD SEND ME NOW          1.0        477               0.27
+2  THE ARMY SHOULD NOT SEND ME FOR A WHILE YET          2.0        374               0.21
+3           THE ARMY SHOULD NOT SEND ME AT ALL          3.0        760               0.42
+
+
+
+S205I.Q37 REGARDLESS OF WHAT YOU WANT TO DO, DO YOU THINK YOU ACTUALLY WILL BE SENT TO ANOTHER OVERSEAS THEATER, WHICH IS FIGHTING AGAINST THE JAPS?
+                                         answer_label answer_value raw_counts relative_frequency
+0                                           NO ANSWER          0.0        101               0.06
+1                       YES, I AM SURE I WILL BE SENT          1.0        209               0.12
+2       YES, I THINK I WILL BE SENT, BUT I'M NOT SURE          2.0        257               0.14
+3                   THE CHANCES ARE ABOUT FIFTY-FIFTY          3.0        483               0.27
+4  NO, I DON'T THINK I WILL BE SENT, BUT I'M NOT SURE          4.0        588               0.33
+5                    NO, I AM SURE I WILL NOT BE SENT          5.0        158               0.09
+
+
+
+S205I.Q38 HOW FAR DID YOU GO IN SCHOOL BEFORE ENTERING THE ARMY?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0         23               0.01
+1                  LESS THAN 6TH GRADE          1.0         53               0.03
+2                   FINISHED 6TH GRADE          2.0         45               0.03
+3                   FINISHED 7TH GRADE          3.0         88               0.05
+4                   FINISHED 8TH GRADE          4.0        162               0.09
+5  SOME HIGH SCHOOL BUT DID NOT FINISH          5.0        459               0.26
+6           GRADUATED FROM HIGH SCHOOL          6.0        608               0.34
+7      SOME COLLEGE BUT DID NOT FINISH          7.0        294               0.16
+8               GRADUATED FROM COLLEGE          8.0         64               0.04
+
+
+
+S205I.Q39 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         22               0.01
+1  19 YEARS OR YOUNGER          1.0         30               0.02
+2          20-24 YEARS          2.0        793               0.44
+3          25-29 YEARS          3.0        486               0.27
+4          30-34 YEARS          4.0        286               0.16
+5     35 YEARS OR MORE          5.0        179                0.1
+
+
+
+S205I.Q40 HOW LONG HAVE YOU BEEN OVERSEAS WITH THE ARMY IN THIS WAR?  ANP (ACTUAL NUMBER MONTHS)
+    answer_label answer_value raw_counts relative_frequency
+0  1 MONTH . . .          1.0         11               0.01
+1      55 MONTHS         55.0          1                0.0
+
+
+
+S205I.Q41 WHAT IS YOUR BEST GUESS AS TO THE LENGTH OF TIME YOU WILL BE OVERSEAS FROM NOW ON?
+                                    answer_label answer_value raw_counts relative_frequency
+0                                      NO ANSWER          0.0        127               0.07
+1                            LESS THAN 1/2 MONTH          1.0          3                0.0
+2      1/2 MONTH UP TO BUT NOT INCLUDING 1 MONTH          2.0          3                0.0
+3   1 MONTH UP TO BUT NOT INCLUDING 1 1/2 MONTHS          3.0          9               0.01
+4  1 1/2 MONTHS UP TO BUT NOT INCLUDING 2 MONTHS          4.0          3                0.0
+5      2 MONTHS UP TO BUT NOT INCLUDING 3 MONTHS          5.0         35               0.02
+6      3 MONTHS UP TO BUT NOT INCLUDING 6 MONTHS          6.0        178                0.1
+7        6 MONTHS UP TO BUT NOT INCLUDING 1 YEAR          7.0        703               0.39
+8       1 YEAR UP TO BUT NOT INCLUDING 18 MONTHS          8.0        501               0.28
+9                              18 MONTHS OR MORE          9.0        234               0.13
+
+
+
+S205I.Q42 HAVE YOU READ THE ARMY'S PAMPHLET (BOOKLET) "TWO DOWN AND ONE TO GO?" THIS IS THE PAMPHLET WHICH THE ARMY HAS GOT OUT TO EXPLAIN THE SCORE CARD PLAN.
+                                                       answer_label answer_value raw_counts relative_frequency
+0                                                         NO ANSWER          0.0         44               0.02
+1                                     YES, I HAVE READ THE PAMPHLET          1.0        342               0.19
+2               YES, I HAVE SEEN THE PAMPHLET, BUT HAVE NOT READ IT          2.0        147               0.08
+3                          NO, I HAVE NOT READ OR SEEN THE PAMPHLET          3.0       1185               0.66
+4  I DON'T REMEMBER WHETHER OR NOT I HAVE SEEN OR READ THE PAMPHLET          4.0         78               0.04
+
+
+
+S205I.Q43 HAVE YOU SEEN THE FILM "TWO DOWN AND ONE TO GO?" THIS IS THE FILM WHICH THE ARMY IS SHOWING TO EXPLAIN THE SCORE CARD PLAN.
+                                                                    answer_label answer_value raw_counts relative_frequency
+0                                                                      NO ANSWER          0.0         23               0.01
+1                             YES, I HAVE SEEN THE FILM "TWO DOWN AND ONE TO GO"          1.0       1589               0.88
+2                          NO, I HAVE NOT SEEN THE FILM "TWO DOWN AND ONE TO GO"          2.0        169               0.09
+3  I DON'T REMEMBER WHETHER OR NOT I HAVE SEEN THE FILM "TWO DOWN AND ONE TO GO"          3.0         15               0.01
+
+
+
+S205I.Q44 HAVE YOUR COMPANY OFFICERS EXPLAINED THE ARMY SCORE CARD PLAN TO YOU?
+                                                       answer_label answer_value raw_counts relative_frequency
+0                                                         NO ANSWER          0.0         27               0.02
+1                YES, THEY HAVE TOLD ME ALL I WANT TO KNOW ABOUT IT          1.0       1201               0.67
+2  THEY HAVE TOLD ME SOMETHING ABOUT IT, BUT NOT ALL I WANT TO KNOW          2.0        249               0.14
+3                                NO, THEY HAVE NOT TOLD ME ABOUT IT          3.0        284               0.16
+4                         I DON'T REMEMBER WHETHER OR NOT THEY HAVE          4.0         35               0.02
+
+
+
+S205I.Q45.1 IN THE LIST BELOW, PLEASE CHECK ALL THE OTHER WAYS IN WHICH YOU HAVE HEARD ABOUT THE ARMY SCORE CARD PLAN.
+  answer_label answer_value raw_counts relative_frequency
+0  I-B ROUNDUP          1.0       1415               0.79
+1   NOT CHOSEN          2.0        381               0.21
+
+
+
+S205I.Q45.2IN THE LIST BELOW, PLEASE CHECK ALL THE OTHER WAYS IN WHICH YOU HAVE HEARD ABOUT THE ARMY SCORE CARD PLAN.
+              answer_label answer_value raw_counts relative_frequency
+0  U.S. ARMY RADIO STATION          1.0       1013               0.56
+1               NOT CHOSEN          2.0        783               0.44
+
+
+
+S205I.Q45.3 IN THE LIST BELOW, PLEASE CHECK ALL THE OTHER WAYS IN WHICH YOU HAVE HEARD ABOUT THE ARMY SCORE CARD PLAN.
+              answer_label answer_value raw_counts relative_frequency
+0  NEWSMAP (C-B-I EDITION)          1.0        406               0.23
+1               NOT CHOSEN          2.0       1390               0.77
+
+
+
+FORM..1FORM.
+                      answer_label answer_value raw_counts relative_frequency
+0  S-20XX - CHINA-INDIA-BURMA FORM          4.0       1796                1.0
+
+
+
+S205I.Q45.4 IN THE LIST BELOW, PLEASE CHECK ALL THE OTHER WAYS IN WHICH YOU HAVE HEARD ABOUT THE ARMY SCORE CARD PLAN.
+                             answer_label answer_value raw_counts relative_frequency
+0  STORIES AND PICTURES ON BULLETIN BOARD          1.0       1063               0.59
+1                              NOT CHOSEN          2.0        733               0.41
+
+
+
+S205I.Q45.5IN THE LIST BELOW, PLEASE CHECK ALL THE OTHER WAYS IN WHICH YOU HAVE HEARD ABOUT THE ARMY SCORE CARD PLAN.
+              answer_label answer_value raw_counts relative_frequency
+0  BULL SESSIONS AMONG MEN          1.0         98               0.05
+1               NOT CHOSEN          2.0       1698               0.95
+
+
+
+S205I.Q45.6IN THE LIST BELOW, PLEASE CHECK ALL THE OTHER WAYS IN WHICH YOU HAVE HEARD ABOUT THE ARMY SCORE CARD PLAN.
+            answer_label answer_value raw_counts relative_frequency
+0  THEATER AND CIRCULARS          1.0         26               0.01
+1             NOT CHOSEN          2.0       1770               0.99
+
+
+
+S205I.Q45.7IN THE LIST BELOW, PLEASE CHECK ALL THE OTHER WAYS IN WHICH YOU HAVE HEARD ABOUT THE ARMY SCORE CARD PLAN.
+           answer_label answer_value raw_counts relative_frequency
+0  PAPERS AND MAGAZINES          1.0         60               0.03
+1            NOT CHOSEN          2.0       1736               0.97
+
+
+
+S205I.Q45.8IN THE LIST BELOW, PLEASE CHECK ALL THE OTHER WAYS IN WHICH YOU HAVE HEARD ABOUT THE ARMY SCORE CARD PLAN.
+        answer_label answer_value raw_counts relative_frequency
+0  LETTERS FROM HOME          1.0         16               0.01
+1         NOT CHOSEN          2.0       1780               0.99
+
+
+
+S205I.Q45.9IN THE LIST BELOW, PLEASE CHECK ALL THE OTHER WAYS IN WHICH YOU HAVE HEARD ABOUT THE ARMY SCORE CARD PLAN.
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0         92               0.05
+1   NOT CHOSEN          2.0       1704               0.95
+
+
+
+S205I.Q46 IF YOU HAD A CHOICE, WHICH ONE OF THESE BRANCHES OF THE ARMY WOULD YOU LIKE TO BE IN?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0        131               0.07
+1                           ENGINEERS          1.0        155               0.09
+2                     FIELD ARTILLERY          2.0         36               0.02
+3                 QUARTERMASTER CORPS          3.0        133               0.07
+4                            INFANTRY          4.0         47               0.03
+5                  MEDICAL DEPARTMENT          5.0         67               0.04
+6                     ARMORED (TANKS)          6.0         37               0.02
+7                        SIGNAL CORPS          7.0        129               0.07
+8   COAST ARTILLERY AND ANTI-AIRCRAFT          8.0         53               0.03
+9                           AIR CORPS          9.0        722                0.4
+10               TRANSPORTATION CORPS         10.0         93               0.05
+11                ORDNANCE DEPARTMENT         11.0         89               0.05
+12           CHEMICAL WARFARE SERVICE         12.0          3                0.0
+13                    MILITARY POLICE         13.0         40               0.02
+14                              OTHER         14.0         61               0.03
+
+
+
+S205I.Q47 WHICH ONE OF THESE BRANCHES WOULD YOU TRY HARDEST TO STAY OUT OF?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0        226               0.13
+1                           ENGINEERS          1.0        137               0.08
+2                     FIELD ARTILLERY          2.0         12               0.01
+3                 QUARTERMASTER CORPS          3.0         48               0.03
+4                            INFANTRY          4.0        596               0.33
+5                  MEDICAL DEPARTMENT          5.0        110               0.06
+6                     ARMORED (TANKS)          6.0         42               0.02
+7                        SIGNAL CORPS          7.0         15               0.01
+8   COAST ARTILLERY AND ANTI-AIRCRAFT          8.0          6                0.0
+9                           AIR CORPS          9.0         44               0.02
+10               TRANSPORTATION CORPS         10.0         17               0.01
+11                ORDNANCE DEPARTMENT         11.0          8                0.0
+12           CHEMICAL WARFARE SERVICE         12.0         60               0.03
+13                    MILITARY POLICE         13.0        471               0.26
+14                              OTHER         14.0          4                0.0
+
+
+
+S205I.Q48 HOW WOULD YOU RATE YOUR GENERAL PHYSICAL CONDITION DURING THE PAST MONTH?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0         32               0.02
+1    MY PHYSICAL CONDITION HAS BEEN VERY GOOD          1.0        438               0.24
+2  MY PHYSICAL CONDITION HAS BEEN PRETTY GOOD          2.0        734               0.41
+3  MY PHYSICAL CONDITION HAS NOT BEEN SO GOOD          3.0        443               0.25
+4    MY PHYSICAL CONDITION HAS BEEN VERY POOR          4.0        149               0.08
+
+
+
+S205I.Q49 IN YOUR OPINION, ARE YOU PHYSICALLY FIT FOR OVERSEAS DUTY IN GENERAL?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         35               0.02
+1          YES          1.0       1010               0.56
+2           NO          2.0        451               0.25
+3    UNDECIDED          3.0        300               0.17
+
+
+
+S205I.Q50 IN YOUR OPINION, ARE YOU PHYSICALLY FIT FOR FURTHER DUTY IN THE INDIA-BURMA THEATER?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         36               0.02
+1          YES          1.0        731               0.41
+2           NO          2.0        722                0.4
+3    UNDECIDED          3.0        307               0.17
+
+
+
+S205I.Q51 IF IT WERE UP TO YOU, WHAT KIND OF AN OUTFIT WOULD YOU RATHER BE IN?
+                                  answer_label answer_value raw_counts relative_frequency
+0                                    NO ANSWER          0.0         61               0.03
+1                  IN A COMBAT OUTFIT OVERSEAS          1.0        287               0.16
+2              IN A NON-COMBAT OUTFIT OVERSEAS          2.0        290               0.16
+3  IN AN OUTFIT STATIONED IN THE UNITED STATES          3.0       1158               0.64
+
+
+
+S205I.Q52 IF IT WERE UP TO YOU TO CHOOSE, DO YOU THINK YOU COULD DO MORE FOR YOUR COUNTRY AS A SOLDIER OR AS A WORKER IN A WAR JOB?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         48               0.03
+1     AS A SOLDIER          1.0        356                0.2
+2  AS A WAR WORKER          2.0       1061               0.59
+3        UNDECIDED          3.0        331               0.18
+
+
+
+S205I.Q53 WHAT DO YOU THINK OF THE MILITARY CONTROL AND DISCIPLINE AT THIS POST?
+                                     answer_label answer_value raw_counts relative_frequency
+0                                       NO ANSWER          0.0         48               0.03
+1     IT'S TOO STRICT BUT MOST OF IT IS NECESSARY          1.0        141               0.08
+2  IT'S TOO STRICT AND A LOT OF IT IS UNNECESSARY          2.0        693               0.39
+3                                IT'S ABOUT RIGHT          3.0        868               0.48
+4                          IT'S NOT STRICT ENOUGH          4.0         46               0.03
+
+
+
+S205I.Q54 IN THE ARMY YOU ARE OFTEN NOT ASKED TO DO THINGS, YOU ARE ORDERED TO DO THINGS. HOW DO YOU FEEL ABOUT TAKING ORDERS FROM OFFICERS AND NON-COMS IN THE ARMY?
+                                         answer_label answer_value raw_counts relative_frequency
+0                                           NO ANSWER          0.0         37               0.02
+1             I DON'T MIND BEING ORDERED TO DO THINGS          1.0        583               0.32
+2      I SOMETIMES DISLIKE BEING ORDERED TO DO THINGS          2.0        913               0.51
+3  I NEARLY ALWAYS DISLIKE BEING ORDERED TO DO THINGS          3.0        263               0.15
+
+
+
+S205I.Q55 HOW SATISFIED ARE YOU ABOUT BEING IN YOUR PRESENT ARMY JOB INSTEAD OF SOME OTHER ARMY JOB?
+                            answer_label answer_value raw_counts relative_frequency
+0                              NO ANSWER          0.0         37               0.02
+1                         VERY SATISFIED          1.0        308               0.17
+2                              SATISFIED          2.0        697               0.39
+3  IT DOES NOT MAKE ANY DIFFERENCE TO ME          3.0        342               0.19
+4                           DISSATISFIED          4.0        258               0.14
+5                      VERY DISSATISFIED          5.0        154               0.09
+
+
+
+S205I.Q56 DO YOU FEEL PROUD OF YOUR COMPANY (BATTERY, SQUADRON, TROOP)?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0         36               0.02
+1    YES, VERY PROUD          1.0        573               0.32
+2  YES, FAIRLY PROUD          2.0        615               0.34
+3      NO, NOT PROUD          3.0        407               0.23
+4          UNDECIDED          4.0        165               0.09
+
+
+
+S205I.Q57 HOW IMPORTANT DO YOU CONSIDER YOUR OWN ARMY JOB IN THE TOTAL WAR EFFORT?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0         33               0.02
+1        VERY IMPORTANT          1.0        507               0.28
+2      FAIRLY IMPORTANT          2.0        722                0.4
+3      NOT SO IMPORTANT          3.0        361                0.2
+4  NOT IMPORTANT AT ALL          4.0        173                0.1
+
+
+
+S205I.Q58 HOW MANY OF YOUR COMPANY OFFICERS ARE THE KIND WHO ARE WILLING TO GO THROUGH ANYTHING THEY ASK THEIR MEN TO GO THROUGH?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0         70               0.04
+1         ALL OF THEM ARE          1.0        123               0.07
+2        MOST OF THEM ARE          2.0        432               0.24
+3  ABOUT HALF OF THEM ARE          3.0        238               0.13
+4         FEW OF THEM ARE          4.0        645               0.36
+5        NONE OF THEM ARE          5.0        288               0.16
+
+
+
+S205I.Q59 DO YOU FEEL THAT YOUR OFFICERS HAVE AN INTEREST IN YOUR PERSONAL PROBLEMS AND WELFARE?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0         55               0.03
+1   THEY HAVE A GREAT DEAL OF INTEREST          1.0        149               0.08
+2  THEY HAVE A FAIR AMOUNT OF INTEREST          2.0        555               0.31
+3        THEY DON'T HAVE MUCH INTEREST          3.0        657               0.37
+4         THEY HAVE NO INTEREST AT ALL          4.0        380               0.21
+
+
+
+S205I.Q60 ARE THE MESS FACILITIES AND FOOD IN YOUR OUTFIT AS GOOD AS THEY COULD BE UNDER PRESENT CIRCUMSTANCES?
+                       answer_label answer_value raw_counts relative_frequency
+0                         NO ANSWER          0.0         30               0.02
+1     YES, AS GOOD AS THEY COULD BE          1.0        603               0.34
+2  NO, NOT AS GOOD AS THEY COULD BE          2.0       1064               0.59
+3                         UNDECIDED          3.0         99               0.06
+
+
+
+S205I.Q61 CONSIDERING WHAT THE CHINESE ARE DOING IN THE TOTAL WAR EFFORT, DO YOU THINK THAT WE ARE NOW GIVING THEM TOO MUCH HELP OR TOO LITTLE HELP?
+                                         answer_label answer_value raw_counts relative_frequency
+0                                           NO ANSWER          0.0         43               0.02
+1                   WE ARE GIVING CHINA TOO MUCH HELP          1.0        422               0.23
+2  WE ARE GIVING CHINA ABOUT THE RIGHT AMOUNT OF HELP          2.0        705               0.39
+3                 WE ARE NOT GIVING CHINA ENOUGH HELP          3.0        308               0.17
+4                                   I HAVE NO OPINION          4.0        318               0.18
+
+
+
+S205I.Q62 NOW THAT THE WAR IN EUROPE IS OVER, WHAT DO YOU THINK THE BRITISH WILL PROBABLY DO IN THE WAR AGAINST JAPAN?
+                                         answer_label answer_value raw_counts relative_frequency
+0                                           NO ANSWER          0.0         38               0.02
+1  THE BRITISH WILL PROBABLY DO MORE THAN THEIR SHARE          1.0         27               0.02
+2            THE BRITISH WILL PROBABLY DO THEIR SHARE          2.0        677               0.38
+3  THE BRITISH WILL PROBABLY DO LESS THAN THEIR SHARE          3.0        905                0.5
+4                                   I HAVE NO OPINION          4.0        149               0.08
+
+
+
+S205I.Q63 NOW THAT THE WAR IN EUROPE IS OVER, HOW DO YOU THINK WE WILL GET ALONG WITH RUSSIA?
+                                                        answer_label answer_value raw_counts relative_frequency
+0                                                          NO ANSWER          0.0         41               0.02
+1                                        WE WILL GET ALONG VERY WELL          1.0        137               0.08
+2         WE WILL DISAGREE ABOUT SOME THINGS BUT MANAGE TO GET ALONG          2.0        767               0.43
+3  WE WILL HAVE SOME SERIOUS ARGUMENTS BUT WE WON'T FIGHT EACH OTHER          3.0        492               0.27
+4               WE WILL VERY LIKELY FIGHT EACH OTHER SOONER OR LATER          4.0        224               0.12
+5                                                  I HAVE NO OPINION          5.0        135               0.08
+
+
+
+S205I.Q64 HOW IMPORTANT DO YOU CONSIDER THE INDIA-BURMA THEATER, RIGHT NOW, IN THE TOTAL WAR EFFORT?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0         33               0.02
+1        VERY IMPORTANT          1.0        603               0.34
+2      FAIRLY IMPORTANT          2.0        623               0.35
+3      NOT SO IMPORTANT          3.0        369               0.21
+4  NOT IMPORTANT AT ALL          4.0        125               0.07
+5     I HAVE NO OPINION          5.0         43               0.02
+
+
+
+S205I.V65 FORCE IDENTIFICATION:
+          answer_label answer_value raw_counts relative_frequency
+0       ARMY AIR FORCE          1.0       1070                0.6
+1   ARMY GROUND FORCES          2.0         35               0.02
+2  ARMY SERVICE FORCES          3.0        691               0.38
+
+
+
+S205I.V66 IDENTIFICATION OF SUB-SAMPLES: CROSS-SECTION OF ENLISTED MEN FOR WORLD-WIDE COMPARISON (WHITE AND NEGRO). E. NO DATA FOR MEDITERRANEAN THEATER.
+                    answer_label answer_value raw_counts relative_frequency
+0  WHITE AND NEGRO CROSS-SECTION          1.0        192               0.11
+1                ALL OTHER CASES          2.0       1604               0.89
+
+
+
+S205I.V67 IDENTIFICATION OF SUB-SAMPLES: CROSS-SECTION OF NEGRO ENLISTED MEN.
+          answer_label answer_value raw_counts relative_frequency
+0  NEGRO CROSS-SECTION          1.0        276               0.15
+1      ALL OTHER CASES          2.0       1520               0.85
+
+
+
+S205I.V68 UNIDENTIFIED OUTFIT:
+          answer_label answer_value raw_counts relative_frequency
+0  ORIGINAL PUNCH OF 0          0.0         69               0.04
+1  ORIGINAL PUNCH OF 1          1.0        232               0.13
+2  ORIGINAL PUNCH OF 2          2.0        281               0.16
+3  ORIGINAL PUNCH OF 3          3.0        213               0.12
+4  ORIGINAL PUNCH OF 4          4.0        249               0.14
+5  ORIGINAL PUNCH OF 5          5.0        119               0.07
+6  ORIGINAL PUNCH OF 6          6.0        167               0.09
+7  ORIGINAL PUNCH OF 7          7.0        398               0.22
+8  ORIGINAL PUNCH OF 8          8.0         68               0.04
+
+
+

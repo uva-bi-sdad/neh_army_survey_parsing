@@ -1,0 +1,459 @@
+{
+  "S175.Q1": {
+    "0.0": "NO ANSWER",
+    "1.0": "PRIVATE OR PRIVATE FIRST CLASS",
+    "2.0": "CORPORAL OR TECHNICIAN 5TH GRADE",
+    "3.0": "SERGEANT OR TECHNICIAN 4TH GRADE",
+    "4.0": "STAFF SERGEANT OR TECHNICIAN 3RD GRADE",
+    "5.0": "TECHNICAL SERGEANT, MASTER SERGEANT OR FIRST SERGEANT"
+  },
+  "S175.Q2": {
+    "0.0": "NO ANSWER",
+    "1.0": "18 YEARS OR LESS",
+    "2.0": "19 YEARS",
+    "3.0": "20",
+    "4.0": "21",
+    "5.0": "22",
+    "6.0": "23",
+    "7.0": "24",
+    "8.0": "25",
+    "9.0": "26-29 YEARS",
+    "10.0": "30-34 YEARS",
+    "11.0": "35 YEARS AND OVER"
+  },
+  "S175.Q3": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN 8TH GRADE",
+    "2.0": "FINISHED 8TH GRADE",
+    "3.0": "SOME HIGH SCHOOL BUT DID NOT FINISH",
+    "4.0": "GRADUATED FROM HIGH SCHOOL",
+    "5.0": "WENT TO COLLEGE"
+  },
+  "S175.Q4": {
+    "0.0": "NO ANSWER",
+    "1.0": "3 MONTHS OR LESS",
+    "2.0": "OVER 3 MONTHS UP TO 6 MONTHS",
+    "3.0": "OVER 6 MONTHS UP TO 9 MONTHS",
+    "4.0": "OVER 9 MONTHS UP TO 1 YEAR",
+    "5.0": "OVER 1 YEAR UP TO 18 MONTHS",
+    "6.0": "OVER 18 MONTHS UP TO 2 YEARS",
+    "7.0": "OVER 2 YEARS UP TO 30 MONTHS",
+    "8.0": "OVER 30 MONTHS UP TO 3 YEARS",
+    "9.0": "3 YEARS AND OVER"
+  },
+  "S175.Q5": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, I DO",
+    "2.0": "NO, I DON'T"
+  },
+  "S175.Q6": {
+    "0.0": "NO ANSWER",
+    "NaN": "QUESTION 7 NOT CODED.",
+    "1.0": "EVERY TIME",
+    "2.0": "ABOUT HALF THE TIME",
+    "3.0": "JUST ONCE IN A WHILE",
+    "4.0": "HARDLY EVER"
+  },
+  "S175.Q8": {
+    "0.0": "NO ANSWER",
+    "1.0": "I HAVE A NEW TYPE MASK",
+    "2.0": "I HAVE AN OLD TYPE ONE",
+    "3.0": "I DON'T KNOW WHETHER MINE IS AN OLD OR NEW TYPE MASK",
+    "4.0": "I DON'T HAVE A GAS MASK AT ALL"
+  },
+  "S175.Q9": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT IS ABSOLUTELY NECESSARY",
+    "2.0": "IT IS OF GREAT IMPORTANCE",
+    "3.0": "IT IS OF MEDIUM IMPORTANCE",
+    "4.0": "IT IS OF LITTLE IMPORTANCE",
+    "5.0": "IT IS OF NO IMPORTANCE AT ALL"
+  },
+  "S175.Q10": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONCE",
+    "2.0": "TWICE",
+    "3.0": "THREE TIMES",
+    "4.0": "FOUR TIMES",
+    "5.0": "NOT AT ALL"
+  },
+  "S175.Q11": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT IS A VERY GOOD IDEA",
+    "2.0": "IT IS A FAIRLY GOOD IDEA",
+    "3.0": "IT IS A VERY POOR IDEA",
+    "4.0": "IT IS A POOR IDEA"
+  },
+  "S175.Q12": {
+    "1.0": "ONCE",
+    "2.0": "TWICE",
+    "3.0": "THREE OR MORE TIMES",
+    "4.0": "NOT AT ALL"
+  },
+  "S175.Q13": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT IS A VERY GOOD IDEA",
+    "2.0": "IT IS A FAIRLY GOOD IDEA",
+    "3.0": "IT IS A VERY POOR IDEA",
+    "4.0": "IT IS A POOR IDEA"
+  },
+  "S175.Q14": {
+    "0.0": "NO ANSWER",
+    "1.0": "A GREAT DEAL",
+    "2.0": "A FAIR AMOUNT",
+    "3.0": "NOT SO MUCH",
+    "4.0": "HARDLY ANY"
+  },
+  "S175.Q15": {
+    "1.0": "YES, I AM SURE I KNOW WHAT TO DO",
+    "2.0": "YES, I THINK I KNOW WHAT TO DO, BUT I AM NOT SURE",
+    "4.0": "UNDECIDED",
+    "NaN": "QUESTION 16 NOT CODED.",
+    "0.0": "NO ANSWER",
+    "3.0": "NO, I DON'T THINK I KNOW WHAT TO DO"
+  },
+  "S175.Q17": {
+    "0.0": "NO ANSWER",
+    "1.0": "WE SHOULD USE GAS NOW AND TAKE THE JAPS BY SURPRISE",
+    "2.0": "WE SHOULD NOT USE GAS UNLESS THE JAPS DO FIRST",
+    "3.0": "WE SHOULD NOT USE GAS EVEN IF THE JAPS DO",
+    "4.0": "UNDECIDED"
+  },
+  "S175.Q18": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT IS VERY LIKELY",
+    "2.0": "IT IS FAIRLY LIKELY",
+    "3.0": "IT IS NOT SO LIKELY",
+    "4.0": "IT IS NOT LIKELY AT ALL",
+    "5.0": "UNDECIDED"
+  },
+  "S175.Q19": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "DON'T KNOW"
+  },
+  "S175.Q20": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "DON'T KNOW"
+  },
+  "S175.Q21": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "DON'T KNOW"
+  },
+  "S175.Q22": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "DON'T KNOW"
+  },
+  "S175.Q23": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH WORTHWHILE",
+    "2.0": "FAIRLY WORTHWHILE",
+    "3.0": "NOT SO WORTHWHILE",
+    "4.0": "NOT WORTHWHILE AT ALL",
+    "5.0": "UNDECIDED"
+  },
+  "S175.Q24": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS OFTEN THAN ONCE A WEEK",
+    "2.0": "ONCE A WEEK",
+    "3.0": "MORE OFTEN THAN ONCE A WEEK",
+    "4.0": "NOT AT ALL",
+    "5.0": "WE DON'T HAVE SUCH MEETINGS"
+  },
+  "S175.Q25": {
+    "0.0": "NO ANSWER",
+    "1.0": "I WOULD RATHER HAVE AN OFFICER",
+    "2.0": "I WOULD RATHER HAVE AN ENLISTED MAN",
+    "3.0": "IT MAKES NO DIFFERENCE TO ME WHO LEADS THE MEETINGS"
+  },
+  "S175.Q26": {
+    "0.0": "NO ANSWER",
+    "1.0": "HE ALWAYS DOES",
+    "2.0": "HE USUALLY DOES",
+    "3.0": "HE SELDOM DOES",
+    "4.0": "HE NEVER DOES",
+    "5.0": "WE DON'T HAVE SUCH MEETINGS"
+  },
+  "S175.Q27": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALL OF THEM",
+    "NaN": "QUESTION 28 NOT CODED.",
+    "2.0": "MOST OF THEM",
+    "3.0": "ABOUT HALF OF THEM",
+    "4.0": "FEW OF THEM",
+    "5.0": "NONE OF THEM",
+    "6.0": "WE DON'T HAVE SUCH MEETINGS"
+  },
+  "S175.Q29": {
+    "0.0": "NO ANSWER",
+    "1.0": "THEY HELP A LOT",
+    "2.0": "THEY HELP SOMEWHAT",
+    "3.0": "THEY HARDLY HELP AT ALL",
+    "4.0": "WE DON'T HAVE SUCH MEETINGS"
+  },
+  "S175.Q30A": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY INTERESTED",
+    "2.0": "NOT SO INTERESTED",
+    "3.0": "NOT INTERESTED AT ALL"
+  },
+  "S175.Q30B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY INTERESTED",
+    "2.0": "NOT SO INTERESTED",
+    "3.0": "NOT INTERESTED AT ALL"
+  },
+  "S175.Q30C": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY INTERESTED",
+    "2.0": "NOT SO INTERESTED",
+    "3.0": "NOT INTERESTED AT ALL"
+  },
+  "S175.Q30D": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY INTERESTED",
+    "2.0": "NOT SO INTERESTED",
+    "3.0": "NOT INTERESTED AT ALL"
+  },
+  "S175.Q30E": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY INTERESTED",
+    "2.0": "NOT SO INTERESTED",
+    "3.0": "NOT INTERESTED AT ALL"
+  },
+  "S175.Q30F": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY INTERESTED",
+    "2.0": "NOT SO INTERESTED",
+    "3.0": "NOT INTERESTED AT ALL"
+  },
+  "S175.Q30G": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY INTERESTED",
+    "2.0": "NOT SO INTERESTED",
+    "3.0": "NOT INTERESTED AT ALL"
+  },
+  "S175.Q30H": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY INTERESTED",
+    "2.0": "NOT SO INTERESTED",
+    "3.0": "NOT INTERESTED AT ALL"
+  },
+  "S175.Q30I": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY INTERESTED",
+    "2.0": "NOT SO INTERESTED",
+    "3.0": "NOT INTERESTED AT ALL"
+  },
+  "S175.Q30J": {
+    "0.0": "NO ANSWER",
+    "2.0": "NOT SO INTERESTED",
+    "NaN": "QUESTION 31 NOT CODED.",
+    "1.0": "VERY INTERESTED",
+    "3.0": "NOT INTERESTED AT ALL"
+  },
+  "S175.Q32": {
+    "0.0": "NO ANSWER",
+    "1.0": "THEY ALWAYS DO",
+    "2.0": "THEY USUALLY DO",
+    "3.0": "THEY SELDOM DO",
+    "4.0": "THEY NEVER DO",
+    "5.0": "WE DON'T HAVE SUCH MEETINGS"
+  },
+  "S175.Q33": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S175.Q34": {
+    "0.0": "NO ANSWER",
+    "1.0": "I OFTEN DO",
+    "2.0": "I SOMETIMES DO",
+    "3.0": "I SELDOM DO",
+    "4.0": "I NEVER DO",
+    "5.0": "WE DON'T HAVE A CHANCE TO TAKE PART"
+  },
+  "S175.Q35": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, THE OFFICERS GO TO THEM",
+    "2.0": "NO, THE OFFICERS DON'T GO TO THEM"
+  },
+  "S175.Q36": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE DISCUSSION WHEN OFFICERS ATTEND",
+    "2.0": "LESS DISCUSSION WHEN OFFICERS ATTEND",
+    "3.0": "IT MAKES NO DIFFERENCE",
+    "4.0": "WE DON'T HAVE DISCUSSIONS AT OUR MEETINGS",
+    "5.0": "UNDECIDED"
+  },
+  "S175.Q37": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "DON'T KNOW"
+  },
+  "S175.Q38": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN ONCE A WEEK",
+    "2.0": "ABOUT ONCE A WEEK",
+    "3.0": "ONCE OR TWICE A WEEK",
+    "4.0": "THREE OR FOUR TIMES A WEEK",
+    "5.0": "EVERY DAY",
+    "6.0": "NOT AT ALL",
+    "7.0": "WE DON'T HAVE A WAR INFORMATION CENTER HERE"
+  },
+  "S175.Q39": {
+    "0.0": "NO ANSWER",
+    "1.0": "THEY HELP A LOT",
+    "2.0": "THEY HELP SOMEWHAT",
+    "3.0": "THEY HARDLY HELP AT ALL",
+    "4.0": "WE DON'T HAVE A WAR INFORMATION CENTER HERE"
+  },
+  "S175.Q40": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, I HAVE BEEN TOLD ABOUT THEM",
+    "2.0": "NO, I NEVER HAVE BEEN TOLD ABOUT THEM",
+    "3.0": "I'M NOT SURE IF I'VE BEEN TOLD OR NOT"
+  },
+  "S175.Q41": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, I AM TAKING A COURSE NOW",
+    "2.0": "YES, I WOULD LIKE TO TAKE A COURSE",
+    "3.0": "NO, I AM NOT INTERESTED"
+  },
+  "S175.Q42A": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY IMPORTANT",
+    "2.0": "FAIRLY IMPORTANT",
+    "3.0": "NOT SO IMPORTANT",
+    "4.0": "NOT IMPORTANT AT ALL"
+  },
+  "S175.Q42B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY IMPORTANT",
+    "2.0": "FAIRLY IMPORTANT",
+    "3.0": "NOT SO IMPORTANT",
+    "4.0": "NOT IMPORTANT AT ALL"
+  },
+  "S175.Q42C": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY IMPORTANT",
+    "2.0": "FAIRLY IMPORTANT",
+    "3.0": "NOT SO IMPORTANT",
+    "4.0": "NOT IMPORTANT AT ALL"
+  },
+  "S175.Q42D": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY IMPORTANT",
+    "2.0": "FAIRLY IMPORTANT",
+    "3.0": "NOT SO IMPORTANT",
+    "4.0": "NOT IMPORTANT AT ALL"
+  },
+  "S175.Q42E": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY IMPORTANT",
+    "2.0": "FAIRLY IMPORTANT",
+    "3.0": "NOT SO IMPORTANT",
+    "4.0": "NOT IMPORTANT AT ALL"
+  },
+  "S175.Q42F": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY IMPORTANT",
+    "2.0": "FAIRLY IMPORTANT",
+    "3.0": "NOT SO IMPORTANT",
+    "4.0": "NOT IMPORTANT AT ALL"
+  },
+  "S175.Q42G": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY IMPORTANT",
+    "2.0": "FAIRLY IMPORTANT",
+    "3.0": "NOT SO IMPORTANT",
+    "4.0": "NOT IMPORTANT AT ALL"
+  },
+  "S175.Q42H": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY IMPORTANT",
+    "2.0": "FAIRLY IMPORTANT",
+    "3.0": "NOT SO IMPORTANT",
+    "4.0": "NOT IMPORTANT AT ALL"
+  },
+  "S175.Q42I": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY IMPORTANT",
+    "2.0": "FAIRLY IMPORTANT",
+    "3.0": "NOT SO IMPORTANT",
+    "4.0": "NOT IMPORTANT AT ALL"
+  },
+  "S175.Q42J": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY IMPORTANT",
+    "2.0": "FAIRLY IMPORTANT",
+    "3.0": "NOT SO IMPORTANT",
+    "4.0": "NOT IMPORTANT AT ALL"
+  },
+  "S175.Q42K": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY IMPORTANT",
+    "2.0": "FAIRLY IMPORTANT",
+    "3.0": "NOT SO IMPORTANT",
+    "4.0": "NOT IMPORTANT AT ALL"
+  },
+  "S175.Q42L": {
+    "1.0": "VERY IMPORTANT",
+    "2.0": "FAIRLY IMPORTANT",
+    "4.0": "NOT IMPORTANT AT ALL",
+    "NaN": "QUESTION 43 NOT CODED.",
+    "0.0": "NO ANSWER",
+    "3.0": "NOT SO IMPORTANT"
+  },
+  "S175.Q44": {
+    "0.0": "NO ANSWER",
+    "1.0": "WE WILL GET ALONG VERY WELL",
+    "2.0": "WE WILL DISAGREE ABOUT SOME THINGS BUT MANAGE TO GET ALONG",
+    "3.0": "WE WILL HAVE SOME SERIOUS DISAGREEMENTS BUT WE WON'T FIGHT EACH OTHER",
+    "4.0": "WE WILL VERY LIKELY FIGHT EACH OTHER SOONER OR LATER",
+    "5.0": "UNDECIDED"
+  },
+  "S175.Q45": {
+    "0.0": "NO ANSWER",
+    "1.0": "WE WILL GET ALONG VERY WELL",
+    "2.0": "WE WILL DISAGREE ABOUT SOME THINGS BUT MANAGE TO GET ALONG",
+    "3.0": "WE WILL HAVE SOME SERIOUS DISAGREEMENTS BUT WE WON'T FIGHT EACH OTHER",
+    "4.0": "WE WILL VERY LIKELY FIGHT EACH OTHER SOONER OR LATER",
+    "5.0": "UNDECIDED"
+  },
+  "S175.Q46": {
+    "0.0": "NO ANSWER",
+    "1.0": "WE WILL GET ALONG VERY WELL",
+    "NaN": "QUESTION 47 NOT CODED.",
+    "2.0": "WE WILL DISAGREE ABOUT SOME THINGS BUT MANAGE TO GET ALONG",
+    "3.0": "WE WILL HAVE SOME SERIOUS DISAGREEMENTS BUT WE WON'T FIGHT EACH OTHER",
+    "4.0": "WE WILL VERY LIKELY FIGHT EACH OTHER SOONER OR LATER",
+    "5.0": "UNDECIDED"
+  },
+  "S175.V48": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS OFTEN THAN ONCE A WEEK",
+    "2.0": "ONCE A WEEK",
+    "3.0": "MORE OFTEN THAN ONCE A WEEK",
+    "4.0": "NOT AT ALL",
+    "5.0": "DON'T KNOW"
+  },
+  "S175.V49": {
+    "1.0": "HICKAM - HAD CHEMICAL WARFARE TRAINING",
+    "2.0": "HICKAM - DID NOT HAVE CHEMICAL WARFARE TRAINING",
+    "3.0": "WHEELER - DID NOT HAVE CHEMICAL WARFARE TRAINING",
+    "4.0": "MOKULEIA - HAD CHEMICAL WARFARE TRAINING",
+    "5.0": "BELLOWS - HAD CHEMICAL WARFARE TRAINING",
+    "6.0": "BELLOWS - DID NOT HAVE CHEMICAL WARFARE TRAINING",
+    "7.0": "KAHULU - HAD CHEMICAL WARFARE TRAINING",
+    "8.0": "KAHULU - DID NOT HAVE CHEMICAL WARFARE TRAINING"
+  }
+}

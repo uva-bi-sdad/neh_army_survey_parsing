@@ -1,0 +1,1190 @@
+FORMFORM
+                  answer_label answer_value raw_counts relative_frequency
+0  S-218U - UNITED STATES FORM          1.0       4519                1.0
+
+
+
+S218U.Q1 WHAT IS YOUR RANK OR GRADE?
+                                          answer_label answer_value raw_counts relative_frequency
+0                                            NO ANSWER          0.0         43               0.01
+1                                              PRIVATE          1.0       1392               0.31
+2                                  PRIVATE FIRST CLASS          2.0        901                0.2
+3                     CORPORAL OR TECHNICIAN 5TH GRADE          3.0        725               0.16
+4  SERGEANT (ANY GRADE) OR TECHNICIAN 3RD OR 4TH GRADE          4.0       1458               0.32
+
+
+
+S218U.Q2 HOW LONG HAVE YOU BEEN IN THE ARMY? E. IF YOU HAVE SERVED PREVIOUSLY IN THE ARMY, GIVE THE LENGTH OF TIME SINCE YOU ENTERED THIS LAST TIME. IF YOU WERE A NATIONAL GUARDSMAN GIVE THE LENGTH OF TIME SINCE YOUR OUTFIT ENTERED THE ARMY.  ANP (ACTUAL NUMBER M
+            answer_label answer_value raw_counts relative_frequency
+0  1 MONTH OR LESS . . .          1.0         97               0.02
+1      99 MONTHS OR MORE         99.0         33               0.01
+
+
+
+S218U.Q3 HAVE YOU BEEN IN ACTUAL COMBAT IN THIS WAR?
+                                                  answer_label answer_value raw_counts relative_frequency
+0                                                    NO ANSWER          0.0         50               0.01
+1                            YES, I HAVE BEEN IN ACTUAL COMBAT          1.0        649               0.14
+2  YES, I HAVE BEEN UNDER ENEMY FIRE, BUT NOT IN ACTUAL COMBAT          2.0        469                0.1
+3                                                           NO          3.0       3351               0.74
+
+
+
+S218U.Q4 ARE YOU ENTITLED TO WEAR ANY CAMPAIGN STARS? IF YES, HOW MANY?
+               answer_label answer_value raw_counts relative_frequency
+0                 NO ANSWER          0.0         68               0.02
+1             YES, ONE STAR          1.0        388               0.09
+2            YES, TWO STARS          2.0        235               0.05
+3          YES, THREE STARS          3.0        225               0.05
+4           YES, FOUR STARS          4.0        160               0.04
+5           YES, FIVE STARS          5.0         73               0.02
+6            YES, SIX STARS          6.0         25               0.01
+7          YES, SEVEN STARS          7.0         24               0.01
+8          YES, EIGHT STARS          8.0          9                0.0
+9   YES, NINE OR MORE STARS          9.0          9                0.0
+10           YES, NO ANSWER         10.0         23               0.01
+11                       NO         11.0       3280               0.73
+
+
+
+S218U.Q5 WHICH OF THE FOLLOWING DECORATIONS OR AWARDS DO YOU HAVE? (DISTINGUISHED-SERVICE CROSS, LEGION OF MERIT, SILVER STAR, DISTINGUISHED-FLYING CROSS, SOLDIER'S MEDAL, BRONZE STAR MEDAL (NOT CAMPAIGN STAR), AIR MEDAL, PURPLE HEART) Z. COUNT EACH STAR, AWARD A
+                             answer_label answer_value raw_counts relative_frequency
+0                      NO CODE OR NO DATA          0.0          3                0.0
+1                            TOTAL OF ONE          1.0        337               0.07
+2                     TOTAL OF TWENTY ONE         21.0          1                0.0
+3  I DON'T HAVE ANY AWARDS OR DECORATIONS         98.0       3256               0.72
+4                               NO ANSWER         99.0         75               0.02
+
+
+
+S218U.Q6 ARE YOU:
+                      answer_label answer_value raw_counts relative_frequency
+0                        NO ANSWER          0.0         18                0.0
+1                           SINGLE          1.0       2158               0.48
+2                          MARRIED          2.0       2219               0.49
+3  WIDOWED, DIVORCED, OR SEPARATED          3.0        124               0.03
+
+
+
+S218U.Q7 HAVE YOU ANY CHILDREN UNDER 18 YEARS OF AGE? IF YES, HOW MANY?
+                 answer_label answer_value raw_counts relative_frequency
+0          NO CODE OR NO DATA          0.0          5                0.0
+1              YES, ONE CHILD          1.0        712               0.16
+2           YES, TWO CHILDREN          2.0        325               0.07
+3         YES, THREE CHILDREN          3.0        124               0.03
+4  YES, FOUR OR MORE CHILDREN          4.0         56               0.01
+5              YES, NO ANSWER          5.0         20                0.0
+6                          NO          6.0       3087               0.68
+7                   NO ANSWER          7.0        190               0.04
+
+
+
+S218U.Q8 HOW FAR DID YOU GO IN SCHOOL BEFORE ENTERING THE ARMY?
+                          answer_label answer_value raw_counts relative_frequency
+0                   NO CODE OR NO DATA          0.0          3                0.0
+1                  LESS THAN 6TH GRADE          1.0        256               0.06
+2                   FINISHED 6TH GRADE          2.0        133               0.03
+3                   FINISHED 7TH GRADE          3.0        262               0.06
+4                   FINISHED 8TH GRADE          4.0        510               0.11
+5  SOME HIGH SCHOOL BUT DID NOT FINISH          5.0       1109               0.25
+6           GRADUATED FROM HIGH SCHOOL          6.0       1403               0.31
+7      SOME COLLEGE BUT DID NOT FINISH          7.0        657               0.15
+8               GRADUATED FROM COLLEGE          8.0        163               0.04
+9                            NO ANSWER          9.0         23               0.01
+
+
+
+S218U.Q9 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+              answer_label answer_value raw_counts relative_frequency
+0       NO CODE OR NO DATA          0.0          2                0.0
+1  19 YEARS OF AGE OR LESS          1.0        609               0.13
+2              20-24 YEARS          2.0       1172               0.26
+3              25-29 YEARS          3.0       1473               0.33
+4              30-34 YEARS          4.0        721               0.16
+5              35-39 YEARS          5.0        457                0.1
+6        40 YEARS AND OVER          6.0         35               0.01
+7                NO ANSWER          7.0         50               0.01
+
+
+
+S218U.Q10 HOW CLEAR AN IDEA DO YOU HAVE OF WHY WE ARE FIGHTING THIS WAR?
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0         32               0.01
+1    I HAVE A VERY CLEAR IDEA          1.0       2404               0.53
+2  I HAVE A FAIRLY CLEAR IDEA          2.0       1656               0.37
+3           I AM NOT SO CLEAR          3.0        248               0.05
+4       I AM NOT AT ALL CLEAR          4.0        179               0.04
+
+
+
+S218U.Q11 DO YOU EVER GET THE FEELING THAT THIS WAR IS NOT WORTH FIGHTING?
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0         53               0.01
+1                  VERY OFTEN          1.0        342               0.08
+2                   SOMETIMES          2.0       1076               0.24
+3  ONLY ONCE IN A GREAT WHILE          3.0        905                0.2
+4                       NEVER          4.0       2143               0.47
+
+
+
+S218U.Q12 IN GENERAL, HOW WOULD YOU SAY YOU FEEL MOST OF THE TIME, IN GOOD SPIRITS OR IN LOW SPIRITS?
+                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                  NO ANSWER          0.0         20                0.0
+1                                               I AM USUALLY IN GOOD SPIRITS          1.0       1455               0.32
+2  I AM IN GOOD SPIRITS SOME OF THE TIME AND IN LOW SPIRITS SOME OF THE TIME          2.0       2281                0.5
+3                                                I AM USUALLY IN LOW SPIRITS          3.0        763               0.17
+
+
+
+S218U.Q13 CONSIDERING EVERYTHING, HOW DO YOU FEEL ABOUT FURTHER SERVICE IN THE ARMY?
+                                                                              answer_label answer_value raw_counts relative_frequency
+0                                                                                NO ANSWER          0.0         32               0.01
+1                                                               I SHOULD BE DISCHARGED NOW          1.0       1931               0.43
+2  I SHOULD SERVE A WHILE LONGER, BUT I SHOULD NOT HAVE TO STAY IN UNTIL JAPAN IS DEFEATED          2.0        624               0.14
+3                    I SHOULD BE DISCHARGED AS SOON AFTER JAPAN IS DEFEATED AS IS POSSIBLE          3.0       1825                0.4
+4                                               I WANT TO REMAIN IN THE ARMY AFTER THE WAR          4.0        107               0.02
+
+
+
+S218U.Q14A.x HOW GOOD DO YOU THINK YOUR CHANCES ARE OF BEING DISCHARGED FROM THE ARMY BEFORE THE WAR WITH JAPAN IS OVER?  Q.14B. WHAT ARE THE REASONS FOR YOUR ANSWER TO QUESTION 14?
+                                                                                                 answer_label answer_value raw_counts relative_frequency
+0                                                                                                   NO ANSWER          0.0         32               0.01
+1                                                                                            VERY GOOD CHANCE          1.0        366               0.08
+2                                                                                          FAIRLY GOOD CHANCE          2.0        766               0.17
+3                                                                                        NOT MUCH OF A CHANCE          3.0       1619               0.36
+4                                                                                            NO CHANCE AT ALL          4.0       1264               0.28
+5                                                VERY GOOD OR FAIRLY GOOD CHANCE (MEDICAL REASON GIVEN Q.14B)          5.0          5                0.0
+6  VERY GOOD OR FAIRLY GOOD CHANCE (PHYSICALLY DISQUALIFIED FOR OVERSEAS DUTY, P.D.Q., D.P.O., CLASS D, ETC.)          6.0        467                0.1
+
+
+
+S218U.Q15 WHAT IS YOUR BEST GUESS AS TO HOW MUCH LONGER YOU WILL BE IN THE ARMY BEFORE YOU ARE DISCHARGED?
+                                  answer_label answer_value raw_counts relative_frequency
+0                                    NO ANSWER          0.0        704               0.16
+1                           LESS THAN 3 MONTHS          1.0        204               0.05
+2    3 MONTHS UP TO BUT NOT INCLUDING 6 MONTHS          2.0        337               0.07
+3      6 MONTHS UP TO BUT NOT INCLUDING 1 YEAR          3.0        851               0.19
+4   1 YEAR UP TO BUT NOT INCLUDING 1 1/2 YEARS          4.0       1091               0.24
+5  1 1/2 YEARS UP TO BUT NOT INCLUDING 2 YEARS          5.0        557               0.12
+6      2 YEARS UP TO BUT NOT INCLUDING 3 YEARS          6.0        617               0.14
+7                              3 YEARS OR MORE          7.0        158               0.03
+
+
+
+S218U.Q16 COMPARED WITH OTHER PEOPLE, HOW GOOD DO YOU THINK YOUR CHANCES WILL BE OF GETTING THE KIND OF JOB YOU WANT BY THE TIME YOU GET OUT OF THE ARMY?
+                                         answer_label answer_value raw_counts relative_frequency
+0                                           NO ANSWER          0.0         48               0.01
+1        MY CHANCES WILL BE BETTER THAN MOST PEOPLE'S          1.0       1386               0.31
+2  MY CHANCES WILL BE ABOUT THE SAME AS MOST PEOPLE'S          2.0       2285               0.51
+3         MY CHANCES WILL BE WORSE THAN MOST PEOPLE'S          3.0        800               0.18
+
+
+
+S218U.Q17 IF THE JAPS OFFERED TO STOP FIGHTING NOW AND TRY TO WORK OUT A PEACE IN WHICH BOTH SIDES WOULD HAVE SOMETHING TO SAY ABOUT THE PEACE TERMS, WHICH OF THESE DO YOU THINK WE SHOULD DO?
+                                                       answer_label answer_value raw_counts relative_frequency
+0                                                         NO ANSWER          0.0         28               0.01
+1       WE SHOULD KEEP ON FIGHTING UNTIL THEY ARE COMPLETELY BEATEN          1.0       2883               0.64
+2  WE SHOULD STOP AND TRY TO WORK OUT PEACE TERMS WITH THE JAPS NOW          2.0        809               0.18
+3                                                         UNDECIDED          3.0        799               0.18
+
+
+
+S218U.Q18 HOW DO YOU SIZE UP THE WAR AHEAD IN THE PACIFIC - HAVE WE ALREADY DONE MOST OF THE JOB OR DO WE STILL HAVE THE HARDEST PART OF THE JOB AHEAD OF US?
+                                                                                           answer_label answer_value raw_counts relative_frequency
+0                                                                                             NO ANSWER          0.0         36               0.01
+1                                                 WE HAVE ALREADY PRACTICALLY WON THE WAR AGAINST JAPAN          1.0        398               0.09
+2                                      WE STILL HAVE A BIG JOB AHEAD, BUT IT SHOULDN'T BE SO VERY TOUGH          2.0       1748               0.39
+3  WE STILL HAVE TO FACE A HARD STRUGGLE IN WHICH AMERICA WILL SUFFER GREAT LOSSES IN MEN AND MATERIALS          3.0       2337               0.52
+
+
+
+S218U.Q19 WHAT IS YOUR GUESS AS TO HOW LONG IT WILL PROBABLY TAKE US TO BEAT JAPAN?
+                                   answer_label answer_value raw_counts relative_frequency
+0                                     NO ANSWER          0.0        171               0.04
+1                            LESS THAN 6 MONTHS          1.0        259               0.06
+2       6 MONTHS UP TO BUT NOT INCLUDING 1 YEAR          2.0       1347                0.3
+3    1 YEAR UP TO BUT NOT INCLUDING 1 1/2 YEARS          3.0       1619               0.36
+4   1 1/2 YEARS UP TO BUT NOT INCLUDING 2 YEARS          4.0        607               0.13
+5   2 YEARS UP TO BUT NOT INCLUDING 2 1/2 YEARS          5.0        369               0.08
+6   2 1/2 YEARS UP TO BUT NOT INCLUDING 3 YEARS          6.0         24               0.01
+7       3 YEARS UP TO BUT NOT INCLUDING 4 YEARS          7.0         33               0.01
+8       4 YEARS UP TO BUT NOT INCLUDING 5 YEARS          8.0          6                0.0
+9                               5 YEARS OR MORE          9.0         15                0.0
+10                  INDEFINITE OR INDETERMINATE         10.0         69               0.02
+
+
+
+S218U.Q20 WHAT IS THE VERY LONGEST YOU THINK JAPAN MIGHT HOLD OUT AGAINST US?
+                                   answer_label answer_value raw_counts relative_frequency
+0                                     NO ANSWER          0.0        237               0.05
+1                            LESS THAN 6 MONTHS          1.0        124               0.03
+2       6 MONTHS UP TO BUT NOT INCLUDING 1 YEAR          2.0        628               0.14
+3    1 YEAR UP TO BUT NOT INCLUDING 1 1/2 YEARS          3.0       1200               0.27
+4   1 1/2 YEARS UP TO BUT NOT INCLUDING 2 YEARS          4.0        754               0.17
+5   2 YEARS UP TO BUT NOT INCLUDING 2 1/2 YEARS          5.0        988               0.22
+6   2 1/2 YEARS UP TO BUT NOT INCLUDING 3 YEARS          6.0         94               0.02
+7       3 YEARS UP TO BUT NOT INCLUDING 4 YEARS          7.0        245               0.05
+8       4 YEARS UP TO BUT NOT INCLUDING 5 YEARS          8.0         43               0.01
+9                               5 YEARS OR MORE          9.0         93               0.02
+10                  INDEFINITE OR INDETERMINATE         10.0        113               0.03
+
+
+
+S218U.Q21 DO YOU THINK JAPAN WILL GIVE UP AND SURRENDER ON OUR TERMS BEFORE THEY LOSE EVERYTHING, OR DO YOU THINK THEY WILL KEEP RIGHT ON FIGHTING TO THE VERY END?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                         NO ANSWER          0.0         51               0.01
+1                   THEY WILL GIVE UP AND SURRENDER          1.0       2327               0.51
+2  THEY WILL KEEP RIGHT ON FIGHTING TO THE VERY END          2.0       2141               0.47
+
+
+
+S218U.Q22 IN GENERAL, DO YOU FEEL YOU YOURSELF HAVE GOTTEN A SQUARE DEAL FROM THE ARMY?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                         NO ANSWER          0.0         19                0.0
+1                          YES, IN MOST WAYS I HAVE          1.0       1413               0.31
+2                  IN SOME WAYS, YES, IN OTHERS, NO          2.0       2368               0.52
+3  NO, ON THE WHOLE I HAVE NOT GOTTEN A SQUARE DEAL          3.0        719               0.16
+
+
+
+S218U.Q23 FROM WHAT YOU KNOW OF THE PLAN, DO MEN NOW IN THE PACIFIC FIGHTING AGAINST THE JAPS GET POINT SCORES AND A CHANCE TO GET OUT OF THE ARMY?
+                                                                       answer_label answer_value raw_counts relative_frequency
+0                                                                         NO ANSWER          0.0         32               0.01
+1         YES, THE ARMY PLANS TO INCLUDE MEN NOW IN THE PACIFIC IN THE POINT SYSTEM          1.0       3028               0.67
+2  NO, THE ARMY DOES NOT PLAN TO INCLUDE MEN NOW IN THE PACIFIC IN THE POINT SYSTEM          2.0        332               0.07
+3                                 I DON'T KNOW WHAT THE ARMY PLANS TO DO ABOUT THIS          3.0       1127               0.25
+
+
+
+S218U.Q24 SUPPOSE AN OUTFIT NOW IN EUROPE IS GOING TO BE SENT TO FIGHT THE JAPS. WHAT WILL HAPPEN TO MEN IN THE OUTFIT WHO ARE ELIGIBLE TO BE LET OUT BECAUSE THEY HAVE THE HIGHEST POINT SCORES?
+                                                                         answer_label answer_value raw_counts relative_frequency
+0                                                                           NO ANSWER          0.0         36               0.01
+1                  THE ARMY PLANS TO SEND THEM TO THE PACIFIC ALONG WITH THEIR OUTFIT          1.0        230               0.05
+2  THE ARMY PLANS TO REPLACE THEM IF POSSIBLE BEFORE THEIR OUTFIT GOES TO THE PACIFIC          2.0       3526               0.78
+3                                   I DON'T KNOW WHAT THE ARMY PLANS TO DO ABOUT THIS          3.0        727               0.16
+
+
+
+S218U.Q25 WHAT ABOUT AMERICAN SOLDIERS IN EUROPE WHO ARE ELIGIBLE TO BE LET OUT OF THE ARMY BECAUSE THEY HAVE THE HIGHEST POINT SCORES AND THEREFORE ARE TO BE SENT BACK TO THE STATES. WILL MOST OF THEM BE SENT BACK TO THE U.S. WITHIN THE NEXT 3 MONTHS?
+                                                          answer_label answer_value raw_counts relative_frequency
+0                                                   NO CODE OR NO DATA          0.0          4                0.0
+1  YES, MOST OF THEM WILL BE SENT TO THE U.S. WITHIN THE NEXT 3 MONTHS          1.0       1400               0.31
+2                NO, MOST OF THEM WILL HAVE TO WAIT MORE THAN 3 MONTHS          2.0       2895               0.64
+3                                                            NO ANSWER          3.0        220               0.05
+
+
+
+S218U.Q26 HOW MANY AMERICAN SOLDIERS WHO ARE NOW IN EUROPE DO YOU THINK WILL BE SENT TO FIGHT AGAINST THE JAPS?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         67               0.01
+1   ALMOST ALL OF THEM          1.0        241               0.05
+2     MOST OF THE THEM          2.0       1383               0.31
+3   ABOUT HALF OF THEM          3.0       2458               0.54
+4   ONLY A FEW OF THEM          4.0        341               0.08
+5  ALMOST NONE OF THEM          5.0         29               0.01
+
+
+
+S218U.Q27A NOT COUNTING MEDICAL DISCHARGES, HOW MANY SOLDIERS DO YOU THINK WILL BE LET OUT OF THE ARMY DURING THE NEXT SIX MONTHS?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0         55               0.01
+1            ALMOST NONE          1.0        131               0.03
+2  A FAIRLY SMALL NUMBER          2.0       1973               0.44
+3  A FAIRLY LARGE NUMBER          3.0       2093               0.46
+4    A VERY LARGE NUMBER          4.0        267               0.06
+
+
+
+S218U.Q27B THERE ARE NOW ABOUT EIGHT MILLION MEN IN THE AMERICAN ARMY. NOT COUNTING MEDICAL DISCHARGES, HOW MANY SOLDIERS DO YOU THINK WILL BE LET OUT OF THE ARMY DURING THE NEXT SIX MONTHS?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0         96               0.02
+1            PRACTICALLY NONE WILL BE LET OUT          1.0        180               0.04
+2  LESS THAN ONE-HALF MILLION WILL BE LET OUT          2.0       1383               0.31
+3     ONE-HALF TO ONE MILLION WILL BE LET OUT          3.0       1686               0.37
+4          ONE TO TWO MILLION WILL BE LET OUT          4.0        956               0.21
+5         TWO TO FOUR MILLION WILL BE LET OUT          5.0        184               0.04
+6           OVER FOUR MILLION WILL BE LET OUT          6.0         34               0.01
+
+
+
+S218U.Q28 SUPPOSE AN OUTFIT IS SHIPPED FROM EUROPE TO THE PACIFIC BEFORE THERE IS TIME TO REPLACE THE MEN WHO ARE ELIGIBLE TO BE LET OUT BECAUSE THEY HAVE THE HIGHEST POINT SCORES. AS FAR AS YOU KNOW, WHAT DOES THE ARMY PLAN TO DO ABOUT THESE MEN WITH VERY HIGH PO
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER P. THE NEXT QUESTIONS ASK FOR YOUR OWN PERSONAL OPINION. THERE ARE NO RIGHT OR WRONG ANSWERS TO THESE QUESTION          0.0         37               0.01
+1                                                                   THEY WILL HAVE TO STAY IN THE PACIFIC WITH THEIR OUTFIT          1.0        239               0.05
+2                                       THEY WILL HAVE TO STAY IN THE PACIFIC BUT WILL BE TRANSFERRED TO NON-COMBAT OUTFITS          2.0        264               0.06
+3                                                     THEY WILL BE REPLACED AND SENT BACK TO THE STATES AS SOON AS POSSIBLE          3.0       3158                0.7
+4                                                                         I DON'T KNOW WHAT THE ARMY PLANS TO DO ABOUT THIS          4.0        821               0.18
+
+
+
+S218U.Q29 HOW DO YOU FEEL ABOUT WHAT YOU'VE DONE IN THIS WAR?
+                                                      answer_label answer_value raw_counts relative_frequency
+0                                                        NO ANSWER          0.0         98               0.02
+1  I FEEL I'VE DONE MY SHARE AS A SOLDIER AND SHOULD BE DISCHARGED          1.0       1983               0.44
+2      I FEEL I'VE ALREADY DONE MY SHARE, BUT I'M READY TO DO MORE          2.0       1336                0.3
+3                              I DON'T FEEL I'VE DONE MY SHARE YET          3.0       1102               0.24
+
+
+
+S218U.Q30 UNDER THE ARMY SCORE CARD PLAN, SOME MEN WILL BE RETURNED TO THE STATES BECAUSE THEY HAVE THE HIGHEST POINT SCORES AND THEREFORE WILL BE FIRST IN TURN TO GET OUT OF THE ARMY. HOW MANY OF THESE MEN WHO ARE FIRST IN TURN TO GET OUT OF THE ARMY DO YOU THINK
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0         60               0.01
+1   ALMOST ALL OF THEM WILL BE LET OUT          1.0        670               0.15
+2         MOST OF THEM WILL BE LET OUT          2.0       1640               0.36
+3   ABOUT HALF OF THEM WILL BE LET OUT          3.0       1288               0.29
+4   ONLY A FEW OF THEM WILL BE LET OUT          4.0        794               0.18
+5  ALMOST NONE OF THEM WILL BE LET OUT          5.0         67               0.01
+
+
+
+S218U.Q31 IN GENERAL, WHAT DO YOU THINK OF THE ARMY SCORE CARD PLAN (THE POINT SYSTEM)?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0         20                0.0
+1                      IT IS VERY GOOD          1.0        974               0.22
+2                    IT IS FAIRLY GOOD          2.0       2116               0.47
+3                    IT IS NOT SO GOOD          3.0        811               0.18
+4                IT IS NOT GOOD AT ALL          4.0        398               0.09
+5  I DON'T KNOW ENOUGH ABOUT IT TO SAY          5.0        200               0.04
+
+
+
+S218U.Q32 WHEN YOU FIRST HEARD ABOUT THE ARMY SCORE CARD PLAN (THE POINT SYSTEM) WHAT DID YOU THINK OF IT THEN?
+                              answer_label answer_value raw_counts relative_frequency
+0                                NO ANSWER          0.0         38               0.01
+1        I THOUGHT IT WAS A VERY GOOD PLAN          1.0       1371                0.3
+2      I THOUGHT IT WAS A PRETTY GOOD PLAN          2.0       1857               0.41
+3    I THOUGHT IT WAS NOT SUCH A GOOD PLAN          3.0        628               0.14
+4  I THOUGHT IT WAS NOT A GOOD PLAN AT ALL          4.0        297               0.07
+5          I DON'T REMEMBER WHAT I THOUGHT          5.0        328               0.07
+
+
+
+S218U.Q33 IN YOUR OPINION, IS THE ARMY SCORE CARD PLAN (THE POINT SYSTEM) BEING CARRIED OUT THE WAY IT WAS SUPPOSED TO BE?
+                                                              answer_label answer_value raw_counts relative_frequency
+0                                                                NO ANSWER          0.0         43               0.01
+1       YES, I THINK IT IS BEING CARRIED OUT THE WAY IT WAS SUPPOSED TO BE          1.0       1948               0.43
+2  NO, I DON'T THINK IT IS BEING CARRIED OUT THE WAY IT WAS SUPPOSED TO BE          2.0       1902               0.42
+3                                I DON'T KNOW ENOUGH ABOUT THE PLAN TO SAY          3.0        626               0.14
+
+
+
+S218U.Q34 IF THE ARMY SCORE CARD PLAN (THE POINT SYSTEM) IS CARRIED OUT IN THE WAY IT IS SUPPOSED TO BE, DO YOU THINK IT WILL GIVE THE MEN A SQUARE DEAL?
+                                                   answer_label answer_value raw_counts relative_frequency
+0                                                     NO ANSWER          0.0         32               0.01
+1               THE PLAN WILL GIVE ALMOST ALL MEN A SQUARE DEAL          1.0       1381               0.31
+2        THE PLAN WILL GIVE MANY MEN A SQUARE DEAL, BUT NOT ALL          2.0       2147               0.48
+3  THE PLAN WILL GIVE SOME MEN A SQUARE DEAL, BUT NOT VERY MANY          3.0        568               0.13
+4                 THE PLAN WILL GIVE VERY FEW MEN A SQUARE DEAL          4.0        175               0.04
+5                     I DON'T KNOW ENOUGH ABOUT THE PLAN TO SAY          5.0        216               0.05
+
+
+
+S218U.Q35 SUPPOSE THE ARMY HAD DECIDED NOT TO USE A POINT SYSTEM FOR THE RELEASE OF ENLISTED MEN, BUT JUST TO USE A "FIRST IN - FIRST OUT" PLAN - THAT IS, TO LET MEN OUT OF THE ARMY IN THE SAME ORDER AS THEY CAME IN AND NOT TO COUNT TIME OVERSEAS, COMBAT AND NUMBE
+                                         answer_label answer_value raw_counts relative_frequency
+0                                           NO ANSWER          0.0         56               0.01
+1     A FINE IDEA - I WOULD HAVE FAVORED IT VERY MUCH          1.0        659               0.15
+2                                  A PRETTY GOOD IDEA          2.0        667               0.15
+3                I WOULDN'T CARE ONE WAY OR THE OTHER          3.0        347               0.08
+4                                NOT SUCH A GOOD IDEA          4.0       1437               0.32
+5  A POOR IDEA - I WOULD HAVE BEEN BURNED UP ABOUT IT          5.0       1353                0.3
+
+
+
+S218U.Q36 HERE ARE FOUR STATEMENTS OF OPINION ABOUT THE POINT SYSTEM. CHECK THE ONE WHICH COMES CLOSEST TO YOUR OPINION.
+                                                                           answer_label answer_value raw_counts relative_frequency
+0                                                                             NO ANSWER          0.0         67               0.01
+1       "THE POINT SYSTEM ITSELF WAS A GOOD IDEA, AND THE ARMY IS CARRYING IT OUT WELL"          1.0       1530               0.34
+2      "THE POINT SYSTEM ITSELF WAS A GOOD IDEA, BUT THE ARMY IS CARRYING IT OUT BADLY"          2.0       1646               0.36
+3   "THE POINT SYSTEM ITSELF WAS NOT A GOOD IDEA, BUT THE ARMY IS CARRYING IT OUT WELL"          3.0        491               0.11
+4  "THE POINT SYSTEM ITSELF WAS NOT A GOOD IDEA, AND THE ARMY IS CARRYING IT OUT BADLY"          4.0        272               0.06
+5                                                   I DON'T KNOW ENOUGH ABOUT IT TO SAY          5.0        513               0.11
+
+
+
+S218U.Q37A.1 IN YOUR OPINION, ARE THERE ANY THINGS FOR WHICH POINTS OUGHT TO BE GIVEN THAT ARE NOT USED IN THE ARMY SCORE CARD PLAN (THE POINT SYSTEM)? IF YES, WHAT?
+  answer_label answer_value raw_counts relative_frequency
+0     YES, AGE          1.0        358               0.08
+1   NOT CHOSEN          2.0       4161               0.92
+
+
+
+S218U.Q37A.2IN YOUR OPINION, ARE THERE ANY THINGS FOR WHICH POINTS OUGHT TO BE GIVEN THAT ARE NOT USED IN THE ARMY SCORE CARD PLAN (THE POINT SYSTEM)? IF YES, WHAT?
+  answer_label answer_value raw_counts relative_frequency
+0    YES, WIFE          1.0        375               0.08
+1   NOT CHOSEN          2.0       4144               0.92
+
+
+
+S218U.Q37A.3IN YOUR OPINION, ARE THERE ANY THINGS FOR WHICH POINTS OUGHT TO BE GIVEN THAT ARE NOT USED IN THE ARMY SCORE CARD PLAN (THE POINT SYSTEM)? IF YES, WHAT?
+                                   answer_label answer_value raw_counts relative_frequency
+0  YES, DEPENDENTS OTHER THAN WIFE AND CHILDREN          1.0        250               0.06
+1                                    NOT CHOSEN          2.0       4269               0.94
+
+
+
+S218U.Q37A.4IN YOUR OPINION, ARE THERE ANY THINGS FOR WHICH POINTS OUGHT TO BE GIVEN THAT ARE NOT USED IN THE ARMY SCORE CARD PLAN (THE POINT SYSTEM)? IF YES, WHAT?
+                                                            answer_label answer_value raw_counts relative_frequency
+0  YES, MORE CREDIT FOR CHILDREN, CREDIT FOR ALL CHILDREN NOT JUST THREE          1.0        199               0.04
+1                                                             NOT CHOSEN          2.0       4320               0.96
+
+
+
+S218U.Q37A.5IN YOUR OPINION, ARE THERE ANY THINGS FOR WHICH POINTS OUGHT TO BE GIVEN THAT ARE NOT USED IN THE ARMY SCORE CARD PLAN (THE POINT SYSTEM)? IF YES, WHAT?
+                                               answer_label answer_value raw_counts relative_frequency
+0  YES, MORE CREDIT FOR LENGTH OF SERVICE (SHOULD USE FIFO)          1.0        109               0.02
+1                                                NOT CHOSEN          2.0       4410               0.98
+
+
+
+S218U.Q37A.6IN YOUR OPINION, ARE THERE ANY THINGS FOR WHICH POINTS OUGHT TO BE GIVEN THAT ARE NOT USED IN THE ARMY SCORE CARD PLAN (THE POINT SYSTEM)? IF YES, WHAT?
+                            answer_label answer_value raw_counts relative_frequency
+0  YES, MORE CREDIT FOR OVERSEAS SERVICE          1.0         32               0.01
+1                             NOT CHOSEN          2.0       4487               0.99
+
+
+
+S218U.Q37A.7IN YOUR OPINION, ARE THERE ANY THINGS FOR WHICH POINTS OUGHT TO BE GIVEN THAT ARE NOT USED IN THE ARMY SCORE CARD PLAN (THE POINT SYSTEM)? IF YES, WHAT?
+                               answer_label answer_value raw_counts relative_frequency
+0  YES, CREDIT FOR NUMBER OF DAYS IN COMBAT          1.0         81               0.02
+1                                NOT CHOSEN          2.0       4438               0.98
+
+
+
+S218U.Q37A.8IN YOUR OPINION, ARE THERE ANY THINGS FOR WHICH POINTS OUGHT TO BE GIVEN THAT ARE NOT USED IN THE ARMY SCORE CARD PLAN (THE POINT SYSTEM)? IF YES, WHAT?
+                                                                                                              answer_label answer_value raw_counts relative_frequency
+0  YES, MORE CREDIT FOR CAMPAIGN STARS OR CAMPAIGN STARS AND DECORATIONS (MORE CREDIT FOR SPECIFIC DECORATION, E.G. COMBAT          1.0          7                0.0
+1                                                                                                               NOT CHOSEN          2.0       4512                1.0
+
+
+
+S218U.Q37A.9IN YOUR OPINION, ARE THERE ANY THINGS FOR WHICH POINTS OUGHT TO BE GIVEN THAT ARE NOT USED IN THE ARMY SCORE CARD PLAN (THE POINT SYSTEM)? IF YES, WHAT?
+                                                         answer_label answer_value raw_counts relative_frequency
+0  YES, CREDIT FOR CIVILIAN SKILLS - ALL OTHER NOT CLASSIFIABLE ABOVE          1.0        609               0.13
+1                                                          NOT CHOSEN          2.0       3910               0.87
+
+
+
+S218U.Q37A.10IN YOUR OPINION, ARE THERE ANY THINGS FOR WHICH POINTS OUGHT TO BE GIVEN THAT ARE NOT USED IN THE ARMY SCORE CARD PLAN (THE POINT SYSTEM)? IF YES, WHAT?
+     answer_label answer_value raw_counts relative_frequency
+0  YES, NO ANSWER          1.0         84               0.02
+1      NOT CHOSEN          2.0       4435               0.98
+
+
+
+S218U.Q37A.11IN YOUR OPINION, ARE THERE ANY THINGS FOR WHICH POINTS OUGHT TO BE GIVEN THAT ARE NOT USED IN THE ARMY SCORE CARD PLAN (THE POINT SYSTEM)? IF YES, WHAT?
+  answer_label answer_value raw_counts relative_frequency
+0           NO          1.0       1213               0.27
+1   NOT CHOSEN          2.0       3306               0.73
+
+
+
+S218U.Q37A.12IN YOUR OPINION, ARE THERE ANY THINGS FOR WHICH POINTS OUGHT TO BE GIVEN THAT ARE NOT USED IN THE ARMY SCORE CARD PLAN (THE POINT SYSTEM)? IF YES, WHAT?
+  answer_label answer_value raw_counts relative_frequency
+0    UNDECIDED          1.0       1486               0.33
+1   NOT CHOSEN          2.0       3033               0.67
+
+
+
+S218U.Q37A.13IN YOUR OPINION, ARE THERE ANY THINGS FOR WHICH POINTS OUGHT TO BE GIVEN THAT ARE NOT USED IN THE ARMY SCORE CARD PLAN (THE POINT SYSTEM)? IF YES, WHAT?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0        169               0.04
+1   NOT CHOSEN          2.0       4350               0.96
+
+
+
+S218U.Q37B.1 IN YOUR OPINION, IS THE ARMY SCORE CARD PLAN (THE POINT SYSTEM) GIVING POINTS FOR ANY THINGS THAT YOU THINK SHOULD NOT BE USED? IF YES, WHAT?
+                                                                                              answer_label answer_value raw_counts relative_frequency
+0  YES, LESS CREDIT FOR CHILDREN, NO CREDIT CHILDREN, NO CREDIT FOR CHILDREN BORN AFTER PEARL HARBOR, ETC.          1.0        223               0.05
+1                                                                                               NOT CHOSEN          2.0       4296               0.95
+
+
+
+S218U.Q37B.2IN YOUR OPINION, IS THE ARMY SCORE CARD PLAN (THE POINT SYSTEM) GIVING POINTS FOR ANY THINGS THAT YOU THINK SHOULD NOT BE USED? IF YES, WHAT?
+                                answer_label answer_value raw_counts relative_frequency
+0  YES, LESS OR NO CREDIT FOR CAMPAIGN STARS          1.0         25               0.01
+1                                 NOT CHOSEN          2.0       4494               0.99
+
+
+
+S218U.Q37B.3IN YOUR OPINION, IS THE ARMY SCORE CARD PLAN (THE POINT SYSTEM) GIVING POINTS FOR ANY THINGS THAT YOU THINK SHOULD NOT BE USED? IF YES, WHAT?
+                                                  answer_label answer_value raw_counts relative_frequency
+0  YES, LESS OR NO CREDIT FOR DECORATIONS AND MEDALS (GENERAL)          1.0         51               0.01
+1                                                   NOT CHOSEN          2.0       4468               0.99
+
+
+
+S218U.Q37B.4IN YOUR OPINION, IS THE ARMY SCORE CARD PLAN (THE POINT SYSTEM) GIVING POINTS FOR ANY THINGS THAT YOU THINK SHOULD NOT BE USED? IF YES, WHAT?
+  answer_label answer_value raw_counts relative_frequency
+0   YES, OTHER          1.0        150               0.03
+1   NOT CHOSEN          2.0       4369               0.97
+
+
+
+S218U.Q37B.5IN YOUR OPINION, IS THE ARMY SCORE CARD PLAN (THE POINT SYSTEM) GIVING POINTS FOR ANY THINGS THAT YOU THINK SHOULD NOT BE USED? IF YES, WHAT?
+     answer_label answer_value raw_counts relative_frequency
+0  YES, NO ANSWER          1.0         45               0.01
+1      NOT CHOSEN          2.0       4474               0.99
+
+
+
+S218U.Q37B.6IN YOUR OPINION, IS THE ARMY SCORE CARD PLAN (THE POINT SYSTEM) GIVING POINTS FOR ANY THINGS THAT YOU THINK SHOULD NOT BE USED? IF YES, WHAT?
+  answer_label answer_value raw_counts relative_frequency
+0           NO          1.0       2827               0.63
+1   NOT CHOSEN          2.0       1692               0.37
+
+
+
+S218U.Q37B.7IN YOUR OPINION, IS THE ARMY SCORE CARD PLAN (THE POINT SYSTEM) GIVING POINTS FOR ANY THINGS THAT YOU THINK SHOULD NOT BE USED? IF YES, WHAT?
+  answer_label answer_value raw_counts relative_frequency
+0    UNDECIDED          1.0        977               0.22
+1   NOT CHOSEN          2.0       3542               0.78
+
+
+
+S218U.Q37B.8IN YOUR OPINION, IS THE ARMY SCORE CARD PLAN (THE POINT SYSTEM) GIVING POINTS FOR ANY THINGS THAT YOU THINK SHOULD NOT BE USED? IF YES, WHAT?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0        227               0.05
+1   NOT CHOSEN          2.0       4292               0.95
+
+
+
+S218U.Q38 AS FAR AS YOU KNOW, HOW MANY POINTS DO YOU HAVE?  ANP (ACTUAL NUMBER POINTS)
+                          answer_label answer_value raw_counts relative_frequency
+0                   NO CODE OR NO DATA          0.0          2                0.0
+1                              1 POINT          1.0         23               0.01
+2                            89 POINTS         89.0         19                0.0
+3                         90-99 POINTS         90.0        166               0.04
+4                       100-109 POINTS         91.0         82               0.02
+5                       110-119 POINTS         92.0         41               0.01
+6                   120 POINTS OR OVER         93.0         28               0.01
+7  I DON'T KNOW WHAT MY POINT SCORE IS         94.0        264               0.06
+8                            NO ANSWER         99.0        102               0.02
+
+
+
+S218U.Q39A WHEN THE POINT SYSTEM WAS ANNOUNCED, DID YOU TRY TO FIGURE OUT HOW MANY POINTS YOU'D HAVE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         49               0.01
+1          YES          1.0       3375               0.75
+2           NO          2.0       1095               0.24
+
+
+
+S218U.Q39B WAS IT EASY OR HARD FOR YOU TO FIGURE OUT HOW MANY POINTS YOU'D HAVE?
+                                answer_label answer_value raw_counts relative_frequency
+0                                  NO ANSWER          0.0         59               0.01
+1                                  VERY EASY          1.0       3202               0.71
+2                                PRETTY EASY          2.0        573               0.13
+3                                PRETTY HARD          3.0        146               0.03
+4                                  VERY HARD          4.0         61               0.01
+5  I DID NOT TRY TO FIGURE OUT MY OWN POINTS          5.0        478               0.11
+
+
+
+S218U.Q40 WHEN YOUR OFFICIAL POINT SCORE WAS FIGURED OUT, DID YOU GET A CHANCE TO SEE IT?
+                                           answer_label answer_value raw_counts relative_frequency
+0                                             NO ANSWER          0.0         46               0.01
+1                    YES, I SAW MY OFFICIAL POINT SCORE          1.0       3608                0.8
+2             NO, I DID NOT SEE MY OFFICIAL POINT SCORE          2.0        539               0.12
+3  MY OFFICIAL POINT SCORE HAS NOT BEEN FIGURED OUT YET          3.0        326               0.07
+
+
+
+S218U.Q41 DOES YOUR OFFICIAL POINT SCORE SHOW THE RIGHT NUMBER OF POINTS FOR YOU? IF MY OFFICIAL POINT SCORE DOES NOT SHOW THE RIGHT NUMBER OF POINTS, WHAT IS WRONG?
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0                                                                                                                 NO ANSWER          0.0         87               0.02
+1                                                                      MY OFFICIAL POINT SCORE HAS NOT BEEN FIGURED OUT YET          1.0        347               0.08
+2                                                                           I DON'T KNOW WHAT MY OFFICIAL POINT SCORE SHOWS          2.0        550               0.12
+3                                                              MY OFFICIAL POINT SCORE DOES SHOW THE RIGHT NUMBER OF POINTS          3.0       3235               0.72
+4  MY OFFICIAL POINT SCORE DOES NOT SHOW THE RIGHT NUMBER OF POINTS - COMMENTS ABOUT INACCURACIES IN COUNTING (FAILURE TO G          4.0        133               0.03
+5  MY OFFICIAL POINT SCORE DOES NOT SHOW THE RIGHT NUMBER OF POINTS - COMMENTS, BUT NOT ABOUT CAMPAIGN STARS OR DECORATIONS          5.0        110               0.02
+6                                  MY OFFICIAL POINT SCORE DOES NOT SHOW THE RIGHT NUMBER OF POINTS - NO COMMENT WRITTEN IN          6.0         54               0.01
+7                                                 COMMENTS ABOUT CAMPAIGN STARS OR DECORATIONS TOGETHER WITH SOMETHING ELSE          7.0          3                0.0
+
+
+
+S218U.Q42 IF YOUR OFFICIAL POINT SCORE DOES NOT SHOW THE RIGHT NUMBER OF POINTS FOR YOU, WHAT IS BEING DONE ABOUT IT?
+                                                                                 answer_label answer_value raw_counts relative_frequency
+0                                                                                   NO ANSWER          0.0         93               0.02
+1                                                         THE RECORDS ARE STILL BEING CHECKED          1.0        188               0.04
+2            I DON'T KNOW WHAT IS BEING DONE ABOUT IT, BUT I THINK IT WILL COME OUT ALL RIGHT          2.0        269               0.06
+3  I DON'T KNOW WHAT IS BEING DONE ABOUT IT, AND I'M AFRAID I WILL LOSE SOME POINTS I DESERVE          3.0        101               0.02
+4                                                              NOTHING IS BEING DONE ABOUT IT          4.0        121               0.03
+5                                                I DON'T KNOW WHAT MY OFFICIAL POINT SCORE IS          5.0        561               0.12
+6                                    MY OFFICIAL POINT SCORE SHOWS THE RIGHT NUMBER OF POINTS          6.0       3186               0.71
+
+
+
+FORM..1FORM.
+             answer_label answer_value raw_counts relative_frequency
+0  S-218U - UNITED STATES          1.0       4519                1.0
+
+
+
+S218U.Q43 AS FAR AS YOU CAN TELL, HOW IS THE ARMY SCORE CARD PLAN (THE POINT SYSTEM) WORKING OUT UP TO NOW?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1           VERY WELL          1.0        772               0.17
+2         PRETTY WELL          2.0       2077               0.46
+3        PRETTY BADLY          3.0        757               0.17
+4          VERY BADLY          4.0        336               0.07
+5           UNDECIDED          5.0        515               0.11
+6           NO ANSWER          6.0         60               0.01
+
+
+
+S218U.Q44A ON THE WHOLE, WHO DO YOU THINK HAVE THE BEST CHANCES OF GETTING OUT OF THE ARMY UNDER THE POINT SYSTEM?
+                     answer_label answer_value raw_counts relative_frequency
+0                       NO ANSWER          0.0        108               0.02
+1                AIR FORCE FLYERS          1.0       1145               0.25
+2            AIR FORCE NON-FLYERS          2.0         76               0.02
+3               SERVICE FORCE MEN          3.0        123               0.03
+4                GROUND FORCE MEN          4.0       1750               0.39
+5  ALL HAVE ABOUT THE SAME CHANCE          5.0        743               0.16
+6                HAVEN'T ANY IDEA          6.0        574               0.13
+
+
+
+S218U.Q44B HOW DO YOU FEEL ABOUT THIS?
+                                                answer_label answer_value raw_counts relative_frequency
+0                                         NO CODE OR NO DATA          0.0          2                0.0
+1                        THIS IS JUST THE WAY IT OUGHT TO BE          1.0       1419               0.31
+2  THIS ISN'T QUITE RIGHT, BUT I CAN SEE WHY IT IS NECESSARY          2.0       1768               0.39
+3      THIS ISN'T RIGHT, AND IT SHOULD NOT HAVE BEEN ALLOWED          3.0        782               0.17
+4                                                  NO ANSWER          4.0        548               0.12
+
+
+
+S218U.Q45 HOW CLEAR AN IDEA DO YOU HAVE ABOUT THE WAY THE ARMY DECIDES WHEN A MAN WITH ENOUGH POINTS FOR DISCHARGE CAN BE LET OUT OF THE ARMY?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0         60               0.01
+1      I UNDERSTAND IT VERY WELL          1.0       1062               0.24
+2    I UNDERSTAND IT PRETTY WELL          2.0       1916               0.42
+3  I DON'T UNDERSTAND IT SO WELL          3.0        932               0.21
+4   I DON'T UNDERSTAND IT AT ALL          4.0        549               0.12
+
+
+
+S218U.Q46 IN YOUR OPINION, HOW FAIR IS THE ARMY'S WAY OF DECIDING WHEN A MAN WITH ENOUGH POINTS FOR DISCHARGE CAN BE LET OUT OF THE ARMY?
+       answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER          0.0         47               0.01
+1         VERY FAIR          1.0        697               0.15
+2       PRETTY FAIR          2.0       2031               0.45
+3       NOT SO FAIR          3.0        831               0.18
+4   NOT FAIR AT ALL          4.0        409               0.09
+5  HAVEN'T ANY IDEA          5.0        504               0.11
+
+
+
+S218U.Q47 IN GENERAL, HOW HARD DO YOU THINK THE ARMY IS TRYING TO LET OUT ALL THE MEN WITH ENOUGH POINTS FOR DISCHARGE?
+                                   answer_label answer_value raw_counts relative_frequency
+0                                     NO ANSWER          0.0         69               0.02
+1                   THE ARMY IS TRYING ITS BEST          1.0       1839               0.41
+2  THE ARMY IS TRYING SOME, BUT NOT HARD ENOUGH          2.0       2204               0.49
+3              THE ARMY IS HARDLY TRYING AT ALL          3.0        407               0.09
+
+
+
+S218U.Q48 IN GENERAL, HOW HARD DO YOU THINK YOUR OWN OFFICERS ARE TRYING TO SPEED UP THE RELEASE OF THE MEN WITH ENOUGH POINTS FOR DISCHARGE?
+                                answer_label answer_value raw_counts relative_frequency
+0                         NO CODE OR NO DATA          0.0          2                0.0
+1                 THEY ARE TRYING THEIR BEST          1.0       1505               0.33
+2  THEY ARE TRYING SOME, BUT NOT HARD ENOUGH          2.0       1658               0.37
+3              THEY ARE HARDLY TRYING AT ALL          3.0       1176               0.26
+4                                  NO ANSWER          4.0        178               0.04
+
+
+
+S218U.Q49 IN YOUR COMPANY (BATTERY, SQUADRON), HOW MANY OF THE MEN WITH AT LEAST 85 POINTS HAVE BEEN RELEASED SO FAR?
+                                                   answer_label answer_value raw_counts relative_frequency
+0                                            NO CODE OR NO DATA          0.0          2                0.0
+1     ALL OF THE MEN WITH AT LEAST 85 POINTS HAVE BEEN RELEASED          1.0        384               0.08
+2                                   SOME HAVE, BUT SOME HAVEN'T          2.0       2066               0.46
+3    NONE OF THE MEN WITH AT LEAST 85 POINTS HAVE BEEN RELEASED          3.0       1069               0.24
+4  THERE HAVE BEEN NO MEN IN MY COMPANY WITH AT LEAST 85 POINTS          4.0        781               0.17
+5                                                     NO ANSWER          5.0        217               0.05
+
+
+
+S218U.Q50 IF IN YOUR COMPANY (BATTERY, SQUADRON) SOME OF THE MEN WITH AT LEAST 85 POINTS WERE RELEASED AND SOME WITH AT LEAST 85 POINTS WERE KEPT IN, HOW WAS IT DONE? WHAT ONE THING DO YOU THINK WAS MOST IMPORTANT IN DECIDING WHO GOT OUT AND WHO STAYED IN?
+                                                      answer_label answer_value raw_counts relative_frequency
+0                                               NO CODE OR NO DATA          0.0          2                0.0
+1     THEY LET OUT SOME MEN, BUT WE DON'T KNOW HOW THEY CHOSE THEM          1.0        563               0.12
+2          THEY LET OUT THE MEN WITH THE VERY HIGHEST POINT SCORES          2.0        570               0.13
+3                 THEY LET OUT THE MEN IN THE LEAST IMPORTANT JOBS          3.0        301               0.07
+4        THEY LET OUT THE MEN WHOM THEY COULD GET REPLACEMENTS FOR          4.0        290               0.06
+5      THEY LET OUT THE MEN WHOM THE OFFICERS WANTED TO GET RID OF          5.0         39               0.01
+6  THEY LET OUT THE MEN WHO WERE SPECIAL FAVORITES OF THE OFFICERS          6.0         38               0.01
+7                                                   SOMETHING ELSE          7.0         14                0.0
+8                                THIS DOES NOT APPLY TO MY COMPANY          8.0       2432               0.54
+9                                                        NO ANSWER          9.0        270               0.06
+
+
+
+S218U.Q51 YOU HAVE JUST TOLD IN QUESTION 50 WHAT YOU KNOW ABOUT YOUR COMPANY'S WAY OF DECIDING WHICH MEN GOT OUT - AMONG THOSE WITH AT LEAST 85 POINTS. WHAT DO YOU THINK OF THE WAY THIS WAS DONE IN YOUR COMPANY?
+                                            answer_label answer_value raw_counts relative_frequency
+0                                     NO CODE OR NO DATA          0.0          2                0.0
+1                      THE FAIREST POSSIBLE WAY TO DO IT          1.0        836               0.18
+2               ALL RIGHT, BUT NOT THE BEST WAY TO DO IT          2.0        597               0.13
+3  PRETTY BAD WAY TO DO IT, BUT IT COULD HAVE BEEN WORSE          3.0        248               0.05
+4                        THE WORST POSSIBLE WAY TO DO IT          4.0         69               0.02
+5                      THIS DOES NOT APPLY TO MY COMPANY          5.0       2485               0.55
+6                                              NO ANSWER          6.0        282               0.06
+
+
+
+S218U.Q52 WHAT IS YOUR MAIN ARMY DUTY AT PRESENT?
+                              answer_label answer_value raw_counts relative_frequency
+0                                NO ANSWER          0.0          6                0.0
+1            I AM WORKING ON A REGULAR JOB          1.0        305               0.07
+2  I AM TAKING TRAINING OR GOING TO SCHOOL          2.0         42               0.01
+3      I DON'T HAVE ANY REGULAR DUTIES NOW          3.0         91               0.02
+4                           SOMETHING ELSE          4.0          3                0.0
+5                             INAPPLICABLE          9.0       4072                0.9
+
+
+
+S218U.Q54 HOW LONG HAVE YOU BEEN DOING THIS?
+                                answer_label answer_value raw_counts relative_frequency
+0                                  NO ANSWER          0.0         18                0.0
+1                          LESS THAN 1 MONTH          1.0         26               0.01
+2   1 MONTH UP TO BUT NOT INCLUDING 2 MONTHS          2.0         55               0.01
+3  2 MONTHS UP TO BUT NOT INCLUDING 3 MONTHS          3.0         49               0.01
+4  3 MONTHS UP TO BUT NOT INCLUDING 6 MONTHS          4.0         94               0.02
+5    6 MONTHS UP TO BUT NOT INCLUDING 1 YEAR          5.0         95               0.02
+6                             1 YEAR OR MORE          6.0        109               0.02
+7                               INAPPLICABLE          9.0       4073                0.9
+
+
+
+S218U.Q55 WHAT HAVE YOUR OFFICERS TOLD YOU ABOUT THE TIME IT WILL TAKE BEFORE YOU GET OUT OF THE ARMY?
+                                      answer_label answer_value raw_counts relative_frequency
+0                                        NO ANSWER          0.0         16                0.0
+1         THEY SAY IT WON'T TAKE MORE THAN 1 MONTH          1.0         23               0.01
+2        THEY SAY IT WON'T TAKE MORE THAN 3 MONTHS          2.0         34               0.01
+3        THEY SAY IT WON'T TAKE MORE THAN 6 MONTHS          3.0         10                0.0
+4          THEY SAY IT WON'T TAKE MORE THAN A YEAR          4.0          6                0.0
+5           THEY SAY IT WILL TAKE MORE THAN A YEAR          5.0          1                0.0
+6   THEY SAY I CAN'T GET OUT UNTIL THE WAR IS OVER          6.0          2                0.0
+7            THEY KEEP TELLING ME DIFFERENT THINGS          7.0         33               0.01
+8       THEY SAY THEY DON'T HAVE ANY IDEA ABOUT IT          8.0         85               0.02
+9               THEY HAVE TOLD ME NOTHING ABOUT IT          9.0        236               0.05
+10                                    INAPPLICABLE         99.0       4073                0.9
+
+
+
+S218U.Q56 WHAT IS THE MAIN REASON YOUR OFFICERS HAVE GIVEN YOU TO EXPLAIN WHY YOU ARE NOT BEING RELEASED FROM THE ARMY FASTER?
+                                                                     answer_label answer_value raw_counts relative_frequency
+0                                                                       NO ANSWER          0.0         42               0.01
+1                                            THEY HAVE NOT SAID ANYTHING ABOUT IT          1.0        202               0.04
+2          THEY SAY I AM BEING HELD UP BECAUSE SEPARATION CENTERS ARE TOO CROWDED          2.0         54               0.01
+3  THEY SAY I AM BEING HELD UP BECAUSE THEY HAVE NOT GOT A REPLACEMENT FOR ME YET          3.0         61               0.01
+4   THEY SAY I AM BEING HELD UP BECAUSE THERE ISN'T ANY TRANSPORTATION FOR ME YET          4.0          1                0.0
+5                                 THEY SAY THEY DON'T KNOW WHY I AM BEING HELD UP          5.0         51               0.01
+6                                                         THEY SAY SOMETHING ELSE          6.0         36               0.01
+7                                                                    INAPPLICABLE          9.0       4072                0.9
+
+
+
+S218U.Q57 WHAT DO YOU THINK ABOUT THE REASON YOUR OFFICERS GAVE YOU?
+                                                                                  answer_label answer_value raw_counts relative_frequency
+0                                                                                    NO ANSWER          0.0         52               0.01
+1                          I THINK IT IS THE MOST IMPORTANT REASON, AND THE ARMY CAN'T HELP IT          1.0         53               0.01
+2  I THINK IT IS THE MOST IMPORTANT REASON, BUT ONLY BECAUSE THE ARMY ISN'T DOING THINGS RIGHT          2.0         83               0.02
+3                                       I THINK THERE IS ANOTHER REASON THAT IS MORE IMPORTANT          3.0         33               0.01
+4                                                                     I WASN'T TOLD ANY REASON          4.0        228               0.05
+5                                                                                 INAPPLICABLE          9.0       4070                0.9
+
+
+
+S218U.Q60 HOW DO YOU FEEL ABOUT BEING SENT TO AN OVERSEAS THEATER WHICH IS FIGHTING AGAINST THE JAPS?
+                                  answer_label answer_value raw_counts relative_frequency
+0                           NO CODE OR NO DATA          0.0          7                0.0
+1                  THE ARMY SHOULD SEND ME NOW          1.0        803               0.18
+2  THE ARMY SHOULD NOT SEND ME FOR A WHILE YET          2.0       1097               0.24
+3           THE ARMY SHOULD NOT SEND ME AT ALL          3.0       2247                0.5
+4                                    NO ANSWER          4.0        365               0.08
+
+
+
+S218U.Q61 REGARDLESS OF WHAT YOU WANT TO DO, DO YOU THINK YOU ACTUALLY WILL BE SENT TO AN OVERSEAS THEATER WHICH IS FIGHTING AGAINST THE JAPS?
+                                         answer_label answer_value raw_counts relative_frequency
+0                                           NO ANSWER          0.0        219               0.05
+1                       YES, I AM SURE I WILL BE SENT          1.0        644               0.14
+2       YES, I THINK I WILL BE SENT, BUT I'M NOT SURE          2.0        815               0.18
+3                   THE CHANCES ARE ABOUT FIFTY-FIFTY          3.0        864               0.19
+4  NO, I DON'T THINK I WILL BE SENT, BUT I'M NOT SURE          4.0       1436               0.32
+5                    NO, I AM SURE I WILL NOT BE SENT          5.0        541               0.12
+
+
+
+S218U.Q62 WERE YOU EVER OVERSEAS OR STATIONED OUTSIDE OF THE 48 STATES IN THIS WAR?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          6                0.0
+1                 YES          1.0       1629               0.36
+2                  NO          2.0       2882               0.64
+3           NO ANSWER          3.0          2                0.0
+
+
+
+S218U.Q64 IN WHAT OVERSEAS THEATER OR AREA DID YOU LAST SERVE?
+                                                      answer_label answer_value raw_counts relative_frequency
+0                                               NO CODE OR NO DATA          0.0          1                0.0
+1                EUROPEAN THEATER (BRITISH ISLES, FRANCE, GERMANY)          1.0        313               0.07
+2                      MEDITERRANEAN THEATER (ITALY, NORTH AFRICA)          2.0        285               0.06
+3                                                CARIBBEAN, PANAMA          3.0        151               0.03
+4      SOUTHWEST PACIFIC AREA (AUSTRALIA, NEW GUINEA, PHILIPPINES)          4.0        215               0.05
+5    SOUTH PACIFIC BASE COMMAND (NEW CALEDONIA, GUADALCANAL, ETC.)          5.0         90               0.02
+6   CENTRAL PACIFIC BASE COMMAND (HAWAII, KWAJALEIN, SAIPAN, ETC.)          6.0         60               0.01
+7                                                ALASKA, ALEUTIANS          7.0        279               0.06
+8                             MIDDLE EAST (CAIRO, PALESTINE, IRAN)          8.0         35               0.01
+9                                              CHINA, BURMA, INDIA          9.0         65               0.01
+10                                                     OTHER PLACE         10.0         32               0.01
+11                                                       NO ANSWER         11.0        102               0.02
+12                                                    INAPPLICABLE         99.0       2891               0.64
+
+
+
+S218U.Q65 HOW LONG HAVE YOU BEEN BACK IN THE STATES? (COUNT FROM THE MONTH YOU ACTUALLY ARRIVED BACK IN THE UNITED STATES)
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0         43               0.01
+1  1 MONTH OR LESS BACK IN THE STATES          1.0         15                0.0
+2         OVER 1 MONTH UP TO 2 MONTHS          2.0         63               0.01
+3        OVER 2 MONTHS UP TO 3 MONTHS          3.0        172               0.04
+4        OVER 3 MONTHS UP TO 6 MONTHS          4.0        283               0.06
+5        OVER 6 MONTHS UP TO 9 MONTHS          5.0        349               0.08
+6       OVER 9 MONTHS UP TO 12 MONTHS          6.0        287               0.06
+7      OVER 12 MONTHS UP TO 18 MONTHS          7.0        317               0.07
+8                      OVER 18 MONTHS          8.0        101               0.02
+9                        INAPPLICABLE          9.0       2889               0.64
+
+
+
+S218U.Q66 IN GENERAL, WHAT SORT OF PHYSICAL CONDITION WOULD YOU SAY YOU ARE IN AT THE PRESENT TIME?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0        103               0.02
+1  VERY GOOD PHYSICAL CONDITION          1.0        640               0.14
+2       GOOD PHYSICAL CONDITION          2.0        799               0.18
+3       FAIR PHYSICAL CONDITION          3.0       1655               0.37
+4       POOR PHYSICAL CONDITION          4.0        966               0.21
+5  VERY POOR PHYSICAL CONDITION          5.0        356               0.08
+
+
+
+S218U.Q67A AS FAR AS YOU KNOW, ARE YOU NOW CLASSIFIED BY THE ARMY AS PHYSICALLY FIT FOR OVERSEAS DUTY?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1                 YES          1.0       2451               0.54
+2                  NO          2.0       1168               0.26
+3        I DON'T KNOW          3.0        794               0.18
+4           NO ANSWER          4.0        104               0.02
+
+
+
+S218U.Q67B IN YOUR OWN OPINION, ARE YOU PHYSICALLY FIT FOR OVERSEAS DUTY?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          6                0.0
+1                 YES          1.0       1639               0.36
+2                  NO          2.0       2185               0.48
+3           UNDECIDED          3.0        561               0.12
+4           NO ANSWER          4.0        128               0.03
+
+
+
+S218U.Q68 WHAT BRANCH OF THE ARMY ARE YOU IN NOW?
+                  answer_label answer_value raw_counts relative_frequency
+0           NO CODE OR NO DATA          0.0          9                0.0
+1                    ENGINEERS          1.0        205               0.05
+2              FIELD ARTILLERY          2.0        129               0.03
+3          QUARTERMASTER CORPS          3.0        380               0.08
+4                     INFANTRY          4.0        866               0.19
+5           MEDICAL DEPARTMENT          5.0        338               0.07
+6              ARMORED (TANKS)          6.0          8                0.0
+7                 SIGNAL CORPS          7.0        130               0.03
+8       COAST ARTILLERY OR AAA          8.0          4                0.0
+9       AIR CORPS - FLYING JOB          9.0        240               0.05
+10  AIR CORPS - NON-FLYING JOB         10.0       1356                0.3
+11        TRANSPORTATION CORPS         11.0        139               0.03
+12         ORDNANCE DEPARTMENT         12.0        157               0.03
+13    CHEMICAL WARFARE SERVICE         13.0         11                0.0
+14             MILITARY POLICE         14.0        221               0.05
+15              TANK DESTROYER         15.0          9                0.0
+16                        DEML         16.0        182               0.04
+17                       OTHER         17.0        102               0.02
+18                   NO ANSWER         18.0         33               0.01
+
+
+
+S218U.Q69 HOW LONG HAVE YOU BEEN IN THIS BRANCH OF THE ARMY?
+                   answer_label answer_value raw_counts relative_frequency
+0            NO CODE OR NO DATA          0.0          4                0.0
+1            LESS THAN 3 MONTHS          1.0        793               0.18
+2  OVER 3 MONTHS UP TO 6 MONTHS          2.0        782               0.17
+3    OVER 6 MONTHS UP TO 1 YEAR          3.0        507               0.11
+4                   OVER 1 YEAR          4.0       2324               0.51
+5                     NO ANSWER          5.0        109               0.02
+
+
+
+S218U.Q70 HOW DO YOU FEEL ABOUT BEING IN YOUR PRESENT ARM OR BRANCH?
+            answer_label answer_value raw_counts relative_frequency
+0     NO CODE OR NO DATA          0.0          5                0.0
+1    VERY WELL SATISFIED          1.0       1383               0.31
+2  FAIRLY WELL SATISFIED          2.0       1472               0.33
+3  SOMEWHAT DISSATISFIED          3.0        807               0.18
+4      VERY DISSATISFIED          4.0        717               0.16
+5              NO ANSWER          5.0        135               0.03
+
+
+
+S218U.Q71 WHAT BRANCH OF THE ARMY WERE YOU IN BEFORE THIS ONE?
+                                         answer_label answer_value raw_counts relative_frequency
+0                                  NO CODE OR NO DATA          0.0          6                0.0
+1                                           ENGINEERS          1.0        145               0.03
+2                                     FIELD ARTILLERY          2.0         93               0.02
+3                                 QUARTERMASTER CORPS          3.0        147               0.03
+4                                            INFANTRY          4.0        413               0.09
+5                                  MEDICAL DEPARTMENT          5.0         95               0.02
+6                                     ARMORED (TANKS)          6.0         39               0.01
+7                                        SIGNAL CORPS          7.0        142               0.03
+8                              COAST ARTILLERY OR AAA          8.0        132               0.03
+9                              AIR CORPS - FLYING JOB          9.0        121               0.03
+10                         AIR CORPS - NON FLYING JOB         10.0         72               0.02
+11                               TRANSPORTATION CORPS         11.0         48               0.01
+12                                ORDNANCE DEPARTMENT         12.0         57               0.01
+13                           CHEMICAL WARFARE SERVICE         13.0         15                0.0
+14                                    MILITARY POLICE         14.0         40               0.01
+15                                     TANK DESTROYER         15.0         12                0.0
+16                                               DEML         16.0         37               0.01
+17                                              OTHER         17.0         27               0.01
+18  I HAVE NEVER BEEN IN ANY OTHER BRANCH OF THE ARMY         18.0       2602               0.58
+19                                          NO ANSWER         19.0        276               0.06
+
+
+
+S218U.Q72 HOW SATISFIED OR DISSATISFIED ARE YOU WITH YOUR PRESENT ARMY JOB?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0        143               0.03
+1     VERY SATISFIED          1.0        747               0.17
+2          SATISFIED          2.0       1661               0.37
+3       DISSATISFIED          3.0        892                0.2
+4  VERY DISSATISFIED          4.0        702               0.16
+5          UNDECIDED          5.0        374               0.08
+
+
+
+S218U.Q73 HOW DO YOU FEEL ABOUT THE IMPORTANCE OF THE WORK YOU ARE DOING RIGHT NOW AS COMPARED WITH OTHER JOBS YOU MIGHT BE DOING IN THE ARMY?
+                                                 answer_label answer_value raw_counts relative_frequency
+0                                                   NO ANSWER          0.0        152               0.03
+1              IT IS AS IMPORTANT AS ANY OTHER JOB I COULD DO          1.0       2178               0.48
+2  IT IS FAIRLY IMPORTANT, BUT I COULD DO MORE IMPORTANT WORK          2.0       1246               0.28
+3                            IT HARDLY SEEMS IMPORTANT AT ALL          3.0        943               0.21
+
+
+
+S218U.Q74 WOULD YOU CHANGE TO SOME OTHER ARMY JOB IF GIVEN A CHANCE?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1                 YES          1.0       2457               0.54
+2                  NO          2.0       1242               0.27
+3           UNDECIDED          3.0        681               0.15
+4           NO ANSWER          4.0        137               0.03
+
+
+
+S218U.Q75 HOW DO YOU FEEL ABOUT THE AMOUNT OF WORK YOU HAVE TO DO?
+                                                            answer_label answer_value raw_counts relative_frequency
+0                                                     NO CODE OR NO DATA          0.0          4                0.0
+1                     I HAVE TOO MUCH TO DO, BUT MOST OF IT IS NECESSARY          1.0        849               0.19
+2                   I HAVE TOO MUCH TO DO AND A LOT OF IT IS UNNECESSARY          2.0       1206               0.27
+3                            I HAVE ABOUT THE RIGHT AMOUNT OF WORK TO DO          3.0       1723               0.38
+4               I AM NOT KEPT VERY BUSY, BUT I DON'T MIND SITTING AROUND          4.0        190               0.04
+5  I DON'T HAVE ENOUGH TO DO, AND IT GETS PRETTY TIRESOME SITTING AROUND          5.0        374               0.08
+6                                                              NO ANSWER          6.0        173               0.04
+
+
+
+S218U.Q76 FROM EVERYTHING YOU HAVE HEARD SO FAR, WHAT DO YOU THINK OF THE CONFERENCE AT SAN FRANCISCO?
+                                                       answer_label answer_value raw_counts relative_frequency
+0                                                         NO ANSWER          0.0         88               0.02
+1                                       IT HAS BEEN A GREAT SUCCESS          1.0        569               0.13
+2  IT HAS ACCOMPLISHED SOME GOOD, BUT NOT AS MUCH AS IT SHOULD HAVE          2.0        926                0.2
+3                           ON THE WHOLE, IT HAS BEEN DISAPPOINTING          3.0        170               0.04
+4               I HAVE NOT HEARD ABOUT THE SAN FRANCISCO CONFERENCE          4.0        274               0.06
+5                                                      INAPPLICABLE          9.0       2492               0.55
+
+
+
+S218U.V80 CROSS-SECTION IDENTIFICATION OF WHITE AND NEGRO ENLISTED MEN:
+                    answer_label answer_value raw_counts relative_frequency
+0  WHITE AND NEGRO CROSS-SECTION          1.0       3038               0.67
+1                ALL OTHER CASES          2.0       1481               0.33
+
+
+
+S218U.V81 WHITE CROSS-SECTION IDENTIFICATION:
+          answer_label answer_value raw_counts relative_frequency
+0  WHITE CROSS-SECTION          1.0       2756               0.61
+1      ALL OTHER CASES          2.0       1763               0.39
+
+
+
+S218U.V82 NEGRO CROSS-SECTION IDENTIFICATION:
+          answer_label answer_value raw_counts relative_frequency
+0  NEGRO CROSS-SECTION          1.0        750               0.17
+1      ALL OTHER CASES          2.0       3769               0.83
+
+
+
+S218U.V83 RACE IDENTIFICATION:
+   answer_label answer_value raw_counts relative_frequency
+0  UNDESIGNATED          0.0          2                0.0
+1         WHITE          1.0       3767               0.83
+2         NEGRO          2.0        750               0.17
+
+
+
+S218U.V84 IDENTIFICATION OF OPERATING, TRAINING AND NEGRO TROOPS:
+  answer_label answer_value raw_counts relative_frequency
+0    OPERATING          1.0       1912               0.42
+1     TRAINING          2.0       1871               0.41
+2        NEGRO          3.0        736               0.16
+
+
+
+S218U.V85 FORCE IDENTIFICATION:
+          answer_label answer_value raw_counts relative_frequency
+0      ARMY AIR FORCES          1.0       1767               0.39
+1   ARMY GROUND FORCES          2.0       1085               0.24
+2  ARMY SERVICE FORCES          3.0       1667               0.37
+
+
+
+S218U.V86CAMP, OUTFIT AND FORCE IDENTIFICATION:
+                                                                                                                 answer_label answer_value raw_counts relative_frequency
+0                                                              ABERDEEN, MARYLAND - 1340 SCU - STATION MEDICAL HOSPITAL - ASF          1.0         12                0.0
+1                                                         ABERDEEN, MARYLAND - ASFTC - 2 BNS - 5 & 6 TRAINING AND CADRE - ASF          2.0         49               0.01
+2                                                        ABERDEEN, MARYLAND - ADDITIONAL RETURNEES - STATION COMPLEMENT - ASF          3.0         56               0.01
+3                                                                    ABERDEEN, MARYLAND - 9301 DET F - ORDNANCE STATION - ASF          4.0         16                0.0
+4                                                             ABERDEEN, MARYLAND - 9301 TSO ORDNANCE STATION COMPLEMENT - ASF          5.0         24               0.01
+5                                                 ABERDEEN, MARYLAND - ADDITIONAL RETURNEES - 1304 SCU STATION HOSPITAL - ASF          6.0         26               0.01
+6                                                               ABERDEEN, MARYLAND - ADDITIONAL RETURNEES QUARTERMASTER - ASF          7.0         22                0.0
+7                                                                                BLANDING, FLORIDA - STATION COMPLEMENT - ASF          8.0         17                0.0
+8                                                                     BLANDING, FLORIDA - IRTC - 211 BN - LATE TRAINING - AGF          9.0         70               0.02
+9                                                                       BLANDING, FLORIDA - ADDITIONAL RETURNEES - IRTC - AGF         10.0         51               0.01
+10                                                                       BLANDING, FLORIDA - 1448 SU STATION COMPLEMENT - ASF         11.0         36               0.01
+11                                                                   BLANDING, FLORIDA - 193RD TRAINING BN - EARLY IRTC - AGF         12.0         68               0.02
+12                                                                                       BOWIE, TEXAS - 1853 SU PW CAMP - ASF         13.0         31               0.01
+13                                                                                   BOWIE, TEXAS - 91 SIGNAL BATTALION - AGF         14.0          6                0.0
+14                                                                                              BOWIE, TEXAS - 1853 SCU - ASF         15.0         35               0.01
+15                                                                         BOWIE, TEXAS - 1853 SCU-MEDICAL REG HOSPITAL - ASF         16.0         19                0.0
+16                                                                              BOWIE, TEXAS - 784 ARMORED FD BATTALION - AGF         17.0         15                0.0
+17                                                 BOWIE, TEXAS - 3452 ORDNANCE MAIN COMPANY; 269 QMG GS SUPPLY COMPANY - AGF         18.0         16                0.0
+18                                                                                          BOWIE, TEXAS - 227 AGF BAND - AGF         19.0          8                0.0
+19                                                                      BUCKINGHAM, FLORIDA - 2117 BU - PERMANENT PARTY - AAF         20.0         54               0.01
+20                                                                        BUCKINGHAM, FLORIDA - 2117 BU PERMANENT PARTY - AAF         21.0         36               0.01
+21                                                                             BUCKINGHAM, FLORIDA - 2117 BU - TRAINING - AAF         22.0         40               0.01
+22                                                      BUCKINGHAM, FLORIDA - ADDITIONAL RETURNEES - 2117 BU - TRAINING - AAF         23.0         21                0.0
+23                                                                       CHARLESTON POE - 9302 TU STATION COMPLEMENT TC - ASF         24.0         76               0.02
+24                                                                   CHARLESTON POE - ADDITIONAL RET STATION COMPLEMENT - ASF         25.0         27               0.01
+25                                                   CHARLESTON POE - QUARTERMASTER SERVICE COS. 3149, 3150, 3151, 3152 - ASF         26.0         68               0.02
+26                                                                              CHARLESTON POE - STATION COMPLEMENT, TC - ASF         27.0         31               0.01
+27                                                                    CROWDER, MISSOURI - 1716 SCU - STATION COMPLEMENT - ASF         28.0         23               0.01
+28                                                        CROWDER, MISSOURI - UNITS IN EARLY STAGES OF TRAINING IN IRTC - ASF         29.0         51               0.01
+29                                                       CROWDER, MISSOURI - ADDITIONAL RETURNEES - 1716 SCU MP AND POW - ASF         30.0         27               0.01
+30                                                         CROWDER, MISSOURI - 789 SAN CO. 11 MEDICAL TRAINING REGIMENT - ASF         31.0         17                0.0
+31                                                                CROWDER, MISSOURI - 789 SAN CO. 11 MEDICAL - 11 INTER - ASF         32.0          4                0.0
+32                                                                         DREW FIELD, FLORIDA - 327 BU PERMANENT PARTY - AAF         33.0         76               0.02
+33                                                                                   DREW FIELD, FLORIDA - 327 TRAINING - AAF         34.0         16                0.0
+34                                                                    GODMAN FIELD, KENTUCKY - 118 BU - PERMANENT PARTY - AAF         35.0         55               0.01
+35                                                                   GODMAN FIELD, KENTUCKY - 618 MEDICAL BOMB SQUADRON - AAF         36.0         13                0.0
+36   GODMAN FIELD, KENTUCKY - 387 AIR SERVICE GP; HEADQUARTER AND BASE SU SQUADRON 602; ENGINEER SQUADRON - 590 AIR; MATERIAL         37.0         41               0.01
+37                                                                         GODMAN FIELD, KENTUCKY - 617 BOMB SQUADRON M - AAF         38.0         10                0.0
+38                                                                           GRAND ISLAND, AAF - 224 BU PERMANENT PARTY - AAF         39.0         90               0.02
+39                                                                         GRAND ISLAND, AAF - 569 AIR SV GP - TRAINING - AAF         40.0         33               0.01
+40                                                   GRAND ISLAND, AAF - ADDITIONAL RETURNEES - 376 BOMB GROUP TRAINING - AAF         41.0         39               0.01
+41                                                                        HAMMOND GENERAL HOSPITAL, CALIFORNIA - MEDICS - ASF         42.0         58               0.01
+42                                                                       HOOD, TEXAS - 147 IRTB - 5 WEEK EARLY TRAINING - AGF         43.0         62               0.01
+43                                                                   HOOD, TEXAS - ADDITIONAL RETURNEES - 91 AND 92 IRT - AGF         44.0        102               0.02
+44                                                                       HOOD, TEXAS - 160 IRTB - 17 WEEK LATE TRAINING - AGF         45.0         74               0.02
+45                                                                                   HOOD, TEXAS - 433 CHEM M BATTALION - AGF         46.0         16                0.0
+46                                                                                            HOOD, TEXAS - SCU ASF DET - ASF         47.0         25               0.01
+47                                                                              KELLY FIELD - 4121 BU - PERMANENT PARTY - AAF         48.0         85               0.02
+48                                              KELLY FIELD - 62 AIR SERVICE GP; 1ST REP SQUADRON 1928 DEPOT SC COMPANY - AAF         49.0         27               0.01
+49                                                           KELLY FIELD - ADDITIONAL RETURNEES 4121 BU PERMANENT PARTY - AAF         50.0         21                0.0
+50                                                                                KELLY FIELD - 4121 BU PERMANENT PARTY - AAF         51.0         26               0.01
+51                                                                                      KELLY FIELD - 2286 TANK COMPANY - AAF         52.0         12                0.0
+52                                                           KILMER, NEW JERSEY - 9201 TU ST AREA - 783 MED SAN COMPANY - ASF         53.0         16                0.0
+53                               KILMER, NEW JERSEY - 3153 QUARTERMASTER SERVICE COMPANY; 3372 QUARTERMASTER TK COMPANY - ASF         54.0         15                0.0
+54                                                             KILMER, NEW JERSEY - 3361, 3372 QUARTERMASTER TK COMPANY - ASF         55.0         41               0.01
+55                                                                         FT. LEAVENWORTH, KANSAS - STATION COMPLEMENT - ASF         56.0         17                0.0
+56                                                                             FT. LEAVENWORTH, KANSAS - WD PERS CENTER - ASF         57.0         27               0.01
+57                                                                 FT. LEAVENWORTH, KANSAS - ADDITIONAL RETURNEES, WDPC - ASF         58.0         18                0.0
+58                                                                              LEE - BASIC MIL - 2ND GP EARLY TRAINING - ASF         59.0         51               0.01
+59                                                                 LEE - 11TH BATTALION QUARTERMASTER ADVANCED TRAINING - ASF         60.0         66               0.01
+60                                                                           LEE - ADDITIONAL RETURNEES - QUARTERMASTER - ASF         61.0         29               0.01
+61                                                                          LEE - 948 QUARTERMASTER HEADQUARTER COMPANY - ASF         62.0         20                0.0
+62                                                                             LEE - 4519 QUARTERMASTER SERVICE COMPANY - ASF         63.0         21                0.0
+63                                                       FT. LEONARD WOOD, MISSOURI - 3077 AND 436 ENGINEER DT. COMPANY - ASF         64.0         19                0.0
+64                                                                FT. LEONARD WOOD, MISSOURI - 3077 ENGINEER DT COMPANY - ASF         65.0          4                0.0
+65                                                                             FT. LEONARD WOOD, MISSOURI - B-33 ASF TC - ASF         66.0          4                0.0
+66                                                                              FT. LEONARD WOOD, MISSOURI - C-34 ASFTC - ASF         67.0          6                0.0
+67                                                                     FT. LEONARD WOOD, MISSOURI - B-33 AND C-34 ASFTC - ASF         68.0         23               0.01
+68                                                               FT. LEWIS, WASHINGTON - 141 MEDICAL TRAINING BATTALION - ASF         69.0         27               0.01
+69                                                                        FT. LEWIS, WASHINGTON - 67 TRAINING BATTALION - ASF         70.0        104               0.02
+70                                                                                  FT. LEWIS, WASHINGTON - PW OVERHEAD - ASF         71.0         37               0.01
+71                                                                               FT. LEWIS, WASHINGTON - RECEPT. CENTER - ASF         72.0         14                0.0
+72                                                        FT. LEWIS, WASHINGTON - ADDITIONAL RETURNEES - RECEPT. CENTER - ASF         73.0          7                0.0
+73                                                              FT. LEWIS, WASHINGTON - ADDITIONAL RETURNEES - ENGINEER - ASF         74.0         46               0.01
+74                                         MAXWELL FIELD, ALABAMA - 2132 BU PERMANENT PARTY SQDS A, B, C, C-1, C-2, C-3 - AAF         75.0         60               0.01
+75                                                           MAXWELL FIELD, ALABAMA - 2132 BU PERMANENT PARTY AC MEDICS - AAF         76.0          5                0.0
+76                                       MAXWELL FIELD, ALABAMA - 2132 BU PERMANENT PARTY INSTRUCTORS - SCHOOL STUDENTS - AAF         77.0         35               0.01
+77                                                             MAXWELL FIELD, ALABAMA - 2132 BU PT ADDITIONAL RETURNEES - AAF         78.0         53               0.01
+78                                           MAXWELL FIELD, ALABAMA - 2132 BU SQUADRON F PERMANENT PARTY \(INTERVIEWS\) - AAF         79.0          2                0.0
+79                                                      MAXWELL FIELD, ALABAMA - BU SQUADRON F OVERHEAD \(INTERVIEWED\) - AAF         80.0         23               0.01
+80                                                                    MCCLELLAN, CALIFORNIA - 4127 BU - PERMANENT PARTY - AAF         81.0         99               0.02
+81                                                                         MCCLELLAN, CALIFORNIA - ADDITIONAL RETURNEES - AAF         82.0         49               0.01
+82                                                                                       MCCLELLAN, CALIFORNIA - 4127BU - AAF         83.0         22                0.0
+83                                                                           MCCLELLAN, CALIFORNIA - STATION COMPLEMENT - ASF         84.0         22                0.0
+84                                                                                   MCCLELLAN, CALIFORNIA - 20 BN IRTC - AGF         85.0        122               0.03
+85                                                                   MCCLELLAN, CALIFORNIA - ADDITIONAL RETURNEES INTVS - AGF         86.0         48               0.01
+86                                                                              MCCLELLAN, CALIFORNIA - 18BN IRTC INTVS - AGF         87.0         83               0.02
+87                                               PINEDALE - 95 FGTR CONT WARN DET; T-2 TRAINING SQUADRON; 51 AND 52 AIR - AAF         88.0         41               0.01
+88                                                                                                 PINEDALE - BASE UNIT - AAF         89.0         73               0.02
+89                                                                                      PINEDALE - ADDITIONAL RETURNEES - AAF         90.0         49               0.01
+90                                                                        RANDOLPH FIELD - 2532 BU ADDITIONAL RETURNEES - AAF         91.0         63               0.01
+91                                                                             RANDOLPH FIELD - 2532 PERMANENT PARTY BU - AAF         92.0         82               0.02
+92                                                                               FT. RILEY, KANSAS - STATION COMPLEMENT - ASF         93.0         15                0.0
+93                                                                                          FT. RILEY, KANSAS - PW CAMP - ASF         94.0         21                0.0
+94                                                                                       FT. RILEY, KANSAS - 396 MP BATTALION         95.0         27               0.01
+95                                                                     FT. RILEY, KANSAS - RETURNEES - 396 MP BATTALION - ASF         96.0         25               0.01
+96                                                                                          FT. RILEY, KANSAS - CAV RTC - AGF         97.0         35               0.01
+97                                                                      FT. RILEY, KANSAS - AGF REPLE DEPOT; TRANSIENTS - AGF         98.0         36               0.01
+98                                                 RUCKER, ALABAMA - 2ND BN 140 INFANTRY REGIMENT; IARTC BASIC TRAINING - AGF         99.0         75               0.02
+99                                              RUCKER, ALABAMA - 2ND BN 113 INFANTRY REGIMENT; IARTC ADVANCED TRAINING - AGF        100.0         79               0.02
+100                                                                         RUCKER, ALABAMA - 1470 SCU - STATION MEDICS - ASF        101.0         11                0.0
+101                                                                     RUCKER, ALABAMA - 1470 SCU - STATION COMPLEMENT - ASF        102.0         18                0.0
+102                                                                     FT. SILL, OKLAHOMA - 1864 SU STATION COMPLEMENT - ASF        103.0         15                0.0
+103                                                                         FT. SILL, OKLAHOMA - 1864 SU STATION MEDICS - ASF        104.0         23               0.01
+104                                                                               FT. SILL, OKLAHOMA - 1864 PW CAMPS SU - ASF        105.0         21                0.0
+105                                                                               FT. SILL, OKLAHOMA - 664 FA BATTALION - AGF        106.0         26               0.01
+106                                                                               FT. SILL, OKLAHOMA - 623 FA BATTALION - AGF        107.0         17                0.0
+107                                                 FT. SILL, OKLAHOMA - ADDITIONAL RETURNEES DET 4; FA TRAINING SCHOOL - AGF        108.0         65               0.01
+108                                                                               FT. SILL, OKLAHOMA - 4TH BN - FAS DET - AGF        109.0         11                0.0
+109                                                                                        SIOUX CITY, IOWA - BASE UNIT - AAF        110.0         72               0.02
+110                                                                 SIOUX CITY, IOWA - ADDITIONAL RETURNEES - BASE UNIT - AAF        111.0         50               0.01
+111                                                                                        SIOUX CITY, IOWA - BASE UNIT - AAF        112.0         24               0.01
+112                                                                    TRUAX FIELD, WISCONSIN - 3508 BU PERMANENT PARTY - AAF        113.0         51               0.01
+113                                                                         TRUAX FIELD, WISCONSIN - 3508 BU - TRAINING - AAF        114.0         41               0.01
+114                                                                                    TRUAX FIELD, WISCONSIN - 3508 BU - AAF        115.0         18                0.0
+115                                                                    TRUAX FIELD, WISCONSIN - 3508 BU PERMANENT PARTY - AAF        116.0          9                0.0
+116                                                 TRUAX FIELD, WISCONSIN - ADDITIONAL RETURNEES - 3508 BU IN TRAINING - AAF        117.0         36               0.01
+117                                                                    TYNDALL FIELD, FLORIDA - 2135 BU PERMANENT PARTY - AAF        118.0         52               0.01
+118                                                                         TYNDALL FIELD, FLORIDA - 2135 BU - TRAINING - AAF        119.0         51               0.01
+119                                                                       TYNDALL FIELD, FLORIDA - 2135 PERMANENT PARTY - AAF        120.0         12                0.0
+120                                                                 VAN COUVER BANKS, WASHINGTON - EM - BARNES HOSPITAL - ASF        121.0         48               0.01
+121                                                                     VAN COUVER BANKS, WASHINGTON - 9207 TU OVERHEAD - ASF        122.0         14                0.0
+122                                                                 VAN COUVER BANKS, WASHINGTON - ADDITIONAL RETURNEES - ASF        123.0         45               0.01
+
+
+

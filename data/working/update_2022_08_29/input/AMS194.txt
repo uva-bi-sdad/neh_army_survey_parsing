@@ -1,0 +1,1692 @@
+S194.Q1 WHAT IS YOUR ARMY RANK OR GRADE?
+                       answer_label answer_value raw_counts relative_frequency
+0                         NO ANSWER          0.0         22                0.0
+1                           PRIVATE          1.0       2861               0.43
+2               PRIVATE FIRST CLASS          2.0       1783               0.27
+3              TECHNICIAN 5TH GRADE          3.0        575               0.09
+4                          CORPORAL          4.0        595               0.09
+5              TECHNICIAN 4TH GRADE          5.0        272               0.04
+6                     BUCK SERGEANT          6.0        357               0.05
+7              TECHNICIAN 3RD GRADE          7.0         54               0.01
+8                    STAFF SERGEANT          8.0        110               0.02
+9                TECHNICAL SERGEANT          9.0         23                0.0
+10  MASTER SERGEANT OR 1ST SERGEANT         10.0          6                0.0
+
+
+
+S194.Q2 HOW LONG HAVE YOU HELD YOUR PRESENT RANK?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0         69               0.01
+1                             1 MONTH OR LESS          1.0        833               0.13
+2   OVER 1 MONTH UP TO AND INCLUDING 3 MONTHS          2.0       1071               0.16
+3  OVER 3 MONTHS UP TO AND INCLUDING 6 MONTHS          3.0       1512               0.23
+4  OVER 6 MONTHS UP TO AND INCLUDING 9 MONTHS          4.0       1223               0.18
+5    OVER 9 MONTHS UP TO AND INCLUDING 1 YEAR          5.0        858               0.13
+6   OVER 1 YEAR UP TO AND INCLUDING 18 MONTHS          6.0        779               0.12
+7  OVER 18 MONTHS UP TO AND INCLUDING 2 YEARS          7.0        300               0.05
+8                                OVER 2 YEARS          8.0         13                0.0
+
+
+
+S194.Q3 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0         53               0.01
+1            20 YEARS          1.0        526               0.08
+2            21 YEARS          2.0        724               0.11
+3            22 YEARS          3.0        620               0.09
+4            23 YEARS          4.0        783               0.12
+5            24 YEARS          5.0        540               0.08
+6            25 YEARS          6.0        394               0.06
+7         26-29 YEARS          7.0       1103               0.17
+8         30-34 YEARS          8.0        810               0.12
+9         35-39 YEARS          9.0        498               0.07
+10  40 YEARS AND OVER         10.0        607               0.09
+
+
+
+S194.Q4 ARE YOU SINGLE, MARRIED, DIVORCED, SEPARATED, OR WIDOWED? F. IF MARRIED:  Q.5. WERE YOU MARRIED BEFORE OR AFTER ENTERING THE WAC OR WAAC?
+                            answer_label answer_value raw_counts relative_frequency
+0                              NO ANSWER          0.0         22                0.0
+1      SINGLE, AND ENGAGED TO BE MARRIED          1.0       1080               0.16
+2  SINGLE, AND NOT ENGAGED TO BE MARRIED          2.0       3307                0.5
+3        DIVORCED, SEPARATED, OR WIDOWED          3.0        998               0.15
+4                         MARRIED BEFORE          4.0        829               0.12
+5                          MARRIED AFTER          5.0        419               0.06
+6            MARRIED, NO INDICATION WHEN          6.0          3                0.0
+
+
+
+S194.Q6 IF YOU ARE MARRIED, WHERE IS YOUR HUSBAND STATIONED? IF YOUR HUSBAND IS STATIONED OVERSEAS, HOW LONG HAS HE BEEN OVERSEAS?
+                                                      answer_label answer_value raw_counts relative_frequency
+0                                                        NO ANSWER          0.0         83               0.01
+1                                 MY HUSBAND IS STATIONED OVERSEAS          1.0         67               0.01
+2            MY HUSBAND IS STATIONED OVERSEAS, LESS THAN 18 MONTHS          2.0        342               0.05
+3              MY HUSBAND IS STATIONED OVERSEAS, 18 MONTHS OR MORE          3.0        211               0.03
+4                             MY HUSBAND IS STATIONED ON THIS POST          4.0        120               0.02
+5  MY HUSBAND IS STATIONED ON SOME OTHER POST IN THE UNITED STATES          5.0        309               0.05
+6                           MY HUSBAND IS STATIONED SOMEWHERE ELSE          6.0          3                0.0
+7                        MY HUSBAND IS NOT IN THE MILITARY SERVICE          7.0        466               0.07
+8                                                  I'M NOT MARRIED          8.0       5057               0.76
+
+
+
+S194.Q7 IF YOU ARE MARRIED, ARE YOU LIVING AWAY FROM THE POST?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0        117               0.02
+1              YES          1.0        122               0.02
+2               NO          2.0       1351                0.2
+3  I'M NOT MARRIED          3.0       5068               0.76
+
+
+
+S194.Q8 HOW CLOSE ARE YOU TO HOME?
+                                          answer_label answer_value raw_counts relative_frequency
+0                                            NO ANSWER          0.0         40               0.01
+1                    CLOSE ENOUGH TO GO HOME OVERNIGHT          1.0        532               0.08
+2            CLOSE ENOUGH TO GO HOME OVER THE WEEK-END          2.0        842               0.13
+3          CLOSE ENOUGH TO GO HOME ON A THREE DAY PASS          3.0       1168               0.18
+4  NEED MORE THAN A THREE DAY PASS IN ORDER TO GO HOME          4.0       4076               0.61
+
+
+
+S194.Q9 WERE YOU IN THE WAAC BEFORE IT BECAME THE WAC?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         34               0.01
+1          YES          1.0       2302               0.35
+2           NO          2.0       4322               0.65
+
+
+
+S194.Q10 HOW LONG HAVE YOU BEEN IN THE WAC OR WAAC?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         30                0.0
+1              3 MONTHS OR LESS          1.0        535               0.08
+2  OVER 3 MONTHS UP TO 6 MONTHS          2.0        870               0.13
+3    OVER 6 MONTHS UP TO 1 YEAR          3.0       2079               0.31
+4     OVER 1 YEAR UP TO 2 YEARS          4.0       2314               0.35
+5                  OVER 2 YEARS          5.0        830               0.12
+
+
+
+S194.Q11 HOW LONG HAVE YOU BEEN AT THE POST WHERE YOU ARE NOW STATIONED?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         18                0.0
+1               1 MONTH OR LESS          1.0        654                0.1
+2       2 MONTHS UP TO 3 MONTHS          2.0        904               0.14
+3  OVER 3 MONTHS UP TO 6 MONTHS          3.0       1179               0.18
+4    OVER 6 MONTHS UP TO 1 YEAR          4.0       1810               0.27
+5   OVER 1 YEAR UP TO 18 MONTHS          5.0       1055               0.16
+6  OVER 18 MONTHS UP TO 2 YEARS          6.0       1023               0.15
+7                  OVER 2 YEARS          7.0         15                0.0
+
+
+
+S194.Q12 HOW FAR DID YOU GO IN SCHOOL? (DON'T INCLUDE BUSINESS COLLEGE, SPECIAL TRAINING OR POSTGRADUATE WORK.)
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0         18                0.0
+1                    SOME GRADE SCHOOL          1.0         59               0.01
+2                FINISHED GRADE SCHOOL          2.0        322               0.05
+3  SOME HIGH SCHOOL BUT DID NOT FINISH          3.0       2094               0.31
+4           GRADUATED FROM HIGH SCHOOL          4.0       2709               0.41
+5      SOME COLLEGE BUT DID NOT FINISH          5.0        991               0.15
+6               GRADUATED FROM COLLEGE          6.0        465               0.07
+
+
+
+S194.Q13 HAVE YOU TAKEN ANY SPECIAL COURSES OF ANY KIND IN CIVILIAN LIFE? (THIS INCLUDES BUSINESS SCHOOL, NURSES, SCHOOL, POSTGRADUATE WORK OR ANYTHING ELSE.)
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        111               0.02
+1          YES          1.0       3392               0.51
+2           NO          2.0       3155               0.47
+
+
+
+S194.Q14.1 WHICH OF THE FOLLOWING WERE YOU DOING JUST BEFORE YOU CAME INTO THE WAC (OR WAAC)?
+                             answer_label answer_value raw_counts relative_frequency
+0  KEPT HOUSE FOR MY HUSBAND OR MY FAMILY          1.0        607               0.09
+1                              NOT CHOSEN          2.0       6051               0.91
+
+
+
+S194.Q14.2WHICH OF THE FOLLOWING WERE YOU DOING JUST BEFORE YOU CAME INTO THE WAC (OR WAAC)?
+                     answer_label answer_value raw_counts relative_frequency
+0  WORKING FULL-TIME FOR EMPLOYER          1.0       5563               0.84
+1                      NOT CHOSEN          2.0       1095               0.16
+
+
+
+S194.Q14.3WHICH OF THE FOLLOWING WERE YOU DOING JUST BEFORE YOU CAME INTO THE WAC (OR WAAC)?
+             answer_label answer_value raw_counts relative_frequency
+0  IN BUSINESS FOR MYSELF          1.0        164               0.02
+1              NOT CHOSEN          2.0       6494               0.98
+
+
+
+S194.Q14.4WHICH OF THE FOLLOWING WERE YOU DOING JUST BEFORE YOU CAME INTO THE WAC (OR WAAC)?
+                answer_label answer_value raw_counts relative_frequency
+0  GOING TO FULL-TIME SCHOOL          1.0        156               0.02
+1                 NOT CHOSEN          2.0       6502               0.98
+
+
+
+S194.Q14.5WHICH OF THE FOLLOWING WERE YOU DOING JUST BEFORE YOU CAME INTO THE WAC (OR WAAC)?
+        answer_label answer_value raw_counts relative_frequency
+0  WORKING PART-TIME          1.0        193               0.03
+1         NOT CHOSEN          2.0       6465               0.97
+
+
+
+S194.Q14.6WHICH OF THE FOLLOWING WERE YOU DOING JUST BEFORE YOU CAME INTO THE WAC (OR WAAC)?
+                answer_label answer_value raw_counts relative_frequency
+0  GOING TO SCHOOL PART-TIME          1.0         19                0.0
+1                 NOT CHOSEN          2.0       6639                1.0
+
+
+
+S194.Q14.7WHICH OF THE FOLLOWING WERE YOU DOING JUST BEFORE YOU CAME INTO THE WAC (OR WAAC)?
+                                     answer_label answer_value raw_counts relative_frequency
+0  COMBINATION OF CODES (COLUMNS 23 AND 27 ABOVE)          1.0         69               0.01
+1                                      NOT CHOSEN          2.0       6589               0.99
+
+
+
+S194.Q14.8WHICH OF THE FOLLOWING WERE YOU DOING JUST BEFORE YOU CAME INTO THE WAC (OR WAAC)?
+                                     answer_label answer_value raw_counts relative_frequency
+0  COMBINATION OF CODES (COLUMNS 23 AND 28 ABOVE)          1.0         11                0.0
+1                                      NOT CHOSEN          2.0       6647                1.0
+
+
+
+S194.Q14.9WHICH OF THE FOLLOWING WERE YOU DOING JUST BEFORE YOU CAME INTO THE WAC (OR WAAC)?
+                                     answer_label answer_value raw_counts relative_frequency
+0  COMBINATION OF CODES (COLUMNS 24 AND 28 ABOVE)          1.0        197               0.03
+1                                      NOT CHOSEN          2.0       6461               0.97
+
+
+
+S194.Q14.10WHICH OF THE FOLLOWING WERE YOU DOING JUST BEFORE YOU CAME INTO THE WAC (OR WAAC)?
+                                     answer_label answer_value raw_counts relative_frequency
+0  COMBINATION OF CODES (COLUMNS 26 AND 27 ABOVE)          1.0         24                0.0
+1                                      NOT CHOSEN          2.0       6634                1.0
+
+
+
+S194.Q14.11WHICH OF THE FOLLOWING WERE YOU DOING JUST BEFORE YOU CAME INTO THE WAC (OR WAAC)?
+                                     answer_label answer_value raw_counts relative_frequency
+0  COMBINATION OF CODES (COLUMNS 27 AND 28 ABOVE)          1.0         66               0.01
+1                                      NOT CHOSEN          2.0       6592               0.99
+
+
+
+S194.Q14.12WHICH OF THE FOLLOWING WERE YOU DOING JUST BEFORE YOU CAME INTO THE WAC (OR WAAC)?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0         19                0.0
+1   NOT CHOSEN          2.0       6639                1.0
+
+
+
+S194.Q15B JUST WHAT DID YOU DO?
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0                                                                                                                 NO ANSWER          0.0        106               0.02
+1                                                                                   ACCOUNTANTS AND AUDITORS, STATISTICIANS          1.0         26                0.0
+2                                                                 ACTRESSES, DANCERS, SINGERS, ENTERTAINERS (NOT MUSICIANS)          2.0         22                0.0
+3                                                                                         ARTISTS, COMMERCIAL ARTISTS, ETC.          3.0         14                0.0
+4                                                                                                     CHEMISTS, PHARMACISTS          4.0          5                0.0
+5                                                                                                                DIETITIANS          5.0          7                0.0
+6                                                                                                      DRAFTSMAN, DESIGNERS          6.0         27                0.0
+7                                                                                      INTERIOR DECORATORS, WINDOW DRESSERS          7.0          8                0.0
+8                                                                                                                   LAWYERS          8.0          5                0.0
+9                                                                                                                LIBRARIANS          9.0         17                0.0
+10                                                                                             MUSICIANS AND MUSIC TEACHERS         10.0          7                0.0
+11                                                                NURSES, TRAINED AND STUDENT NURSES (NOT PRACTICAL NURSES)         11.0         43               0.01
+12                                                                                                        PERSONNEL WORKERS         12.0         12                0.0
+13                                                                                                            PHOTOGRAPHERS         13.0          7                0.0
+14                                                  REPORTERS, AND WRITERS, PUBLIC RELATIONS, ETC., WRITERS, PUBLICITY ETC.         14.0         31                0.0
+15                                                                             SOCIAL WORKERS, SOCIAL RECREATIONAL DIRECTOR         15.0         51               0.01
+16                                                                      TEACHERS, (OTHER THAN MUSIC) AND SCHOOL SUPERVISORS         16.0        255               0.04
+17                                                                                                                   DOCTOR         17.0          1                0.0
+18                                                                                               RESEARCH WORKERS; ANALYSTS         18.0         10                0.0
+19  MANAGERS OR OWNERS, WHOLESALE AND RETAIL TRADE, INCLUDES INSURANCE AND REAL ESTATE, (BUYERS AND DEPARTMENT STORE HEADS)         20.0        104               0.02
+20                                                                           MANAGERS OR OWNERS, EATING AND DRINKING PLACES         21.0         47               0.01
+21                                                   MANAGERS OR OWNERS, SERVICE ESTABLISHMENTS; SUCH AS BEAUTY SHOPS, ETC.         22.0         49               0.01
+22                                        RESIDENT MANAGERS, APARTMENT HOUSES (INCLUDES BOARDING AND LODGING HOUSE KEEPERS)         23.0          7                0.0
+23                                                                          SUPERVISORY AND ADMINISTRATIVE WORKERS - OFFICE         24.0        147               0.02
+24                                                                             TECHNICIANS, DARKROOM (PHOTOGRAPHIC WORKERS)         25.0         28                0.0
+25                                                                                                      TECHNICIANS, DENTAL         26.0         12                0.0
+26                                                                                                  TECHNICIANS, LABORATORY         27.0         37               0.01
+27                                                                                        TECHNICIANS, MEDICAL AND SURGICAL         28.0         26                0.0
+28                                                                             CRYPTOGRAPHER; OR CODE CLERK IN SIGNAL CORPS         29.0          1                0.0
+29                                                                                                              BOOKKEEPERS         30.0        165               0.02
+30                                                                                               CASHIERS AND TICKET AGENTS         31.0        106               0.02
+31                                                                                                             CLERKS, FILE         32.0         54               0.01
+32                                                                              CLERKS, ALL OTHERS (INCLUDES RECEPTIONISTS)         33.0        870               0.13
+33                                                                                        CLERKS, OPERATING OFFICE MACHINES         34.0        132               0.02
+34                                                                                                        CLERKS, PERSONNEL         35.0         30                0.0
+35                                                                                                             CLERK-TYPIST         36.0        232               0.03
+36                                                                                            STENOGRAPHERS AND SECRETARIES         37.0        583               0.09
+37                                                                                                      TELEPHONE OPERATORS         38.0        171               0.03
+38                                                                                    TYPISTS (INCLUDES TELETYPE OPERATORS)         39.0         99               0.01
+39                                                                                                             SALESPERSONS         40.0        270               0.04
+40                                                                             ATTENDANTS, HOSPITALS AND OTHER INSTITUTIONS         41.0         54               0.01
+41                                                                   ATTENDANTS, RECREATION AND AMUSEMENT (INCLUDES USHERS)         42.0          5                0.0
+42                                                                               ATTENDANTS, DOCTORS, AND DENTISTS, OFFICES         43.0         48               0.01
+43                                                                                  PHYSIOTHERAPIST, OCCUPATIONAL THERAPIST         44.0          6                0.0
+44                                                                                         BEAUTY OPERATORS AND MANICURISTS         45.0         57               0.01
+45                                                                                                       ELEVATOR OPERATORS         46.0         20                0.0
+46                                                                                           HOUSEKEEPERS (NOT IN OWN HOME)         47.0         20                0.0
+47                                                                                         PRACTICAL NURSES AND NURSE MAIDS         48.0         88               0.01
+48                                                                                                       SERVANTS, DOMESTIC         49.0         50               0.01
+49                                                                                                 BUTCHERS AND MEATCUTTERS         50.0          2                0.0
+50                                                                                       CLEANERS, EXCEPT IN PRIVATE FAMILY         51.0         10                0.0
+51                                                                                                         COOKS AND BAKERS         52.0         31                0.0
+52                                                                                    KITCHEN WORKERS, HOTEL AND RESTAURANT         53.0         12                0.0
+53                                                                   WAITRESSES, SODA JERKERS, HOSTESSES, ETC. COUNTER GIRL         54.0        168               0.03
+54                                                                     CHAUFFEURS AND DRIVERS, BUS, TAXI, TRUCK OR TRACTORS         55.0         41               0.01
+55                                                                                                       DETECTIVES; GUARDS         56.0         12                0.0
+56                                                                                                                    MODEL         57.0          3                0.0
+57                                                                         MANAGERS AND OWNERS OF RECREATION ESTABLISHMENTS         58.0          6                0.0
+58                                                                          FACTORY WORKERS (EXCEPT FORELADIES OR TRAINERS)         60.0       1557               0.23
+59                                                                          FILLING STATION ATTENDANTS, SERVICING AIRPLANES         61.0          6                0.0
+60                                                                                                   FORELADIES OR TRAINERS         62.0         82               0.01
+61                                                                                          LAUNDRESSES AND LAUNDRY WORKERS         63.0         23                0.0
+62                                                                             MECHANICAL WORKERS, REPAIRMEN, ETC. PAINTERS         64.0        114               0.02
+63                                                                                    MUNITIONS HANDLERS (NOT IN FACTORIES)         65.0          4                0.0
+64                                                                          SEAMSTRESSES AND DRESSMAKERS (NOT IN FACTORIES)         66.0         20                0.0
+65                                                                                      PARACHUTE RIGGERS AND PACKERS, ETC.         67.0          5                0.0
+66                                                                                                             FARM WORKERS         70.0         17                0.0
+67                                                                                                    GOVERNMENT INSPECTORS         71.0         12                0.0
+68                                                                    CONTROL TOWER OPERATORS - SIGNAL OPERATOR ON RAILROAD         72.0          4                0.0
+69                                                                                         LINK TRAINER, INSTRUCTOR, PILOTS         73.0          6                0.0
+70                                                                                                         WEATHER OBSERVER         74.0          2                0.0
+71                                                                                                            PROJECTIONIST         76.0          1                0.0
+72                                                                                                           UNCLASSIFIABLE         78.0          6                0.0
+73                                                                                              I NEVER HAD A FULL TIME JOB         79.0        339               0.05
+74                                                                                    OFFICE WORK (NO INDICATION WHAT TYPE)         81.0          3                0.0
+
+
+
+S194.Q16 DID YOU EVER TAKE ANY WAC (WAAC) OR ARMY SPECIALIST TRAINING? (DO NOT INCLUDE BASIC TRAINING.)
+                      answer_label answer_value raw_counts relative_frequency
+0                        NO ANSWER          0.0        326               0.05
+1                              YES          1.0       2135               0.32
+2                               NO          2.0       3985                0.6
+3  I'M TAKING SPECIAL TRAINING NOW          3.0        212               0.03
+
+
+
+S194.Q17 IN YOUR PRESENT ARMY JOB, ARE YOU USING THIS SPECIAL ARMY TRAINING?
+                              answer_label answer_value raw_counts relative_frequency
+0                                NO ANSWER          0.0        690                0.1
+1           I USE MY TRAINING ALL THE TIME          1.0        905               0.14
+2       I USE MY TRAINING MOST OF THE TIME          2.0        278               0.04
+3    I USE MY TRAINING ABOUT HALF THE TIME          3.0        279               0.04
+4            I HARDLY EVER USE MY TRAINING          4.0        325               0.05
+5                  I NEVER USE MY TRAINING          5.0        450               0.07
+6          I'M TAKING SPECIAL TRAINING NOW          6.0        230               0.03
+7  I DO NOT HAVE ANY SPECIAL ARMY TRAINING          7.0       3501               0.53
+
+
+
+S194.Q18B WHAT ARE YOUR DUTIES IN CONNECTION WITH THIS JOB?
+                                                                           answer_label answer_value raw_counts relative_frequency
+0                                                                             NO ANSWER          0.0        521               0.08
+1                                               ACCOUNTANTS AND AUDITORS, STATISTICIANS          1.0          8                0.0
+2                             ACTRESSES, DANCERS, SINGERS, ENTERTAINERS (NOT MUSICIANS)          2.0          1                0.0
+3                                                      ARTIST, COMMERCIAL ARTISTS, ETC.          3.0          3                0.0
+4                                                                  CHEMIST, PHARMACISTS          4.0          4                0.0
+5                                                                             DIETITIAN          5.0          5                0.0
+6                                                                  DRAFTSMEN, DESIGNERS          6.0         12                0.0
+7                                                                               LAWYERS          8.0          1                0.0
+8                                                                            LIBRARIANS          9.0         11                0.0
+9                                                                     PERSONNEL WORKERS         12.0         20                0.0
+10                                                                        PHOTOGRAPHERS         13.0          7                0.0
+11                                       REPORTERS, AND WRITERS, PUBLIC RELATIONS, ETC.         14.0         30                0.0
+12                                                SOCIAL WORKERS, RECREATIONAL DIRECTOR         15.0         27                0.0
+13                                   TEACHERS (OTHER THAN MUSIC) AND SCHOOL SUPERVISORS         16.0         15                0.0
+14                                                           RESEARCH WORKERS; ANALYSTS         18.0          3                0.0
+15                                                                       RADIO OPERATOR         19.0         30                0.0
+16  MANAGERS OR OWNERS, WHOLESALE AND RETAIL TRADE (INCLUDES INSURANCE AND REAL ESTATE)         20.0          1                0.0
+17                                       MANAGERS OR OWNERS, EATING AND DRINKING PLACES         21.0         29                0.0
+18                                       SUPERVISORY AND ADMINISTRATIVE WORKERS, OFFICE         24.0        175               0.03
+19                                         TECHNICIANS, DARKROOM (PHOTOGRAPHIC WORKERS)         25.0         69               0.01
+20                                                                  TECHNICIANS, DENTAL         26.0         70               0.01
+21                                                              TECHNICIANS, LABORATORY         27.0         66               0.01
+22                                                    TECHNICIANS, MEDICAL AND SURGICAL         28.0        173               0.03
+23                                         CRYPTOGRAPHER; OR CODE CLERK IN SIGNAL CORPS         29.0         12                0.0
+24                                                                          BOOKKEEPERS         30.0         17                0.0
+25                                                           CASHIERS AND TICKET AGENTS         31.0         36               0.01
+26                                                                         CLERKS, FILE         32.0        227               0.03
+27                                          CLERKS, ALL OTHERS (INCLUDES RECEPTIONISTS)         33.0       1929               0.29
+28                                                    CLERKS, OPERATING OFFICE MACHINES         34.0         93               0.01
+29                                                                    CLERKS, PERSONNEL         35.0        179               0.03
+30                                                                         CLERK-TYPIST         36.0        779               0.12
+31                                                        STENOGRAPHERS AND SECRETARIES         37.0        336               0.05
+32                                                                  TELEPHONE OPERATORS         38.0         65               0.01
+33                                                TYPISTS (INCLUDES TELETYPE OPERATORS)         39.0        225               0.03
+34                                                                         SALESPERSONS         40.0         20                0.0
+35                                         ATTENDANTS, HOSPITALS AND OTHER INSTITUTIONS         41.0        314               0.05
+36                               ATTENDANTS, RECREATION AND AMUSEMENT (INCLUDES USHERS)         42.0          2                0.0
+37                                           ATTENDANTS, DOCTORS, AND DENTISTS, OFFICES         43.0         47               0.01
+38                                              PHYSIOTHERAPIST, OCCUPATIONAL THERAPIST         44.0         79               0.01
+39                                                     BEAUTY OPERATORS AND MANICURISTS         45.0          3                0.0
+40                                                     PRACTICAL NURSES AND NURSE MAIDS         48.0          6                0.0
+41                                                             BUTCHERS AND MEATCUTTERS         50.0          3                0.0
+42                                                   CLEANERS, EXCEPT IN PRIVATE FAMILY         51.0          9                0.0
+43                                                                     COOKS AND BAKERS         52.0        230               0.03
+44                                                KITCHEN WORKERS, HOTEL AND RESTAURANT         53.0         24                0.0
+45                               WAITRESSES, SODA JERKERS, HOSTESSES, ETC. COUNTER GIRL         54.0         11                0.0
+46                                 CHAUFFEURS AND DRIVERS, BUS, TAXI, TRUCK OR TRACTORS         55.0        358               0.05
+47                                                                   DETECTIVES, GUARDS         56.0          4                0.0
+48                                    FACTORY WORKERS \(EXCEPT FORELADIES OR TRAINERS\)         60.0          3                0.0
+49                                      FILLING STATION ATTENDANTS, SERVICING AIRPLANES         61.0         44               0.01
+50                                                               FORELADIES OR TRAINERS         62.0         32                0.0
+51                                                      LAUNDRESSES AND LAUNDRY WORKERS         63.0          2                0.0
+52                                         MECHANICAL WORKERS, REPAIRMEN, ETC. PAINTERS         64.0        137               0.02
+53                                                MUNITIONS HANDLERS (NOT IN FACTORIES)         65.0         12                0.0
+54                                      SEAMSTRESSES AND DRESSMAKERS (NOT IN FACTORIES)         66.0          9                0.0
+55                                                  PARACHUTE RIGGERS AND PACKERS, ETC.         67.0         20                0.0
+56                                                           DISPATCHER, AIRPLANES ONLY         68.0         34               0.01
+57                                                                GOVERNMENT INSPECTORS         71.0          2                0.0
+58                                 CONTROL TOWER OPERATOR - SIGNAL OPERATOR ON RAILROAD         72.0         20                0.0
+59                                                      LINK TRAINER INSTRUCTOR, PILOTS         73.0         22                0.0
+60                                                                     WEATHER OVERSEER         74.0         16                0.0
+61                                                                        PROJECTIONIST         76.0          4                0.0
+62                                                              TRANSLATOR; INTERPRETER         77.0          8                0.0
+63                                                                       UNCLASSIFIABLE         78.0          2                0.0
+64                                        UNDECIDED; DON'T KNOW; HAVEN'T ANY IDEA, ETC.         79.0          1                0.0
+65                                                OFFICE WORK (NO INDICATION WHAT TYPE)         80.0          1                0.0
+
+
+
+S194.Q18B1 EVALUATION OF ASSIGNMENT SCORE?
+                                                                                                         answer_label answer_value raw_counts relative_frequency
+0                                                                                                           NO ANSWER          0.0        532               0.08
+1                                                                      ARMY JOB SIMILAR TO CIVILIAN JOB OR EXPERIENCE          1.0       1669               0.25
+2                                                            ARMY JOB SIMILAR TO TRAINING IN Q.13 (CIVILIAN TRAINING)          2.0        319               0.05
+3                                                                ARMY JOB SIMILAR TO TRAINING IN Q.16 (ARMY TRAINING)          3.0       1306                0.2
+4                                                                                  COMBINATION OF CODES 2 AND 3 ABOVE          4.0        191               0.03
+5  ARMY JOB NOT SIMILAR TO CIVILIAN JOB OR TRAINING IN CIVILIAN LIFE OR ARMY, BUT WAC IS AS WELL ASSIGNED AS POSSIBLE          5.0       1921               0.29
+6                                                                                                         MISASSIGNED          6.0        530               0.08
+7                                                                                                         MALASSIGNED          7.0        139               0.02
+8                                                                                         MISASSIGNED AND MALASSIGNED          8.0         51               0.01
+
+
+
+S194.Q18C WHERE DO YOU WORK?
+                                                                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                                                                  NO ANSWER          0.0        556               0.08
+1                                                                                                                   HOSPITAL          1.0       1173               0.18
+2                                                                                           MOTOR POOL OR AUTOMOTIVE SECTION          2.0        456               0.07
+3   HEADQUARTERS DETACHMENT (INCLUDES ADJUTANT'S OFFICE, OFFICERS REPLACEMENT, POOL, CHAPLAIN CORPS, JUDGE ADVOCATES OFFICE,          3.0        908               0.14
+4                                                                                                             WAC DETACHMENT          4.0        372               0.06
+5                                                                                                                POST OFFICE          5.0        179               0.03
+6                                                                                   SUPPLY (INCLUDES Q.M., COMMISSARY, ETC.)          6.0        485               0.07
+7                                                                                                                      OTHER          7.0       1422               0.21
+8                                                                                                                POST OFFICE          8.0        467               0.07
+9                                                                                         STATISTICAL CONTROL DIVISION (IBM)          9.0        120               0.02
+10                                                                                              CLASSIFICATION AND PERSONNEL         10.0        482               0.07
+11                                                                                        PORT TERMINAL OR PORT HEADQUARTERS         11.0         38               0.01
+
+
+
+S194.Q19 HAVE YOU ALWAYS BEEN DOING THIS KIND OF WORK SINCE YOU LEFT THE WAC (WAAC) TRAINING CENTER?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        465               0.07
+1          YES          1.0       3549               0.53
+2           NO          2.0       2644                0.4
+
+
+
+S194.Q20 DO YOU USE THE CIVILIAN TRAINING AND EXPERIENCE YOU HAD BEFORE YOU CAME IN THE ARMY IN YOUR PRESENT ARMY JOB OR ASSIGNMENT?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0        476               0.07
+1  YES, MOST OF THE TIME          1.0       2104               0.32
+2   YES, ONCE IN A WHILE          2.0       1226               0.18
+3              NO, NEVER          3.0       2852               0.43
+
+
+
+S194.Q21 DO YOU THINK YOUR ABILITIES AND PREVIOUS EXPERIENCE FIT YOU BETTER FOR SOME OTHER JOB OR ASSIGNMENT?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0        762               0.11
+1  YES, I WOULD FIT BETTER IN A DIFFERENT JOB          1.0       1856               0.28
+2     NO, I AM BEST FITTED FOR MY PRESENT JOB          2.0       4040               0.61
+
+
+
+S194.Q22.1 ON YOUR JOB, WHO IS YOUR IMMEDIATE SUPERIOR, OR THE PERSON FROM WHOM YOU TAKE ORDERS?
+                 answer_label answer_value raw_counts relative_frequency
+0  ANOTHER WAC ENLISTED WOMAN          1.0        587               0.09
+1                  NOT CHOSEN          2.0       6071               0.91
+
+
+
+S194.Q22.2ON YOUR JOB, WHO IS YOUR IMMEDIATE SUPERIOR, OR THE PERSON FROM WHOM YOU TAKE ORDERS?
+    answer_label answer_value raw_counts relative_frequency
+0  A WAC OFFICER          1.0        435               0.07
+1     NOT CHOSEN          2.0       6223               0.93
+
+
+
+S194.Q22.3ON YOUR JOB, WHO IS YOUR IMMEDIATE SUPERIOR, OR THE PERSON FROM WHOM YOU TAKE ORDERS?
+      answer_label answer_value raw_counts relative_frequency
+0  AN ENLISTED MAN          1.0       2084               0.31
+1       NOT CHOSEN          2.0       4574               0.69
+
+
+
+S194.Q22.4ON YOUR JOB, WHO IS YOUR IMMEDIATE SUPERIOR, OR THE PERSON FROM WHOM YOU TAKE ORDERS?
+     answer_label answer_value raw_counts relative_frequency
+0  A MALE OFFICER          1.0       2868               0.43
+1      NOT CHOSEN          2.0       3790               0.57
+
+
+
+S194.Q22.5ON YOUR JOB, WHO IS YOUR IMMEDIATE SUPERIOR, OR THE PERSON FROM WHOM YOU TAKE ORDERS?
+  answer_label answer_value raw_counts relative_frequency
+0   A CIVILIAN          1.0        342               0.05
+1   NOT CHOSEN          2.0       6316               0.95
+
+
+
+S194.Q22.6ON YOUR JOB, WHO IS YOUR IMMEDIATE SUPERIOR, OR THE PERSON FROM WHOM YOU TAKE ORDERS?
+  answer_label answer_value raw_counts relative_frequency
+0        OTHER          1.0        276               0.04
+1   NOT CHOSEN          2.0       6382               0.96
+
+
+
+S194.Q22.7ON YOUR JOB, WHO IS YOUR IMMEDIATE SUPERIOR, OR THE PERSON FROM WHOM YOU TAKE ORDERS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0        462               0.07
+1   NOT CHOSEN          2.0       6196               0.93
+
+
+
+S194.Q23 DO YOU FEEL THAT YOU ARE TAKEN OFF YOUR MAIN JOB FOR OTHER DUTIES MORE OFTEN THAN YOU SHOULD BE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        532               0.08
+1          YES          1.0       1938               0.29
+2           NO          2.0       4188               0.63
+
+
+
+S194.Q24 ARE THERE PARTS OF YOUR JOB THAT COULD BE DONE IN SIMPLER WAYS THEN THEY ARE NOW BEING DONE?
+                                                 answer_label answer_value raw_counts relative_frequency
+0                                                   NO ANSWER          0.0        578               0.09
+1               MUCH OF MY WORK COULD BE DONE IN SIMPLER WAYS          1.0        458               0.07
+2               SOME OF MY WORK COULD BE DONE IN SIMPLER WAYS          2.0       1419               0.21
+3  PRESENT METHODS OF DOING MY WORK ARE AS SIMPLE AS POSSIBLE          3.0       4203               0.63
+
+
+
+S194.Q25 ABOUT HOW MUCH OF THE TIME ARE YOU KEPT BUSY?
+                                                                    answer_label answer_value raw_counts relative_frequency
+0                                                                      NO ANSWER          0.0        521               0.08
+1                                         I USUALLY DON'T HAVE ENOUGH WORK TO DO          1.0        490               0.07
+2                 I HAVE ENOUGH TO DO SOME OF THE TIME BUT USUALLY COULD DO MORE          2.0        576               0.09
+3               I HAVE ENOUGH TO DO MOST OF THE TIME BUT SOMETIMES COULD DO MORE          3.0       1131               0.17
+4                                       I HAVE JUST ENOUGH TO DO TO KEEP ME BUSY          4.0       2800               0.42
+5  I HAVE SO MUCH TO DO I CAN'T USUALLY GET IT DONE DURING REGULAR WORKING HOURS          5.0       1118               0.17
+6                     PEAKS AND LULLS, SOMETIMES TOO BUSY, SOMETIMES NOT SO BUSY          6.0         22                0.0
+
+
+
+S194.Q26 DO YOU FEEL THAT THERE IS UNNECESSARY WORK DONE IN YOUR SECTION?
+                                answer_label answer_value raw_counts relative_frequency
+0                                  NO ANSWER          0.0        564               0.08
+1  THERE IS A GREAT DEAL OF UNNECESSARY WORK          1.0        532               0.08
+2             THERE IS A CONSIDERABLE AMOUNT          2.0        473               0.07
+3                THERE IS SOME, BUT NOT MUCH          3.0       2173               0.33
+4               THERE IS NO UNNECESSARY WORK          4.0       2916               0.44
+
+
+
+S194.Q27 HOW OFTEN DO YOU HAVE TO DO A JOB OVER BECAUSE SOMEONE CHANGES HIS MIND ABOUT HOW IT SHOULD BE DONE?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0        497               0.07
+1    FREQUENTLY          1.0       1010               0.15
+2  OCCASIONALLY          2.0       1534               0.23
+3        SELDOM          3.0       2233               0.34
+4         NEVER          4.0       1384               0.21
+
+
+
+S194.Q28 DO YOU FEEL THAT THE SECTION CHIEF OR IMMEDIATE SUPERIOR ON YOUR JOB KNOWS WHAT YOUR ABILITIES ARE?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0        528               0.08
+1          HE HAS A GOOD IDEA OF MY ABILITIES          1.0       3327                0.5
+2          HE HAS A FAIR IDEA OF MY ABILITIES          2.0       1709               0.26
+3  HE KNOWS LITTLE OR NOTHING OF MY ABILITIES          3.0       1094               0.16
+
+
+
+S194.Q29 WHEN YOU DO A PARTICULARLY GOOD JOB DO YOU USUALLY GET RECOGNITION OR PRAISE FOR IT FROM YOUR SECTION CHIEF OR IMMEDIATE SUPERIOR?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        544               0.08
+1       ALWAYS          1.0        995               0.15
+2      USUALLY          2.0       2087               0.31
+3       RARELY          3.0       1504               0.23
+4        NEVER          4.0       1528               0.23
+
+
+
+S194.Q30 IN GENERAL, WOULD YOU SAY THAT YOUR SECTION CHIEF OR IMMEDIATE SUPERIOR IS FAVORABLE OR UNFAVORABLE TOWARD THE WAC?
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0        695                0.1
+1    FAVORABLE TOWARD THE WAC          1.0       4747               0.71
+2  UNFAVORABLE TOWARD THE WAC          2.0       1216               0.18
+
+
+
+S194.Q31 IS YOUR SECTION CHIEF OR IMMEDIATE SUPERIOR FAIR MINDED ENOUGH TO TREAT EVERYONE UNDER HIM ALIKE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        528               0.08
+1       ALWAYS          1.0       2855               0.43
+2      USUALLY          2.0       1859               0.28
+3    SOMETIMES          3.0        856               0.13
+4  HARDLY EVER          4.0        279               0.04
+5        NEVER          5.0        281               0.04
+
+
+
+S194.Q32.1 ON YOUR PRESENT JOB, DO YOU WORK UNDER THE SAME SUPERIOR WITH:
+  answer_label answer_value raw_counts relative_frequency
+0    CIVILIANS          1.0       2787               0.42
+1   NOT CHOSEN          2.0       3871               0.58
+
+
+
+S194.Q32.2ON YOUR PRESENT JOB, DO YOU WORK UNDER THE SAME SUPERIOR WITH:
+   answer_label answer_value raw_counts relative_frequency
+0  ENLISTED MEN          1.0       4209               0.63
+1    NOT CHOSEN          2.0       2449               0.37
+
+
+
+S194.Q32.3ON YOUR PRESENT JOB, DO YOU WORK UNDER THE SAME SUPERIOR WITH:
+    answer_label answer_value raw_counts relative_frequency
+0  MALE OFFICERS          1.0       1693               0.25
+1     NOT CHOSEN          2.0       4965               0.75
+
+
+
+S194.Q32.4ON YOUR PRESENT JOB, DO YOU WORK UNDER THE SAME SUPERIOR WITH:
+   answer_label answer_value raw_counts relative_frequency
+0  WAC OFFICERS          1.0        285               0.04
+1    NOT CHOSEN          2.0       6373               0.96
+
+
+
+S194.Q32.5ON YOUR PRESENT JOB, DO YOU WORK UNDER THE SAME SUPERIOR WITH:
+                   answer_label answer_value raw_counts relative_frequency
+0  OTHER WAC ENLISTED PERSONNEL          1.0       3863               0.58
+1                    NOT CHOSEN          2.0       2795               0.42
+
+
+
+S194.Q32.6ON YOUR PRESENT JOB, DO YOU WORK UNDER THE SAME SUPERIOR WITH:
+                   answer_label answer_value raw_counts relative_frequency
+0  OTHER (THIS INCLUDES NURSES)          1.0        147               0.02
+1                    NOT CHOSEN          2.0       6511               0.98
+
+
+
+S194.Q32.7ON YOUR PRESENT JOB, DO YOU WORK UNDER THE SAME SUPERIOR WITH:
+          answer_label answer_value raw_counts relative_frequency
+0  I WORK UNDER NO ONE          1.0         26                0.0
+1           NOT CHOSEN          2.0       6632                1.0
+
+
+
+S194.Q32.8ON YOUR PRESENT JOB, DO YOU WORK UNDER THE SAME SUPERIOR WITH:
+                    answer_label answer_value raw_counts relative_frequency
+0  FIVE CATEGORIES CHECKED ABOVE          1.0        182               0.03
+1                     NOT CHOSEN          2.0       6476               0.97
+
+
+
+S194.Q32.9ON YOUR PRESENT JOB, DO YOU WORK UNDER THE SAME SUPERIOR WITH:
+                                       answer_label answer_value raw_counts relative_frequency
+0  ALL SIX CATEGORIES CHECKED (COLUMNS 63-68 ABOVE)          1.0          3                0.0
+1                                        NOT CHOSEN          2.0       6655                1.0
+
+
+
+S194.Q32.10ON YOUR PRESENT JOB, DO YOU WORK UNDER THE SAME SUPERIOR WITH:
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0        477               0.07
+1   NOT CHOSEN          2.0       6181               0.93
+
+
+
+S194.Q33 ON THE WHOLE, DO YOU LIKE OR DISLIKE WORKING WITH CIVILIANS ON YOUR PRESENT JOB?
+                                     answer_label answer_value raw_counts relative_frequency
+0                                       NO ANSWER          0.0        509               0.08
+1     ON THE WHOLE, I LIKE WORKING WITH CIVILIANS          1.0        678                0.1
+2  ON THE WHOLE, I DISLIKE WORKING WITH CIVILIANS          2.0       1139               0.17
+3            IT DOESN'T MAKE ANY DIFFERENCE TO ME          3.0       1763               0.26
+4                     I DON'T WORK WITH CIVILIANS          4.0       2569               0.39
+
+
+
+S194.Q34 IN YOUR OPINION, HOW NECESSARY IS IT TO HAVE CIVILIANS WORKING ON ARMY JOBS AT YOUR POST OR CAMP?
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0        543               0.08
+1        IT IS VERY NECESSARY          1.0        857               0.13
+2      IT IS PRETTY NECESSARY          2.0        686                0.1
+3      IT IS NOT SO NECESSARY          3.0       1357                0.2
+4  IT IS NOT NECESSARY AT ALL          4.0       1581               0.24
+5                   UNDECIDED          5.0       1634               0.25
+
+
+
+S194.Q35 ARE YOUR WORKING CONDITIONS ABOUT AS GOOD AS THEY COULD BE?
+                     answer_label answer_value raw_counts relative_frequency
+0                       NO ANSWER          0.0        479               0.07
+1  ABOUT AS GOOD AS THEY COULD BE          1.0       3701               0.56
+2        COULD BE A LITTLE BETTER          2.0       1323                0.2
+3           COULD BE A LOT BETTER          3.0       1155               0.17
+
+
+
+S194.Q36 HOW WELL SATISFIED ARE YOU ABOUT BEING IN YOUR PRESENT ARMY JOB INSTEAD OF SOME OTHER ARMY JOB?
+                            answer_label answer_value raw_counts relative_frequency
+0                              NO ANSWER          0.0        492               0.07
+1                         VERY SATISFIED          1.0       1916               0.29
+2                              SATISFIED          2.0       2075               0.31
+3  IT DOES NOT MAKE ANY DIFFERENCE TO ME          3.0        795               0.12
+4                           DISSATISFIED          4.0        917               0.14
+5                      VERY DISSATISFIED          5.0        463               0.07
+
+
+
+S194.Q37 DO YOU USUALLY FEEL THAT WHAT YOU ARE DOING IN THE ARMY IS WORTHWHILE OR NOT?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0        452               0.07
+1  I USUALLY FEEL IT IS NOT WORTHWHILE          1.0       1408               0.21
+2      I USUALLY FEEL IT IS WORTHWHILE          2.0       3910               0.59
+3                            UNDECIDED          3.0        888               0.13
+
+
+
+S194.Q38 HOW INTERESTED ARE YOU IN YOUR ARMY JOB?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0        475               0.07
+1   VERY MUCH INTERESTED          1.0       4235               0.64
+2  A LITTLE BUT NOT MUCH          2.0       1471               0.22
+3  NOT INTERESTED AT ALL          3.0        477               0.07
+
+
+
+S194.Q39 HOW DO YOU FEEL ABOUT THE IMPORTANCE OF THE WORK YOU ARE DOING RIGHT NOW AS COMPARED WITH OTHER JOBS YOU MIGHT BE DOING IN THE ARMY?
+                                                 answer_label answer_value raw_counts relative_frequency
+0                                                   NO ANSWER          0.0        470               0.07
+1  IT IS FAIRLY IMPORTANT, BUT I COULD DO MORE IMPORTANT WORK          2.0       1933               0.29
+2              IT IS AS IMPORTANT AS ANY OTHER JOB I COULD DO          1.0       3569               0.54
+3                            IT HARDLY SEEMS IMPORTANT AT ALL          3.0        686                0.1
+
+
+
+S194.Q40 WOULD YOU TRANSFER TO SOME OTHER ARMY ASSIGNMENT, IF GIVEN A CHANCE?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0        507               0.08
+1     YES, DEPENDING ON THE ASSIGNMENT          1.0       2405               0.36
+2  YES, TO ALMOST ANY OTHER ASSIGNMENT          2.0        489               0.07
+3                                   NO          3.0       2149               0.32
+4                            UNDECIDED          4.0       1108               0.17
+
+
+
+S194.Q41 HAVE YOU GAINED ANY SKILLS SINCE YOU HAVE BEEN IN THE WAC (WAAC) WHICH WOULD HELP YOU GET A BETTER JOB AFTER THE WAR?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        491               0.07
+1          YES          1.0       2367               0.36
+2           NO          2.0       3800               0.57
+
+
+
+S194.Q42 WHAT KIND OF A CHANCE FOR PROMOTION DO YOU THINK YOUR PRESENT WAC JOB OFFERS?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0        505               0.08
+1         A GOOD CHANCE          1.0        638                0.1
+2         A FAIR CHANCE          2.0       1331                0.2
+3  NOT MUCH OF A CHANCE          3.0       2101               0.32
+4      NO CHANCE AT ALL          4.0       2083               0.31
+
+
+
+S194.Q43 HAS THE SITUATION IN REGARD TO RATINGS OR PROMOTIONS ON YOUR PARTICULAR JOB EVER BEEN EXPLAINED TO YOU?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        473               0.07
+1          YES          1.0       2777               0.42
+2           NO          2.0       3408               0.51
+
+
+
+S194.Q44.1 IF THE SITUATION IN REGARD TO RATINGS OR PROMOTIONS HAS BEEN EXPLAINED TO YOU, WHO EXPLAINED IT TO YOU?
+                             answer_label answer_value raw_counts relative_frequency
+0  MY SECTION CHIEF OR IMMEDIATE SUPERIOR          1.0       1803               0.27
+1                              NOT CHOSEN          2.0       4855               0.73
+
+
+
+S194.Q44.2IF THE SITUATION IN REGARD TO RATINGS OR PROMOTIONS HAS BEEN EXPLAINED TO YOU, WHO EXPLAINED IT TO YOU?
+                     answer_label answer_value raw_counts relative_frequency
+0  ONE OF MY WAC COMPANY OFFICERS          1.0        839               0.13
+1                      NOT CHOSEN          2.0       5819               0.87
+
+
+
+S194.Q44.3IF THE SITUATION IN REGARD TO RATINGS OR PROMOTIONS HAS BEEN EXPLAINED TO YOU, WHO EXPLAINED IT TO YOU?
+   answer_label answer_value raw_counts relative_frequency
+0  SOMEONE ELSE          1.0        299               0.04
+1    NOT CHOSEN          2.0       6359               0.96
+
+
+
+S194.Q44.4IF THE SITUATION IN REGARD TO RATINGS OR PROMOTIONS HAS BEEN EXPLAINED TO YOU, WHO EXPLAINED IT TO YOU?
+                        answer_label answer_value raw_counts relative_frequency
+0  IT HAS NEVER BEEN EXPLAINED TO ME          1.0       3197               0.48
+1                         NOT CHOSEN          2.0       3461               0.52
+
+
+
+S194.Q44.5IF THE SITUATION IN REGARD TO RATINGS OR PROMOTIONS HAS BEEN EXPLAINED TO YOU, WHO EXPLAINED IT TO YOU?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0        617               0.09
+1   NOT CHOSEN          2.0       6041               0.91
+
+
+
+S194.Q45.1 WHICH OF THE FOLLOWING DO YOU THINK YOU WILL DO RIGHT AFTER THE WAR?
+  answer_label answer_value raw_counts relative_frequency
+0   KEEP HOUSE          1.0       1916               0.29
+1   NOT CHOSEN          2.0       4742               0.71
+
+
+
+S194.Q45.2WHICH OF THE FOLLOWING DO YOU THINK YOU WILL DO RIGHT AFTER THE WAR?
+                          answer_label answer_value raw_counts relative_frequency
+0  WORK FULL-TIME FOR ANOTHER EMPLOYER          1.0       2721               0.41
+1                           NOT CHOSEN          2.0       3937               0.59
+
+
+
+S194.Q45.3WHICH OF THE FOLLOWING DO YOU THINK YOU WILL DO RIGHT AFTER THE WAR?
+                  answer_label answer_value raw_counts relative_frequency
+0  GO INTO BUSINESS FOR MYSELF          1.0        511               0.08
+1                   NOT CHOSEN          2.0       6147               0.92
+
+
+
+S194.Q45.4WHICH OF THE FOLLOWING DO YOU THINK YOU WILL DO RIGHT AFTER THE WAR?
+             answer_label answer_value raw_counts relative_frequency
+0  GO TO FULL-TIME SCHOOL          1.0        530               0.08
+1              NOT CHOSEN          2.0       6128               0.92
+
+
+
+S194.Q45.5WHICH OF THE FOLLOWING DO YOU THINK YOU WILL DO RIGHT AFTER THE WAR?
+     answer_label answer_value raw_counts relative_frequency
+0  WORK PART-TIME          1.0        107               0.02
+1      NOT CHOSEN          2.0       6551               0.98
+
+
+
+S194.Q45.6WHICH OF THE FOLLOWING DO YOU THINK YOU WILL DO RIGHT AFTER THE WAR?
+             answer_label answer_value raw_counts relative_frequency
+0  GO TO SCHOOL PART-TIME          1.0        176               0.03
+1              NOT CHOSEN          2.0       6482               0.97
+
+
+
+S194.Q45.7WHICH OF THE FOLLOWING DO YOU THINK YOU WILL DO RIGHT AFTER THE WAR?
+                                     answer_label answer_value raw_counts relative_frequency
+0  COMBINATION OF CODES (COLUMNS 18 AND 22 ABOVE)          1.0        148               0.02
+1                                      NOT CHOSEN          2.0       6510               0.98
+
+
+
+S194.Q45.8WHICH OF THE FOLLOWING DO YOU THINK YOU WILL DO RIGHT AFTER THE WAR?
+                                     answer_label answer_value raw_counts relative_frequency
+0  COMBINATION OF CODES (COLUMNS 18 AND 23 ABOVE)          1.0        107               0.02
+1                                      NOT CHOSEN          2.0       6551               0.98
+
+
+
+S194.Q45.9WHICH OF THE FOLLOWING DO YOU THINK YOU WILL DO RIGHT AFTER THE WAR?
+                                     answer_label answer_value raw_counts relative_frequency
+0  COMBINATION OF CODES (COLUMNS 19 AND 23 ABOVE)          1.0        344               0.05
+1                                      NOT CHOSEN          2.0       6314               0.95
+
+
+
+S194.Q45.10WHICH OF THE FOLLOWING DO YOU THINK YOU WILL DO RIGHT AFTER THE WAR?
+                                     answer_label answer_value raw_counts relative_frequency
+0  COMBINATION OF CODES (COLUMNS 21 AND 22 ABOVE)          1.0         53               0.01
+1                                      NOT CHOSEN          2.0       6605               0.99
+
+
+
+S194.Q45.11WHICH OF THE FOLLOWING DO YOU THINK YOU WILL DO RIGHT AFTER THE WAR?
+                                     answer_label answer_value raw_counts relative_frequency
+0  COMBINATION OF CODES (COLUMNS 22 AND 23 ABOVE)          1.0        345               0.05
+1                                      NOT CHOSEN          2.0       6313               0.95
+
+
+
+S194.Q45.12WHICH OF THE FOLLOWING DO YOU THINK YOU WILL DO RIGHT AFTER THE WAR?
+  answer_label answer_value raw_counts relative_frequency
+0  STAY IN WAC          1.0        104               0.02
+1   NOT CHOSEN          2.0       6554               0.98
+
+
+
+S194.Q45.13WHICH OF THE FOLLOWING DO YOU THINK YOU WILL DO RIGHT AFTER THE WAR?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0        132               0.02
+1   NOT CHOSEN          2.0       6526               0.98
+
+
+
+S194.Q46 IF YOU PLAN TO WORK RIGHT AFTER THE WAR, WHAT KIND OF WORK DO YOU THINK YOU WILL DO? (IF YOU ARE UNDECIDED, TELL WHAT YOU THINK YOU MIGHT DO.)
+                                                                           answer_label answer_value raw_counts relative_frequency
+0                                                                             NO ANSWER          0.0        195               0.03
+1                                               ACCOUNTANTS AND AUDITORS, STATISTICIANS          1.0         25                0.0
+2                             ACTRESSES, DANCERS, SINGERS, ENTERTAINERS (NOT MUSICIANS)          2.0         35               0.01
+3                                                     ARTISTS, COMMERCIAL ARTISTS, ETC.          3.0         19                0.0
+4                                                                 CHEMISTS, PHARMACISTS          4.0          3                0.0
+5                                                                            DIETITIANS          5.0          7                0.0
+6                                                                  DRAFTSMEN, DESIGNERS          6.0         23                0.0
+7                                                  INTERIOR DECORATORS; WINDOW DRESSERS          7.0         18                0.0
+8                                                                               LAWYERS          8.0          6                0.0
+9                                                                            LIBRARIANS          9.0         15                0.0
+10                                                         MUSICIANS AND MUSIC TEACHERS         10.0         11                0.0
+11                            NURSES, TRAINED AND STUDENT NURSES (NOT PRACTICAL NURSES)         11.0         93               0.01
+12                                                                    PERSONNEL WORKERS         12.0         19                0.0
+13                                                                        PHOTOGRAPHERS         13.0         29                0.0
+14                                       REPORTERS, AND WRITERS, PUBLIC RELATIONS, ETC.         14.0         53               0.01
+15                                                SOCIAL WORKERS, RECREATIONAL DIRECTOR         15.0         62               0.01
+16                                   TEACHERS (OTHER THAN MUSIC) AND SCHOOL SUPERVISORS         16.0        133               0.02
+17                                                                               DOCTOR         17.0          2                0.0
+18                                                           RESEARCH WORKERS; ANALYSTS         18.0          5                0.0
+19                                                                       RADIO OPERATOR         19.0          9                0.0
+20  MANAGERS OR OWNERS, WHOLESALE AND RETAIL TRADE (INCLUDES INSURANCE AND REAL ESTATE)         20.0        145               0.02
+21                                       MANAGERS OR OWNERS, EATING AND DRINKING PLACES         21.0         71               0.01
+22              MANAGERS OR OWNERS, SERVICE ESTABLISHMENTS; SUCH AS, BEAUTY SHOPS, ETC.         22.0         71               0.01
+23    RESIDENT MANAGERS, APARTMENT HOUSES (INCLUDES BOARDING AND LODGING HOUSE KEEPERS)         23.0         15                0.0
+24                                       SUPERVISORY AND ADMINISTRATIVE WORKERS, OFFICE         24.0         69               0.01
+25                                         TECHNICIANS, DARKROOM (PHOTOGRAPHIC WORKERS)         25.0         24                0.0
+26                                                                  TECHNICIANS, DENTAL         26.0         25                0.0
+27                                                              TECHNICIANS, LABORATORY         27.0         31                0.0
+28                                                    TECHNICIANS, MEDICAL AND SURGICAL         28.0         42               0.01
+29                                         CRYPTOGRAPHER; OR CODE CLERK IN SIGNAL CORPS         29.0          1                0.0
+30                                                                          BOOKKEEPERS         30.0         77               0.01
+31                                                           CASHIERS AND TICKET AGENTS         31.0         33                0.0
+32                                                                         CLERKS, FILE         32.0         27                0.0
+33                                          CLERKS, ALL OTHERS (INCLUDES RECEPTIONISTS)         33.0        506               0.08
+34                                                    CLERKS, OPERATING OFFICE MACHINES         34.0         62               0.01
+35                                                                    CLERKS, PERSONNEL         35.0         27                0.0
+36                                                                         CLERK-TYPIST         36.0        133               0.02
+37                                                        STENOGRAPHERS AND SECRETARIES         37.0        388               0.06
+38                                                                  TELEPHONE OPERATORS         38.0        115               0.02
+39                                                TYPISTS (INCLUDES TELETYPE OPERATORS)         39.0         86               0.01
+40                                                                         SALESPERSONS         40.0         90               0.01
+41                                         ATTENDANTS, HOSPITALS AND OTHER INSTITUTIONS         41.0         66               0.01
+42                                           ATTENDANTS, DOCTORS, AND DENTISTS, OFFICES         43.0         50               0.01
+43                                              PHYSIOTHERAPIST, OCCUPATIONAL THERAPIST         44.0         36               0.01
+44                                                     BEAUTY OPERATORS AND MANICURISTS         45.0         28                0.0
+45                                                                   ELEVATOR OPERATORS         46.0          2                0.0
+46                                                       HOUSEKEEPERS (NOT IN OWN HOME)         47.0          3                0.0
+47                                                     PRACTICAL NURSES AND NURSE MAIDS         48.0         50               0.01
+48                                                                   SERVANTS, DOMESTIC         49.0          2                0.0
+49                                                             BUTCHERS AND MEATCUTTERS         50.0          1                0.0
+50                                                   CLEANERS, EXCEPT IN PRIVATE FAMILY         51.0          1                0.0
+51                                                                     COOKS AND BAKERS         52.0         18                0.0
+52                              WAITRESSES, SODA JERKERS, HOSTESSES, ETC. COUNTER GIRLS         54.0         41               0.01
+53                                 CHAUFFEURS AND DRIVERS, BUS, TAXI, TRUCK OR TRACTORS         55.0         26                0.0
+54                                                                   DETECTIVES, GUARDS         56.0          2                0.0
+55                                                                                MODEL         57.0          4                0.0
+56                                     MANAGERS AND OWNERS OF RECREATION ESTABLISHMENTS         58.0          3                0.0
+57                                      FACTORY WORKERS (EXCEPT FORELADIES OR TRAINERS)         60.0        271               0.04
+58                                      FILLING STATION ATTENDANTS, SERVICING AIRPLANES         61.0          1                0.0
+59                                                               FORELADIES OR TRAINERS         62.0         24                0.0
+60                                                      LAUNDRESSES AND LAUNDRY WORKERS         63.0          4                0.0
+61                                         MECHANICAL WORKERS, REPAIRMEN, ETC. PAINTERS         64.0         51               0.01
+62                                      SEAMSTRESSES AND DRESSMAKERS (NOT IN FACTORIES)         66.0         17                0.0
+63                                                  PARACHUTE RIGGERS AND PACKERS, ETC.         67.0          2                0.0
+64                                                           DISPATCHER, AIRPLANES ONLY         68.0          4                0.0
+65                                                                         FARM WORKERS         70.0         50               0.01
+66                                                                GOVERNMENT INSPECTORS         71.0          3                0.0
+67                                 CONTROL TOWER OPERATOR - SIGNAL OPERATOR ON RAILROAD         72.0          6                0.0
+68                                                      LINK TRAINER INSTRUCTOR, PILOTS         73.0          7                0.0
+69                                                                     WEATHER OBSERVER         74.0          4                0.0
+70                                                                       AIR STEWARDESS         75.0          6                0.0
+71                                                                       PROJECTIONISTS         76.0          1                0.0
+72                                                              TRANSLATOR; INTERPRETER         77.0          4                0.0
+73                                                                       UNCLASSIFIABLE         78.0        191               0.03
+74                                                             I'M NOT PLANNING TO WORK         79.0       2235               0.34
+75                                        UNDECIDED; DON'T KNOW; HAVEN'T ANY IDEA, ETC.         80.0        388               0.06
+76                                                OFFICE WORK (NO INDICATION WHAT TYPE)         81.0        149               0.02
+77                                                                                  WAC         82.0        107               0.02
+
+
+
+S194.Q47 HAVE YOU EVER DONE ANY KIND OF WORK BEFORE LIKE YOU PLAN TO DO RIGHT AFTER THE WAR?
+                                             answer_label answer_value raw_counts relative_frequency
+0                                               NO ANSWER          0.0        434               0.07
+1  YES, I DID THAT KIND OF WORK BEFORE I ENTERED THE ARMY          1.0       2933               0.44
+2       YES, I HAVE LEARNED THAT KIND OF WORK IN THE ARMY          2.0        474               0.07
+3             NO, I HAVE NEVER DONE THAT KIND OF WORK YET          3.0        909               0.14
+4                            COMBINATION OF CODES 1 AND 2          4.0         55               0.01
+5                                I'M NOT PLANNING TO WORK          5.0       1853               0.28
+
+
+
+S194.Q48 HOW SURE DO YOU FEEL THAT AFTER THE WAR YOU WILL DO THE KIND OF WORK YOU DESCRIBED IN QUESTION 46?
+                                   answer_label answer_value raw_counts relative_frequency
+0                                     NO ANSWER          0.0        266               0.04
+1                        I'M ALMOST SURE I WILL          1.0       2133               0.32
+2  I PROBABLY WILL, BUT I MAY DO SOMETHING ELSE          2.0       1407               0.21
+3     I'M REALLY NOT AT ALL SURE WHAT I WILL DO          3.0       1069               0.16
+4                      I'M NOT PLANNING TO WORK          4.0       1783               0.27
+
+
+
+S194.Q49 WHAT TYPE OF WORK WOULD YOU BE MOST LIKELY TO CONSIDER AS A SECOND CHOICE, IF YOU CANNOT GET ANY JOB IN THE TYPE OF WORK YOU JUST DESCRIBED IN QUESTION 46?
+                                                                           answer_label answer_value raw_counts relative_frequency
+0                                                                             NO ANSWER          0.0       2744               0.41
+1                                               ACCOUNTANTS AND AUDITORS, STATISTICIANS          1.0         14                0.0
+2                             ACTRESSES, DANCERS, SINGERS, ENTERTAINERS (NOT MUSICIANS)          2.0         30                0.0
+3                                                     ARTISTS, COMMERCIAL ARTISTS, ETC.          3.0         20                0.0
+4                                                                 CHEMISTS, PHARMACISTS          4.0          3                0.0
+5                                                                            DIETITIANS          5.0          7                0.0
+6                                                                  DRAFTSMEN, DESIGNERS          6.0         20                0.0
+7                                                  INTERIOR DECORATORS; WINDOW DRESSERS          7.0         12                0.0
+8                                                                               LAWYERS          8.0          1                0.0
+9                                                                            LIBRARIANS          9.0         10                0.0
+10                                                         MUSICIANS AND MUSIC TEACHERS         10.0          7                0.0
+11                            NURSES, TRAINED AND STUDENT NURSES (NOT PRACTICAL NURSES)         11.0         44               0.01
+12                                                                    PERSONNEL WORKERS         12.0         27                0.0
+13                                                                        PHOTOGRAPHERS         13.0         11                0.0
+14                                       REPORTERS, AND WRITERS, PUBLIC RELATIONS, ETC.         14.0         35               0.01
+15                                                SOCIAL WORKERS, RECREATIONAL DIRECTOR         15.0         68               0.01
+16                                   TEACHERS (OTHER THAN MUSIC) AND SCHOOL SUPERVISORS         16.0        101               0.02
+17                                                                               DOCTOR         17.0          1                0.0
+18                                                           RESEARCH WORKERS; ANALYSTS         18.0         14                0.0
+19                                                                       RADIO OPERATOR         19.0          9                0.0
+20  MANAGERS OR OWNERS, WHOLESALE AND RETAIL TRADE (INCLUDES INSURANCE AND REAL ESTATE)         20.0         66               0.01
+21                                       MANAGERS OR OWNERS, EATING AND DRINKING PLACES         21.0         19                0.0
+22              MANAGERS OR OWNERS, SERVICE ESTABLISHMENTS; SUCH AS, BEAUTY SHOPS, ETC.         22.0         12                0.0
+23    RESIDENT MANAGERS, APARTMENT HOUSES (INCLUDES BOARDING AND LODGING HOUSE KEEPERS)         23.0          8                0.0
+24                                       SUPERVISORY AND ADMINISTRATIVE WORKERS, OFFICE         24.0         33                0.0
+25                                         TECHNICIANS, DARKROOM (PHOTOGRAPHIC WORKERS)         25.0         21                0.0
+26                                                                  TECHNICIANS, DENTAL         26.0         10                0.0
+27                                                              TECHNICIANS, LABORATORY         27.0         26                0.0
+28                                                    TECHNICIANS, MEDICAL AND SURGICAL         28.0         22                0.0
+29                                         CRYPTOGRAPHER; OR CODE CLERK IN SIGNAL CORPS         29.0          1                0.0
+30                                                                          BOOKKEEPERS         30.0         74               0.01
+31                                                           CASHIERS AND TICKET AGENTS         31.0         43               0.01
+32                                                                         CLERKS, FILE         32.0         25                0.0
+33                                          CLERKS, ALL OTHERS (INCLUDES RECEPTIONISTS)         33.0        314               0.05
+34                                                    CLERKS, OPERATING OFFICE MACHINES         34.0         42               0.01
+35                                                                    CLERKS, PERSONNEL         35.0         15                0.0
+36                                                                         CLERK-TYPIST         36.0         61               0.01
+37                                                        STENOGRAPHERS AND SECRETARIES         37.0        189               0.03
+38                                                                  TELEPHONE OPERATORS         38.0         77               0.01
+39                                                TYPISTS (INCLUDES TELETYPE OPERATORS)         39.0         73               0.01
+40                                                                         SALESPERSONS         40.0        213               0.03
+41                                         ATTENDANTS, HOSPITALS AND OTHER INSTITUTIONS         41.0         43               0.01
+42                               ATTENDANTS, RECREATION AND AMUSEMENT (INCLUDES USHERS)         42.0          2                0.0
+43                                           ATTENDANTS, DOCTORS, AND DENTISTS, OFFICES         43.0         32                0.0
+44                                              PHYSIOTHERAPIST, OCCUPATIONAL THERAPIST         44.0         26                0.0
+45                                                     BEAUTY OPERATORS AND MANICURISTS         45.0         52               0.01
+46                                                       HOUSEKEEPERS (NOT IN OWN HOME)         47.0          6                0.0
+47                                                     PRACTICAL NURSES AND NURSE MAIDS         48.0         57               0.01
+48                                                                   SERVANTS, DOMESTIC         49.0          6                0.0
+49                                                                     COOKS AND BAKERS         52.0         24                0.0
+50                                                KITCHEN WORKERS, HOTEL AND RESTAURANT         53.0          3                0.0
+51                              WAITRESSES, SODA JERKERS, HOSTESSES, ETC. COUNTER GIRLS         54.0         43               0.01
+52                                 CHAUFFEURS AND DRIVERS, BUS, TAXI, TRUCK OR TRACTORS         55.0         30                0.0
+53                                                                   DETECTIVES, GUARDS         56.0          4                0.0
+54                                                                                MODEL         57.0         10                0.0
+55                                     MANAGERS AND OWNERS OF RECREATION ESTABLISHMENTS         58.0          2                0.0
+56                                      FACTORY WORKERS (EXCEPT FORELADIES OR TRAINERS)         60.0        177               0.03
+57                                                               FORELADIES OR TRAINERS         62.0         12                0.0
+58                                                      LAUNDRESSES AND LAUNDRY WORKERS         63.0          2                0.0
+59                                         MECHANICAL WORKERS, REPAIRMEN, ETC. PAINTERS         64.0         34               0.01
+60                                      SEAMSTRESSES AND DRESSMAKERS (NOT IN FACTORIES)         66.0         22                0.0
+61                                                  PARACHUTE RIGGERS AND PACKERS, ETC.         67.0          1                0.0
+62                                                           DISPATCHER, AIRPLANES ONLY         68.0          5                0.0
+63                                                                         FARM WORKERS         70.0         38               0.01
+64                                                                GOVERNMENT INSPECTORS         71.0          2                0.0
+65                                 CONTROL TOWER OPERATOR - SIGNAL OPERATOR ON RAILROAD         72.0         10                0.0
+66                                                      LINK TRAINER INSTRUCTOR, PILOTS         73.0          7                0.0
+67                                                                     WEATHER OBSERVER         74.0          2                0.0
+68                                                                       AIR STEWARDESS         75.0          7                0.0
+69                                                                       PROJECTIONISTS         76.0          2                0.0
+70                                                              TRANSLATOR; INTERPRETER         77.0          3                0.0
+71                                                                       UNCLASSIFIABLE         78.0        245               0.04
+72                                                             I'M NOT PLANNING TO WORK         79.0        497               0.07
+73                                        UNDECIDED; DON'T KNOW; HAVEN'T ANY IDEA, ETC.         80.0        522               0.08
+74                                                OFFICE WORK (NO INDICATION WHAT TYPE)         81.0        203               0.03
+75                                                                                  WAC         82.0          5                0.0
+
+
+
+S194.Q50 DO YOU FEEL THAT YOU HAVE HAD AS MUCH SCHOOL OR COLLEGE AS YOU WANT OR WOULD YOU LIKE TO GO BACK TO SCHOOL OR COLLEGE AFTER THE WAR?
+                                             answer_label answer_value raw_counts relative_frequency
+0                                               NO ANSWER          0.0        273               0.04
+1          I HAVE HAD AS MUCH SCHOOL OR COLLEGE AS I WANT          1.0       2208               0.33
+2  I WOULD LIKE TO GO BACK TO FULL-TIME SCHOOL OR COLLEGE          2.0       1336                0.2
+3  I WOULD LIKE TO GO BACK TO PART-TIME SCHOOL OR COLLEGE          3.0       2841               0.43
+
+
+
+S194.Q51 REGARDLESS OF WHAT YOU WOULD LIKE TO DO, DO YOU THINK YOU WILL ACTUALLY GO BACK TO SCHOOL OR COLLEGE AFTER THE WAR?
+                                            answer_label answer_value raw_counts relative_frequency
+0                                              NO ANSWER          0.0        165               0.02
+1                    YES, TO FULL-TIME SCHOOL OR COLLEGE          1.0        610               0.09
+2                    YES, TO PART-TIME SCHOOL OR COLLEGE          2.0       1426               0.21
+3  NO, I DON'T THINK I WILL GO BACK TO SCHOOL OR COLLEGE          3.0       2872               0.43
+4                                              UNDECIDED          4.0       1585               0.24
+
+
+
+S194.Q52 IT HAS BEEN PLANNED THAT THE FEDERAL GOVERNMENT WILL PAY TUITION AND OTHER EDUCATIONAL EXPENSES PLUS A LIVING ALLOWANCE OF $50 PER MONTH TO VETERANS WHO QUALIFY AND WANT TO CONTINUE THEIR SCHOOLING. DO YOU THINK YOU WOULD GO BACK TO FULL-TIME SCHOOL OR C
+                                                                     answer_label answer_value raw_counts relative_frequency
+0                                                                       NO ANSWER          0.0        384               0.06
+1  I EXPECT TO GO BACK TO FULL-TIME SCHOOL WHETHER OR NOT THE GOVERNMENT HELPS ME          1.0        496               0.07
+2         I WILL GO BACK TO FULL-TIME SCHOOL IF THE GOVERNMENT PROVIDES THIS HELP          2.0       1243               0.19
+3     I WILL NOT GO BACK TO FULL-TIME SCHOOL EVEN IF THE GOVERNMENT WOULD HELP ME          3.0       2362               0.35
+4                                                                       UNDECIDED          4.0       2173               0.33
+
+
+
+S194.Q53A.1 WHAT KIND OF SCHOOL ARE YOU PLANNING TO ATTEND AFTER THE WAR?
+  answer_label answer_value raw_counts relative_frequency
+0  HIGH SCHOOL          1.0        249               0.04
+1   NOT CHOSEN          2.0       6409               0.96
+
+
+
+S194.Q53A.2WHAT KIND OF SCHOOL ARE YOU PLANNING TO ATTEND AFTER THE WAR?
+   answer_label answer_value raw_counts relative_frequency
+0  TRADE SCHOOL          1.0        438               0.07
+1    NOT CHOSEN          2.0       6220               0.93
+
+
+
+S194.Q53A.3WHAT KIND OF SCHOOL ARE YOU PLANNING TO ATTEND AFTER THE WAR?
+      answer_label answer_value raw_counts relative_frequency
+0  BUSINESS SCHOOL          1.0        994               0.15
+1       NOT CHOSEN          2.0       5664               0.85
+
+
+
+S194.Q53A.4WHAT KIND OF SCHOOL ARE YOU PLANNING TO ATTEND AFTER THE WAR?
+     answer_label answer_value raw_counts relative_frequency
+0  JUNIOR COLLEGE          1.0         68               0.01
+1      NOT CHOSEN          2.0       6590               0.99
+
+
+
+S194.Q53A.5WHAT KIND OF SCHOOL ARE YOU PLANNING TO ATTEND AFTER THE WAR?
+                        answer_label answer_value raw_counts relative_frequency
+0  COLLEGE (GENERAL ACADEMIC COURSE)          1.0       1104               0.17
+1                         NOT CHOSEN          2.0       5554               0.83
+
+
+
+S194.Q53A.6WHAT KIND OF SCHOOL ARE YOU PLANNING TO ATTEND AFTER THE WAR?
+                                 answer_label answer_value raw_counts relative_frequency
+0  A PROFESSIONAL SCHOOL (LAW, MEDICAL, ETC.)          1.0        240               0.04
+1                                  NOT CHOSEN          2.0       6418               0.96
+
+
+
+S194.Q53A.7WHAT KIND OF SCHOOL ARE YOU PLANNING TO ATTEND AFTER THE WAR?
+                                           answer_label answer_value raw_counts relative_frequency
+0  A TECHNICAL COLLEGE (ENGINEERING, AGRICULTURE, ETC.)          1.0        135               0.02
+1                                            NOT CHOSEN          2.0       6523               0.98
+
+
+
+S194.Q53A.8WHAT KIND OF SCHOOL ARE YOU PLANNING TO ATTEND AFTER THE WAR?
+  answer_label answer_value raw_counts relative_frequency
+0   ART, MUSIC          1.0        156               0.02
+1   NOT CHOSEN          2.0       6502               0.98
+
+
+
+S194.Q53A.9WHAT KIND OF SCHOOL ARE YOU PLANNING TO ATTEND AFTER THE WAR?
+                                                                                      answer_label answer_value raw_counts relative_frequency
+0  PHYSIOTHERAPY, MEDICAL, DENTAL OR LABORATORY, TECHNICAL NURSES COURSES ETC. (NOT COLLEGE LEVEL)          1.0        294               0.04
+1                                                                                       NOT CHOSEN          2.0       6364               0.96
+
+
+
+S194.Q53A.10WHAT KIND OF SCHOOL ARE YOU PLANNING TO ATTEND AFTER THE WAR?
+                                          answer_label answer_value raw_counts relative_frequency
+0  I'M NOT PLANNING TO GO BACK TO SCHOOL AFTER THE WAR          1.0       2713               0.41
+1                                           NOT CHOSEN          2.0       3945               0.59
+
+
+
+S194.Q53A.11WHAT KIND OF SCHOOL ARE YOU PLANNING TO ATTEND AFTER THE WAR?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0        436               0.07
+1   NOT CHOSEN          2.0       6222               0.93
+
+
+
+S194.Q54 DO YOU FEEL YOU NEED INFORMATION OR ADVICE ABOUT EDUCATIONAL OR VOCATIONAL OPPORTUNITIES AFTER THE WAR?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        550               0.08
+1          YES          1.0       2003                0.3
+2           NO          2.0       4105               0.62
+
+
+
+S194.Q55 HOW MUCH MORE DO YOU FEEL YOU HAVE CONTRIBUTED TO THE WAR EFFORT BY HAVING SERVED AS A WAC THAN YOU WOULD HAVE CONTRIBUTED HAD YOU SERVED AS A CIVILIAN?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0        103               0.02
+1       MORE AS A WAC          1.0       2788               0.42
+2  MORE AS A CIVILIAN          2.0       2010                0.3
+3      ABOUT THE SAME          3.0       1757               0.26
+
+
+
+S194.Q56 IN THE EVENT OF FUTURE WARS, DO YOU KNOW ANY WAY IN WHICH WOMEN CAN CONTRIBUTE MORE TO THE WAR EFFORT THAN BY JOINING ONE OF THE WOMENS' MILITARY SERVICES?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        357               0.05
+1          YES          1.0       1986                0.3
+2           NO          2.0       4315               0.65
+
+
+
+S194.Q57 ARE YOU EVER WORRIED AND UPSET?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0         47               0.01
+1  I AM HARDLY EVER WORRIED AND UPSET          1.0       2158               0.32
+2    I AM SOMETIMES WORRIED AND UPSET          2.0       3113               0.47
+3        I AM OFTEN WORRIED AND UPSET          3.0       1340                0.2
+
+
+
+S194.Q58 DO YOU EVER FEEL LONESOME?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         40               0.01
+1  I HARDLY EVER FEEL LONESOME          1.0       2229               0.33
+2    I SOMETIMES FEEL LONESOME          2.0       3030               0.46
+3        I OFTEN FEEL LONESOME          3.0       1359                0.2
+
+
+
+S194.Q59 IN GENERAL, WHAT SORT OF A TIME DO YOU HAVE IN THE ARMY?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         73               0.01
+1    I HAVE A PRETTY GOOD TIME          1.0       3081               0.46
+2      IT IS ABOUT FIFTY-FIFTY          2.0       3004               0.45
+3  I HAVE A PRETTY ROTTEN TIME          3.0        500               0.08
+
+
+
+S194.Q60 ON THE WHOLE, WOULD YOU SAY YOU ARE WELL ADJUSTED OR POORLY ADJUSTED TO ARMY LIFE?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0         40               0.01
+1    I AM VERY WELL ADJUSTED          1.0       3237               0.49
+2  I AM FAIRLY WELL ADJUSTED          2.0       2651                0.4
+3  I AM NOT SO WELL ADJUSTED          3.0        396               0.06
+4  I AM VERY POORLY ADJUSTED          4.0        334               0.05
+
+
+
+S194.Q61 IS ARMY LIFE, IN GENERAL, BETTER OR WORSE THAN YOU EXPECTED IT TO BE?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         96               0.01
+1   MUCH BETTER THAN I EXPECTED          1.0        850               0.13
+2        BETTER THAN I EXPECTED          2.0        968               0.15
+3  ABOUT THE SAME AS I EXPECTED          3.0       3115               0.47
+4         WORSE THAN I EXPECTED          4.0       1144               0.17
+5    MUCH WORSE THAN I EXPECTED          5.0        485               0.07
+
+
+
+S194.Q62 IN GENERAL, HOW WOULD YOU SAY YOU FEEL MOST OF THE TIME, IN GOOD SPIRITS OR IN LOW SPIRITS?
+                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                  NO ANSWER          0.0         42               0.01
+1  I AM IN GOOD SPIRITS SOME OF THE TIME AND IN LOW SPIRITS SOME OF THE TIME          2.0       2489               0.37
+2                                               I AM USUALLY IN GOOD SPIRITS          1.0       3695               0.55
+3                                                I AM USUALLY IN LOW SPIRITS          3.0        432               0.06
+
+
+
+S194.Q64 IN GENERAL, HOW WOULD YOU SAY THE MORALE OF YOUR COMPANY HAS BEEN IN THE LAST MONTH?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        110               0.02
+1    VERY HIGH          1.0        496               0.07
+2  FAIRLY HIGH          2.0       1662               0.25
+3  JUST MEDIUM          3.0       2161               0.32
+4   FAIRLY LOW          4.0       1157               0.17
+5     VERY LOW          5.0       1072               0.16
+
+
+
+S194.Q65 IN GENERAL, HOW WOULD YOU SAY YOUR OWN MORALE HAS BEEN IN THE LAST MONTH?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         47               0.01
+1    VERY HIGH          1.0       1045               0.16
+2  FAIRLY HIGH          2.0       2030                0.3
+3  JUST MEDIUM          3.0       1807               0.27
+4   FAIRLY LOW          4.0        867               0.13
+5     VERY LOW          5.0        862               0.13
+
+
+
+S194.Q66 DO YOU FEEL PROUD OF YOUR COMPANY OR NOT?
+                            answer_label answer_value raw_counts relative_frequency
+0                              NO ANSWER          0.0         89               0.01
+1                             VERY PROUD          1.0       2114               0.32
+2                           RATHER PROUD          2.0       2106               0.32
+3  I HAVE NO PARTICULAR FEELING ABOUT IT          3.0       1585               0.24
+4                              NOT PROUD          4.0        428               0.06
+5                       NOT PROUD AT ALL          5.0        336               0.05
+
+
+
+S194.Q67.1 TO WHOM WOULD YOU BE MOST APT TO BRING YOUR PERSONAL PROBLEMS?
+  answer_label answer_value raw_counts relative_frequency
+0       WAC CO          1.0       2797               0.42
+1   NOT CHOSEN          2.0       3861               0.58
+
+
+
+S194.Q67.2TO WHOM WOULD YOU BE MOST APT TO BRING YOUR PERSONAL PROBLEMS?
+                 answer_label answer_value raw_counts relative_frequency
+0  OTHER WAC COMPANY OFFICERS          1.0        302               0.05
+1                  NOT CHOSEN          2.0       6356               0.95
+
+
+
+S194.Q67.3TO WHOM WOULD YOU BE MOST APT TO BRING YOUR PERSONAL PROBLEMS?
+    answer_label answer_value raw_counts relative_frequency
+0  COMPANY CADRE          1.0        332               0.05
+1     NOT CHOSEN          2.0       6326               0.95
+
+
+
+S194.Q67.4TO WHOM WOULD YOU BE MOST APT TO BRING YOUR PERSONAL PROBLEMS?
+     answer_label answer_value raw_counts relative_frequency
+0  SECTION CHIEFS          1.0        449               0.07
+1      NOT CHOSEN          2.0       6209               0.93
+
+
+
+S194.Q67.5TO WHOM WOULD YOU BE MOST APT TO BRING YOUR PERSONAL PROBLEMS?
+  answer_label answer_value raw_counts relative_frequency
+0        OTHER          1.0       1999                0.3
+1   NOT CHOSEN          2.0       4659                0.7
+
+
+
+S194.Q67.6TO WHOM WOULD YOU BE MOST APT TO BRING YOUR PERSONAL PROBLEMS?
+                      answer_label answer_value raw_counts relative_frequency
+0  NO ONE, I KEEP THINGS TO MYSELF          1.0        756               0.11
+1                       NOT CHOSEN          2.0       5902               0.89
+
+
+
+S194.Q67.7TO WHOM WOULD YOU BE MOST APT TO BRING YOUR PERSONAL PROBLEMS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0        237               0.04
+1   NOT CHOSEN          2.0       6421               0.96
+
+
+
+S194.Q68 IF YOU WANTED TO DO SO, WOULD YOU FEEL FREE TO TALK TO YOUR WAC CO ABOUT YOUR PERSONAL PROBLEMS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         62               0.01
+1          YES          1.0       3692               0.55
+2           NO          2.0       1877               0.28
+3    UNDECIDED          3.0       1027               0.15
+
+
+
+S194.Q69 HOW INTERESTED IS YOUR WAC CO IN YOUR LIVING CONDITIONS?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0        282               0.04
+1        VERY INTERESTED          1.0       3668               0.55
+2      FAIRLY INTERESTED          2.0       1808               0.27
+3    NOT VERY INTERESTED          3.0        619               0.09
+4  NOT INTERESTED AT ALL          4.0        281               0.04
+
+
+
+S194.Q70 HOW INTERESTED IS YOUR WAC CO IN YOUR WORKING CONDITIONS?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0        368               0.06
+1        VERY INTERESTED          1.0       3029               0.45
+2      FAIRLY INTERESTED          2.0       1936               0.29
+3    NOT VERY INTERESTED          3.0        829               0.12
+4  NOT INTERESTED AT ALL          4.0        496               0.07
+
+
+
+S194.Q71 HOW INTERESTED IS YOUR WAC CO IN YOUR RECREATIONAL ACTIVITIES?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0        306               0.05
+1        VERY INTERESTED          1.0       3256               0.49
+2      FAIRLY INTERESTED          2.0       1953               0.29
+3    NOT VERY INTERESTED          3.0        752               0.11
+4  NOT INTERESTED AT ALL          4.0        391               0.06
+
+
+
+S194.Q72 DO YOU FEEL THAT YOUR PRESENT WAC CO RECOGNIZES YOUR ABILITIES AND WHAT YOU ARE ABLE TO DO?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0        217               0.03
+1                 YES, I AM SURE SHE DOES          1.0       1934               0.29
+2  YES, I THINK SHE DOES BUT I'M NOT SURE          2.0       1742               0.26
+3              NO, I DON'T THINK SHE DOES          3.0       1678               0.25
+4                               UNDECIDED          4.0       1087               0.16
+
+
+
+S194.Q73 IS YOUR WAC CO THE KIND WHO WOULD GO TO BAT FOR THE WAC?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        188               0.03
+1          YES          1.0       4501               0.68
+2           NO          2.0        544               0.08
+3    UNDECIDED          3.0       1425               0.21
+
+
+
+S194.Q74 IS YOUR WAC CO FAIR MINDED ENOUGH TO TREAT ALL THE ENLISTED WOMEN IN THE COMPANY ALIKE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        458               0.07
+1       ALWAYS          1.0       3064               0.46
+2      USUALLY          2.0       1757               0.26
+3    SOMETIMES          3.0        759               0.11
+4  HARDLY EVER          4.0        295               0.04
+5        NEVER          5.0        325               0.05
+
+
+
+S194.Q78 HOW DO YOU FEEL ABOUT THE AMOUNT OF OFF-DUTY TIME THAT YOU HAVE TO YOURSELF WHEN YOU ARE FREE FROM OFFICIAL DUTIES?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0         87               0.01
+1      I USUALLY HAVE ENOUGH          1.0       3558               0.53
+2    I SOMETIMES HAVE ENOUGH          2.0       1460               0.22
+3  I HARDLY EVER HAVE ENOUGH          3.0        985               0.15
+4        I NEVER HAVE ENOUGH          4.0        568               0.09
+
+
+
+S194.Q79 ARE YOUR HOUSING AND SANITARY FACILITIES ABOUT AS GOOD AS THEY COULD BE?
+                     answer_label answer_value raw_counts relative_frequency
+0                       NO ANSWER          0.0         54               0.01
+1        COULD BE A LITTLE BETTER          2.0       1573               0.24
+2  ABOUT AS GOOD AS THEY COULD BE          1.0       3916               0.59
+3           COULD BE A LOT BETTER          3.0       1115               0.17
+
+
+
+S194.Q80A IN GENERAL, ARE THERE ANY DISCOMFORTS IN WAC LIFE WHICH ARE NOT NECESSARY?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        273               0.04
+1           NO          2.0       2440               0.37
+2          YES          1.0       2347               0.35
+3    UNDECIDED          3.0       1598               0.24
+
+
+
+S194.Q81 HOW DO YOU FEEL ABOUT THE MEDICAL ATTENTION THAT THE WAC ON THIS POST RECEIVES?
+        answer_label answer_value raw_counts relative_frequency
+0    IT IS VERY GOOD          1.0       2067               0.31
+1  IT IS FAIRLY GOOD          2.0       2640                0.4
+2    IT IS VERY POOR          4.0        758               0.11
+3          NO ANSWER          0.0        241               0.04
+4  IT IS RATHER POOR          3.0        952               0.14
+
+
+
+S194.Q82 HOW DO YOU FEEL ABOUT THE DAILY PHYSICAL TRAINING PROGRAM FOR THE WAC AT THIS POST?
+                                                           answer_label answer_value raw_counts relative_frequency
+0                                                             NO ANSWER          0.0        178               0.03
+1                                                  IT IS VERY NECESSARY          1.0       1963               0.29
+2                                                IT IS FAIRLY NECESSARY          2.0       1400               0.21
+3                                              IT IS NOT VERY NECESSARY          3.0       1120               0.17
+4                                            IT IS NOT NECESSARY AT ALL          4.0       1037               0.16
+5  THERE IS NO DAILY PHYSICAL TRAINING PROGRAM FOR THE WAC AT THIS POST          5.0        960               0.14
+
+
+
+S194.Q83 HOW SATISFACTORY ARE THE RECREATIONAL FACILITIES AVAILABLE TO YOUR UNIT ON THE POST?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0        163               0.02
+1      VERY SATISFACTORY          1.0       2070               0.31
+2    FAIRLY SATISFACTORY          2.0       2700               0.41
+3  RATHER UNSATISFACTORY          3.0        925               0.14
+4    VERY UNSATISFACTORY          4.0        800               0.12
+
+
+
+S194.Q84 DURING YOUR OFF-DUTY FREE TIME HOW OFTEN DO YOU USUALLY GO INTO TOWN?
+                      answer_label answer_value raw_counts relative_frequency
+0                        NO ANSWER          0.0        288               0.04
+1                      ONCE A WEEK          1.0       3485               0.52
+2                     TWICE A WEEK          2.0        863               0.13
+3               THREE TIMES A WEEK          3.0        377               0.06
+4        FOUR OR MORE TIMES A WEEK          4.0        253               0.04
+5  THERE IS NO TOWN NEAR THIS POST          5.0        182               0.03
+6            LESS THAN ONCE A WEEK          6.0       1082               0.16
+7                     LIVE IN TOWN          7.0        128               0.02
+
+
+
+S194.Q85.1 IF YOU WOULD LIKE TO GO INTO THE TOWN NEAREST YOUR POST MORE OFTEN THAN YOU DO, WHAT IS THE MAIN REASON FOR YOUR NOT GOING?
+          answer_label answer_value raw_counts relative_frequency
+0  POOR TRANSPORTATION          1.0        962               0.14
+1           NOT CHOSEN          2.0       5696               0.86
+
+
+
+S194.Q85.2IF YOU WOULD LIKE TO GO INTO THE TOWN NEAREST YOUR POST MORE OFTEN THAN YOU DO, WHAT IS THE MAIN REASON FOR YOUR NOT GOING?
+           answer_label answer_value raw_counts relative_frequency
+0  NOT ENOUGH FREE TIME          1.0       1199               0.18
+1            NOT CHOSEN          2.0       5459               0.82
+
+
+
+S194.Q85.3IF YOU WOULD LIKE TO GO INTO THE TOWN NEAREST YOUR POST MORE OFTEN THAN YOU DO, WHAT IS THE MAIN REASON FOR YOUR NOT GOING?
+           answer_label answer_value raw_counts relative_frequency
+0  CIVILIANS UNFRIENDLY          1.0        470               0.07
+1            NOT CHOSEN          2.0       6188               0.93
+
+
+
+S194.Q85.4IF YOU WOULD LIKE TO GO INTO THE TOWN NEAREST YOUR POST MORE OFTEN THAN YOU DO, WHAT IS THE MAIN REASON FOR YOUR NOT GOING?
+                    answer_label answer_value raw_counts relative_frequency
+0  THERE IS NO TOWN NEAR MY POST          1.0         96               0.01
+1                     NOT CHOSEN          2.0       6562               0.99
+
+
+
+S194.Q85.5IF YOU WOULD LIKE TO GO INTO THE TOWN NEAREST YOUR POST MORE OFTEN THAN YOU DO, WHAT IS THE MAIN REASON FOR YOUR NOT GOING?
+                                           answer_label answer_value raw_counts relative_frequency
+0  I WOULDN'T LIKE TO GO INTO TOWN MORE OFTEN THAN I DO          1.0       2864               0.43
+1                                            NOT CHOSEN          2.0       3794               0.57
+
+
+
+S194.Q85.6IF YOU WOULD LIKE TO GO INTO THE TOWN NEAREST YOUR POST MORE OFTEN THAN YOU DO, WHAT IS THE MAIN REASON FOR YOUR NOT GOING?
+   answer_label answer_value raw_counts relative_frequency
+0  LIVE IN TOWN          1.0        112               0.02
+1    NOT CHOSEN          2.0       6546               0.98
+
+
+
+S194.Q85.7IF YOU WOULD LIKE TO GO INTO THE TOWN NEAREST YOUR POST MORE OFTEN THAN YOU DO, WHAT IS THE MAIN REASON FOR YOUR NOT GOING?
+  answer_label answer_value raw_counts relative_frequency
+0        OTHER          1.0        990               0.15
+1   NOT CHOSEN          2.0       5668               0.85
+
+
+
+S194.Q85.8IF YOU WOULD LIKE TO GO INTO THE TOWN NEAREST YOUR POST MORE OFTEN THAN YOU DO, WHAT IS THE MAIN REASON FOR YOUR NOT GOING?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0        524               0.08
+1   NOT CHOSEN          2.0       6134               0.92
+
+
+
+S194.Q86 HOW DO YOU THINK THE ENLISTED WOMEN ARE TREATED ON THIS POST IN COMPARISON WITH THE ENLISTED MEN?
+                                                        answer_label answer_value raw_counts relative_frequency
+0                                                          NO ANSWER          0.0        213               0.03
+1        THE ENLISTED WOMEN ARE TREATED BETTER THAN THE ENLISTED MEN          1.0        505               0.08
+2  THE ENLISTED WOMEN ARE TREATED ABOUT THE SAME AS THE ENLISTED MEN          2.0       4577               0.69
+3         THE ENLISTED WOMEN ARE TREATED WORSE THAN THE ENLISTED MEN          3.0       1363                0.2
+
+
+
+S194.Q87 HOW DO THE MALE OFFICERS ON THIS POST TREAT THE WAC?
+                      answer_label answer_value raw_counts relative_frequency
+0                        NO ANSWER          0.0        242               0.04
+1          TREAT THE WAC VERY WELL          1.0       2535               0.38
+2        TREAT THE WAC FAIRLY WELL          2.0       3398               0.51
+3         DON'T TREAT THE WAC WELL          3.0        317               0.05
+4  DON'T TREAT THE WAC WELL AT ALL          4.0        166               0.02
+
+
+
+S194.Q88 SINCE YOU JOINED THE WAC (WAAC) HAVE YOU EVER BEEN PROMISED THINGS WHICH YOU HAVEN'T RECEIVED?
+    answer_label answer_value raw_counts relative_frequency
+0      NO ANSWER          0.0        253               0.04
+1  ONCE OR TWICE          1.0       1625               0.24
+2    A FEW TIMES          2.0       1360                0.2
+3    QUITE OFTEN          3.0        570               0.09
+4     VERY OFTEN          4.0        599               0.09
+5          NEVER          5.0       2251               0.34
+
+
+
+S194.Q89 IF WAC'S WERE NEEDED TO SERVE WITH THE ARMY OF OCCUPATION IN GERMANY, WOULD YOU BE WILLING TO VOLUNTEER YOUR SERVICES?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        269               0.04
+1          YES          1.0       2791               0.42
+2           NO          2.0       3598               0.54
+
+
+
+S194.Q90 IF WAC'S WERE NEEDED TO SERVE WITH THE ARMY OF OCCUPATION IN JAPAN, WOULD YOU BE WILLING TO VOLUNTEER YOUR SERVICES?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        332               0.05
+1          YES          1.0       2067               0.31
+2           NO          2.0       4259               0.64
+
+
+
+S194.Q91 HAVE YOU EVER APPLIED FOR OFFICER CANDIDATE SCHOOL?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        107               0.02
+1          YES          1.0        605               0.09
+2           NO          2.0       5946               0.89
+
+
+
+S194.Q92 IF AT THE END OF TWO YEARS OF SERVICE IN THE WAC, YOU WERE GIVEN THE CHANCE OF AN HONORABLE DISCHARGE OR REENLISTMENT IN THE WAC, WHICH WOULD YOU CHOOSE?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0         88               0.01
+1         I WOULD CHOOSE REENLISTMENT          1.0       1797               0.27
+2  I WOULD CHOOSE HONORABLE DISCHARGE          2.0       2758               0.41
+3                           UNDECIDED          3.0       2015                0.3
+
+
+
+S194.Q93 IF YOU HAD IT TO DO ALL OVER AGAIN, DO YOU THINK YOU WOULD DECIDE TO JOIN THE WAC, JOIN SOME OTHER WOMEN'S MILITARY SERVICE, OR REMAIN IN CIVILIAN LIFE?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0         91               0.01
+1                              JOIN THE WAC          1.0       3311                0.5
+2  JOIN SOME OTHER WOMEN'S MILITARY SERVICE          2.0        441               0.07
+3                   REMAIN IN CIVILIAN LIFE          3.0       1798               0.27
+4                                  NOT SURE          4.0       1017               0.15
+
+
+
+S194.V99 CAMP IDENTIFICATION:
+                        answer_label answer_value raw_counts relative_frequency
+0                   ALAMOGORDO (AAF)          1.0        127               0.02
+1                      ATLANTIC CITY          2.0        326               0.05
+2                     CAMP ATTERBURY          3.0        113               0.02
+3                       FORT BELVOIR          4.0        154               0.02
+4                    FT. BRAGG, N.C.          5.0         82               0.01
+5                     BROOKLEY FIELD          6.0        132               0.02
+6                      CAMP CAMPBELL          7.0        121               0.02
+7            CHANUTE FIELD, ILLINOIS          8.0        184               0.03
+8                         CHARLESTON          9.0        123               0.02
+9                     COLUMBIA (AAB)         10.0        121               0.02
+10                 CRAIG FIELD (AAF)         11.0         95               0.01
+11                 CAMP CROWDER, MO.         12.0        154               0.02
+12                  EDGEWOOD ARSENAL         13.0        147               0.02
+13                   FT. WORTH (AAF)         14.0        130               0.02
+14                  GREENSBORO, N.C.         15.0        162               0.02
+15                      FT. HAMILTON         16.0        321               0.05
+16                  CAMP HOOD, TEXAS         17.0        117               0.02
+17             HUNTER FIELD, GEORGIA         18.0        200               0.03
+18                       CAMP KILMER         19.0        347               0.05
+19                     FT. KNOX, KY.         20.0        103               0.02
+20                         FT. MASON         21.0        131               0.02
+21                       MIAMI (AAF)         22.0        258               0.04
+22                 MIAMI (AG AND SF)         23.0         84               0.01
+23                      MINTER FIELD         24.0        144               0.02
+24                    MITCHELL FIELD         25.0        525               0.08
+25                       MUROC (AAF)         26.0        102               0.02
+26                  NEW CASTLE (AAB)         27.0        263               0.04
+27  NEWTON D. BAKER GENERAL HOSPITAL         28.0         99               0.01
+28                    FT. OGLETHORPE         29.0        399               0.06
+29                   PATTERSON FIELD         30.0        138               0.02
+30      PERCY JONES GENERAL HOSPITAL         31.0        149               0.02
+31                      CAMP PLAUCHE         32.0        144               0.02
+32                  RAPID CITY (AAB)         33.0        115               0.02
+33                 FT. RILEY, KANSAS         34.0         96               0.01
+34                      CAMP RITCHIE         35.0        106               0.02
+35                 CAMP SHANKS, N.Y.         36.0        283               0.04
+36                 SIOUX FALLS (AAF)         37.0         99               0.01
+37            SUISUN-FAIRFIELD (AAF)         38.0        150               0.02
+38                      CAMP WHEELER         39.0        114               0.02
+
+
+
+S194.V100 FORCE IDENTIFICATION:
+  answer_label answer_value raw_counts relative_frequency
+0          AAF          1.0       3270               0.49
+1          AGF          2.0        217               0.03
+2          ASF          3.0       3065               0.46
+3           WD          4.0        106               0.02
+
+
+
+S194.V101 NEGRO IDENTIFICATION:
+      answer_label answer_value raw_counts relative_frequency
+0      NEGRO CASES          1.0        294               0.04
+1  ALL OTHER CASES          2.0       6364               0.96
+
+
+
+S194.V102 SUB-SAMPLE CROSS-SECTION IDENTIFICATION:
+                                  answer_label answer_value raw_counts relative_frequency
+0  CROSS-SECTION OF ASF WAC ENLISTED PERSONNEL          1.0       3065               0.46
+1  CROSS-SECTION OF AAF WAC ENLISTED PERSONNEL          2.0       3270               0.49
+2                              ALL OTHER CASES          3.0        323               0.05
+
+
+
+S194.V103 SUB-SAMPLE OVER-ALL CROSS-SECTION IDENTIFICATION:
+             answer_label answer_value raw_counts relative_frequency
+0  OVER-ALL CROSS-SECTION          1.0       4994               0.75
+1         ALL OTHER CASES          2.0       1664               0.25
+
+
+

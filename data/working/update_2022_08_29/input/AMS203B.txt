@@ -1,0 +1,789 @@
+FORMFORM
+  answer_label answer_value raw_counts relative_frequency
+0         20XX          2.0       1191                1.0
+
+
+
+S203B.Qi1 WHAT IS YOUR ARMY RANK OR GRADE?
+                                           answer_label answer_value raw_counts relative_frequency
+0                                             NO ANSWER          0.0          4                0.0
+1                        PRIVATE OR PRIVATE FIRST CLASS          1.0        593                0.5
+2                      CORPORAL OR TECHNICIAN 5TH GRADE          2.0        204               0.17
+3                      SERGEANT OR TECHNICIAN 4TH GRADE          3.0        192               0.16
+4                STAFF SERGEANT OR TECHNICIAN 3RD GRADE          4.0        145               0.12
+5  TECHNICAL SERGEANT, MASTER SERGEANT, OR 1ST SERGEANT          5.0         53               0.04
+
+
+
+S203B.Qi2 HOW LONG HAVE YOU BEEN OVERSEAS?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0          2                0.0
+1              3 MONTHS OR LESS          1.0         95               0.08
+2  OVER 3 MONTHS UP TO 6 MONTHS          2.0        294               0.25
+3    OVER 6 MONTHS UP TO 1 YEAR          3.0        288               0.24
+4   OVER 1 YEAR UP TO 18 MONTHS          4.0        290               0.24
+5  OVER 18 MONTHS UP TO 2 YEARS          5.0         83               0.07
+6                  OVER 2 YEARS          6.0        139               0.12
+
+
+
+S203B.Qi3 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+          answer_label answer_value raw_counts relative_frequency
+0   NO CODE OR NO DATA          0.0          1                0.0
+1             18 YEARS          1.0         20               0.02
+2                   19          2.0         66               0.06
+3                   20          3.0        121                0.1
+4                   21          4.0        116                0.1
+5                   22          5.0         94               0.08
+6                   23          6.0         89               0.07
+7                   24          7.0         90               0.08
+8                   25          8.0         90               0.08
+9                26-29          9.0        237                0.2
+10               30-34         10.0        160               0.13
+11   35 YEARS AND OVER         11.0         83               0.07
+12           NO ANSWER         12.0         24               0.02
+
+
+
+S203B.Qi4 HOW FAR DID YOU GO IN SCHOOL?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0          2                0.0
+1                  LESS THAN 6TH GRADE          1.0         28               0.02
+2                   FINISHED 6TH GRADE          2.0         31               0.03
+3                   FINISHED 7TH GRADE          3.0         53               0.04
+4                   FINISHED 8TH GRADE          4.0        137               0.12
+5  SOME HIGH SCHOOL BUT DID NOT FINISH          5.0        301               0.25
+6           GRADUATED FROM HIGH SCHOOL          6.0        406               0.34
+7      SOME COLLEGE BUT DID NOT FINISH          7.0        194               0.16
+8               GRADUATED FROM COLLEGE          8.0         39               0.03
+
+
+
+S203B.Qi5 WHAT IS THE DATE ON YOUR COPY OF "WARWEEK"?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0        107               0.09
+1   DECEMBER 9, 1944          1.0        130               0.11
+2  DECEMBER 16, 1944          2.0        131               0.11
+3  DECEMBER 31, 1944          3.0        162               0.14
+4   JANUARY 14, 1945          4.0        174               0.15
+5   JANUARY 21, 1945          5.0        143               0.12
+6   JANUARY 28, 1945          6.0        160               0.13
+7   FEBRUARY 4, 1945          7.0        184               0.15
+
+
+
+S203B.Qi6 DURING THE LAST FEW WEEKS, HOW OFTEN HAVE YOU READ PART OR ALL OF "WARWEEK"?
+                              answer_label answer_value raw_counts relative_frequency
+0                                NO ANSWER          0.0         27               0.02
+1     HAVE READ SOMETHING IN IT EVERY WEEK          1.0        455               0.38
+2  HAVE READ SOMETHING IN IT SEVERAL TIMES          2.0        328               0.28
+3  HAVE READ SOMETHING IN IT ONCE OR TWICE          3.0        189               0.16
+4           HAVE NEVER READ ANYTHING IN IT          4.0        138               0.12
+5                                UNCERTAIN          5.0         54               0.05
+
+
+
+S203B.Qi7 WHEN YOU SEE A COPY OF "WARWEEK", DO YOU USUALLY LOOK AT EVERYTHING IN IT, OR DO YOU SKIP THROUGH IT AND JUST LOOK AT SOME PARTS OF IT?
+                                                   answer_label answer_value raw_counts relative_frequency
+0                                                     NO ANSWER          0.0         31               0.03
+1      I USUALLY SKIP THROUGH AND JUST LOOK AT SOME PARTS OF IT          1.0        252               0.21
+2  I USUALLY LOOK AT NEARLY EVERYTHING, BUT I DON'T READ IT ALL          2.0        420               0.35
+3                               I USUALLY READ NEARLY ALL OF IT          3.0        300               0.25
+4                        I HAVEN'T SEEN "WARWEEK" ENOUGH TO SAY          4.0        188               0.16
+
+
+
+S203B.Qi8 DO YOU FEEL THAT THE STORIES IN "WARWEEK" ARE OF IMPORTANCE AND VALUE FOR YOUR TYPE OF OUTFIT?
+                                                answer_label answer_value raw_counts relative_frequency
+0                                                  NO ANSWER          0.0         65               0.05
+1  ALMOST ALL OF THE STORIES IN "WARWEEK" ARE VALUABLE TO US          1.0        148               0.12
+2                            MOST OF THEM ARE VALUABLE TO US          2.0        283               0.24
+3                                     IT'S ABOUT FIFTY-FIFTY          3.0        362                0.3
+4                      ONLY A FEW OF THEM ARE VALUABLE TO US          4.0        216               0.18
+5                                     I DON'T READ "WARWEEK"          5.0        117                0.1
+
+
+
+S203B.Qi9 HOW INTERESTING DO YOU PERSONALLY FIND MOST OF THE THINGS YOU SEE IN "WARWEEK"?
+                                  answer_label answer_value raw_counts relative_frequency
+0                                    NO ANSWER          0.0         40               0.03
+1      MOST OF THEM ARE VERY INTERESTING TO ME          1.0        311               0.26
+2    MOST OF THEM ARE FAIRLY INTERESTING TO ME          2.0        571               0.48
+3  MOST OF THEM ARE NOT VERY INTERESTING TO ME          3.0         73               0.06
+4       MOST OF THEM DO NOT INTEREST ME AT ALL          4.0         30               0.03
+5       I HAVEN'T SEEN "WARWEEK" ENOUGH TO SAY          5.0        166               0.14
+
+
+
+S203B.Qi10 HOW IMPORTANT TO YOU PERSONALLY DO YOU FEEL MOST OF THE THINGS IN "WARWEEK" ARE?
+                                  answer_label answer_value raw_counts relative_frequency
+0                                    NO ANSWER          0.0         51               0.04
+1        MOST OF THEM ARE VERY IMPORTANT TO ME          1.0        154               0.13
+2      MOST OF THEM ARE FAIRLY IMPORTANT TO ME          2.0        566               0.48
+3    MOST OF THEM ARE NOT VERY IMPORTANT TO ME          3.0        194               0.16
+4  MOST OF THEM ARE NOT AT ALL IMPORTANT TO ME          4.0         38               0.03
+5       I HAVEN'T SEEN "WARWEEK" ENOUGH TO SAY          5.0        188               0.16
+
+
+
+S203B.Qi11 EVERYTHING CONSIDERED, HOW WOULD YOU RATE "WARWEEK"?
+                    answer_label answer_value raw_counts relative_frequency
+0             NO CODE OR NO DATA          0.0          2                0.0
+1                      EXCELLENT          1.0        161               0.14
+2                           GOOD          2.0        479                0.4
+3                           FAIR          3.0        291               0.24
+4                    NOT SO GOOD          4.0         26               0.02
+5                     QUITE POOR          5.0         14               0.01
+6  HAVEN'T READ IT ENOUGH TO SAY          6.0        178               0.15
+7                      NO ANSWER          7.0         40               0.03
+
+
+
+S203B.Qi12A AN ARTICLE ABOUT "ALLIED MILITARY GOVERNMENT"?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1            NOT SURE          1.0        174               0.15
+2                 YES          2.0        460               0.39
+3                  NO          3.0        283               0.24
+4           NO ANSWER          4.0        273               0.23
+
+
+
+S203B.Qi12B AN ARTICLE ABOUT THE "NEW FRENCH ARMY"?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        215               0.18
+1     NOT SURE          1.0        224               0.19
+2          YES          2.0        365               0.31
+3           NO          3.0        387               0.32
+
+
+
+S203B.Qi12C AN ARTICLE ABOUT "PATROL ACTIVITIES"?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        206               0.17
+1     NOT SURE          1.0        168               0.14
+2          YES          2.0        539               0.45
+3           NO          3.0        278               0.23
+
+
+
+S203B.Qi12D AN ARTICLE ABOUT "COMMUNITY DIGGING"?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        241                0.2
+1     NOT SURE          1.0        247               0.21
+2          YES          2.0        270               0.23
+3           NO          3.0        433               0.36
+
+
+
+S203B.Qi12E AN ARTICLE ABOUT THE "NAZI LABOR GANG"?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        193               0.16
+1     NOT SURE          1.0        200               0.17
+2          YES          2.0        488               0.41
+3           NO          3.0        310               0.26
+
+
+
+S203B.Qi12F AN ARTICLE ABOUT "LEADING WITH LEAD"?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        253               0.21
+1     NOT SURE          1.0        235                0.2
+2          YES          2.0        286               0.24
+3           NO          3.0        417               0.35
+
+
+
+S203B.Qi12G AN ARTICLE ABOUT "BUCKING THE BREAKTHROUGH"?
+  answer_label answer_value raw_counts relative_frequency
+0     NOT SURE          1.0        222               0.19
+1          YES          2.0        470               0.39
+2           NO          3.0        302               0.25
+3    NO ANSWER          4.0        197               0.17
+
+
+
+S203B.Qi12H AN ARTICLE ABOUT "RUSSIAN ARTILLERY"?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        192               0.16
+1     NOT SURE          1.0        177               0.15
+2          YES          2.0        467               0.39
+3           NO          3.0        355                0.3
+
+
+
+S203B.Qi12I AN ARTICLE ABOUT "WINTER WARFARE"?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        184               0.15
+1     NOT SURE          1.0        114                0.1
+2          YES          2.0        662               0.56
+3           NO          3.0        231               0.19
+
+
+
+S203B.Qi12J AN ARTICLE ABOUT "HOMELESS FRENCH CIVILIANS"?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        217               0.18
+1     NOT SURE          1.0        256               0.21
+2          YES          2.0        232               0.19
+3           NO          3.0        486               0.41
+
+
+
+S203B.Qi13 HAVE YOU EVER SENT HOME ANY ISSUES OF "WARWEEK" OR PARTS OF THEM?
+                                                       answer_label answer_value raw_counts relative_frequency
+0                                                         NO ANSWER          0.0         18               0.02
+1  YES, I HAVE SENT SEVERAL ISSUES OF "WARWEEK" (OR CLIPPINGS) HOME          1.0         52               0.04
+2                                  YES, I HAVE SENT ONE OR TWO HOME          2.0         77               0.06
+3                                      NO, I HAVE NOT SENT ANY HOME          3.0       1044               0.88
+
+
+
+S203B.Qi14 DO YOU REMEMBER HEARING ANY OF THE MEN IN YOUR OUTFIT TALKING ABOUT ARTICLES IN "WARWEEK" OR DISCUSSING WHAT THE ARTICLES SAID?
+                                                                  answer_label answer_value raw_counts relative_frequency
+0                                                                    NO ANSWER          0.0         29               0.02
+1                 YES, I HEARD A LOT OF DISCUSSION ABOUT ARTICLES IN "WARWEEK"          1.0        132               0.11
+2                        YES, I HEARD SOME DISCUSSION ABOUT "WARWEEK" ARTICLES          2.0        518               0.43
+3                    NO, THERE WAS HARDLY ANY DISCUSSION ON "WARWEEK" ARTICLES          3.0        137               0.12
+4  NO, I DON'T REMEMBER HEARING ANY DISCUSSION AT ALL ABOUT "WARWEEK" ARTICLES          4.0        375               0.31
+
+
+
+S203B.Qi15 CAN YOU REMEMBER READING ANY PARTICULAR ARTICLE IN "WARWEEK" THAT SEEMED ESPECIALLY INTERESTING TO YOU PERSONALLY?
+                                          answer_label answer_value raw_counts relative_frequency
+0                                            NO ANSWER          0.0        112               0.09
+1                            YES, SOMETHING WRITTEN IN          1.0        436               0.37
+2                              YES, NOTHING WRITTEN IN          2.0         35               0.03
+3  NO, I DON'T REMEMBER ANY THAT INTERESTED ME GREATLY          3.0        608               0.51
+
+
+
+S203B.Qi16 IS THERE SOME PARTICULAR THING IN "WARWEEK" YOU DISLIKE?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0        216               0.18
+1  YES, SOMETHING WRITTEN IN          1.0        106               0.09
+2    YES, NOTHING WRITTEN IN          2.0          8               0.01
+3                         NO          3.0        861               0.72
+
+
+
+S203B.Qi17A1 "GI JERRY" (CARTOONS)?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0        142               0.12
+1                   GETS TOO MUCH SPACE NOW          1.0        146               0.12
+2  GETS ABOUT THE RIGHT AMOUNT OF SPACE NOW          2.0        575               0.48
+3                     SHOULD GET MORE SPACE          3.0        159               0.13
+4                                 UNDECIDED          4.0        169               0.14
+
+
+
+S203B.Qi17A2 "THE OLD SERGEANT'S CORNER"?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0        151               0.13
+1                   GETS TOO MUCH SPACE NOW          1.0        109               0.09
+2  GETS ABOUT THE RIGHT AMOUNT OF SPACE NOW          2.0        537               0.45
+3                     SHOULD GET MORE SPACE          3.0        220               0.18
+4                                 UNDECIDED          4.0        174               0.15
+
+
+
+S203B.Qi17A3 ARTICLES ABOUT "COMBAT TIPS"?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0        136               0.11
+1                   GETS TOO MUCH SPACE NOW          1.0         54               0.05
+2  GETS ABOUT THE RIGHT AMOUNT OF SPACE NOW          2.0        333               0.28
+3                     SHOULD GET MORE SPACE          3.0        554               0.47
+4                                 UNDECIDED          4.0        114                0.1
+
+
+
+S203B.Qi17A4 ARTICLES ABOUT "HOW TO TREAT GERMAN CIVILIANS"?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0        143               0.12
+1                   GETS TOO MUCH SPACE NOW          1.0        223               0.19
+2  GETS ABOUT THE RIGHT AMOUNT OF SPACE NOW          2.0        326               0.27
+3                     SHOULD GET MORE SPACE          3.0        258               0.22
+4                                 UNDECIDED          4.0        241                0.2
+
+
+
+S203B.Qi17A5 ARTICLES ABOUT "HOW TO PREVENT FUTURE WARS"?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0        138               0.12
+1                   GETS TOO MUCH SPACE NOW          1.0        165               0.14
+2  GETS ABOUT THE RIGHT AMOUNT OF SPACE NOW          2.0        238                0.2
+3                     SHOULD GET MORE SPACE          3.0        424               0.36
+4                                 UNDECIDED          4.0        226               0.19
+
+
+
+S203B.Qi17B ARE THERE ANY OTHER THINGS THAT YOU THINK SHOULD GET MORE SPACE THAN THEY GET AT PRESENT IN "WARWEEK"?
+                answer_label answer_value raw_counts relative_frequency
+0         NO CODE OR NO DATA          0.0          1                0.0
+1   NO, I CAN'T THINK OF ANY          1.0        898               0.75
+2  YES, SOMETHING WRITTEN IN          2.0        124                0.1
+3    YES, NOTHING WRITTEN IN          3.0          4                0.0
+4                  NO ANSWER          4.0        164               0.14
+
+
+
+S203B.Qi17C HOW ABOUT PICTURES - WOULD YOU LIKE "WARWEEK" TO CARRY MORE PICTURES IF IT MEANT CUTTING DOWN ON THE AMOUNT OF READING MATTER?
+                                                                   answer_label answer_value raw_counts relative_frequency
+0                                                            NO CODE OR NO DATA          0.0          1                0.0
+1                                             YES, THE MORE PICTURES THE BETTER          1.0        192               0.16
+2  YES, A FEW MORE PICTURES, BUT THERE STILL SHOULD BE PLENTY OF READING MATTER          2.0        391               0.33
+3                             NO, IT HAS ABOUT THE RIGHT AMOUNT OF PICTURES NOW          3.0        411               0.35
+4                     NO, IT SHOULD HAVE FEWER PICTURES AND MORE READING MATTER          4.0         98               0.08
+5                                                                     NO ANSWER          5.0         98               0.08
+
+
+
+S203B.Qi18A IN YOUR OPINION, WHAT IS THE MAIN PURPOSE OF "WARWEEK"?
+                                                              answer_label answer_value raw_counts relative_frequency
+0                                                                NO ANSWER          0.0         86               0.07
+1                                                         HAVEN'T ANY IDEA          1.0         98               0.08
+2                TO FURNISH SOLDIERS WITH USEFUL AND IMPORTANT INFORMATION          2.0        746               0.63
+3  TO TRY TO GET SOLDIERS TO BELIEVE THINGS THE ARMY WANTS THEM TO BELIEVE          3.0        127               0.11
+4                     TO FURNISH SOLDIERS WITH ENTERTAINING READING MATTER          4.0        112               0.09
+5                                                           SOMETHING ELSE          5.0         22               0.02
+
+
+
+S203B.Qi18B DO YOU THINK THAT "WARWEEK" HAS ANY OTHER PURPOSE IN ADDITION TO THE ONE YOU CHECKED AS THE MAIN PURPOSE?
+                answer_label answer_value raw_counts relative_frequency
+0         NO CODE OR NO DATA          0.0          4                0.0
+1           HAVEN'T ANY IDEA          1.0        399               0.34
+2                         NO          2.0        368               0.31
+3  YES, SOMETHING WRITTEN IN          3.0        253               0.21
+4    YES, NOTHING WRITTEN IN          4.0         13               0.01
+5                  NO ANSWER          5.0        154               0.13
+
+
+
+S203B.Qii1 DURING THE PAST FEW WEEKS HOW OFTEN HAVE YOU READ PART OR ALL OF "ARMY TALKS"?
+                              answer_label answer_value raw_counts relative_frequency
+0                                NO ANSWER          0.0         42               0.04
+1     HAVE READ SOMETHING IN IT EVERY WEEK          1.0        236                0.2
+2  HAVE READ SOMETHING IN IT SEVERAL TIMES          2.0        399               0.34
+3  HAVE READ SOMETHING IN IT ONCE OR TWICE          3.0        309               0.26
+4           HAVE NEVER READ ANYTHING IN IT          4.0        153               0.13
+5                                UNCERTAIN          5.0         52               0.04
+
+
+
+S203B.Qii2 WHEN YOU SEE A COPY OF "ARMY TALKS", DO YOU USUALLY LOOK AT EVERYTHING IN IT, OR DO YOU SKIP THROUGH IT AND JUST LOOK AT SOME PARTS OF IT?
+                                                   answer_label answer_value raw_counts relative_frequency
+0                                            NO CODE OR NO DATA          0.0          2                0.0
+1      I USUALLY SKIP THROUGH AND JUST LOOK AT SOME PARTS OF IT          1.0        345               0.29
+2  I USUALLY LOOK AT NEARLY EVERYTHING, BUT I DON'T READ IT ALL          2.0        366               0.31
+3                               I USUALLY READ NEARLY ALL OF IT          3.0        250               0.21
+4               I HAVEN'T SEEN "ARMY TALKS" OFTEN ENOUGH TO SAY          4.0        182               0.15
+5                                                     NO ANSWER          5.0         46               0.04
+
+
+
+S203B.Qii3 HOW INTERESTING DO YOU PERSONALLY FIND MOST OF THE THINGS YOU SEE IN "ARMY TALKS"?
+                                      answer_label answer_value raw_counts relative_frequency
+0                                        NO ANSWER          0.0         49               0.04
+1          MOST OF THEM ARE VERY INTERESTING TO ME          1.0        307               0.26
+2        MOST OF THEM ARE FAIRLY INTERESTING TO ME          2.0        512               0.43
+3      MOST OF THEM ARE NOT VERY INTERESTING TO ME          3.0         90               0.08
+4           MOST OF THEM DO NOT INTEREST ME AT ALL          4.0         36               0.03
+5  I HAVEN'T SEEN "ARMY TALKS" OFTEN ENOUGH TO SAY          5.0        197               0.17
+
+
+
+S203B.Qii4 HOW IMPORTANT TO YOU PERSONALLY DO YOU FEEL MOST OF THE THINGS IN THE "ARMY TALKS" BOOKLETS ARE?
+                                      answer_label answer_value raw_counts relative_frequency
+0                               NO CODE OR NO DATA          0.0          1                0.0
+1            MOST OF THEM ARE VERY IMPORTANT TO ME          1.0        192               0.16
+2          MOST OF THEM ARE FAIRLY IMPORTANT TO ME          2.0        529               0.44
+3        MOST OF THEM ARE NOT VERY IMPORTANT TO ME          3.0        165               0.14
+4      MOST OF THEM ARE NOT AT ALL IMPORTANT TO ME          4.0         35               0.03
+5  I HAVEN'T SEEN "ARMY TALKS" OFTEN ENOUGH TO SAY          5.0        213               0.18
+6                                        NO ANSWER          6.0         56               0.05
+
+
+
+S203B.Qii5 ABOUT HOW OFTEN DO YOU DISCUSS MATERIAL IN THE "ARMY TALKS" BOOKLETS WITH OTHER SOLDIERS?
+                     answer_label answer_value raw_counts relative_frequency
+0              NO CODE OR NO DATA          0.0          1                0.0
+1    WE VERY OFTEN TALK THEM OVER          1.0         89               0.07
+2  WE TALK THEM OVER FAIRLY OFTEN          2.0        183               0.15
+3  WE OCCASIONALLY TALK THEM OVER          3.0        447               0.38
+4  WE ALMOST NEVER TALK THEM OVER          4.0        364               0.31
+5                       NO ANSWER          5.0        107               0.09
+
+
+
+S203B.Qii6 HOW DO YOU FEEL ABOUT THE STYLE OR WAY IN WHICH THE MATERIAL IS PRESENTED IN THE "ARMY TALKS" BOOKLETS?
+                                                              answer_label answer_value raw_counts relative_frequency
+0                                                       NO CODE OR NO DATA          0.0          1                0.0
+1                   I FEEL IT SHOULD BE PRESENTED IN A MORE SERIOUS MANNER          1.0         93               0.08
+2                        I FEEL THE STYLE OF WRITING IS VERY GOOD AS IT IS          2.0        596                0.5
+3  I THINK IT SHOULD BE PRESENTED IN A LESS SERIOUS (MORE INFORMAL) MANNER          3.0        138               0.12
+4                          I HAVEN'T SEEN "ARMY TALKS" OFTEN ENOUGH TO SAY          4.0        270               0.23
+5                                                                NO ANSWER          5.0         93               0.08
+
+
+
+S203B.Qii7A1 ARTICLES ABOUT COMBAT TIPS?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0        179               0.15
+1                   GETS TOO MUCH SPACE NOW          1.0         47               0.04
+2  GETS ABOUT THE RIGHT AMOUNT OF SPACE NOW          2.0        376               0.32
+3                     SHOULD GET MORE SPACE          3.0        449               0.38
+4                                 UNDECIDED          4.0        140               0.12
+
+
+
+S203B.Qii7A2 ARTICLES ABOUT INFORMATION ABOUT OUR ALLIES?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0        187               0.16
+1                   GETS TOO MUCH SPACE NOW          1.0         84               0.07
+2  GETS ABOUT THE RIGHT AMOUNT OF SPACE NOW          2.0        460               0.39
+3                     SHOULD GET MORE SPACE          3.0        271               0.23
+4                                 UNDECIDED          4.0        189               0.16
+
+
+
+S203B.Qii7A3 ARTICLES ABOUT THE GERMAN POLITICAL SYSTEM?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0        209               0.18
+1                   GETS TOO MUCH SPACE NOW          1.0        243                0.2
+2  GETS ABOUT THE RIGHT AMOUNT OF SPACE NOW          2.0        334               0.28
+3                     SHOULD GET MORE SPACE          3.0        140               0.12
+4                                 UNDECIDED          4.0        265               0.22
+
+
+
+S203B.Qii7A4 ARTICLES ABOUT THE GERMAN MILITARY SYSTEM?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0        212               0.18
+1                   GETS TOO MUCH SPACE NOW          1.0        171               0.14
+2  GETS ABOUT THE RIGHT AMOUNT OF SPACE NOW          2.0        390               0.33
+3                     SHOULD GET MORE SPACE          3.0        183               0.15
+4                                 UNDECIDED          4.0        235                0.2
+
+
+
+S203B.Qii7A5 ARTICLES ABOUT THE PART THE U.S. SHOULD TAKE IN INTERNATIONAL AFFAIRS AFTER THE WAR?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0        197               0.17
+1                   GETS TOO MUCH SPACE NOW          1.0         84               0.07
+2  GETS ABOUT THE RIGHT AMOUNT OF SPACE NOW          2.0        317               0.27
+3                     SHOULD GET MORE SPACE          3.0        402               0.34
+4                                 UNDECIDED          4.0        191               0.16
+
+
+
+S203B.Qii7A6 ARTICLES ABOUT POST-WAR PLANS FOR GI'S?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0        188               0.16
+1                   GETS TOO MUCH SPACE NOW          1.0         78               0.07
+2  GETS ABOUT THE RIGHT AMOUNT OF SPACE NOW          2.0        246               0.21
+3                     SHOULD GET MORE SPACE          3.0        542               0.46
+4                                 UNDECIDED          4.0        137               0.12
+
+
+
+S203B.Qii7A7 ARTICLES ABOUT WHAT IS HAPPENING ON THE HOME FRONT?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0        186               0.16
+1                   GETS TOO MUCH SPACE NOW          1.0         67               0.06
+2  GETS ABOUT THE RIGHT AMOUNT OF SPACE NOW          2.0        279               0.23
+3                     SHOULD GET MORE SPACE          3.0        496               0.42
+4                                 UNDECIDED          4.0        163               0.14
+
+
+
+S203B.Qii7B ARE THERE ANY OTHER THINGS THAT YOU THINK SHOULD GET MORE SPACE THAN THEY GET AT PRESENT IN "ARMY TALKS"?
+                answer_label answer_value raw_counts relative_frequency
+0         NO CODE OR NO DATA          0.0          1                0.0
+1   NO, I CAN'T THINK OF ANY          1.0        897               0.75
+2  YES, SOMETHING WRITTEN IN          2.0         54               0.05
+3    YES, NOTHING WRITTEN IN          3.0          5                0.0
+4                  NO ANSWER          4.0        234                0.2
+
+
+
+S203B.Qii7C WOULD YOU LIKE THE "ARMY TALKS" BOOKLET TO CARRY MORE PICTURES IF IT MEANT CUTTING DOWN ON THE AMOUNT OF READING MATTER?
+                                                                   answer_label answer_value raw_counts relative_frequency
+0                                                                     NO ANSWER          0.0        192               0.16
+1                                             YES, THE MORE PICTURES THE BETTER          1.0        160               0.13
+2  YES, A FEW MORE PICTURES, BUT THERE STILL SHOULD BE PLENTY OF READING MATTER          2.0        369               0.31
+3                                         NO, IT HAS ABOUT THE RIGHT AMOUNT NOW          3.0        391               0.33
+4                     NO, IT SHOULD HAVE FEWER PICTURES AND MORE READING MATTER          4.0         79               0.07
+
+
+
+S203B.Qii8A IN YOUR OPINION, WHAT IS THE MAIN PURPOSE OF "ARMY TALKS"?
+                                                              answer_label answer_value raw_counts relative_frequency
+0                                                       NO CODE OR NO DATA          0.0          1                0.0
+1                                                         HAVEN'T ANY IDEA          1.0        122                0.1
+2                TO FURNISH SOLDIERS WITH USEFUL AND IMPORTANT INFORMATION          2.0        453               0.38
+3                        TO GET SOLDIERS THINKING ABOUT IMPORTANT PROBLEMS          3.0        312               0.26
+4  TO TRY TO GET SOLDIERS TO BELIEVE THINGS THE ARMY WANTS THEM TO BELIEVE          4.0         91               0.08
+5                     TO FURNISH SOLDIERS WITH ENTERTAINING READING MATTER          5.0         43               0.04
+6                                                           SOMETHING ELSE          6.0          4                0.0
+7                                                                NO ANSWER          7.0        165               0.14
+
+
+
+S203B.Qii8B DO YOU THINK "ARMY TALKS" HAS ANY OTHER PURPOSE IN ADDITION TO THE ONE YOU CHECKED ABOVE AS THE MAIN ONE?
+                answer_label answer_value raw_counts relative_frequency
+0         NO CODE OR NO DATA          0.0          3                0.0
+1                         NO          1.0        670               0.56
+2  YES, SOMETHING WRITTEN IN          2.0        137               0.12
+3    YES, NOTHING WRITTEN IN          3.0         21               0.02
+4                  NO ANSWER          4.0        360                0.3
+
+
+
+S203B.Qii9 WHO DO YOU THINK SHOULD PUT OUT THE BOOKLET "ARMY TALKS"?
+                                                     answer_label answer_value raw_counts relative_frequency
+0                                              NO CODE OR NO DATA          0.0          3                0.0
+1                                 A GROUP OF TRAINED ENLISTED MEN          1.0        325               0.27
+2  EACH ARMY, AIR FORCE OR OTHER SIMILAR MAJOR COMMAND SEPARATELY          2.0        163               0.14
+3                      THEATER HEADQUARTERS FOR THE WHOLE THEATER          3.0        272               0.23
+4                   WAR DEPARTMENT IN WASHINGTON FOR ALL THE ARMY          4.0        128               0.11
+5                                                 SOME OTHER IDEA          5.0         79               0.07
+6                                                       NO ANSWER          6.0        221               0.19
+
+
+
+S203B.Qii10A HOW TO KEEP HOUSE IN A FOX-HOLE?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1            NOT SURE          1.0        193               0.16
+2                 YES          2.0        505               0.42
+3                  NO          3.0        297               0.25
+4           NO ANSWER          4.0        194               0.16
+
+
+
+S203B.Qii10B THE STATE OF THE UNION?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        247               0.21
+1     NOT SURE          1.0        296               0.25
+2          YES          2.0        171               0.14
+3           NO          3.0        477                0.4
+
+
+
+S203B.Qii10C U.S.S.R?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        241                0.2
+1     NOT SURE          1.0        225               0.19
+2          YES          2.0        350               0.29
+3           NO          3.0        375               0.31
+
+
+
+S203B.Qii10D SEVEN NEW YEAR'S DAYS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        243                0.2
+1     NOT SURE          1.0        277               0.23
+2          YES          2.0        175               0.15
+3           NO          3.0        496               0.42
+
+
+
+S203B.Qii10E THE ARMY IN EUROPE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        229               0.19
+1     NOT SURE          1.0        271               0.23
+2          YES          2.0        326               0.27
+3           NO          3.0        365               0.31
+
+
+
+S203B.Qii10F THE COMBAT MAN SPEAKS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        197               0.17
+1     NOT SURE          1.0        178               0.15
+2          YES          2.0        545               0.46
+3           NO          3.0        271               0.23
+
+
+
+S203B.Qii11 DO YOU REMEMBER ANY OF THE "ARMY TALKS" BOOKLETS YOU PARTICULARLY LIKED?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0        318               0.27
+1  NO, NONE I LIKED PARTICULARLY          1.0        619               0.52
+2      YES, SOMETHING WRITTEN IN          2.0        232               0.19
+3        YES, NOTHING WRITTEN IN          3.0         22               0.02
+
+
+
+S203B.Qii12A DO YOU REMEMBER ANY "ARMY TALKS" BOOKLET YOU PARTICULARLY DISLIKED?
+                       answer_label answer_value raw_counts relative_frequency
+0                         NO ANSWER          0.0        264               0.22
+1         YES, SOMETHING WRITTEN IN          2.0         32               0.03
+2  NO, NONE I DISLIKED PARTICULARLY          1.0        889               0.75
+3           YES, NOTHING WRITTEN IN          3.0          6               0.01
+
+
+
+S203B.Qii13A ARE THE MEN IN YOUR OUTFIT EVER CALLED TOGETHER TO HEAR A TALK OR HOLD A DISCUSSION ON THE WAR AND WHAT WILL HAPPEN AFTER THE WAR?
+                                  answer_label answer_value raw_counts relative_frequency
+0                                    NO ANSWER          0.0        162               0.14
+1  WE HAVE MEETINGS LIKE THAT ABOUT EVERY WEEK          1.0         82               0.07
+2      WE HAVE MEETINGS LIKE THAT OCCASIONALLY          2.0        215               0.18
+3            WE SELDOM HAVE MEETINGS LIKE THAT          3.0        209               0.18
+4             WE NEVER HAVE MEETINGS LIKE THAT          4.0        523               0.44
+
+
+
+S203B.Qii13B IF YOU HAVE GROUP MEETINGS LIKE THAT, ARE THE TOPICS TAKEN FROM "ARMY TALKS" BOOKLETS?
+                                                      answer_label answer_value raw_counts relative_frequency
+0                                               NO CODE OR NO DATA          0.0          1                0.0
+1                                 WE NEVER HAVE MEETINGS LIKE THAT          1.0        459               0.39
+2     YES, THE TOPICS USUALLY ARE TAKEN FROM "ARMY TALKS" BOOKLETS          2.0        135               0.11
+3  NO, THE TOPICS USUALLY ARE NOT TAKEN FROM "ARMY TALKS" BOOKLETS          3.0        120                0.1
+4                               DON'T KNOW WHETHER THEY ARE OR NOT          4.0        228               0.19
+5                                                        NO ANSWER          5.0        248               0.21
+
+
+
+S203B.Qiii1 HAVE YOU READ THIS "ARMY TALKS" BEFORE?
+                        answer_label answer_value raw_counts relative_frequency
+0                 NO CODE OR NO DATA          0.0          3                0.0
+1  NOT SURE WHETHER I READ IT OR NOT          1.0        169               0.14
+2                     YES, I READ IT          2.0        449               0.38
+3              NO, I DID NOT READ IT          3.0        460               0.39
+4                          NO ANSWER          4.0        110               0.09
+
+
+
+S203B.Qiii2 DO YOU REMEMBER HEARING ANY OF THE MEN IN YOUR OUTFIT TALKING ABOUT THIS "ARMY TALKS" OR DISCUSSING WHAT IT SAID?
+                                   answer_label answer_value raw_counts relative_frequency
+0                                     NO ANSWER          0.0        128               0.11
+1          I HEARD A LOT OF DISCUSSION ABOUT IT          1.0         59               0.05
+2              I HEARD SOME DISCUSSION ABOUT IT          2.0        290               0.24
+3      THERE WAS HARDLY ANY DISCUSSION ABOUT IT          3.0        117                0.1
+4  I DON'T REMEMBER HEARING IT DISCUSSED AT ALL          4.0        597                0.5
+
+
+
+S203B.Qiii3A IN GENERAL, DID YOU LIKE OR DISLIKE THIS "ARMY TALKS"?
+                                  answer_label answer_value raw_counts relative_frequency
+0                                    NO ANSWER          0.0        138               0.12
+1                      I DIDN'T READ IT BEFORE          1.0        384               0.32
+2                         I LIKED IT VERY MUCH          2.0        178               0.15
+3                       I LIKED IT FAIRLY WELL          3.0        318               0.27
+4  I DIDN'T PARTICULARLY LIKE IT OR DISLIKE IT          4.0        159               0.13
+5                      I DISLIKED IT VERY MUCH          5.0         14               0.01
+
+
+
+S203B.Qiii3B WERE THERE ANY PARTICULAR THINGS ABOUT THE WAY IT WAS PRESENTED THAT YOU LIKED?
+                answer_label answer_value raw_counts relative_frequency
+0         NO CODE OR NO DATA          0.0          2                0.0
+1    I DIDN'T READ IT BEFORE          1.0        429               0.36
+2                         NO          2.0        381               0.32
+3  YES, SOMETHING WRITTEN IN          3.0        122                0.1
+4    YES, NOTHING WRITTEN IN          4.0         30               0.03
+5                  NO ANSWER          5.0        227               0.19
+
+
+
+S203B.Qiii3C WERE THERE ANY PARTICULAR THINGS ABOUT THE WAY IT WAS PRESENTED THAT YOU DISLIKED?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0        253               0.21
+1    I DIDN'T READ IT BEFORE          1.0        412               0.35
+2                         NO          2.0        494               0.41
+3  YES, SOMETHING WRITTEN IN          3.0         22               0.02
+4    YES, NOTHING WRITTEN IN          4.0         10               0.01
+
+
+
+S203B.Qiii4 IN GENERAL, DO YOU AGREE OR DISAGREE WITH WHAT WAS SAID IN THIS "ARMY TALKS"?
+                                                answer_label answer_value raw_counts relative_frequency
+0                                                  NO ANSWER          0.0        177               0.15
+1                                    I DIDN'T READ IT BEFORE          1.0        429               0.36
+2                             AGREE WITH ALL OF WHAT IS SAID          2.0         50               0.04
+3                            AGREE WITH MOST OF WHAT IS SAID          3.0        278               0.23
+4  AGREE WITH SOME AND DISAGREE WITH SOME, ABOUT FIFTY-FIFTY          4.0        240                0.2
+5                         DISAGREE WITH MOST OF WHAT IS SAID          5.0         12               0.01
+6                          DISAGREE WITH ALL OF WHAT IS SAID          6.0          5                0.0
+
+
+
+S203B.Qiii6 HAVE YOU BEEN IN ACTUAL COMBAT IN THIS WAR?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1                  NO          2.0        425               0.36
+2                 YES          1.0        648               0.54
+3           NO ANSWER          3.0        117                0.1
+
+
+
+FORM..1FORM.
+  answer_label answer_value raw_counts relative_frequency
+0         20XX          2.0       1191                1.0
+
+
+
+S203B.Qiii7 WHAT BRANCH OF THE ARMY ARE YOU IN NOW?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0         44               0.04
+1                           ENGINEERS          1.0         93               0.08
+2                     FIELD ARTILLERY          2.0         17               0.01
+3                QUARTERMASTERS CORPS          3.0         56               0.05
+4                            INFANTRY          4.0        546               0.46
+5                  MEDICAL DEPARTMENT          5.0         66               0.06
+6                       ARMORED FORCE          6.0         33               0.03
+7   COAST ARTILLERY AND ANTI-AIRCRAFT          7.0          5                0.0
+8                TRANSPORTATION CORPS          8.0          2                0.0
+9                 ORDNANCE DEPARTMENT          9.0         55               0.05
+10           CHEMICAL WARFARE SERVICE         10.0          1                0.0
+11                    MILITARY POLICE         11.0         27               0.02
+12                       SIGNAL CORPS         12.0         27               0.02
+13                          AIR CORPS         13.0        202               0.17
+14                              OTHER         14.0         17               0.01
+
+
+
+S203B.Viii8 "ARMY TALKS" TITLES AND DATES:
+                                         answer_label answer_value raw_counts relative_frequency
+0                               VD - DECEMBER 9, 1944          1.0         83               0.07
+1                            JABO - DECEMBER 16, 1944          2.0        111               0.09
+2                 WHO MADE HITLER - DECEMBER 23, 1944          3.0        100               0.08
+3               COMBAT MAN SPEAKS - DECEMBER 30, 1944          4.0        102               0.09
+4                    ARMY IN EUROPE - JANUARY 6, 1945          5.0        118                0.1
+5                 7 NEW YEARS DAYS - JANUARY 13, 1945          6.0        106               0.09
+6                         U.S.S.R. - JANUARY 20, 1945          7.0         96               0.08
+7               STATE OF THE UNION - JANUARY 27, 1945          8.0        117                0.1
+8   HOW TO KEEP HOUSE IN A FOXHOLE - FEBRUARY 3, 1945          9.0        114                0.1
+9                     COMBAT TIPS - FEBRUARY 10, 1945         10.0        122                0.1
+10          WE COME AS CONQUERORS - FEBRUARY 17, 1945         11.0        122                0.1
+
+
+
+S203B.Viii9.1 UNIT DESIGNATION:
+                                           answer_label answer_value raw_counts relative_frequency
+0                             QM. CO. 533 QM GR. 555BN.         11.0         20               0.02
+1                            QM. CO. 533 QM GR. 555 BN.         12.0         33               0.03
+2                        361ST ENGRS. SPEC. SERV. REGT.         15.0         43               0.04
+3                                  E-514 ENGRS. (DEPOT)         16.0         30               0.03
+4                                     76TH ORDNANCE BN.         17.0         49               0.04
+5                                        290-297 MP CO.         20.0         26               0.02
+6                           SIGNAL SERV. (15 COMPANIES)         25.0         23               0.02
+7                             MEDICAL (7TH CONV. HOSP.)         31.0         48               0.04
+8                     RIFLE CO. (3) 30TH REGT. 3RD DIV.         51.0         33               0.03
+9          RIFLE CO. 1ST BN., 15TH INF. REGT., 3RD DIV.         52.0         15               0.01
+10                     RIFLE CO. C, 7TH REGT., 3RD DIV.         53.0         27               0.02
+11                           393RD INF. REGT. 99TH DIV.         54.0         48               0.04
+12                           394TH INF. REGT. 99TH DIV.         55.0         51               0.04
+13                           395TH INF. REGT. 99TH DIV.         56.0         47               0.04
+14                     HQ. CO. 7TH INF. REGT., 3RD DIV.         60.0          7               0.01
+15                        A.T. 30TH INF. REGT. 3RD DIV.         61.0         22               0.02
+16                     CANNON CO., 30TH REGT., 3RD DIV.         62.0         21               0.02
+17                       GROUND FORCES - HOSPITAL (7TH)         71.0        302               0.25
+18                  GROUND FORCES - REINF. DEPOT (19TH)         72.0        138               0.12
+19                      322ND BOMBER GP., 9TH AIR FORCE         81.0         81               0.07
+20  344TH BOMBER GP., 9TH AIR FORCE V. SCHEDULE NUMBER:         82.0        127               0.11
+
+
+

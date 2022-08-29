@@ -1,0 +1,973 @@
+{
+  "FORM": {
+    "1.0": "S-63A",
+    "2.0": "S-63B",
+    "3.0": "S-63C",
+    "4.0": "S-63D",
+    "5.0": "S-63E",
+    "6.0": "S-63F",
+    "7.0": "S-63G"
+  },
+  "S63D.Q1": {
+    "0.0": "NO ANSWER",
+    "1.0": "PRIVATE",
+    "2.0": "PRIVATE FIRST CLASS",
+    "3.0": "TECHNICIAN 5TH GRADE OR CORPORAL",
+    "4.0": "TECHNICIAN 4TH GRADE OR SERGEANT",
+    "5.0": "TECHNICIAN 3RD GRADE OR STAFF SERGEANT",
+    "6.0": "TECHNICAL SERGEANT",
+    "7.0": "MASTER SERGEANT OR FIRST SERGEANT"
+  },
+  "S63D.Q2": {
+    "0.0": "NO ANSWER",
+    "1.0": "18 YEARS OR YOUNGER",
+    "2.0": "19 YEARS",
+    "3.0": "20",
+    "4.0": "21",
+    "5.0": "22",
+    "6.0": "23",
+    "7.0": "24",
+    "8.0": "25",
+    "9.0": "26-29 YEARS",
+    "10.0": "30-34 YEARS",
+    "11.0": "35 YEARS AND OVER"
+  },
+  "S63D.Q3": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN 6TH GRADE",
+    "2.0": "FINISHED 6TH GRADE",
+    "3.0": "FINISHED 7TH GRADE",
+    "4.0": "FINISHED 8TH GRADE",
+    "5.0": "SOME HIGH SCHOOL BUT DID NOT FINISH",
+    "6.0": "GRADUATED FROM HIGH SCHOOL",
+    "7.0": "SOME COLLEGE BUT DID NOT FINISH",
+    "8.0": "GRADUATED FROM COLLEGE"
+  },
+  "S63D.Q4": {
+    "0.0": "NO ANSWER",
+    "1.0": "NEW ENGLAND",
+    "2.0": "MIDDLE ATLANTIC",
+    "3.0": "EAST NORTH CENTRAL",
+    "4.0": "WEST NORTH CENTRAL",
+    "5.0": "SOUTH ATLANTIC",
+    "6.0": "EAST SOUTH CENTRAL",
+    "7.0": "WEST SOUTH CENTRAL",
+    "8.0": "MOUNTAIN",
+    "9.0": "PACIFIC",
+    "10.0": "FOREIGN - U.S. POSSESSION",
+    "11.0": "FOREIGN - NOT U.S.",
+    "12.0": "U.S. - STATE NOT SPECIFIED"
+  },
+  "S63D.Q5": {
+    "0.0": "NO ANSWER",
+    "1.0": "ON A FARM OR IN THE COUNTRY",
+    "2.0": "IN A SMALL TOWN (FEWER THAN 2,500 PEOPLE)",
+    "3.0": "IN A TOWN (WITH BETWEEN 2,500 AND 25,000 PEOPLE)",
+    "NaN": "QUESTIONS 6 AND 7 TO BE CODED TOGETHER.",
+    "4.0": "IN A CITY (BETWEEN 25,000 AND 100,000 PEOPLE)",
+    "5.0": "IN A LARGE CITY (MORE THAN 100,000 PEOPLE)"
+  },
+  "S63D.Q6.x": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "SINGLE",
+    "2.0": "DIVORCED OR SEPARATED",
+    "3.0": "WIDOWED",
+    "4.0": "MARRIED BEFORE ENTERING THE ARMY",
+    "5.0": "MARRIED AFTER ENTERING THE ARMY",
+    "6.0": "MARRIED, BUT NO INDICATION WHEN",
+    "7.0": "NO ANSWER"
+  },
+  "S63D.Q8": {
+    "1.0": "HAVE ONE CHILD",
+    "2.0": "HAVE TWO CHILDREN",
+    "3.0": "HAVE THREE OR MORE CHILDREN",
+    "4.0": "I HAVE NO CHILDREN",
+    "5.0": "I'M NOT MARRIED",
+    "6.0": "NO ANSWER"
+  },
+  "S63D.Q9": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "I'M NOT MARRIED"
+  },
+  "S63D.Q10": {
+    "0.0": "NO ANSWER",
+    "1.0": "I WAS DRAFTED",
+    "2.0": "I VOLUNTEERED",
+    "3.0": "I WAS IN THE NATIONAL GUARD",
+    "4.0": "ENLISTED RESERVE CORPS (ERC), REGULAR ARMY RESERVE (RAR), RESERVE OFFICER TRAINING CORPS (ROTC)"
+  },
+  "S63D.Q11": {
+    "0.0": "NO ANSWER",
+    "1.0": "3 MONTHS OR LESS",
+    "2.0": "OVER 3 MONTHS UP TO 6 MONTHS",
+    "3.0": "OVER 6 MONTHS UP TO 9 MONTHS",
+    "4.0": "OVER 9 MONTHS UP TO 1 YEAR",
+    "5.0": "OVER 1 YEAR UP TO 2 YEARS",
+    "6.0": "OVER 2 YEARS"
+  },
+  "S63D.Q12": {
+    "0.0": "NO ANSWER",
+    "2.0": "NO, THE ARMY HAS NOT CLASSIFIED ME AS LIMITED SERVICE",
+    "NaN": "QUESTION 13 NOT CODED.",
+    "1.0": "YES, THE ARMY HAS CLASSIFIED ME AS LIMITED SERVICE",
+    "3.0": "I DON'T KNOW WHETHER THE ARMY HAS CLASSIFIED ME AS LIMITED SERVICE OR NOT"
+  },
+  "S63D.Q14": {
+    "0.0": "NO ANSWER",
+    "1.0": "SAME AS I DID BEFORE ENTERING THE ARMY",
+    "2.0": "SOME OTHER KIND OF WORK",
+    "3.0": "UNDECIDED"
+  },
+  "S63D.Q15": {
+    "0.0": "NO ANSWER",
+    "1.0": "1 YEAR OR LESS",
+    "2.0": "OVER 1 YEAR UP TO 2 YEARS",
+    "3.0": "OVER 2 YEARS UP TO 3 YEARS",
+    "4.0": "OVER 3 YEARS UP TO 4 YEARS",
+    "5.0": "OVER 4 YEARS UP TO 5 YEARS",
+    "6.0": "OVER 5 YEARS",
+    "7.0": "I CAME INTO THE ARMY RIGHT OUT OF SCHOOL"
+  },
+  "S63D.Q16A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "NaN": "QUESTION 16B NOT CODED.",
+    "3.0": "UNDECIDED",
+    "4.0": "NO ANSWER"
+  },
+  "S63D.Q17A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "NaN": "QUESTIONS 17B AND 18 NOT CODED.",
+    "3.0": "UNDECIDED",
+    "4.0": "NO ANSWER"
+  },
+  "S63D.Q19": {
+    "0.0": "NO ANSWER",
+    "1.0": "3 MONTHS OR LESS",
+    "2.0": "OVER 3 MONTHS UP TO 6 MONTHS",
+    "3.0": "OVER 6 MONTHS UP TO 9 MONTHS",
+    "4.0": "OVER 9 MONTHS UP TO 1 YEAR",
+    "5.0": "OVER 1 YEAR"
+  },
+  "S63D.Q20": {
+    "0.0": "NO ANSWER",
+    "1.0": "ENGINEERS",
+    "2.0": "FIELD ARTILLERY",
+    "3.0": "QUARTERMASTER CORPS",
+    "4.0": "INFANTRY",
+    "5.0": "MEDICAL DEPARTMENT",
+    "6.0": "ARMORED FORCE",
+    "7.0": "SIGNAL CORPS",
+    "8.0": "COAST ARTILLERY AND ANTI-AIRCRAFT",
+    "9.0": "AIR CORPS",
+    "10.0": "TRANSPORTATION CORPS",
+    "11.0": "ORDNANCE DEPARTMENT",
+    "12.0": "CHEMICAL WARFARE SERVICE",
+    "13.0": "MILITARY POLICE",
+    "14.0": "CAVALRY",
+    "15.0": "FINANCE",
+    "16.0": "OTHER"
+  },
+  "S63D.Q21": {
+    "0.0": "NO ANSWER",
+    "1.0": "ENGINEERS",
+    "2.0": "FIELD ARTILLERY",
+    "3.0": "QUARTERMASTER CORPS",
+    "4.0": "INFANTRY",
+    "5.0": "MEDICAL DEPARTMENT",
+    "6.0": "ARMORED FORCE",
+    "7.0": "SIGNAL CORPS",
+    "8.0": "COAST ARTILLERY AND ANTI-AIRCRAFT",
+    "9.0": "AIR CORPS",
+    "10.0": "TRANSPORTATION CORPS",
+    "11.0": "ORDNANCE DEPARTMENT",
+    "12.0": "CHEMICAL WARFARE SERVICE",
+    "13.0": "MILITARY POLICE",
+    "14.0": "CAVALRY",
+    "15.0": "FINANCE",
+    "16.0": "OTHER"
+  },
+  "S63D.Q22": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONCE EVERY 2 OR 3 WEEKS",
+    "2.0": "ONCE A WEEK",
+    "3.0": "TWICE A WEEK",
+    "4.0": "THREE OR MORE TIMES A WEEK",
+    "5.0": "LESS THAN ONCE A MONTH",
+    "6.0": "ONCE A MONTH",
+    "7.0": "NEVER",
+    "8.0": "I LIVE OFF THE POST IN A TOWN OR CITY"
+  },
+  "S63D.Q23": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, VERY PROUD",
+    "2.0": "YES, FAIRLY PROUD",
+    "3.0": "NO, NOT PROUD",
+    "4.0": "UNDECIDED"
+  },
+  "S63D.Q24": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH INTERESTED",
+    "2.0": "A LITTLE BUT NOT MUCH",
+    "3.0": "NOT INTERESTED AT ALL"
+  },
+  "S63D.Q25": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED"
+  },
+  "S63D.Q26": {
+    "0.0": "NO ANSWER",
+    "1.0": "I USUALLY FEEL IT IS NOT WORTHWHILE",
+    "2.0": "I USUALLY FEEL IT IS WORTHWHILE",
+    "3.0": "UNDECIDED"
+  },
+  "S63D.Q27": {
+    "0.0": "NO ANSWER",
+    "1.0": "I FEEL PRETTY SURE I CAN MAKE GOOD",
+    "2.0": "I AM NOT SO SURE I CAN MAKE GOOD",
+    "3.0": "UNDECIDED"
+  },
+  "S63D.Q28": {
+    "0.0": "NO ANSWER",
+    "1.0": "I HAVE A PRETTY GOOD TIME",
+    "2.0": "IT'S ABOUT FIFTY-FIFTY",
+    "3.0": "I HAVE A PRETTY ROTTEN TIME"
+  },
+  "S63D.Q29": {
+    "0.0": "NO ANSWER",
+    "1.0": "I AM USUALLY IN GOOD SPIRITS",
+    "2.0": "I AM IN GOOD SPIRITS SOME OF THE TIME AND IN LOW SPIRITS SOME OF THE TIME",
+    "3.0": "I AM USUALLY IN LOW SPIRITS"
+  },
+  "S63D.Q30": {
+    "0.0": "NO ANSWER",
+    "1.0": "I AM HARDLY EVER WORRIED AND UPSET",
+    "2.0": "I AM SOMETIMES WORRIED AND UPSET",
+    "3.0": "I AM OFTEN WORRIED AND UPSET"
+  },
+  "S63D.Q31": {
+    "0.0": "NO ANSWER",
+    "1.0": "IN A COMBAT OUTFIT OVERSEAS",
+    "2.0": "IN A NON-COMBAT OUTFIT OVERSEAS",
+    "3.0": "IN AN OUTFIT THAT WILL STAY IN THE UNITED STATES"
+  },
+  "S63D.Q32": {
+    "0.0": "NO ANSWER",
+    "1.0": "AS A SOLDIER",
+    "2.0": "AS A WAR WORKER",
+    "3.0": "UNDECIDED"
+  },
+  "S63D.Q33": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN ONCE A WEEK",
+    "2.0": "ABOUT ONCE A WEEK",
+    "3.0": "TWO OR MORE TIMES A WEEK",
+    "4.0": "EVERY DAY"
+  },
+  "S63D.Q34": {
+    "0.0": "NO ANSWER",
+    "1.0": "ABOUT ONCE A DAY",
+    "2.0": "TWO OR MORE TIMES A DAY",
+    "3.0": "LESS THAN ONCE A WEEK",
+    "4.0": "ABOUT ONCE A WEEK",
+    "5.0": "TWO OR MORE TIMES A WEEK"
+  },
+  "S63D.Q35": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, I HAVE SEEN IT IN THIS CAMP",
+    "2.0": "NO, BUT I HAVE SEEN IT IN SOME OTHER CAMP",
+    "3.0": "NO, I HAVE NEVER SEEN IT",
+    "4.0": "DON'T KNOW"
+  },
+  "S63D.Q36.1": {
+    "1.0": "BARRACKS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q36.2": {
+    "1.0": "ORDERLY ROOM",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q36.3": {
+    "1.0": "MESS HALL",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q36.4": {
+    "1.0": "DAY ROOM",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q36.5": {
+    "1.0": "RECREATION HALL (REC HALL)",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q36.6": {
+    "1.0": "POST EXCHANGE (P.X.)",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q36.7": {
+    "1.0": "SERVICE CLUB",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q36.8": {
+    "1.0": "OTHER",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q36.9": {
+    "1.0": "THREE OR MORE ANSWERS CHECKED ABOVE",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q36.10": {
+    "1.0": "I HAVE NEVER SEEN A NEWSMAP IN THIS CAMP",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q36.11": {
+    "1.0": "NO ANSWER",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q37": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, I LOOK AT THE NEW ONE EVERY WEEK",
+    "2.0": "NO, I LOOK AT A NEW ONE LESS THAN ONCE A MONTH",
+    "3.0": "NO, I LOOK AT A NEW ONE ABOUT ONCE A MONTH",
+    "NaN": "QUESTION 38 NOT CODED.",
+    "4.0": "NO, I LOOK AT A NEW ONE 2 OR 3 TIMES A MONTH",
+    "5.0": "I HAVE NEVER SEEN A NEWSMAP IN THIS CAMP"
+  },
+  "S63D.Q39.1": {
+    "1.0": "BARRACKS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q39.2": {
+    "1.0": "ORDERLY ROOM",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q39.3": {
+    "1.0": "MESS HALL",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q39.4": {
+    "1.0": "DAY ROOM",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q39.5": {
+    "1.0": "RECREATION HALL (REC HALL)",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q39.6": {
+    "1.0": "POST EXCHANGE (P.X.)",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q39.7": {
+    "1.0": "SERVICE CLUB",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q39.8": {
+    "1.0": "OTHER",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q39.9": {
+    "1.0": "THREE OR MORE ANSWERS CHECKED ABOVE",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q39.10": {
+    "1.0": "NO ANSWER",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q40": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "I HAVE NEVER SEEN A NEWSMAP IN THIS CAMP"
+  },
+  "S63D.Q41": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "I HAVE NEVER SEEN A NEWSMAP IN THIS CAMP"
+  },
+  "S63D.Q42": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "I HAVE NEVER SEEN A NEWSMAP IN THIS CAMP"
+  },
+  "S63D.Q43": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT HELPS ME A LOT",
+    "2.0": "IT HELPS ME SOMEWHAT",
+    "3.0": "IT HARDLY HELPS ME AT ALL",
+    "4.0": "I HAVE NEVER SEEN A NEWSMAP IN THIS CAMP"
+  },
+  "S63D.Q44": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, THEY USE THE NEWSMAP WHEN THEY GIVE TALKS",
+    "2.0": "NO, THEY DO NOT USE THE NEWSMAP WHEN THEY GIVE TALKS",
+    "3.0": "THEY DO NOT GIVE ANY TALKS ABOUT THE WAR NEWS",
+    "4.0": "DON'T KNOW"
+  },
+  "S63D.Q45": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, I HAVE READ OR HEARD IT IN THIS CAMP",
+    "2.0": "NO, BUT I HAVE READ OR HEARD IT IN SOME OTHER CAMP",
+    "3.0": "NO, I HAVE NEVER READ OR HEARD IT",
+    "4.0": "DON'T KNOW"
+  },
+  "S63D.Q46": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT IS PRINTED AND I READ IT MYSELF",
+    "2.0": "I HEAR IT AT FORMATIONS OR IN CLASS",
+    "3.0": "I HEAR IT OVER THE CAMP LOUDSPEAKER",
+    "4.0": "SOME OTHER WAY",
+    "5.0": "I HAVE NEVER READ OR HEARD IT IN THIS CAMP",
+    "6.0": "IF 1 AND 2 CHECKED ABOVE",
+    "7.0": "IF 1 AND 3 CHECKED ABOVE",
+    "8.0": "IF 2 AND 3 CHECKED ABOVE"
+  },
+  "S63D.Q47": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN ONCE A WEEK",
+    "2.0": "ABOUT ONCE A WEEK",
+    "3.0": "TWO OR MORE TIMES A WEEK",
+    "4.0": "EVERY DAY",
+    "5.0": "I HAVE NEVER READ OR HEARD IT IN THIS CAMP"
+  },
+  "S63D.Q48": {
+    "0.0": "NO ANSWER",
+    "1.0": "THEY HELP ME A LOT",
+    "2.0": "THEY HELP ME SOMEWHAT",
+    "3.0": "THEY HARDLY HELP ME AT ALL",
+    "4.0": "I HAVE NEVER READ OR HEARD ANY IN THIS CAMP"
+  },
+  "S63D.Q49": {
+    "0.0": "NO ANSWER",
+    "1.0": "THE SUMMARIES OF THE NEWS PUT OUT SPECIALLY FOR THE SOLDIERS",
+    "2.0": "THE DAILY NEWSPAPERS (NOT CAMP NEWSPAPERS)",
+    "3.0": "IT MAKES NO DIFFERENCE",
+    "4.0": "I HAVE NEVER READ OR HEARD ANY NEWS SUMMARIES PUT OUT SPECIALLY FOR SOLDIERS"
+  },
+  "S63D.Q50": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY GOOD JOB",
+    "2.0": "FAIRLY GOOD JOB",
+    "3.0": "PRETTY POOR JOB",
+    "4.0": "VERY POOR JOB",
+    "5.0": "UNDECIDED"
+  },
+  "S63D.Q51": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT MAKES THINGS LOOK BETTER THAN THEY ARE",
+    "2.0": "IT MAKES THINGS LOOK WORSE THAN THEY ARE",
+    "3.0": "IT MAKES THINGS LOOK ABOUT THE SAME AS THEY REALLY ARE",
+    "4.0": "UNDECIDED"
+  },
+  "S63D.Q52": {
+    "0.0": "NO ANSWER",
+    "1.0": "HAVE A FAIRLY COMPLETE AND UP-TO-DATE KNOWLEDGE",
+    "2.0": "HAVE A GENERAL KNOWLEDGE OF \"HEADLINE\" EVENTS",
+    "3.0": "DO NOT KEEP UP WITH THE NEWS"
+  },
+  "FORM..1": {
+    "1.0": "S-63A",
+    "2.0": "S-63B",
+    "3.0": "S-63C",
+    "4.0": "S-63D",
+    "5.0": "S-63E",
+    "6.0": "S-63F",
+    "7.0": "S-63G"
+  },
+  "S63D.Q53": {
+    "0.0": "NO ANSWER",
+    "1.0": "YOU WANT TO BUT DON'T HAVE THE FACILITIES (NEWSPAPERS, RADIO)",
+    "2.0": "YOU WANT TO BUT DON'T HAVE THE TIME",
+    "NaN": "QUESTION 54 NOT CODED.",
+    "3.0": "YOU ARE JUST NOT PARTICULARLY INTERESTED",
+    "4.0": "I DO HAVE A FAIRLY COMPLETE AND UP-TO-DATE KNOWLEDGE"
+  },
+  "S63D.Q55.1": {
+    "1.0": "NEWSPAPERS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q55.2": {
+    "1.0": "WAR DEPARTMENT \"NEWSMAPS\"",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q55.3": {
+    "1.0": "RADIO NEWS BROADCASTS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q55.4": {
+    "1.0": "NEWS SUMMARY PUT OUT SPECIALLY FOR SOLDIERS AT CAMP",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q55.5": {
+    "1.0": "TALKING TO OTHER SOLDIERS ABOUT THE NEWS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q55.6": {
+    "1.0": "NEWSREELS IN MOVIES",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q55.7": {
+    "1.0": "NEWS MAGAZINES (SUCH AS TIME, NEWSWEEK)",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q55.8": {
+    "1.0": "TALKS OR LECTURES ON THE NEWS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q55.9": {
+    "1.0": "OTHER",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q55.10": {
+    "1.0": "THREE OR MORE ANSWERS CHECKED ABOVE",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q55.11": {
+    "1.0": "NO ANSWER",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q56A": {
+    "1.0": "ANY RELEVANT ANSWER",
+    "2.0": "ALL IRRELEVANT ANSWERS; DON'T KNOW, NO ANSWER"
+  },
+  "S63D.Q56B.1": {
+    "1.0": "NEWSPAPERS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q56B.2": {
+    "1.0": "WAR DEPARTMENT \"NEWSMAPS\"",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q56B.3": {
+    "1.0": "RADIO NEWS BROADCASTS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q56B.4": {
+    "1.0": "NEWS SUMMARY PUT OUT SPECIALLY FOR SOLDIERS AT CAMP",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q56B.5": {
+    "1.0": "TALKING TO OTHER SOLDIERS ABOUT THE NEWS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q56B.6": {
+    "1.0": "NEWSREELS IN MOVIES",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q56B.7": {
+    "1.0": "NEWS MAGAZINES (SUCH AS TIME, NEWSWEEK)",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q56B.8": {
+    "1.0": "TALKS OR LECTURES ON THE NEWS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q56B.9": {
+    "1.0": "OTHER",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q56B.10": {
+    "1.0": "THREE OR MORE ANSWERS CHECKED ABOVE",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q56B.11": {
+    "1.0": "NO ANSWER",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63D.Q57": {
+    "0.0": "NO ANSWER",
+    "1.0": "NEWS REPORT WHICH TELLS THE FACTS",
+    "2.0": "NEWS REPORT WHICH TELLS THE FACTS AND ALSO EXPLAINS THEM",
+    "3.0": "IT MAKES NO DIFFERENCE"
+  },
+  "S63D.Q58": {
+    "0.0": "NO ANSWER",
+    "1.0": "I KEEP UP MORE CLOSELY NOW",
+    "2.0": "I KEEP UP ABOUT THE SAME",
+    "3.0": "I KEEP UP LESS CLOSELY NOW"
+  },
+  "S63D.Q59": {
+    "0.0": "NO ANSWER",
+    "1.0": "I HAVE LESS INTEREST IN THE NEWS NOW",
+    "2.0": "I DON'T HAVE ANY GOOD WAY OF GETTING THE NEWS",
+    "3.0": "I JUST DON'T HAVE TIME TO KEEP UP WITH THE NEWS",
+    "4.0": "I DO KEEP UP CLOSELY WITH THE NEWS"
+  },
+  "S63D.Q60": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT IS ABSOLUTELY NECESSARY",
+    "2.0": "IT IS OF GREAT IMPORTANCE",
+    "3.0": "IT IS OF MEDIUM IMPORTANCE",
+    "4.0": "IT IS OF LITTLE IMPORTANCE",
+    "5.0": "IT IS OF NO IMPORTANCE AT ALL"
+  },
+  "S63D.Q61A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "DON'T KNOW",
+    "4.0": "NO ANSWER"
+  },
+  "S63D.Q61B": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "DON'T KNOW"
+  },
+  "S63D.Q61C": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "DON'T KNOW"
+  },
+  "S63D.Q61D": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "DON'T KNOW"
+  },
+  "S63D.Q62": {
+    "0.0": "NO ANSWER",
+    "1.0": "I GET MORE AND MORE INTERESTED",
+    "2.0": "I GET LESS AND LESS INTERESTED",
+    "3.0": "I STAY ABOUT THE SAME"
+  },
+  "S63D.Q63": {
+    "0.0": "NO ANSWER",
+    "1.0": "I GET MORE AND MORE INTERESTED",
+    "2.0": "I GET LESS AND LESS INTERESTED",
+    "3.0": "I STAY ABOUT THE SAME"
+  },
+  "S63D.Q64": {
+    "0.0": "NO ANSWER",
+    "1.0": "I THINK MORE AND MORE ABOUT IT",
+    "2.0": "I THINK LESS AND LESS ABOUT IT",
+    "3.0": "I THINK ABOUT IT THE SAME AMOUNT"
+  },
+  "S63D.Q65": {
+    "1.0": "ALL WERE FACTS",
+    "2.0": "MOST WERE FACTS",
+    "3.0": "ABOUT HALF WERE FACTS AND HALF WERE FIXED UP TO LOOK GOOD FOR OUR SIDE",
+    "4.0": "MOST WERE FIXED UP TO LOOK GOOD FOR OUR SIDE",
+    "5.0": "ALL WERE FIXED UP TO LOOK GOOD FOR OUR SIDE",
+    "6.0": "I HAVEN'T SEEN ANY FILMS ABOUT WHY WE ARE FIGHTING",
+    "7.0": "UNDECIDED",
+    "8.0": "NO ANSWER"
+  },
+  "S63D.Q66": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ALL WERE FACTS",
+    "2.0": "MOST WERE FACTS",
+    "3.0": "ABOUT HALF WERE FACTS AND HALF WERE FIXED UP TO LOOK GOOD FOR OUR SIDE",
+    "4.0": "MOST WERE FIXED UP TO LOOK GOOD FOR OUR SIDE",
+    "5.0": "ALL WERE FIXED UP TO LOOK GOOD FOR OUR SIDE",
+    "6.0": "I HAVEN'T HEARD ANY TALKS ABOUT WHY WE ARE FIGHTING",
+    "7.0": "UNDECIDED",
+    "8.0": "NO ANSWER"
+  },
+  "S63D.Q67A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "DON'T KNOW"
+  },
+  "S63D.Q67B": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "DON'T KNOW"
+  },
+  "S63D.Q67C": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "DON'T KNOW"
+  },
+  "S63D.Q67D": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "DON'T KNOW"
+  },
+  "S63D.Q68": {
+    "0.0": "NO ANSWER",
+    "1.0": "ABOUT ONCE A WEEK",
+    "2.0": "TWO OR MORE TIMES A WEEK",
+    "3.0": "LESS THAN ONCE A MONTH",
+    "4.0": "ABOUT ONCE A MONTH",
+    "5.0": "TWO OR THREE TIMES A MONTH",
+    "6.0": "WE HAVE NEVER BEEN GIVEN ANY TALKS ABOUT WHY WE ARE FIGHTING"
+  },
+  "S63D.Q69": {
+    "0.0": "NO ANSWER",
+    "1.0": "THERE HAVE BEEN TOO MANY TALKS",
+    "2.0": "THERE HAVE BEEN ABOUT THE RIGHT AMOUNT OF TALKS",
+    "3.0": "THERE HAVE BEEN TOO FEW TALKS"
+  },
+  "S63D.Q70": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "WE HAVE NEVER BEEN GIVEN ANY TALKS ABOUT WHY WE ARE FIGHTING"
+  },
+  "S63D.Q71": {
+    "0.0": "NO ANSWER",
+    "1.0": "THEY HELP A LOT",
+    "2.0": "THEY HELP SOMEWHAT",
+    "3.0": "THEY HARDLY HELP AT ALL",
+    "4.0": "WE HAVE NEVER BEEN GIVEN ANY TALKS ABOUT WHY WE ARE FIGHTING"
+  },
+  "S63D.Q72": {
+    "0.0": "NO ANSWER",
+    "1.0": "ABOUT ONCE A WEEK",
+    "2.0": "TWO OR MORE TIMES A WEEK",
+    "3.0": "LESS THAN ONCE A MONTH",
+    "4.0": "ABOUT ONCE A MONTH",
+    "5.0": "TWO OR THREE TIMES A MONTH",
+    "6.0": "I WOULD NOT LIKE TO HEAR ANY TALKS ON WHY WE ARE FIGHTING"
+  },
+  "S63D.Q73": {
+    "0.0": "NO ANSWER",
+    "2.0": "WOULD RATHER HAVE TALKS NOT FOLLOWED BY DISCUSSION",
+    "NaN": "QUESTIONS 74 AND 75 NOT CODED.",
+    "1.0": "WOULD RATHER HAVE TALKS FOLLOWED BY DISCUSSION",
+    "3.0": "IT DOESN'T MAKE ANY DIFFERENCE TO ME"
+  },
+  "S63D.Q76": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT IS ABSOLUTELY NECESSARY",
+    "2.0": "IT IS OF GREAT IMPORTANCE",
+    "3.0": "IT IS OF MEDIUM IMPORTANCE",
+    "4.0": "IT IS OF LITTLE IMPORTANCE",
+    "5.0": "IT IS OF NO IMPORTANCE AT ALL"
+  },
+  "S63D.Q77": {
+    "0.0": "NO ANSWER",
+    "1.0": "EVERY WEEK",
+    "2.0": "LESS THAN ONCE A MONTH",
+    "NaN": "QUESTION 78 NOT CODED.",
+    "3.0": "ONCE OR TWICE A MONTH",
+    "4.0": "I HAVEN'T READ IT SINCE I HAVE BEEN IN THIS CAMP"
+  },
+  "S63D.Q79": {
+    "0.0": "NO ANSWER",
+    "NaN": "QUESTION 80 NOT CODED.",
+    "1.0": "I SUBSCRIBE TO IT BY MAIL",
+    "2.0": "I BUY IT",
+    "3.0": "I READ A FRIEND'S COPY",
+    "4.0": "I GET IT SOME OTHER PLACE",
+    "5.0": "I HAVEN'T READ IT SINCE I HAVE BEEN IN THIS CAMP",
+    "6.0": "BOTH 2 AND 3 CHECKED ABOVE",
+    "7.0": "BOTH 2 AND 4 CHECKED ABOVE",
+    "8.0": "BOTH 3 AND 4 CHECKED ABOVE"
+  },
+  "S63D.Q81": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH",
+    "2.0": "PRETTY MUCH",
+    "3.0": "NOT SO MUCH",
+    "4.0": "NOT AT ALL",
+    "5.0": "I HAVE NEVER READ \"YANK\""
+  },
+  "S63D.Q82": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "DON'T KNOW"
+  },
+  "S63D.Q83": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH INTERESTED",
+    "2.0": "SOMEWHAT INTERESTED",
+    "3.0": "HARDLY INTERESTED AT ALL"
+  },
+  "S63D.Q84": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S63D.Q85": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "LESS THAN A YEAR, OR JUST 1943, OR A TIME NAMED BETWEEN AUGUST 1943, AND JUNE 1944",
+    "2.0": "ONE YEAR (JULY, 1944)",
+    "3.0": "OVER ONE YEAR BUT LESS THAN TWO, OR A TIME NAMED BETWEEN AUGUST 1944, AND JUNE 1945",
+    "4.0": "TWO YEARS (JULY, 1945)",
+    "5.0": "OVER TWO YEARS BUT LESS THAN THREE, OR A TIME NAMED BETWEEN AUGUST 1945, AND JUNE 1946",
+    "6.0": "THREE YEARS (JULY, 1946)",
+    "7.0": "OVER THREE YEARS",
+    "8.0": "INDEFINITE ANSWER INDICATING A SHORT TIME - E.G. \"NOT LONG\"",
+    "9.0": "INDEFINITE ANSWER INDICATING A LONG TIME - E.G. \"SEVERAL YEARS YET\"",
+    "10.0": "INDEFINITE ANSWER WITH NO INDICATION OF TIME - E.G. \"WILL LAST UNTIL WE STOP IT\"",
+    "11.0": "DON'T KNOW, UNDECIDED",
+    "12.0": "NO ANSWER"
+  },
+  "S63D.Q86": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY HARD",
+    "2.0": "PRETTY HARD",
+    "3.0": "PRETTY EASY",
+    "4.0": "VERY EASY"
+  },
+  "S63D.Q87": {
+    "1.0": "LESS THAN A YEAR, OR JUST 1943, OR A TIME NAMED BETWEEN AUGUST 1943, AND JUNE 1944",
+    "2.0": "ONE YEAR (JULY, 1944)",
+    "3.0": "OVER ONE YEAR BUT LESS THAN TWO, OR A TIME NAMED BETWEEN AUGUST 1944, AND JUNE 1945",
+    "4.0": "TWO YEARS (JULY, 1945)",
+    "5.0": "OVER TWO YEARS BUT LESS THAN THREE, OR A TIME NAMED BETWEEN AUGUST 1945, AND JUNE 1946",
+    "6.0": "THREE YEARS (JULY, 1946)",
+    "7.0": "OVER THREE YEARS",
+    "8.0": "INDEFINITE ANSWER INDICATING A SHORT TIME - E.G. \"NOT LONG\"",
+    "9.0": "INDEFINITE ANSWER INDICATING A LONG TIME - E.G. \"SEVERAL YEARS YET\"",
+    "10.0": "INDEFINITE ANSWER WITH NO INDICATION OF TIME - E.G. \"WILL LAST UNTIL WE STOP IT\"",
+    "11.0": "DON'T KNOW, UNDECIDED",
+    "12.0": "NO ANSWER"
+  },
+  "S63D.Q88": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY HARD",
+    "2.0": "PRETTY HARD",
+    "3.0": "PRETTY EASY",
+    "4.0": "VERY EASY"
+  },
+  "S63D.Q89": {
+    "0.0": "NO ANSWER",
+    "1.0": "WHAT ARE OUR ALLIES DOING TO HELP WIN THE WAR",
+    "2.0": "WHAT IS GOING ON HERE AT HOME",
+    "3.0": "WHAT IS GOING ON AT THE FIGHTING FRONTS",
+    "4.0": "WHAT PLANS ARE BEING MADE FOR AFTER THE WAR",
+    "5.0": "WHY ARE WE FIGHTING THIS WAR",
+    "6.0": "MORE THAN ONE CHECKED ABOVE"
+  },
+  "S63D.Q90": {
+    "0.0": "NO ANSWER",
+    "1.0": "WORSE AFTER THE WAR THAN BEFORE THE WAR",
+    "2.0": "SAME AFTER THE WAR AS BEFORE THE WAR",
+    "3.0": "BETTER AFTER THE WAR THAN BEFORE THE WAR",
+    "4.0": "UNDECIDED"
+  },
+  "S63D.Q91": {
+    "0.0": "NO ANSWER",
+    "1.0": "I HAVE A VERY CLEAR IDEA",
+    "2.0": "I HAVE A FAIRLY CLEAR IDEA",
+    "3.0": "I AM NOT SO CLEAR",
+    "4.0": "I AM NOT AT ALL CLEAR"
+  },
+  "S63D.Q92": {
+    "0.0": "NO ANSWER",
+    "2.0": "I WOULD RATHER BE A CIVILIAN DOING SOME KIND OF WORK NEEDED TO WIN THE WAR",
+    "NaN": "QUESTION 93 NOT CODED.",
+    "1.0": "I WOULD RATHER BE A SOLDIER",
+    "3.0": "UNDECIDED"
+  },
+  "S63D.Q94": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED"
+  },
+  "S63D.Q95": {
+    "0.0": "NO CODE OR NO DATA",
+    "NaN": "QUESTION 96 NOT CODED.",
+    "1.0": "1 HOUR",
+    "2.0": "2 HOURS",
+    "3.0": "3",
+    "4.0": "4",
+    "5.0": "5",
+    "6.0": "6",
+    "7.0": "7 OR MORE HOURS",
+    "8.0": "I'M NOT INTERESTED IN GOING TO SUCH A CLASS",
+    "9.0": "OTHER",
+    "10.0": "NONE",
+    "11.0": "NO ANSWER"
+  },
+  "S63D.Q97A": {
+    "0.0": "NO ANSWER",
+    "1.0": "GENERAL MACARTHUR",
+    "2.0": "GENERAL EISENHOWER",
+    "3.0": "GENERAL ARNOLD",
+    "4.0": "GENERAL MARSHALL",
+    "5.0": "DON'T KNOW"
+  },
+  "S63D.Q97B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ARGENTINA",
+    "2.0": "SWEDEN",
+    "3.0": "BRAZIL",
+    "4.0": "TURKEY",
+    "5.0": "DON'T KNOW",
+    "6.0": "NO ANSWER"
+  },
+  "S63D.Q97C": {
+    "0.0": "NO ANSWER",
+    "1.0": "IN THE SOUTH PACIFIC OCEAN",
+    "2.0": "IN THE MEDITERRANEAN SEA",
+    "3.0": "IN THE ATLANTIC OCEAN",
+    "NaN": "COL. 80 NOT USED. CARD 3",
+    "4.0": "IN THE CHINA SEA",
+    "5.0": "DON'T KNOW"
+  },
+  "FORM..2": {
+    "1.0": "S-63A",
+    "2.0": "S-63B",
+    "3.0": "S-63C",
+    "4.0": "S-63D",
+    "5.0": "S-63E",
+    "NaN": "QUESTIONS 98A AND 98B TO BE CODED TOGETHER.",
+    "6.0": "S-63F",
+    "7.0": "S-63G"
+  },
+  "S63D.V100": {
+    "NaN": "CODES NOT PROVIDED BY SURVEY ORGANIZATION. DATA TRANSFERRED AS IS."
+  },
+  "S63D.V101": {
+    "NaN": "CODES NOT PROVIDED BY SURVEY ORGANIZATION. DATA TRANSFERRED AS IS."
+  },
+  "S63D.V103": {
+    "NaN": "CODES NOT PROVIDED BY SURVEY ORGANIZATION. DATA TRANSFERRED AS IS."
+  },
+  "S63D.V104": {
+    "NaN": "CODE OR NO DATA",
+    "63.0": "ANP"
+  },
+  "S63D.V106": {
+    "1.0": "CAMP ADAIR, OR",
+    "2.0": "GOWEN FIELD, ID",
+    "3.0": "HAMILTON FIELD, CA",
+    "4.0": "CAMP ALAMOGORDO, NM",
+    "5.0": "CAMP HAAN, CA",
+    "6.0": "MARCH FIELD, CA",
+    "11.0": "CAMP EDWARDS, MA",
+    "14.0": "FORT DEVENS, MA",
+    "20.0": "DREW FIELD, FL",
+    "21.0": "CAMP MCCAIN, MS",
+    "41.0": "CAMP BLANDING, FL",
+    "45.0": "CAMP CLAIBORNE, LA",
+    "46.0": "CAMP FORREST, TN",
+    "48.0": "CAMP SHELBY, MS",
+    "50.0": "CAMP PHILLIPS, KS",
+    "51.0": "FORT KNOX, KY",
+    "57.0": "CAMP POLK, LA",
+    "58.0": "MUNICIPAL AIRPORT, MEMPHIS, TN",
+    "59.0": "ARMY AIR BASE, NEW ORLEANS, LA",
+    "63.0": "FORT SHERIDAN, IL",
+    "65.0": "FORT BRADY, MI",
+    "66.0": "FORT MEADE, SD",
+    "67.0": "FORT JACKSON, SC",
+    "70.0": "JEFFERSON BARRACKS, MO",
+    "72.0": "FORT LEONARD WOOD, MO",
+    "77.0": "ELLINGTON FIELD, TX",
+    "78.0": "CAMP MAXEY, TX",
+    "79.0": "SHEPPARD FIELD, TX",
+    "89.0": "CAMP BARKELEY, TX",
+    "91.0": "LOWRY FIELD, CO",
+    "95.0": "FORT LEWIS, WA",
+    "99.0": "CAMP ROBERTS, CA"
+  }
+}

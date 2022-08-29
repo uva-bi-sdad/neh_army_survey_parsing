@@ -1,0 +1,1142 @@
+FORMFORM
+        answer_label answer_value raw_counts relative_frequency
+0  FORM B - OFFICERS          4.0        325                1.0
+
+
+
+S234BO.Q1 WHAT IS YOUR ARMY RANK OR GRADE?
+                        answer_label answer_value raw_counts relative_frequency
+0  FLIGHT OFFICER OR WARRANT OFFICER          1.0         13               0.04
+1                  SECOND LIEUTENANT          2.0         84               0.26
+2                   FIRST LIEUTENANT          3.0        150               0.46
+3                            CAPTAIN          4.0         76               0.23
+4                 LIEUTENANT COLONEL          6.0          2               0.01
+
+
+
+S234BO.Q2 HOW LONG HAVE YOU BEEN IN YOUR PRESENT GRADE?
+                 answer_label answer_value raw_counts relative_frequency
+0            6 MONTHS OR LESS          1.0         58               0.18
+1  OVER 6 MONTHS UP TO 1 YEAR          2.0        100               0.31
+2   OVER 1 YEAR UP TO 2 YEARS          3.0         88               0.27
+3                OVER 2 YEARS          4.0         79               0.24
+
+
+
+S234BO.Q3 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+          answer_label answer_value raw_counts relative_frequency
+0  19 YEARS OR YOUNGER          1.0          1                0.0
+1       20 TO 24 YEARS          2.0         93               0.29
+2       25 TO 29 YEARS          3.0        112               0.34
+3       30 TO 34 YEARS          4.0         65                0.2
+4    35 YEARS OR OLDER          5.0         54               0.17
+
+
+
+S234BO.Q4 HOW FAR DID YOU GO IN SCHOOL?
+                          answer_label answer_value raw_counts relative_frequency
+0                   FINISHED 7TH GRADE          3.0          2               0.01
+1                   FINISHED 8TH GRADE          4.0          4               0.01
+2  SOME HIGH SCHOOL BUT DID NOT FINISH          5.0         17               0.05
+3           GRADUATED FROM HIGH SCHOOL          6.0         92               0.28
+4      SOME COLLEGE BUT DID NOT FINISH          7.0        111               0.34
+5               GRADUATED FROM COLLEGE          8.0         99                0.3
+
+
+
+S234BO.Q5 HOW LONG HAVE YOU BEEN IN THE ARMY? E. IF YOU HAVE BEEN IN THE ARMY BEFORE, THEN WERE OUT FOR A WHILE, JUST CHECK THE LENGTH OF TIME SINCE YOU ENTERED THIS LAST TIME. IF YOU WERE IN THE NATIONAL GUARD, CHECK THE LENGTH OF TIME SINCE YOUR OUTFIT CAME INTO
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0          1                0.0
+1            6 MONTHS OR LESS          1.0          2               0.01
+2  OVER 6 MONTHS UP TO 1 YEAR          2.0          1                0.0
+3   OVER 1 YEAR UP TO 2 YEARS          3.0          6               0.02
+4  OVER 2 YEARS UP TO 3 YEARS          4.0         76               0.23
+5  OVER 3 YEARS UP TO 4 YEARS          5.0        143               0.44
+6                OVER 4 YEARS          6.0         96                0.3
+
+
+
+S234BO.Q6 IN WHAT BRANCH OF THE ARMY DID YOU SERVE FOR THE LONGEST PERIOD OF TIME?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0          3               0.01
+1                           ENGINEERS          1.0          6               0.02
+2                     FIELD ARTILLERY          2.0         16               0.05
+3                 QUARTERMASTER CORPS          3.0         53               0.16
+4                            INFANTRY          4.0         47               0.14
+5                  MEDICAL DEPARTMENT          5.0         22               0.07
+6    ARMORED FORCE AND TANK DESTROYER          6.0         37               0.11
+7                        SIGNAL CORPS          7.0          2               0.01
+8   COAST ARTILLERY AND ANTI-AIRCRAFT          8.0          9               0.03
+9                           AIR CORPS          9.0         87               0.27
+10               TRANSPORTATION CORPS         10.0          2               0.01
+11                ORDNANCE DEPARTMENT         11.0          7               0.02
+12           CHEMICAL WARFARE SERVICE         12.0          3               0.01
+13                    MILITARY POLICE         13.0          3               0.01
+14          DEML (STATION COMPLEMENT)         14.0          8               0.02
+15                              OTHER         15.0         20               0.06
+
+
+
+S234BO.Q7 IN WHICH OF THE ARMY FORCES DID YOU SERVE FOR THE LONGEST PERIOD OF TIME?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0          4               0.01
+1      ARMY AIR FORCES          1.0         95               0.29
+2   ARMY GROUND FORCES          2.0        126               0.39
+3  ARMY SERVICE FORCES          3.0        100               0.31
+
+
+
+S234BO.Q8A ARE YOU:
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0          1                0.0
+1                 SINGLE          1.0         90               0.28
+2                MARRIED          2.0        228                0.7
+3  DIVORCED OR SEPARATED          3.0          5               0.02
+4                WIDOWED          4.0          1                0.0
+
+
+
+S234BO.Q8B HOW MANY CHILDREN DO YOU HAVE?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0          3               0.01
+1               HAVE ONE CHILD          1.0         88               0.27
+2            HAVE TWO CHILDREN          2.0         16               0.05
+3  HAVE THREE OR MORE CHILDREN          3.0          8               0.02
+4             HAVE NO CHILDREN          4.0        122               0.38
+5              I'M NOT MARRIED          5.0         88               0.27
+
+
+
+S234BO.Q10A HAVE YOU SERVED OUTSIDE THE CONTINENTAL UNITED STATES IN THIS WAR?
+  answer_label answer_value raw_counts relative_frequency
+0          YES          1.0        184               0.57
+1           NO          2.0        141               0.43
+
+
+
+S234BO.Q10B IF YES, HOW LONG DID YOU SERVE OVERSEAS?
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0        139               0.43
+1            6 MONTHS OR LESS          1.0         18               0.06
+2  OVER 6 MONTHS UP TO 1 YEAR          2.0         71               0.22
+3   OVER 1 YEAR UP TO 2 YEARS          3.0         71               0.22
+4  OVER 2 YEARS UP TO 3 YEARS          4.0         19               0.06
+5                OVER 3 YEARS          5.0          7               0.02
+
+
+
+S234BO.Q10C IF YES, HAVE YOU BEEN IN ACTUAL COMBAT IN THIS WAR?
+                                                  answer_label answer_value raw_counts relative_frequency
+0                                                    NO ANSWER          0.0        129                0.4
+1                            YES, I HAVE BEEN IN ACTUAL COMBAT          1.0        105               0.32
+2  YES, I HAVE BEEN UNDER ENEMY FIRE, BUT NOT IN ACTUAL COMBAT          2.0         33                0.1
+3                                                           NO          3.0         58               0.18
+
+
+
+S234BO.Q13 HAS THE ARMY AT ANY TIME CLASSIFIED YOU AS A LIMITED SERVICE MAN?
+                                                                     answer_label answer_value raw_counts relative_frequency
+0                            YES, I WAS CLASSIFIED AS LIMITED SERVICE BY THE ARMY          1.0         40               0.12
+1                       NO, I WAS NEVER CLASSIFIED AS LIMITED SERVICE BY THE ARMY          2.0        280               0.86
+2  I DON'T KNOW WHETHER THE ARMY HAS EVER CLASSIFIED ME AS LIMITED SERVICE OR NOT          3.0          5               0.02
+
+
+
+S234BO.Q14A AS FAR AS YOU KNOW, ARE YOU NOW CLASSIFIED BY THE ARMY AS PHYSICALLY FIT FOR OVERSEAS DUTY?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0          2               0.01
+1           YES          1.0        296               0.91
+2            NO          2.0         19               0.06
+3  I DON'T KNOW          3.0          8               0.02
+
+
+
+S234BO.Q14B IN YOUR OWN OPINION, ARE YOU PHYSICALLY FIT FOR OVERSEAS DUTY?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          2               0.01
+1          YES          1.0        283               0.87
+2           NO          2.0         24               0.07
+3    UNDECIDED          3.0         16               0.05
+
+
+
+S234BO.Q15 IN GENERAL, WHAT SORT OF PHYSICAL CONDITION WOULD YOU SAY YOU ARE IN AT THE PRESENT TIME?
+                   answer_label answer_value raw_counts relative_frequency
+0  VERY GOOD PHYSICAL CONDITION          1.0        124               0.38
+1       GOOD PHYSICAL CONDITION          2.0        145               0.45
+2       FAIR PHYSICAL CONDITION          3.0         54               0.17
+3       POOR PHYSICAL CONDITION          4.0          2               0.01
+
+
+
+S234BO.Q17 WHERE WERE YOU LIVING MOST OF THE LAST FIVE YEARS OF YOUR CIVILIAN LIFE BEFORE YOU CAME INTO THE ARMY?
+                                           answer_label answer_value raw_counts relative_frequency
+0                                             NO ANSWER          0.0          2               0.01
+1                                             ON A FARM          1.0         15               0.05
+2                      IN THE COUNTRY BUT NOT ON A FARM          2.0          8               0.02
+3             IN A VILLAGE WITH FEWER THAN 2,500 PEOPLE          3.0         25               0.08
+4  IN A SMALL CITY WITH BETWEEN 2,500 AND 25,000 PEOPLE          4.0         83               0.26
+5      IN A CITY WITH BETWEEN 25,000 AND 100,000 PEOPLE          5.0         62               0.19
+6         IN A LARGE CITY WITH MORE THAN 100,000 PEOPLE          6.0        130                0.4
+
+
+
+S234BO.Q18 WHICH OF THE FOLLOWING WERE YOU DOING JUST BEFORE YOU CAME INTO THE ARMY? (CHECK AS MANY AS YOU WERE DOING JUST BEFORE YOU CAME INTO THE ARMY.)
+                                                         answer_label answer_value raw_counts relative_frequency
+0                                                           NO ANSWER          0.0          3               0.01
+1  WORKING FULL-TIME FOR AN EMPLOYER, FOR SALARY, WAGES OR COMMISSION          1.0        183               0.56
+2                                GOING TO FULL-TIME SCHOOL OR COLLEGE          2.0         60               0.18
+3                   FARMING (EITHER WITH YOUR FAMILY OR FOR YOURSELF)          3.0          2               0.01
+4   HAD MY OWN BUSINESS (DID NOT RECEIVE SALARY, WAGES OR COMMISSION)          4.0         15               0.05
+5                                                   LOOKING FOR A JOB          5.0          1                0.0
+6                                   WORKING PART-TIME FOR AN EMPLOYER          6.0          4               0.01
+7                                GOING TO PART-TIME SCHOOL OR COLLEGE          7.0          4               0.01
+8                                           I WAS IN THE REGULAR ARMY          9.0         21               0.06
+9                                                       DOUBLE CHECKS         10.0         32                0.1
+
+
+
+S234BO.Q20 WHETHER YOU ARE A CHURCH MEMBER OR NOT, DO YOU CONSIDER YOURSELF:
+                                         answer_label answer_value raw_counts relative_frequency
+0                                           NO ANSWER          0.0          2               0.01
+1                                            CATHOLIC          1.0         72               0.22
+2                                              JEWISH          2.0         13               0.04
+3  PROTESTANT (FOR EXAMPLE, BAPTIST, METHODIST, ETC.)          3.0        238               0.73
+
+
+
+S234BO.Qi21 IN GENERAL, WHAT DO YOU THINK OF THE ARMY SCORE CARD PLAN (THE POINT SYSTEM)?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0          3               0.01
+1                      IT IS VERY GOOD          1.0         76               0.23
+2                    IT IS FAIRLY GOOD          2.0        174               0.54
+3                    IT IS NOT SO GOOD          3.0         54               0.17
+4                IT IS NOT GOOD AT ALL          4.0         16               0.05
+5  I DON'T KNOW ENOUGH ABOUT IT TO SAY          5.0          2               0.01
+
+
+
+S234BO.Qi22 IN YOUR OPINION, IS THE ARMY SCORE CARD PLAN (THE POINT SYSTEM) BEING CARRIED OUT THE WAY IT WAS SUPPOSED TO BE?
+                                                              answer_label answer_value raw_counts relative_frequency
+0                                                                NO ANSWER          0.0          3               0.01
+1       YES, I THINK IT IS BEING CARRIED OUT THE WAY IT WAS SUPPOSED TO BE          1.0        185               0.57
+2  NO, I DON'T THINK IT IS BEING CARRIED OUT THE WAY IT WAS SUPPOSED TO BE          2.0        123               0.38
+3                                I DON'T KNOW ENOUGH ABOUT THE PLAN TO SAY          3.0         14               0.04
+
+
+
+S234BO.Qi23 HERE ARE FOUR STATEMENTS OF OPINION ABOUT THE POINT SYSTEM. CHECK THE ONE WHICH COMES CLOSEST TO YOUR OPINION.
+                                                                         answer_label answer_value raw_counts relative_frequency
+0                                                                           NO ANSWER          0.0          8               0.02
+1       THE POINT SYSTEM ITSELF WAS A GOOD IDEA, AND THE ARMY IS CARRYING IT OUT WELL          1.0        146               0.45
+2      THE POINT SYSTEM ITSELF WAS A GOOD IDEA, BUT THE ARMY IS CARRYING IT OUT BADLY          2.0         99                0.3
+3   THE POINT SYSTEM ITSELF WAS NOT A GOOD IDEA, BUT THE ARMY IS CARRYING IT OUT WELL          3.0         38               0.12
+4  THE POINT SYSTEM ITSELF WAS NOT A GOOD IDEA, AND THE ARMY IS CARRYING IT OUT BADLY          4.0         21               0.06
+5                                                 I DON'T KNOW ENOUGH ABOUT IT TO SAY          5.0         13               0.04
+
+
+
+S234BO.Qi24 IN YOUR OPINION, HOW HARD IS THE ARMY TRYING TO SPEED UP THE DISCHARGE OF ENLISTED MEN?
+                                   answer_label answer_value raw_counts relative_frequency
+0                                     NO ANSWER          0.0          7               0.02
+1                   THE ARMY IS TRYING ITS BEST          1.0        197               0.61
+2  THE ARMY IS TRYING SOME, BUT NOT HARD ENOUGH          2.0        113               0.35
+3              THE ARMY IS HARDLY TRYING AT ALL          3.0          8               0.02
+
+
+
+S234BO.Qi25 HAVE YOU HEARD OR READ ANYTHING ABOUT THE POSSIBILITY OF THE FOLLOWING CHANGE BEING MADE IN THE ARMY SCORE CARD PLAN - ALL ENLISTED MEN WITH TWO YEARS OR MORE SERVICE TO BE DISCHARGED IN THE NEAR FUTURE, REGARDLESS OF HOW MANY POINTS THEY HAVE?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0          6               0.02
+1            YES, I HAVE HEARD OF THIS          1.0        224               0.69
+2  NO, I HAVE NOT HEARD OF THIS BEFORE          2.0         80               0.25
+3                            UNDECIDED          3.0         15               0.05
+
+
+
+S234BO.Qi26 AS FAR AS YOU KNOW, DOES THE ARMY AIR FORCES HAVE EXACTLY THE SAME DISCHARGE PLAN AS THE GROUND AND SERVICE FORCES?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         16               0.05
+1          YES          1.0        108               0.33
+2           NO          2.0        201               0.62
+
+
+
+S234BO.Qi27 IN THE FUTURE, DO YOU THINK EVERY ABLE-BODIED YOUNG MAN SHOULD BE REQUIRED TO TAKE MILITARY OR NAVAL TRAINING FOR ONE YEAR?
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0                                                                                                                       YES          1.0        274               0.84
+1                                                                                                                        NO          2.0         40               0.12
+2  NO OPINION \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*PART II\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*          3.0         11               0.03
+
+
+
+S234BO.Qii1 "TOO MANY ARMY RULES AND REGULATIONS ARE UNNECESSARY"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          6               0.02
+1        AGREE          1.0        220               0.68
+2     DISAGREE          2.0         99                0.3
+
+
+
+S234BO.Qii2 "PROMOTION IN THE ARMY IS BASED ON WHO YOU KNOW AND NOT WHAT YOU KNOW"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         10               0.03
+1        AGREE          1.0        194                0.6
+2     DISAGREE          2.0        121               0.37
+
+
+
+S234BO.Qii3 "IT IS WRONG FOR A SOLDIER TO ,GOLDBRICK, IF IT MAKES MORE WORK FOR THE REST OF THE MEN"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          4               0.01
+1        AGREE          1.0        308               0.95
+2     DISAGREE          2.0         13               0.04
+
+
+
+S234BO.Qii4 "THE LONGER A MAN STAYS IN THE FIGHTING, THE BETTER HE BECOMES AS A COMBAT SOLDIER"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         18               0.06
+1        AGREE          1.0         92               0.28
+2     DISAGREE          2.0        215               0.66
+
+
+
+S234BO.Qii5 "IT IS ALL RIGHT FOR A SOLDIER TO BREAK ARMY RULES AND REGULATIONS IF HE DOESN'T GET CAUGHT"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          3               0.01
+1        AGREE          1.0         12               0.04
+2     DISAGREE          2.0        310               0.95
+
+
+
+S234BO.Qii6 "ON THE WHOLE, I THINK THE ARMY HAS HELPED ME MORE THAN IT HAS HURT ME"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          4               0.01
+1        AGREE          1.0        261                0.8
+2     DISAGREE          2.0         60               0.18
+
+
+
+S234BO.Qii7 "THE AIR FORCE HAS RECEIVED TOO GREAT A SHARE OF CREDIT FROM THE PUBLIC"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          6               0.02
+1        AGREE          1.0        185               0.57
+2     DISAGREE          2.0        134               0.41
+
+
+
+S234BO.Qii8 "THERE IS TOO MUCH FAVORITISM AND POLITICS IN THE ARMY"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         11               0.03
+1        AGREE          1.0        265               0.82
+2     DISAGREE          2.0         49               0.15
+
+
+
+S234BO.Qii9 "TOO MUCH TIME IS WASTED IN THE ARMY, WAITING AROUND AND DOING NOTHING"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          4               0.01
+1        AGREE          1.0        267               0.82
+2     DISAGREE          2.0         54               0.17
+
+
+
+S234BO.Qii10 "THE ARMY WOULD BE A LOT BETTER IF OFFICERS AND ENLISTED MEN WERE MORE FRIENDLY WITH EACH OTHER"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         10               0.03
+1        AGREE          1.0        123               0.38
+2     DISAGREE          2.0        192               0.59
+
+
+
+S234BO.Qii11 "DISCIPLINE IN THE ARMY IS TOO STRICT AND A LOT OF IT IS UNNECESSARY"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          5               0.02
+1        AGREE          1.0         57               0.18
+2     DISAGREE          2.0        263               0.81
+
+
+
+S234BO.Qii12 "THE ARMY SHOULD HOLD MORE MILITARY PARADES AND CEREMONIES"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          4               0.01
+1        AGREE          1.0         76               0.23
+2     DISAGREE          2.0        245               0.75
+
+
+
+S234BO.Qii13 "ON THE WHOLE, THE ARMY HAS NOT AWARDED DECORATIONS FAIRLY"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         15               0.05
+1        AGREE          1.0        180               0.55
+2     DISAGREE          2.0        130                0.4
+
+
+
+S234BO.Qii14 "MILITARY COURTESY BUILDS UP A SOLDIER'S RESPECT FOR HIS OFFICERS"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          5               0.02
+1        AGREE          1.0        247               0.76
+2     DISAGREE          2.0         73               0.22
+
+
+
+S234BO.Qii15 "THE LONGER A MAN HAS BEEN IN COMBAT, THE MORE PRIDE HE HAS IN HIS OUTFIT"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         23               0.07
+1        AGREE          1.0        251               0.77
+2     DISAGREE          2.0         51               0.16
+
+
+
+S234BO.Qii16 "FEW OFFICERS TAKE UNFAIR ADVANTAGE OF THEIR RANK AND PRIVILEGES"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          5               0.02
+1        AGREE          1.0        240               0.74
+2     DISAGREE          2.0         80               0.25
+
+
+
+S234BO.Qii17 "MOST SOLDIERS DO NOT LOSE RESPECT FOR A MAN WHO IS ALWAYS BUCKING FOR PROMOTION"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         10               0.03
+1        AGREE          1.0         98                0.3
+2     DISAGREE          2.0        217               0.67
+
+
+
+S234BO.Qii18 "SOLDIERS SHOULD NOT BE GIVEN UNNECESSARY WORK TO DO, EVEN IF THEY HAVE NOTHING ELSE TO DO"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          4               0.01
+1        AGREE          1.0        229                0.7
+2     DISAGREE          2.0         92               0.28
+
+
+
+S234BO.Qii19 "TRAINING IN MILITARY COURTESY IS OF LITTLE USE TO A COMBAT SOLDIER"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          6               0.02
+1        AGREE          1.0         46               0.14
+2     DISAGREE          2.0        273               0.84
+
+
+
+S234BO.Qii20 "AN ENLISTED MAN IS USUALLY MORE CONCERNED WITH WHAT THE OTHER ENLISTED MEN IN HIS OUTFIT THINK OF HIM THAN WITH WHAT HIS OFFICERS THINK"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         20               0.06
+1        AGREE          1.0        253               0.78
+2     DISAGREE          2.0         52               0.16
+
+
+
+S234BO.Qii21 "YOU CAN TRUST THE ARMY TO KEEP A PROMISE"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         10               0.03
+1        AGREE          1.0         94               0.29
+2     DISAGREE          2.0        221               0.68
+
+
+
+S234BO.Qii22 "THE ARMY IS NOT TOO UNDEMOCRATIC"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         12               0.04
+1        AGREE          1.0        198               0.61
+2     DISAGREE          2.0        115               0.35
+
+
+
+S234BO.Qii23 "MOST MP'S TREAT SOLDIERS FAIRLY"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          8               0.02
+1        AGREE          1.0        285               0.88
+2     DISAGREE          2.0         32                0.1
+
+
+
+S234BO.Qii24 "I'D RATHER HAVE A LOUSY JOB IN A GOOD OUTFIT THAN A GOOD JOB IN A LOUSY OUTFIT"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         11               0.03
+1        AGREE          1.0        252               0.78
+2     DISAGREE          2.0         62               0.19
+
+
+
+S234BO.Qii25 "THE ARMY PLACES TOO MUCH IMPORTANCE ON 'SPIT AND POLISH'"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          6               0.02
+1        AGREE          1.0        129                0.4
+2     DISAGREE          2.0        190               0.58
+
+
+
+S234BO.Qii26 "MY EXPERIENCES IN THE ARMY HAVE PUT ME IN BETTER HEALTH"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          5               0.02
+1        AGREE          1.0        187               0.58
+2     DISAGREE          2.0        133               0.41
+
+
+
+S234BO.Qii27 "MY EXPERIENCES IN THE ARMY HAVE GIVEN ME A LOT OF GOOD HABITS"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         10               0.03
+1        AGREE          1.0        177               0.54
+2     DISAGREE          2.0        138               0.42
+
+
+
+S234BO.Qii28 "ONCE A MAN IS IN COMBAT, THE MAIN THING THAT KEEPS HIM FIGHTING IS HIS OWN PRIDE OR SELF-RESPECT"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         43               0.13
+1        AGREE          1.0        180               0.55
+2     DISAGREE          2.0        102               0.31
+
+
+
+S234BO.Qii29 "MOST OFFICERS PUT THEIR OWN WELFARE ABOVE THE WELFARE OF THEIR ENLISTED MEN"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          9               0.03
+1        AGREE          1.0        101               0.31
+2     DISAGREE          2.0        215               0.66
+
+
+
+S234BO.Qii30 "MOST SOLDIERS USUALLY WORK JUST HARD ENOUGH TO GET BY"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          6               0.02
+1        AGREE          1.0        241               0.74
+2     DISAGREE          2.0         78               0.24
+
+
+
+S234BO.Qii31 "MOST SOLDIERS LOSE RESPECT FOR A MAN WHO IS 'TOO GI'"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          8               0.02
+1        AGREE          1.0        167               0.51
+2     DISAGREE          2.0        150               0.46
+
+
+
+S234BO.Qii32 "MOST SOLDIERS DO NOT GET A KICK OUT OF GIVING A SNAPPY SALUTE"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          9               0.03
+1        AGREE          1.0        170               0.52
+2     DISAGREE          2.0        146               0.45
+
+
+
+S234BO.Qii33 "MOST CIVILIANS APPRECIATE THE JOB THE SOLDIERS HAVE DONE"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          6               0.02
+1        AGREE          1.0        179               0.55
+2     DISAGREE          2.0        140               0.43
+
+
+
+S234BO.Qii34 "I AM MORE RELIGIOUS THAN WHEN I FIRST ENTERED THE ARMY"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         11               0.03
+1        AGREE          1.0         77               0.24
+2     DISAGREE          2.0        237               0.73
+
+
+
+S234BO.Qii35 "MOST MEN WHO WERE UNDER ENEMY FIRE IN THIS WAR DO NOT RESENT THE SOLDIERS WHO DID NOT SEE ACTION"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         21               0.06
+1        AGREE          1.0        163                0.5
+2     DISAGREE          2.0        141               0.43
+
+
+
+S234BO.Qii36 "MY EXPERIENCES IN THE ARMY HAVE MADE ME MORE NERVOUS AND RESTLESS"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         10               0.03
+1        AGREE          1.0        145               0.45
+2     DISAGREE          2.0        170               0.52
+
+
+
+S234BO.Qii37 "THE ARMY HAS GIVEN ME A SQUARE DEAL"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         10               0.03
+1        AGREE          1.0        240               0.74
+2     DISAGREE          2.0         75               0.23
+
+
+
+S234BO.Qii38 "PATRIOTIC FEELING IS THE THING THAT HELPS MOST TO KEEP A SOLDIER IN THE FIGHT WHEN THE GOING GETS TOUGH"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         26               0.08
+1        AGREE          1.0         74               0.23
+2     DISAGREE          2.0        225               0.69
+
+
+
+S234BO.Qii39 "IT IS GOOD TRAINING TO KEEP SOLDIERS IN THE DARK ABOUT THE REASONS FOR ORDERS SO THAT THEY GET USED TO UNQUESTIONING OBEDIENCE"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          6               0.02
+1        AGREE          1.0         46               0.14
+2     DISAGREE          2.0        273               0.84
+
+
+
+S234BO.Qii40 "MOST SOLDIERS HAVE AN EASY TIME GETTING USED TO ARMY LIFE"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          4               0.01
+1        AGREE          1.0        168               0.52
+2     DISAGREE          2.0        153               0.47
+
+
+
+S234BO.Qii41 "I MYSELF HAD AN EASY TIME GETTING USED TO ARMY LIFE"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          3               0.01
+1        AGREE          1.0        254               0.78
+2     DISAGREE          2.0         68               0.21
+
+
+
+S234BO.Qii42 "AFTER A MAN HAS BEEN IN COMBAT A LONG TIME, HE COMES TO THINK MORE ABOUT THE OTHER FELLOWS IN THE OUTFIT AND LESS ABOUT HIS OWN SAFETY"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         48               0.15
+1        AGREE          1.0        188               0.58
+2     DISAGREE          2.0         89               0.27
+
+
+
+S234BO.Qii43 "THE MAIN REASON MOST SOLDIERS OBEY ARMY RULES AND REGULATIONS IS BECAUSE THEY REALLY WANT TO AND NOT BECAUSE THEY HAVE TO"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          4               0.01
+1        AGREE          1.0        101               0.31
+2     DISAGREE          2.0        220               0.68
+
+
+
+S234BO.Qii44 "THE ARMY TRIES ITS BEST TO PRAISE AND AWARD THE SOLDIER WHO DOES AN EXCEPTIONALLY GOOD JOB"
+       answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER CARD 2          0.0         10               0.03
+1             AGREE          1.0        185               0.57
+2          DISAGREE          2.0        130                0.4
+
+
+
+FORM..1FORM.
+        answer_label answer_value raw_counts relative_frequency
+0  FORM B - OFFICERS          4.0        325                1.0
+
+
+
+S234BO.Qii45 "STRICT DISCIPLINE DURING TRAINING DOES NOT MAKE A MAN A BETTER SOLDIER DURING COMBAT"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         12               0.04
+1        AGREE          1.0         33                0.1
+2     DISAGREE          2.0        280               0.86
+
+
+
+S234BO.Qii46 "THE MAIN THING THAT KEEPS A SOLDIER GOING IN COMBAT IS THE FEELING THAT HE CAN'T LET THE OTHER MEN DOWN"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         37               0.11
+1        AGREE          1.0        216               0.66
+2     DISAGREE          2.0         72               0.22
+
+
+
+S234BO.Qii47 "MOST OFFICERS DO NOT KNOW OR HAVE FORGOTTEN HOW IT FEELS TO BE AN ENLISTED MAN"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          9               0.03
+1        AGREE          1.0        150               0.46
+2     DISAGREE          2.0        166               0.51
+
+
+
+S234BO.Qii48 "THE ARMY HAS NOT DONE ITS BEST TO LOOK OUT FOR THE WELFARE OF THE ENLISTED MEN"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          4               0.01
+1        AGREE          1.0        115               0.35
+2     DISAGREE          2.0        206               0.63
+
+
+
+S234BO.Qii49 "MOST ENLISTED MEN DO NOT RESPECT THEIR OFFICERS"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         10               0.03
+1        AGREE          1.0         83               0.26
+2     DISAGREE          2.0        232               0.71
+
+
+
+S234BO.Qii50 "I MYSELF DO NOT RESPECT MY OFFICERS"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         35               0.11
+1        AGREE          1.0         38               0.12
+2     DISAGREE          2.0        252               0.78
+
+
+
+S234BO.Qii51 "THE ARMY ENCOURAGES A SOLDIER TO THINK FOR HIMSELF"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          8               0.02
+1        AGREE          1.0        151               0.46
+2     DISAGREE          2.0        166               0.51
+
+
+
+S234BO.Qii52 "MOST OFFICERS ARE MORE INTERESTED IN DOING A GOOD JOB THAN IN GETTING PROMOTED"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          9               0.03
+1        AGREE          1.0        120               0.37
+2     DISAGREE          2.0        196                0.6
+
+
+
+S234BO.Qii53 "MOST SOLDIERS LOSE RESPECT FOR A MAN WHO IS ALWAYS TRYING TO GOLDBRICK"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          3               0.01
+1        AGREE          1.0        309               0.95
+2     DISAGREE          2.0         13               0.04
+
+
+
+S234BO.Qii54 "THE INFANTRY DID NOT RECEIVE ITS FAIR SHARE OF CREDIT FROM THE PUBLIC"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          6               0.02
+1        AGREE          1.0        219               0.67
+2     DISAGREE          2.0        100               0.31
+
+
+
+S234BO.Qii55 "MOST ENLISTED MEN HAVE A LOT OF RESPECT FOR THE OLD REGULAR ARMY MAN"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          6               0.02
+1        AGREE          1.0        169               0.52
+2     DISAGREE          2.0        150               0.46
+
+
+
+S234BO.Qii56 "THERE IS NO WAY ENLISTED MEN CAN SHOW A GOOD OFFICER HOW MUCH THEY APPRECIATE HIM"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          4               0.01
+1        AGREE          1.0         25               0.08
+2     DISAGREE          2.0        296               0.91
+
+
+
+S234BO.Qii57 "SOLDIERS WHO PILFER (STEAL) SUPPLIES SHOULD NOT BE SEVERELY PUNISHED"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          4               0.01
+1        AGREE          1.0         21               0.06
+2     DISAGREE          2.0        300               0.92
+
+
+
+S234BO.Qiii58 "MY EXPERIENCES IN THE ARMY HAVE MADE ME MORE PATIENT, CONSIDERATE AND BETTER ABLE TO WORK WITH OTHER MEN"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          6               0.02
+1        AGREE          1.0        267               0.82
+2     DISAGREE          2.0         52               0.16
+
+
+
+S234BO.Qii59 "STRICT GARRISON DISCIPLINE IS A GOOD THING FOR A MAN WHO HAS JUST COME OUT OF COMBAT"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         19               0.06
+1        AGREE          1.0         46               0.14
+2     DISAGREE          2.0        260                0.8
+
+
+
+S234BO.Qii60 "PROMOTIONS IN THE ARMY ARE NOT TOO SLOW"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         11               0.03
+1        AGREE          1.0        125               0.38
+2     DISAGREE          2.0        189               0.58
+
+
+
+S234BO.Qii61 "MY EXPERIENCES IN THE ARMY HAVE MADE ME MORE SELF- CONFIDENT AND SURE OF MYSELF"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          3               0.01
+1        AGREE          1.0        272               0.84
+2     DISAGREE          2.0         50               0.15
+
+
+
+S234BO.Qii62 "AN OFFICER WILL LOSE THE RESPECT OF HIS MEN IF HE PALS AROUND WITH THEM OFF-DUTY"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          5               0.02
+1        AGREE          1.0        191               0.59
+2     DISAGREE          2.0        129                0.4
+
+
+
+S234BO.Qii63 "IT IS ALL RIGHT FOR A SOLDIER TO GOLDBRICK, IF HE DOESN'T GET CAUGHT"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          5               0.02
+1        AGREE          1.0         12               0.04
+2     DISAGREE          2.0        308               0.95
+
+
+
+S234BO.Qii64 "THE ARMY DOES NOT PLACE TOO MUCH IMPORTANCE UPON MILITARY COURTESY"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          9               0.03
+1        AGREE          1.0        168               0.52
+2     DISAGREE          2.0        148               0.46
+
+
+
+S234BO.Qii65 "MOST ENLISTED MEN IN THE ARMY ARE MORE INTERESTED IN DOING A GOOD JOB THAN IN PROMOTIONS"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         13               0.04
+1        AGREE          1.0        109               0.34
+2     DISAGREE          2.0        203               0.62
+
+
+
+S234BO.Qii67 "THE ARMY HAS TRIED ITS BEST TO KEEP ENLISTED MEN INFORMED ABOUT WHAT WAS GOING TO HAPPEN TO THEM"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          6               0.02
+1        AGREE          1.0        199               0.61
+2     DISAGREE          2.0        120               0.37
+
+
+
+S234BO.Qii68 "WHEN A COMBAT SOLDIER IS TRANSFERRED TO A NONCOMBAT OUTFIT, IT DOESN'T MAKE MUCH DIFFERENCE TO HIM WHETHER HE IS ALLOWED TO WEAR THE SHOULDER PATCH OF HIS OLD DIVISION OR NOT"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         11               0.03
+1        AGREE          1.0          8               0.02
+2     DISAGREE          2.0        306               0.94
+
+
+
+S234BO.Qii69 "WHILE THE BATTLE IS GOING ON, IT IS VERY EASY TO TELL HOW WELL A MAN PERFORMS AS A COMBAT SOLDIER"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         54               0.17
+1        AGREE          1.0        198               0.61
+2     DISAGREE          2.0         73               0.22
+
+
+
+S234BO.Qii70 "IT DOESN'T DO MUCH GOOD TO SEE THE CHAPLAIN IF A SOLDIER FEELS HE IS GETTING A RAW DEAL"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         19               0.06
+1        AGREE          1.0        121               0.37
+2     DISAGREE          2.0        185               0.57
+
+
+
+S234BO.Qii71 "MOST SOLDIERS DON'T GIVE A DAMN WHAT THE REST OF THE MEN IN THEIR OUTFIT THINK OF THEM"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          4               0.01
+1        AGREE          1.0         16               0.05
+2     DISAGREE          2.0        305               0.94
+
+
+
+S234BO.Qii72 "WHEN A SOLDIER IS IN COMBAT, THE THREAT OF ARMY PUNISHMENT IS ENOUGH BY ITSELF TO KEEP HIM FIGHTING"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         26               0.08
+1        AGREE          1.0         32                0.1
+2     DISAGREE          2.0        267               0.82
+
+
+
+S234BO.Qii73 "IT'S EASY FOR AN ENLISTED MAN TO TAKE A COMPLAINT TO THE INSPECTOR-GENERAL (AIR INSPECTOR)"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         17               0.05
+1        AGREE          1.0        165               0.51
+2     DISAGREE          2.0        143               0.44
+
+
+
+S234BO.Qii74 "IT IS MORE IMPORTANT FOR AN ENLISTED MAN TO BE ON GOOD TERMS WITH HIS OFFICERS THAN WITH HIS NON-COMS"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          8               0.02
+1        AGREE          1.0         19               0.06
+2     DISAGREE          2.0        298               0.92
+
+
+
+S234BO.Qii75 "MY EXPERIENCES IN THE ARMY HAVE DECREASED MY FAITH IN GOD"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         18               0.06
+1        AGREE          1.0         21               0.06
+2     DISAGREE          2.0        286               0.88
+
+
+
+S234BO.Qii76 "WHEN A REPLACEMENT COMES INTO AN OUTFIT DURING COMBAT, THE VETERANS USUALLY TRY TO HELP HIM OUT ALL THEY CAN"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         47               0.14
+1        AGREE          1.0        254               0.78
+2     DISAGREE          2.0         24               0.07
+
+
+
+S234BO.Qii77 "THERE ARE LOTS OF WAYS ENLISTED MEN CAN GET EVEN WITH OFFICERS WHO DON'T TREAT THEM RIGHT"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         14               0.04
+1        AGREE          1.0        211               0.65
+2     DISAGREE          2.0        100               0.31
+
+
+
+S234BO.Qii78 "MY EXPERIENCES IN THE ARMY HAVE MADE ME MORE BITTER AND CYNICAL"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         11               0.03
+1        AGREE          1.0         93               0.29
+2     DISAGREE          2.0        221               0.68
+
+
+
+S234BO.Qii79 "MOST CIVILIANS THINK THAT IF YOU'RE ONLY A PRIVATE OR PRIVATE FIRST CLASS, IT'S BECAUSE YOU WEREN'T GOOD ENOUGH TO GET A RATING"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          9               0.03
+1        AGREE          1.0        255               0.78
+2     DISAGREE          2.0         61               0.19
+
+
+
+S234BO.Qii80 "MOST SOLDIERS THINK THAT IF YOU'RE ONLY A PRIVATE OR PRIVATE FIRST CLASS, IT'S BECAUSE YOU WEREN'T GOOD ENOUGH TO GET A RATING"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          7               0.02
+1        AGREE          1.0         77               0.24
+2     DISAGREE          2.0        241               0.74
+
+
+
+S234BO.Qii81 "I AM NOT GOING TO MISS THE OLD GANG OF FELLOWS IN MY OUTFIT WHEN I LEAVE THE ARMY"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          6               0.02
+1        AGREE          1.0         60               0.18
+2     DISAGREE          2.0        259                0.8
+
+
+
+S234BO.Qii82 "I GET ANGRY LESS QUICKLY NOW THAN I DID BEFORE I CAME INTO THE ARMY"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          8               0.02
+1        AGREE          1.0        170               0.52
+2     DISAGREE          2.0        147               0.45
+
+
+
+S234BO.Qii83 "MOST OF THE TIME I FELT THAT IT MADE A LOT OF DIFFERENCE WHETHER I DID MY ARMY JOB WELL OR NOT"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          4               0.01
+1        AGREE          1.0        293                0.9
+2     DISAGREE          2.0         28               0.09
+
+
+
+S234BO.Qii84 "MOST SOLDIERS FEEL GUILTY ABOUT SOME OF THE THINGS THEY DID WHILE IN THE ARMY"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         15               0.05
+1        AGREE          1.0        166               0.51
+2     DISAGREE          2.0        144               0.44
+
+
+
+S234BO.Qii85 "WHEN THE ARMY SAYS IT WILL DO SOMETHING THAT THE MEN WANT, MOST OF THE TIME IT ENDS UP BY REALLY DOING IT"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          9               0.03
+1        AGREE          1.0        195                0.6
+2     DISAGREE          2.0        121               0.37
+
+
+
+S234BO.Qii86 "A SOLDIER WHO HAS SEEN A LOT OF THE WAR HAS A RIGHT TO GET SORE WHENEVER HE IS ANNOYED BY A PERSON WHO DIDN'T GO THROUGH WHAT HE DID"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         19               0.06
+1        AGREE          1.0         91               0.28
+2     DISAGREE          2.0        215               0.66
+
+
+
+S234BO.Qii87 "I DO NOT DRINK ANY MORE NOW THAN I DID BEFORE I ENTERED THE ARMY"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          4               0.01
+1        AGREE          1.0        176               0.54
+2     DISAGREE          2.0        145               0.45
+
+
+
+S234BO.Qii88 "IN THE ARMY IT'S BEST TO DO YOUR JOB THE WAY YOU'RE TOLD, EVEN IF YOU KNOW THERE IS A BETTER WAY TO DO IT?"
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*PART III\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*          0.0          4               0.01
+1                                                                                                                     AGREE          1.0        239               0.74
+2                                                                                                                  DISAGREE          2.0         82               0.25
+
+
+
+S234BO.Qiii1 IN GENERAL, HOW DO YOU THINK MOST NON-COMS TEND TO LOOK AT THINGS - FROM THE OFFICER'S POINT OF VIEW OR THE ENLISTED MAN'S POINT OF VIEW?
+                            answer_label answer_value raw_counts relative_frequency
+0                              NO ANSWER          0.0          7               0.02
+1       FROM THE OFFICER'S POINT OF VIEW          1.0         98                0.3
+2  FROM THE ENLISTED MAN'S POINT OF VIEW          2.0        220               0.68
+
+
+
+S234BO.Qiii2 WHICH OF THE FOLLOWING KINDS OF OUTFITS WOULD YOU PERSONALLY PREFER TO BE IN?
+                                     answer_label answer_value raw_counts relative_frequency
+0                                       NO ANSWER          0.0         18               0.06
+1  AN OUTFIT WITH GOOD NON-COMS BUT POOR OFFICERS          1.0        151               0.46
+2  AN OUTFIT WITH GOOD OFFICERS BUT POOR NON-COMS          2.0        156               0.48
+
+
+
+S234BO.Qiii3 IF WHILE THE WAR WAS ON A SISTER OR GIRL FRIEND OF YOUR'S WAS THINKING OF JOINING THE WAC'S, WOULD YOU HAVE ADVISED HER TO JOIN OR NOT TO JOIN?
+                           answer_label answer_value raw_counts relative_frequency
+0                             NO ANSWER          0.0          4               0.01
+1      I WOULD HAVE ADVISED HER TO JOIN          1.0         39               0.12
+2  I WOULD HAVE ADVISED HER NOT TO JOIN          2.0        252               0.78
+3                             UNDECIDED          3.0         30               0.09
+
+
+
+S234BO.Qiii4 IF A SISTER OR GIRL FRIEND OF YOUR'S WAS A NURSE AND WHILE THE WAR WAS ON WAS THINKING OF JOINING THE ARMY NURSES CORPS, WOULD YOU HAVE ADVISED HER TO JOIN OR NOT TO JOIN?
+                           answer_label answer_value raw_counts relative_frequency
+0                             NO ANSWER          0.0          3               0.01
+1      I WOULD HAVE ADVISED HER TO JOIN          1.0        201               0.62
+2  I WOULD HAVE ADVISED HER NOT TO JOIN          2.0         94               0.29
+3                             UNDECIDED          3.0         27               0.08
+
+
+
+S234BO.Qiii5 DO YOU APPROVE OR DISAPPROVE OF HAVING THE U.S. GOVERNMENT SPEND MONEY ON TELLING PEOPLE IN OTHER COUNTRIES WHAT THE UNITED STATES IS LIKE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         33                0.1
+1          YES          1.0        194                0.6
+2           NO          2.0         70               0.22
+3   DON'T KNOW          3.0         28               0.09
+
+
+
+S234BO.Qiii6 AT THE PRESENT TIME, DO YOU THINK MOST OF THE PEOPLE OF ENGLAND HAVE A REASONABLY FULL AND FAIR PICTURE OF THE UNITED STATES?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          4               0.01
+1          YES          1.0        100               0.31
+2           NO          2.0        193               0.59
+3   DON'T KNOW          3.0         28               0.09
+
+
+
+S234BO.Qiii7 AT THE PRESENT TIME, DO YOU THINK MOST OF THE PEOPLE OF RUSSIA HAVE A REASONABLY FULL AND FAIR PICTURE OF THE UNITED STATES?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          4               0.01
+1          YES          1.0         27               0.08
+2           NO          2.0        270               0.83
+3   DON'T KNOW          3.0         24               0.07
+
+
+
+S234BO.Qiii8 IF YOU HAVE SERVED OVERSEAS, IN WHAT THEATER OR AREA DID YOU SERVE FOR THE LONGEST PERIOD OF TIME?
+                                             answer_label answer_value raw_counts relative_frequency
+0                                             OTHER PLACE          0.0         10               0.03
+1       EUROPEAN THEATER (BRITISH ISLES, FRANCE, GERMANY)          1.0        118               0.36
+2             MEDITERRANEAN THEATER (ITALY, NORTH AFRICA)          2.0         24               0.07
+3                                       ALASKA, ALEUTIANS          3.0          7               0.02
+4  PACIFIC THEATER (HAWAII, AUSTRALIA, PHILIPPINES, ETC.)          4.0         19               0.06
+5                                I DID NOT SERVE OVERSEAS          5.0        125               0.38
+6                                               NO ANSWER          6.0         22               0.07
+
+
+
+S234BO.Viii9F NEUROPSYCHIATRIC INVENTORY SCORE: E. DERIVED FROM QUESTIONS 9A-9E.
+           answer_label answer_value raw_counts relative_frequency
+0   ORIGINAL SCORE OF 0          0.0          8               0.02
+1   ORIGINAL SCORE OF 1          1.0          1                0.0
+2   ORIGINAL SCORE OF 2          2.0          2               0.01
+3   ORIGINAL SCORE OF 3          3.0          4               0.01
+4   ORIGINAL SCORE OF 4          4.0         16               0.05
+5   ORIGINAL SCORE OF 5          5.0         31                0.1
+6   ORIGINAL SCORE OF 6          6.0         40               0.12
+7   ORIGINAL SCORE OF 7          7.0         64                0.2
+8   ORIGINAL SCORE OF 8          8.0         61               0.19
+9   ORIGINAL SCORE OF 9          9.0         54               0.17
+10  ORIGINAL SCORE OF X         10.0         44               0.14
+
+
+
+S234BO.Qiiii1 HAVE YOU EVER BEEN PUNISHED FOR BREAKING AN ARMY RULE OR REGULATION?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0          3               0.01
+1  YES, SEVERAL TIMES          1.0         24               0.07
+2           YES, ONCE          2.0         54               0.17
+3           NO, NEVER          3.0        244               0.75
+
+
+
+S234BO.Qiiii4 HAVE YOU EVER BEEN COURT-MARTIALED?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          3               0.01
+1    YES, ONCE          2.0          6               0.02
+2    NO, NEVER          3.0        316               0.97
+
+
+
+S234BO.Qiiii6 HAVE YOU RECEIVED ANY MILITARY AWARDS, CITATIONS, DECORATIONS, ETC.?
+                                                     answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER I. ANSWER QUESTIONS 7-10 ONLY IF YOU ARE AN OFFICER:          0.0          9               0.03
+1                                                             YES          1.0        164                0.5
+2                                                              NO          2.0        152               0.47
+
+
+
+S234BO.Qiiii7 HOW MUCH ACTIVE DUTY DID YOU SEE AS AN ENLISTED MAN JUST PRIOR TO RECEIVING YOUR COMMISSION OR WARRANT (INCLUDING OCS)?
+                                                              answer_label answer_value raw_counts relative_frequency
+0                                                                NO ANSWER          0.0         11               0.03
+1                                                         6 MONTHS OR LESS          1.0         32                0.1
+2                                               OVER 6 MONTHS UP TO 1 YEAR          2.0         71               0.22
+3                                                OVER 1 YEAR UP TO 2 YEARS          3.0         82               0.25
+4                                                             OVER 2 YEARS          4.0         77               0.24
+5  WAS NOT ON ACTIVE DUTY AS AN ENLISTED MAN PRIOR TO RECEIVING COMMISSION          5.0         52               0.16
+
+
+
+S234BO.Qiiii8 IN WHICH OF THE FOLLOWING COMPONENTS DO YOU HOLD YOUR COMMISSION?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0          4               0.01
+1               REGULAR ARMY          1.0          1                0.0
+2     OFFICERS RESERVE CORPS          3.0         68               0.21
+3  ARMY OF THE UNITED STATES          4.0        252               0.78
+
+
+
+S234BO.Qiiii9 HOW DID YOU RECEIVE YOUR COMMISSION?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0          7               0.02
+1             FROM OFFICER CANDIDATE SCHOOL          1.0        179               0.55
+2  FROM PILOT-BOMBARDIER-NAVIGATOR TRAINING          2.0         52               0.16
+3                         FROM ROTC OR CMTC          3.0         29               0.09
+4                 DIRECT FROM CIVILIAN LIFE          4.0         16               0.05
+5               DIRECT FROM ENLISTED STATUS          5.0         30               0.09
+6                            SOME OTHER WAY          6.0         12               0.04
+
+
+
+S234BO.Qiiii10 WHAT WAS YOUR MAIN ARMY JOB - A STAFF OR LINE ASSIGNMENT?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         11               0.03
+1        STAFF          1.0        104               0.32
+2         LINE          2.0        179               0.55
+3        OTHER          3.0         31                0.1
+
+
+
+S234BO.Viiii11 CAMP AND FORCE IDENTIFICATION:
+                                        answer_label answer_value raw_counts relative_frequency
+0                                 NO CODE OR NO DATA          0.0          1                0.0
+1                    CHANUTE FIELD - ARMY AIR FORCES          1.0         65                0.2
+2  CAMP CAMPBELL - ARMY GROUND FORCES - 5TH DIVISION          2.0         56               0.17
+3     CAMP CAMPBELL - ARMY SERVICE FORCES - 1580 SCU          3.0         25               0.08
+4     FT. KNOX - ARMY GROUND FORCES - ARMORED SCHOOL          4.0         51               0.16
+5                     FT. KNOX - ARMY SERVICE FORCES          5.0         30               0.09
+6            CAMP LEE - ARMY SERVICES FORCES - ASFTC          6.0         70               0.22
+7       MITCHELL FIELD - ARMY AIR FORCES - X SECTION          7.0         27               0.08
+
+
+

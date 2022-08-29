@@ -1,0 +1,539 @@
+FORMFORM
+  answer_label answer_value raw_counts relative_frequency
+0       S-192A          1.0        532                1.0
+
+
+
+S192A.Q1 WHAT IS YOUR PRESENT GRADE?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0          9               0.02
+1  SECOND LIEUTENANT          1.0        341               0.64
+2   FIRST LIEUTENANT          2.0        163               0.31
+3  CAPTAIN OR HIGHER          3.0         19               0.04
+
+
+
+S192A.Q2 HOW MANY MONTHS HAVE YOU BEEN IN YOUR PRESENT GRADE?  ANP
+    answer_label answer_value raw_counts relative_frequency
+0      NO ANSWER          0.0         12               0.02
+1  1 MONTH . . .          1.0          8               0.02
+
+
+
+S192A.Q3 HOW LONG HAVE YOU BEEN IN THE ARMY?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0          9               0.02
+1   6 MONTHS TO 12 MONTHS          2.0         36               0.07
+2  12 MONTHS TO 18 MONTHS          3.0         23               0.04
+3  18 MONTHS TO 24 MONTHS          4.0         80               0.15
+4  24 MONTHS TO 36 MONTHS          5.0        164               0.31
+5          OVER 36 MONTHS          6.0        220               0.41
+
+
+
+S192A.Q4 HOW LONG HAVE YOU BEEN OVERSEAS IN THE ARMY? (COUNT FROM THE TIME YOU SAILED FROM THE MAINLAND.)
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0          9               0.02
+1      LESS THAN 6 MONTHS          1.0         52                0.1
+2   6 MONTHS TO 12 MONTHS          2.0         33               0.06
+3  12 MONTHS TO 18 MONTHS          3.0        147               0.28
+4  18 MONTHS TO 24 MONTHS          4.0         82               0.15
+5  24 MONTHS TO 30 MONTHS          5.0         10               0.02
+6  30 MONTHS TO 36 MONTHS          6.0        160                0.3
+7          OVER 36 MONTHS          7.0         39               0.07
+
+
+
+S192A.Q5 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+       answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER          0.0          9               0.02
+1    UNDER 25 YEARS          1.0         89               0.17
+2    25 TO 29 YEARS          2.0        230               0.43
+3  30 YEARS OR MORE          3.0        204               0.38
+
+
+
+S192A.Q6 IN GENERAL, WHAT SORT OF TIME DO YOU HAVE IN THE ARMY?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         12               0.02
+1    I HAVE A PRETTY GOOD TIME          1.0        299               0.56
+2       IT'S ABOUT FIFTY-FIFTY          2.0        209               0.39
+3  I HAVE A PRETTY ROTTEN TIME          3.0         12               0.02
+
+
+
+S192A.Q7 ON THE WHOLE, HOW DO YOU FEEL ABOUT THE ARMY?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0          4               0.01
+1     I LIKE THE ARMY VERY MUCH          1.0        138               0.26
+2         I LIKE IT FAIRLY WELL          2.0        305               0.57
+3           I RATHER DISLIKE IT          3.0         64               0.12
+4  I DISLIKE THE ARMY VERY MUCH          4.0         21               0.04
+
+
+
+S192A.Q8 ON THE WHOLE, HOW IS THE MORALE OF THE NURSES IN YOUR HOSPITAL OR ORGANIZATION?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          2                0.0
+1    VERY HIGH          1.0         30               0.06
+2  FAIRLY HIGH          2.0        218               0.41
+3   JUST SO-SO          3.0        158                0.3
+4   FAIRLY LOW          4.0         80               0.15
+5     VERY LOW          5.0         44               0.08
+
+
+
+S192A.Q9 IN GENERAL, HOW WOULD YOU SAY YOU FEEL MOST OF THE TIME, IN GOOD SPIRITS OR IN LOW SPIRITS?
+                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                  NO ANSWER          0.0          1                0.0
+1                                               I AM USUALLY IN GOOD SPIRITS          1.0        276               0.52
+2  I AM IN GOOD SPIRITS SOME OF THE TIME AND IN LOW SPIRITS SOME OF THE TIME          2.0        240               0.45
+3                                                I AM USUALLY IN LOW SPIRITS          3.0         15               0.03
+
+
+
+S192A.Q10 IN GENERAL, DO YOU THINK THE ARMY HAS TRIED ITS BEST TO SEE THAT NURSES GET AS SQUARE A DEAL AS POSSIBLE?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0          7               0.01
+1              YES, IT HAS TRIED ITS BEST          1.0        111               0.21
+2  IT HAS TRIED SOME, BUT NOT HARD ENOUGH          2.0        368               0.69
+3              IT HAS HARDLY TRIED AT ALL          3.0         46               0.09
+
+
+
+S192A.Q11 IN GENERAL, DO YOU FEEL THAT YOU YOURSELF HAVE GOTTEN A SQUARE DEAL FROM THE ARMY?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                         NO ANSWER          0.0          2                0.0
+1                          YES, IN MOST WAYS I HAVE          1.0        305               0.57
+2              IN SOME WAYS, YES, IN OTHER WAYS, NO          2.0        186               0.35
+3  NO, ON THE WHOLE I HAVE NOT GOTTEN A SQUARE DEAL          3.0         39               0.07
+
+
+
+S192A.Q12 IF YOU HAD IT TO DO OVER AGAIN, WOULD YOU JOIN THE ARMY OR NOT?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0          5               0.01
+1  YES, I WOULD JOIN IF I HAD IT TO DO OVER          1.0        351               0.66
+2                           NO, I WOULD NOT          2.0         97               0.18
+3                                 UNDECIDED          3.0         79               0.15
+
+
+
+S192A.Q13 HOW DID YOU COME INTO THE ARMY?
+                                              answer_label answer_value raw_counts relative_frequency
+0                                                NO ANSWER          0.0          4               0.01
+1  I HAD BEEN IN THE RESERVE AND WAS CALLED TO ACTIVE DUTY          1.0        114               0.21
+2  I VOLUNTEERED FOR ACTIVE DUTY DIRECT FROM CIVILIAN LIFE          2.0        398               0.75
+3                                           SOME OTHER WAY          3.0         16               0.03
+
+
+
+S192A.Q14 DO YOU FEEL THAT YOU WERE "HIGH-PRESSURED" INTO JOINING THE ARMY?
+                                     answer_label answer_value raw_counts relative_frequency
+0                                       NO ANSWER          0.0          5               0.01
+1  YES, I WAS DEFINITELY "HIGH-PRESSURED" INTO IT          1.0          8               0.02
+2                                   NO, I WAS NOT          2.0        423                0.8
+3       THERE WAS SOME PRESSURE, BUT NOT TOO MUCH          3.0         96               0.18
+
+
+
+S192A.Q15 HOW DOES LIFE AS AN ARMY NURSE COMPARE WITH WHAT YOU THOUGHT IT WOULD BE LIKE BEFORE YOU JOINED THE ANC?
+                                               answer_label answer_value raw_counts relative_frequency
+0                                                 NO ANSWER          0.0         18               0.03
+1  I LIKE BEING AN ARMY NURSE BETTER THAN I THOUGHT I WOULD          1.0         95               0.18
+2                    IT IS ABOUT WHAT I THOUGHT IT WOULD BE          2.0        290               0.55
+3             I DO NOT LIKE IT AS WELL AS I THOUGHT I WOULD          3.0        129               0.24
+
+
+
+S192A.Q16 SUPPOSE YOU HAD A FRIEND WHO WAS A TRAINED NURSE AND WHO WAS CONSIDERING JOINING THE ARMY. IF SHE WROTE OR ASKED YOU FOR ADVICE WHAT WOULD YOU PROBABLY TELL HER TO DO?
+                              answer_label answer_value raw_counts relative_frequency
+0                                NO ANSWER          0.0         50               0.09
+1        I'D DEFINITELY ADVISE HER TO JOIN          1.0         75               0.14
+2      I PROBABLY WOULD ADVISE HER TO JOIN          2.0        227               0.43
+3  I PROBABLY WOULD ADVISE HER NOT TO JOIN          3.0        120               0.23
+4    I'D DEFINITELY ADVISE HER NOT TO JOIN          4.0         60               0.11
+
+
+
+S192A.Q17 DO YOU THINK YOU MIGHT WANT TO STAY IN THE ARMY FOR A CAREER AFTER THE WAR?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0          2                0.0
+1             YES, I THINK I WILL WANT TO          1.0         50               0.09
+2  YES, I MIGHT WANT TO, BUT I'M NOT SURE          2.0        110               0.21
+3           NO, I DON'T THINK I'D WANT TO          3.0        157                0.3
+4          NO, I WOULD NOT WANT TO AT ALL          4.0        213                0.4
+
+
+
+S192A.Q18 DO YOU THINK YOU MIGHT WANT TO STAY IN THE ARMY FOR A YEAR OR TWO AFTER THE WAR?
+                            answer_label answer_value raw_counts relative_frequency
+0                              NO ANSWER          0.0          3               0.01
+1            YES, I THINK I WILL WANT TO          1.0         94               0.18
+2  YES, I MIGHT WANT TO BUT I'M NOT SURE          2.0        123               0.23
+3          NO, I DON'T THINK I'D WANT TO          3.0        139               0.26
+4         NO, I WOULD NOT WANT TO AT ALL          4.0        173               0.33
+
+
+
+S192A.Q19 REGARDLESS OF WHETHER YOU STAY IN THE ARMY OR NOT, DO YOU THINK YOU WILL STAY IN NURSING FOR A CAREER AFTER THE WAR?
+                                        answer_label answer_value raw_counts relative_frequency
+0                                          NO ANSWER          0.0          3               0.01
+1  I DEFINITELY PLAN TO STAY IN NURSING FOR A CAREER          1.0        120               0.23
+2                 I PROBABLY WILL, BUT I AM NOT SURE          2.0        185               0.35
+3                                I PROBABLY WILL NOT          3.0        131               0.25
+4           I DEFINITELY PLAN NOT TO STAY IN NURSING          4.0         93               0.17
+
+
+
+S192A.Q20 DO YOU USUALLY THINK OF YOURSELF AS BEING AN OFFICER AS WELL AS A NURSE, OR DO YOU THINK OF YOURSELF JUST AS BEING A NURSE?
+                                                     answer_label answer_value raw_counts relative_frequency
+0                                                       NO ANSWER          0.0          4               0.01
+1  USUALLY THINK OF MYSELF AS A NURSE, BUT NOT AS AN ARMY OFFICER          1.0        340               0.64
+2  USUALLY THINK OF MYSELF AS BEING AN OFFICER AS WELL AS A NURSE          2.0        188               0.35
+
+
+
+S192A.Q21 DO YOU FEEL THAT THE ARMY IN GENERAL ACCEPTS NURSES AS BEING ON A PAR WITH OTHER OFFICERS OF EQUAL GRADE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          9               0.02
+1          YES          1.0         84               0.16
+2           NO          2.0        439               0.83
+
+
+
+S192A.Q22 IN YOUR OPINION, HOW DO NURSES PRIVILEGES COMPARE WITH THE PRIVILEGES ENJOYED BY MALE ARMY OFFICERS OF THE SAME GRADE?
+                                                       answer_label answer_value raw_counts relative_frequency
+0                                                         NO ANSWER          0.0         13               0.02
+1     NURSES HAVE MORE PRIVILEGES THAN MALE OFFICERS OF EQUAL GRADE          1.0         29               0.05
+2                               BOTH HAVE ABOUT THE SAME PRIVILEGES          2.0        170               0.32
+3  MALE OFFICERS HAVE MORE PRIVILEGES THAN NURSES OF THE SAME GRADE          3.0        320                0.6
+
+
+
+S192A.Q23 DO YOU FEEL THAT NURSES, PERSONAL AND SOCIAL LIFE IS SUBJECT TO TOO MUCH UNNECESSARY SUPERVISION AND RESTRICTION FROM COMMAND SOURCES?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0          8               0.02
+1      YES, MUCH TOO MUCH          1.0        128               0.24
+2  YES, A LITTLE TOO MUCH          2.0        266                0.5
+3                      NO          3.0        130               0.24
+
+
+
+S192A.Q24 DO YOU FEEL THAT YOU ARE DISCRIMINATED AGAINST IN THE ARMY BECAUSE OF YOUR SEX?
+       answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER          0.0         15               0.03
+1  YES, QUITE A LOT          1.0         58               0.11
+2     YES, A LITTLE          2.0        196               0.37
+3    NO, NOT AT ALL          3.0        263               0.49
+
+
+
+S192A.Q25 HOW SATISFIED ARE YOU ABOUT BEING ON YOUR PRESENT JOB OR DUTY INSTEAD OF SOME OTHER JOB OR DUTY?
+                            answer_label answer_value raw_counts relative_frequency
+0                              NO ANSWER          0.0         13               0.02
+1                         VERY SATISFIED          1.0        105                0.2
+2                              SATISFIED          2.0        224               0.42
+3                      VERY DISSATISFIED          3.0         23               0.04
+4                           DISSATISFIED          4.0         86               0.16
+5  IT DOES NOT MAKE ANY DIFFERENCE TO ME          5.0         81               0.15
+
+
+
+S192A.Q26 HOW DO YOU FEEL ABOUT THE AMOUNT OF WORK YOU USUALLY HAVE TO DO?
+                                                            answer_label answer_value raw_counts relative_frequency
+0                                                              NO ANSWER          0.0         12               0.02
+1                     I HAVE TOO MUCH TO DO, BUT MOST OF IT IS NECESSARY          1.0         38               0.07
+2                  I HAVE TOO MUCH TO DO, AND A LOT OF IT IS UNNECESSARY          2.0         21               0.04
+3                            I HAVE ABOUT THE RIGHT AMOUNT OF WORK TO DO          3.0        349               0.66
+4               I AM NOT KEPT VERY BUSY, BUT I DON'T MIND SITTING AROUND          4.0          4               0.01
+5  I DON'T HAVE ENOUGH TO DO, AND IT GETS PRETTY TIRESOME SITTING AROUND          5.0        108                0.2
+
+
+
+S192A.Q27 WHAT SORT OF DUTY WERE YOU DOING JUST BEFORE YOU CAME INTO THE ARMY?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0         10               0.02
+1  IN TRAINING IN NURSING SCHOOL          1.0         29               0.05
+2   ON DUTY IN CIVILIAN HOSPITAL          2.0        294               0.55
+3        ON PRIVATE NURSING DUTY          3.0        114               0.21
+4              SOME OTHER ANSWER          4.0         85               0.16
+
+
+
+S192A.Q28 HOW DO YOU FEEL ABOUT THE AMOUNT OF WORK YOU HAVE TO DO NOW IN COMPARISON WITH THE AMOUNT OF WORK YOU DID ON YOUR LAST CIVILIAN DUTY?
+                                    answer_label answer_value raw_counts relative_frequency
+0                                      NO ANSWER          0.0         10               0.02
+1                         I WORK MUCH HARDER NOW          1.0         30               0.06
+2                     I WORK SOMEWHAT HARDER NOW          2.0         44               0.08
+3                           IT IS ABOUT THE SAME          3.0        130               0.24
+4  I WORKED SOMEWHAT HARDER ON THE CIVILIAN DUTY          4.0        141               0.27
+5      I WORKED MUCH HARDER ON THE CIVILIAN DUTY          5.0        177               0.33
+
+
+
+S192A.Q29 IF IT WHERE UP TO YOU TO CHOOSE, WOULD YOU RATHER BE STATIONED IN A HOSPITAL ON OAHU IN THE HAWAIIAN ISLANDS OR IN A HOSPITAL ON A FORWARD, BUT SECURE, ISLAND SUCH AS SAIPAN?
+    answer_label answer_value raw_counts relative_frequency
+0      NO ANSWER          0.0         43               0.08
+1    PREFER OAHU          1.0        252               0.47
+2  PREFER SAIPAN          2.0        237               0.45
+
+
+
+S192A.Q30 IF IT WERE UP TO YOU TO DECIDE ARMY POLICY ON THIS, WOULD YOU HAVE NURSES IN ARMY HOSPITALS OVERSEAS OR WOULD YOU HAVE ALL THE WORK DONE BY TRAINED ENLISTED MEN? TRY TO FORGET YOUR OWN PERSONAL FEELINGS ON THIS AND ANSWER ACCORDING TO WHAT YOU THINK WOUL
+                                   answer_label answer_value raw_counts relative_frequency
+0                                     NO ANSWER          0.0         13               0.02
+1             HAVE BOTH NURSES AND ENLISTED MEN          1.0        455               0.86
+2  HAVE TRAINED ENLISTED MEN ONLY AND NO NURSES          2.0         45               0.08
+3                                     UNDECIDED          3.0         19               0.04
+
+
+
+S192A.Q31 IN YOUR OPINION, WHICH OF THESE WOULD BE THE BEST POLICY IN REGARD TO SENDING NURSES INTO COMBAT AREAS IN THE PACIFIC?
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0                                                                                                                 NO ANSWER          0.0          8               0.02
+1  SEND NURSES INTO COMBAT AREAS WHEN THEIR HOSPITALS GO IN, NO MATTER HOW DANGEROUS IT IS OR WHAT THE LIVING CONDITIONS MA          1.0        112               0.21
+2   SEND NURSES INTO COMBAT AREAS AS SOON AS HOSPITALS HAVE BEEN WELL SET-UP AND REASONABLY SAFE AREAS ESTABLISHED, BUT NOT          2.0        324               0.61
+3                                                                       DO NOT SEND NURSES INTO AREAS WHERE THERE IS COMBAT          3.0         88               0.17
+
+
+
+S192A.Q32 HOW DO YOU PERSONALLY FEEL ABOUT GOING INTO COMBAT AREAS?
+                                                            answer_label answer_value raw_counts relative_frequency
+0                                                              NO ANSWER          0.0         12               0.02
+1                             I WANT VERY MUCH TO NURSE IN A COMBAT AREA          1.0        102               0.19
+2  I AM READY AND WILLING TO GO INTO A COMBAT AREA ANYTIME I MAY BE SENT          2.0        314               0.59
+3                          I HOPE I DO NOT HAVE TO GO INTO A COMBAT AREA          3.0        104                0.2
+
+
+
+S192A.Q33 WHAT SORT OF WORKING RELATIONSHIPS DO YOU HAVE WITH THE MEDICAL OFFICERS ON DUTY IN YOUR WARD OR SECTION?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0          8               0.02
+1      VERY SATISFACTORY          1.0        350               0.66
+2    FAIRLY SATISFACTORY          2.0        146               0.27
+3             JUST SO-SO          3.0         17               0.03
+4  NOT VERY SATISFACTORY          4.0         11               0.02
+
+
+
+S192A.Q34 WHAT SORT OF WORKING RELATIONSHIPS DO YOU HAVE WITH THE ENLISTED MEN ON DUTY IN YOUR WARD OR SECTION?
+              answer_label answer_value raw_counts relative_frequency
+0                NO ANSWER          0.0          6               0.01
+1        VERY SATISFACTORY          1.0        354               0.67
+2      FAIRLY SATISFACTORY          2.0        150               0.28
+3               JUST SO-SO          3.0         12               0.02
+4    NOT VERY SATISFACTORY          4.0          8               0.02
+5  NOT SATISFACTORY AT ALL          5.0          2                0.0
+
+
+
+S192A.Q35 IS THERE A CLEAR UNDERSTANDING IN YOUR WARD OR SECTION AMONG THE DOCTORS, THE ENLISTED DUTY PERSONNEL AND THE NURSES AS TO JUST WHAT YOUR DUTIES ARE AND WHAT AUTHORITY YOU HAVE?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0          7               0.01
+1  YES, THESE THINGS ARE CLEARLY UNDERSTOOD          1.0        401               0.75
+2     NO, BUT THE WORK GOES SMOOTHLY ANYWAY          2.0         88               0.17
+3  NO, AND THE WORK SUFFERS BECAUSE OF THIS          3.0         36               0.07
+
+
+
+S192A.Q36 ARE YOU GIVEN AS MUCH AUTHORITY OVER MEDICAL ENLISTED MEN IN THE HOSPITAL AS YOU NEED IN ORDER TO DO YOUR JOB PROPERLY?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         10               0.02
+1          YES          1.0        435               0.82
+2           NO          2.0         87               0.16
+
+
+
+S192A.Q37 DO YOU FEEL THAT THE MEDICAL AND MAC OFFICERS HERE BACK YOU UP PROPERLY IN THE EXERCISE OF YOUR AUTHORITY OVER MEDICAL ENLISTED MEN AND PATIENTS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         23               0.04
+1          YES          1.0        368               0.69
+2           NO          2.0        141               0.27
+
+
+
+S192A.Q38 ARE ORDERS WHICH SHOULD BE GIVEN TO YOU DIRECTLY EVER RELAYED TO YOU THROUGH THE WARDMASTER OR OTHER ENLISTED MEN?
+                                answer_label answer_value raw_counts relative_frequency
+0                                  NO ANSWER          0.0          9               0.02
+1                           IT HAPPENS OFTEN          1.0         78               0.15
+2  IT HAPPENS ONCE IN A WHILE, BUT NOT OFTEN          2.0        331               0.62
+3                     NO, THIS NEVER HAPPENS          3.0        114               0.21
+
+
+
+S192A.Q39 HOW WOULD YOU RATE THE MEDICAL CARE AND TREATMENT WHICH PATIENTS IN THIS HOSPITAL RECEIVE FROM MEDICAL OFFICERS?
+    answer_label answer_value raw_counts relative_frequency
+0      NO ANSWER          0.0          8               0.02
+1      VERY GOOD          1.0        340               0.64
+2    FAIRLY GOOD          2.0        159                0.3
+3     JUST SO-SO          3.0         20               0.04
+4  NOT VERY GOOD          4.0          5               0.01
+
+
+
+S192A.Q40 HOW MANY OF THE MEDICAL OFFICERS IN THIS HOSPITAL TAKE A FRIENDLY PERSONAL INTEREST IN THEIR PATIENTS?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0         22               0.04
+1         ALL OF THEM          1.0         50               0.09
+2        MOST OF THEM          2.0        306               0.58
+3  ABOUT HALF OF THEM          3.0         84               0.16
+4         FEW OF THEM          4.0         66               0.12
+5        NONE OF THEM          5.0          4               0.01
+
+
+
+S192A.Q41 HOW DO YOU FEEL ABOUT THE LENGTH OF TIME PATIENTS ARE USUALLY KEPT IN ARMY HOSPITALS?
+                                  answer_label answer_value raw_counts relative_frequency
+0                                    NO ANSWER          0.0         22               0.04
+1            USUALLY KEPT IN HOSPITAL TOO LONG          1.0        243               0.46
+2  USUALLY KEPT ABOUT THE RIGHT LENGTH OF TIME          2.0        261               0.49
+3                 USUALLY NOT KEPT LONG ENOUGH          3.0          6               0.01
+
+
+
+S192A.Q42 IN YOUR OPINION, HOW MANY OF THE MEDICAL ENLISTED MEN IN THIS HOSPITAL ARE AS WELL TRAINED AS THEY SHOULD BE IN ORDER TO DO THEIR JOBS PROPERLY?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0         15               0.03
+1         ALL OF THEM          1.0          6               0.01
+2        MOST OF THEM          2.0        170               0.32
+3  ABOUT HALF OF THEM          3.0        218               0.41
+4         FEW OF THEM          4.0        121               0.23
+5        NONE OF THEM          5.0          2                0.0
+
+
+
+S192A.Q43 FROM WHAT YOU HAVE SEEN, DO YOU THINK PROMOTIONS USUALLY GO TO THE NURSES WHO DESERVE THEM MOST?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0          6               0.01
+1        ALMOST ALWAYS          1.0         28               0.05
+2              USUALLY          2.0        142               0.27
+3  ABOUT HALF THE TIME          3.0        214                0.4
+4          USUALLY NOT          4.0        108                0.2
+5         ALMOST NEVER          5.0         34               0.06
+
+
+
+S192A.Q44 DO YOU THINK YOUR PRESENT ASSIGNMENT GIVES YOU A FAIR CHANCE OF PROMOTION?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         18               0.03
+1          YES          1.0        115               0.22
+2           NO          2.0        235               0.44
+3   DON'T KNOW          3.0        164               0.31
+
+
+
+S192A.Q45 IS YOUR MESS AS GOOD AS COULD REASONABLY BE EXPECTED UNDER THE CIRCUMSTANCES?
+                        answer_label answer_value raw_counts relative_frequency
+0                          NO ANSWER          0.0          4               0.01
+1  YES, AS GOOD AS COULD BE EXPECTED          1.0        364               0.68
+2        NO, IT COULD BE SOME BETTER          2.0        101               0.19
+3       NO, IT COULD BE A LOT BETTER          3.0         63               0.12
+
+
+
+S192A.Q46 ARE YOUR QUARTERS AND LIVING CONDITIONS AS GOOD AS COULD REASONABLY BE EXPECTED UNDER THE CIRCUMSTANCES?
+                        answer_label answer_value raw_counts relative_frequency
+0                          NO ANSWER          0.0          6               0.01
+1  YES, AS GOOD AS COULD BE EXPECTED          1.0        372                0.7
+2      NO, THEY COULD BE SOME BETTER          2.0         98               0.18
+3     NO, THEY COULD BE A LOT BETTER          3.0         56               0.11
+
+
+
+S192A.Q47 IS YOUR LAUNDRY SERVICE AS GOOD AS COULD REASONABLY BE EXPECTED UNDER THE CIRCUMSTANCES?
+                        answer_label answer_value raw_counts relative_frequency
+0                          NO ANSWER          0.0          5               0.01
+1  YES, AS GOOD AS COULD BE EXPECTED          1.0        368               0.69
+2        NO, IT COULD BE SOME BETTER          2.0        118               0.22
+3       NO, IT COULD BE A LOT BETTER          3.0         41               0.08
+
+
+
+S192A.Q48 ARE THE STOCKS OF ARTICLES FOR WOMEN AT THE LOCAL PX AS GOOD AS COULD REASONABLY BE EXPECTED UNDER THE CIRCUMSTANCES?
+                        answer_label answer_value raw_counts relative_frequency
+0                          NO ANSWER          0.0          7               0.01
+1  YES, AS GOOD AS COULD BE EXPECTED          1.0        214                0.4
+2      NO, THEY COULD BE SOME BETTER          2.0        193               0.36
+3     NO, THEY COULD BE A LOT BETTER          3.0        118               0.22
+
+
+
+S192A.Q49 DO YOU GET AS MUCH TIME OFF AS COULD REASONABLY BE EXPECTED UNDER THE CIRCUMSTANCES?
+                           answer_label answer_value raw_counts relative_frequency
+0                             NO ANSWER          0.0          8               0.02
+1     YES, AS MUCH AS COULD BE EXPECTED          1.0        457               0.86
+2   NO, WE COULD GET SOME MORE TIME OFF          2.0         58               0.11
+3  NO, WE COULD GET A LOT MORE TIME OFF          3.0          9               0.02
+
+
+
+S192A.Q50 HAVE YOU EVER SPENT TIME OFF AT THE HOUSE FOR NURSES AT FORT DERUSSY?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         45               0.08
+1          YES          1.0        210               0.39
+2           NO          2.0        277               0.52
+
+
+
+S192A.Q51 WHAT DO YOU THINK OF THIS TYPE OF REST AND RECREATION FACILITY FOR NURSES?
+                            answer_label answer_value raw_counts relative_frequency
+0                              NO ANSWER          0.0         69               0.13
+1                      LIKE IT VERY MUCH          1.0        178               0.33
+2                    LIKE IT FAIRLY WELL          2.0         76               0.14
+3            DO NOT PARTICULARLY LIKE IT          3.0         43               0.08
+4                  DO NOT LIKE IT AT ALL          4.0         21               0.04
+5  DO NOT KNOW ENOUGH ABOUT IT TO ANSWER          5.0        145               0.27
+
+
+
+S192A.Q52A WHERE WOULD YOU PREFER TO HAVE SUCH A RECREATION CENTER LOCATED, SOMEWHERE NEAR HONOLULU OR SOMEWHERE WELL AWAY FROM THE CITY?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0        104                0.2
+1  IN OR NEAR HONOLULU          1.0        135               0.25
+2   AWAY FROM THE CITY          2.0        293               0.55
+
+
+
+S192A.Q52B WOULD YOU PREFER A PLACE WITH PLENTY OF SPORTS AND SOCIAL ACTIVITIES AVAILABLE OR ONE WHICH WAS MORE QUIET AND RESTFUL?
+                            answer_label answer_value raw_counts relative_frequency
+0                              NO ANSWER          0.0         92               0.17
+1  ONE WITH SPORTS AND SOCIAL ACTIVITIES          1.0        309               0.58
+2             ONE MORE QUIET AND RESTFUL          2.0        131               0.25
+
+
+
+S192A.Q52C IF THE ARMY WERE TO ESTABLISH A RECREATION CENTER FOR NURSES, DO YOU THINK YOU WOULD WANT TO USE IT FROM TIME TO TIME?
+             answer_label answer_value raw_counts relative_frequency
+0  YES, I AM SURE I WOULD          1.0        231               0.43
+1        I PROBABLY WOULD          2.0        202               0.38
+2   I AM SURE I WOULD NOT          4.0          6               0.01
+3               NO ANSWER          0.0         51                0.1
+4    I PROBABLY WOULD NOT          3.0         42               0.08
+
+
+
+S192A.V54 HOSPITAL IDENTIFICATION:
+                                 answer_label answer_value raw_counts relative_frequency
+0               OAHU - 218TH GENERAL HOSPITAL          1.0         34               0.06
+1               OAHU - 218TH GENERAL HOSPITAL          2.0         19               0.04
+2               OAHU - 218TH GENERAL HOSPITAL          3.0         24               0.05
+3               OAHU - 218TH GENERAL HOSPITAL          4.0         28               0.05
+4               OAHU - 218TH GENERAL HOSPITAL          5.0         25               0.05
+5               OAHU - 219TH GENERAL HOSPITAL          6.0        102               0.19
+6               OAHU - 147TH GENERAL HOSPITAL          7.0        100               0.19
+7                OAHU - 22ND STATION HOSPITAL          8.0         33               0.06
+8                 MAUI - 8TH STATION HOSPITAL          9.0         27               0.05
+9   HAWAII - 230TH AND 26TH STATION HOSPITALS         10.0         34               0.06
+10            SAIPAN - 148TH GENERAL HOSPITAL         11.0         62               0.12
+11            SAIPAN - 369TH STATION HOSPITAL         12.0         44               0.08
+
+
+
+S192A.V55 FURTHER SPECIAL IDENTIFICATION:
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0  NURSES FROM OTHER HOSPITALS WHO WERE ON DETACHED SERVICE WITH HOSPITALS INCLUDED IN THE SAMPLE. IN MOST CASES THESE DETA          1.0         75               0.14
+1                                                                                                          ALL OTHER NURSES          2.0        457               0.86
+
+
+

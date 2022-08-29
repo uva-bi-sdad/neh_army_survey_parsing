@@ -1,0 +1,1824 @@
+FORMFORM
+      answer_label answer_value raw_counts relative_frequency
+0  S-077A - A FORM          1.0       1789                1.0
+
+
+
+S77A.Q1 WHAT IS YOUR ARMY RANK OR GRADE?
+                                               answer_label answer_value raw_counts relative_frequency
+0                                                 NO ANSWER          0.0          9               0.01
+1                                                   PRIVATE          1.0        787               0.44
+2                                       PRIVATE FIRST CLASS          2.0        359                0.2
+3  NONCOM (CORPORAL OR ANY GRADE OF SERGEANT OR TECHNICIAN)          3.0        616               0.34
+4                                  SOME OTHER RANK OR GRADE          4.0         18               0.01
+
+
+
+S77A.Q2 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0         80               0.04
+1   18 YEARS OR YOUNGER          1.0         28               0.02
+2              19 YEARS          2.0         57               0.03
+3                    20          3.0         83               0.05
+4                    21          4.0        115               0.06
+5                    22          5.0        148               0.08
+6                    23          6.0        132               0.07
+7                    24          7.0        150               0.08
+8                    25          8.0        139               0.08
+9           26-29 YEARS          9.0        398               0.22
+10          30-34 YEARS         10.0        250               0.14
+11    35 YEARS AND OVER         11.0        209               0.12
+
+
+
+S77A.Q3 HOW FAR DID YOU GO IN SCHOOL?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0         15               0.01
+1                  LESS THAN 6TH GRADE          1.0        128               0.07
+2                   FINISHED 6TH GRADE          2.0         75               0.04
+3                   FINISHED 7TH GRADE          3.0        141               0.08
+4                   FINISHED 8TH GRADE          4.0        297               0.17
+5  SOME HIGH SCHOOL BUT DID NOT FINISH          5.0        491               0.27
+6           GRADUATED FROM HIGH SCHOOL          6.0        361                0.2
+7      SOME COLLEGE BUT DID NOT FINISH          7.0        224               0.13
+8               GRADUATED FROM COLLEGE          8.0         57               0.03
+
+
+
+S77A.Q4.1 IN WHAT STATE OF THE UNITED STATES DID YOU SPEND MOST OF THE LAST FIVE YEARS OF YOUR CIVILIAN LIFE BEFORE YOU CAME INTO THE ARMY? E. FIRST COLUMN:
+           answer_label answer_value raw_counts relative_frequency
+0   ORIGINAL PUNCH OF 1          1.0        122               0.07
+1   ORIGINAL PUNCH OF 2          2.0        400               0.22
+2   ORIGINAL PUNCH OF 3          3.0        296               0.17
+3   ORIGINAL PUNCH OF 4          4.0        162               0.09
+4   ORIGINAL PUNCH OF 5          5.0        244               0.14
+5   ORIGINAL PUNCH OF 6          6.0        123               0.07
+6   ORIGINAL PUNCH OF 7          7.0        243               0.14
+7   ORIGINAL PUNCH OF 8          8.0         33               0.02
+8   ORIGINAL PUNCH OF 9          9.0        101               0.06
+9   ORIGINAL PUNCH OF 0         10.0          5                0.0
+10  ORIGINAL PUNCH OF X         11.0         58               0.03
+11  ORIGINAL PUNCH OF V         12.0          2                0.0
+
+
+
+S77A.Q4.2IN WHAT STATE OF THE UNITED STATES DID YOU SPEND MOST OF THE LAST FIVE YEARS OF YOUR CIVILIAN LIFE BEFORE YOU CAME INTO THE ARMY? E. SECOND COLUMN:
+           answer_label answer_value raw_counts relative_frequency
+0   ORIGINAL PUNCH OF 1          1.0        428               0.24
+1   ORIGINAL PUNCH OF 2          2.0        281               0.16
+2   ORIGINAL PUNCH OF 3          3.0        422               0.24
+3   ORIGINAL PUNCH OF 4          4.0        321               0.18
+4   ORIGINAL PUNCH OF 5          5.0         90               0.05
+5   ORIGINAL PUNCH OF 6          6.0         85               0.05
+6   ORIGINAL PUNCH OF 7          7.0         34               0.02
+7   ORIGINAL PUNCH OF 8          8.0         47               0.03
+8   ORIGINAL PUNCH OF 9          9.0         16               0.01
+9   ORIGINAL PUNCH OF 0         10.0          5                0.0
+10  ORIGINAL PUNCH OF X         11.0         58               0.03
+11  ORIGINAL PUNCH OF V         12.0          2                0.0
+
+
+
+S77A.Q5 WHERE WERE YOU LIVING MOST OF THE LAST FIVE YEARS OF YOUR CIVILIAN LIFE BEFORE YOU CAME INTO THE ARMY - WAS IT IN THE COUNTRY, IN A TOWN, OR IN A CITY?
+                                             answer_label answer_value raw_counts relative_frequency
+0                                               NO ANSWER          0.0          6                0.0
+1                             ON A FARM OR IN THE COUNTRY          1.0        379               0.21
+2               IN A SMALL TOWN (FEWER THAN 2,500 PEOPLE)          2.0        241               0.13
+3  IN A LARGE TOWN (WITH BETWEEN 2,500 AND 25,000 PEOPLE)          3.0        300               0.17
+4           IN A CITY (BETWEEN 25,000 AND 100,000 PEOPLE)          4.0        312               0.17
+5              IN A LARGE CITY (MORE THAN 100,000 PEOPLE)          5.0        551               0.31
+
+
+
+S77A.Q6.x ARE YOU SINGLE, MARRIED, DIVORCED OR SEPARATED, OR WIDOWED? Q.7. WERE YOU MARRIED BEFORE OR AFTER ENTERING THE ARMY?
+                       answer_label answer_value raw_counts relative_frequency
+0                         NO ANSWER          0.0          6                0.0
+1                            SINGLE          1.0       1099               0.61
+2             DIVORCED OR SEPARATED          2.0         98               0.05
+3                           WIDOWED          3.0          5                0.0
+4  MARRIED BEFORE ENTERING THE ARMY          4.0        350                0.2
+5   MARRIED AFTER ENTERING THE ARMY          5.0        228               0.13
+6     MARRIED, NO ANSWER AS TO WHEN          6.0          3                0.0
+
+
+
+S77A.Q8 HOW DID YOU COME INTO THE ARMY?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         14               0.01
+1                I WAS DRAFTED          1.0       1127               0.63
+2                I VOLUNTEERED          2.0        535                0.3
+3  I WAS IN THE NATIONAL GUARD          3.0        113               0.06
+
+
+
+S77A.Q9 HOW LONG HAVE YOU BEEN IN THE ARMY? E. IF YOU HAVE BEEN IN THE ARMY BEFORE, THEN WERE OUT FOR A WHILE, JUST CHECK THE LENGTH OF TIME SINCE YOU ENTERED THIS LAST TIME. IF YOU WERE IN THE NATIONAL GUARD, CHECK THE LENGTH OF TIME SINCE YOUR OUTFIT CAME INTO
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0          6                0.0
+1              3 MONTHS OR LESS          1.0         26               0.01
+2  OVER 3 MONTHS UP TO 6 MONTHS          2.0         65               0.04
+3  OVER 6 MONTHS UP TO 9 MONTHS          3.0        134               0.07
+4    OVER 9 MONTHS UP TO 1 YEAR          4.0        218               0.12
+5     OVER 1 YEAR UP TO 2 YEARS          5.0        713                0.4
+6    OVER 2 YEARS UP TO 5 YEARS          6.0        544                0.3
+7                  OVER 5 YEARS          7.0         83               0.05
+
+
+
+S77A.Q10 WHAT BRANCH OF THE ARMY WERE YOU IN BEFORE YOU CAME TO THE HOSPITAL?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0         33               0.02
+1                           ENGINEERS          1.0        128               0.07
+2                     FIELD ARTILLERY          2.0        100               0.06
+3                 QUARTERMASTER CORPS          3.0         92               0.05
+4                            INFANTRY          4.0        594               0.33
+5                  MEDICAL DEPARTMENT          5.0        157               0.09
+6                       ARMORED FORCE          6.0         79               0.04
+7                        SIGNAL CORPS          7.0         50               0.03
+8   COAST ARTILLERY AND ANTI-AIRCRAFT          8.0         93               0.05
+9                           AIR CORPS          9.0        216               0.12
+10               TRANSPORTATION CORPS         10.0         28               0.02
+11                ORDNANCE DEPARTMENT         11.0         70               0.04
+12           CHEMICAL WARFARE SERVICE         12.0         21               0.01
+13                    MILITARY POLICE         13.0         58               0.03
+14                              OTHER         14.0         70               0.04
+
+
+
+S77A.Q11 HOW LONG HAVE YOU BEEN A PATIENT IN THIS HOSPITAL?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0          9               0.01
+1             TWO WEEKS OR LESS          1.0        330               0.18
+2  OVER TWO WEEKS UP TO A MONTH          2.0        331               0.19
+3   OVER A MONTH UP TO 2 MONTHS          3.0        393               0.22
+4  OVER 2 MONTHS UP TO 3 MONTHS          4.0        252               0.14
+5  OVER 3 MONTHS UP TO 6 MONTHS          5.0        281               0.16
+6                 OVER 6 MONTHS          6.0        193               0.11
+
+
+
+S77A.Q12 HOW MUCH TIME - ALTOGETHER - HAVE YOU SPENT IN ARMY HOSPITALS (INCLUDING THIS ONE) ON ACCOUNT OF YOUR PRESENT SICKNESS OR INJURY?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         22               0.01
+1             ONE MONTH OR LESS          1.0        138               0.08
+2   OVER A MONTH UP TO 2 MONTHS          2.0        204               0.11
+3  OVER 2 MONTHS UP TO 3 MONTHS          3.0        289               0.16
+4  OVER 3 MONTHS UP TO 6 MONTHS          4.0        585               0.33
+5                 OVER 6 MONTHS          5.0        551               0.31
+
+
+
+S77A.Q13 AS FAR AS YOU KNOW NOW, ABOUT HOW MUCH LONGER WOULD YOU GUESS YOU WILL HAVE TO STAY IN A HOSPITAL FOR YOUR PRESENT SICKNESS OR INJURY?
+                                           answer_label answer_value raw_counts relative_frequency
+0                                             NO ANSWER          0.0         69               0.04
+1                              PROBABLY JUST A FEW DAYS          1.0        256               0.14
+2                            PROBABLY LESS THAN A MONTH          2.0        347               0.19
+3                                PROBABLY ABOUT A MONTH          3.0        283               0.16
+4  PROBABLY MORE THAN A MONTH BUT NO MORE THAN 3 MONTHS          4.0        446               0.25
+5                           PROBABLY MORE THAN 3 MONTHS          5.0        388               0.22
+
+
+
+S77A.Q14 WHERE DID YOU GET THE SICKNESS OR INJURY THAT BROUGHT YOU TO THIS HOSPITAL?
+                            answer_label answer_value raw_counts relative_frequency
+0                              NO ANSWER          0.0         21               0.01
+1             IN THE U.S., WHILE ON DUTY          1.0        736               0.41
+2            IN THE U.S., WHILE OFF DUTY          2.0        120               0.07
+3      OUTSIDE THE U.S., BY ENEMY ACTION          3.0        318               0.18
+4  OUTSIDE THE U.S., NOT BY ENEMY ACTION          4.0        278               0.16
+5   I HAD IT BEFORE I CAME INTO THE ARMY          5.0        316               0.18
+
+
+
+S77A.Q16 DO YOU THINK YOUR PRESENT SICKNESS OR INJURY WILL AFFECT ANY PART OF YOUR BODY FOR THE REST OF YOUR LIFE IN A WAY THAT PEOPLE WILL NOTICE IT? IF YES, WHAT PART OF YOUR BODY AND IN WHAT WAY?
+                                                                                                     answer_label answer_value raw_counts relative_frequency
+0                                                                                                       NO ANSWER          0.0         12               0.01
+1   YES, ORTHOPEDIC DISABILITY (BONE INJURY, LOSS OF LIMB, "LIMPING", BACK OR SPINE, PARALYSES OF ANY KIND, ETC.)          1.0        393               0.22
+2                                 YES, FACIAL DISFIGUREMENT OR HEAD DISFIGUREMENT (I.E. "MY EYES STAY BLOODSHOT")          2.0         39               0.02
+3                                                                          YES, NERVOUSNESS (I.E. "ALWAYS JUMPY")          3.0         19               0.01
+4                                                                 YES, DISFIGUREMENT OTHER THAN FACE, BURNS, ETC.          4.0          8                0.0
+5                                                                                              YES, MIND AFFECTED          5.0          5                0.0
+6                                                                                        YES, RESPIRATORY TROUBLE          6.0          6                0.0
+7                                                                                      YES, IMPAIRMENT OF HEARING          7.0          3                0.0
+8                                                                                                      YES, OTHER          8.0         39               0.02
+9                                                                                                  YES, NO ANSWER          9.0         23               0.01
+10                                                                                                             NO         10.0        423               0.24
+11                                                                                                     DON'T KNOW         11.0        819               0.46
+
+
+
+S77A.Q17 HOW MUCH TIME DURING THE DAY DO YOU HAVE TO SPEND IN BED AT THE PRESENT TIME?
+                                      answer_label answer_value raw_counts relative_frequency
+0                                        NO ANSWER          0.0         14               0.01
+1                                          ALL DAY          1.0        156               0.09
+2                                  MOST OF THE DAY          2.0        142               0.08
+3                            ABOUT HALF OF THE DAY          3.0        112               0.06
+4                                A FEW HOURS A DAY          4.0        431               0.24
+5  I DON'T HAVE TO BE IN BED AT ALL DURING THE DAY          5.0        934               0.52
+
+
+
+S77A.Q18 SINCE YOU HAVE BEEN IN THE HOSPITAL, HOW WOULD YOU SAY YOU FEEL MOST OF THE TIME - IN GOOD SPIRITS OR IN LOW SPIRITS?
+                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                  NO ANSWER          0.0          8                0.0
+1                                               I AM USUALLY IN GOOD SPIRITS          1.0        553               0.31
+2  I AM IN GOOD SPIRITS SOME OF THE TIME AND IN LOW SPIRITS SOME OF THE TIME          2.0        919               0.51
+3                                                I AM USUALLY IN LOW SPIRITS          3.0        309               0.17
+
+
+
+S77A.Q19 SINCE YOU HAVE BEEN IN THE HOSPITAL, ARE YOU EVER WORRIED AND UPSET?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0         10               0.01
+1  I AM HARDLY EVER WORRIED AND UPSET          1.0        534                0.3
+2    I AM SOMETIMES WORRIED AND UPSET          2.0        859               0.48
+3        I AM OFTEN WORRIED AND UPSET          3.0        386               0.22
+
+
+
+S77A.Q20 SINCE YOU HAVE BEEN IN THE HOSPITAL, HOW OFTEN DO YOU FEEL LONESOME?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0          7                0.0
+1  I AM HARDLY EVER LONESOME          1.0        426               0.24
+2    I AM SOMETIMES LONESOME          2.0        838               0.47
+3        I AM OFTEN LONESOME          3.0        518               0.29
+
+
+
+S77A.Q21 FROM WHAT YOU KNOW NOW, DO YOU THINK YOUR PRESENT SICKNESS OR INJURY IS SERIOUS ENOUGH THAT YOU OUGHT TO BE DISCHARGED FROM THE ARMY?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         14               0.01
+1          YES          1.0        916               0.51
+2           NO          2.0        273               0.15
+3   DON'T KNOW          3.0        586               0.33
+
+
+
+S77A.Q22 DO YOU THINK YOU REALLY WILL BE DISCHARGED FROM THE ARMY BECAUSE OF YOUR PRESENT SICKNESS OR INJURY?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0         11               0.01
+1           YES          1.0        659               0.37
+2            NO          2.0        353                0.2
+3  HAVE NO IDEA          3.0        766               0.43
+
+
+
+S77A.Q23 SINCE YOU HAVE BEEN IN THIS HOSPITAL, DO YOU HAVE TROUBLE FINDING INTERESTING THINGS TO DO?
+       answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER          0.0         12               0.01
+1  MOST OF THE TIME          1.0        468               0.26
+2  MUCH OF THE TIME          2.0        287               0.16
+3    NOT VERY OFTEN          3.0        793               0.44
+4             NEVER          4.0        229               0.13
+
+
+
+S77A.Q24 IN GENERAL, WOULD YOU SAY THAT THE PATIENTS IN THIS HOSPITAL HAVE TOO MUCH ENTERTAINMENT, NOT ENOUGH ENTERTAINMENT OR ABOUT THE RIGHT AMOUNT?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0         10               0.01
+1                TOO MUCH          1.0          8                0.0
+2  ABOUT THE RIGHT AMOUNT          2.0        818               0.46
+3              NOT ENOUGH          3.0        664               0.37
+4              DON'T KNOW          4.0        289               0.16
+
+
+
+S77A.Q25 IN GENERAL, WOULD YOU SAY THAT THE ENLISTED MEN WHO WORK IN THIS HOSPITAL HAVE TOO MUCH ENTERTAINMENT, NOT ENOUGH ENTERTAINMENT, OR ABOUT THE RIGHT AMOUNT?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0         14               0.01
+1                TOO MUCH          1.0         37               0.02
+2  ABOUT THE RIGHT AMOUNT          2.0        471               0.26
+3              NOT ENOUGH          3.0        377               0.21
+4              DON'T KNOW          4.0        890                0.5
+
+
+
+S77A.Q26 DOES THIS HOSPITAL HAVE A REGULAR ORGANIZED PROGRAM OF SPORTS AND ATHLETICS IN WHICH THE PATIENTS CAN TAKE PART?
+                                      answer_label answer_value raw_counts relative_frequency
+0                                        NO ANSWER          0.0         13               0.01
+1                     YES, THERE IS A GOOD PROGRAM          1.0        411               0.23
+2  YES, THERE IS A PROGRAM, BUT IT'S NOT VERY GOOD          2.0        246               0.14
+3                          NO, THERE IS NO PROGRAM          3.0        214               0.12
+4                                       DON'T KNOW          4.0        905               0.51
+
+
+
+S77A.Q27 BELOW IS A LIST OF SOME LIGHT GAMES THAT HOSPITAL PATIENTS SOMETIMES PLAY. READ THE LIST AND CHECK EACH GAME THAT YOU WOULD LIKE TO TAKE PART IN HERE AT THE HOSPITAL, WHETHER THEY HAVE IT HERE NOW OR NOT.
+                                                                            answer_label answer_value raw_counts relative_frequency
+0                                                                              NO ANSWER          0.0         51               0.03
+1                                                     SOMETHING CHECKED IN LIST OF GAMES          1.0        742               0.41
+2  I DON'T THINK I AM PHYSICALLY ABLE OR WELL ENOUGH TO TAKE PART IN ANY LIGHT GAMES NOW          2.0        736               0.41
+3                   I WOULDN'T LIKE TO TAKE PART IN ANY LIGHT GAMES HERE AT THE HOSPITAL          3.0        260               0.15
+
+
+
+S77A.Q27A BILLIARDS OR POOL?
+                                                                        answer_label answer_value raw_counts relative_frequency
+0                                                       NO ANSWER TO ENTIRE QUESTION          0.0         51               0.03
+1                                                                       ITEM CHECKED          1.0        501               0.28
+2                                                                   ITEM NOT CHECKED          2.0        242               0.14
+3  I DON'T THINK I AM PHYSICALLY ABLE OR WELL ENOUGH TO TAKE PART IN LIGHT GAMES NOW          3.0        737               0.41
+4               I WOULDN'T LIKE TO TAKE PART IN ANY LIGHT GAMES HERE AT THE HOSPITAL          4.0        258               0.14
+
+
+
+S77A.Q27B PING-PONG (TABLE TENNIS)?
+                                                                        answer_label answer_value raw_counts relative_frequency
+0                                                       NO ANSWER TO ENTIRE QUESTION          0.0         51               0.03
+1                                                                       ITEM CHECKED          1.0        388               0.22
+2                                                                   ITEM NOT CHECKED          2.0        355                0.2
+3  I DON'T THINK I AM PHYSICALLY ABLE OR WELL ENOUGH TO TAKE PART IN LIGHT GAMES NOW          3.0        737               0.41
+4               I WOULDN'T LIKE TO TAKE PART IN ANY LIGHT GAMES HERE AT THE HOSPITAL          4.0        258               0.14
+
+
+
+S77A.Q27C SHUFFLE BOARD?
+                                                                        answer_label answer_value raw_counts relative_frequency
+0                                                       NO ANSWER TO ENTIRE QUESTION          0.0         51               0.03
+1                                                                       ITEM CHECKED          1.0        140               0.08
+2                                                                   ITEM NOT CHECKED          2.0        603               0.34
+3  I DON'T THINK I AM PHYSICALLY ABLE OR WELL ENOUGH TO TAKE PART IN LIGHT GAMES NOW          3.0        737               0.41
+4               I WOULDN'T LIKE TO TAKE PART IN ANY LIGHT GAMES HERE AT THE HOSPITAL          4.0        258               0.14
+
+
+
+S77A.Q27D CROQUET?
+                                                                        answer_label answer_value raw_counts relative_frequency
+0                                                       NO ANSWER TO ENTIRE QUESTION          0.0         51               0.03
+1                                                                       ITEM CHECKED          1.0        110               0.06
+2                                                                   ITEM NOT CHECKED          2.0        633               0.35
+3  I DON'T THINK I AM PHYSICALLY ABLE OR WELL ENOUGH TO TAKE PART IN LIGHT GAMES NOW          3.0        737               0.41
+4               I WOULDN'T LIKE TO TAKE PART IN ANY LIGHT GAMES HERE AT THE HOSPITAL          4.0        258               0.14
+
+
+
+S77A.Q27E DARTS?
+                                                                        answer_label answer_value raw_counts relative_frequency
+0                                                       NO ANSWER TO ENTIRE QUESTION          0.0         51               0.03
+1                                                                       ITEM CHECKED          1.0        163               0.09
+2                                                                   ITEM NOT CHECKED          2.0        580               0.32
+3  I DON'T THINK I AM PHYSICALLY ABLE OR WELL ENOUGH TO TAKE PART IN LIGHT GAMES NOW          3.0        737               0.41
+4               I WOULDN'T LIKE TO TAKE PART IN ANY LIGHT GAMES HERE AT THE HOSPITAL          4.0        258               0.14
+
+
+
+S77A.Q27F QUOITS OR RING-TOSSING?
+                                                                        answer_label answer_value raw_counts relative_frequency
+0                                                       NO ANSWER TO ENTIRE QUESTION          0.0         51               0.03
+1                                                                       ITEM CHECKED          1.0         63               0.04
+2                                                                   ITEM NOT CHECKED          2.0        680               0.38
+3  I DON'T THINK I AM PHYSICALLY ABLE OR WELL ENOUGH TO TAKE PART IN LIGHT GAMES NOW          3.0        737               0.41
+4               I WOULDN'T LIKE TO TAKE PART IN ANY LIGHT GAMES HERE AT THE HOSPITAL          4.0        258               0.14
+
+
+
+S77A.Q27G HORSESHOE PITCHING?
+                                                                        answer_label answer_value raw_counts relative_frequency
+0                                                       NO ANSWER TO ENTIRE QUESTION          0.0         51               0.03
+1                                                                       ITEM CHECKED          1.0        276               0.15
+2                                                                   ITEM NOT CHECKED          2.0        467               0.26
+3  I DON'T THINK I AM PHYSICALLY ABLE OR WELL ENOUGH TO TAKE PART IN LIGHT GAMES NOW          3.0        737               0.41
+4               I WOULDN'T LIKE TO TAKE PART IN ANY LIGHT GAMES HERE AT THE HOSPITAL          4.0        258               0.14
+
+
+
+S77A.Q27H BOWLING?
+                                                                        answer_label answer_value raw_counts relative_frequency
+0                                                       NO ANSWER TO ENTIRE QUESTION          0.0         51               0.03
+1                                                                       ITEM CHECKED          1.0        388               0.22
+2                                                                   ITEM NOT CHECKED          2.0        355                0.2
+3  I DON'T THINK I AM PHYSICALLY ABLE OR WELL ENOUGH TO TAKE PART IN LIGHT GAMES NOW          3.0        737               0.41
+4               I WOULDN'T LIKE TO TAKE PART IN ANY LIGHT GAMES HERE AT THE HOSPITAL          4.0        258               0.14
+
+
+
+S77A.Q27I OTHER LIGHT GAMES?
+                                                                        answer_label answer_value raw_counts relative_frequency
+0                                                       NO ANSWER TO ENTIRE QUESTION          0.0         51               0.03
+1                                                                       ITEM CHECKED          1.0         13               0.01
+2                                                                   ITEM NOT CHECKED          2.0        730               0.41
+3  I DON'T THINK I AM PHYSICALLY ABLE OR WELL ENOUGH TO TAKE PART IN LIGHT GAMES NOW          3.0        737               0.41
+4               I WOULDN'T LIKE TO TAKE PART IN ANY LIGHT GAMES HERE AT THE HOSPITAL          4.0        258               0.14
+
+
+
+S77A.Q28 DURING THE PAST WEEK ABOUT HOW MUCH TIME DID YOU SPEND TAKING PART IN ANY LIGHT GAMES - ANY OF THE GAMES IN QUESTION 27 OR OTHERS LIKE THEM?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0         12               0.01
+1                NONE AT ALL          1.0       1226               0.69
+2          LESS THAN AN HOUR          2.0         86               0.05
+3              ABOUT AN HOUR          3.0         96               0.05
+4            ABOUT TWO HOURS          4.0        125               0.07
+5  ABOUT THREE OR FOUR HOURS          5.0        100               0.06
+6    ABOUT FIVE OR SIX HOURS          6.0         63               0.04
+7  ABOUT SEVEN OR MORE HOURS          7.0         81               0.05
+
+
+
+S77A.Q29 IS THERE A PLACE AT THIS HOSPITAL WHERE YOU CAN TAKE PART IN YOUR FAVORITE LIGHT GAME (ANY OF THE GAMES IN QUESTION 27 OR OTHERS LIKE THEM)?
+                                                                            answer_label answer_value raw_counts relative_frequency
+0                                                                              NO ANSWER          0.0         19               0.01
+1                                                                  THERE IS A GOOD PLACE          1.0        292               0.16
+2                                                          THERE IS A PLACE THAT WILL DO          2.0        282               0.16
+3                                                                      THERE IS NO PLACE          3.0         81               0.05
+4  I DON'T THINK I AM PHYSICALLY ABLE OR WELL ENOUGH TO TAKE PART IN ANY LIGHT GAMES NOW          4.0        695               0.39
+5                   I WOULDN'T LIKE TO TAKE PART IN ANY LIGHT GAMES HERE AT THE HOSPITAL          5.0        233               0.13
+6                                                                             DON'T KNOW          6.0        187                0.1
+
+
+
+S77A.Q30 DOES THE HOSPITAL HAVE THE EQUIPMENT YOU NEED FOR YOU TO TAKE PART IN YOUR FAVORITE LIGHT GAME?
+                                                                            answer_label answer_value raw_counts relative_frequency
+0                                                                              NO ANSWER          0.0         17               0.01
+1                                                                                    YES          1.0        445               0.25
+2                                                                                     NO          2.0        176                0.1
+3  I DON'T THINK I AM PHYSICALLY ABLE OR WELL ENOUGH TO TAKE PART IN ANY LIGHT GAMES NOW          3.0        678               0.38
+4                   I WOULDN'T LIKE TO TAKE PART IN ANY LIGHT GAMES HERE AT THE HOSPITAL          4.0        224               0.13
+5                                                                             DON'T KNOW          5.0        249               0.14
+
+
+
+S77A.Q31 HOW WELL SATISFIED ARE YOU WITH THE CHANCE YOU HAVE AT THIS HOSPITAL TO TAKE PART IN LIGHT GAMES?
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0        125               0.07
+1    I AM VERY WELL SATISFIED          1.0        606               0.34
+2  I AM PRETTY WELL SATISFIED          2.0        595               0.33
+3  I AM SOMEWHAT DISSATISFIED          3.0        306               0.17
+4      I AM VERY DISSATISFIED          4.0        157               0.09
+
+
+
+S77A.Q32 BELOW IS A LIST OF ACTIVE SPORTS. READ THE LIST AND CHECK EACH SPORT THAT YOU WOULD LIKE TO TAKE PART IN HERE AT THE HOSPITAL, WHETHER THEY HAVE IT HERE NOW OR NOT.
+                                                                              answer_label answer_value raw_counts relative_frequency
+0                                                                                NO ANSWER          0.0         72               0.04
+1                                                      SOMETHING CHECKED IN LIST OF SPORTS          1.0        550               0.31
+2  I DON'T THINK I AM PHYSICALLY ABLE OR WELL ENOUGH TO TAKE PART IN ANY ACTIVE SPORTS NOW          2.0        974               0.54
+3                   I WOULDN'T LIKE TO TAKE PART IN ANY ACTIVE SPORTS HERE AT THE HOSPITAL          3.0        193               0.11
+
+
+
+S77A.Q32A TENNIS?
+                                                                              answer_label answer_value raw_counts relative_frequency
+0                                                             NO ANSWER TO ENTIRE QUESTION          0.0         72               0.04
+1                                                                             ITEM CHECKED          1.0        169               0.09
+2                                                                         ITEM NOT CHECKED          2.0        383               0.21
+3  I DON'T THINK I AM PHYSICALLY ABLE OR WELL ENOUGH TO TAKE PART IN ANY ACTIVE SPORTS NOW          3.0        974               0.54
+4                   I WOULDN'T LIKE TO TAKE PART IN ANY ACTIVE SPORTS HERE AT THE HOSPITAL          4.0        191               0.11
+
+
+
+S77A.Q32B BADMINTON?
+                                                                              answer_label answer_value raw_counts relative_frequency
+0                                                             NO ANSWER TO ENTIRE QUESTION          0.0         72               0.04
+1                                                                             ITEM CHECKED          1.0         83               0.05
+2                                                                         ITEM NOT CHECKED          2.0        469               0.26
+3  I DON'T THINK I AM PHYSICALLY ABLE OR WELL ENOUGH TO TAKE PART IN ANY ACTIVE SPORTS NOW          3.0        974               0.54
+4                   I WOULDN'T LIKE TO TAKE PART IN ANY ACTIVE SPORTS HERE AT THE HOSPITAL          4.0        191               0.11
+
+
+
+S77A.Q32C SWIMMING?
+                                                                              answer_label answer_value raw_counts relative_frequency
+0                                                             NO ANSWER TO ENTIRE QUESTION          0.0         72               0.04
+1                                                                             ITEM CHECKED          1.0        344               0.19
+2                                                                         ITEM NOT CHECKED          2.0        208               0.12
+3  I DON'T THINK I AM PHYSICALLY ABLE OR WELL ENOUGH TO TAKE PART IN ANY ACTIVE SPORTS NOW          3.0        975               0.54
+4                   I WOULDN'T LIKE TO TAKE PART IN ANY ACTIVE SPORTS HERE AT THE HOSPITAL          4.0        190               0.11
+
+
+
+S77A.Q32D HANDBALL?
+                                                                              answer_label answer_value raw_counts relative_frequency
+0                                                             NO ANSWER TO ENTIRE QUESTION          0.0         72               0.04
+1                                                                             ITEM CHECKED          1.0        129               0.07
+2                                                                         ITEM NOT CHECKED          2.0        423               0.24
+3  I DON'T THINK I AM PHYSICALLY ABLE OR WELL ENOUGH TO TAKE PART IN ANY ACTIVE SPORTS NOW          3.0        975               0.54
+4                   I WOULDN'T LIKE TO TAKE PART IN ANY ACTIVE SPORTS HERE AT THE HOSPITAL          4.0        190               0.11
+
+
+
+S77A.Q32E BASKETBALL?
+                                                                              answer_label answer_value raw_counts relative_frequency
+0                                                             NO ANSWER TO ENTIRE QUESTION          0.0         72               0.04
+1                                                                             ITEM CHECKED          1.0        216               0.12
+2                                                                         ITEM NOT CHECKED          2.0        336               0.19
+3  I DON'T THINK I AM PHYSICALLY ABLE OR WELL ENOUGH TO TAKE PART IN ANY ACTIVE SPORTS NOW          3.0        975               0.54
+4                   I WOULDN'T LIKE TO TAKE PART IN ANY ACTIVE SPORTS HERE AT THE HOSPITAL          4.0        190               0.11
+
+
+
+S77A.Q32F GOLF?
+                                                                              answer_label answer_value raw_counts relative_frequency
+0                                                             NO ANSWER TO ENTIRE QUESTION          0.0         72               0.04
+1                                                                             ITEM CHECKED          1.0        110               0.06
+2                                                                         ITEM NOT CHECKED          2.0        442               0.25
+3  I DON'T THINK I AM PHYSICALLY ABLE OR WELL ENOUGH TO TAKE PART IN ANY ACTIVE SPORTS NOW          3.0        975               0.54
+4                   I WOULDN'T LIKE TO TAKE PART IN ANY ACTIVE SPORTS HERE AT THE HOSPITAL          4.0        190               0.11
+
+
+
+S77A.Q32G VOLLEYBALL?
+                                                                              answer_label answer_value raw_counts relative_frequency
+0                                                             NO ANSWER TO ENTIRE QUESTION          0.0         72               0.04
+1                                                                             ITEM CHECKED          1.0        179                0.1
+2                                                                         ITEM NOT CHECKED          2.0        373               0.21
+3  I DON'T THINK I AM PHYSICALLY ABLE OR WELL ENOUGH TO TAKE PART IN ANY ACTIVE SPORTS NOW          3.0        975               0.54
+4                   I WOULDN'T LIKE TO TAKE PART IN ANY ACTIVE SPORTS HERE AT THE HOSPITAL          4.0        190               0.11
+
+
+
+S77A.Q32H SOCCER?
+                                                                              answer_label answer_value raw_counts relative_frequency
+0                                                             NO ANSWER TO ENTIRE QUESTION          0.0         72               0.04
+1                                                                             ITEM CHECKED          1.0         44               0.02
+2                                                                         ITEM NOT CHECKED          2.0        508               0.28
+3  I DON'T THINK I AM PHYSICALLY ABLE OR WELL ENOUGH TO TAKE PART IN ANY ACTIVE SPORTS NOW          3.0        975               0.54
+4                   I WOULDN'T LIKE TO TAKE PART IN ANY ACTIVE SPORTS HERE AT THE HOSPITAL          4.0        190               0.11
+
+
+
+S77A.Q32I SOFTBALL?
+                                                                              answer_label answer_value raw_counts relative_frequency
+0                                                             NO ANSWER TO ENTIRE QUESTION          0.0         72               0.04
+1                                                                             ITEM CHECKED          1.0        261               0.15
+2                                                                         ITEM NOT CHECKED          2.0        291               0.16
+3  I DON'T THINK I AM PHYSICALLY ABLE OR WELL ENOUGH TO TAKE PART IN ANY ACTIVE SPORTS NOW          3.0        975               0.54
+4                   I WOULDN'T LIKE TO TAKE PART IN ANY ACTIVE SPORTS HERE AT THE HOSPITAL          4.0        190               0.11
+
+
+
+S77A.Q32J BASEBALL?
+                                                                              answer_label answer_value raw_counts relative_frequency
+0                                                             NO ANSWER TO ENTIRE QUESTION          0.0         72               0.04
+1                                                                             ITEM CHECKED          1.0        213               0.12
+2                                                                         ITEM NOT CHECKED          2.0        339               0.19
+3  I DON'T THINK I AM PHYSICALLY ABLE OR WELL ENOUGH TO TAKE PART IN ANY ACTIVE SPORTS NOW          3.0        975               0.54
+4                   I WOULDN'T LIKE TO TAKE PART IN ANY ACTIVE SPORTS HERE AT THE HOSPITAL          4.0        190               0.11
+
+
+
+S77A.Q32K TOUCH FOOTBALL?
+                                                                              answer_label answer_value raw_counts relative_frequency
+0                                                             NO ANSWER TO ENTIRE QUESTION          0.0         72               0.04
+1                                                                             ITEM CHECKED          1.0        135               0.08
+2                                                                         ITEM NOT CHECKED          2.0        417               0.23
+3  I DON'T THINK I AM PHYSICALLY ABLE OR WELL ENOUGH TO TAKE PART IN ANY ACTIVE SPORTS NOW          3.0        975               0.54
+4                   I WOULDN'T LIKE TO TAKE PART IN ANY ACTIVE SPORTS HERE AT THE HOSPITAL          4.0        190               0.11
+
+
+
+S77A.Q32L REGULAR FOOTBALL?
+                                                                              answer_label answer_value raw_counts relative_frequency
+0                                                             NO ANSWER TO ENTIRE QUESTION          0.0         72               0.04
+1                                                                             ITEM CHECKED          1.0         95               0.05
+2                                                                         ITEM NOT CHECKED          2.0        457               0.26
+3  I DON'T THINK I AM PHYSICALLY ABLE OR WELL ENOUGH TO TAKE PART IN ANY ACTIVE SPORTS NOW          3.0        975               0.54
+4                   I WOULDN'T LIKE TO TAKE PART IN ANY ACTIVE SPORTS HERE AT THE HOSPITAL          4.0        190               0.11
+
+
+
+S77A.Q32M BOXING?
+                                                                              answer_label answer_value raw_counts relative_frequency
+0                                                             NO ANSWER TO ENTIRE QUESTION          0.0         72               0.04
+1                                                                             ITEM CHECKED          1.0         94               0.05
+2                                                                         ITEM NOT CHECKED          2.0        458               0.26
+3  I DON'T THINK I AM PHYSICALLY ABLE OR WELL ENOUGH TO TAKE PART IN ANY ACTIVE SPORTS NOW          3.0        975               0.54
+4                   I WOULDN'T LIKE TO TAKE PART IN ANY ACTIVE SPORTS HERE AT THE HOSPITAL          4.0        190               0.11
+
+
+
+S77A.Q32N WRESTLING?
+                                                                              answer_label answer_value raw_counts relative_frequency
+0                                                             NO ANSWER TO ENTIRE QUESTION          0.0         72               0.04
+1                                                                             ITEM CHECKED          1.0         37               0.02
+2                                                                         ITEM NOT CHECKED          2.0        515               0.29
+3  I DON'T THINK I AM PHYSICALLY ABLE OR WELL ENOUGH TO TAKE PART IN ANY ACTIVE SPORTS NOW          3.0        975               0.54
+4                   I WOULDN'T LIKE TO TAKE PART IN ANY ACTIVE SPORTS HERE AT THE HOSPITAL          4.0        190               0.11
+
+
+
+S77A.Q32O TRACK (RACES, JUMPING, ETC.)?
+                                                                              answer_label answer_value raw_counts relative_frequency
+0                                                             NO ANSWER TO ENTIRE QUESTION          0.0         72               0.04
+1                                                                             ITEM CHECKED          1.0         75               0.04
+2                                                                         ITEM NOT CHECKED          2.0        477               0.27
+3  I DON'T THINK I AM PHYSICALLY ABLE OR WELL ENOUGH TO TAKE PART IN ANY ACTIVE SPORTS NOW          3.0        975               0.54
+4                   I WOULDN'T LIKE TO TAKE PART IN ANY ACTIVE SPORTS HERE AT THE HOSPITAL          4.0        190               0.11
+
+
+
+S77A.Q32P OTHER SPORTS?
+                                                                              answer_label answer_value raw_counts relative_frequency
+0                                                             NO ANSWER TO ENTIRE QUESTION          0.0         73               0.04
+1                                                                             ITEM CHECKED          1.0         24               0.01
+2                                                                         ITEM NOT CHECKED          2.0        528                0.3
+3  I DON'T THINK I AM PHYSICALLY ABLE OR WELL ENOUGH TO TAKE PART IN ANY ACTIVE SPORTS NOW          3.0        974               0.54
+4                   I WOULDN'T LIKE TO TAKE PART IN ANY ACTIVE SPORTS HERE AT THE HOSPITAL          4.0        190               0.11
+
+
+
+S77A.Q33 DURING THE PAST WEEK ABOUT HOW MUCH TIME DID YOU SPEND TAKING PART IN ANY ACTIVE SPORTS - ANY OF THE SPORTS IN QUESTION 32 OR OTHERS LIKE THEM?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0         24               0.01
+1                NONE AT ALL          1.0       1470               0.82
+2          LESS THAN AN HOUR          2.0         56               0.03
+3              ABOUT AN HOUR          3.0         54               0.03
+4            ABOUT TWO HOURS          4.0         51               0.03
+5  ABOUT THREE OR FOUR HOURS          5.0         61               0.03
+6    ABOUT FIVE OR SIX HOURS          6.0         30               0.02
+7  ABOUT SEVEN OR MORE HOURS          7.0         43               0.02
+
+
+
+S77A.Q34 IS THERE A PLACE AT THIS HOSPITAL WHERE YOU CAN TAKE PART IN YOUR FAVORITE ACTIVE SPORT (ANY OF THE SPORTS IN QUESTION 32 OR OTHERS LIKE THEM)?
+                                                                              answer_label answer_value raw_counts relative_frequency
+0                                                                                NO ANSWER          0.0         29               0.02
+1                                                                    THERE IS A GOOD PLACE          1.0        122               0.07
+2                                                            THERE IS A PLACE THAT WILL DO          2.0        150               0.08
+3                                                                        THERE IS NO PLACE          3.0        146               0.08
+4  I DON'T THINK I AM PHYSICALLY ABLE OR WELL ENOUGH TO TAKE PART IN ANY ACTIVE SPORTS NOW          4.0        935               0.52
+5                   I WOULDN'T LIKE TO TAKE PART IN ANY ACTIVE SPORTS HERE AT THE HOSPITAL          5.0        160               0.09
+6                                                                               DON'T KNOW          6.0        247               0.14
+
+
+
+S77A.Q35 DOES THE HOSPITAL HAVE THE EQUIPMENT YOU NEED FOR YOU TO TAKE PART IN YOUR FAVORITE ACTIVE SPORT?
+                                                                              answer_label answer_value raw_counts relative_frequency
+0                                                                                NO ANSWER          0.0         35               0.02
+1                                                                                      YES          1.0        201               0.11
+2                                                                                       NO          2.0        175                0.1
+3  I DON'T THINK I AM PHYSICALLY ABLE OR WELL ENOUGH TO TAKE PART IN ANY ACTIVE SPORTS NOW          3.0        906               0.51
+4                   I WOULDN'T LIKE TO TAKE PART IN ANY ACTIVE SPORTS HERE AT THE HOSPITAL          4.0        152               0.08
+5                                                                               DON'T KNOW          5.0        320               0.18
+
+
+
+S77A.Q36 HOW WELL SATISFIED ARE YOU WITH THE CHANCE YOU HAVE AT THIS HOSPITAL TO TAKE PART IN ACTIVE SPORTS?
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0        174                0.1
+1    I AM VERY WELL SATISFIED          1.0        575               0.32
+2  I AM PRETTY WELL SATISFIED          2.0        542                0.3
+3  I AM SOMEWHAT DISSATISFIED          3.0        322               0.18
+4      I AM VERY DISSATISFIED          4.0        176                0.1
+
+
+
+S77A.Q37 WHILE YOU ARE HERE AT THE HOSPITAL, WHAT SPORTS WOULD YOU LIKE TO HAVE A CHANCE TO WATCH? (PUT A CHECK IN FRONT OF EACH SPORT THAT YOU WOULD LIKE TO WATCH, WHETHER YOU NOW HAVE A CHANCE TO SEE THEM OR NOT.)
+                          answer_label answer_value raw_counts relative_frequency
+0                   NO CODE OR NO DATA          0.0          4                0.0
+1                      A SPORT CHECKED          1.0       1561               0.87
+2  I WOULDN'T LIKE TO WATCH ANY SPORTS          2.0        163               0.09
+3                            NO ANSWER          3.0         61               0.03
+
+
+
+S77A.Q37A GOLF?
+                          answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER TO ENTIRE QUESTION          0.0         61               0.03
+1                         ITEM CHECKED          1.0        164               0.09
+2                     ITEM NOT CHECKED          2.0       1402               0.78
+3  I WOULDN'T LIKE TO WATCH ANY SPORTS          3.0        162               0.09
+
+
+
+S77A.Q37B TENNIS?
+                          answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER TO ENTIRE QUESTION          0.0         61               0.03
+1                         ITEM CHECKED          1.0        288               0.16
+2                     ITEM NOT CHECKED          2.0       1278               0.71
+3  I WOULDN'T LIKE TO WATCH ANY SPORTS          3.0        162               0.09
+
+
+
+S77A.Q37C BASEBALL?
+                          answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER TO ENTIRE QUESTION          0.0         61               0.03
+1                         ITEM CHECKED          1.0        978               0.55
+2                     ITEM NOT CHECKED          2.0        588               0.33
+3  I WOULDN'T LIKE TO WATCH ANY SPORTS          3.0        162               0.09
+
+
+
+S77A.Q37D SOFTBALL?
+                          answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER TO ENTIRE QUESTION          0.0         61               0.03
+1                     ITEM NOT CHECKED          2.0       1020               0.57
+2                         ITEM CHECKED          1.0        546               0.31
+3  I WOULDN'T LIKE TO WATCH ANY SPORTS          3.0        162               0.09
+
+
+
+FORM..1FORM.
+      answer_label answer_value raw_counts relative_frequency
+0  S-077A - A FORM          1.0       1789                1.0
+
+
+
+S77A.Q37E SOCCER?
+                          answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER TO ENTIRE QUESTION          0.0         61               0.03
+1                         ITEM CHECKED          1.0        163               0.09
+2                     ITEM NOT CHECKED          2.0       1403               0.78
+3  I WOULDN'T LIKE TO WATCH ANY SPORTS          3.0        162               0.09
+
+
+
+S77A.Q37F BASKETBALL?
+                          answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER TO ENTIRE QUESTION          0.0         61               0.03
+1                         ITEM CHECKED          1.0        822               0.46
+2                     ITEM NOT CHECKED          2.0        744               0.42
+3  I WOULDN'T LIKE TO WATCH ANY SPORTS          3.0        162               0.09
+
+
+
+S77A.Q37G FOOTBALL?
+                          answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER TO ENTIRE QUESTION          0.0         61               0.03
+1                         ITEM CHECKED          1.0       1030               0.58
+2                     ITEM NOT CHECKED          2.0        536                0.3
+3  I WOULDN'T LIKE TO WATCH ANY SPORTS          3.0        162               0.09
+
+
+
+S77A.Q37H SWIMMING AND DIVING?
+                          answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER TO ENTIRE QUESTION          0.0         61               0.03
+1                         ITEM CHECKED          1.0        508               0.28
+2                     ITEM NOT CHECKED          2.0       1058               0.59
+3  I WOULDN'T LIKE TO WATCH ANY SPORTS          3.0        162               0.09
+
+
+
+S77A.Q37I WRESTLING?
+                          answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER TO ENTIRE QUESTION          0.0         61               0.03
+1                         ITEM CHECKED          1.0        528                0.3
+2                     ITEM NOT CHECKED          2.0       1038               0.58
+3  I WOULDN'T LIKE TO WATCH ANY SPORTS          3.0        162               0.09
+
+
+
+S77A.Q37J BOXING?
+                          answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER TO ENTIRE QUESTION          0.0         61               0.03
+1                         ITEM CHECKED          1.0        967               0.54
+2                     ITEM NOT CHECKED          2.0        599               0.33
+3  I WOULDN'T LIKE TO WATCH ANY SPORTS          3.0        162               0.09
+
+
+
+S77A.Q37K TRACK (RACES, JUMPING, ETC.)
+                          answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER TO ENTIRE QUESTION          0.0         61               0.03
+1                         ITEM CHECKED          1.0        287               0.16
+2                     ITEM NOT CHECKED          2.0       1279               0.71
+3  I WOULDN'T LIKE TO WATCH ANY SPORTS          3.0        162               0.09
+
+
+
+S77A.Q37L ICE HOCKEY?
+                          answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER TO ENTIRE QUESTION          0.0         61               0.03
+1                         ITEM CHECKED          1.0        525               0.29
+2                     ITEM NOT CHECKED          2.0       1041               0.58
+3  I WOULDN'T LIKE TO WATCH ANY SPORTS          3.0        162               0.09
+
+
+
+S77A.Q37M HORSESHOE PITCHING?
+                          answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER TO ENTIRE QUESTION          0.0         61               0.03
+1                         ITEM CHECKED          1.0        204               0.11
+2                     ITEM NOT CHECKED          2.0       1362               0.76
+3  I WOULDN'T LIKE TO WATCH ANY SPORTS          3.0        162               0.09
+
+
+
+S77A.Q37N BILLIARDS OR POOL?
+                          answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER TO ENTIRE QUESTION          0.0         61               0.03
+1                         ITEM CHECKED          1.0        324               0.18
+2                     ITEM NOT CHECKED          2.0       1242               0.69
+3  I WOULDN'T LIKE TO WATCH ANY SPORTS          3.0        162               0.09
+
+
+
+S77A.Q37O BOWLING?
+                          answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER TO ENTIRE QUESTION          0.0         61               0.03
+1                         ITEM CHECKED          1.0        475               0.27
+2                     ITEM NOT CHECKED          2.0       1091               0.61
+3  I WOULDN'T LIKE TO WATCH ANY SPORTS          3.0        162               0.09
+
+
+
+S77A.Q37P PING-PONG (TABLE TENNIS)
+                          answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER TO ENTIRE QUESTION          0.0         61               0.03
+1                         ITEM CHECKED          1.0        259               0.14
+2                     ITEM NOT CHECKED          2.0       1307               0.73
+3  I WOULDN'T LIKE TO WATCH ANY SPORTS          3.0        162               0.09
+
+
+
+S77A.Q37Q OTHERS?
+                          answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER TO ENTIRE QUESTION          0.0         61               0.03
+1                         ITEM CHECKED          1.0         23               0.01
+2                     ITEM NOT CHECKED          2.0       1543               0.86
+3  I WOULDN'T LIKE TO WATCH ANY SPORTS          3.0        162               0.09
+
+
+
+S77A.Q38 IN GENERAL, WOULD YOU SAY THERE ARE TOO MANY SPORTS AND ATHLETICS FOR PATIENTS IN THIS HOSPITAL, NOT ENOUGH SPORTS AND ATHLETICS, OR ABOUT THE RIGHT AMOUNT?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0         62               0.03
+1                TOO MANY          1.0         12               0.01
+2  ABOUT THE RIGHT AMOUNT          2.0        485               0.27
+3              NOT ENOUGH          3.0        602               0.34
+4              DON'T KNOW          4.0        628               0.35
+
+
+
+S77A.Q39 IN GENERAL, WOULD YOU SAY THAT THERE ARE TOO MANY SPORTS AND ATHLETICS FOR THE ENLISTED MEN WHO WORK IN THIS HOSPITAL, NOT ENOUGH SPORTS AND ATHLETICS, OR ABOUT THE RIGHT AMOUNT?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0         34               0.02
+1                TOO MANY          1.0         15               0.01
+2  ABOUT THE RIGHT AMOUNT          2.0        329               0.18
+3              NOT ENOUGH          3.0        325               0.18
+4              DON'T KNOW          4.0       1086               0.61
+
+
+
+S77A.Q40 HOW IMPORTANT IS IT TO YOU PERSONALLY TO HAVE A CHANCE TO TAKE PART IN SPORTS OR ATHLETIC GAMES WHILE IN THE HOSPITAL?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0         81               0.05
+1     IT IS ABSOLUTELY NECESSARY          1.0        151               0.08
+2      IT IS OF GREAT IMPORTANCE          2.0        369               0.21
+3     IT IS OF MEDIUM IMPORTANCE          3.0        417               0.23
+4     IT IS OF LITTLE IMPORTANCE          4.0        379               0.21
+5  IT IS OF NO IMPORTANCE AT ALL          5.0        392               0.22
+
+
+
+S77A.Q41 HOW IMPORTANT IS IT TO YOU PERSONALLY TO HAVE A CHANCE TO WATCH SPORTS OR ATHLETIC GAMES WHILE IN THE HOSPITAL?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0         63               0.04
+1     IT IS ABSOLUTELY NECESSARY          1.0        130               0.07
+2      IT IS OF GREAT IMPORTANCE          2.0        479               0.27
+3     IT IS OF MEDIUM IMPORTANCE          3.0        553               0.31
+4     IT IS OF LITTLE IMPORTANCE          4.0        307               0.17
+5  IT IS OF NO IMPORTANCE AT ALL          5.0        257               0.14
+
+
+
+S77A.Q42 WHAT SMALL INDOOR GAMES DO YOU LIKE TO PLAY?
+                                  answer_label answer_value raw_counts relative_frequency
+0                                    NO ANSWER          0.0         47               0.03
+1                               A GAME CHECKED          1.0       1523               0.85
+2  I DON'T LIKE TO PLAY ANY SMALL INDOOR GAMES          2.0        219               0.12
+
+
+
+S77A.Q42A BINGO?
+                                  answer_label answer_value raw_counts relative_frequency
+0                 NO ANSWER TO ENTIRE QUESTION          0.0         47               0.03
+1                                 ITEM CHECKED          1.0        558               0.31
+2                             ITEM NOT CHECKED          2.0        965               0.54
+3  I DON'T LIKE TO PLAY ANY SMALL INDOOR GAMES          3.0        219               0.12
+
+
+
+S77A.Q42B CHECKERS?
+                                  answer_label answer_value raw_counts relative_frequency
+0                 NO ANSWER TO ENTIRE QUESTION          0.0         47               0.03
+1                                 ITEM CHECKED          1.0        806               0.45
+2                             ITEM NOT CHECKED          2.0        717                0.4
+3  I DON'T LIKE TO PLAY ANY SMALL INDOOR GAMES          3.0        219               0.12
+
+
+
+S77A.Q42C CHESS?
+                                  answer_label answer_value raw_counts relative_frequency
+0                 NO ANSWER TO ENTIRE QUESTION          0.0         47               0.03
+1                                 ITEM CHECKED          1.0        195               0.11
+2                             ITEM NOT CHECKED          2.0       1328               0.74
+3  I DON'T LIKE TO PLAY ANY SMALL INDOOR GAMES          3.0        219               0.12
+
+
+
+S77A.Q42D CHINESE CHECKERS?
+                                  answer_label answer_value raw_counts relative_frequency
+0                 NO ANSWER TO ENTIRE QUESTION          0.0         47               0.03
+1                                 ITEM CHECKED          1.0        398               0.22
+2                             ITEM NOT CHECKED          2.0       1125               0.63
+3  I DON'T LIKE TO PLAY ANY SMALL INDOOR GAMES          3.0        219               0.12
+
+
+
+S77A.Q42E CRIBBAGE?
+                                  answer_label answer_value raw_counts relative_frequency
+0                 NO ANSWER TO ENTIRE QUESTION          0.0         47               0.03
+1                                 ITEM CHECKED          1.0        242               0.14
+2                             ITEM NOT CHECKED          2.0       1281               0.72
+3  I DON'T LIKE TO PLAY ANY SMALL INDOOR GAMES          3.0        219               0.12
+
+
+
+S77A.Q42F DOMINOES?
+                                  answer_label answer_value raw_counts relative_frequency
+0                 NO ANSWER TO ENTIRE QUESTION          0.0         47               0.03
+1                                 ITEM CHECKED          1.0        335               0.19
+2                             ITEM NOT CHECKED          2.0       1188               0.66
+3  I DON'T LIKE TO PLAY ANY SMALL INDOOR GAMES          3.0        219               0.12
+
+
+
+S77A.Q42G MONOPOLY?
+                                  answer_label answer_value raw_counts relative_frequency
+0                 NO ANSWER TO ENTIRE QUESTION          0.0         47               0.03
+1                                 ITEM CHECKED          1.0        316               0.18
+2                             ITEM NOT CHECKED          2.0       1207               0.67
+3  I DON'T LIKE TO PLAY ANY SMALL INDOOR GAMES          3.0        219               0.12
+
+
+
+S77A.Q42H CARDS?
+                                  answer_label answer_value raw_counts relative_frequency
+0                 NO ANSWER TO ENTIRE QUESTION          0.0         47               0.03
+1                                 ITEM CHECKED          1.0       1240               0.69
+2                             ITEM NOT CHECKED          2.0        283               0.16
+3  I DON'T LIKE TO PLAY ANY SMALL INDOOR GAMES          3.0        219               0.12
+
+
+
+S77A.Q42I OTHER?
+                                  answer_label answer_value raw_counts relative_frequency
+0                 NO ANSWER TO ENTIRE QUESTION          0.0         47               0.03
+1                                 ITEM CHECKED          1.0         27               0.02
+2                             ITEM NOT CHECKED          2.0       1495               0.84
+3  I DON'T LIKE TO PLAY ANY SMALL INDOOR GAMES          3.0        220               0.12
+
+
+
+S77A.Q43 DURING THE PAST WEEK DID YOU PLAY ANY SMALL INDOOR GAMES - ANY OF THE GAMES IN QUESTION 42 OR OTHERS LIKE THEM?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         29               0.02
+1          YES          1.0       1059               0.59
+2           NO          2.0        701               0.39
+
+
+
+S77A.Q44 ARE THERE ENOUGH SMALL INDOOR GAMES THAT YOU CAN USE HERE IN THE HOSPITAL?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         31               0.02
+1           NO          2.0        218               0.12
+2          YES          1.0       1176               0.66
+3   DON'T KNOW          3.0        364                0.2
+
+
+
+S77A.Q46 HOW OFTEN DO THEY HAVE MOVIES RIGHT IN YOUR OWN WARD?
+                                  answer_label answer_value raw_counts relative_frequency
+0                                    NO ANSWER          0.0         58               0.03
+1                   THREE OR MORE TIMES A WEEK          1.0         96               0.05
+2                                 TWICE A WEEK          2.0         56               0.03
+3                                  ONCE A WEEK          3.0         94               0.05
+4                ONCE EVERY TWO OR THREE WEEKS          4.0         69               0.04
+5                                 ONCE A MONTH          5.0         46               0.03
+6                       LESS THAN ONCE A MONTH          6.0         78               0.04
+7  THEY DON'T HAVE ANY MOVIES RIGHT IN MY WARD          7.0       1292               0.72
+
+
+
+S77A.Q47 DO THEY HAVE MOVIES RIGHT IN YOUR OWN WARD OFTEN ENOUGH OR NOT OFTEN ENOUGH TO SUIT YOU?
+                                         answer_label answer_value raw_counts relative_frequency
+0                                           NO ANSWER          0.0        346               0.19
+1       YES, THEY HAVE MOVIES IN MY WARD OFTEN ENOUGH          1.0        222               0.12
+2  NO, THEY DON'T HAVE MOVIES IN MY WARD OFTEN ENOUGH          2.0        979               0.55
+3                                          DON'T KNOW          3.0        242               0.14
+
+
+
+S77A.Q48 HOW OFTEN WOULD YOU LIKE TO HAVE MOVIES RIGHT IN YOUR OWN WARD?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0        117               0.07
+1     THREE OR MORE TIMES A WEEK          1.0        558               0.31
+2                   TWICE A WEEK          2.0        497               0.28
+3                    ONCE A WEEK          3.0        258               0.14
+4  ONCE EVERY TWO OR THREE WEEKS          4.0         32               0.02
+5                   ONCE A MONTH          5.0         17               0.01
+6         LESS THAN ONCE A MONTH          6.0          8                0.0
+7                          NEVER          7.0        302               0.17
+
+
+
+S77A.Q49 ARE YOU SATISFIED OR ARE YOU NOT SATISFIED WITH THE KIND OF MOVIES YOU SEE RIGHT IN YOUR OWN WARD?
+                                      answer_label answer_value raw_counts relative_frequency
+0                                        NO ANSWER          0.0         78               0.04
+1                              YES, I AM SATISFIED          1.0        306               0.17
+2                           NO, I AM NOT SATISFIED          2.0        104               0.06
+3                                        UNDECIDED          3.0         84               0.05
+4  THEY DON'T HAVE ANY MOVIES RIGHT IN MY OWN WARD          4.0       1217               0.68
+
+
+
+S77A.Q50 ABOUT HOW OFTEN DO YOU GO TO SEE A MOVIE HERE IN THE HOSPITAL - NOT COUNTING THOSE YOU SEE IN THE WARD?
+                                                          answer_label answer_value raw_counts relative_frequency
+0                                                            NO ANSWER          0.0         43               0.02
+1                                           THREE OR MORE TIMES A WEEK          1.0        538                0.3
+2                                                         TWICE A WEEK          2.0        549               0.31
+3                                                          ONCE A WEEK          3.0        196               0.11
+4                                        ONCE EVERY TWO OR THREE WEEKS          4.0         63               0.04
+5                                                         ONCE A MONTH          5.0         25               0.01
+6                                               LESS THAN ONCE A MONTH          6.0         23               0.01
+7                                                                NEVER          7.0        115               0.06
+8  I HAVEN'T BEEN WELL ENOUGH TO GO TO SEE ANY MOVIES OUTSIDE THE WARD          8.0        237               0.13
+
+
+
+S77A.Q51 NOT COUNTING MOVIES YOU SEE RIGHT IN YOUR OWN WARD, DO YOU SEE MOVIES HERE IN THE HOSPITAL OFTEN ENOUGH OR NOT OFTEN ENOUGH TO SUIT YOU?
+                                                answer_label answer_value raw_counts relative_frequency
+0                                                  NO ANSWER          0.0         61               0.03
+1        YES, I SEE MOVIES OFTEN ENOUGH HERE IN THE HOSPITAL          1.0       1151               0.64
+2  NO, I DO NOT SEE MOVIES OFTEN ENOUGH HERE IN THE HOSPITAL          2.0        444               0.25
+3                                                 DON'T KNOW          3.0        133               0.07
+
+
+
+S77A.Q52 ARE YOU SATISFIED OR ARE YOU NOT SATISFIED WITH THE KIND OF MOVIES YOU SEE HERE IN THE HOSPITAL - NOT COUNTING THOSE YOU SEE IN THE WARD?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0         46               0.03
+1                         YES, I AM SATISFIED          1.0       1192               0.67
+2                      NO, I AM NOT SATISFIED          2.0        129               0.07
+3                                   UNDECIDED          3.0        145               0.08
+4  I HAVEN'T SEEN ANY MOVIES OUTSIDE THE WARD          4.0        277               0.15
+
+
+
+S77A.Q53 HOW IMPORTANT IS IT TO YOU PERSONALLY TO HAVE A CHANCE TO SEE MOVIES HERE IN THE HOSPITAL?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0         39               0.02
+1     IT IS ABSOLUTELY NECESSARY          1.0        218               0.12
+2      IT IS OF GREAT IMPORTANCE          2.0        594               0.33
+3     IT IS OF MEDIUM IMPORTANCE          3.0        559               0.31
+4     IT IS OF LITTLE IMPORTANCE          4.0        216               0.12
+5  IT IS OF NO IMPORTANCE AT ALL          5.0        163               0.09
+
+
+
+S77A.Q54 HOW MUCH DO YOU LIKE TO SEE WAR MOVIES WITH BATTLE SCENES?
+  answer_label answer_value raw_counts relative_frequency
+0    VERY MUCH          1.0        475               0.27
+1  PRETTY MUCH          2.0        296               0.17
+2   NOT AT ALL          4.0        453               0.25
+3    NO ANSWER          0.0         29               0.02
+4  NOT SO MUCH          3.0        536                0.3
+
+
+
+S77A.Q56 WHICH OF THE FOLLOWING KINDS OF STAGE SHOWS (NOT MOVIES) HAVE YOU SEEN IN THE HOSPITAL?
+                                          answer_label answer_value raw_counts relative_frequency
+0                                            NO ANSWER          0.0         50               0.03
+1                         A KIND OF STAGE SHOW CHECKED          1.0       1038               0.58
+2  I HAVEN'T SEEN ANY STAGE SHOWS HERE IN THE HOSPITAL          2.0        701               0.39
+
+
+
+S77A.Q56A USO TRAVELING CAMP SHOWS?
+                                          answer_label answer_value raw_counts relative_frequency
+0                         NO ANSWER TO ENTIRE QUESTION          0.0         49               0.03
+1                                         ITEM CHECKED          1.0        549               0.31
+2                                     ITEM NOT CHECKED          2.0        489               0.27
+3  I HAVEN'T SEEN ANY STAGE SHOWS HERE IN THE HOSPITAL          3.0        702               0.39
+
+
+
+S77A.Q56B "BIG TIME" RADIO PROGRAMS?
+                                          answer_label answer_value raw_counts relative_frequency
+0                         NO ANSWER TO ENTIRE QUESTION          0.0         49               0.03
+1                                         ITEM CHECKED          1.0        135               0.08
+2                                     ITEM NOT CHECKED          2.0        903                0.5
+3  I HAVEN'T SEEN ANY STAGE SHOWS HERE IN THE HOSPITAL          3.0        702               0.39
+
+
+
+S77A.Q56C STAGE SHOWS PUT ON BY OTHER CIVILIANS?
+                                          answer_label answer_value raw_counts relative_frequency
+0                         NO ANSWER TO ENTIRE QUESTION          0.0         49               0.03
+1                                         ITEM CHECKED          1.0        641               0.36
+2                                     ITEM NOT CHECKED          2.0        397               0.22
+3  I HAVEN'T SEEN ANY STAGE SHOWS HERE IN THE HOSPITAL          3.0        702               0.39
+
+
+
+S77A.Q56D STAGE SHOWS PUT ON BY PATIENTS?
+                                          answer_label answer_value raw_counts relative_frequency
+0                         NO ANSWER TO ENTIRE QUESTION          0.0         49               0.03
+1                                         ITEM CHECKED          1.0        272               0.15
+2                                     ITEM NOT CHECKED          2.0        766               0.43
+3  I HAVEN'T SEEN ANY STAGE SHOWS HERE IN THE HOSPITAL          3.0        702               0.39
+
+
+
+S77A.Q56E STAGE SHOWS PUT ON BY OTHER SOLDIERS?
+                                          answer_label answer_value raw_counts relative_frequency
+0                         NO ANSWER TO ENTIRE QUESTION          0.0         49               0.03
+1                                         ITEM CHECKED          1.0        440               0.25
+2                                     ITEM NOT CHECKED          2.0        598               0.33
+3  I HAVEN'T SEEN ANY STAGE SHOWS HERE IN THE HOSPITAL          3.0        702               0.39
+
+
+
+S77A.Q56F OTHER STAGE SHOWS?
+                                          answer_label answer_value raw_counts relative_frequency
+0                         NO ANSWER TO ENTIRE QUESTION          0.0         49               0.03
+1                                         ITEM CHECKED          1.0         51               0.03
+2                                     ITEM NOT CHECKED          2.0        987               0.55
+3  I HAVEN'T SEEN ANY STAGE SHOWS HERE IN THE HOSPITAL          3.0        702               0.39
+
+
+
+S77A.Q57 DO THEY HAVE STAGE SHOWS HERE IN THE HOSPITAL OFTEN ENOUGH OR NOT OFTEN ENOUGH TO SUIT YOU?
+                                    answer_label answer_value raw_counts relative_frequency
+0                                      NO ANSWER          0.0         48               0.03
+1        YES, THEY HAVE STAGE SHOWS OFTEN ENOUGH          1.0        591               0.33
+2  NO, THEY DO NOT HAVE STAGE SHOWS OFTEN ENOUGH          2.0        654               0.37
+3                                     DON'T KNOW          3.0        496               0.28
+
+
+
+S77A.Q58 ARE YOU SATISFIED OR ARE YOU NOT SATISFIED WITH THE KIND OF STAGE SHOWS THEY HAVE HERE IN THE HOSPITAL?
+                                          answer_label answer_value raw_counts relative_frequency
+0                                            NO ANSWER          0.0         44               0.02
+1                                  YES, I AM SATISFIED          1.0        632               0.35
+2                               NO, I AM NOT SATISFIED          2.0        201               0.11
+3                                            UNDECIDED          3.0        238               0.13
+4  I HAVEN'T SEEN ANY STAGE SHOWS HERE IN THE HOSPITAL          4.0        674               0.38
+
+
+
+S77A.Q59 NOT COUNTING MOVIES, HOW OFTEN IS A SHOW PUT ON RIGHT IN YOUR OWN WARD?
+                                                               answer_label answer_value raw_counts relative_frequency
+0                                                                 NO ANSWER          0.0         52               0.03
+1                                                     MORE THAN ONCE A WEEK          1.0         31               0.02
+2                                                         ABOUT ONCE A WEEK          2.0         46               0.03
+3                                          ABOUT TWO OR THREE TIMES A MONTH          3.0         30               0.02
+4                                                        ABOUT ONCE A MONTH          4.0         39               0.02
+5                                                    LESS THAN ONCE A MONTH          5.0         59               0.03
+6  THEY HAVEN'T PUT ON ANY SHOWS IN MY WARD SINCE I'VE BEEN IN THE HOSPITAL          6.0       1532               0.86
+
+
+
+S77A.Q60 NOT COUNTING MOVIES, IS A SHOW PUT ON RIGHT IN YOUR OWN WARD OFTEN ENOUGH OR NOT OFTEN ENOUGH TO SUIT YOU?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                         NO ANSWER          0.0        289               0.16
+1     YES, A SHOW IS PUT ON IN MY WARD OFTEN ENOUGH          1.0        163               0.09
+2  NO, A SHOW IS NOT PUT ON IN MY WARD OFTEN ENOUGH          2.0        899                0.5
+3                                        DON'T KNOW          3.0        438               0.24
+
+
+
+S77A.Q61 NOT COUNTING MOVIES, HOW OFTEN WOULD YOU LIKE TO SEE A SHOW PUT ON RIGHT IN YOUR OWN WARD?
+                       answer_label answer_value raw_counts relative_frequency
+0                         NO ANSWER          0.0        135               0.08
+1             MORE THAN ONCE A WEEK          1.0        350                0.2
+2                 ABOUT ONCE A WEEK          2.0        630               0.35
+3  ABOUT TWO OR THREE TIMES A MONTH          3.0        175                0.1
+4                ABOUT ONCE A MONTH          4.0         91               0.05
+5            LESS THAN ONCE A MONTH          5.0         24               0.01
+6                             NEVER          6.0        384               0.21
+
+
+
+S77A.Q62 ARE YOU SATISFIED OR ARE YOU NOT SATISFIED WITH THE KIND OF SHOWS (NOT COUNTING MOVIES) THAT THEY PUT ON RIGHT IN YOUR OWN WARD?
+                                                               answer_label answer_value raw_counts relative_frequency
+0                                                                 NO ANSWER          0.0         67               0.04
+1                                                       YES, I AM SATISFIED          1.0        152               0.08
+2                                                    NO, I AM NOT SATISFIED          2.0         47               0.03
+3                                                                 UNDECIDED          3.0         79               0.04
+4  THEY HAVEN'T PUT ON ANY SHOWS IN MY WARD SINCE I'VE BEEN IN THE HOSPITAL          4.0       1444               0.81
+
+
+
+S77A.Q63 HOW IMPORTANT IS IT TO YOU PERSONALLY TO BE ABLE TO SEE STAGE SHOWS HERE IN THE HOSPITAL?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0         56               0.03
+1     IT IS ABSOLUTELY NECESSARY          1.0        125               0.07
+2      IT IS OF GREAT IMPORTANCE          2.0        409               0.23
+3     IT IS OF MEDIUM IMPORTANCE          3.0        628               0.35
+4     IT IS OF LITTLE IMPORTANCE          4.0        332               0.19
+5  IT IS OF NO IMPORTANCE AT ALL          5.0        239               0.13
+
+
+
+S77A.Q64 WOULD YOU LIKE TO BE IN A "SOLDIER SHOW" PUT ON BY PATIENTS HERE IN THE HOSPITAL?
+                           answer_label answer_value raw_counts relative_frequency
+0                  YES, I WOULD LIKE TO          1.0        188               0.11
+1                NO, I WOULDN'T LIKE TO          2.0        720                0.4
+2  I AM NOT WELL ENOUGH TO BE IN A SHOW          4.0        609               0.34
+3                             NO ANSWER          0.0         36               0.02
+4                             UNDECIDED          3.0        236               0.13
+
+
+
+S77A.Q66 IS THERE A LIBRARY IN THIS HOSPITAL THAT THE PATIENTS CAN USE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         24               0.01
+1          YES          1.0       1587               0.89
+2           NO          2.0         22               0.01
+3   DON'T KNOW          3.0        156               0.09
+
+
+
+S77A.Q67 HOW OFTEN DO YOU GO TO THE LIBRARY HERE IN THE HOSPITAL?
+                                                    answer_label answer_value raw_counts relative_frequency
+0                                                      NO ANSWER          0.0         43               0.02
+1                                               ALMOST EVERY DAY          1.0        143               0.08
+2                                      TWO OR THREE TIMES A WEEK          2.0        281               0.16
+3                                              ABOUT ONCE A WEEK          3.0        290               0.16
+4                                     TWO OR THREE TIMES A MONTH          4.0         67               0.04
+5                                           ONCE A MONTH OR LESS          5.0         74               0.04
+6  SO FAR, I HAVE NEVER BEEN TO THE LIBRARY HERE IN THE HOSPITAL          6.0        874               0.49
+7                       THERE IS NO LIBRARY HERE IN THE HOSPITAL          7.0         17               0.01
+
+
+
+S77A.Q68 DOES ANYONE BRING BOOKS (NOT COUNTING MAGAZINES AND COMIC BOOKS) AROUND TO YOUR WARD? IF YES, WHO USUALLY BRINGS THEM?
+                                      answer_label answer_value raw_counts relative_frequency
+0                                        NO ANSWER          0.0         55               0.03
+1                                   YES, LIBRARIAN          1.0        126               0.07
+2                                   YES, RED CROSS          2.0        966               0.54
+3                     YES, LIBRARIAN AND RED CROSS          3.0          9               0.01
+4                                    YES, WARD BOY          4.0         19               0.01
+5            YES, FRIENDS OR VISITORS OR RELATIVES          5.0         17               0.01
+6                                    YES, CHAPLAIN          6.0          6                0.0
+7   YES, RED CROSS, FRIENDS, CIVILIANS OR PATIENTS          7.0         11               0.01
+8                                       YES, OTHER          8.0         67               0.04
+9                                   YES, NO ANSWER          9.0        187                0.1
+10                                              NO         10.0        326               0.18
+
+
+
+S77A.Q69 DO THEY BRING BOOKS AROUND TO YOUR WARD OFTEN ENOUGH TO SUIT YOU?
+                                   answer_label answer_value raw_counts relative_frequency
+0                                     NO ANSWER          0.0         62               0.03
+1                                           YES          1.0       1337               0.75
+2                                            NO          2.0        133               0.07
+3  THEY DON'T BRING ANY BOOKS AROUND TO MY WARD          3.0        257               0.14
+
+
+
+S77A.Q70 DOES ANYONE BRING MAGAZINES AROUND TO YOUR WARD? IF YES, WHO USUALLY BRINGS THEM?
+                                      answer_label answer_value raw_counts relative_frequency
+0                                        NO ANSWER          0.0         69               0.04
+1                                   YES, LIBRARIAN          1.0         34               0.02
+2                                   YES, RED CROSS          2.0       1085               0.61
+3                     YES, LIBRARIAN AND RED CROSS          3.0          6                0.0
+4                                    YES, WARD BOY          4.0         15               0.01
+5            YES, FRIENDS OR VISITORS OR RELATIVES          5.0         21               0.01
+6                                    YES, CHAPLAIN          6.0          2                0.0
+7   YES, RED CROSS, FRIENDS, CIVILIANS OR PATIENTS          7.0         27               0.02
+8                                       YES, OTHER          8.0         58               0.03
+9                                   YES, NO ANSWER          9.0        183                0.1
+10                                              NO         10.0        289               0.16
+
+
+
+S77A.Q71 DO THEY BRING MAGAZINES AROUND TO YOUR WARD OFTEN ENOUGH TO SUIT YOU?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                         NO ANSWER          0.0         64               0.04
+1                                               YES          1.0       1346               0.75
+2                                                NO          2.0        145               0.08
+3  THEY DON'T BRING ANY MAGAZINES AROUND TO MY WARD          3.0        234               0.13
+
+
+
+S77A.Q72 HAVE YOU READ ANY BOOKS SINCE YOU HAVE BEEN IN THE HOSPITAL? (DON'T COUNT MAGAZINES OR COMIC BOOKS.)
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         60               0.03
+1          YES          1.0       1164               0.65
+2           NO          2.0        565               0.32
+
+
+
+S77A.Q73 WHAT ONE BOOK THAT YOU HAVE READ SINCE YOU HAVE BEEN IN THE HOSPITAL DID YOU LIKE THE BEST? (DON'T COUNT MAGAZINES OR COMIC BOOKS.)
+                                                  answer_label answer_value raw_counts relative_frequency
+0                                                    NO ANSWER          0.0        351                0.2
+1                                                 A BOOK NAMED          1.0        860               0.48
+2  I HAVE NOT READ ANY BOOKS SINCE I HAVE BEEN IN THE HOSPITAL          2.0        578               0.32
+
+
+
+S77A.Q74 IS THERE ANY PARTICULAR BOOK THAT YOU WOULD LIKE TO READ NOW? IF YES, WHICH ONE?
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0        174                0.1
+1           YES, A BOOK NAMED          1.0        294               0.16
+2  YES, NO ANSWER AS TO WHICH          2.0         43               0.02
+3                          NO          3.0       1278               0.71
+
+
+
+S77A.Q75 WHAT KINDS OF BOOKS DO YOU LIKE TO READ?
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0         52               0.03
+1      A KIND OF BOOK CHECKED          1.0       1545               0.86
+2  I DON'T LIKE TO READ BOOKS          2.0        192               0.11
+
+
+
+S77A.Q75A BIOGRAPHY (LIFE STORIES OF FAMOUS PEOPLE)?
+                   answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER TO ENTIRE QUESTION          0.0         52               0.03
+1                  ITEM CHECKED          1.0        454               0.25
+2              ITEM NOT CHECKED          2.0       1090               0.61
+3    I DON'T LIKE TO READ BOOKS          3.0        193               0.11
+
+
+
+S77A.Q75B TRAVEL?
+                   answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER TO ENTIRE QUESTION          0.0         52               0.03
+1                  ITEM CHECKED          1.0        421               0.24
+2              ITEM NOT CHECKED          2.0       1123               0.63
+3    I DON'T LIKE TO READ BOOKS          3.0        193               0.11
+
+
+
+S77A.Q75C CURRENT AFFAIRS?
+                   answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER TO ENTIRE QUESTION          0.0         52               0.03
+1                  ITEM CHECKED          1.0        519               0.29
+2              ITEM NOT CHECKED          2.0       1025               0.57
+3    I DON'T LIKE TO READ BOOKS          3.0        193               0.11
+
+
+
+S77A.Q75D COMIC BOOKS?
+                   answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER TO ENTIRE QUESTION          0.0         52               0.03
+1                  ITEM CHECKED          1.0        318               0.18
+2              ITEM NOT CHECKED          2.0       1226               0.69
+3    I DON'T LIKE TO READ BOOKS          3.0        193               0.11
+
+
+
+S77A.Q75E HISTORY?
+                   answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER TO ENTIRE QUESTION          0.0         52               0.03
+1                  ITEM CHECKED          1.0        510               0.29
+2              ITEM NOT CHECKED          2.0       1034               0.58
+3    I DON'T LIKE TO READ BOOKS          3.0        193               0.11
+
+
+
+S77A.Q75F FUNNY STORIES OR JOKES?
+                   answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER TO ENTIRE QUESTION          0.0         52               0.03
+1                  ITEM CHECKED          1.0        350                0.2
+2              ITEM NOT CHECKED          2.0       1194               0.67
+3    I DON'T LIKE TO READ BOOKS          3.0        193               0.11
+
+
+
+FORM..2FORM.
+      answer_label answer_value raw_counts relative_frequency
+0  S-077A - A FORM          1.0       1789                1.0
+
+
+
+S77A.Q75G SCIENTIFIC?
+                   answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER TO ENTIRE QUESTION          0.0         52               0.03
+1                  ITEM CHECKED          1.0        295               0.16
+2              ITEM NOT CHECKED          2.0       1249                0.7
+3    I DON'T LIKE TO READ BOOKS          3.0        193               0.11
+
+
+
+S77A.Q75H DETECTIVE OR MYSTERY?
+                   answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER TO ENTIRE QUESTION          0.0         52               0.03
+1                  ITEM CHECKED          1.0        647               0.36
+2              ITEM NOT CHECKED          2.0        897                0.5
+3    I DON'T LIKE TO READ BOOKS          3.0        193               0.11
+
+
+
+S77A.Q75I WESTERN STORIES?
+                   answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER TO ENTIRE QUESTION          0.0         52               0.03
+1                  ITEM CHECKED          1.0        474               0.26
+2              ITEM NOT CHECKED          2.0       1070                0.6
+3    I DON'T LIKE TO READ BOOKS          3.0        193               0.11
+
+
+
+S77A.Q75J OTHER NOVELS OR FICTION?
+                   answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER TO ENTIRE QUESTION          0.0         52               0.03
+1                  ITEM CHECKED          1.0        549               0.31
+2              ITEM NOT CHECKED          2.0        995               0.56
+3    I DON'T LIKE TO READ BOOKS          3.0        193               0.11
+
+
+
+S77A.Q75K SOME OTHER KIND?
+                   answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER TO ENTIRE QUESTION          0.0         53               0.03
+1                  ITEM CHECKED          1.0        149               0.08
+2              ITEM NOT CHECKED          2.0       1396               0.78
+3    I DON'T LIKE TO READ BOOKS          3.0        191               0.11
+
+
+
+S77A.Q76 WHERE DO YOU GET MOST OF THE BOOKS (NOT COUNTING MAGAZINES AND COMIC BOOKS) THAT YOU READ HERE IN THE HOSPITAL?
+                                                  answer_label answer_value raw_counts relative_frequency
+0                                                    NO ANSWER          0.0         47               0.03
+1                                                   I BUY THEM          1.0        123               0.07
+2                            I BORROW THEM FROM OTHER PATIENTS          2.0         88               0.05
+3                      I BORROW THEM FROM THE HOSPITAL LIBRARY          3.0        455               0.25
+4                             I BORROW THEM FROM THE RED CROSS          4.0        274               0.15
+5                   PEOPLE SEND OR BRING THEM TO ME PERSONALLY          5.0         85               0.05
+6  I HAVE NOT READ ANY BOOKS SINCE I HAVE BEEN IN THE HOSPITAL          6.0        458               0.26
+7                                MORE THAN ONE CHECKED IN LIST          7.0        259               0.14
+
+
+
+S77A.Q77 IN GENERAL, SINCE YOU HAVE BEEN IN THIS HOSPITAL, DO YOU GET ENOUGH BOOKS OF THE KIND YOU WANT TO READ?
+                                answer_label answer_value raw_counts relative_frequency
+0                                  NO ANSWER          0.0         57               0.03
+1       YES, I GET ENOUGH OF THE KIND I WANT          1.0       1169               0.65
+2  NO, I DON'T GET ENOUGH OF THE KIND I WANT          2.0        249               0.14
+3                     I DON'T READ ANY BOOKS          3.0        314               0.18
+
+
+
+S77A.Q78 HAVE YOU READ ANY MAGAZINES IN THE PAST WEEK?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         48               0.03
+1          YES          1.0       1351               0.76
+2           NO          2.0        390               0.22
+
+
+
+S77A.Q79 WHAT ONE MAGAZINE DO YOU LIKE MOST OF ALL?
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0        222               0.12
+1   A SPECIFIC MAGAZINE NAMED          1.0       1239               0.69
+2    A KIND OF MAGAZINE NAMED          2.0        166               0.09
+3  I DON'T LIKE ANY MAGAZINES          3.0        162               0.09
+
+
+
+S77A.Q80 WHERE DO YOU GET MOST OF THE MAGAZINES THAT YOU READ HERE IN THE HOSPITAL?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0         56               0.03
+1                                  I BUY THEM          1.0        476               0.27
+2           I BORROW THEM FROM OTHER PATIENTS          2.0        161               0.09
+3     I BORROW THEM FROM THE HOSPITAL LIBRARY          3.0        114               0.06
+4            I BORROW THEM FROM THE RED CROSS          4.0        485               0.27
+5  PEOPLE SEND OR BRING THEM TO ME PERSONALLY          5.0         68               0.04
+6                  I DON'T READ ANY MAGAZINES          6.0        156               0.09
+7               MORE THAN ONE CHECKED IN LIST          7.0        273               0.15
+
+
+
+S77A.Q81 IN GENERAL, SINCE YOU HAVE BEEN IN THIS HOSPITAL, DO YOU GET ENOUGH MAGAZINES OF THE KIND YOU WANT TO READ?
+                                answer_label answer_value raw_counts relative_frequency
+0                                  NO ANSWER          0.0         60               0.03
+1       YES, I GET ENOUGH OF THE KIND I WANT          1.0       1374               0.77
+2  NO, I DON'T GET ENOUGH OF THE KIND I WANT          2.0        194               0.11
+3                 I DON'T READ ANY MAGAZINES          3.0        161               0.09
+
+
+
+S77A.Q82 CAN YOU LISTEN TO THE RADIO IN YOUR OWN WARD OR ROOM?
+                                                       answer_label answer_value raw_counts relative_frequency
+0                                                         NO ANSWER          0.0         30               0.02
+1                             YES, I HAVE MY OWN PERSONAL RADIO SET          1.0        185                0.1
+2          YES, SOME OF THE OTHER PATIENTS HAVE RADIOS OF THEIR OWN          2.0        790               0.44
+3                    YES, THERE IS A LARGE RADIO FOR THE WHOLE WARD          3.0        101               0.06
+4  YES, I CAN LISTEN TO THE HOSPITAL RADIO WITH A SET OF EAR PHONES          4.0        212               0.12
+5                                               YES, SOME OTHER WAY          5.0         20               0.01
+6                          NO, THERE IS NO RADIO IN MY WARD OR ROOM          6.0        416               0.23
+7                                     MORE THAN ONE CHECKED IN LIST          7.0         35               0.02
+
+
+
+S77A.Q83 SINCE YOU HAVE BEEN IN THE HOSPITAL, DO YOU USUALLY HEAR THE RADIO PROGRAMS THAT YOU WANT TO HEAR?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         54               0.03
+1                 YES, USUALLY          1.0        793               0.44
+2             SOME OF THE TIME          2.0        459               0.26
+3              NO, NOT USUALLY          3.0        380               0.21
+4  I DON'T LISTEN TO THE RADIO          4.0        103               0.06
+
+
+
+S77A.Q84 DO YOU LIKE TO SING? (THIS DOESN'T HAVE ANYTHING TO DO WITH HOW WELL YOU CAN SING - JUST TELL WHETHER YOU ENJOY SINGING OR NOT.)
+                                     answer_label answer_value raw_counts relative_frequency
+0                                       NO ANSWER          0.0         38               0.02
+1                                             YES          1.0        955               0.53
+2                                              NO          2.0        459               0.26
+3  IT DEPENDS ON WHOM I'M SINGING WITH, AND WHERE          3.0        337               0.19
+
+
+
+S77A.Q85 WHAT KIND OF GROUP DO YOU MOST ENJOY SINGING WITH?
+                                                                  answer_label answer_value raw_counts relative_frequency
+0                                                                    NO ANSWER          0.0        125               0.07
+1                                                           WITH A FEW FELLOWS          1.0        726               0.41
+2                                     WITH A LARGE GROUP ("COMMUNITY SINGING")          2.0        369               0.21
+3  WITH A GLEE CLUB, QUARTET, OR OTHER GROUP THAT PRACTICES AND GIVES PROGRAMS          3.0        139               0.08
+4                                            I DON'T ENJOY SINGING WITH OTHERS          4.0        412               0.23
+5                                                MORE THAN ONE CHECKED IN LIST          5.0         18               0.01
+
+
+
+S77A.Q86 IS THERE A PHONOGRAPH OR VICTROLA IN THE HOSPITAL?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         42               0.02
+1          YES          1.0        968               0.54
+2           NO          2.0        259               0.14
+3   DON'T KNOW          3.0        520               0.29
+
+
+
+S77A.Q87 CAN YOU USE THE PHONOGRAPH OR VICTROLA WHENEVER YOU WANT TO?
+                                          answer_label answer_value raw_counts relative_frequency
+0                                            NO ANSWER          0.0         81               0.05
+1                              YES, WHENEVER I WANT TO          1.0        553               0.31
+2                                ONLY PART OF THE TIME          2.0        307               0.17
+3                                      NO, HARDLY EVER          3.0        119               0.07
+4  I DON'T KNOW OF ANY PHONOGRAPH HERE IN THE HOSPITAL          4.0        678               0.38
+5             I DON'T LIKE TO LISTEN TO THE PHONOGRAPH          5.0         50               0.03
+6                                           DON'T KNOW          6.0          1                0.0
+
+
+
+S77A.Q88 BELOW IS A LIST OF DIFFERENT KINDS OF MUSIC. READ THROUGH THE LIST AND CHECK EACH KIND THAT YOU LIKE TO LISTEN TO.
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0         43               0.02
+1  SOMETHING CHECKED IN LIST OF MUSIC          1.0       1746               0.98
+
+
+
+S77A.Q88A CHURCH OR RELIGIOUS MUSIC?
+                   answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER TO ENTIRE QUESTION          0.0         43               0.02
+1                  ITEM CHECKED          1.0        577               0.32
+2              ITEM NOT CHECKED          2.0       1169               0.65
+
+
+
+S77A.Q88B CLASSICAL MUSIC (SYMPHONY ORCHESTRAS, OPERA AND "SERIOUS" MUSIC, ETC.)
+                   answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER TO ENTIRE QUESTION          0.0         43               0.02
+1                  ITEM CHECKED          1.0        309               0.17
+2              ITEM NOT CHECKED          2.0       1437                0.8
+
+
+
+S77A.Q88C SEMI-CLASSICAL MUSIC (LIGHT OPERA, ETC.)
+                   answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER TO ENTIRE QUESTION          0.0         43               0.02
+1                  ITEM CHECKED          1.0        468               0.26
+2              ITEM NOT CHECKED          2.0       1278               0.71
+
+
+
+S77A.Q88D OLD FAMILIAR MUSIC (BALLADS, FOLK SONGS, TUNES OF LONG AGO, ETC.)
+                   answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER TO ENTIRE QUESTION          0.0         43               0.02
+1                  ITEM CHECKED          1.0        643               0.36
+2              ITEM NOT CHECKED          2.0       1103               0.62
+
+
+
+S77A.Q88E HILL-BILLY AND COWBOY MUSIC?
+                   answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER TO ENTIRE QUESTION          0.0         43               0.02
+1                  ITEM CHECKED          1.0        576               0.32
+2              ITEM NOT CHECKED          2.0       1170               0.65
+
+
+
+S77A.Q88F SWEET DANCE MUSIC (POPULAR TUNES OF TODAY)?
+                   answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER TO ENTIRE QUESTION          0.0         43               0.02
+1                  ITEM CHECKED          1.0       1203               0.67
+2              ITEM NOT CHECKED          2.0        543                0.3
+
+
+
+S77A.Q88G SWING MUSIC?
+                   answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER TO ENTIRE QUESTION          0.0         43               0.02
+1                  ITEM CHECKED          1.0        833               0.47
+2              ITEM NOT CHECKED          2.0        913               0.51
+
+
+
+S77A.Q88H MILITARY BAND MUSIC?
+                   answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER TO ENTIRE QUESTION          0.0         43               0.02
+1                  ITEM CHECKED          1.0        687               0.38
+2              ITEM NOT CHECKED          2.0       1059               0.59
+
+
+
+S77A.Q88I ARMY MARCHING SONGS AND SERVICE SONGS?
+                   answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER TO ENTIRE QUESTION          0.0         43               0.02
+1                  ITEM CHECKED          1.0        628               0.35
+2              ITEM NOT CHECKED          2.0       1118               0.62
+
+
+
+S77A.Q88J SOME OTHER KIND?
+                   answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER TO ENTIRE QUESTION          0.0         43               0.02
+1                  ITEM CHECKED          1.0         40               0.02
+2              ITEM NOT CHECKED          2.0       1706               0.95
+
+
+
+S77A.Q89 HAVE YOU EVER SEEN A COPY OF THE "ARMY SONG BOOK" HERE IN THE HOSPITAL?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0         44               0.02
+1                   YES          1.0        397               0.22
+2                    NO          2.0       1063               0.59
+3  I HAVE ONE OF MY OWN          3.0        199               0.11
+4            DON'T KNOW          4.0         86               0.05
+
+
+
+S77A.Q90 EVERY MONTH THE WAR DEPARTMENT SENDS OUT A "HIT KIT" WHICH HAS THE WORDS OF SEVERAL POPULAR SONGS PRINTED IN IT. THERE IS A DIFFERENT SET OF SONGS EACH MONTH. HAVE YOU EVER SEEN A COPY OF THE "ARMY HIT KIT" HERE IN THE HOSPITAL?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         49               0.03
+1          YES          1.0        310               0.17
+2           NO          2.0       1343               0.75
+3   DON'T KNOW          3.0         87               0.05
+
+
+
+S77A.Q91 HOW IMPORTANT IS IT TO YOU PERSONALLY FOR THE ARMY TO PROVIDE SONG BOOKS AND OTHER THINGS TO HELP THE PATIENTS SING?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0         66               0.04
+1     IT IS ABSOLUTELY NECESSARY          1.0        134               0.07
+2      IT IS OF GREAT IMPORTANCE          2.0        338               0.19
+3     IT IS OF MEDIUM IMPORTANCE          3.0        445               0.25
+4     IT IS OF LITTLE IMPORTANCE          4.0        438               0.24
+5  IT IS OF NO IMPORTANCE AT ALL          5.0        368               0.21
+
+
+
+S77A.Q92 WHILE YOU ARE IN THE HOSPITAL, WOULD YOU LIKE TO TAKE COURSES IN MUSIC - SUCH AS HARMONY, COMPOSITION, HISTORY OF MUSIC, ETC.?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         57               0.03
+1          YES          1.0        379               0.21
+2           NO          2.0       1036               0.58
+3    UNDECIDED          3.0        317               0.18
+
+
+
+S77A.Q93 WHILE YOU'RE IN THE HOSPITAL, IS THERE ANY MUSICAL INSTRUMENT YOU WOULD LIKE TO LEARN TO PLAY?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         73               0.04
+1          YES          1.0        541                0.3
+2           NO          2.0        934               0.52
+3    UNDECIDED          3.0        241               0.13
+
+
+
+S77A.Q94 THERE IS A WAY OF TEACHING FOREIGN LANGUAGES TO MEN WHO LISTEN TO THE LANGUAGE AS IT IS SPOKEN ON PHONOGRAPH RECORDS. WOULD YOU LIKE TO LEARN SOME FOREIGN LANGUAGE IN THIS WAY WHILE YOU ARE IN THE HOSPITAL?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         70               0.04
+1          YES          1.0        611               0.34
+2           NO          2.0        814               0.46
+3    UNDECIDED          3.0        294               0.16
+
+
+
+S77A.Q95 SINCE YOU HAVE BEEN IN THIS HOSPITAL, HAVE THERE BEEN ANY DANCES FOR THE PATIENTS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         51               0.03
+1          YES          1.0        314               0.18
+2           NO          2.0        880               0.49
+3   DON'T KNOW          3.0        544                0.3
+
+
+
+S77A.Q96 ARE YOU NOW PHYSICALLY ABLE AND WELL ENOUGH TO DANCE?
+                                answer_label answer_value raw_counts relative_frequency
+0                                  NO ANSWER          0.0         49               0.03
+1                  YES, BUT I DON'T KNOW HOW          1.0        213               0.12
+2                     YES, AND I DO KNOW HOW          2.0        390               0.22
+3         NO, I'M NOT WELL ENOUGH OR ABLE TO          3.0        677               0.38
+4  DON'T KNOW WHETHER I'M WELL ENOUGH OR NOT          4.0        185                0.1
+5             I AM NOT INTERESTED IN DANCING          5.0        275               0.15
+
+
+
+S77A.Q97 DO YOU THINK THERE ARE TOO MANY DANCES FOR PATIENTS AT THIS HOSPITAL, NOT ENOUGH DANCES, OR ABOUT THE RIGHT NUMBER OF DANCES?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0        105               0.06
+1      THERE ARE TOO MANY          1.0         11               0.01
+2  ABOUT THE RIGHT NUMBER          2.0        107               0.06
+3              NOT ENOUGH          3.0        810               0.45
+4              DON'T KNOW          4.0        756               0.42
+
+
+
+S77A.Q98 ARE THERE ANY KINDS OF SPORTS, RECREATION, OR ENTERTAINMENT THAT YOU THINK THE HOSPITAL SHOULD ADD TO ITS PROGRAM OR HAVE MORE OF?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        128               0.07
+1          YES          1.0        367               0.21
+2           NO          2.0        337               0.19
+3    UNDECIDED          3.0        957               0.53
+
+
+
+S77A.Q99 IS THERE A RED CROSS RECREATION WORKER IN THIS HOSPITAL? (THIS RECREATION WORKER IS NOT A NURSE BUT IS A WOMAN WHOSE JOB IS TO HELP THE PATIENTS HAVE A BETTER TIME IN THE HOSPITAL.)
+                                          answer_label answer_value raw_counts relative_frequency
+0                                            NO ANSWER          0.0         52               0.03
+1     YES, THERE IS A RED CROSS RECREATION WORKER HERE          1.0       1545               0.86
+2  NO, THERE IS NOT A RED CROSS RECREATION WORKER HERE          2.0         25               0.01
+3                                           DON'T KNOW          3.0        167               0.09
+
+
+
+S77A.Q100 IN GENERAL, HOW DO YOU LIKE THE ENLISTED MEN WHO WORK IN THIS HOSPITAL?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0         29               0.02
+1          I LIKE THEM A LOT          1.0        441               0.25
+2          THEY'RE ALL RIGHT          2.0       1092               0.61
+3  I DON'T LIKE THEM SO MUCH          3.0        151               0.08
+4                  UNDECIDED          4.0         76               0.04
+
+
+
+S77A.Q101 IN GENERAL, HOW DO YOU LIKE THE PATIENTS IN THIS HOSPITAL?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0         25               0.01
+1          I LIKE THEM A LOT          1.0        666               0.37
+2          THEY'RE ALL RIGHT          2.0       1046               0.58
+3  I DON'T LIKE THEM SO MUCH          3.0         22               0.01
+4                  UNDECIDED          4.0         30               0.02
+
+
+
+S77A.Q102 IN YOUR OPINION, DO ANY OF THE ENLISTED MEN WHO WORK IN THIS HOSPITAL "GOLD-BRICK"?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0         39               0.02
+1   ALMOST ALL OF THEM DO          1.0        135               0.08
+2  A GOOD MANY OF THEM DO          2.0        223               0.12
+3        A FEW OF THEM DO          3.0        519               0.29
+4   HARDLY ANY OF THEM DO          4.0        518               0.29
+5               UNDECIDED          5.0        355                0.2
+
+
+
+S77A.Q103 IN YOUR OPINION, DO ANY OF THE PATIENTS IN THIS HOSPITAL "GOLD-BRICK"?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0         54               0.03
+1   ALMOST ALL OF THEM DO          1.0         90               0.05
+2  A GOOD MANY OF THEM DO          2.0        189               0.11
+3        A FEW OF THEM DO          3.0        517               0.29
+4   HARDLY ANY OF THEM DO          4.0        518               0.29
+5               UNDECIDED          5.0        421               0.24
+
+
+
+S77A.Q104 IF IT WERE UP TO YOU TO CHOOSE AFTER YOU GET OUT OF THE HOSPITAL, DO YOU THINK YOU COULD DO MORE FOR YOUR COUNTRY AS A SOLDIER OR DO YOU THINK YOU COULD DO MORE AS A CIVILIAN DOING SOME KIND OF WORK NEEDED TO WIN THE WAR?
+                                                                  answer_label answer_value raw_counts relative_frequency
+0                                                                    NO ANSWER          0.0         27               0.02
+1  I COULD DO MORE AS A CIVILIAN DOING SOME KIND OF WORK NEEDED TO WIN THE WAR          2.0       1149               0.64
+2                                                 I COULD DO MORE AS A SOLDIER          1.0        256               0.14
+3                                                                    UNDECIDED          3.0        357                0.2
+
+
+
+S77A.V107 TYPE OF WARD IDENTIFICATION FOR WALTER REED HOSPITAL:
+                                                                                                     answer_label answer_value raw_counts relative_frequency
+0                                                                                  FOREST GLEN - NEUROPSYCHIATRIC          1.0         20               0.01
+1                                                                                        FOREST GLEN - ORTHOPEDIC          2.0        159               0.09
+2                                            FOREST GLEN - RECON. (REHABILITATION) MOSTLY REHABILITATION PATIENTS          3.0        151               0.08
+3  FOREST GLEN - NEURO; THORACIC; OTHER SURGICAL, G.U. AND GENERAL SURGICAL, MEDICAL AND EARS, NOSE, THROAT AND D          4.0         59               0.03
+4                                                                             GENERAL HOSPITAL - NEUROPSYCHIATRIC          5.0        194               0.11
+5                                                                                   GENERAL HOSPITAL - ORTHOPEDIC          6.0        448               0.25
+6                                                                                 GENERAL HOSPITAL - CONVALESCENT          7.0         67               0.04
+7                               GENERAL HOSPITAL - GENERAL MEDICAL, GENERAL SURGICAL, EARS, EYES, NOSE AND THROAT          8.0        575               0.32
+8                                                                            GENERAL HOSPITAL - SKIN AND VENEREAL          9.0        116               0.06
+
+
+
+S77A.V108 HOSPITAL IDENTIFICATION:
+                            answer_label answer_value raw_counts relative_frequency
+0        WALTER REED HOSPITAL - PATIENTS          1.0        584               0.33
+1     LAWSON GENERAL HOSPITAL - PATIENTS          2.0        410               0.23
+2  MCCLOSKEY GENERAL HOSPITAL - PATIENTS          3.0        795               0.44
+
+
+

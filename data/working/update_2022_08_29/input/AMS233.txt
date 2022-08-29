@@ -1,0 +1,1055 @@
+S233.Q1 WHAT IS YOUR ARMY RANK OR GRADE?
+                                           answer_label answer_value raw_counts relative_frequency
+0                                    NO CODE OR NO DATA          0.0          8                0.0
+1                        PRIVATE OR PRIVATE FIRST CLASS          1.0       1282               0.48
+2                     CORPORAL OR TECHNICIAN, 5TH GRADE          2.0        604               0.22
+3  SERGEANT (ANY GRADE) OR TECHNICIAN, 3RD OR 4TH GRADE          3.0        730               0.27
+4                                             NO ANSWER          4.0         61               0.02
+
+
+
+S233.Q2 HOW FAR DID YOU GO IN SCHOOL?
+                        answer_label answer_value raw_counts relative_frequency
+0                          NO ANSWER          0.0         52               0.02
+1                LESS THAN 6TH GRADE          1.0        111               0.04
+2                 FINISHED 6TH GRADE          2.0        114               0.04
+3                 FINISHED 7TH GRADE          3.0        185               0.07
+4                 FINISHED 8TH GRADE          4.0        374               0.14
+5   FINISHED 1ST YEAR OF HIGH SCHOOL          5.0        221               0.08
+6   FINISHED 2ND YEAR OF HIGH SCHOOL          6.0        287               0.11
+7   FINISHED 3RD YEAR OF HIGH SCHOOL          7.0        271                0.1
+8         GRADUATED FROM HIGH SCHOOL          8.0        703               0.26
+9    SOME COLLEGE BUT DID NOT FINISH          9.0        298               0.11
+10            GRADUATED FROM COLLEGE         10.0         69               0.03
+
+
+
+S233.Q3 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+          answer_label answer_value raw_counts relative_frequency
+0   NO CODE OR NO DATA          0.0          2                0.0
+1  19 YEARS OR YOUNGER          1.0         56               0.02
+2                20-24          2.0       1103               0.41
+3                25-29          3.0        864               0.32
+4                30-34          4.0        405               0.15
+5     35 YEARS OR MORE          5.0        203               0.08
+6            NO ANSWER          6.0         52               0.02
+
+
+
+S233.Q4 IN WHAT STATE DID YOU SPEND MOST OF THE LAST FIVE YEARS OF YOUR CIVILIAN LIFE BEFORE YOU CAME INTO THE ARMY? E. SECTION:
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0                                                                                                        NO CODE OR NO DATA          0.0          4                0.0
+1  SOUTH (ALABAMA, ARKANSAS, FLORIDA, GEORGIA, LOUISIANA, MISSISSIPPI, NORTH CAROLINA, OKLAHOMA, SOUTH CAROLINA, TENNESSEE,          1.0        827               0.31
+2                                                      BORDER (DELAWARE, D.C., KENTUCKY, MARYLAND, MISSOURI, WEST VIRGINIA)          2.0        219               0.08
+3  NORTH (CONNECTICUT, ILLINOIS, INDIANA, IOWA, KANSAS, MAINE, MASSACHUSETTS, MICHIGAN, MINNESOTA, NEBRASKA, NEW HAMPSHIRE,          3.0       1321               0.49
+4               WEST (ARIZONA, CALIFORNIA, COLORADO, IDAHO, MONTANA, NEVADA, NEW MEXICO, OREGON, UTAH, WASHINGTON, WYOMING)          4.0        218               0.08
+5                                                                                                         OTHER THAN STATES          5.0         11                0.0
+6                                                                                                                 NO ANSWER          6.0         85               0.03
+
+
+
+S233.Q5 WHERE WERE YOU LIVING MOST OF THE LAST FIVE YEARS OF YOUR CIVILIAN LIFE BEFORE YOU CAME INTO THE ARMY?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                NO CODE OR NO DATA          0.0          5                0.0
+1                       ON A FARM OR IN THE COUNTRY          1.0        456               0.17
+2         IN A SMALL TOWN (FEWER THAN 2,500 PEOPLE)          2.0        298               0.11
+3  IN A TOWN (WITH BETWEEN 2,500 AND 25,000 PEOPLE)          3.0        468               0.17
+4     IN A CITY (BETWEEN 25,000 AND 100,000 PEOPLE)          4.0        563               0.21
+5        IN A LARGE CITY (MORE THAN 100,000 PEOPLE)          5.0        857               0.32
+6                                         NO ANSWER          6.0         38               0.01
+
+
+
+S233.Q6A.x ARE YOU A CHURCH MEMBER?  Q.6B. WHETHER YOU ARE A CHURCH MEMBER OR NOT, DO YOU CONSIDER YOURSELF CATHOLIC, JEWISH, PROTESTANT OR OTHER? IF OTHER, WHAT?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         29               0.01
+1                 YES, CATHOLIC          1.0        570               0.21
+2                   YES, JEWISH          2.0         32               0.01
+3               YES, PROTESTANT          3.0       1240               0.46
+4                    YES, OTHER          4.0         16               0.01
+5                YES, NO ANSWER          5.0         71               0.03
+6     NO OR NO ANSWER, CATHOLIC          6.0         98               0.04
+7       NO OR NO ANSWER, JEWISH          7.0         37               0.01
+8   NO OR NO ANSWER, PROTESTANT          8.0        527                0.2
+9      NO OR NO ANSWER, ATHEIST          9.0          6                0.0
+10       NO OR NO ANSWER, OTHER         10.0         20               0.01
+11                NO, NO ANSWER         11.0         39               0.01
+
+
+
+S233.Q7 HOW LONG HAVE YOU BEEN IN THE ARMY? E. IF YOU WERE IN THE NATIONAL GUARD, CHECK THE LENGTH OF TIME SINCE YOUR OUTFIT CAME INTO THE ARMY ON ACTIVE DUTY.
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0         16               0.01
+1       LESS THAN 1 YEAR          1.0         24               0.01
+2   1 YEAR UP TO 2 YEARS          2.0        422               0.16
+3  2 YEARS UP TO 3 YEARS          3.0       1247               0.46
+4  3 YEARS UP TO 4 YEARS          4.0        737               0.27
+5  4 YEARS UP TO 5 YEARS          5.0        197               0.07
+6       5 YEARS AND OVER          6.0         42               0.02
+
+
+
+S233.Q8 HOW LONG HAVE YOU BEEN OVERSEAS? (COUNT FROM THE TIME YOU LEFT THE STATES.)
+              answer_label answer_value raw_counts relative_frequency
+0                NO ANSWER          0.0         27               0.01
+1       LESS THAN 3 MONTHS          1.0         22               0.01
+2  3 MONTHS UP TO 6 MONTHS          2.0        124               0.05
+3    6 MONTHS UP TO 1 YEAR          3.0        528                0.2
+4     1 YEAR UP TO 2 YEARS          4.0       1070                0.4
+5    2 YEARS UP TO 3 YEARS          5.0        835               0.31
+6         3 YEARS AND OVER          6.0         79               0.03
+
+
+
+S233.Q9 HAVE YOU BEEN IN ACTUAL COMBAT IN THIS WAR? (THAT IS, HAVE YOU HAD A JOB WHICH KEPT YOU REGULARLY WITHIN THE RANGE OF ENEMY ARTILLERY?)
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          3                0.0
+1                 YES          1.0       1525               0.57
+2                  NO          2.0       1113               0.41
+3           NO ANSWER          3.0         44               0.02
+
+
+
+S233.Q10 HOW LONG HAS YOUR OUTFIT BEEN LOCATED AT THIS PARTICULAR PLACE?
+              answer_label answer_value raw_counts relative_frequency
+0                NO ANSWER          0.0         55               0.02
+1        LESS THAN 1 MONTH          1.0        309               0.12
+2   1 MONTH UP TO 3 MONTHS          2.0       1053               0.39
+3  3 MONTHS UP TO 6 MONTHS          3.0        282               0.11
+4    6 MONTHS UP TO 1 YEAR          4.0        467               0.17
+5           1 YEAR OR OVER          5.0        519               0.19
+
+
+
+S233.Q11.x ARE YOU SINGLE, MARRIED, DIVORCED OR SEPARATED, OR WIDOWED? F. IF MARRIED:  Q.12. HOW MANY CHILDREN DO YOU HAVE?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                         NO ANSWER          0.0          7                0.0
+1                                            SINGLE          1.0       1711               0.64
+2   DIVORCED OR SEPARATED, NO CHILDREN OR NO ANSWER          2.0         40               0.01
+3                 WIDOWED, NO CHILDREN OR NO ANSWER          3.0         10                0.0
+4                              MARRIED, NO CHILDREN          4.0        398               0.15
+5                                  MARRIED, 1 CHILD          5.0        293               0.11
+6                               MARRIED, 2 CHILDREN          6.0         88               0.03
+7                       MARRIED, 3 OR MORE CHILDREN          7.0         35               0.01
+8                                MARRIED, NO ANSWER          8.0         17               0.01
+9         DIVORCED OR SEPARATED, 1 OR MORE CHILDREN          9.0         34               0.01
+10                      WIDOWED, 1 OR MORE CHILDREN         10.0          8                0.0
+11                       SINGLE, 1 OR MORE CHILDREN         11.0         44               0.02
+
+
+
+S233.Q13A.x BEFORE YOU LEFT FOR OVERSEAS, WAS THERE ANY GIRL BACK IN THE STATES THAT YOU EXPECTED TO MARRY AFTER THE WAR?  Q.13B. SO FAR AS YOU KNOW, HAS SHE STAYED LOYAL TO YOU?
+                                                    answer_label answer_value raw_counts relative_frequency
+0                                                      NO ANSWER          0.0         24               0.01
+1                       YES, YES, I AM SURE SHE HAS STAYED LOYAL          1.0        611               0.23
+2       YES, YES, I THINK SHE HAS STAYED LOYAL, BUT I'M NOT SURE          2.0        260                0.1
+3  YES, NO, I DON'T THINK SHE HAS STAYED LOYAL, BUT I'M NOT SURE          3.0         53               0.02
+4                    YES, NO, I AM SURE SHE HAS NOT STAYED LOYAL          4.0        129               0.05
+5                                                 YES, UNDECIDED          5.0        136               0.05
+6                                                 YES, NO ANSWER          6.0         38               0.01
+7                    NO, THERE WASN'T ANYONE I EXPECTED TO MARRY          7.0        635               0.24
+8                                            I'M ALREADY MARRIED          8.0        799                0.3
+
+
+
+S233.Q14 CAN YOU FIND INTERESTING THINGS TO DO IN YOUR OFF-DUTY FREE TIME?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          4                0.0
+1        YES, USUALLY          1.0       1117               0.42
+2      YES, SOMETIMES          2.0        975               0.36
+3     NO, HARDLY EVER          3.0        402               0.15
+4           NO, NEVER          4.0        145               0.05
+5           NO ANSWER          5.0         42               0.02
+
+
+
+S233.Q15 DO YOU CONSIDER YOUR OWN PRESENT JOB OR DUTY IN THE ARMY AN IMPORTANT ONE IN THE WAR EFFORT?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0         39               0.01
+1        VERY IMPORTANT          1.0        933               0.35
+2      PRETTY IMPORTANT          2.0        695               0.26
+3      NOT SO IMPORTANT          3.0        577               0.21
+4  NOT IMPORTANT AT ALL          4.0        268                0.1
+5             UNDECIDED          5.0        173               0.06
+
+
+
+S233.Q16 HOW SATISFIED ARE YOU ABOUT BEING IN YOUR PRESENT ARMY JOB INSTEAD OF SOME OTHER ARMY JOB?
+                            answer_label answer_value raw_counts relative_frequency
+0                              NO ANSWER          0.0         45               0.02
+1                         VERY SATISFIED          1.0        605               0.23
+2                              SATISFIED          2.0        902               0.34
+3                      VERY DISSATISFIED          3.0        268                0.1
+4                           DISSATISFIED          4.0        415               0.15
+5  IT DOES NOT MAKE ANY DIFFERENCE TO ME          5.0        450               0.17
+
+
+
+S233.Q17 DO YOU LIKE TO WORK WITH THE OTHER FELLOWS IN YOUR COMPANY?
+              answer_label answer_value raw_counts relative_frequency
+0                NO ANSWER          0.0         22               0.01
+1        WITH MOST OF THEM          1.0       2104               0.78
+2  WITH ABOUT HALF OF THEM          2.0        251               0.09
+3  WITH ONLY A FEW OF THEM          3.0        227               0.08
+4                UNDECIDED          4.0         81               0.03
+
+
+
+S233.Q18 HOW WOULD YOU SAY PEOPLE YOU KNOW FEEL ABOUT YOU?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         37               0.01
+1   ALMOST ALL OF THEM LIKE ME          1.0       1069                0.4
+2         MOST OF THEM LIKE ME          2.0       1344                0.5
+3        A FEW OF THEM LIKE ME          3.0        206               0.08
+4  ALMOST NONE OF THEM LIKE ME          4.0         29               0.01
+
+
+
+S233.Q19 IN GENERAL, HOW WOULD YOU SAY YOU FEEL MOST OF THE TIME, IN GOOD SPIRITS OR IN LOW SPIRITS?
+                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                  NO ANSWER          0.0         19               0.01
+1                                               I AM USUALLY IN GOOD SPIRITS          1.0        906               0.34
+2  I AM IN GOOD SPIRITS SOME OF THE TIME AND IN LOW SPIRITS SOME OF THE TIME          2.0       1373               0.51
+3                                                I AM USUALLY IN LOW SPIRITS          3.0        387               0.14
+
+
+
+S233.Q20 IN GENERAL, HOW WOULD YOU SAY YOUR HEALTH IS?
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0         15               0.01
+1        BETTER THAN MOST MEN          1.0        381               0.14
+2  ABOUT THE SAME AS MOST MEN          2.0       1784               0.66
+3     NOT AS GOOD AS MOST MEN          3.0        505               0.19
+
+
+
+S233.Q21 HOW WOULD YOU FEEL ABOUT A SOLDIER IN YOUR OUTFIT WHO TRIES TO GET OUT OF DOING HIS JOB BY GOING ON SICK CALL WHEN HE DOESN'T REALLY NEED TO?
+                                                      answer_label answer_value raw_counts relative_frequency
+0                    MOST OF THOSE WHO GO REALLY NEED MEDICAL CARE          4.0         43               0.02
+1            MISCELLANEOUS - FRIENDLY TO THOSE WHO GO ON SICK CALL          5.0         46               0.02
+2          MISCELLANEOUS - UNFRIENDLY TO THOSE WHO GO ON SICK CALL          6.0         28               0.01
+3  MISCELLANEOUS - CANNOT DETERMINE WHETHER FRIENDLY OR UNFRIENDLY          7.0         12                0.0
+4                                NO ANSWER, DON'T KNOW, IRRELEVANT          0.0         43               0.02
+5              I DON'T HAVE ANY USE FOR A FELLOW WHO WOULD DO THAT          1.0       1585               0.59
+6        IT DOESN'T MAKE ANY DIFFERENCE TO ME ONE WAY OR THE OTHER          2.0        507               0.19
+7                    IT'S O.K. WITH ME, IF HE CAN GET AWAY WITH IT          3.0        421               0.16
+
+
+
+S233.Q22 HOW WOULD YOU FEEL ABOUT A SOLDIER IN YOUR OUTFIT WHO GOES AWOL?
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0                                                                                         NO ANSWER, DON'T KNOW, IRRELEVANT          0.0         53               0.02
+1                                                                       I DON'T HAVE ANY USE FOR A FELLOW WHO WOULD DO THAT          1.0       1390               0.52
+2                                                                 IT DOESN'T MAKE ANY DIFFERENCE TO ME ONE WAY OR THE OTHER          2.0        578               0.22
+3                                                                             IT'S O.K. WITH ME, IF HE CAN GET AWAY WITH IT          3.0        378               0.14
+4  IT DEPENDS ON CIRCUMSTANCES, ON PERSON, ON WHETHER MAN CAN GET MEDICAL ATTENTION OR NOT, ETC. (PARTIAL SYMPATHY TOWARD A          4.0        218               0.08
+5                                                                                      MISCELLANEOUS - FRIENDLY TOWARD AWOL          5.0         33               0.01
+6                                                                                    MISCELLANEOUS - UNFRIENDLY TOWARD AWOL          6.0         20               0.01
+7                                                           MISCELLANEOUS - CANNOT DETERMINE WHETHER FRIENDLY OR UNFRIENDLY          7.0         15               0.01
+
+
+
+S233.Q23.x HAVE YOU EVER HAD SEXUAL INTERCOURSE SINCE YOU HAVE BEEN IN ITALY?  Q.24. ABOUT HOW MANY TIMES HAVE YOU HAD SEXUAL INTERCOURSE DURING THE LAST 3 MONTHS?
+                                                     answer_label answer_value raw_counts relative_frequency
+0                                                       NO ANSWER          0.0          8                0.0
+1                                                     YES, 1 TIME          1.0        258                0.1
+2                                               YES, 2 OR 3 TIMES          2.0        545                0.2
+3                                               YES, 4 TO 6 TIMES          3.0        414               0.15
+4                                              YES, 7 TO 12 TIMES          4.0        329               0.12
+5                           YES, MORE THAN 12 TIMES (ONCE A WEEK)          5.0        360               0.13
+6                                            YES, NO TIMES AT ALL          6.0        225               0.08
+7                                                  YES, NO ANSWER          7.0         20               0.01
+8  NO, I HAVE NOT HAD SEXUAL INTERCOURSE SINCE I'VE BEEN IN ITALY          8.0        526                0.2
+
+
+
+S233.Q25 REGARDLESS OF WHAT YOU HAVE DONE IN THE PAST, DO YOU THINK YOU WILL HAVE SEXUAL INTERCOURSE, IN THE FUTURE, WHILE YOU ARE IN ITALY?
+                                                                      answer_label answer_value raw_counts relative_frequency
+0                                                               NO CODE OR NO DATA          0.0          7                0.0
+1                                                             YES, I PROBABLY WILL          1.0       1163               0.43
+2                                       I MIGHT, BUT IT DEPENDS ON A LOT OF THINGS          2.0        839               0.31
+3  NO, I NEVER EXPECT TO HAVE INTERCOURSE DURING THE REST OF THE TIME I'M IN ITALY          3.0        649               0.24
+4                                                                        NO ANSWER          4.0         27               0.01
+
+
+
+S233.Q26 WHEN YOU HAVE SEXUAL INTERCOURSE OVER HERE, WHAT DO YOU PAY FOR IT?
+                                                 answer_label answer_value raw_counts relative_frequency
+0                                                   NO ANSWER          0.0         29               0.01
+1                                         USUALLY PAY NOTHING          1.0        544                0.2
+2                                            USUALLY PAY CASH          2.0       1559               0.58
+3                                 USUALLY PAY WITH CIGARETTES          3.0         14               0.01
+4                                       USUALLY PAY WITH FOOD          4.0         10                0.0
+5                                   USUALLY PAY WITH CLOTHING          5.0          3                0.0
+6  I HAVE NOT HAD SEXUAL INTERCOURSE SINCE I'VE BEEN IN ITALY          6.0        526                0.2
+
+
+
+S233.Q27 WHEN YOU HAVE SEXUAL INTERCOURSE OVER HERE, DO YOU USUALLY HAVE A COUPLE OF DRINKS FIRST?
+                                                 answer_label answer_value raw_counts relative_frequency
+0                                                   NO ANSWER          0.0         25               0.01
+1                YES, I USUALLY HAVE A COUPLE OF DRINKS FIRST          1.0        415               0.15
+2        ABOUT HALF THE TIME, I HAVE A COUPLE OF DRINKS FIRST          2.0        437               0.16
+3    NO, I HARDLY EVER DRINK BEFORE HAVING SEXUAL INTERCOURSE          3.0        728               0.27
+4          NO, I NEVER DRINK BEFORE HAVING SEXUAL INTERCOURSE          4.0        551               0.21
+5  I HAVE NOT HAD SEXUAL INTERCOURSE SINCE I'VE BEEN IN ITALY          5.0        529                0.2
+
+
+
+S233.Q28 WHEN YOU HAVE SEXUAL INTERCOURSE WITH A GIRL OVER HERE, DO YOU USUALLY "SHACK UP" ALL NIGHT, OR JUST STAY FOR A SHORT TIME?
+                                                       answer_label answer_value raw_counts relative_frequency
+0                                                NO CODE OR NO DATA          0.0          4                0.0
+1                                      USUALLY "SHACK UP" ALL NIGHT          1.0        118               0.04
+2  SOMETIMES "SHACK UP" ALL NIGHT, SOMETIMES JUST STAY A SHORT TIME          2.0        446               0.17
+3                                    USUALLY JUST STAY A SHORT TIME          3.0       1559               0.58
+4        I HAVE NOT HAD SEXUAL INTERCOURSE SINCE I'VE BEEN IN ITALY          4.0        528                0.2
+5                                                         NO ANSWER          5.0         30               0.01
+
+
+
+S233.Q29 HOW DID YOU MEET THE GIRL YOU LAST HAD SEXUAL INTERCOURSE WITH?
+                                                       answer_label answer_value raw_counts relative_frequency
+0                                                         NO ANSWER          0.0         46               0.02
+1                                                 IN AN ITALIAN BAR          1.0        134               0.05
+2                                                     ON THE STREET          2.0        363               0.14
+3                                         AT AN ARMY DANCE OR PARTY          3.0        371               0.14
+4  SOME ITALIAN KID OR PIMP TOOK ME TO HER OR SHOWED ME WHERE TO GO          4.0        284               0.11
+5           ANOTHER SOLDIER TOOK ME TO HER OR SHOWED ME WHERE TO GO          5.0        395               0.15
+6                          I FOUND HER HOUSE OR APARTMENT BY MYSELF          6.0        488               0.18
+7                                                    SOME OTHER WAY          7.0         76               0.03
+8      I HAVE NEVER HAD SEXUAL INTERCOURSE SINCE I'VE BEEN IN ITALY          8.0        528                0.2
+
+
+
+S233.Q30 WHEN YOU HAVE SEXUAL INTERCOURSE OVER HERE, DO YOU USE A CONDOM (RUBBER)?
+                                                 answer_label answer_value raw_counts relative_frequency
+0                                                   NO ANSWER          0.0         20               0.01
+1                                       I ALWAYS USE A CONDOM          1.0       1644               0.61
+2                                      I USUALLY USE A CONDOM          2.0        319               0.12
+3                          I USE A CONDOM ABOUT HALF THE TIME          3.0         70               0.03
+4                                I USUALLY DON'T USE A CONDOM          4.0         56               0.02
+5                                        I NEVER USE A CONDOM          5.0         47               0.02
+6  I HAVE NOT HAD SEXUAL INTERCOURSE SINCE I'VE BEEN IN ITALY          6.0        529                0.2
+
+
+
+S233.Q31 WHEN YOU HAVE SEXUAL INTERCOURSE OVER HERE, DO YOU GO TO A "PRO" STATION AFTERWARDS?
+                                                 answer_label answer_value raw_counts relative_frequency
+0                                          NO CODE OR NO DATA          0.0          2                0.0
+1                                 I NEVER GO TO A PRO STATION          1.0        129               0.05
+2                         I USUALLY DON'T GO TO A PRO STATION          2.0        153               0.06
+3                   I GO TO A PRO STATION ABOUT HALF THE TIME          3.0        200               0.07
+4                               I USUALLY GO TO A PRO STATION          4.0        494               0.18
+5                                I ALWAYS GO TO A PRO STATION          5.0       1160               0.43
+6  I HAVE NOT HAD SEXUAL INTERCOURSE SINCE I'VE BEEN IN ITALY          6.0        529                0.2
+7                                                   NO ANSWER          7.0         18               0.01
+
+
+
+S233.Q32 WHEN YOU HAVE SEXUAL INTERCOURSE OVER HERE, DO YOU USE A PRO-KIT OR "V-PACKETTE" AFTERWARDS?
+                                                 answer_label answer_value raw_counts relative_frequency
+0                                          NO CODE OR NO DATA          0.0          3                0.0
+1                         I NEVER USE A PRO-KIT OR V-PACKETTE          1.0        421               0.16
+2                 I USUALLY DON'T USE A PRO-KIT OR V-PACKETTE          2.0        238               0.09
+3           I USE A PRO-KIT OR V-PACKETTE ABOUT HALF THE TIME          3.0        234               0.09
+4                       I USUALLY USE A PRO-KIT OR V-PACKETTE          4.0        415               0.15
+5                        I ALWAYS USE A PRO-KIT OR V-PACKETTE          5.0        775               0.29
+6  I HAVE NOT HAD SEXUAL INTERCOURSE SINCE I'VE BEEN IN ITALY          6.0        529                0.2
+7                                                   NO ANSWER          7.0         70               0.03
+
+
+
+S233.Q33 DO YOU FEEL YOU KNOW HOW TO USE A PRO-KIT OR V-PACKETTE CORRECTLY BY YOURSELF?
+                                          answer_label answer_value raw_counts relative_frequency
+0                                   NO CODE OR NO DATA          0.0          7                0.0
+1       YES, I KNOW HOW TO USE A PRO-KIT OR V-PACKETTE          1.0       2431               0.91
+2  NO, I DON'T KNOW HOW TO USE A PRO-KIT OR V-PACKETTE          2.0        155               0.06
+3             I NEVER HEARD OF A PRO-KIT OR V-PACKETTE          3.0         27               0.01
+4                                            NO ANSWER          4.0         65               0.02
+
+
+
+S233.Q34 HOW DO THE MEN IN YOUR OUTFIT USUALLY GET RUBBERS OR INDIVIDUAL PRO-KITS OR V-PACKETTES?
+                                                          answer_label answer_value raw_counts relative_frequency
+0                                                            NO ANSWER          0.0         31               0.01
+1                                                   BUY THEM AT THE PX          1.0         63               0.02
+2  YOU CAN GET THEM AT THE ORDERLY ROOM OR DISPENSARY IF YOU WANT THEM          2.0       1829               0.68
+3                       EVERYBODY MUST HAVE ONE BEFORE HE GOES ON PASS          3.0        571               0.21
+4                                            GET THEM AT A PRO STATION          4.0        114               0.04
+5                                                       SOME OTHER WAY          5.0          4                0.0
+6        PRO-KITS OR V-PACKETTES ARE NOT AVAILABLE TO MEN IN MY OUTFIT          6.0         14               0.01
+7                                                           DON'T KNOW          7.0         59               0.02
+
+
+
+S233.Q35 WHEN YOU GO ON PASS TO THE CITY NEAREST YOUR OUTFIT, CAN YOU USUALLY FIND A PRO STATION EASILY IF YOU NEED TO?
+                                    answer_label answer_value raw_counts relative_frequency
+0                                      NO ANSWER          0.0         19               0.01
+1                   I ALWAYS CAN FIND ONE EASILY          1.0       1615                0.6
+2                  I USUALLY CAN FIND ONE EASILY          2.0        430               0.16
+3      ABOUT HALF THE TIME I CAN FIND ONE EASILY          3.0         59               0.02
+4                I USUALLY CAN'T FIND ONE EASILY          4.0         33               0.01
+5                    I NEVER CAN FIND ONE EASILY          5.0          9                0.0
+6  I NEVER HAVE NEEDED TO LOOK FOR A PRO STATION          6.0        520               0.19
+
+
+
+S233.Q36 WHEN YOU GO ON PASS TO THE CITY NEAREST YOUR OUTFIT, HOW DO YOU USUALLY FIND WHERE THE PRO STATIONS ARE?
+                                                               answer_label answer_value raw_counts relative_frequency
+0                                                                 NO ANSWER          0.0         30               0.01
+1                A LIST OF PRO STATIONS IS POSTED ON MY UNIT BULLETIN BOARD          1.0        351               0.13
+2                    THEY GIVE US A LIST OF PRO STATIONS WHEN WE GO ON PASS          2.0         90               0.03
+3  THEY GIVE US A MAP SHOWING WHERE THE PRO STATIONS ARE WHEN WE GO ON PASS          3.0         13                0.0
+4                THERE ARE SIGNS ALL OVER TOWN POINTING TO THE PRO STATIONS          4.0       1455               0.54
+5                                                            I ASK THE MP'S          5.0        163               0.06
+6                                                     I ASK ANOTHER SOLDIER          6.0         77               0.03
+7                                                            SOME OTHER WAY          7.0          3                0.0
+8                             I NEVER HAVE NEEDED TO LOOK FOR A PRO STATION          8.0        503               0.19
+
+
+
+S233.Q37 DO YOU THINK YOU KNOW AS MUCH AS YOU NEED TO KNOW ABOUT VENEREAL DISEASES AND HOW TO KEEP FROM GETTING THEM?
+                                                          answer_label answer_value raw_counts relative_frequency
+0                                                   NO CODE OR NO DATA          0.0          3                0.0
+1                                YES, I KNOW EVERYTHING I NEED TO KNOW          1.0       1225               0.46
+2  YES, THOUGH THERE ARE A FEW THINGS I NEED TO KNOW THAT I DON'T KNOW          2.0        983               0.37
+3            NO, THERE IS QUITE A BIT I NEED TO KNOW THAT I DON'T KNOW          3.0        385               0.14
+4                                   NO, I KNOW ALMOST NOTHING ABOUT IT          4.0         32               0.01
+5                                                            NO ANSWER          5.0         57               0.02
+
+
+
+S233.Q38 DURING THE PAST 6 MONTHS, HOW MANY MOVIES ON SEX HYGIENE AND VENEREAL DISEASES HAVE YOU SEEN?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0         51               0.02
+1             ONE MOVIE          1.0        644               0.24
+2            TWO MOVIES          2.0        534                0.2
+3  THREE TO FIVE MOVIES          3.0        541                0.2
+4    SIX OR MORE MOVIES          4.0        381               0.14
+5                  NONE          5.0        534                0.2
+
+
+
+S233.Q39 DURING THE PAST 6 MONTHS, HOW MANY TALKS BY OFFICERS OR NON-COMS HAVE YOU HEARD ABOUT VENEREAL DISEASES?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         30               0.01
+1     ONE OR TWO TALKS          1.0        879               0.33
+2  THREE TO FIVE TALKS          2.0        657               0.24
+3     SIX TO TEN TALKS          3.0        337               0.13
+4  MORE THAN TEN TALKS          4.0        576               0.21
+5                 NONE          5.0        206               0.08
+
+
+
+S233.Q40 WHAT DID YOU THINK OF THE LAST MOVIE YOU SAW ON SEX HYGIENE AND VENEREAL DISEASE?
+       answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER          0.0         31               0.01
+1         VERY GOOD          1.0       1443               0.54
+2       FAIRLY GOOD          2.0        602               0.22
+3             SO-SO          3.0        359               0.13
+4       FAIRLY POOR          4.0         34               0.01
+5         VERY POOR          5.0        110               0.04
+6  I DON'T REMEMBER          6.0        106               0.04
+
+
+
+S233.Q41 WHAT DID YOU THINK OF THE LAST TALK OR LECTURE YOU HEARD ON SEX HYGIENE AND VENEREAL DISEASE?
+       answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER          0.0         38               0.01
+1         VERY GOOD          1.0       1223               0.46
+2       FAIRLY GOOD          2.0        724               0.27
+3             SO-SO          3.0        421               0.16
+4       FAIRLY POOR          4.0         64               0.02
+5         VERY POOR          5.0        120               0.04
+6  I DON'T REMEMBER          6.0         95               0.04
+
+
+
+S233.Q42 IF A SOLDIER IS GOING TO HAVE SEXUAL INTERCOURSE, WHY IS IT BAD TO "SHACK UP" FOR ALL NIGHT?
+                                                                                                           answer_label answer_value raw_counts relative_frequency
+0                                                                                     NO ANSWER, DON'T KNOW, IRRELEVANT          0.0        512               0.19
+1                                                 BECAUSE YOU DON'T TAKE A PRO, OR DON'T TAKE IT IN TIME TO DO ANY GOOD          1.0       1273               0.47
+2  ANY ANSWER INDICATING THAT THE LONGER OR MORE OFTEN REPEATED THE SEXUAL CONTACT, THE MORE LIKELY YOU ARE TO GET V.D.          2.0         80               0.03
+3                                                                            BECAUSE YOU ARE MORE LIKELY TO BE CARELESS          3.0        513               0.19
+4                                                   BECAUSE YOU ARE MORE LIKELY TO GET V.D. (NO REASON OR VAGUE REASON)          4.0        147               0.05
+5                                                                        MISCELLANEOUS SPECIFIC REASONS RELATED TO V.D.          5.0         64               0.02
+6                                                                                        ANY REASON NOT RELATED TO V.D.          6.0         96               0.04
+
+
+
+S233.Q43 WHICH DISEASE CAUSES A SORE ON THE PENIS?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1            SYPHILIS          1.0       2216               0.83
+2    GONORRHEA (CLAP)          2.0        336               0.13
+3               CRABS          3.0         24               0.01
+4           NO ANSWER          4.0        107               0.04
+
+
+
+S233.Q44 WHICH DISEASE CAUSES A YELLOW, CREAMY PUS TO COME OUT OF THE PENIS?
+       answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER          0.0         79               0.03
+1          SYPHILIS          1.0        181               0.07
+2  GONORRHEA (CLAP)          2.0       2403               0.89
+3             CRABS          3.0         22               0.01
+
+
+
+S233.Q45 WHICH DISEASE MAY CAUSE INSANITY?
+       answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER          0.0        125               0.05
+1          SYPHILIS          1.0       2307               0.86
+2  GONORRHEA (CLAP)          2.0        177               0.07
+3   NEITHER OF THEM          3.0         76               0.03
+
+
+
+S233.Q46 IF A CONDOM (RUBBER) IS USED, IS IT ALSO NECESSARY TO TAKE A "PRO"?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         50               0.02
+1          YES          1.0       2362               0.88
+2           NO          2.0        229               0.09
+3   DON'T KNOW          3.0         44               0.02
+
+
+
+S233.Q47 HOW SOON SHOULD A SOLDIER TAKE A "PRO" AFTER SEXUAL INTERCOURSE FOR THE "PRO" TO DO ANY GOOD?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0        156               0.06
+1          1 HOUR OR LESS          1.0       1204               0.45
+2                 2 HOURS          2.0       1085                0.4
+3                 3 HOURS          3.0         63               0.02
+4                 4 HOURS          4.0         82               0.03
+5                 5 HOURS          5.0          7                0.0
+6                 6 HOURS          6.0         10                0.0
+7                 7 HOURS          7.0          2                0.0
+8                 8 HOURS          8.0          6                0.0
+9   ANYTHING OVER 8 HOURS          9.0         25               0.01
+10           VAGUE ANSWER         10.0         45               0.02
+
+
+
+S233.Q48A.x HAVE YOU HEARD OR READ ABOUT THE NEW DRUG (PENICILLIN) THAT IS BEING USED TO TREAT VENEREAL DISEASES?  Q.48B. SO FAR AS YOU KNOW, CAN IT CURE ALL CASES OF GONORRHEA AND SYPHILIS?
+                                      answer_label answer_value raw_counts relative_frequency
+0                         NO ANSWER TO EITHER PART          0.0         29               0.01
+1                     YES TO PART A, YES TO PART B          1.0        668               0.25
+2                      YES TO PART A, NO TO PART B          2.0       1160               0.43
+3              YES TO PART A, DON'T KNOW TO PART B          3.0        677               0.25
+4               YES TO PART A, NO ANSWER TO PART B          4.0         11                0.0
+5  NO TO PART A, ANY ANSWER OR NO ANSWER TO PART B          5.0        132               0.05
+6               NO ANSWER TO PART A, YES TO PART B          6.0          2                0.0
+7                NO ANSWER TO PART A, NO TO PART B          7.0          2                0.0
+8        NO ANSWER TO PART A, DON'T KNOW TO PART B          8.0          4                0.0
+
+
+
+S233.Q49 HOW MUCH DO YOU WORRY ABOUT GETTING A VENEREAL DISEASE?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0         49               0.02
+1         I WORRY ABOUT IT A LOT          1.0       1145               0.43
+2      I WORRY ABOUT IT SOMEWHAT          2.0        765               0.28
+3  I DON'T WORRY ABOUT IT AT ALL          3.0        726               0.27
+
+
+
+S233.Q50 WHAT IS THE MAIN REASON WHY YOU YOURSELF WANT TO KEEP FROM GETTING A VENEREAL DISEASE?
+                                                 answer_label answer_value raw_counts relative_frequency
+0                                                   NO ANSWER          0.0        101               0.04
+1         HAVING A VENEREAL DISEASE IS PAINFUL AND A NUISANCE          1.0        105               0.04
+2  IF I CAUGHT ONE I MIGHT GIVE IT LATER ON TO SOMEONE I LOVE          2.0       1332                0.5
+3         A VENEREAL DISEASE CAN RUIN YOUR HEALTH PERMANENTLY          3.0        951               0.35
+4               I WOULD BE ASHAMED TO HAVE A VENEREAL DISEASE          4.0        139               0.05
+5   I'D GET BUSTED OR PUNISHED IF I CAUGHT A VENEREAL DISEASE          5.0         23               0.01
+6                                              SOMETHING ELSE          6.0         34               0.01
+
+
+
+S233.Q51 DO YOU THINK IT IS A MAN'S OWN FAULT IF HE GETS A VENEREAL DISEASE?
+                              answer_label answer_value raw_counts relative_frequency
+0                                NO ANSWER          0.0         33               0.01
+1               IT ALWAYS IS HIS OWN FAULT          1.0       1286               0.48
+2              IT USUALLY IS HIS OWN FAULT          2.0       1108               0.41
+3  IT IS HIS OWN FAULT ABOUT HALF THE TIME          3.0        206               0.08
+4               IT USUALLY ISN'T HIS FAULT          4.0         39               0.01
+5             IT ALMOST NEVER IS HIS FAULT          5.0         13                0.0
+
+
+
+S233.Q52 WOULD YOU HOLD IT AGAINST A MAN IN YOUR OUTFIT IF HE GOT A VENEREAL DISEASE?
+                                          answer_label answer_value raw_counts relative_frequency
+0                                            NO ANSWER          0.0         75               0.03
+1  YES, WHETHER OR NOT HE WENT ON SICK CALL RIGHT AWAY          1.0        518               0.19
+2         YES, IF HE DIDN'T GO ON SICK CALL RIGHT AWAY          2.0       1726               0.64
+3     NO, EVEN IF HE DIDN'T GO ON SICK CALL RIGHT AWAY          3.0        366               0.14
+
+
+
+S233.Q53 IF A SOLDIER IN YOUR OUTFIT CATCHES A VENEREAL DISEASE AND GOES ON SICK CALL FOR IT RIGHT AWAY, DOES HE LOSE ANY PRIVILEGES - IS HE PUNISHED IN ANY WAY?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         71               0.03
+1          YES          1.0       1043               0.39
+2           NO          2.0       1232               0.46
+3   DON'T KNOW          3.0        339               0.13
+
+
+
+S233.Q54 DO YOU THINK A SOLDIER WHO GETS A VENEREAL DISEASE MORE THAN ONCE SHOULD BE PUNISHED?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0         10                0.0
+1                  NO          2.0       1180               0.44
+2                 YES          1.0       1348                0.5
+3           NO ANSWER          3.0        147               0.05
+
+
+
+S233.Q60 BEFORE YOU CAME INTO THE ARMY, DID YOU EVER HAVE A VENEREAL DISEASE?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          4                0.0
+1                 YES          1.0        421               0.16
+2                  NO          2.0       2201               0.82
+3           NO ANSWER          3.0         59               0.02
+
+
+
+S233.Q61 SINCE YOU CAME INTO THE ARMY BUT BEFORE YOU CAME OVERSEAS, DID YOU EVER HAVE A VENEREAL DISEASE? IF YES, HOW MANY TIMES?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0         68               0.03
+1                         YES, 1 TIME          1.0        154               0.06
+2                        YES, 2 TIMES          2.0         11                0.0
+3                        YES, 3 TIMES          3.0          5                0.0
+4                        YES, 5 TIMES          5.0          1                0.0
+5              YES, MORE THAN 5 TIMES          6.0          1                0.0
+6  YES, NUMBER OF TIMES NOT SPECIFIED          7.0         41               0.02
+7                                  NO          8.0       2404                0.9
+
+
+
+S233.Q62 SINCE YOU CAME OVERSEAS, HAVE YOU EVER HAD A VENEREAL DISEASE? IF YES, HOW MANY TIMES?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0         72               0.03
+1                         YES, 1 TIME          1.0        246               0.09
+2                        YES, 2 TIMES          2.0         20               0.01
+3                        YES, 3 TIMES          3.0          8                0.0
+4                        YES, 4 TIMES          4.0          7                0.0
+5                        YES, 5 TIMES          5.0          2                0.0
+6              YES, MORE THAN 5 TIMES          6.0          1                0.0
+7  YES, NUMBER OF TIMES NOT SPECIFIED          7.0         45               0.02
+8                                  NO          8.0       2284               0.85
+
+
+
+S233.Q63 WHAT DO YOU THINK IS THE BEST THING THAT COULD BE DONE TO KEEP THE MEN FROM GETTING VENEREAL DISEASES?
+                                                                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                            NO ANSWER, INCOHERENT ANSWER, IRRELEVANT ANSWER          0.0        572               0.21
+1   EDUCATE THE MAN; TELL HIM; USE MOVIES, LECTURES; WORK HARDER ON THE PRESENT ARMY PROGRAM; A GENERAL O.K. ON WHAT THE ARM          1.0        268                0.1
+2                      GOVERNMENT INSPECTED OR OPERATED HOUSES; HOUSES FOR GI'S ONLY; MEDICAL OFFICERS PRESENT IN THE HOUSES          2.0        452               0.17
+3                                                                             ALL DIVERSIONARY VIEWS; SPORTS, MOVIES, DANCES          3.0         71               0.03
+4       ALL PESSIMISTIC VIEWS; YOU CAN'T STOP IT; IF A MAN IS GOING TO GET IT THERE IS NOTHING YOU CAN DO; SOME MEN ARE DUMB          4.0        129               0.05
+5   ALL REMARKS THAT INDICATE THAT PRESENT ARMY PROPHYLACTIC PLAN IS ACCEPTED; GO TO PRO STATION, HAVE THEM AVAILABLE; USE R          5.0        575               0.21
+6                                                                 ABSTAIN FROM INTERCOURSE (RELIGIOUS FANATICS GO HERE, TOO)          6.0        210               0.08
+7                                       PUNISH THE MAN; THROW THE BOOK AT THEM; LAY IT ON; MORE STRICT ON THE MEN; NO PASSES          7.0         28               0.01
+8     CLEAN UP PROSTITUTES; CONTROL AREAS (DOES NOT SAY TO ACTUALLY RUN THE AREA); PUT PLACES ON LIMITS AND USE PRO STATIONS          8.0        245               0.09
+9                                                                               GET THE MEN HOME; GET THEM OUT OF V.D. AREAS          9.0         54               0.02
+10                                        IMPROVE THE PASS POLICY; MORE FURLOUGHS; DON'T MAKE MEN SNEAK OUT TO TAKE A QUICKY         10.0         38               0.01
+11                                                                                                             MISCELLANEOUS         11.0         43               0.02
+
+
+
+S233.Q64 ABOUT HOW OFTEN ARE YOU ABLE TO GET INTO A TOWN OR CITY?
+                     answer_label answer_value raw_counts relative_frequency
+0              NO CODE OR NO DATA          0.0          2                0.0
+1  ABOUT ONCE EVERY 2 OR 3 MONTHS          1.0        126               0.05
+2              ABOUT ONCE A MONTH          2.0        130               0.05
+3            2 OR 3 TIMES A MONTH          3.0        268                0.1
+4                     ONCE A WEEK          4.0        733               0.27
+5           MORE THAN ONCE A WEEK          5.0       1325               0.49
+6                    ALMOST NEVER          6.0         28               0.01
+7                       NO ANSWER          7.0         73               0.03
+
+
+
+S233.Q65.1 WHAT DO YOU USUALLY DO WHEN YOU GO ON A PASS?
+                                            answer_label answer_value raw_counts relative_frequency
+0  WALK AROUND TOWN (DOES NOT SAY "LOOKING FOR A WOMAN")          1.0        584               0.22
+1                                             NOT CHOSEN          2.0       2101               0.78
+
+
+
+S233.Q65.2WHAT DO YOU USUALLY DO WHEN YOU GO ON A PASS?
+                                                       answer_label answer_value raw_counts relative_frequency
+0  GET BEER, LIQUOR, GO TO A BAR, GET SOME DRINKS, GO TO NIGHT CLUB          1.0        981               0.37
+1                                                        NOT CHOSEN          2.0       1704               0.63
+
+
+
+S233.Q65.3WHAT DO YOU USUALLY DO WHEN YOU GO ON A PASS?
+                                            answer_label answer_value raw_counts relative_frequency
+0  HAVE INTERCOURSE (INDICATES THAT HE ACTUALLY GETS IT)          1.0        493               0.18
+1                                             NOT CHOSEN          2.0       2192               0.82
+
+
+
+S233.Q65.4WHAT DO YOU USUALLY DO WHEN YOU GO ON A PASS?
+                                                                    answer_label answer_value raw_counts relative_frequency
+0  LOOK FOR A WOMAN; TRY TO HAVE INTERCOURSE (DOES NOT INDICATE THAT HE GETS IT)          1.0        318               0.12
+1                                                                     NOT CHOSEN          2.0       2367               0.88
+
+
+
+S233.Q65.5WHAT DO YOU USUALLY DO WHEN YOU GO ON A PASS?
+                               answer_label answer_value raw_counts relative_frequency
+0  HAVE A DATE (DOES NOT IMPLY INTERCOURSE)          1.0        106               0.04
+1                                NOT CHOSEN          2.0       2579               0.96
+
+
+
+S233.Q65.6WHAT DO YOU USUALLY DO WHEN YOU GO ON A PASS?
+              answer_label answer_value raw_counts relative_frequency
+0  GO ON SIGHT-SEEING TOUR          1.0        572               0.21
+1               NOT CHOSEN          2.0       2113               0.79
+
+
+
+S233.Q65.7WHAT DO YOU USUALLY DO WHEN YOU GO ON A PASS?
+           answer_label answer_value raw_counts relative_frequency
+0  MOVIES, OPERA, SHOWS          1.0        879               0.33
+1            NOT CHOSEN          2.0       1806               0.67
+
+
+
+S233.Q65.8WHAT DO YOU USUALLY DO WHEN YOU GO ON A PASS?
+            answer_label answer_value raw_counts relative_frequency
+0  GO TO RED CROSS CLUBS          1.0        675               0.25
+1             NOT CHOSEN          2.0       2010               0.75
+
+
+
+S233.Q65.9WHAT DO YOU USUALLY DO WHEN YOU GO ON A PASS?
+                                                                             answer_label answer_value raw_counts relative_frequency
+0  GO TO OTHER RECREATION CENTERS, REST CENTERS, PARKS, DANCES, BEACHES (BUT NOT TO SWIM)          1.0        297               0.11
+1                                                                              NOT CHOSEN          2.0       2388               0.89
+
+
+
+S233.Q65.10WHAT DO YOU USUALLY DO WHEN YOU GO ON A PASS?
+                                      answer_label answer_value raw_counts relative_frequency
+0  PARTICIPATES IN SOME ATHLETICS (SWIMMING, ETC.)          1.0        226               0.08
+1                                       NOT CHOSEN          2.0       2459               0.92
+
+
+
+S233.Q65.11 WHAT DO YOU USUALLY DO WHEN YOU GO ON A PASS?
+            answer_label answer_value raw_counts relative_frequency
+0  WATCH ATHLETIC EVENTS          1.0        276                0.1
+1             NOT CHOSEN          2.0       2409                0.9
+
+
+
+S233.Q65.12 WHAT DO YOU USUALLY DO WHEN YOU GO ON A PASS? 339
+    answer_label answer_value raw_counts relative_frequency
+0  MISCELLANEOUS          1.0        339               0.13
+1     NOT CHOSEN          2.0       2346               0.87
+
+
+
+S233.Q66 DO YOU FEEL THAT YOU HAVE BEEN GIVEN YOUR FAIR SHARE OF PASSES IN THE LAST FEW MONTHS?
+                                 answer_label answer_value raw_counts relative_frequency
+0                          NO CODE OR NO DATA          0.0         16               0.01
+1     YES, I HAVE HAD MY FAIR SHARE OF PASSES          1.0       2005               0.75
+2  NO, I HAVE NOT HAD MY FAIR SHARE OF PASSES          2.0        456               0.17
+3                                   UNDECIDED          3.0        162               0.06
+4                                   NO ANSWER          4.0         46               0.02
+
+
+
+S233.Q67 THE LAST TIME YOU WERE IN A CITY ON PASS, WHERE DID YOU GO TO EAT MOST OF THE TIME?
+                                  answer_label answer_value raw_counts relative_frequency
+0                                    NO ANSWER          0.0         92               0.03
+1                              G.I. RESTAURANT          1.0       1038               0.39
+2                             REST CENTER MESS          2.0        315               0.12
+3                      SOME ARMY OUTFIT'S MESS          3.0        139               0.05
+4  RED CROSS SNACK BAR, YMCA, COMMUNITY CENTER          4.0        692               0.26
+5                           ITALIAN RESTAURANT          5.0        142               0.05
+6                                 ITALIAN HOME          6.0        150               0.06
+7              OWN AREA OR UNIT, NEVER EAT OUT          7.0        112               0.04
+8                                MISCELLANEOUS          8.0          5                0.0
+
+
+
+S233.Q68 HOW LONG HAS IT BEEN SINCE YOU HAVE HAD AN OVERNIGHT PASS OR STAYED AT A REST CENTER?
+                                                  answer_label answer_value raw_counts relative_frequency
+0                                           NO CODE OR NO DATA          0.0          4                0.0
+1                                            LESS THAN 1 MONTH          1.0        594               0.22
+2                                       1 MONTH UP TO 3 MONTHS          2.0        490               0.18
+3                                      3 MONTHS UP TO 6 MONTHS          3.0        460               0.17
+4                                        6 MONTHS UP TO 1 YEAR          4.0        386               0.14
+5                                                  OVER 1 YEAR          5.0        146               0.05
+6  I HAVE NEVER HAD AN OVERNIGHT PASS SINCE I'VE BEEN IN ITALY          6.0        544                0.2
+7                                                    NO ANSWER          7.0         61               0.02
+
+
+
+S233.Q69 THE LAST TIME YOU HAD A PASS FROM YOUR OUTFIT FOR OVERNIGHT OR LONGER, WHERE DID YOU STAY FOR THE NIGHT?
+                                   answer_label answer_value raw_counts relative_frequency
+0                                     NO ANSWER          0.0         88               0.03
+1     AT A REST CENTER OR HOTEL RUN BY THE ARMY          1.0       1370               0.51
+2                       AT SOME OTHER ARMY UNIT          2.0        117               0.04
+3       AT AN ITALIAN HOTEL NOT RUN BY THE ARMY          3.0        138               0.05
+4                              AT THE RED CROSS          4.0         19               0.01
+5               IN AN ITALIAN HOME OR APARTMENT          5.0        353               0.13
+6                                SOMEWHERE ELSE          6.0         21               0.01
+7  I HAVE NEVER HAD AN OVERNIGHT PASS OVER HERE          7.0        579               0.22
+
+
+
+S233.Q70 SINCE YOU HAVE BEEN IN ITALY, HOW MUCH WINE AND LIQUOR HAVE YOU BEEN DRINKING?
+                  answer_label answer_value raw_counts relative_frequency
+0           NO CODE OR NO DATA          0.0          2                0.0
+1     A LOT MORE THAN MOST MEN          1.0        118               0.04
+2  A LITTLE MORE THAN MOST MEN          2.0        183               0.07
+3   ABOUT THE SAME AS MOST MEN          3.0        686               0.26
+4  A LITTLE LESS THAN MOST MEN          4.0        463               0.17
+5     A LOT LESS THAN MOST MEN          5.0        918               0.34
+6   I HAVEN'T DRUNK ANY AT ALL          6.0        248               0.09
+7                    NO ANSWER          7.0         67               0.02
+
+
+
+S233.Q71.1 WHERE CAN THE MEN IN YOUR OUTFIT GO WHEN THEY WANT SOMETHING TO DRINK? (CHECK AS MANY PLACES AS ARE TRUE FOR YOUR OUTFIT)
+                              answer_label answer_value raw_counts relative_frequency
+0  BAR IN DAYROOM OR CLUB RIGHT IN MY UNIT          1.0       1362               0.51
+1                               NOT CHOSEN          2.0       1323               0.49
+
+
+
+S233.Q71.2WHERE CAN THE MEN IN YOUR OUTFIT GO WHEN THEY WANT SOMETHING TO DRINK? (CHECK AS MANY PLACES AS ARE TRUE FOR YOUR OUTFIT)
+                           answer_label answer_value raw_counts relative_frequency
+0  ITALIAN BAR THAT IS NOT "OFF LIMITS"          1.0       1029               0.38
+1                            NOT CHOSEN          2.0       1656               0.62
+
+
+
+S233.Q71.3WHERE CAN THE MEN IN YOUR OUTFIT GO WHEN THEY WANT SOMETHING TO DRINK? (CHECK AS MANY PLACES AS ARE TRUE FOR YOUR OUTFIT)
+                                  answer_label answer_value raw_counts relative_frequency
+0  ENLISTED MEN'S CLUB RUN IN TOWN BY THE ARMY          1.0        533                0.2
+1                                   NOT CHOSEN          2.0       2152                0.8
+
+
+
+S233.Q71.4WHERE CAN THE MEN IN YOUR OUTFIT GO WHEN THEY WANT SOMETHING TO DRINK? (CHECK AS MANY PLACES AS ARE TRUE FOR YOUR OUTFIT)
+                                     answer_label answer_value raw_counts relative_frequency
+0  THERE'S NO PLACE TO GO THAT'S NOT "OFF LIMITS"          1.0         79               0.03
+1                                      NOT CHOSEN          2.0       2606               0.97
+
+
+
+S233.Q71.5WHERE CAN THE MEN IN YOUR OUTFIT GO WHEN THEY WANT SOMETHING TO DRINK? (CHECK AS MANY PLACES AS ARE TRUE FOR YOUR OUTFIT)
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0         99               0.04
+1   NOT CHOSEN          2.0       2586               0.96
+
+
+
+S233.Q72 WHAT IS THE ONE PLACE YOU GO TO MOST OFTEN WHEN YOU WANT SOMETHING TO DRINK?
+                                                                 answer_label answer_value raw_counts relative_frequency
+0                                                                   NO ANSWER          0.0        109               0.04
+1                                     BAR IN DAYROOM OR CLUB RIGHT IN MY UNIT          1.0       1009               0.38
+2                                        ITALIAN BAR THAT IS NOT "OFF LIMITS"          2.0        689               0.26
+3                                            ITALIAN BAR THAT IS "OFF LIMITS"          3.0         85               0.03
+4                                 ENLISTED MEN'S CLUB RUN IN TOWN BY THE ARMY          4.0        319               0.12
+5  BUY LIQUOR AT A PLACE THAT IS NOT "OFF LIMITS" AND DRINK IT SOMEWHERE ELSE          5.0        141               0.05
+6                                                              SOMEWHERE ELSE          6.0         57               0.02
+7                                                               I DON'T DRINK          7.0        276                0.1
+
+
+
+S233.Q73 THE LAST TIME YOU WENT TO AN ARMY G.I. RESTAURANT WHEN YOU WERE IN A CITY, HOW LONG DID YOU HAVE TO WAIT BEFORE YOU COULD GET ANYTHING TO EAT?
+                                   answer_label answer_value raw_counts relative_frequency
+0                                     NO ANSWER          0.0         61               0.02
+1                          LESS THAN 15 MINUTES          1.0       1264               0.47
+2                 15 MINUTES UP TO HALF AN HOUR          2.0        696               0.26
+3                   HALF AN HOUR UP TO ONE HOUR          3.0        265                0.1
+4                        ONE HOUR UP TO 2 HOURS          4.0         64               0.02
+5                         2 HOURS UP TO 3 HOURS          5.0         13                0.0
+6                           LONGER THAN 3 HOURS          6.0         14               0.01
+7  I HAVE NEVER GONE TO AN ARMY G.I. RESTAURANT          7.0        308               0.11
+
+
+
+S233.Q74 HOW OFTEN ARE THERE DANCES OR PARTIES, WITH GIRLS, THAT MEN IN YOUR OUTFIT CAN GO TO?
+                                   answer_label answer_value raw_counts relative_frequency
+0                            NO CODE OR NO DATA          0.0          3                0.0
+1                           ONCE A WEEK OR MORE          1.0        994               0.37
+2                      EVERY TWO OR THREE WEEKS          2.0        283               0.11
+3                             EVERY MONTH OR SO          3.0        447               0.17
+4  THERE HAVEN'T BEEN ANY FOR THE LAST 3 MONTHS          4.0        817                0.3
+5                                     NO ANSWER          5.0        141               0.05
+
+
+
+S233.Q75 IF THERE ARE DANCES OR PARTIES THAT ENLISTED MEN IN YOUR OUTFIT CAN GO TO, WHAT SORT OF GIRLS ARE USUALLY THERE?
+                                                              answer_label answer_value raw_counts relative_frequency
+0                                                       NO CODE OR NO DATA          0.0          2                0.0
+1                                  THEY ARE AMERICAN OR ENGLISH GIRLS ONLY          1.0         28               0.01
+2                                              THEY ARE ITALIAN GIRLS ONLY          2.0       1700               0.63
+3                THEY ARE BOTH AMERICAN OR ENGLISH GIRLS AND ITALIAN GIRLS          3.0        436               0.16
+4  THERE ARE NO DANCES OR PARTIES THAT ENLISTED MEN IN MY OUTFIT CAN GO TO          4.0        398               0.15
+5                                                                NO ANSWER          5.0        121               0.05
+
+
+
+S233.Q76.1 SOME THINGS THAT MIGHT HELP YOU ENJOY YOUR OFF-DUTY FREE TIME ARE LISTED BELOW. WHICH TWO OF THESE THINGS DO YOU WANT MOST?
+                    answer_label answer_value raw_counts relative_frequency
+0  A DAY ROOM IN YOUR OWN OUTFIT          1.0        150               0.06
+1                     NOT CHOSEN          2.0       2535               0.94
+
+
+
+S233.Q76.2SOME THINGS THAT MIGHT HELP YOU ENJOY YOUR OFF-DUTY FREE TIME ARE LISTED BELOW. WHICH TWO OF THESE THINGS DO YOU WANT MOST?
+                              answer_label answer_value raw_counts relative_frequency
+0  TOURS TO FAMOUS PLACES NEAR YOUR OUTFIT          1.0        727               0.27
+1                               NOT CHOSEN          2.0       1958               0.73
+
+
+
+S233.Q76.3SOME THINGS THAT MIGHT HELP YOU ENJOY YOUR OFF-DUTY FREE TIME ARE LISTED BELOW. WHICH TWO OF THESE THINGS DO YOU WANT MOST?
+            answer_label answer_value raw_counts relative_frequency
+0  MORE SPORTS AND GAMES          1.0        312               0.12
+1             NOT CHOSEN          2.0       2373               0.88
+
+
+
+S233.Q76.4SOME THINGS THAT MIGHT HELP YOU ENJOY YOUR OFF-DUTY FREE TIME ARE LISTED BELOW. WHICH TWO OF THESE THINGS DO YOU WANT MOST?
+                                    answer_label answer_value raw_counts relative_frequency
+0  PLACES TO STAY OVERNIGHT WHEN YOU ARE ON PASS          1.0        369               0.14
+1                                     NOT CHOSEN          2.0       2316               0.86
+
+
+
+S233.Q76.5SOME THINGS THAT MIGHT HELP YOU ENJOY YOUR OFF-DUTY FREE TIME ARE LISTED BELOW. WHICH TWO OF THESE THINGS DO YOU WANT MOST?
+               answer_label answer_value raw_counts relative_frequency
+0  MORE BOOKS AND MAGAZINES          1.0        118               0.04
+1                NOT CHOSEN          2.0       2567               0.96
+
+
+
+S233.Q76.6SOME THINGS THAT MIGHT HELP YOU ENJOY YOUR OFF-DUTY FREE TIME ARE LISTED BELOW. WHICH TWO OF THESE THINGS DO YOU WANT MOST?
+                                                  answer_label answer_value raw_counts relative_frequency
+0  BARS WHERE ENLISTED MEN CAN GET LIQUOR THAT HAS BEEN TESTED          1.0        418               0.16
+1                                                   NOT CHOSEN          2.0       2267               0.84
+
+
+
+S233.Q76.7SOME THINGS THAT MIGHT HELP YOU ENJOY YOUR OFF-DUTY FREE TIME ARE LISTED BELOW. WHICH TWO OF THESE THINGS DO YOU WANT MOST?
+                                                          answer_label answer_value raw_counts relative_frequency
+0  CLASSES IN DIFFERENT SCHOOL SUBJECTS AND TRAINING FOR CIVILIAN JOBS          1.0        368               0.14
+1                                                           NOT CHOSEN          2.0       2317               0.86
+
+
+
+S233.Q76.8SOME THINGS THAT MIGHT HELP YOU ENJOY YOUR OFF-DUTY FREE TIME ARE LISTED BELOW. WHICH TWO OF THESE THINGS DO YOU WANT MOST?
+  answer_label answer_value raw_counts relative_frequency
+0  MORE DANCES          1.0        331               0.12
+1   NOT CHOSEN          2.0       2354               0.88
+
+
+
+S233.Q76.9SOME THINGS THAT MIGHT HELP YOU ENJOY YOUR OFF-DUTY FREE TIME ARE LISTED BELOW. WHICH TWO OF THESE THINGS DO YOU WANT MOST?
+  answer_label answer_value raw_counts relative_frequency
+0  MORE MOVIES          1.0        355               0.13
+1   NOT CHOSEN          2.0       2330               0.87
+
+
+
+S233.Q76.10SOME THINGS THAT MIGHT HELP YOU ENJOY YOUR OFF-DUTY FREE TIME ARE LISTED BELOW. WHICH TWO OF THESE THINGS DO YOU WANT MOST?
+                                                   answer_label answer_value raw_counts relative_frequency
+0  MORE G.I. RESTAURANTS WHERE YOU CAN EAT WHEN YOU ARE ON PASS          1.0        318               0.12
+1                                                    NOT CHOSEN          2.0       2367               0.88
+
+
+
+S233.Q76.11SOME THINGS THAT MIGHT HELP YOU ENJOY YOUR OFF-DUTY FREE TIME ARE LISTED BELOW. WHICH TWO OF THESE THINGS DO YOU WANT MOST?
+     answer_label answer_value raw_counts relative_frequency
+0  MORE USO SHOWS          1.0        643               0.24
+1      NOT CHOSEN          2.0       2042               0.76
+
+
+
+S233.Q76.12SOME THINGS THAT MIGHT HELP YOU ENJOY YOUR OFF-DUTY FREE TIME ARE LISTED BELOW. WHICH TWO OF THESE THINGS DO YOU WANT MOST?
+                                            answer_label answer_value raw_counts relative_frequency
+0  MORE LECTURES AND DISCUSSIONS ON INTERESTING SUBJECTS          1.0         65               0.02
+1                                             NOT CHOSEN          2.0       2620               0.98
+
+
+
+S233.Q76.13SOME THINGS THAT MIGHT HELP YOU ENJOY YOUR OFF-DUTY FREE TIME ARE LISTED BELOW. WHICH TWO OF THESE THINGS DO YOU WANT MOST?
+                       answer_label answer_value raw_counts relative_frequency
+0  BETTER RED CROSS CLUBS IN CITIES          1.0        179               0.07
+1                        NOT CHOSEN          2.0       2506               0.93
+
+
+
+S233.Q76.14SOME THINGS THAT MIGHT HELP YOU ENJOY YOUR OFF-DUTY FREE TIME ARE LISTED BELOW. WHICH TWO OF THESE THINGS DO YOU WANT MOST?
+     answer_label answer_value raw_counts relative_frequency
+0  SOMETHING ELSE          1.0        131               0.05
+1      NOT CHOSEN          2.0       2554               0.95
+
+
+
+S233.V78 NEGRO-WHITE, MAJOR COMMAND AND OUTFIT IDENTIFICATION:
+                                                                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                WHITE - AIR FORCE - 380TH BOMB SQUADRON, 310 BOMB GROUP (M)          1.0         48               0.02
+1                                                                             WHITE - AIR FORCE - 414 NIGHT FIGHTER SQUADRON          2.0         64               0.02
+2                                                                                                WHITE - AIR FORCE - 522 ASG          3.0         31               0.01
+3                                                     WHITE - AIR FORCE - 364 BOMB SQUADRON (H), 99 BOMB GROUP (H), 5TH WING          4.0         61               0.02
+4                                                       WHITE - AIR FORCE - 96 BOMB SQUADRON (H), 2 BOMB GROUP (H), 5TH WING          5.0         59               0.02
+5                                            WHITE - AIR FORCE - HEADQUARTER SQUADRON, 455 BOMB GROUP (H), 304 BOMB WING (H)          6.0         63               0.02
+6                                                                     WHITE - AIR FORCE - 956 AIR ENGINEER SQUADRON, 530 ASG          7.0         70               0.03
+7                                                                         WHITE - AIR FORCE - 441 QUARTERMASTER PLATOON, ADG          8.0         28               0.01
+8                                                                           WHITE - AIR FORCE - HEADQUARTER SQUADRON, 34 ADG          9.0         58               0.02
+9                                                                     WHITE - AIR FORCE - COMPANY C - 814 ENGINEER BATTALION         10.0         63               0.02
+10                                                                              WHITE - AIR FORCE - 391 SIGNAL COMPANY (AUN)         11.0         53               0.02
+11                                                                                   NEGRO - AIR FORCE - 99 FIGHTER SQUADRON         12.0         30               0.01
+12                                                                 NEGRO - AIR FORCE - A COMPANY, 838 ENGINEER AVN BATTALION         13.0         24               0.01
+13                                                                       NEGRO - AIR FORCE - 1952 ORDNANCE DEPOT COMPANY AVN         14.0         63               0.02
+14                                                                           NEGRO - AIR FORCE - 643 MILITARY POLICE COMPANY         15.0         43               0.02
+15                                                         WHITE - 5TH ARMY, COMBAT - E COMPANY, 2ND BATTALION, 351 INFANTRY         16.0         62               0.02
+16                                                     WHITE - 5TH ARMY, COMBAT - HEADQUARTER COMPANY, 349 INFANTRY REGIMENT         17.0         67               0.02
+17                                        WHITE - 5TH ARMY, COMBAT - L COMPANY, 87 INFANTRY REGIMENT, 10TH MOUNTAIN DIVISION         18.0         65               0.02
+18                                        WHITE - 5TH ARMY, COMBAT - H COMPANY, 87 INFANTRY REGIMENT, 10TH MOUNTAIN DIVISION         19.0         64               0.02
+19                                                       WHITE - 5TH ARMY, COMBAT - 2ND BATTALION, 363 INFANTRY, 91 DIVISION         20.0         66               0.02
+20                                                 WHITE - 5TH ARMY, COMBAT - AT COMPANY, 361 INFANTRY, 91 INFANTRY DIVISION         21.0         63               0.02
+21                                                                    WHITE - 5TH ARMY, COMBAT - A BATTERY, 339 FA BATTALION         22.0         45               0.02
+22                                                       WHITE - 5TH ARMY, COMBAT - 616 FA BATTALION, 10TH MOUNTAIN DIVISION         23.0         43               0.02
+23                                                          WHITE - 5TH ARMY, COMBAT - 916 FA BATTALION 91 INFANTRY DIVISION         24.0         45               0.02
+24                                                                             WHITE - 5TH ARMY, COMBAT - 760 TANK BATTALION         25.0         56               0.02
+25                                                           NEGRO - 5TH ARMY, COMBAT - 1ST BATTALION, 365 INFANTRY REGIMENT         26.0         60               0.02
+26                                                           NEGRO - 5TH ARMY, COMBAT - 1ST BATTALION, 371 INFANTRY REGIMENT         27.0         51               0.02
+27  NEGRO - 5TH ARMY, COMBAT - REGIMENT HEADQUARTER COMPANY: HEADQUARTER COMPANY, 1ST BATTALION, HEADQUARTER COMPANY 2ND BAT         28.0         75               0.03
+28                                                                    NEGRO - 5TH ARMY, COMBAT - BATTERY A, 598 FA BATTALION         29.0         40               0.01
+29                                                                    WHITE - 5TH ARMY, SERVICE - 383 ENGINEER DEPOT COMPANY         30.0        106               0.04
+30                                                                WHITE - 5TH ARMY, SERVICE - 3334 QUARTERMASTER TRK COMPANY         31.0         52               0.02
+31                                                                       WHITE - 5TH ARMY, SERVICE - 8TH EVACUATION HOSPITAL         32.0         60               0.02
+32                                                                WHITE - 5TH ARMY, SERVICE - B COMPANY, 53 SIGNAL BATTALION         33.0         56               0.02
+33                                                                       WHITE - 5TH ARMY, SERVICE - 262 AA ORDNANCE COMPANY         34.0         63               0.02
+34                                                      NEGRO - 5TH ARMY, SERVICE - 1ST BATTALION, 226 ENGINEER, GS REGIMENT         35.0         47               0.02
+35                                                      NEGRO - 5TH ARMY, SERVICE - 2ND BATTALION, 226 ENGINEER, GS REGIMENT         36.0         33               0.01
+36                                                            NEGRO - 5TH ARMY, SERVICE - 4064 QUARTERMASTER SERVICE COMPANY         37.0         40               0.01
+37                                                            NEGRO - 5TH ARMY, SERVICE - 4062 QUARTERMASTER SERVICE COMPANY         38.0         39               0.01
+38                                                              WHITE - PBS - COMPANY A, 338 ENGINEER CONS. SERVICE REGIMENT         39.0         23               0.01
+39                                                                             WHITE - PBS - 218 QUARTERMASTER SALV. COMPANY         40.0         24               0.01
+40                                                                           WHITE - PBS - DET MED DEPT, 33 GENERAL HOSPITAL         41.0         92               0.03
+41                                                                              WHITE - PBS - 549 SIGNAL HEAVY CONS. COMPANY         42.0         27               0.01
+42                                                                                  WHITE - PBS - 605 ORDNANCE BAM BATTALION         43.0         44               0.02
+43                                                                        WHITE - PBS - 189 PORT COMPANY, 488 PORT BATTALION         44.0         57               0.02
+44                                                                          WHITE - PBS - 56 MILITARY POLICE COMPANY, TYPE C         45.0         60               0.02
+45                                                                        NEGRO - PBS - D COMPANY, 98TH ENGINEER GS REGIMENT         46.0         26               0.01
+46                                                                                    NEGRO - PBS - 1751 ENGINEER DT COMPANY         47.0         40               0.01
+47                                                                           NEGRO - PBS - 121 QUARTERMASTER BATTALION (MBL)         48.0         63               0.02
+48                                                                              NEGRO - PBS - 3321 QUARTERMASTER TRK COMPANY         49.0         64               0.02
+49                                                                          NEGRO - PBS - 3285 QUARTERMASTER SERVICE COMPANY         50.0         59               0.02
+50                                                                        NEGRO - PBS - 691 PORT COMPANY, 488 PORT BATTALION         51.0         50               0.02
+
+
+

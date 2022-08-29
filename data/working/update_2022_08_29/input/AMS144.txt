@@ -1,0 +1,1875 @@
+S144.Q1 WHAT IS YOUR PRESENT ARMY RANK OR GRADE?
+                       answer_label answer_value raw_counts relative_frequency
+0                         NO ANSWER          0.0         58               0.01
+1                           PRIVATE          1.0       1956               0.42
+2               PRIVATE FIRST CLASS          2.0        891               0.19
+3              TECHNICIAN 5TH GRADE          3.0        383               0.08
+4                          CORPORAL          4.0        467                0.1
+5              TECHNICIAN 4TH GRADE          5.0        131               0.03
+6                     BUCK SERGEANT          6.0        312               0.07
+7              TECHNICIAN 3RD GRADE          7.0          5                0.0
+8                    STAFF SERGEANT          8.0        241               0.05
+9                TECHNICAL SERGEANT          9.0         57               0.01
+10  MASTER SERGEANT OR 1ST SERGEANT         10.0         80               0.02
+11                            OTHER         11.0         97               0.02
+
+
+
+S144.Q2 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0        168               0.04
+1   18 YEARS OR YOUNGER          1.0        278               0.06
+2              19 YEARS          2.0        268               0.06
+3                    20          3.0        298               0.06
+4                    21          4.0        364               0.08
+5                    22          5.0        368               0.08
+6                    23          6.0        395               0.08
+7                    24          7.0        382               0.08
+8                    25          8.0        302               0.06
+9           26-29 YEARS          9.0        920                0.2
+10          30-34 YEARS         10.0        607               0.13
+11   35 YEARS AND OLDER         11.0        328               0.07
+
+
+
+S144.Q3.x ARE YOU SINGLE, MARRIED, DIVORCED OR SEPARATED, OR WIDOWED? F. IF MARRIED:  Q.4. WERE YOU MARRIED BEFORE OR AFTER ENTERING THE ARMY?
+                       answer_label answer_value raw_counts relative_frequency
+0                         NO ANSWER          0.0         14                0.0
+1                            SINGLE          1.0       2330                0.5
+2             DIVORCED OR SEPARATED          2.0        172               0.04
+3                           WIDOWED          3.0         24               0.01
+4  MARRIED BEFORE ENTERING THE ARMY          4.0       1467               0.31
+5   MARRIED AFTER ENTERING THE ARMY          5.0        661               0.14
+6       MARRIED, NO INDICATION WHEN          6.0         10                0.0
+
+
+
+S144.Q5 HOW MANY CHILDREN DO YOU HAVE?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         65               0.01
+1             HAVE NO CHILDREN          1.0       1017               0.22
+2               HAVE ONE CHILD          2.0        803               0.17
+3            HAVE TWO CHILDREN          3.0        325               0.07
+4  HAVE THREE OR MORE CHILDREN          4.0        231               0.05
+5              I'M NOT MARRIED          5.0       2237               0.48
+
+
+
+S144.Q6 HOW FAR DID YOU GO IN SCHOOL?
+                           answer_label answer_value raw_counts relative_frequency
+0                             NO ANSWER          0.0         19                0.0
+1                   LESS THAN 4TH GRADE          1.0        215               0.05
+2                    FINISHED 4TH GRADE          2.0        117               0.03
+3                    FINISHED 5TH GRADE          3.0        189               0.04
+4                    FINISHED 6TH GRADE          4.0        230               0.05
+5                    FINISHED 7TH GRADE          5.0        279               0.06
+6                    FINISHED 8TH GRADE          6.0        380               0.08
+7   SOME HIGH SCHOOL BUT DID NOT FINISH          7.0       1006               0.22
+8            GRADUATED FROM HIGH SCHOOL          8.0       1266               0.27
+9       SOME COLLEGE BUT DID NOT FINISH          9.0        821               0.18
+10               GRADUATED FROM COLLEGE         10.0        156               0.03
+
+
+
+S144.Q7 DID YOU HAVE ANY ADDITIONAL SCHOOLING OR TECHNICAL TRAINING BEFORE YOU ENTERED THE ARMY?
+                                          answer_label answer_value raw_counts relative_frequency
+0                                            NO ANSWER          0.0        171               0.04
+1                                 YES, BUSINESS SCHOOL          1.0        181               0.04
+2                                    YES, TRADE SCHOOL          2.0        974               0.21
+3                YES, SOME OTHER SCHOOLING OR TRAINING          3.0        283               0.06
+4              ASTP (ARMY SPECIALIST TRAINING PROGRAM)          4.0          4                0.0
+5  MEDICAL, DENTAL, LAW (PROFESSIONAL) NOT ART COURSES          5.0         35               0.01
+6                         COMBINATION OF CODES 1 AND 2          6.0         25               0.01
+7                         ERC (ENLISTED RESERVE CORPS)          7.0          6                0.0
+8                                                   NO          8.0       2999               0.64
+
+
+
+S144.Q8 HOW LONG HAVE YOU BEEN IN THE ARMY? E. IF YOU HAVE BEEN IN THE ARMY BEFORE, THEN WERE OUT FOR AWHILE, JUST CHECK THE LENGTH OF TIME SINCE YOU ENTERED THIS LAST TIME. IF YOU WERE IN THE NATIONAL GUARD, CHECK THE LENGTH OF TIME SINCE YOUR OUTFIT CAME INTO
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         22                0.0
+1              3 MONTHS OR LESS          1.0        218               0.05
+2  OVER 3 MONTHS UP TO 6 MONTHS          2.0        570               0.12
+3  OVER 6 MONTHS UP TO 9 MONTHS          3.0        530               0.11
+4    OVER 9 MONTHS UP TO 1 YEAR          4.0        379               0.08
+5     OVER 1 YEAR UP TO 2 YEARS          5.0       1603               0.34
+6    OVER 2 YEARS UP TO 3 YEARS          6.0        824               0.18
+7    OVER 3 YEARS UP TO 4 YEARS          7.0        472                0.1
+8                  OVER 4 YEARS          8.0         60               0.01
+
+
+
+S144.Q9 HOW DID YOU COME INTO THE ARMY?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0         24               0.01
+1                           I WAS DRAFTED          1.0       3972               0.85
+2        I VOLUNTEERED AFTER PEARL HARBOR          2.0        258               0.06
+3       I VOLUNTEERED BEFORE PEARL HARBOR          3.0        227               0.05
+4             I WAS IN THE NATIONAL GUARD          4.0         59               0.01
+5  I WAS IN THE E.R.C. (ENLISTED RESERVE)          5.0        138               0.03
+
+
+
+S144.Q10 WHERE WERE YOU LIVING JUST BEFORE YOU CAME INTO THE ARMY?
+                                           answer_label answer_value raw_counts relative_frequency
+0                                             NO ANSWER          0.0         24               0.01
+1                                             ON A FARM          1.0        422               0.09
+2                      IN THE COUNTRY BUT NOT ON A FARM          2.0        156               0.03
+3             IN A VILLAGE WITH FEWER THAN 2,500 PEOPLE          3.0        227               0.05
+4  IN A SMALL CITY WITH BETWEEN 2,500 AND 25,000 PEOPLE          4.0        758               0.16
+5      IN A CITY WITH BETWEEN 25,000 AND 100,000 PEOPLE          5.0       1022               0.22
+6         IN A LARGE CITY WITH MORE THAN 100,000 PEOPLE          6.0       2069               0.44
+
+
+
+S144.Q11 HOW LONG HAD YOU BEEN LIVING THERE BEFORE YOU ENTERED THE ARMY?
+                        answer_label answer_value raw_counts relative_frequency
+0                          NO ANSWER          0.0         24               0.01
+1                   ONE YEAR OR LESS          1.0        247               0.05
+2      OVER ONE YEAR UP TO TWO YEARS          2.0        288               0.06
+3   OVER TWO YEARS UP TO THREE YEARS          3.0        254               0.05
+4  OVER THREE YEARS UP TO FIVE YEARS          4.0        315               0.07
+5                    OVER FIVE YEARS          5.0       3550               0.76
+
+
+
+S144.Q12 WHAT BRANCH OF THE ARMY ARE YOU IN NOW?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0         15                0.0
+1                  ENGINEERS          1.0        683               0.15
+2            FIELD ARTILLERY          2.0        145               0.03
+3        QUARTERMASTER CORPS          3.0       1299               0.28
+4                   INFANTRY          4.0        340               0.07
+5         MEDICAL DEPARTMENT          5.0        131               0.03
+6              ARMORED FORCE          6.0        133               0.03
+7               SIGNAL CORPS          7.0         94               0.02
+8            COAST ARTILLERY          8.0          2                0.0
+9              ANTI-AIRCRAFT          9.0          1                0.0
+10                 AIR CORPS         10.0       1095               0.23
+11      TRANSPORTATION CORPS         11.0        522               0.11
+12       ORDNANCE DEPARTMENT         12.0        144               0.03
+13  CHEMICAL WARFARE SERVICE         13.0          8                0.0
+14           MILITARY POLICE         14.0          2                0.0
+15            TANK DESTROYER         15.0         62               0.01
+16                     OTHER         16.0          2                0.0
+
+
+
+S144.Q13 DID YOU EVER GO TO AN ARMY SPECIALIST SCHOOL (SUCH AS COOK, AIRPLANE ENGINE MECHANIC, RADIO OPERATOR, TRUCK DRIVER, ETC.)? IF YES, WHAT COURSES DID YOU ACTUALLY FINISH AT THE ARMY SPECIALIST SCHOOL? E. PRIMARY INTEREST IS IN COURSES WHICH HAVE A DEFINIT
+                                                                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                                                                  NO ANSWER          0.0         91               0.02
+1   RADIO OPERATOR (ANYTHING PERTAINING TO RADIO) - INCLUDES RADAR, ALSO ADVANCED TELEPHONE AND TELETYPE IF CONNECTED WITH R          1.0        185               0.04
+2                                                                                                          AIRPLANE MECHANIC          2.0        201               0.04
+3                                                                                                              AUTO MECHANIC          3.0        139               0.03
+4                                                                                                           COOKS AND BAKERS          4.0        160               0.03
+5                                                                                                              TRUCK DRIVERS          5.0        270               0.06
+6                                                                                            MEDICAL AND SURGICAL TECHNICIAN          6.0         21                0.0
+7                                                                                                                ASTP OR CTD          7.0          7                0.0
+8                                     OTHER COURSES HAVING SOME CIVILIAN CARRY OVER (AVIATION CADET IF NO COURSES ARE NAMED)          8.0        327               0.07
+9                                                                TRAINING FOR STRAIGHT ARMY JOB (AERIAL GUNNERY, ARMY CLERK)          9.0        309               0.07
+10                                                                                                     YES, NO COURSES NAMED         10.0         47               0.01
+11                                                                                                                        NO         11.0       2921               0.62
+
+
+
+S144.Q14A.x WHAT IS YOUR MAIN ARMY JOB OR ASSIGNMENT?  Q.14B. JUST WHAT KIND OF WORK DO YOU DO?
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0                                                                                                                 NO ANSWER          0.0        113               0.02
+1  AIR CORPS FLYING PERSONNEL (INCLUDES AERIAL GUNNER, AERIAL PHOTOGRAPHER, AIRPLANE ARMORER-GUNNER, AIRPLANE MECHANIC- GUN          1.0         44               0.01
+2                                                       NOT INDICATED WHETHER FLYING PERSONNEL OR NOT (MAYBE, BUT NOT SURE)          2.0         23                0.0
+3                                                                                                                 ALL OTHER          3.0       3239               0.69
+4                                                                 BASIC OR ASSIGNED (OR TRAINING OTHER THAN AVIATION CADET)          4.0       1100               0.24
+5                                                                            AVIATION CADET (STUDYING TO BECOME AN OFFICER)          5.0        159               0.03
+
+
+
+S144.Q14C.1 HOW LONG HAVE YOU HAD THIS AS YOUR MAIN ARMY JOB OR ASSIGNMENT?
+       answer_label answer_value raw_counts relative_frequency
+0  3 MONTHS OR LESS          1.0       1558               0.33
+1        NOT CHOSEN          2.0       3120               0.67
+
+
+
+S144.Q14C.2HOW LONG HAVE YOU HAD THIS AS YOUR MAIN ARMY JOB OR ASSIGNMENT?
+                                 answer_label answer_value raw_counts relative_frequency
+0  OVER 3 MONTHS UP TO AND INCLUDING 6 MONTHS          1.0        845               0.18
+1                                  NOT CHOSEN          2.0       3833               0.82
+
+
+
+S144.Q14C.3HOW LONG HAVE YOU HAD THIS AS YOUR MAIN ARMY JOB OR ASSIGNMENT?
+                                 answer_label answer_value raw_counts relative_frequency
+0  OVER 6 MONTHS UP TO AND INCLUDING 9 MONTHS          1.0        405               0.09
+1                                  NOT CHOSEN          2.0       4273               0.91
+
+
+
+S144.Q14C.4HOW LONG HAVE YOU HAD THIS AS YOUR MAIN ARMY JOB OR ASSIGNMENT?
+                               answer_label answer_value raw_counts relative_frequency
+0  OVER 9 MONTHS UP TO AND INCLUDING 1 YEAR          1.0        342               0.07
+1                                NOT CHOSEN          2.0       4336               0.93
+
+
+
+S144.Q14C.5HOW LONG HAVE YOU HAD THIS AS YOUR MAIN ARMY JOB OR ASSIGNMENT?
+                                answer_label answer_value raw_counts relative_frequency
+0  OVER 1 YEAR UP TO AND INCLUDING 18 MONTHS          1.0        463                0.1
+1                                 NOT CHOSEN          2.0       4215                0.9
+
+
+
+S144.Q14C.6HOW LONG HAVE YOU HAD THIS AS YOUR MAIN ARMY JOB OR ASSIGNMENT?
+                                 answer_label answer_value raw_counts relative_frequency
+0  OVER 18 MONTHS UP TO AND INCLUDING 2 YEARS          1.0        274               0.06
+1                                  NOT CHOSEN          2.0       4404               0.94
+
+
+
+S144.Q14C.7HOW LONG HAVE YOU HAD THIS AS YOUR MAIN ARMY JOB OR ASSIGNMENT?
+   answer_label answer_value raw_counts relative_frequency
+0  OVER 2 YEARS          1.0        272               0.06
+1    NOT CHOSEN          2.0       4406               0.94
+
+
+
+S144.Q14C.8HOW LONG HAVE YOU HAD THIS AS YOUR MAIN ARMY JOB OR ASSIGNMENT?
+                        answer_label answer_value raw_counts relative_frequency
+0  DOUBLE CODE (IF CODED 5 IN Q.14A)          1.0         51               0.01
+1                         NOT CHOSEN          2.0       4627               0.99
+
+
+
+S144.Q14C.9HOW LONG HAVE YOU HAD THIS AS YOUR MAIN ARMY JOB OR ASSIGNMENT?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0        519               0.11
+1   NOT CHOSEN          2.0       4159               0.89
+
+
+
+S144.Q15 HOW INTERESTED ARE YOU IN YOUR ARMY JOB?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0        144               0.03
+1   VERY MUCH INTERESTED          1.0       2752               0.59
+2  A LITTLE BUT NOT MUCH          2.0       1155               0.25
+3  NOT INTERESTED AT ALL          3.0        627               0.13
+
+
+
+S144.Q16 HOW DO YOU FEEL ABOUT THE IMPORTANCE OF THE WORK YOU ARE DOING RIGHT NOW AS COMPARED WITH OTHER JOBS YOU MIGHT BE DOING IN THE ARMY?
+                                                 answer_label answer_value raw_counts relative_frequency
+0                                                   NO ANSWER          0.0        104               0.02
+1              IT IS AS IMPORTANT AS ANY OTHER JOB I COULD DO          1.0       2539               0.54
+2  IT IS FAIRLY IMPORTANT, BUT I COULD DO MORE IMPORTANT WORK          2.0       1618               0.35
+3                            IT HARDLY SEEMS IMPORTANT AT ALL          3.0        417               0.09
+
+
+
+S144.Q17 WOULD YOU CHANGE TO SOME OTHER ARMY JOB IF GIVEN A CHANCE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         86               0.02
+1          YES          1.0       2780               0.59
+2           NO          2.0       1095               0.23
+3    UNDECIDED          3.0        717               0.15
+
+
+
+S144.Q18 ON THE WHOLE, DO YOU THINK THE ARMY IS GIVING YOU A CHANCE TO SHOW WHAT YOU CAN DO?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0         29               0.01
+1    A VERY GOOD CHANCE          1.0       1209               0.26
+2  A FAIRLY GOOD CHANCE          2.0       1393                0.3
+3  NOT MUCH OF A CHANCE          3.0       1076               0.23
+4      NO CHANCE AT ALL          4.0        696               0.15
+5             UNDECIDED          5.0        275               0.06
+
+
+
+S144.Q19 IN GENERAL, HOW WOULD YOU SAY YOU FEEL MOST OF THE TIME, IN GOOD SPIRITS OR IN LOW SPIRITS?
+                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                  NO ANSWER          0.0         20                0.0
+1                                               I AM USUALLY IN GOOD SPIRITS          1.0       1308               0.28
+2  I AM IN GOOD SPIRITS SOME OF THE TIME AND IN LOW SPIRITS SOME OF THE TIME          2.0       2410               0.52
+3                                                I AM USUALLY IN LOW SPIRITS          3.0        940                0.2
+
+
+
+S144.Q20 DO YOU USUALLY FEEL THAT WHAT YOU ARE DOING IN THE ARMY IS WORTHWHILE OR NOT?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0         31               0.01
+1  I USUALLY FEEL IT IS NOT WORTHWHILE          1.0        794               0.17
+2      I USUALLY FEEL IT IS WORTHWHILE          2.0       3319               0.71
+3                            UNDECIDED          3.0        534               0.11
+
+
+
+S144.Q21 IN GENERAL, WHAT SORT OF PHYSICAL CONDITION WOULD YOU SAY YOU ARE IN AT THE PRESENT TIME?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         15                0.0
+1  VERY GOOD PHYSICAL CONDITION          1.0       1293               0.28
+2       GOOD PHYSICAL CONDITION          2.0       1238               0.26
+3       FAIR PHYSICAL CONDITION          3.0       1388                0.3
+4       POOR PHYSICAL CONDITION          4.0        505               0.11
+5  VERY POOR PHYSICAL CONDITION          5.0        239               0.05
+
+
+
+S144.Q22 AFTER THE WAR, DO YOU THINK THE UNITED STATES COULD HAVE AN ARMY LARGE ENOUGH FOR THE COUNTRY'S NEEDS BY TAKING VOLUNTEERS ONLY?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         16                0.0
+1        YES, I THINK IT COULD          1.0       2436               0.52
+2  NO, I DO NOT THINK IT COULD          2.0       1505               0.32
+3                    UNDECIDED          3.0        721               0.15
+
+
+
+S144.Q23 AFTER THE WAR, DO YOU THINK THE UNITED STATES SHOULD DRAFT ALL YOUNG MEN FOR A CERTAIN AMOUNT OF ARMY TRAINING DURING PEACETIME OR SHOULD WE GO BACK TO THE REGULAR ARMY SYSTEM OF TAKING VOLUNTEERS ONLY?
+                                           answer_label answer_value raw_counts relative_frequency
+0                                             NO ANSWER          0.0         24               0.01
+1  DRAFT ALL YOUNG MEN FOR A CERTAIN AMOUNT OF TRAINING          1.0       2644               0.57
+2                     GO BACK TO TAKING VOLUNTEERS ONLY          2.0       1494               0.32
+3                                ANOTHER PLAN MENTIONED          3.0          8                0.0
+4                                             UNDECIDED          4.0        508               0.11
+
+
+
+S144.Q24 WHICH OF THE FOLLOWING WERE YOU DOING JUST BEFORE YOU CAME INTO THE ARMY?
+                                                                        answer_label answer_value raw_counts relative_frequency
+0                                                                          NO ANSWER          0.0         16                0.0
+1                  WORKING FULL-TIME FOR THE GOVERNMENT (FEDERAL, STATE, CITY, ETC.)          1.0        869               0.19
+2                             WORKING FULL-TIME FOR A RELATIVE (FATHER, UNCLE, ETC.)          2.0        222               0.05
+3                  WORKING FULL-TIME FOR SOME OTHER EMPLOYER (COMPANY, PERSON, ETC.)          3.0       2611               0.56
+4                                                       WORKING FULL-TIME FOR MYSELF          4.0        247               0.05
+5                                                          GOING TO FULL-TIME SCHOOL          5.0        571               0.12
+6                                                                     SOMETHING ELSE          6.0         54               0.01
+7   PART-TIME WORK AND FULL-TIME SCHOOL (WHERE JOB IS IMPORTANT TO FUTURE JOB PLANS)          7.0         27               0.01
+8                                                                         UNEMPLOYED          8.0         15                0.0
+9                                                                      CCC OR W.P.A.          9.0         10                0.0
+10                           OWN BUSINESS AND FULL-TIME JOB (OWN SMALL SHOP OR FARM)         10.0         14                0.0
+11                                                REGULAR ARMY (OVER 4 YEARS IN Q.8)         11.0         22                0.0
+
+
+
+S144.Q25.1 WHAT KIND OF BUSINESS OR INDUSTRY DID YOU WORK IN JUST BEFORE YOU CAME INTO THE ARMY? E. INDUSTRY:
+                                                                                        answer_label answer_value raw_counts relative_frequency
+0  OWN BUSINESS, INCLUDES PART OWNER, (TO BE USED IN COMBINATION WITH THE APPROPRIATE INDUSTRY CODE)          1.0        149               0.03
+1                                                                                         NOT CHOSEN          2.0       4529               0.97
+
+
+
+S144.Q25.2WHAT KIND OF BUSINESS OR INDUSTRY DID YOU WORK IN JUST BEFORE YOU CAME INTO THE ARMY? E. INDUSTRY:
+             answer_label answer_value raw_counts relative_frequency
+0  SCHOOL - STUDENTS ONLY          1.0        575               0.12
+1              NOT CHOSEN          2.0       4103               0.88
+
+
+
+S144.Q25.3WHAT KIND OF BUSINESS OR INDUSTRY DID YOU WORK IN JUST BEFORE YOU CAME INTO THE ARMY? E. INDUSTRY:
+  answer_label answer_value raw_counts relative_frequency
+0  AGRICULTURE          1.0        320               0.07
+1   NOT CHOSEN          2.0       4358               0.93
+
+
+
+S144.Q25.4WHAT KIND OF BUSINESS OR INDUSTRY DID YOU WORK IN JUST BEFORE YOU CAME INTO THE ARMY? E. INDUSTRY:
+                                                           answer_label answer_value raw_counts relative_frequency
+0  AVIATION (OTHER THAN ARMY) (ALL PHASES MANUFACTURE, AIR LINES, ETC.)          1.0        121               0.03
+1                                                            NOT CHOSEN          2.0       4557               0.97
+
+
+
+S144.Q25.5WHAT KIND OF BUSINESS OR INDUSTRY DID YOU WORK IN JUST BEFORE YOU CAME INTO THE ARMY? E. INDUSTRY:
+                           answer_label answer_value raw_counts relative_frequency
+0  RADIO (ALL PHASES EXCEPT PURE SALES)          1.0         24               0.01
+1                            NOT CHOSEN          2.0       4654               0.99
+
+
+
+S144.Q25.6WHAT KIND OF BUSINESS OR INDUSTRY DID YOU WORK IN JUST BEFORE YOU CAME INTO THE ARMY? E. INDUSTRY:
+           answer_label answer_value raw_counts relative_frequency
+0  MINING, OIL DRILLING          1.0         49               0.01
+1            NOT CHOSEN          2.0       4629               0.99
+
+
+
+S144.Q25.7WHAT KIND OF BUSINESS OR INDUSTRY DID YOU WORK IN JUST BEFORE YOU CAME INTO THE ARMY? E. INDUSTRY:
+                 answer_label answer_value raw_counts relative_frequency
+0  WHOLESALE AND RETAIL TRADE          1.0        544               0.12
+1                  NOT CHOSEN          2.0       4134               0.88
+
+
+
+S144.Q25.8WHAT KIND OF BUSINESS OR INDUSTRY DID YOU WORK IN JUST BEFORE YOU CAME INTO THE ARMY? E. INDUSTRY:
+                   answer_label answer_value raw_counts relative_frequency
+0  TRANSPORTATION AND UTILITIES          1.0        295               0.06
+1                    NOT CHOSEN          2.0       4383               0.94
+
+
+
+S144.Q25.9WHAT KIND OF BUSINESS OR INDUSTRY DID YOU WORK IN JUST BEFORE YOU CAME INTO THE ARMY? E. INDUSTRY:
+   answer_label answer_value raw_counts relative_frequency
+0  CONSTRUCTION          1.0        219               0.05
+1    NOT CHOSEN          2.0       4459               0.95
+
+
+
+S144.Q25.10WHAT KIND OF BUSINESS OR INDUSTRY DID YOU WORK IN JUST BEFORE YOU CAME INTO THE ARMY? E. INDUSTRY:
+                                    answer_label answer_value raw_counts relative_frequency
+0  MANUFACTURING (OTHER THAN RADIO AND AVIATION)          1.0       1306               0.28
+1                                     NOT CHOSEN          2.0       3372               0.72
+
+
+
+S144.Q25.11WHAT KIND OF BUSINESS OR INDUSTRY DID YOU WORK IN JUST BEFORE YOU CAME INTO THE ARMY? E. INDUSTRY:
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0  ALL OTHER (TEACHERS, GOVERNMENT CLERK, AUTO REPAIR, PERSONAL SERVICE AMUSEMENT, REGULAR ARMY, FINANCE, REAL ESTATE, ETC.          1.0       1045               0.22
+1                                                                                                                NOT CHOSEN          2.0       3633               0.78
+
+
+
+S144.Q25.12WHAT KIND OF BUSINESS OR INDUSTRY DID YOU WORK IN JUST BEFORE YOU CAME INTO THE ARMY? E. INDUSTRY:
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0        179               0.04
+1   NOT CHOSEN          2.0       4499               0.96
+
+
+
+S144.Q26A WHAT WAS YOUR JOB IN THIS BUSINESS OR INDUSTRY? JUST WHAT DID YOU DO? E. OCCUPATION:
+                                                                                       answer_label answer_value raw_counts relative_frequency
+0                                                                                         NO ANSWER          0.0        165               0.04
+1           PROFESSIONAL (I.E., DOCTORS, DENTISTS, LAWYERS, ACCOUNTANTS, ENGINEERS, TEACHERS, ETC.)          1.0        109               0.02
+2   SEMI-PROFESSIONALS (AVIATORS, COMMERCIAL ARTISTS, DRAFTSMEN, PHOTOGRAPHERS, ENTERTAINERS, ETC.)          2.0         57               0.01
+3                             SERVICE OCCUPATION (COOKS, WAITERS, BARBERS, GUARDS, POLICEMEN, ETC.)          3.0        506               0.11
+4                                                                                       AGRICULTURE          4.0        320               0.07
+5                            SKILLED OCCUPATIONS (TOOLMAKERS, CARPENTERS, PLUMBERS, PAINTERS, ETC.)          5.0        586               0.13
+6                          SEMI-SKILLED OCCUPATIONS (MOST FACTORY MACHINE OPERATORS, TRUCK DRIVERS)          6.0       1114               0.24
+7            UNSKILLED OCCUPATIONS (LABORERS, INCLUDING FACTORY WORKERS WHOSE JOB IS NOT SPECIFIED)          7.0        653               0.14
+8                                    MANAGERS AND OFFICIALS (HIGHER TYPE WITH SUPERVISORY CAPACITY)          8.0         24               0.01
+9                                            MERCHANTS, SHOPKEEPERS, TRADESMEN, ETC. (OWN BUSINESS)          9.0         38               0.01
+10                                                                                         CLERICAL         10.0        353               0.08
+11                                          SALESPERSONS (INCLUDING MANAGERS OF SMALL CHAIN STORES)         11.0        181               0.04
+12                                                 MISCELLANEOUS UNCLASSIFIABLE (INCLUDES STUDENTS)         12.0        572               0.12
+
+
+
+S144.Q26B ABOUT HOW LONG DID YOU DO THIS KIND OF WORK, EITHER ON THIS JOB OR OTHER JOBS BEFORE YOU CAME INTO THE ARMY?
+                                answer_label answer_value raw_counts relative_frequency
+0                                  NO ANSWER          0.0        799               0.17
+1                         LESS THAN 6 MONTHS          1.0        315               0.07
+2        6 MONTHS UP TO AND INCLUDING 1 YEAR          2.0        783               0.17
+3    OVER 1 YEAR UP TO AND INCLUDING 3 YEARS          3.0       1349               0.29
+4   OVER 3 YEARS UP TO AND INCLUDING 5 YEARS          4.0        564               0.12
+5  OVER 5 YEARS UP TO AND INCLUDING 10 YEARS          5.0        563               0.12
+6                              OVER 10 YEARS          6.0        305               0.07
+
+
+
+S144.Q26C ON THE AVERAGE HOW MUCH PAY WERE YOU EARNING IN THIS JOB?
+                                    answer_label answer_value raw_counts relative_frequency
+0                                      NO ANSWER          0.0        842               0.18
+1         UP TO $20 WEEKLY - UP TO $90 PER MONTH          1.0        736               0.16
+2      $21 TO $30 WEEKLY - $91 TO $130 PER MONTH          2.0        908               0.19
+3     $31 TO $40 WEEKLY - $131 TO $175 PER MONTH          3.0        866               0.19
+4     $41 TO $59 WEEKLY - $176 TO $259 PER MONTH          4.0        731               0.16
+5  $60 AND OVER WEEKLY - $260 AND OVER PER MONTH          5.0        595               0.13
+
+
+
+S144.Q27A.1 WHAT KIND OF WORK DO YOU THINK YOU WILL DO RIGHT AFTER THE WAR? (IF YOU ARE UNDECIDED, TELL WHAT YOU THINK YOU MIGHT DO.) E. INDUSTRY:
+                        answer_label answer_value raw_counts relative_frequency
+0  SCHOOL (STUDENTS ONLY, FULL TIME)          1.0        658               0.14
+1                         NOT CHOSEN          2.0       4020               0.86
+
+
+
+S144.Q27A.2WHAT KIND OF WORK DO YOU THINK YOU WILL DO RIGHT AFTER THE WAR? (IF YOU ARE UNDECIDED, TELL WHAT YOU THINK YOU MIGHT DO.) E. INDUSTRY:
+                                  answer_label answer_value raw_counts relative_frequency
+0  AGRICULTURE (INCLUDES FARMING ON ANY BASIS)          1.0        393               0.08
+1                                   NOT CHOSEN          2.0       4285               0.92
+
+
+
+S144.Q27A.3WHAT KIND OF WORK DO YOU THINK YOU WILL DO RIGHT AFTER THE WAR? (IF YOU ARE UNDECIDED, TELL WHAT YOU THINK YOU MIGHT DO.) E. INDUSTRY:
+  answer_label answer_value raw_counts relative_frequency
+0         ARMY          1.0         78               0.02
+1   NOT CHOSEN          2.0       4600               0.98
+
+
+
+S144.Q27A.4WHAT KIND OF WORK DO YOU THINK YOU WILL DO RIGHT AFTER THE WAR? (IF YOU ARE UNDECIDED, TELL WHAT YOU THINK YOU MIGHT DO.) E. INDUSTRY:
+                       answer_label answer_value raw_counts relative_frequency
+0  OWN BUSINESS (EXCLUDING FARMING)          1.0        798               0.17
+1                        NOT CHOSEN          2.0       3880               0.83
+
+
+
+S144.Q27A.5WHAT KIND OF WORK DO YOU THINK YOU WILL DO RIGHT AFTER THE WAR? (IF YOU ARE UNDECIDED, TELL WHAT YOU THINK YOU MIGHT DO.) E. INDUSTRY:
+            answer_label answer_value raw_counts relative_frequency
+0  GOVERNMENT EMPLOYMENT          1.0        732               0.16
+1             NOT CHOSEN          2.0       3946               0.84
+
+
+
+S144.Q27A.6WHAT KIND OF WORK DO YOU THINK YOU WILL DO RIGHT AFTER THE WAR? (IF YOU ARE UNDECIDED, TELL WHAT YOU THINK YOU MIGHT DO.) E. INDUSTRY:
+                                 answer_label answer_value raw_counts relative_frequency
+0  PRIVATE EMPLOYMENT (NOT AVIATION OR RADIO)          1.0       1685               0.36
+1                                  NOT CHOSEN          2.0       2993               0.64
+
+
+
+S144.Q27A.7WHAT KIND OF WORK DO YOU THINK YOU WILL DO RIGHT AFTER THE WAR? (IF YOU ARE UNDECIDED, TELL WHAT YOU THINK YOU MIGHT DO.) E. INDUSTRY:
+                                               answer_label answer_value raw_counts relative_frequency
+0  ENTRY COULD MEAN EITHER GOVERNMENT OR PRIVATE EMPLOYMENT          1.0        201               0.04
+1                                                NOT CHOSEN          2.0       4477               0.96
+
+
+
+S144.Q27A.8WHAT KIND OF WORK DO YOU THINK YOU WILL DO RIGHT AFTER THE WAR? (IF YOU ARE UNDECIDED, TELL WHAT YOU THINK YOU MIGHT DO.) E. INDUSTRY:
+  answer_label answer_value raw_counts relative_frequency
+0     AVIATION          1.0        168               0.04
+1   NOT CHOSEN          2.0       4510               0.96
+
+
+
+S144.Q27A.9WHAT KIND OF WORK DO YOU THINK YOU WILL DO RIGHT AFTER THE WAR? (IF YOU ARE UNDECIDED, TELL WHAT YOU THINK YOU MIGHT DO.) E. INDUSTRY:
+        answer_label answer_value raw_counts relative_frequency
+0  RADIO (NOT SALES)          1.0         66               0.01
+1         NOT CHOSEN          2.0       4612               0.99
+
+
+
+S144.Q27A.10WHAT KIND OF WORK DO YOU THINK YOU WILL DO RIGHT AFTER THE WAR? (IF YOU ARE UNDECIDED, TELL WHAT YOU THINK YOU MIGHT DO.) E. INDUSTRY:
+                                                                            answer_label answer_value raw_counts relative_frequency
+0  ALL ENTRIES NOT COVERED BY COLUMNS 62-70 ABOVE - SELF EMPLOYMENT BUT NOT OWN BUSINESS          1.0         82               0.02
+1                                                                             NOT CHOSEN          2.0       4596               0.98
+
+
+
+S144.Q27A.11WHAT KIND OF WORK DO YOU THINK YOU WILL DO RIGHT AFTER THE WAR? (IF YOU ARE UNDECIDED, TELL WHAT YOU THINK YOU MIGHT DO.) E. INDUSTRY:
+         answer_label answer_value raw_counts relative_frequency
+0  SCHOOL (PART TIME)          1.0        124               0.03
+1          NOT CHOSEN          2.0       4554               0.97
+
+
+
+S144.Q27A.12WHAT KIND OF WORK DO YOU THINK YOU WILL DO RIGHT AFTER THE WAR? (IF YOU ARE UNDECIDED, TELL WHAT YOU THINK YOU MIGHT DO.) E. INDUSTRY:
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0        266               0.06
+1   NOT CHOSEN          2.0       4412               0.94
+
+
+
+S144.V27A1 TYPE OF WORK AS COMPARED WITH Q.26A:
+                                                                 answer_label answer_value raw_counts relative_frequency
+0                                                                   NO ANSWER          0.0        120               0.03
+1                                                SAME TYPE OF WORK - DEFINITE          1.0       1335               0.29
+2                                                   SAME TYPE OF WORK - MAYBE          2.0        267               0.06
+3                                           DIFFERENT TYPE OF WORK - DEFINITE          3.0       1286               0.27
+4                                              DIFFERENT TYPE OF WORK - MAYBE          4.0        712               0.15
+5      SAME OR DIFFERENT TYPE OF WORK - INDICATES ALTERNATE COURSES OF ACTION          5.0        264               0.06
+6                                             SAME AND DIFFERENT TYPE OF WORK          6.0         61               0.01
+7          OWN BUSINESS (NEW) BUT IN SAME GENERAL LINE OF WORK AS PRE-WAR JOB          7.0        134               0.03
+8   MENTIONS TWO - BOTH DIFFERENT TYPES OF WORK (ALTERNATE COURSES OF ACTION)          8.0        221               0.05
+9                         MENTIONS TWO, BOTH DIFFERENT (TWO AT THE SAME TIME)          9.0         29               0.01
+10                                                                  UNDECIDED         10.0        249               0.05
+
+
+
+S144.Q27B DID YOU DO THIS KIND OF WORK BEFORE YOU ENTERED THE ARMY?
+                                                           answer_label answer_value raw_counts relative_frequency
+0                                                             NO ANSWER          0.0        918                0.2
+1                                                    LESS THAN 6 MONTHS          1.0        123               0.03
+2                                   6 MONTHS UP TO AND INCLUDING 1 YEAR          2.0        370               0.08
+3                               OVER 1 YEAR UP TO AND INCLUDING 3 YEARS          3.0        763               0.16
+4                              OVER 3 YEARS UP TO AND INCLUDING 5 YEARS          4.0        399               0.09
+5                             OVER 5 YEARS UP TO AND INCLUDING 10 YEARS          5.0        464                0.1
+6                                                         OVER 10 YEARS          6.0        279               0.06
+7                                              "YES", BUT NO TIME GIVEN          7.0         65               0.01
+8                                     NO, I NEVER DID THIS KIND OF WORK          8.0        855               0.18
+9  NO, BUT I'M LEARNING (OR HAVE LEARNED) THIS KIND OF WORK IN THE ARMY          9.0        442               0.09
+
+
+
+S144.Q28 HOW SURE DO YOU FEEL THAT AFTER THE WAR YOU WILL DO THE KIND OF WORK YOU DESCRIBED IN THE LAST QUESTION?
+                                   answer_label answer_value raw_counts relative_frequency
+0                                     NO ANSWER          0.0        127               0.03
+1                        I'M ALMOST SURE I WILL          1.0       2419               0.52
+2  I PROBABLY WILL, BUT I MAY DO SOMETHING ELSE          2.0       1475               0.32
+3     I'M REALLY NOT AT ALL SURE WHAT I WILL DO          3.0        657               0.14
+
+
+
+S144.Q29 AS FAR AS YOU CAN TELL NOW, DO YOU PLAN TO STAY IN THIS KIND OF WORK FOR AT LEAST FIVE YEARS OR DO YOU EXPECT TO CHANGE TO SOME OTHER KIND OF WORK LATER ON?
+                                                    answer_label answer_value raw_counts relative_frequency
+0                                                      NO ANSWER          0.0        171               0.04
+1    I PLAN TO STAY IN THIS KIND OF WORK FOR AT LEAST FIVE YEARS          1.0       2487               0.53
+2  I PLAN TO CHANGE TO SOME OTHER KIND OF WORK WITHIN FIVE YEARS          2.0        727               0.16
+3                             I REALLY CAN'T TELL WHAT I WILL DO          3.0       1293               0.28
+
+
+
+S144.Q30A IF YOU THINK YOU MAY CHANGE TO SOME OTHER KIND OF WORK LATER ON, WHAT KIND OF WORK DO YOU THINK YOU MAY CHANGE TO?
+                                                                                                              answer_label answer_value raw_counts relative_frequency
+0                                                                                                                NO ANSWER          0.0        576               0.12
+1                                                        OPEN OWN BUSINESS OTHER THAN PROFESSION OR FARM (TAKING OWN RISK)          1.0        462                0.1
+2      PROFESSIONAL SERVICE - DOCTORS, LAWYERS, DENTISTS, ACCOUNTANTS AND ENGINEERS WHO ARE COLLEGE GRADS., TEACHERS, ETC.          2.0        299               0.06
+3                                                                  FARM (BUY OR RENT) - OPERATE AS OWN, BUT NOT AS MANAGER          3.0        133               0.03
+4                                                                                      JOB HE WANTS, AND NOT CODED IN Q.27          4.0        766               0.16
+5                                    GOVERNMENT - PROTECTIVE SERVICE WORKERS - FIREMAN, POLICEMAN, ETC., MAIL CLERKS, ETC.          5.0        163               0.03
+6  SEMI-PROFESSIONAL, MANAGERS, OFFICIALS, (INCLUDING THOSE PEOPLE WHO WOULD BE CODED AS PROFESSIONAL IF THEY HAD ACADEMIC          6.0         98               0.02
+7                                                                                      SCHOOL OR COLLEGE LATER - FULL TIME          7.0         57               0.01
+8                                                                                                                UNDECIDED          8.0        423               0.09
+9                                                                                                   I DON'T PLAN TO CHANGE          9.0       1701               0.36
+
+
+
+S144.Q30B WOULD YOU NEED ADDITIONAL EDUCATION OR TRAINING IN ORDER TO DO THE KIND OF WORK YOU MAY CHANGE TO?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0        688               0.15
+1                     YES          1.0       1366               0.29
+2                      NO          2.0        963               0.21
+3  I DON'T PLAN TO CHANGE          3.0       1661               0.36
+
+
+
+S144.Q31.1 DO YOU EXPECT TO WORK FOR YOURSELF OR FOR SOMEONE ELSE RIGHT AFTER YOU LEAVE THE ARMY?
+                                                       answer_label answer_value raw_counts relative_frequency
+0  I EXPECT TO WORK FOR THE GOVERNMENT (FEDERAL, STATE, CITY, ETC.)          1.0       1244               0.27
+1                                                        NOT CHOSEN          2.0       3434               0.73
+
+
+
+S144.Q31.2DO YOU EXPECT TO WORK FOR YOURSELF OR FOR SOMEONE ELSE RIGHT AFTER YOU LEAVE THE ARMY?
+                                            answer_label answer_value raw_counts relative_frequency
+0  I EXPECT TO WORK FOR A RELATIVE (FATHER, UNCLE, ETC.)          1.0        124               0.03
+1                                             NOT CHOSEN          2.0       4554               0.97
+
+
+
+S144.Q31.3DO YOU EXPECT TO WORK FOR YOURSELF OR FOR SOMEONE ELSE RIGHT AFTER YOU LEAVE THE ARMY?
+                                                       answer_label answer_value raw_counts relative_frequency
+0  I EXPECT TO WORK FOR SOME OTHER EMPLOYER (COMPANY, PERSON, ETC.)          1.0       1199               0.26
+1                                                        NOT CHOSEN          2.0       3479               0.74
+
+
+
+S144.Q31.4DO YOU EXPECT TO WORK FOR YOURSELF OR FOR SOMEONE ELSE RIGHT AFTER YOU LEAVE THE ARMY?
+                  answer_label answer_value raw_counts relative_frequency
+0  I EXPECT TO WORK FOR MYSELF          1.0       1154               0.25
+1                   NOT CHOSEN          2.0       3524               0.75
+
+
+
+S144.Q31.5DO YOU EXPECT TO WORK FOR YOURSELF OR FOR SOMEONE ELSE RIGHT AFTER YOU LEAVE THE ARMY?
+                       answer_label answer_value raw_counts relative_frequency
+0  I PLAN TO GO TO FULL-TIME SCHOOL          1.0        492               0.11
+1                        NOT CHOSEN          2.0       4186               0.89
+
+
+
+S144.Q31.6DO YOU EXPECT TO WORK FOR YOURSELF OR FOR SOMEONE ELSE RIGHT AFTER YOU LEAVE THE ARMY?
+                 answer_label answer_value raw_counts relative_frequency
+0  I PLAN TO STAY IN THE ARMY          1.0         35               0.01
+1                  NOT CHOSEN          2.0       4643               0.99
+
+
+
+S144.Q31.7DO YOU EXPECT TO WORK FOR YOURSELF OR FOR SOMEONE ELSE RIGHT AFTER YOU LEAVE THE ARMY?
+                      answer_label answer_value raw_counts relative_frequency
+0  I DON'T HAVE ANY DEFINITE PLANS          1.0        360               0.08
+1                       NOT CHOSEN          2.0       4318               0.92
+
+
+
+S144.Q31.8DO YOU EXPECT TO WORK FOR YOURSELF OR FOR SOMEONE ELSE RIGHT AFTER YOU LEAVE THE ARMY?
+               answer_label answer_value raw_counts relative_frequency
+0  ARMY AND OTHER CODE 4672          1.0          6                0.0
+1                NOT CHOSEN          2.0       4672                1.0
+
+
+
+S144.Q31.9DO YOU EXPECT TO WORK FOR YOURSELF OR FOR SOMEONE ELSE RIGHT AFTER YOU LEAVE THE ARMY?
+                 answer_label answer_value raw_counts relative_frequency
+0  SCHOOL AND OTHER CODE 4659          1.0         19                0.0
+1                  NOT CHOSEN          2.0       4659                1.0
+
+
+
+S144.Q31.10DO YOU EXPECT TO WORK FOR YOURSELF OR FOR SOMEONE ELSE RIGHT AFTER YOU LEAVE THE ARMY?
+                            answer_label answer_value raw_counts relative_frequency
+0  NO DEFINITE PLANS AND OTHER CODE 4677          1.0          1                0.0
+1                             NOT CHOSEN          2.0       4677                1.0
+
+
+
+S144.Q31.11DO YOU EXPECT TO WORK FOR YOURSELF OR FOR SOMEONE ELSE RIGHT AFTER YOU LEAVE THE ARMY?
+                            answer_label answer_value raw_counts relative_frequency
+0  COMBINATIONS OF CODES (COLUMNS 10-13)          1.0         30               0.01
+1                             NOT CHOSEN          2.0       4648               0.99
+
+
+
+S144.Q31.12DO YOU EXPECT TO WORK FOR YOURSELF OR FOR SOMEONE ELSE RIGHT AFTER YOU LEAVE THE ARMY?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0         37               0.01
+1   NOT CHOSEN          2.0       4641               0.99
+
+
+
+S144.Q32 AFTER THE WAR, DO YOU THINK YOU COULD GET WORK WITH THE COMPANY OR PERSON YOU WORKED FOR BEFORE YOU CAME INTO THE ARMY, IF YOU WANTED TO?
+                                      answer_label answer_value raw_counts relative_frequency
+0                                        NO ANSWER          0.0        107               0.02
+1                     YES, I'M ALMOST SURE I COULD          1.0       2655               0.57
+2                YES, I THINK SO, BUT I'M NOT SURE          2.0        857               0.18
+3                          NO, I PROBABLY COULDN'T          3.0        284               0.06
+4                             I'M SURE I COULD NOT          4.0        124               0.03
+5  I WORKED FOR MYSELF BEFORE I CAME INTO THE ARMY          5.0        215               0.05
+6    I WAS NOT WORKING BEFORE I CAME INTO THE ARMY          6.0        436               0.09
+
+
+
+S144.Q33 DO YOU THINK YOU ACTUALLY WILL GO BACK TO WORK FOR THE SAME EMPLOYER (COMPANY, PERSON, ETC.) YOU WORKED FOR BEFORE YOU CAME INTO THE ARMY?
+                                      answer_label answer_value raw_counts relative_frequency
+0                                        NO ANSWER          0.0        119               0.03
+1                       YES, I'M QUITE SURE I WILL          1.0       1160               0.25
+2                          I MAY, BUT I'M NOT SURE          2.0       1217               0.26
+3                         NO, I DON'T THINK I WILL          3.0       1520               0.32
+4  I WORKED FOR MYSELF BEFORE I CAME INTO THE ARMY          4.0        219               0.05
+5    I WAS NOT WORKING BEFORE I CAME INTO THE ARMY          5.0        443               0.09
+
+
+
+S144.Q34 DO YOU PLAN TO START A BUSINESS OR RUN A FARM SOON AFTER YOU LEAVE THE ARMY?
+                                                  answer_label answer_value raw_counts relative_frequency
+0                                                    NO ANSWER          0.0        243               0.05
+1  YES, I AM ALMOST SURE I WILL START A BUSINESS OR RUN A FARM          1.0       1294               0.28
+2                                      I MAY, BUT I'M NOT SURE          2.0       1113               0.24
+3           NO, I DON'T PLAN TO START A BUSINESS OR RUN A FARM          3.0       1851                0.4
+4                            I ALREADY HAVE A BUSINESS OR FARM          4.0        177               0.04
+
+
+
+S144.Q35 WHAT KIND OF BUSINESS OR FARMING WILL YOU GO INTO?
+                                                              answer_label answer_value raw_counts relative_frequency
+0                                        AGRICULTURE - ANY TYPE OF FARMING          1.0        484                0.1
+1                                             MANUFACTURING OR WHOLESALING          2.0         18                0.0
+2                                             CONSTRUCTION AND CONTRACTING          3.0         29               0.01
+3                                                         RETAILING - FOOD          4.0        112               0.02
+4   RETAILING - AUTOMOTIVE (CAR AND PARTS SALES, FILLING STATION, GARAGES)          5.0        165               0.04
+5                           RETAILING - ALL OTHER (INCLUDES EATING PLACES)          6.0        359               0.08
+6                         SERVICE ESTABLISHMENTS (OTHER THAN AUTO REPAIRS)          7.0        346               0.07
+7                         PLACES OF AMUSEMENT, HOTELS, TOURIST CAMPS, ETC.          8.0         89               0.02
+8                     TRANSPORTATION, COMMUNICATION, UTILITIES, AND MINING          9.0         62               0.01
+9                                          FINANCE, INSURANCE, REAL ESTATE         10.0         25               0.01
+10                                     UNDECIDED, MENTIONS 2 OR MORE, ETC.         11.0        190               0.04
+11                                                 INAPPLICABLE, NO ANSWER         99.0       2799                0.6
+
+
+
+S144.Q36 HOW MUCH MONEY ALTOGETHER DO YOU PLAN TO PUT INTO IT TO GET STARTED?
+                                answer_label answer_value raw_counts relative_frequency
+0                               $500 OR LESS          1.0        283               0.06
+1       OVER $500 UP TO AND INCLUDING $1,000          2.0        435               0.09
+2       OVER $1000 UP TO AND INCLUDING $2000          3.0        429               0.09
+3       OVER $2000 UP TO AND INCLUDING $3000          4.0        213               0.05
+4       OVER $3000 UP TO AND INCLUDING $4000          5.0         61               0.01
+5       OVER $4000 UP TO AND INCLUDING $6000          6.0        168               0.04
+6     OVER $6000 UP TO AND INCLUDING $10,000          7.0         70               0.01
+7   OVER $10,000 UP TO AND INCLUDING $15,000          8.0         18                0.0
+8   OVER $15,000 UP TO AND INCLUDING $25,000          9.0         12                0.0
+9                               OVER $25,000         10.0          7                0.0
+10                   UNDECIDED OR DON'T KNOW         11.0         83               0.02
+11                   INAPPLICABLE, NO ANSWER         99.0       2899               0.62
+
+
+
+S144.Q37.1 WHERE DO YOU EXPECT TO GET THE MONEY TO GET STARTED WITH?
+                                                    answer_label answer_value raw_counts relative_frequency
+0  I WILL HAVE ALL THE MONEY I NEED TO GET STARTED AFTER THE WAR          1.0        220               0.05
+1                                                     NOT CHOSEN          2.0       4458               0.95
+
+
+
+S144.Q37.2WHERE DO YOU EXPECT TO GET THE MONEY TO GET STARTED WITH?
+                                                         answer_label answer_value raw_counts relative_frequency
+0  I WILL HAVE AT LEAST HALF OF THE MONEY AND PLAN TO BORROW THE REST          1.0        716               0.15
+1                                                          NOT CHOSEN          2.0       3962               0.85
+
+
+
+S144.Q37.3WHERE DO YOU EXPECT TO GET THE MONEY TO GET STARTED WITH?
+                                       answer_label answer_value raw_counts relative_frequency
+0  I PLAN TO BORROW MONEY FROM MY FAMILY OR FRIENDS          1.0        132               0.03
+1                                        NOT CHOSEN          2.0       4546               0.97
+
+
+
+S144.Q37.4WHERE DO YOU EXPECT TO GET THE MONEY TO GET STARTED WITH?
+                                   answer_label answer_value raw_counts relative_frequency
+0  I PLAN TO BORROW FROM A BANK OR LOAN COMPANY          1.0        426               0.09
+1                                    NOT CHOSEN          2.0       4252               0.91
+
+
+
+S144.Q37.5WHERE DO YOU EXPECT TO GET THE MONEY TO GET STARTED WITH?
+  answer_label answer_value raw_counts relative_frequency
+0        OTHER          1.0         29               0.01
+1   NOT CHOSEN          2.0       4649               0.99
+
+
+
+S144.Q37.6WHERE DO YOU EXPECT TO GET THE MONEY TO GET STARTED WITH?
+                              answer_label answer_value raw_counts relative_frequency
+0  I DON'T KNOW WHERE I WILL GET THE MONEY          1.0        409               0.09
+1                               NOT CHOSEN          2.0       4269               0.91
+
+
+
+S144.Q37.7WHERE DO YOU EXPECT TO GET THE MONEY TO GET STARTED WITH?
+                             answer_label answer_value raw_counts relative_frequency
+0  COMBINATION OF CODES \(COLUMNS 30-32\)          1.0          2                0.0
+1                              NOT CHOSEN          2.0       4676                1.0
+
+
+
+S144.Q37.8WHERE DO YOU EXPECT TO GET THE MONEY TO GET STARTED WITH?
+                                   answer_label answer_value raw_counts relative_frequency
+0  PLAN TO BORROW FROM GOVERNMENT \(G.I. BILL\)          1.0        135               0.03
+1                                    NOT CHOSEN          2.0       4543               0.97
+
+
+
+S144.Q37.9WHERE DO YOU EXPECT TO GET THE MONEY TO GET STARTED WITH?
+                        answer_label answer_value raw_counts relative_frequency
+0  WORK FOR A WHILE TO EARN THE REST          1.0         45               0.01
+1                         NOT CHOSEN          2.0       4633               0.99
+
+
+
+S144.Q37.10WHERE DO YOU EXPECT TO GET THE MONEY TO GET STARTED WITH?
+                                             answer_label answer_value raw_counts relative_frequency
+0  ANY TWO CHECKS PLUS GOVERNMENT \(EXCEPTING COLUMN 29\)          1.0          5                0.0
+1                                              NOT CHOSEN          2.0       4673                1.0
+
+
+
+S144.Q37.11WHERE DO YOU EXPECT TO GET THE MONEY TO GET STARTED WITH?
+              answer_label answer_value raw_counts relative_frequency
+0  INAPPLICABLE, NO ANSWER          1.0       2732               0.58
+1               NOT CHOSEN          2.0       1946               0.42
+
+
+
+S144.Q38 DO YOU THINK YOU WILL TRY TO GET A GOVERNMENT (FEDERAL, STATE, CITY, ETC.) JOB AFTER THE WAR?
+                                                             answer_label answer_value raw_counts relative_frequency
+0                                                               NO ANSWER          0.0        196               0.04
+1          I HAVE A GOVERNMENT JOB WAITING FOR ME, WHICH I EXPECT TO TAKE          1.0        421               0.09
+2                    I AM DEFINITELY GOING TO TRY TO GET A GOVERNMENT JOB          2.0       1350               0.29
+3  I WOULD LIKE A GOVERNMENT JOB, BUT I AM NOT SURE I WILL TRY TO GET ONE          3.0       1189               0.25
+4               I WOULD TRY IF I COULDN'T GET SOME OTHER JOB I WOULD LIKE          4.0        901               0.19
+5                          I AM NOT AT ALL INTERESTED IN A GOVERNMENT JOB          5.0        621               0.13
+
+
+
+S144.Q39A IF YOU ARE INTERESTED IN A GOVERNMENT JOB, IN WHAT BRANCH OF GOVERNMENT WOULD YOU MOST WANT TO WORK?
+                              answer_label answer_value raw_counts relative_frequency
+0                                NO ANSWER          0.0        320               0.07
+1                FEDERAL (U.S. GOVERNMENT)          1.0       2473               0.53
+2                                    STATE          2.0        416               0.09
+3                                   COUNTY          3.0        100               0.02
+4                             CITY OR TOWN          4.0        642               0.14
+5                                    OTHER          5.0         18                0.0
+6  I AM NOT INTERESTED IN A GOVERNMENT JOB          6.0        709               0.15
+
+
+
+S144.Q40 HOW DO YOU FEEL ABOUT GIVING EX-SERVICEMEN WHO ARE NOT DISABLED A CHANCE TO GET GOVERNMENT JOBS AHEAD OF ANYONE WHO HAS NOT SERVED IN THE ARMED FORCES?
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0                                                                                                                 NO ANSWER          0.0        160               0.03
+1  EX-SERVICEMEN SHOULD GET FIRST CHANCE AT ANY GOVERNMENT JOBS THEY CAN DO, EVEN IF OTHER PEOPLE COULD DO THE SAME WORK MU          1.0       2271               0.49
+2               EX-SERVICEMEN SHOULD GET GOVERNMENT JOBS AHEAD OF OTHER PEOPLE ONLY IF THEY COULD DO THE WORK ABOUT AS WELL          2.0       1745               0.37
+3  EX-SERVICEMEN SHOULD BE GIVEN GOVERNMENT JOBS ONLY IF THEY CAN DO THE WORK BETTER THAN OTHER PEOPLE WHO ARE TRYING FOR T          3.0        502               0.11
+
+
+
+S144.Q41 DO YOU FEEL THAT YOU HAVE HAD AS MUCH SCHOOL OR COLLEGE AS YOU WANT, OR WOULD YOU LIKE TO GO BACK TO SCHOOL OR COLLEGE AFTER THE WAR?
+                                                        answer_label answer_value raw_counts relative_frequency
+0                                                          NO ANSWER          0.0        108               0.02
+1                     I HAVE HAD AS MUCH SCHOOL OR COLLEGE AS I WANT          1.0        889               0.19
+2             I WOULD LIKE TO GO BACK TO FULL-TIME SCHOOL OR COLLEGE          2.0       1283               0.27
+3  I WOULD LIKE TO GO BACK TO PART-TIME (OR NIGHT) SCHOOL OR COLLEGE          3.0       2398               0.51
+
+
+
+S144.Q42 IT HAS BEEN PLANNED THAT THE FEDERAL GOVERNMENT WILL PAY TUITION AND OTHER EDUCATIONAL EXPENSES PLUS A LIVING ALLOWANCE OF $50 PER MONTH TO VETERANS WHO QUALIFY AND WANT TO CONTINUE THEIR SCHOOLING. DO YOU THINK YOU WOULD GO BACK TO FULL-TIME SCHOOL OR C
+                                                                     answer_label answer_value raw_counts relative_frequency
+0                                                                       NO ANSWER          0.0        240               0.05
+1  I EXPECT TO GO BACK TO FULL-TIME SCHOOL WHETHER OR NOT THE GOVERNMENT HELPS ME          1.0        639               0.14
+2         I WILL GO BACK TO FULL-TIME SCHOOL IF THE GOVERNMENT PROVIDES THIS HELP          2.0       1577               0.34
+3     I WILL NOT GO BACK TO FULL-TIME SCHOOL EVEN IF THE GOVERNMENT WOULD HELP ME          3.0       1068               0.23
+4                                                                       UNDECIDED          4.0       1154               0.25
+
+
+
+S144.Q43 REGARDLESS OF WHAT YOU WOULD LIKE TO DO, DO YOU THINK YOU WILL ACTUALLY GO BACK TO SCHOOL OR COLLEGE AFTER THE WAR?
+                                            answer_label answer_value raw_counts relative_frequency
+0                                              NO ANSWER          0.0        101               0.02
+1                    YES, TO FULL-TIME SCHOOL OR COLLEGE          1.0        868               0.19
+2         YES, TO PART-TIME (OR NIGHT) SCHOOL OR COLLEGE          2.0       1855                0.4
+3  NO, I DON'T THINK I WILL GO BACK TO SCHOOL OR COLLEGE          3.0       1068               0.23
+4                                              UNDECIDED          4.0        786               0.17
+
+
+
+S144.Q44 ARE THERE ANY CONDITIONS YOU CAN THINK OF UNDER WHICH YOU MIGHT CONSIDER STAYING IN THE ARMY AFTER THE WAR?
+                                                    answer_label answer_value raw_counts relative_frequency
+0                                                      NO ANSWER          0.0        254               0.05
+1                 I WILL PROBABLY STAY IN THE ARMY AFTER THE WAR          1.0         90               0.02
+2  UNDER CERTAIN CONDITIONS I MIGHT CONSIDER STAYING IN THE ARMY          2.0       1405                0.3
+3                     I WOULDN'T CONSIDER IT UNDER ANY CONDITION          3.0       2929               0.63
+
+
+
+S144.Q45 DO YOU THINK THAT YOU MIGHT WANT TO STAY IN THE ARMY FOR A CAREER AFTER THE WAR?
+                             answer_label answer_value raw_counts relative_frequency
+0             YES, I THINK I WILL WANT TO          1.0        118               0.03
+1  YES, I MIGHT WANT TO, BUT I'M NOT SURE          2.0        819               0.18
+2           NO, I DON'T THINK I'D WANT TO          3.0        614               0.13
+3          NO, I WOULD NOT WANT TO AT ALL          4.0        641               0.14
+4                 INAPPLICABLE, NO ANSWER          9.0       2486               0.53
+
+
+
+S144.Q46 DO YOU THINK THAT YOU MIGHT WANT TO STAY IN THE ARMY FOR A YEAR OR TWO AFTER THE WAR?
+                            answer_label answer_value raw_counts relative_frequency
+0            YES, I THINK I WILL WANT TO          1.0        166               0.04
+1  YES, I MIGHT WANT TO BUT I'M NOT SURE          2.0        847               0.18
+2          NO, I DON'T THINK I'D WANT TO          3.0       1541               0.33
+3                INAPPLICABLE, NO ANSWER          9.0       2124               0.45
+
+
+
+S144.Q47 DO YOU THINK YOU MIGHT WANT TO STAY IN THE ARMY AFTER THE WAR IF YOU COULD CHOOSE YOUR ARMY JOB?
+                                                      answer_label answer_value raw_counts relative_frequency
+0       I WOULD WANT TO STAY, WHETHER I COULD CHOOSE MY JOB OR NOT          1.0        138               0.03
+1               I MIGHT WANT TO STAY IF I COULD CHOOSE MY ARMY JOB          2.0       1372               0.29
+2  I WOULDN'T WANT TO STAY, NO MATTER WHAT ARMY JOB WAS OFFERED ME          3.0        975               0.21
+3                                          INAPPLICABLE, NO ANSWER          9.0       2193               0.47
+
+
+
+S144.Q48 IF CIVILIAN JOBS ARE HARD TO GET AFTER THE WAR, DO YOU THINK YOU MIGHT WANT TO STAY IN THE ARMY?
+                                                                           answer_label answer_value raw_counts relative_frequency
+0                                                      I WOULD WANT TO STAY IN THE ARMY          1.0        297               0.06
+1  I WOULD WANT TO GET OUT TO LOOK FOR A JOB, BUT I MIGHT WANT TO COME BACK TO THE ARMY          2.0        940                0.2
+2                     I WOULD RATHER TAKE ANY KIND OF JOB OUTSIDE THAN STAY IN THE ARMY          3.0        476                0.1
+3                                  I AM SURE I WILL HAVE A JOB WAITING OUTSIDE THE ARMY          4.0        762               0.16
+4                                                               INAPPLICABLE, NO ANSWER          9.0       2203               0.47
+
+
+
+S144.Q49A DO YOU THINK YOU MIGHT WANT TO STAY IN THE ARMY AFTER THE WAR IF YOU COULD CHOOSE YOUR ARMY BRANCH?
+                                                           answer_label answer_value raw_counts relative_frequency
+0         I WOULD WANT TO STAY, WHETHER I COULD CHOOSE MY BRANCH OR NOT          1.0        138               0.03
+1                 I MIGHT WANT TO STAY IF I COULD CHOOSE MY ARMY BRANCH          2.0       1278               0.27
+2  I WOULDN'T WANT TO STAY WHETHER I COULD CHOOSE MY ARMY BRANCH OR NOT          3.0       1021               0.22
+3                                               INAPPLICABLE, NO ANSWER          9.0       2241               0.48
+
+
+
+S144.Q49B WHAT BRANCH WOULD YOU CHOOSE IF YOU WERE TO STAY?
+                answer_label answer_value raw_counts relative_frequency
+0                  ENGINEERS          1.0         46               0.01
+1            FIELD ARTILLERY          2.0         69               0.01
+2        QUARTERMASTER CORPS          3.0        190               0.04
+3                   INFANTRY          4.0         80               0.02
+4         MEDICAL DEPARTMENT          5.0        163               0.03
+5            ARMORED COMMAND          6.0         27               0.01
+6               SIGNAL CORPS          7.0        103               0.02
+7            COAST ARTILLERY          8.0         36               0.01
+8              ANTI-AIRCRAFT          9.0         28               0.01
+9                  AIR CORPS         10.0        780               0.17
+10      TRANSPORTATION CORPS         11.0        109               0.02
+11       ORDNANCE DEPARTMENT         12.0         79               0.02
+12  CHEMICAL WARFARE SERVICE         13.0         36               0.01
+13           MILITARY POLICE         14.0        190               0.04
+14            TANK DESTROYER         15.0         22                0.0
+15                     OTHER         16.0         48               0.01
+16   INAPPLICABLE, NO ANSWER         99.0       2672               0.57
+
+
+
+S144.Q51 DO YOU THINK YOU WILL ACTUALLY STAY IN THE ARMY, OF YOUR OWN CHOICE, AFTER THE WAR?
+              answer_label answer_value raw_counts relative_frequency
+0                      YES          1.0        232               0.05
+1                       NO          2.0       1638               0.35
+2                UNDECIDED          3.0        711               0.15
+3  INAPPLICABLE, NO ANSWER          9.0       2097               0.45
+
+
+
+S144.Q52 HAVE YOU EVER WORKED ON A FARM FOR AS MUCH AS A YEAR?
+                answer_label answer_value raw_counts relative_frequency
+0         NO CODE OR NO DATA          0.0          6                0.0
+1  YES, ON A FULL-TIME BASIS          1.0       1191               0.25
+2  YES, ON A PART-TIME BASIS          2.0        578               0.12
+3                         NO          3.0       2840               0.61
+4                  NO ANSWER          4.0         63               0.01
+
+
+
+S144.Q53 IF YOU WORKED ON A FARM, WAS IT YOUR FARM OR DID YOU WORK FOR SOMEONE ELSE?
+                                answer_label answer_value raw_counts relative_frequency
+0                                  NO ANSWER          0.0        101               0.02
+1                           I OWNED THE FARM          1.0        130               0.03
+2                          I RENTED THE FARM          2.0        132               0.03
+3           I WORKED FOR A SHARE OF THE CROP          3.0        167               0.04
+4               I WORKED ON MY FAMILY'S FARM          4.0        884               0.19
+5  I WAS A HIRED HAND ON SOMEONE ELSE'S FARM          5.0        528               0.11
+6                   I DID NOT WORK ON A FARM          6.0       2736               0.58
+
+
+
+S144.Q54A WHAT WAS THE MAIN KIND OF FARMING YOU DID?
+                                                         answer_label answer_value raw_counts relative_frequency
+0                                                           NO ANSWER          0.0        146               0.03
+1                                                     GENERAL FARMING          1.0        997               0.21
+2  FARMING WHERE MOST OF THE MONEY CAME FROM SOME ONE PRODUCT OR CROP          2.0        462                0.1
+3               CODE 1 CHECKED ABOVE AND TWO OR MORE CHECKED IN Q.54B          3.0        331               0.07
+4                                            I DID NOT WORK ON A FARM          4.0       2742               0.59
+
+
+
+S144.Q54B.1 IN EITHER CASE, WHAT PRODUCT OR CROP DID MOST OF THE MONEY COME FROM?
+              answer_label answer_value raw_counts relative_frequency
+0  CATTLE OR SHEEP (RANGE)          1.0        158               0.03
+1               NOT CHOSEN          2.0       4520               0.97
+
+
+
+S144.Q54B.2IN EITHER CASE, WHAT PRODUCT OR CROP DID MOST OF THE MONEY COME FROM?
+  answer_label answer_value raw_counts relative_frequency
+0         CORN          1.0        154               0.03
+1   NOT CHOSEN          2.0       4524               0.97
+
+
+
+S144.Q54B.3IN EITHER CASE, WHAT PRODUCT OR CROP DID MOST OF THE MONEY COME FROM?
+  answer_label answer_value raw_counts relative_frequency
+0       COTTON          1.0        691               0.15
+1   NOT CHOSEN          2.0       3987               0.85
+
+
+
+S144.Q54B.4IN EITHER CASE, WHAT PRODUCT OR CROP DID MOST OF THE MONEY COME FROM?
+  answer_label answer_value raw_counts relative_frequency
+0     DAIRYING          1.0         79               0.02
+1   NOT CHOSEN          2.0       4599               0.98
+
+
+
+S144.Q54B.5IN EITHER CASE, WHAT PRODUCT OR CROP DID MOST OF THE MONEY COME FROM?
+  answer_label answer_value raw_counts relative_frequency
+0       FRUITS          1.0         46               0.01
+1   NOT CHOSEN          2.0       4632               0.99
+
+
+
+S144.Q54B.6IN EITHER CASE, WHAT PRODUCT OR CROP DID MOST OF THE MONEY COME FROM?
+        answer_label answer_value raw_counts relative_frequency
+0  LIVESTOCK FEEDING          1.0         80               0.02
+1         NOT CHOSEN          2.0       4598               0.98
+
+
+
+S144.Q54B.7IN EITHER CASE, WHAT PRODUCT OR CROP DID MOST OF THE MONEY COME FROM?
+  answer_label answer_value raw_counts relative_frequency
+0      POULTRY          1.0         74               0.02
+1   NOT CHOSEN          2.0       4604               0.98
+
+
+
+S144.Q54B.8IN EITHER CASE, WHAT PRODUCT OR CROP DID MOST OF THE MONEY COME FROM?
+  answer_label answer_value raw_counts relative_frequency
+0      TOBACCO          1.0        247               0.05
+1   NOT CHOSEN          2.0       4431               0.95
+
+
+
+S144.Q54B.9IN EITHER CASE, WHAT PRODUCT OR CROP DID MOST OF THE MONEY COME FROM?
+  answer_label answer_value raw_counts relative_frequency
+0  TRUCK CROPS          1.0        209               0.04
+1   NOT CHOSEN          2.0       4469               0.96
+
+
+
+S144.Q54B.10IN EITHER CASE, WHAT PRODUCT OR CROP DID MOST OF THE MONEY COME FROM?
+  answer_label answer_value raw_counts relative_frequency
+0        WHEAT          1.0         47               0.01
+1   NOT CHOSEN          2.0       4631               0.99
+
+
+
+S144.Q54B.11IN EITHER CASE, WHAT PRODUCT OR CROP DID MOST OF THE MONEY COME FROM?
+  answer_label answer_value raw_counts relative_frequency
+0        OTHER          1.0         43               0.01
+1   NOT CHOSEN          2.0       4635               0.99
+
+
+
+S144.Q54B.12IN EITHER CASE, WHAT PRODUCT OR CROP DID MOST OF THE MONEY COME FROM?
+          answer_label answer_value raw_counts relative_frequency
+0  MORE THAN 2 CHECKED          1.0        169               0.04
+1           NOT CHOSEN          2.0       4509               0.96
+
+
+
+S144.Q54B.13IN EITHER CASE, WHAT PRODUCT OR CROP DID MOST OF THE MONEY COME FROM?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0       2853               0.61
+1   NOT CHOSEN          2.0       1825               0.39
+
+
+
+S144.Q55 DO YOU THINK YOU WILL DO FARMING WHEN YOU GET OUT OF THE ARMY?
+                                                  answer_label answer_value raw_counts relative_frequency
+0                                                    NO ANSWER          0.0        380               0.08
+1                  YES, I AM ALMOST SURE I WILL FARM FULL-TIME          1.0        284               0.06
+2  I EXPECT TO FARM, BUT TO HAVE A STEADY JOB AT THE SAME TIME          2.0        233               0.05
+3                      I MAY DO SOME FARMING, BUT I'M NOT SURE          3.0        624               0.13
+4                             NO, I'M ALMOST SURE I WON'T FARM          4.0       3157               0.67
+
+
+
+S144.Q56 IF YOU EXPECT TO WORK ON A FARM WHEN YOU GET OUT OF THE ARMY, DO YOU HAVE SOME PARTICULAR FARM IN MIND OR WILL YOU HAVE TO LOOK FOR A FARM?
+                                        answer_label answer_value raw_counts relative_frequency
+0                                       I OWN A FARM          1.0        115               0.02
+1  I ALREADY KNOW WHICH FARM I EXPECT TO RENT OR BUY          2.0        132               0.03
+2   I WILL NEED TO LOOK FOR A FARM TO RENT OR TO BUY          3.0        253               0.05
+3               I EXPECT TO WORK ON MY FAMILY'S FARM          4.0        232               0.05
+4  I EXPECT TO WORK FOR WAGES ON SOMEONE ELSE'S FARM          5.0         51               0.01
+5                    I DON'T HAVE ANY DEFINITE PLANS          6.0        378               0.08
+6                            INAPPLICABLE, NO ANSWER          9.0       3517               0.75
+
+
+
+S144.Q57 DO YOU THINK YOU WILL MAKE FARMING YOUR LIFE WORK, OR DO YOU EXPECT TO CHANGE TO SOME OTHER KIND OF WORK LATER ON?
+                                                                                            answer_label answer_value raw_counts relative_frequency
+0                                                                  I EXPECT TO MAKE FARMING MY LIFE WORK          1.0        237               0.05
+1          I EXPECT TO WORK ON A FARM FOR AWHILE ALTHOUGH I MIGHT LATER CHANGE TO SOME OTHER SORT OF JOB          2.0        348               0.07
+2  I EXPECT TO WORK ON A FARM ONLY IF I CANNOT GET ANOTHER SORT OF JOB I WANT WHEN I GET OUT OF THE ARMY          3.0        631               0.13
+3                                                                                INAPPLICABLE, NO ANSWER          9.0       3462               0.74
+
+
+
+S144.Q58 IF YOUR FATHER IS FARMING, DOES HE:
+                          answer_label answer_value raw_counts relative_frequency
+0                           OWN A FARM          1.0        326               0.07
+1                          RENT A FARM          2.0        133               0.03
+2  WORK A FARM FOR A SHARE OF THE CROP          3.0         67               0.01
+3       WORK AS A HIRED HAND ON A FARM          4.0         38               0.01
+4             MY FATHER IS NOT FARMING          5.0       1041               0.22
+5              INAPPLICABLE, NO ANSWER          9.0       3073               0.66
+
+
+
+S144.Q59 DO YOU EXPECT TO BUY OR TO INHERIT A FARM IN THE NEXT FIVE OR TEN YEARS?
+                                     answer_label answer_value raw_counts relative_frequency
+0                            I ALREADY OWN A FARM          1.0        128               0.03
+1                          I EXPECT TO BUY A FARM          2.0        420               0.09
+2  I EXPECT TO INHERIT A FARM (OR PART OF A FARM)          3.0        144               0.03
+3         I DON'T EXPECT TO BUY OR INHERIT A FARM          4.0        379               0.08
+4                                    I DON'T KNOW          5.0        505               0.11
+5                         INAPPLICABLE, NO ANSWER          9.0       3102               0.66
+
+
+
+S144.Q60 AFTER THE WAR, NEW FARM LANDS MAY BE OPENED FOR SETTLEMENT IN SEVERAL PARTS OF THE COUNTRY. SUPPOSE YOU COULD BUY GOOD LAND IN ONE OF THESE NEW AREAS. DO YOU THINK YOU WOULD WANT TO GO TO ONE OF THESE NEW LAND AREAS TO FARM?
+                                                                                      answer_label answer_value raw_counts relative_frequency
+0                                I AM QUITE SURE I WOULD WANT TO GO TO ONE OF THESE NEW LAND AREAS          1.0        226               0.05
+1  I WOULD WANT TO GO TO ONE OF THESE NEW LAND AREAS, ONLY IF I COULDN'T GET A GOOD FARM NEAR HOME          2.0        341               0.07
+2                            I AM QUITE SURE I WOULD NOT WANT TO GO TO ONE OF THESE NEW LAND AREAS          3.0        469                0.1
+3                                                            I AM NOT SURE WHAT I WOULD WANT TO DO          4.0        514               0.11
+4                                                                          INAPPLICABLE, NO ANSWER          9.0       3128               0.67
+
+
+
+S144.Q61 IF NEW FARM LANDS ARE OPENED FOR SETTLEMENT IN DIFFERENT PARTS OF THE COUNTRY, WHICH OF THE FOLLOWING LANDS WOULD YOU BE MOST INTERESTED IN BUYING?
+                                      answer_label answer_value raw_counts relative_frequency
+0                        DRAINED LAND IN THE SOUTH          1.0        279               0.06
+1                   IRRIGATED LAND IN THE FAR WEST          2.0         87               0.02
+2        LAND IN THE NORTH NOW USED FOR ARMY CAMPS          3.0        253               0.05
+3        LAND IN THE SOUTH NOW USED FOR ARMY CAMPS          4.0        108               0.02
+4         LAND IN THE WEST NOW USED FOR ARMY CAMPS          5.0         65               0.01
+5  I WOULD NOT BE INTERESTED IN ANY NEW FARM LANDS          6.0        724               0.15
+6                          INAPPLICABLE, NO ANSWER          9.0       3162               0.68
+
+
+
+S144.Q62A WHAT KIND OF FARMING WOULD YOU WANT TO DO?
+                                                               answer_label answer_value raw_counts relative_frequency
+0                                                           GENERAL FARMING          1.0        498               0.11
+1  FARMING WHERE MOST OF THE MONEY WOULD COME FROM SOME ONE PRODUCT OR CROP          2.0        423               0.09
+2                     CODE 1 CHECKED ABOVE AND TWO OR MORE CHECKED IN Q.62B          3.0        184               0.04
+3                                                   INAPPLICABLE, NO ANSWER          9.0       3573               0.76
+
+
+
+S144.Q62B.1 IN EITHER CASE, WHAT PRODUCT OR CROP WOULD YOU EXPECT TO GET MOST OF YOUR MONEY FROM?
+              answer_label answer_value raw_counts relative_frequency
+0  CATTLE OR SHEEP (RANGE)          1.0        218               0.05
+1               NOT CHOSEN          2.0       4460               0.95
+
+
+
+S144.Q62B.2IN EITHER CASE, WHAT PRODUCT OR CROP WOULD YOU EXPECT TO GET MOST OF YOUR MONEY FROM?
+  answer_label answer_value raw_counts relative_frequency
+0         CORN          1.0         48               0.01
+1   NOT CHOSEN          2.0       4630               0.99
+
+
+
+S144.Q62B.3IN EITHER CASE, WHAT PRODUCT OR CROP WOULD YOU EXPECT TO GET MOST OF YOUR MONEY FROM?
+  answer_label answer_value raw_counts relative_frequency
+0       COTTON          1.0        179               0.04
+1   NOT CHOSEN          2.0       4499               0.96
+
+
+
+S144.Q62B.4IN EITHER CASE, WHAT PRODUCT OR CROP WOULD YOU EXPECT TO GET MOST OF YOUR MONEY FROM?
+  answer_label answer_value raw_counts relative_frequency
+0     DAIRYING          1.0         63               0.01
+1   NOT CHOSEN          2.0       4615               0.99
+
+
+
+S144.Q62B.5IN EITHER CASE, WHAT PRODUCT OR CROP WOULD YOU EXPECT TO GET MOST OF YOUR MONEY FROM?
+  answer_label answer_value raw_counts relative_frequency
+0       FRUITS          1.0         44               0.01
+1   NOT CHOSEN          2.0       4634               0.99
+
+
+
+S144.Q62B.6IN EITHER CASE, WHAT PRODUCT OR CROP WOULD YOU EXPECT TO GET MOST OF YOUR MONEY FROM?
+        answer_label answer_value raw_counts relative_frequency
+0  LIVESTOCK FEEDING          1.0         79               0.02
+1         NOT CHOSEN          2.0       4599               0.98
+
+
+
+S144.Q62B.7IN EITHER CASE, WHAT PRODUCT OR CROP WOULD YOU EXPECT TO GET MOST OF YOUR MONEY FROM?
+  answer_label answer_value raw_counts relative_frequency
+0      POULTRY          1.0        225               0.05
+1   NOT CHOSEN          2.0       4453               0.95
+
+
+
+S144.Q62B.8IN EITHER CASE, WHAT PRODUCT OR CROP WOULD YOU EXPECT TO GET MOST OF YOUR MONEY FROM?
+  answer_label answer_value raw_counts relative_frequency
+0      TOBACCO          1.0        103               0.02
+1   NOT CHOSEN          2.0       4575               0.98
+
+
+
+S144.Q62B.9IN EITHER CASE, WHAT PRODUCT OR CROP WOULD YOU EXPECT TO GET MOST OF YOUR MONEY FROM?
+  answer_label answer_value raw_counts relative_frequency
+0  TRUCK CROPS          1.0        153               0.03
+1   NOT CHOSEN          2.0       4525               0.97
+
+
+
+S144.Q62B.10IN EITHER CASE, WHAT PRODUCT OR CROP WOULD YOU EXPECT TO GET MOST OF YOUR MONEY FROM?
+  answer_label answer_value raw_counts relative_frequency
+0        WHEAT          1.0         22                0.0
+1   NOT CHOSEN          2.0       4656                1.0
+
+
+
+S144.Q62B.11IN EITHER CASE, WHAT PRODUCT OR CROP WOULD YOU EXPECT TO GET MOST OF YOUR MONEY FROM?
+  answer_label answer_value raw_counts relative_frequency
+0        OTHER          1.0         29               0.01
+1   NOT CHOSEN          2.0       4649               0.99
+
+
+
+S144.Q62B.12IN EITHER CASE, WHAT PRODUCT OR CROP WOULD YOU EXPECT TO GET MOST OF YOUR MONEY FROM?
+          answer_label answer_value raw_counts relative_frequency
+0  MORE THAN 2 CHECKED          1.0         92               0.02
+1           NOT CHOSEN          2.0       4586               0.98
+
+
+
+S144.Q62B.13IN EITHER CASE, WHAT PRODUCT OR CROP WOULD YOU EXPECT TO GET MOST OF YOUR MONEY FROM?
+              answer_label answer_value raw_counts relative_frequency
+0  INAPPLICABLE, NO ANSWER          1.0       3525               0.75
+1               NOT CHOSEN          2.0       1153               0.25
+
+
+
+S144.Q63 IN WHAT STATE OF THE UNITED STATES WERE YOU BORN? E. SECTION:
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         98               0.02
+1                  NEW ENGLAND          1.0         68               0.01
+2              MIDDLE ATLANTIC          2.0        449                0.1
+3          EAST NORTH ATLANTIC          3.0        369               0.08
+4          WEST NORTH ATLANTIC          4.0        194               0.04
+5               SOUTH ATLANTIC          5.0       1642               0.35
+6          EAST SOUTH ATLANTIC          6.0        902               0.19
+7          WEST SOUTH ATLANTIC          7.0        855               0.18
+8                     MOUNTAIN          8.0         27               0.01
+9                      PACIFIC          9.0         50               0.01
+10  FOREIGN - U.S. POSSESSIONS         10.0          8                0.0
+11          FOREIGN - NOT U.S.         11.0          8                0.0
+12  U.S. - STATE NOT SPECIFIED         12.0          8                0.0
+
+
+
+S144.Q64 IN WHAT STATE OF THE UNITED STATES DID YOU SPEND MOST OF THE LAST FIVE YEARS OF YOUR CIVILIAN LIFE BEFORE YOU CAME INTO THE ARMY? E. SECTION:
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0        102               0.02
+1                  NEW ENGLAND          1.0         78               0.02
+2              MIDDLE ATLANTIC          2.0        814               0.17
+3          EAST NORTH ATLANTIC          3.0        738               0.16
+4          WEST NORTH ATLANTIC          4.0        233               0.05
+5               SOUTH ATLANTIC          5.0       1224               0.26
+6          EAST SOUTH ATLANTIC          6.0        613               0.13
+7          WEST SOUTH ATLANTIC          7.0        665               0.14
+8                     MOUNTAIN          8.0         28               0.01
+9                      PACIFIC          9.0        173               0.04
+10          FOREIGN - NOT U.S.         11.0          2                0.0
+11  U.S. - STATE NOT SPECIFIED         12.0          8                0.0
+
+
+
+S144.Q65A WERE YOU LIVING IN THE STATE YOU NAMED ABOVE JUST BEFORE YOU CAME INTO THE ARMY?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         87               0.02
+1          YES          1.0       4153               0.89
+2           NO          2.0        438               0.09
+
+
+
+S144.Q65B IF NOT, WHAT STATE WERE YOU LIVING IN JUST BEFORE YOU CAME INTO THE ARMY? E. SECTION:
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0        121               0.03
+1                  NEW ENGLAND          1.0         87               0.02
+2              MIDDLE ATLANTIC          2.0        823               0.18
+3          EAST NORTH ATLANTIC          3.0        749               0.16
+4          WEST NORTH ATLANTIC          4.0        231               0.05
+5               SOUTH ATLANTIC          5.0       1214               0.26
+6          EAST SOUTH ATLANTIC          6.0        588               0.13
+7          WEST SOUTH ATLANTIC          7.0        640               0.14
+8                     MOUNTAIN          8.0         31               0.01
+9                      PACIFIC          9.0        185               0.04
+10  U.S. - STATE NOT SPECIFIED         12.0          9                0.0
+
+
+
+S144.Q66 WHAT STATE IN THE UNITED STATES DO YOU THINK YOU WILL LIVE IN RIGHT AFTER YOU GET OUT OF THE ARMY? E. SECTION:
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0        858               0.18
+1                  NEW ENGLAND          1.0         98               0.02
+2              MIDDLE ATLANTIC          2.0        884               0.19
+3          EAST NORTH ATLANTIC          3.0        818               0.17
+4          WEST NORTH ATLANTIC          4.0        168               0.04
+5               SOUTH ATLANTIC          5.0        834               0.18
+6          EAST SOUTH ATLANTIC          6.0        309               0.07
+7          WEST SOUTH ATLANTIC          7.0        355               0.08
+8                     MOUNTAIN          8.0         38               0.01
+9                      PACIFIC          9.0        280               0.06
+10  U.S. - STATE NOT SPECIFIED         12.0         36               0.01
+
+
+
+S144.V66A COMBINATION OF QUESTIONS 64-66.
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0        120               0.03
+1  SAME STATE AS IN Q.64          1.0       2915               0.62
+2  SAME STATE AS IN Q.65          2.0        150               0.03
+3       SOME OTHER STATE          3.0        686               0.15
+4              UNDECIDED          4.0        807               0.17
+
+
+
+S144.Q67 HOW SURE DO YOU FEEL THAT YOU WILL ACTUALLY LIVE IN THE STATE YOU NAMED ABOVE?
+                                                   answer_label answer_value raw_counts relative_frequency
+0                                            NO CODE OR NO DATA          0.0          2                0.0
+1                         I AM ALMOST CERTAIN I WILL LIVE THERE          1.0       2768               0.59
+2  I WILL PROBABLY LIVE THERE, BUT I MAY GO TO SOME OTHER STATE          2.0        984               0.21
+3                 I AM REALLY NOT AT ALL SURE WHERE I WILL LIVE          3.0        701               0.15
+4                                                     NO ANSWER          4.0        223               0.05
+
+
+
+S144.Q68A AFTER THE WAR, DO YOU PLAN TO GO BACK AND LIVE IN THE SAME PLACE - THE SAME LOCAL AREA, SAY WITHIN 5 OR 10 MILES OF WHERE YOU LIVED JUST BEFORE YOU ENTERED THE ARMY?
+                                        answer_label answer_value raw_counts relative_frequency
+0                                          NO ANSWER          0.0         70               0.01
+1  YES, I PLAN TO LIVE THERE FOR A LONG TIME TO COME          1.0       2112               0.45
+2                     YES, BUT ONLY FOR A SHORT TIME          2.0        919                0.2
+3                                                 NO          3.0        705               0.15
+4                                          UNDECIDED          4.0        872               0.19
+
+
+
+S144.Q69 WHAT KIND OF A PLACE DO YOU PLAN TO LIVE IN RIGHT AFTER THE WAR?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0         70               0.01
+1                                   ON A FARM          1.0        361               0.08
+2            IN THE COUNTRY BUT NOT ON A FARM          2.0        145               0.03
+3      IN A VILLAGE OF LESS THAN 2,500 PEOPLE          3.0        147               0.03
+4    IN A SMALL CITY (2,500 TO 25,000 PEOPLE)          4.0        579               0.12
+5       IN A CITY OF 25,000 TO 100,000 PEOPLE          5.0        975               0.21
+6  IN A LARGE CITY (MORE THAN 100,000 PEOPLE)          6.0       1956               0.42
+7                                   UNDECIDED          7.0        445                0.1
+
+
+
+S144.Q70 DO YOU PLAN TO BUY OR BUILD YOUR OWN HOME WITHIN FIVE YEARS AFTER THE WAR IS OVER?
+                                                                            answer_label answer_value raw_counts relative_frequency
+0                                                                              NO ANSWER          0.0         85               0.02
+1  YES, I AM ALMOST SURE I WILL BUY OR BUILD MY OWN HOME WITHIN FIVE YEARS AFTER THE WAR          1.0       2812                0.6
+2                                                                I MAY, BUT I'M NOT SURE          2.0        934                0.2
+3           NO, I DON'T PLAN TO BUY OR BUILD MY OWN HOME WITHIN FIVE YEARS AFTER THE WAR          3.0        407               0.09
+4                                                              I ALREADY OWN MY OWN HOME          4.0        440               0.09
+
+
+
+S144.Q71 WHICH DO YOU PLAN TO DO, BUY OR BUILD YOUR OWN HOME?
+                                   answer_label answer_value raw_counts relative_frequency
+0                     I PLAN TO BUY MY OWN HOME          1.0       1378               0.29
+1                   I PLAN TO BUILD MY OWN HOME          2.0       1211               0.26
+2  I AM NOT SURE WHETHER I WILL BUY OR BUILD IT          3.0        751               0.16
+3                       INAPPLICABLE, NO ANSWER          9.0       1338               0.29
+
+
+
+S144.Q72 HOW MUCH MONEY DO YOU PLAN TO SPEND AT THE START?
+                           answer_label answer_value raw_counts relative_frequency
+0                          $250 OR LESS          1.0         76               0.02
+1    OVER $250 UP TO AND INCLUDING $500          2.0        322               0.07
+2    OVER $500 UP TO AND INCLUDING $750          3.0        101               0.02
+3   OVER $750 UP TO AND INCLUDING $1000          4.0        567               0.12
+4  OVER $1000 UP TO AND INCLUDING $2000          5.0        730               0.16
+5                            OVER $2000          6.0       1076               0.23
+6               INAPPLICABLE, NO ANSWER          9.0       1806               0.39
+
+
+
+S144.Q73.1 WHERE DO YOU EXPECT TO GET THE MONEY TO GET STARTED WITH?
+                                      answer_label answer_value raw_counts relative_frequency
+0  I WILL HAVE ALL THE MONEY I NEED TO GET STARTED          1.0        285               0.06
+1                                       NOT CHOSEN          2.0       4393               0.94
+
+
+
+S144.Q73.2WHERE DO YOU EXPECT TO GET THE MONEY TO GET STARTED WITH?
+                                                         answer_label answer_value raw_counts relative_frequency
+0  I WILL HAVE AT LEAST HALF OF THE MONEY AND PLAN TO BORROW THE REST          1.0       1126               0.24
+1                                                          NOT CHOSEN          2.0       3552               0.76
+
+
+
+S144.Q73.3WHERE DO YOU EXPECT TO GET THE MONEY TO GET STARTED WITH?
+                                       answer_label answer_value raw_counts relative_frequency
+0  I PLAN TO BORROW MONEY FROM MY FAMILY OR FRIENDS          1.0        158               0.03
+1                                        NOT CHOSEN          2.0       4520               0.97
+
+
+
+S144.Q73.4WHERE DO YOU EXPECT TO GET THE MONEY TO GET STARTED WITH?
+                                   answer_label answer_value raw_counts relative_frequency
+0  I PLAN TO BORROW FROM A BANK OR LOAN COMPANY          1.0        778               0.17
+1                                    NOT CHOSEN          2.0       3900               0.83
+
+
+
+S144.Q73.5WHERE DO YOU EXPECT TO GET THE MONEY TO GET STARTED WITH?
+  answer_label answer_value raw_counts relative_frequency
+0        OTHER          1.0         35               0.01
+1   NOT CHOSEN          2.0       4643               0.99
+
+
+
+S144.Q73.6WHERE DO YOU EXPECT TO GET THE MONEY TO GET STARTED WITH?
+                              answer_label answer_value raw_counts relative_frequency
+0  I DON'T KNOW WHERE I WILL GET THE MONEY          1.0        723               0.15
+1                               NOT CHOSEN          2.0       3955               0.85
+
+
+
+S144.Q73.7WHERE DO YOU EXPECT TO GET THE MONEY TO GET STARTED WITH?
+                           answer_label answer_value raw_counts relative_frequency
+0  COMBINATION OF CODES (COLUMNS 40-42)          1.0          4                0.0
+1                            NOT CHOSEN          2.0       4674                1.0
+
+
+
+S144.Q73.8WHERE DO YOU EXPECT TO GET THE MONEY TO GET STARTED WITH?
+                                 answer_label answer_value raw_counts relative_frequency
+0  PLAN TO BORROW FROM GOVERNMENT (G.I. BILL)          1.0        214               0.05
+1                                  NOT CHOSEN          2.0       4464               0.95
+
+
+
+S144.Q73.9WHERE DO YOU EXPECT TO GET THE MONEY TO GET STARTED WITH?
+                        answer_label answer_value raw_counts relative_frequency
+0  WORK FOR A WHILE TO EARN THE REST          1.0        167               0.04
+1                         NOT CHOSEN          2.0       4511               0.96
+
+
+
+S144.Q73.10WHERE DO YOU EXPECT TO GET THE MONEY TO GET STARTED WITH?
+                                           answer_label answer_value raw_counts relative_frequency
+0  ANY TWO CHECKS PLUS GOVERNMENT (EXCEPTING COLUMN 39)          1.0          2                0.0
+1                                            NOT CHOSEN          2.0       4676                1.0
+
+
+
+S144.Q73.11WHERE DO YOU EXPECT TO GET THE MONEY TO GET STARTED WITH?
+              answer_label answer_value raw_counts relative_frequency
+0  INAPPLICABLE, NO ANSWER          1.0       1381                0.3
+1               NOT CHOSEN          2.0       3297                0.7
+
+
+
+S144.Q74 UP TO NOW, HOW MUCH HAD YOU THOUGHT ABOUT EXACTLY WHAT YOU WILL WANT TO DO AFTER THE WAR?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0        158               0.03
+1  I HAD THOUGHT A GOOD DEAL ABOUT IT          1.0       3644               0.78
+2         I HAD THOUGHT SOME ABOUT IT          2.0        629               0.13
+3       I HAD HARDLY THOUGHT ABOUT IT          3.0        247               0.05
+
+
+
+S144.Q75A HOW MUCH HAS SERVING IN THE ARMY CHANGED YOUR PLANS FOR WHAT YOU WANT TO DO AFTER THE WAR FROM THE PLANS YOU HAD BEFORE YOU ENTERED THE ARMY?
+                                                        answer_label answer_value raw_counts relative_frequency
+0                                                          NO ANSWER          0.0        111               0.02
+1  IT HAS DELAYED CARRYING OUT MY PLANS BUT HASN'T CHANGED THEM MUCH          1.0       2500               0.53
+2      IT HAS DELAYED CARRYING OUT SOME PLANS AND HAS CHANGED OTHERS          2.0        789               0.17
+3                                    IT HAS CHANGED MOST OF MY PLANS          3.0        712               0.15
+4                       I REALLY DIDN'T HAVE ANY VERY DEFINITE PLANS          4.0        566               0.12
+
+
+
+S144.Q77 DO YOU FEEL PROUD OF THE COMPANY (BATTERY, SQUADRON) YOU ARE IN NOW?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0         80               0.02
+1    YES, VERY PROUD          1.0       1947               0.42
+2  YES, FAIRLY PROUD          2.0       1288               0.28
+3      NO, NOT PROUD          3.0        995               0.21
+4         UNASSIGNED          4.0          2                0.0
+5          UNDECIDED          5.0        366               0.08
+
+
+
+S144.Q78 DO YOU FEEL YOU REALLY BELONG IN YOUR COMPANY AND ARE AN IMPORTANT PART OF IT?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0        107               0.02
+1    VERY MUCH SO          1.0       2047               0.44
+2  FAIRLY MUCH SO          2.0       1140               0.24
+3   NOT VERY MUCH          3.0        807               0.17
+4      NOT AT ALL          4.0        575               0.12
+5      UNASSIGNED          5.0          2                0.0
+
+
+
+S144.Q79 IN GENERAL, DO YOU FEEL YOU HAVE GOTTEN A SQUARE DEAL FROM THE ARMY?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                         NO ANSWER          0.0         83               0.02
+1                          YES, IN MOST WAYS I HAVE          1.0       1379               0.29
+2              IN SOME WAYS, YES, IN OTHER WAYS, NO          2.0       2148               0.46
+3  NO, ON THE WHOLE I HAVE NOT GOTTEN A SQUARE DEAL          3.0       1068               0.23
+
+
+
+S144.Q80.1 HAVE YOU SERVED IN ANY OTHER BRANCH OF THE ARMY IN THIS WAR? IF YES, WHAT BRANCH OR BRANCHES?
+  answer_label answer_value raw_counts relative_frequency
+0    ENGINEERS          1.0        100               0.02
+1   NOT CHOSEN          2.0       4578               0.98
+
+
+
+S144.Q80.2HAVE YOU SERVED IN ANY OTHER BRANCH OF THE ARMY IN THIS WAR? IF YES, WHAT BRANCH OR BRANCHES?
+      answer_label answer_value raw_counts relative_frequency
+0  FIELD ARTILLERY          1.0        176               0.04
+1       NOT CHOSEN          2.0       4502               0.96
+
+
+
+S144.Q80.3HAVE YOU SERVED IN ANY OTHER BRANCH OF THE ARMY IN THIS WAR? IF YES, WHAT BRANCH OR BRANCHES?
+          answer_label answer_value raw_counts relative_frequency
+0  QUARTERMASTER CORPS          1.0        218               0.05
+1           NOT CHOSEN          2.0       4460               0.95
+
+
+
+S144.Q80.4HAVE YOU SERVED IN ANY OTHER BRANCH OF THE ARMY IN THIS WAR? IF YES, WHAT BRANCH OR BRANCHES?
+  answer_label answer_value raw_counts relative_frequency
+0     INFANTRY          1.0        238               0.05
+1   NOT CHOSEN          2.0       4440               0.95
+
+
+
+S144.Q80.5HAVE YOU SERVED IN ANY OTHER BRANCH OF THE ARMY IN THIS WAR? IF YES, WHAT BRANCH OR BRANCHES?
+         answer_label answer_value raw_counts relative_frequency
+0  MEDICAL DEPARTMENT          1.0        133               0.03
+1          NOT CHOSEN          2.0       4545               0.97
+
+
+
+S144.Q80.6HAVE YOU SERVED IN ANY OTHER BRANCH OF THE ARMY IN THIS WAR? IF YES, WHAT BRANCH OR BRANCHES?
+    answer_label answer_value raw_counts relative_frequency
+0  ARMORED FORCE          1.0         28               0.01
+1     NOT CHOSEN          2.0       4650               0.99
+
+
+
+S144.Q80.7HAVE YOU SERVED IN ANY OTHER BRANCH OF THE ARMY IN THIS WAR? IF YES, WHAT BRANCH OR BRANCHES?
+   answer_label answer_value raw_counts relative_frequency
+0  SIGNAL CORPS          1.0         73               0.02
+1    NOT CHOSEN          2.0       4605               0.98
+
+
+
+S144.Q80.8HAVE YOU SERVED IN ANY OTHER BRANCH OF THE ARMY IN THIS WAR? IF YES, WHAT BRANCH OR BRANCHES?
+      answer_label answer_value raw_counts relative_frequency
+0  COAST ARTILLERY          1.0         45               0.01
+1       NOT CHOSEN          2.0       4633               0.99
+
+
+
+S144.Q80.9HAVE YOU SERVED IN ANY OTHER BRANCH OF THE ARMY IN THIS WAR? IF YES, WHAT BRANCH OR BRANCHES?
+    answer_label answer_value raw_counts relative_frequency
+0  ANTI-AIRCRAFT          1.0         79               0.02
+1     NOT CHOSEN          2.0       4599               0.98
+
+
+
+S144.Q80.10HAVE YOU SERVED IN ANY OTHER BRANCH OF THE ARMY IN THIS WAR? IF YES, WHAT BRANCH OR BRANCHES?
+  answer_label answer_value raw_counts relative_frequency
+0    AIR CORPS          1.0        324               0.07
+1   NOT CHOSEN          2.0       4354               0.93
+
+
+
+S144.Q80.11HAVE YOU SERVED IN ANY OTHER BRANCH OF THE ARMY IN THIS WAR? IF YES, WHAT BRANCH OR BRANCHES?
+           answer_label answer_value raw_counts relative_frequency
+0  TRANSPORTATION CORPS          1.0         39               0.01
+1            NOT CHOSEN          2.0       4639               0.99
+
+
+
+S144.Q80.12HAVE YOU SERVED IN ANY OTHER BRANCH OF THE ARMY IN THIS WAR? IF YES, WHAT BRANCH OR BRANCHES?
+          answer_label answer_value raw_counts relative_frequency
+0  ORDNANCE DEPARTMENT          1.0         34               0.01
+1           NOT CHOSEN          2.0       4644               0.99
+
+
+
+S144.Q80.13HAVE YOU SERVED IN ANY OTHER BRANCH OF THE ARMY IN THIS WAR? IF YES, WHAT BRANCH OR BRANCHES?
+               answer_label answer_value raw_counts relative_frequency
+0  CHEMICAL WARFARE SERVICE          1.0        193               0.04
+1                NOT CHOSEN          2.0       4485               0.96
+
+
+
+S144.Q80.14HAVE YOU SERVED IN ANY OTHER BRANCH OF THE ARMY IN THIS WAR? IF YES, WHAT BRANCH OR BRANCHES?
+      answer_label answer_value raw_counts relative_frequency
+0  MILITARY POLICE          1.0         46               0.01
+1       NOT CHOSEN          2.0       4632               0.99
+
+
+
+S144.Q80.15HAVE YOU SERVED IN ANY OTHER BRANCH OF THE ARMY IN THIS WAR? IF YES, WHAT BRANCH OR BRANCHES?
+     answer_label answer_value raw_counts relative_frequency
+0  TANK DESTROYER          1.0         21                0.0
+1      NOT CHOSEN          2.0       4657                1.0
+
+
+
+S144.Q80.16HAVE YOU SERVED IN ANY OTHER BRANCH OF THE ARMY IN THIS WAR? IF YES, WHAT BRANCH OR BRANCHES?
+  answer_label answer_value raw_counts relative_frequency
+0        OTHER          1.0         47               0.01
+1   NOT CHOSEN          2.0       4631               0.99
+
+
+
+S144.Q80.17HAVE YOU SERVED IN ANY OTHER BRANCH OF THE ARMY IN THIS WAR? IF YES, WHAT BRANCH OR BRANCHES?
+  answer_label answer_value raw_counts relative_frequency
+0         ASTP          1.0          5                0.0
+1   NOT CHOSEN          2.0       4673                1.0
+
+
+
+S144.Q80.18HAVE YOU SERVED IN ANY OTHER BRANCH OF THE ARMY IN THIS WAR? IF YES, WHAT BRANCH OR BRANCHES?
+                     answer_label answer_value raw_counts relative_frequency
+0  THREE OR MORE BRANCHES CHECKED          1.0        107               0.02
+1                      NOT CHOSEN          2.0       4571               0.98
+
+
+
+S144.Q80.19HAVE YOU SERVED IN ANY OTHER BRANCH OF THE ARMY IN THIS WAR? IF YES, WHAT BRANCH OR BRANCHES?
+           answer_label answer_value raw_counts relative_frequency
+0  YES, NO BRANCH NAMED          1.0         46               0.01
+1            NOT CHOSEN          2.0       4632               0.99
+
+
+
+S144.Q80.20HAVE YOU SERVED IN ANY OTHER BRANCH OF THE ARMY IN THIS WAR? IF YES, WHAT BRANCH OR BRANCHES?
+  answer_label answer_value raw_counts relative_frequency
+0           NO          1.0       2963               0.63
+1   NOT CHOSEN          2.0       1715               0.37
+
+
+
+S144.Q80.21HAVE YOU SERVED IN ANY OTHER BRANCH OF THE ARMY IN THIS WAR? IF YES, WHAT BRANCH OR BRANCHES?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0         89               0.02
+1   NOT CHOSEN          2.0       4589               0.98
+
+
+
+S144.Q81 WHEN YOU WERE TRANSFERRED TO YOUR PRESENT BRANCH, WERE YOU TOLD WHY THE TRANSFER WAS NECESSARY?
+                                                                        answer_label answer_value raw_counts relative_frequency
+0                                                                          NO ANSWER          0.0        146               0.03
+1        YES, I WAS TOLD, AND I THINK THE REASONS FOR TRANSFERRING ME WERE GOOD ONES          1.0        356               0.08
+2  YES, I WAS TOLD, BUT I DON'T THINK THE REASONS FOR TRANSFERRING ME WERE GOOD ONES          2.0        144               0.03
+3                                  NO, I WAS NOT TOLD WHY THE TRANSFER WAS NECESSARY          3.0        878               0.19
+4                                                    I TRANSFERRED AT MY OWN REQUEST          4.0        205               0.04
+5                                                      I HAVE NEVER BEEN TRANSFERRED          5.0       2949               0.63
+
+
+
+S144.Q82 HAVE YOU EVER SERVED IN THE ARMY OUTSIDE THE UNITED STATES IN THIS WAR?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        132               0.03
+1          YES          1.0        237               0.05
+2           NO          2.0       4309               0.92
+
+
+
+S144.Q83A HAVE YOU EVER SERVED AT ANY OTHER ARMY POSTS OR CAMPS IN THE UNITED STATES?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        117               0.03
+1          YES          1.0       3283                0.7
+2           NO          2.0       1278               0.27
+
+
+
+S144.Q83B.1 IF SO, WHERE? E. SECTION
+  answer_label answer_value raw_counts relative_frequency
+0  NEW ENGLAND          1.0         61               0.01
+1   NOT CHOSEN          2.0       4617               0.99
+
+
+
+S144.Q83B.2IF SO, WHERE? E. SECTION
+      answer_label answer_value raw_counts relative_frequency
+0  MIDDLE ATLANTIC          1.0        226               0.05
+1       NOT CHOSEN          2.0       4452               0.95
+
+
+
+S144.Q83B.3IF SO, WHERE? E. SECTION
+          answer_label answer_value raw_counts relative_frequency
+0  EAST NORTH ATLANTIC          1.0        300               0.06
+1           NOT CHOSEN          2.0       4378               0.94
+
+
+
+S144.Q83B.4IF SO, WHERE? E. SECTION
+          answer_label answer_value raw_counts relative_frequency
+0  WEST NORTH ATLANTIC          1.0        202               0.04
+1           NOT CHOSEN          2.0       4476               0.96
+
+
+
+S144.Q83B.5IF SO, WHERE? E. SECTION
+     answer_label answer_value raw_counts relative_frequency
+0  SOUTH ATLANTIC          1.0        915                0.2
+1      NOT CHOSEN          2.0       3763                0.8
+
+
+
+S144.Q83B.6IF SO, WHERE? E. SECTION
+          answer_label answer_value raw_counts relative_frequency
+0  EAST SOUTH ATLANTIC          1.0        682               0.15
+1           NOT CHOSEN          2.0       3996               0.85
+
+
+
+S144.Q83B.7IF SO, WHERE? E. SECTION
+          answer_label answer_value raw_counts relative_frequency
+0  WEST SOUTH ATLANTIC          1.0        670               0.14
+1           NOT CHOSEN          2.0       4008               0.86
+
+
+
+S144.Q83B.8IF SO, WHERE? E. SECTION
+    answer_label answer_value raw_counts relative_frequency
+0  MOUNTAIN 4511          1.0        167               0.04
+1     NOT CHOSEN          2.0       4511               0.96
+
+
+
+S144.Q83B.9IF SO, WHERE? E. SECTION
+  answer_label answer_value raw_counts relative_frequency
+0      PACIFIC          1.0        222               0.05
+1   NOT CHOSEN          2.0       4456               0.95
+
+
+
+S144.Q83B.10IF SO, WHERE? E. SECTION
+                 answer_label answer_value raw_counts relative_frequency
+0  FOREIGN - U.S. POSSESSIONS          1.0          1                0.0
+1                  NOT CHOSEN          2.0       4677                1.0
+
+
+
+S144.Q83B.11IF SO, WHERE? E. SECTION
+         answer_label answer_value raw_counts relative_frequency
+0  FOREIGN - NOT U.S.          1.0          3                0.0
+1          NOT CHOSEN          2.0       4675                1.0
+
+
+
+S144.Q83B.12IF SO, WHERE? E. SECTION
+                 answer_label answer_value raw_counts relative_frequency
+0  U.S. - STATE NOT SPECIFIED          1.0        818               0.17
+1                  NOT CHOSEN          2.0       3860               0.83
+
+
+
+S144.Q83B.13IF SO, WHERE? E. SECTION
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0       1420                0.3
+1   NOT CHOSEN          2.0       3258                0.7
+
+
+
+S144.Q84 DO YOU THINK THINGS WILL BE BETTER OR WORSE FOR YOU PERSONALLY AFTER THE WAR THAN BEFORE THE WAR?
+                                      answer_label answer_value raw_counts relative_frequency
+0                                        NO ANSWER          0.0        119               0.03
+1  BETTER FOR ME AFTER THE WAR THAN BEFORE THE WAR          1.0       1852                0.4
+2      SAME FOR ME AFTER THE WAR AS BEFORE THE WAR          2.0        677               0.14
+3   WORSE FOR ME AFTER THE WAR THAN BEFORE THE WAR          3.0        473                0.1
+4                                        UNDECIDED          4.0       1557               0.33
+
+
+
+S144.V87 JOB SATISFACTION SCORE E. DERIVED FROM QUESTIONS 15, 16, 17, 20.
+          answer_label answer_value raw_counts relative_frequency
+0  ORIGINAL SCORE OF 1          1.0        739               0.16
+1  ORIGINAL SCORE OF 2          2.0       1015               0.22
+2  ORIGINAL SCORE OF 3          3.0       1091               0.23
+3  ORIGINAL SCORE OF 4          4.0       1097               0.23
+4  ORIGINAL SCORE OF 5          5.0        736               0.16
+
+
+
+S144.V90 CROSS-SECTION SUB-SAMPLE IDENTIFICATION:
+               answer_label answer_value raw_counts relative_frequency
+0  CROSS-SECTION SUB-SAMPLE          1.0       3001               0.64
+1           ALL OTHER CASES          2.0       1677               0.36
+
+
+

@@ -1,0 +1,1187 @@
+FORMFORM:
+  answer_label answer_value raw_counts relative_frequency
+0       S-132A          1.0        999                1.0
+
+
+
+S132A.Q1 WHAT WAS YOUR RANK OR GRADE JUST BEFORE YOU LEFT YOUR OLD OUTFIT TO COME BACK TO THE U.S.?
+                       answer_label answer_value raw_counts relative_frequency
+0                         NO ANSWER          0.0          3                0.0
+1                           PRIVATE          1.0        219               0.22
+2               PRIVATE FIRST CLASS          2.0        226               0.23
+3              TECHNICIAN 5TH GRADE          3.0        117               0.12
+4                          CORPORAL          4.0         72               0.07
+5              TECHNICIAN 4TH GRADE          5.0         66               0.07
+6                     BUCK SERGEANT          6.0        109               0.11
+7              TECHNICIAN 3RD GRADE          7.0         11               0.01
+8                    STAFF SERGEANT          8.0         97                0.1
+9                TECHNICAL SERGEANT          9.0         42               0.04
+10  MASTER SERGEANT OR 1ST SERGEANT         10.0         37               0.04
+
+
+
+S132A.Q2A HOW LONG HAD YOU BEEN IN THAT RANK OR GRADE BEFORE YOU LEFT YOUR OLD OUTFIT TO COME BACK TO THE U.S.?
+                       answer_label answer_value raw_counts relative_frequency
+0                         NO ANSWER          0.0         63               0.06
+1  LESS THAN 1 MONTH UP TO 2 MONTHS          1.0         38               0.04
+2      OVER 2 MONTHS UP TO 3 MONTHS          2.0         29               0.03
+3      OVER 3 MONTHS UP TO 6 MONTHS          3.0        121               0.12
+4      OVER 6 MONTHS UP TO 9 MONTHS          4.0         76               0.08
+5        OVER 9 MONTHS UP TO 1 YEAR          5.0         97                0.1
+6                       OVER 1 YEAR          6.0        372               0.37
+7                   I WAS A PRIVATE          7.0        203                0.2
+
+
+
+S132A.Q2B WHAT GRADE DID YOU HOLD JUST BEFORE THAT GRADE?
+                       answer_label answer_value raw_counts relative_frequency
+0                         NO ANSWER          0.0        182               0.18
+1                 PRIVATE 1ST CLASS          1.0        138               0.14
+2              TECHNICIAN 5TH GRADE          2.0         72               0.07
+3                          CORPORAL          3.0         94               0.09
+4              TECHNICIAN 4TH GRADE          4.0         34               0.03
+5                     BUCK SERGEANT          5.0         86               0.09
+6              TECHNICIAN 3RD GRADE          6.0          5               0.01
+7                    STAFF SERGEANT          7.0         43               0.04
+8                     TECH SERGEANT          8.0         18               0.02
+9   MASTER SERGEANT OR 1ST SERGEANT          9.0          4                0.0
+10                  I WAS A PRIVATE         10.0        323               0.32
+
+
+
+S132A.Q3 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+              answer_label answer_value raw_counts relative_frequency
+0                NO ANSWER          0.0          5               0.01
+1      18 YEARS OR YOUNGER          1.0          1                0.0
+2                 19 YEARS          2.0         13               0.01
+3                 20 YEARS          3.0         27               0.03
+4                 21 YEARS          4.0         42               0.04
+5                 22 YEARS          5.0         59               0.06
+6                 23 YEARS          6.0         78               0.08
+7                 24 YEARS          7.0        110               0.11
+8                 25 YEARS          8.0        112               0.11
+9   26 YEARS THRU 29 YEARS          9.0        289               0.29
+10  30 YEARS THRU 34 YEARS         10.0        143               0.14
+11      35 YEARS AND OLDER         11.0        120               0.12
+
+
+
+S132A.Q4 HOW FAR DID YOU GO IN SCHOOL?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0          8               0.01
+1                  LESS THAN 6TH GRADE          1.0         39               0.04
+2                   FINISHED 6TH GRADE          2.0         45               0.05
+3                   FINISHED 7TH GRADE          3.0         85               0.09
+4                   FINISHED 8TH GRADE          4.0        160               0.16
+5  SOME HIGH SCHOOL BUT DID NOT FINISH          5.0        329               0.33
+6           GRADUATED FROM HIGH SCHOOL          6.0        232               0.23
+7      SOME COLLEGE BUT DID NOT FINISH          7.0         77               0.08
+8               GRADUATED FROM COLLEGE          8.0         24               0.02
+
+
+
+S132A.Q5 ARE YOU:
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0          8               0.01
+1                 SINGLE          1.0        732               0.73
+2                MARRIED          2.0        231               0.23
+3  DIVORCED OR SEPARATED          3.0         27               0.03
+4                WIDOWED          4.0          1                0.0
+
+
+
+S132A.Q6 HOW DID YOU COME INTO THE ARMY?
+                                   answer_label answer_value raw_counts relative_frequency
+0                                     NO ANSWER          0.0          7               0.01
+1                                 I WAS DRAFTED          1.0        527               0.53
+2              I VOLUNTEERED AFTER PEARL HARBOR          2.0         50               0.05
+3             I VOLUNTEERED BEFORE PEARL HARBOR          3.0        317               0.32
+4                   I WAS IN THE NATIONAL GUARD          4.0         90               0.09
+5  I WAS IN THE E.R.C. (ENLISTED RESERVE CORPS)          5.0          8               0.01
+
+
+
+S132A.Q7 HOW LONG HAVE YOU BEEN IN THE ARMY? P. IF YOU HAVE BEEN IN THE ARMY BEFORE, THEN WERE OUT FOR A WHILE, JUST CHECK THE LENGTH OF TIME SINCE YOU ENTERED THIS LAST TIME. IF YOU WERE IN THE NATIONAL GUARD, CHECK THE LENGTH OF TIME SINCE YOUR OUTFIT CAME INTO
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0          3                0.0
+1            6 MONTHS OR LESS          1.0          1                0.0
+2  OVER 6 MONTHS UP TO 1 YEAR          2.0          5               0.01
+3   OVER 1 YEAR UP TO 2 YEARS          3.0        164               0.16
+4  OVER 2 YEARS UP TO 3 YEARS          4.0        292               0.29
+5  OVER 3 YEARS UP TO 5 YEARS          5.0        446               0.45
+6                OVER 5 YEARS          6.0         88               0.09
+
+
+
+S132A.Q8 WHAT BRANCH OF THE ARMY WERE YOU IN OVERSEAS BEFORE YOU CAME BACK TO THE U.S.?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0          7               0.01
+1                  ENGINEERS          1.0         69               0.07
+2            FIELD ARTILLERY          2.0         53               0.05
+3        QUARTERMASTER CORPS          3.0         56               0.06
+4                   INFANTRY          4.0        326               0.33
+5         MEDICAL DEPARTMENT          5.0         72               0.07
+6              ARMORED FORCE          6.0         49               0.05
+7               SIGNAL CORPS          7.0         62               0.06
+8            COAST ARTILLERY          8.0         61               0.06
+9              ANTI-AIRCRAFT          9.0        105               0.11
+10                 AIR CORPS         10.0          1                0.0
+11      TRANSPORTATION CORPS         11.0         14               0.01
+12       ORDNANCE DEPARTMENT         12.0         40               0.04
+13  CHEMICAL WARFARE SERVICE         13.0         17               0.02
+14           MILITARY POLICE         14.0         20               0.02
+15            TANK DESTROYER         15.0         19               0.02
+16                     OTHER         16.0         28               0.03
+
+
+
+S132A.Q9 HOW LONG WERE YOU OVERSEAS?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0          7               0.01
+1    OVER 6 MONTHS UP TO 1 YEAR          2.0         77               0.08
+2   OVER 1 YEAR UP TO 18 MONTHS          3.0        201                0.2
+3  OVER 18 MONTHS UP TO 2 YEARS          4.0        180               0.18
+4    OVER 2 YEARS UP TO 3 YEARS          5.0        397                0.4
+5                  OVER 3 YEARS          6.0        137               0.14
+
+
+
+S132A.Q10 HAVE YOU BEEN IN ACTUAL COMBAT IN THIS WAR?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         11               0.01
+1          YES          1.0        682               0.68
+2           NO          2.0        306               0.31
+
+
+
+S132A.Q11 HAVE YOU BEEN WOUNDED IN ACTION IN THIS WAR?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         22               0.02
+1          YES          1.0        156               0.16
+2           NO          2.0        821               0.82
+
+
+
+S132A.Q12 WHAT OVERSEAS AREA OR THEATER WERE YOU SHIPPED FROM JUST BEFORE YOU CAME BACK TO THE U.S.?
+                                                          answer_label answer_value raw_counts relative_frequency
+0                                                            NO ANSWER          0.0         32               0.03
+1  NATOUSA (ITALY, NORTH AFRICA, E.A.M.E., MEDITERRANEAN BASE SECTION)          1.0        422               0.42
+2                                                  ETO (BRITISH ISLES)          2.0         67               0.07
+3                                                            CARIBBEAN          3.0        159               0.16
+4                                                        SOUTH PACIFIC          4.0          3                0.0
+5                                                   SOME OTHER THEATER          8.0         16               0.02
+6                                                    SOUTHWEST PACIFIC          9.0        300                0.3
+
+
+
+S132A.Q13 WHAT WERE YOU ATTACHED TO OVERSEAS WHEN YOU WERE TOLD YOU WERE COMING BACK TO THE U.S.?
+                                     answer_label answer_value raw_counts relative_frequency
+0                                       NO ANSWER          0.0          8               0.01
+1            I WAS ON DUTY WITH MY REGULAR OUTFIT          1.0        575               0.58
+2                       I WAS ON DETACHED SERVICE          2.0        153               0.15
+3  I WAS IN A REPLACEMENT DEPOT OR CASUAL COMPANY          3.0        229               0.23
+4                                           OTHER          4.0         31               0.03
+5                          COMBINATION OF 2 AND 3          5.0          3                0.0
+
+
+
+S132A.Q14 DID YOU COME BACK UNDER THE ROTATION PLAN?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0         25               0.03
+1           YES          1.0        586               0.59
+2            NO          2.0        323               0.32
+3  I DON'T KNOW          3.0         65               0.07
+
+
+
+S132A.Q15.1 CHECK ALL THE IMPORTANT REASONS WHY YOU WERE SENT BACK TO THE U.S.:
+               answer_label answer_value raw_counts relative_frequency
+0  LIMITED ASSIGNMENT (PLA)          1.0        319               0.32
+1                NOT CHOSEN          2.0        680               0.68
+
+
+
+S132A.Q15.2CHECK ALL THE IMPORTANT REASONS WHY YOU WERE SENT BACK TO THE U.S.:
+  answer_label answer_value raw_counts relative_frequency
+0  NERVOUSNESS          1.0         77               0.08
+1   NOT CHOSEN          2.0        922               0.92
+
+
+
+S132A.Q15.3CHECK ALL THE IMPORTANT REASONS WHY YOU WERE SENT BACK TO THE U.S.:
+                    answer_label answer_value raw_counts relative_frequency
+0  SOME OTHER PHYSICAL CONDITION          1.0        112               0.11
+1                     NOT CHOSEN          2.0        887               0.89
+
+
+
+S132A.Q15.4CHECK ALL THE IMPORTANT REASONS WHY YOU WERE SENT BACK TO THE U.S.:
+    answer_label answer_value raw_counts relative_frequency
+0  ROTATION PLAN          1.0        524               0.52
+1     NOT CHOSEN          2.0        475               0.48
+
+
+
+S132A.Q15.5CHECK ALL THE IMPORTANT REASONS WHY YOU WERE SENT BACK TO THE U.S.:
+               answer_label answer_value raw_counts relative_frequency
+0  CAME BACK WITH MY OUTFIT          1.0          2                0.0
+1                NOT CHOSEN          2.0        997                1.0
+
+
+
+S132A.Q15.6CHECK ALL THE IMPORTANT REASONS WHY YOU WERE SENT BACK TO THE U.S.:
+                                  answer_label answer_value raw_counts relative_frequency
+0  TOO MANY MEN IN MY SPECIALTY IN THE THEATER          1.0         25               0.03
+1                                   NOT CHOSEN          2.0        974               0.97
+
+
+
+S132A.Q15.7CHECK ALL THE IMPORTANT REASONS WHY YOU WERE SENT BACK TO THE U.S.:
+                   answer_label answer_value raw_counts relative_frequency
+0  SOME OTHER IMPORTANT REASONS          1.0         49               0.05
+1                    NOT CHOSEN          2.0        950               0.95
+
+
+
+S132A.Q15.8CHECK ALL THE IMPORTANT REASONS WHY YOU WERE SENT BACK TO THE U.S.:
+                             answer_label answer_value raw_counts relative_frequency
+0  MORE THAN 2 CHECKED, ONE OF WHICH IS 1          1.0         43               0.04
+1                              NOT CHOSEN          2.0        956               0.96
+
+
+
+S132A.Q15.9CHECK ALL THE IMPORTANT REASONS WHY YOU WERE SENT BACK TO THE U.S.:
+                             answer_label answer_value raw_counts relative_frequency
+0  MORE THAN 2 CHECKED, ONE OF WHICH IS 4          1.0          4                0.0
+1                              NOT CHOSEN          2.0        995                1.0
+
+
+
+S132A.Q15.10CHECK ALL THE IMPORTANT REASONS WHY YOU WERE SENT BACK TO THE U.S.:
+                                  answer_label answer_value raw_counts relative_frequency
+0  MORE THAN 2 CHECKED, INCLUDING BOTH 1 AND 4          1.0          4                0.0
+1                                   NOT CHOSEN          2.0        995                1.0
+
+
+
+S132A.Q15.11CHECK ALL THE IMPORTANT REASONS WHY YOU WERE SENT BACK TO THE U.S.:
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0         16               0.02
+1   NOT CHOSEN          2.0        983               0.98
+
+
+
+S132A.Q16 HOW LONG WAS IT BETWEEN THE TIME YOU LEARNED FOR SURE THAT YOU WERE COMING BACK TO THE U.S. AND THE TIME YOUR BOAT ACTUALLY PULLED OUT?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0          5               0.01
+1               2 WEEKS OR LESS          1.0        420               0.42
+2    OVER 2 WEEKS UP TO 1 MONTH          2.0        187               0.19
+3   OVER 1 MONTH UP TO 2 MONTHS          3.0        104                0.1
+4  OVER 2 MONTHS UP TO 3 MONTHS          4.0        111               0.11
+5  OVER 3 MONTHS UP TO 6 MONTHS          5.0        111               0.11
+6                 OVER 6 MONTHS          6.0         11               0.01
+7          I DIDN'T KNOW AT ALL          7.0         50               0.05
+
+
+
+S132A.Q17 FOR WHICH BRANCH OF THE SERVICE DO YOU THINK THE ROTATION PLAN IS WORKING OUT BEST?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         13               0.01
+1      ARMY AIR FORCES          1.0        329               0.33
+2   ARMY GROUND FORCES          2.0         39               0.04
+3  ARMY SERVICE FORCES          3.0         28               0.03
+4   ALL ABOUT THE SAME          4.0        189               0.19
+5   I HAVEN'T ANY IDEA          5.0        401                0.4
+
+
+
+S132A.Q18 FOR WHICH BRANCH OF THE SERVICE DO YOU THINK THE ROTATION PLAN IS WORKING OUT POOREST?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         18               0.02
+1      ARMY AIR FORCES          1.0         10               0.01
+2   ARMY GROUND FORCES          2.0        334               0.33
+3  ARMY SERVICE FORCES          3.0         49               0.05
+4   ALL ABOUT THE SAME          4.0        137               0.14
+5   I HAVEN'T ANY IDEA          5.0        451               0.45
+
+
+
+S132A.Q19.1 WHICH OF THE FOLLOWING DO YOU WISH THE ARMY HAD TOLD YOU ABOUT ON THE BOAT?
+                              answer_label answer_value raw_counts relative_frequency
+0  ABOUT WHERE WE WOULD GO AFTER WE LANDED          1.0         66               0.07
+1                               NOT CHOSEN          2.0        933               0.93
+
+
+
+S132A.Q19.2WHICH OF THE FOLLOWING DO YOU WISH THE ARMY HAD TOLD YOU ABOUT ON THE BOAT?
+                                                                       answer_label answer_value raw_counts relative_frequency
+0  ABOUT THE PROCESSING WE HAVE TO GO THROUGH BEFORE WE ACTUALLY GO ON OUR FURLOUGH          1.0        184               0.18
+1                                                                        NOT CHOSEN          2.0        815               0.82
+
+
+
+S132A.Q19.3WHICH OF THE FOLLOWING DO YOU WISH THE ARMY HAD TOLD YOU ABOUT ON THE BOAT?
+                                            answer_label answer_value raw_counts relative_frequency
+0  ABOUT THE ASSIGNMENTS WE MIGHT GET AFTER OUR FURLOUGH          1.0        679               0.68
+1                                             NOT CHOSEN          2.0        320               0.32
+
+
+
+S132A.Q19.4WHICH OF THE FOLLOWING DO YOU WISH THE ARMY HAD TOLD YOU ABOUT ON THE BOAT?
+                                                             answer_label answer_value raw_counts relative_frequency
+0  ABOUT WHAT HAS BEEN HAPPENING ON THE HOME FRONT SINCE WE LEFT THE U.S.          1.0        172               0.17
+1                                                              NOT CHOSEN          2.0        827               0.83
+
+
+
+S132A.Q19.5WHICH OF THE FOLLOWING DO YOU WISH THE ARMY HAD TOLD YOU ABOUT ON THE BOAT?
+          answer_label answer_value raw_counts relative_frequency
+0  MORE THAN 2 CHECKED          1.0         60               0.06
+1           NOT CHOSEN          2.0        939               0.94
+
+
+
+S132A.Q19.6WHICH OF THE FOLLOWING DO YOU WISH THE ARMY HAD TOLD YOU ABOUT ON THE BOAT?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0         50               0.05
+1   NOT CHOSEN          2.0        949               0.95
+
+
+
+S132A.Q20 WHEN DID YOU FIRST LEARN WHY YOU WERE COMING TO THIS DEBARKATION CENTER INSTEAD OF GOING DIRECTLY TO THE RECEPTION STATION FROM THE BOAT?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0         38               0.04
+1                                    OVERSEAS          1.0        108               0.11
+2                     ON THE BOAT COMING BACK          2.0        207               0.21
+3  WHILE THE BOAT WAS AT THE DOCK IN THE U.S.          3.0        226               0.23
+4                                 ON THE PIER          4.0        189               0.19
+5                                ON THE TRAIN          5.0         97                0.1
+6                   AT THE DEBARKATION CENTER          6.0         94               0.09
+7                                       OTHER          7.0         11               0.01
+8                             NEVER HEARD WHY          8.0         29               0.03
+
+
+
+S132A.Q21A TO WHAT RECEPTION STATION ARE YOU GOING?
+              answer_label answer_value raw_counts relative_frequency
+0                NO ANSWER          0.0         21               0.02
+1              FORT DEVENS          1.0         22               0.02
+2               CAMP UPTON          2.0        332               0.33
+3               FORT MEADE          3.0        143               0.14
+4               FORT BRAGG          4.0        112               0.11
+5              CAMP SHELBY          5.0         40               0.04
+6   FORT BENJAMIN HARRISON          6.0        104                0.1
+7            FORT SHERIDAN          7.0         14               0.01
+8               FORT LOGAN          8.0          6               0.01
+9       JEFFERSON BARRACKS          9.0         54               0.05
+10              FORT BLISS         10.0         55               0.06
+11         CAMP BEAUREGARD         11.0          5               0.01
+12            FORT DOUGLAS         12.0          4                0.0
+13              FORT LEWIS         13.0         47               0.05
+14    PRESIDIO OF MONTEREY         14.0          2                0.0
+15            I DON'T KNOW         15.0         38               0.04
+
+
+
+S132A.Q21B WHY DO YOU THINK THE ARMY IS SENDING YOU TO THAT RECEPTION STATION?
+                                                 answer_label answer_value raw_counts relative_frequency
+0                                                   NO ANSWER          0.0         21               0.02
+1                 TO SAVE ME MONEY ON MY FURLOUGH TICKET HOME          1.0        378               0.38
+2  BECAUSE IT IS THE MOST CONVENIENT THING FOR THE ARMY TO DO          2.0        356               0.36
+3                                                       OTHER          3.0         41               0.04
+4                                                I'M NOT SURE          4.0        154               0.15
+5                                                 NEARER HOME          5.0         49               0.05
+
+
+
+S132A.Q21C DO YOU EXPECT TO RETURN TO THAT RECEPTION STATION AFTER YOU'VE HAD YOUR FURLOUGH?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0         19               0.02
+1  YES, FOR PERMANENT DUTY THERE          1.0        124               0.12
+2     YES, ONLY FOR A SHORT TIME          2.0        368               0.37
+3                             NO          3.0         65               0.07
+4                   I'M NOT SURE          4.0        423               0.42
+
+
+
+S132A.Q22A HOW LONG A FURLOUGH OR DELAY EN ROUTE DO YOU THINK YOU SHOULD GET?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0         53               0.05
+1    LESS THAN 7 DAYS          1.0         26               0.03
+2   7 DAYS TO 14 DAYS          2.0         14               0.01
+3  15 DAYS TO 21 DAYS          3.0         57               0.06
+4  22 DAYS TO 28 DAYS          4.0         21               0.02
+5  29 DAYS TO 35 DAYS          5.0        566               0.57
+6  35 DAYS TO 42 DAYS          6.0         22               0.02
+7  43 DAYS TO 49 DAYS          7.0        113               0.11
+8    50 DAYS AND OVER          8.0        123               0.12
+9        I DON'T KNOW          9.0          4                0.0
+
+
+
+S132A.Q22B AT THE TIME YOU LEFT YOUR OUTFIT OVERSEAS, HOW LONG A FURLOUGH OR DELAY EN ROUTE DID YOU EXPECT TO GET?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0         72               0.07
+1    LESS THAN 7 DAYS          1.0         20               0.02
+2   7 DAYS TO 14 DAYS          2.0         17               0.02
+3  15 DAYS TO 21 DAYS          3.0        469               0.47
+4  22 DAYS TO 28 DAYS          4.0         25               0.03
+5  29 DAYS TO 35 DAYS          5.0        304                0.3
+6  36 DAYS TO 42 DAYS          6.0         10               0.01
+7  43 DAYS TO 49 DAYS          7.0         48               0.05
+8    50 DAYS AND OVER          8.0         24               0.02
+9        I DON'T KNOW          9.0         10               0.01
+
+
+
+S132A.Q22C HOW LONG A FURLOUGH OR DELAY EN ROUTE DO YOU NOW EXPECT TO GET?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0         59               0.06
+1    LESS THAN 7 DAYS          1.0         22               0.02
+2   7 DAYS TO 14 DAYS          2.0         11               0.01
+3  15 DAYS TO 20 DAYS          3.0         43               0.04
+4             21 DAYS          4.0        634               0.63
+5  22 DAYS TO 29 DAYS          5.0         41               0.04
+6             30 DAYS          6.0        147               0.15
+7    31 DAYS AND OVER          7.0         24               0.02
+8        I DON'T KNOW          8.0         18               0.02
+
+
+
+S132A.Q23 DO YOU KNOW DEFINITELY NOW WHAT PROCESSING YOU WILL HAVE TO GO THROUGH BEFORE GOING ON YOUR FURLOUGH?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0         20               0.02
+1       YES, VERY DEFINITELY          1.0        114               0.11
+2     YES, FAIRLY DEFINITELY          2.0        229               0.23
+3    NO, NOT VERY DEFINITELY          3.0        296                0.3
+4  NO, NOT DEFINITELY AT ALL          4.0        340               0.34
+
+
+
+S132A.Q24 HOW SATISFIED ARE YOU WITH THE WAY YOU WERE HANDLED ON THE BOAT COMING BACK TO THE U.S.?
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0         16               0.02
+1    I AM VERY WELL SATISFIED          1.0        395                0.4
+2  I AM FAIRLY WELL SATISFIED          2.0        350               0.35
+3  I AM NOT SO WELL SATISFIED          3.0        112               0.11
+4   I AM NOT SATISFIED AT ALL          4.0        126               0.13
+
+
+
+S132A.Q25 AFTER YOUR FURLOUGH, DO YOU THINK YOU SHOULD BE ASSIGNED TO THE SAME BRANCH OF SERVICE YOU ARE NOW IN, OR TO A DIFFERENT BRANCH?
+                                                    answer_label answer_value raw_counts relative_frequency
+0                                                      NO ANSWER          0.0         25               0.03
+1     I THINK I SHOULD BE ASSIGNED TO THE SAME BRANCH OF SERVICE          1.0        458               0.46
+2  I THINK I SHOULD BE ASSIGNED TO A DIFFERENT BRANCH OF SERVICE          2.0        339               0.34
+3                                                   I'M NOT SURE          3.0        177               0.18
+
+
+
+S132A.Q26 AFTER YOUR FURLOUGH, DO YOU THINK YOU ACTUALLY WILL BE ASSIGNED TO THE SAME BRANCH OF SERVICE YOU ARE IN NOW, OR TO A DIFFERENT BRANCH?
+                                               answer_label answer_value raw_counts relative_frequency
+0                                                 NO ANSWER          0.0         22               0.02
+1     I EXPECT TO BE ASSIGNED TO THE SAME BRANCH OF SERVICE          1.0        333               0.33
+2  I EXPECT TO BE ASSIGNED TO A DIFFERENT BRANCH OF SERVICE          2.0        231               0.23
+3                                              I DON'T KNOW          3.0        413               0.41
+
+
+
+S132A.Q27 WHAT ASSIGNMENT DO YOU FEEL THE ARMY SHOULD GIVE YOU AFTER YOUR FURLOUGH?
+                                                                                                    answer_label answer_value raw_counts relative_frequency
+0                                                                                                      NO ANSWER          0.0         62               0.06
+1                   I SHOULD BE ASSIGNED TO AN OUTFIT NOW IN TRAINING WHICH WILL GO OVERSEAS WHEN ITS TURN COMES          1.0         65               0.07
+2                       I SHOULD GO BACK OVERSEAS AS A REPLACEMENT AND BE ASSIGNED TO SOME UNIT ALREADY OVERSEAS          2.0         16               0.02
+3                                                                 I SHOULD BE RETURNED TO MY OLD OUTFIT OVERSEAS          3.0         23               0.02
+4  I SHOULD BE USED AS CADRE OR AS AN INSTRUCTOR IN AN ARMY TECHNICAL OR REPLACEMENT TRAINING CENTER IN THE U.S.          4.0        198                0.2
+5                I SHOULD BE ASSIGNED TO THE STATION COMPLEMENT OR PERMANENT PARTY AT SOME ARMY POST IN THE U.S.          5.0        550               0.55
+6                                                                                                          OTHER          6.0         85               0.09
+
+
+
+S132A.Q28A WHAT ASSIGNMENT DO YOU EXPECT THE ARMY REALLY WILL GIVE YOU AFTER YOUR FURLOUGH?
+                                                                                                       answer_label answer_value raw_counts relative_frequency
+0                                                                                                         NO ANSWER          0.0        131               0.13
+1                   I EXPECT TO BE ASSIGNED TO AN OUTFIT NOW IN TRAINING WHICH WILL GO OVERSEAS WHEN ITS TURN COMES          1.0        191               0.19
+2                       I EXPECT TO GO BACK OVERSEAS AS A REPLACEMENT AND BE ASSIGNED TO SOME UNIT ALREADY OVERSEAS          2.0         86               0.09
+3                                                                      I EXPECT TO RETURN TO MY OLD OUTFIT OVERSEAS          3.0         11               0.01
+4  I EXPECT TO BE USED AS CADRE OR AS AN INSTRUCTOR IN AN ARMY TECHNICAL OR REPLACEMENT TRAINING CENTER IN THE U.S.          4.0        149               0.15
+5                I EXPECT TO BE ASSIGNED TO THE STATION COMPLEMENT OR PERMANENT PARTY AT SOME ARMY POST IN THE U.S.          5.0        378               0.38
+6                                                                                                             OTHER          6.0         53               0.05
+
+
+
+S132A.Q28B.1 WHAT LEADS YOU TO EXPECT THIS KIND OF ASSIGNMENT AFTER YOUR FURLOUGH?
+        answer_label answer_value raw_counts relative_frequency
+0  TALKS BY OFFICERS          1.0         84               0.08
+1         NOT CHOSEN          2.0        915               0.92
+
+
+
+S132A.Q28B.2WHAT LEADS YOU TO EXPECT THIS KIND OF ASSIGNMENT AFTER YOUR FURLOUGH?
+                               answer_label answer_value raw_counts relative_frequency
+0  LETTERS IN "YANK" OR "STARS AND STRIPES"          1.0         50               0.05
+1                                NOT CHOSEN          2.0        949               0.95
+
+
+
+S132A.Q28B.3WHAT LEADS YOU TO EXPECT THIS KIND OF ASSIGNMENT AFTER YOUR FURLOUGH?
+                  answer_label answer_value raw_counts relative_frequency
+0  ARMY CIRCULARS OR BULLETINS          1.0         59               0.06
+1                   NOT CHOSEN          2.0        940               0.94
+
+
+
+S132A.Q28B.4WHAT LEADS YOU TO EXPECT THIS KIND OF ASSIGNMENT AFTER YOUR FURLOUGH?
+                                             answer_label answer_value raw_counts relative_frequency
+0  LETTERS FROM MEN WHO RETURNED TO THE U.S. BEFORE I DID          1.0        140               0.14
+1                                              NOT CHOSEN          2.0        859               0.86
+
+
+
+S132A.Q28B.5WHAT LEADS YOU TO EXPECT THIS KIND OF ASSIGNMENT AFTER YOUR FURLOUGH?
+            answer_label answer_value raw_counts relative_frequency
+0  RUMOR, LATRINE GOSSIP          1.0         92               0.09
+1             NOT CHOSEN          2.0        907               0.91
+
+
+
+S132A.Q28B.6WHAT LEADS YOU TO EXPECT THIS KIND OF ASSIGNMENT AFTER YOUR FURLOUGH?
+                                                     answer_label answer_value raw_counts relative_frequency
+0  NO SPECIAL REASON, BUT THAT'S WHAT I EXPECT (PERSONAL REASONS)          1.0        500                0.5
+1                                                      NOT CHOSEN          2.0        499                0.5
+
+
+
+S132A.Q28B.7WHAT LEADS YOU TO EXPECT THIS KIND OF ASSIGNMENT AFTER YOUR FURLOUGH?
+     answer_label answer_value raw_counts relative_frequency
+0  SOMETHING ELSE          1.0         39               0.04
+1      NOT CHOSEN          2.0        960               0.96
+
+
+
+S132A.Q28B.8WHAT LEADS YOU TO EXPECT THIS KIND OF ASSIGNMENT AFTER YOUR FURLOUGH?
+                             answer_label answer_value raw_counts relative_frequency
+0  MORE THAN 2 CHECKED, ONE OF WHICH IS 1          1.0         10               0.01
+1                              NOT CHOSEN          2.0        989               0.99
+
+
+
+S132A.Q28B.9WHAT LEADS YOU TO EXPECT THIS KIND OF ASSIGNMENT AFTER YOUR FURLOUGH?
+                             answer_label answer_value raw_counts relative_frequency
+0  MORE THAN 2 CHECKED, ONE OF WHICH IS 3          1.0          4                0.0
+1                              NOT CHOSEN          2.0        995                1.0
+
+
+
+S132A.Q28B.10WHAT LEADS YOU TO EXPECT THIS KIND OF ASSIGNMENT AFTER YOUR FURLOUGH?
+                                  answer_label answer_value raw_counts relative_frequency
+0  MORE THAN 2 CHECKED, INCLUDING BOTH 1 AND 3          1.0         14               0.01
+1                                   NOT CHOSEN          2.0        985               0.99
+
+
+
+S132A.Q28B.11WHAT LEADS YOU TO EXPECT THIS KIND OF ASSIGNMENT AFTER YOUR FURLOUGH?
+                                   answer_label answer_value raw_counts relative_frequency
+0  MORE THAN 2 CHECKED, NONE OF WHICH IS 1 OR 3          1.0          7               0.01
+1                                    NOT CHOSEN          2.0        992               0.99
+
+
+
+S132A.Q28B.12WHAT LEADS YOU TO EXPECT THIS KIND OF ASSIGNMENT AFTER YOUR FURLOUGH?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0        116               0.12
+1   NOT CHOSEN          2.0        883               0.88
+
+
+
+S132A.Q29 DO YOU THINK THERE IS MUCH CHANCE YOU WILL BE REDUCED IN GRADE WHEN YOU GET YOUR NEW ASSIGNMENT?
+                                    answer_label answer_value raw_counts relative_frequency
+0                                      NO ANSWER          0.0         38               0.04
+1                              I'M A PRIVATE NOW          1.0        245               0.25
+2              YES, I'M AFRAID I WILL BE REDUCED          2.0         47               0.05
+3             I DON'T THINK SO, BUT I'M NOT SURE          3.0        450               0.45
+4  NO, I DON'T THINK THERE IS MUCH CHANCE AT ALL          4.0        219               0.22
+
+
+
+S132A.Q30 HOW MUCH HAVE YOU WORRIED ABOUT THE KIND OF ASSIGNMENT YOU WILL GET AFTER YOUR FURLOUGH HERE IN THE STATES?
+                           answer_label answer_value raw_counts relative_frequency
+0                             NO ANSWER          0.0         24               0.02
+1   I HAVE WORRIED A GOOD DEAL ABOUT IT          1.0        249               0.25
+2          I HAVE WORRIED SOME ABOUT IT          2.0        346               0.35
+3  I HAVE NEVER WORRIED AT ALL ABOUT IT          3.0        380               0.38
+
+
+
+S132A.Q31 HAVE YOU EVER BEEN TOLD OFFICIALLY YOU WOULD BE ASSIGNED TO DUTY AT A STATION NEAR YOUR HOME?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         16               0.02
+1          YES          1.0         44               0.04
+2           NO          2.0        939               0.94
+
+
+
+S132A.Q32 DO YOU EXPECT TO BE STATIONED AT AN ARMY POST NEAR YOUR HOME WHEN YOU GET YOUR NEW ASSIGNMENT?
+              answer_label answer_value raw_counts relative_frequency
+0                NO ANSWER          0.0         15               0.02
+1  YES, I PROBABLY WILL BE          1.0        167               0.17
+2  NO, I PROBABLY WON'T BE          2.0        203                0.2
+3           I HAVE NO IDEA          3.0        614               0.61
+
+
+
+S132A.Q33 WOULD YOU BE WILLING TO TAKE AN ARMY JOB THAT YOU DISLIKE, IF THAT WERE THE ONLY WAY YOU COULD GET ASSIGNED TO AN OUTFIT OR STATION NEAR YOUR HOME?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0         23               0.02
+1           YES          1.0        387               0.39
+2            NO          2.0        377               0.38
+3  I'M NOT SURE          3.0        212               0.21
+
+
+
+S132A.Q34 WOULD YOU BE WILLING TO TAKE BASIC TRAINING IN A DIFFERENT BRANCH OF SERVICE, IF THAT WERE THE ONLY WAY YOU COULD GET ASSIGNED TO AN OUTFIT OR STATION NEAR YOUR HOME?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0         23               0.02
+1            NO          2.0        460               0.46
+2           YES          1.0        317               0.32
+3  I'M NOT SURE          3.0        199                0.2
+
+
+
+FORM.1FORM:
+  answer_label answer_value raw_counts relative_frequency
+0       S-132A          1.0        999                1.0
+
+
+
+S132A.Q35 HOW DO YOU FEEL ABOUT SERVING OVERSEAS AGAIN, AFTER YOU'VE HAD YOUR FURLOUGH?
+                                                                                                             answer_label answer_value raw_counts relative_frequency
+0                                                                                                               NO ANSWER          0.0         56               0.06
+1                                                                   I WILL WANT TO GET OVERSEAS AGAIN AS SOON AS POSSIBLE          1.0         19               0.02
+2                                                                                 I'LL BE READY TO GO WHENEVER I'M NEEDED          2.0        136               0.14
+3                                    I'D LIKE TO STAY IN THE U.S. FOR A FEW MONTHS, BUT THEN I'LL BE READY TO GO ANYWHERE          3.0        220               0.22
+4                                                                     I DON'T WANT TO GO OVERSEAS AGAIN (NO REASON GIVEN)          4.0         19               0.02
+5    HAVE DONE MY SHARE; BEEN OVER LONG ENOUGH; LET SOMEBODY ELSE GO (NO INDICATION HE WOULD BE WILLING TO GO OVER AGAIN)          5.0        218               0.22
+6                                                     SAME AS "5" BUT INDICATES WILLINGNESS TO GO OVER AGAIN IF NECESSARY          6.0         39               0.04
+7   COULDN'T TAKE IT AGAIN; IT'S TOO TOUGH; DANGEROUS; IT'S NO GOOD; NOT FIT (NO MENTION OF PHYSICAL OR MENTAL CONDITION)          7.0         75               0.08
+8                                                                              PHYSICALLY UNFIT; TOO OLD; LIMITED SERVICE          8.0        136               0.14
+9                                                                                                          MENTALLY UNFIT          9.0         16               0.02
+10                                                                                                HOME AND FAMILY REASONS         10.0         17               0.02
+11                                                                                                     ALL OTHER COMMENTS         11.0         48               0.05
+
+
+
+S132A.Q37 AS AN OVERSEAS VETERAN HOW DO YOU EXPECT TO BE TREATED BY CIVILIANS?
+                                                                       answer_label answer_value raw_counts relative_frequency
+0                                                                         NO ANSWER          0.0         59               0.06
+1      I EXPECT TO BE LOOKED UP TO MORE THAN ENLISTED MEN WHO HAVEN'T BEEN OVERSEAS          1.0        238               0.24
+2    I EXPECT TO BE TREATED JUST THE SAME AS ENLISTED MEN WHO HAVEN'T BEEN OVERSEAS          2.0        657               0.66
+3  I EXPECT TO BE LOOKED DOWN UPON MORE THAN ENLISTED MEN WHO HAVEN'T BEEN OVERSEAS          3.0         45               0.05
+
+
+
+S132A.Q38 AS AN OVERSEAS VETERAN HOW DO YOU EXPECT TO BE TREATED BY ENLISTED MEN WHO HAVEN'T BEEN OVERSEAS?
+                                                                     answer_label answer_value raw_counts relative_frequency
+0                                                                       NO ANSWER          0.0         59               0.06
+1                          I EXPECT TO BE LOOKED UP TO BECAUSE I'VE BEEN OVERSEAS          1.0        203                0.2
+2  I EXPECT TO BE TREATED JUST THE SAME AS ENLISTED MEN WHO HAVEN'T BEEN OVERSEAS          2.0        666               0.67
+3       I EXPECT TO BE LOOKED DOWN UPON BY ENLISTED MEN WHO HAVEN'T BEEN OVERSEAS          3.0         71               0.07
+
+
+
+S132A.Q39 AS AN OVERSEAS VETERAN WHAT SORT OF TREATMENT DO YOU EXPECT TO GET FROM OFFICERS WHO HAVEN'T BEEN OVERSEAS?
+                                                                     answer_label answer_value raw_counts relative_frequency
+0                                                                       NO ANSWER          0.0         44               0.04
+1       I EXPECT TO BE TREATED BETTER THAN ENLISTED MEN WHO HAVEN'T BEEN OVERSEAS          1.0        153               0.15
+2  I EXPECT TO BE TREATED JUST THE SAME AS ENLISTED MEN WHO HAVEN'T BEEN OVERSEAS          2.0        678               0.68
+3        I EXPECT TO BE TREATED WORSE THAN ENLISTED MEN WHO HAVEN'T BEEN OVERSEAS          3.0        124               0.12
+
+
+
+S132A.Q40 DO YOU BELIEVE THERE ARE ENOUGH ENLISTED MEN STILL IN THE U.S. WHO HAVEN'T YET BEEN OVERSEAS, SO THAT RETURNING OVERSEAS VETERANS WON'T NEED TO GO OVERSEAS AGAIN?
+                           answer_label answer_value raw_counts relative_frequency
+0                             NO ANSWER          0.0         26               0.03
+1       YES, I BELIEVE THERE ARE ENOUGH          1.0        764               0.76
+2  NO, I DON'T BELIEVE THERE ARE ENOUGH          2.0         36               0.04
+3                          I'M NOT SURE          3.0        173               0.17
+
+
+
+S132A.Q41.1 NOW THAT YOU'RE BACK, WHICH TWO OF THE FOLLOWING THINGS WOULD YOU MOST LIKE TO KNOW ABOUT, TO BRING YOU UP-TO-DATE ON WHAT HAS HAPPENED SINCE YOU LEFT THE STATES?
+                             answer_label answer_value raw_counts relative_frequency
+0  HAPPENINGS ON THE DIFFERENT WAR FRONTS          1.0        129               0.13
+1                              NOT CHOSEN          2.0        870               0.87
+
+
+
+S132A.Q41.2NOW THAT YOU'RE BACK, WHICH TWO OF THE FOLLOWING THINGS WOULD YOU MOST LIKE TO KNOW ABOUT, TO BRING YOU UP-TO-DATE ON WHAT HAS HAPPENED SINCE YOU LEFT THE STATES?
+                      answer_label answer_value raw_counts relative_frequency
+0  THE LABOR SITUATION IN THE U.S.          1.0        204                0.2
+1                       NOT CHOSEN          2.0        795                0.8
+
+
+
+S132A.Q41.3NOW THAT YOU'RE BACK, WHICH TWO OF THE FOLLOWING THINGS WOULD YOU MOST LIKE TO KNOW ABOUT, TO BRING YOU UP-TO-DATE ON WHAT HAS HAPPENED SINCE YOU LEFT THE STATES?
+                                                      answer_label answer_value raw_counts relative_frequency
+0  PLANS FOR CHANGING WAR INDUSTRIES BACK TO MAKING CIVILIAN GOODS          1.0        217               0.22
+1                                                       NOT CHOSEN          2.0        782               0.78
+
+
+
+S132A.Q41.4NOW THAT YOU'RE BACK, WHICH TWO OF THE FOLLOWING THINGS WOULD YOU MOST LIKE TO KNOW ABOUT, TO BRING YOU UP-TO-DATE ON WHAT HAS HAPPENED SINCE YOU LEFT THE STATES?
+                   answer_label answer_value raw_counts relative_frequency
+0  NEW LAWS CONCERNING VETERANS          1.0        477               0.48
+1                    NOT CHOSEN          2.0        522               0.52
+
+
+
+S132A.Q41.5NOW THAT YOU'RE BACK, WHICH TWO OF THE FOLLOWING THINGS WOULD YOU MOST LIKE TO KNOW ABOUT, TO BRING YOU UP-TO-DATE ON WHAT HAS HAPPENED SINCE YOU LEFT THE STATES?
+                  answer_label answer_value raw_counts relative_frequency
+0  PRODUCTION OF WAR MATERIALS          1.0         36               0.04
+1                   NOT CHOSEN          2.0        963               0.96
+
+
+
+S132A.Q41.6NOW THAT YOU'RE BACK, WHICH TWO OF THE FOLLOWING THINGS WOULD YOU MOST LIKE TO KNOW ABOUT, TO BRING YOU UP-TO-DATE ON WHAT HAS HAPPENED SINCE YOU LEFT THE STATES?
+          answer_label answer_value raw_counts relative_frequency
+0  PLANS FOR THE PEACE          1.0        357               0.36
+1           NOT CHOSEN          2.0        642               0.64
+
+
+
+S132A.Q41.7NOW THAT YOU'RE BACK, WHICH TWO OF THE FOLLOWING THINGS WOULD YOU MOST LIKE TO KNOW ABOUT, TO BRING YOU UP-TO-DATE ON WHAT HAS HAPPENED SINCE YOU LEFT THE STATES?
+                       answer_label answer_value raw_counts relative_frequency
+0  SHORTAGES OF GOODS FOR CIVILIANS          1.0         70               0.07
+1                        NOT CHOSEN          2.0        929               0.93
+
+
+
+S132A.Q41.8NOW THAT YOU'RE BACK, WHICH TWO OF THE FOLLOWING THINGS WOULD YOU MOST LIKE TO KNOW ABOUT, TO BRING YOU UP-TO-DATE ON WHAT HAS HAPPENED SINCE YOU LEFT THE STATES?
+       answer_label answer_value raw_counts relative_frequency
+0  ANY OTHER THINGS          1.0         24               0.02
+1        NOT CHOSEN          2.0        975               0.98
+
+
+
+S132A.Q41.9NOW THAT YOU'RE BACK, WHICH TWO OF THE FOLLOWING THINGS WOULD YOU MOST LIKE TO KNOW ABOUT, TO BRING YOU UP-TO-DATE ON WHAT HAS HAPPENED SINCE YOU LEFT THE STATES?
+          answer_label answer_value raw_counts relative_frequency
+0  MORE THAN 2 CHECKED          1.0         38               0.04
+1           NOT CHOSEN          2.0        961               0.96
+
+
+
+S132A.Q41.10NOW THAT YOU'RE BACK, WHICH TWO OF THE FOLLOWING THINGS WOULD YOU MOST LIKE TO KNOW ABOUT, TO BRING YOU UP-TO-DATE ON WHAT HAS HAPPENED SINCE YOU LEFT THE STATES?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0         71               0.07
+1   NOT CHOSEN          2.0        928               0.93
+
+
+
+S132A.Q42A DO YOU HAVE ANY MONEY IN SOLDIERS, DEPOSIT IN THE FINANCE OFFICE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         36               0.04
+1          YES          1.0        194               0.19
+2           NO          2.0        769               0.77
+
+
+
+S132A.Q42B IF YES, WERE YOU TOLD YOU WOULD BE ABLE TO DRAW OUT SOME OR ALL OF IT BEFORE YOU GO ON YOUR FURLOUGH OR DELAY EN ROUTE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        809               0.81
+1          YES          1.0        116               0.12
+2           NO          2.0         74               0.07
+
+
+
+S132A.Q43 IN GENERAL, HOW WOULD YOU SAY YOU FEEL MOST OF THE TIME, IN GOOD SPIRITS OR IN LOW SPIRITS?
+                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                  NO ANSWER          0.0         24               0.02
+1                                               I AM USUALLY IN GOOD SPIRITS          1.0        376               0.38
+2  I AM IN GOOD SPIRITS SOME OF THE TIME AND IN LOW SPIRITS SOME OF THE TIME          2.0        505               0.51
+3                                                I AM USUALLY IN LOW SPIRITS          3.0         94               0.09
+
+
+
+S132A.Q44 ARE YOU EVER WORRIED AND UPSET?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0         31               0.03
+1  I AM HARDLY EVER WORRIED AND UPSET          1.0        312               0.31
+2    I AM SOMETIMES WORRIED AND UPSET          2.0        507               0.51
+3        I AM OFTEN WORRIED AND UPSET          3.0        149               0.15
+
+
+
+S132A.Q45 IN GENERAL, WHAT SORT OF A TIME DO YOU HAVE IN THE ARMY?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         22               0.02
+1    I HAVE A PRETTY GOOD TIME          1.0        205               0.21
+2       IT'S ABOUT FIFTY-FIFTY          2.0        617               0.62
+3  I HAVE A PRETTY ROTTEN TIME          3.0        155               0.16
+
+
+
+S132A.Q46 DO YOU CONSIDER THE JOB YOU WERE DOING IN THE ARMY JUST BEFORE YOU LEFT YOUR OLD OUTFIT OVERSEAS AN IMPORTANT ONE IN THE WAR EFFORT?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0         29               0.03
+1        VERY IMPORTANT          1.0        524               0.52
+2      PRETTY IMPORTANT          2.0        275               0.28
+3      NOT SO IMPORTANT          3.0         76               0.08
+4  NOT IMPORTANT AT ALL          4.0         50               0.05
+5             UNDECIDED          5.0         45               0.05
+
+
+
+S132A.Q47A IN GENERAL, WHAT SORT OF PHYSICAL CONDITION WOULD YOU SAY YOU ARE IN AT THE PRESENT TIME?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         18               0.02
+1  VERY GOOD PHYSICAL CONDITION          1.0         90               0.09
+2       GOOD PHYSICAL CONDITION          2.0        145               0.15
+3       FAIR PHYSICAL CONDITION          3.0        431               0.43
+4       POOR PHYSICAL CONDITION          4.0        254               0.25
+5  VERY POOR PHYSICAL CONDITION          5.0         61               0.06
+
+
+
+S132A.Q47B ARE YOU IN BETTER OR WORSE PHYSICAL CONDITION NOW THAN YOU WERE JUST BEFORE YOU WENT OVERSEAS?
+                                   answer_label answer_value raw_counts relative_frequency
+0                                     NO ANSWER          0.0         21               0.02
+1  BETTER NOW THAN I WAS BEFORE I WENT OVERSEAS          1.0         41               0.04
+2                        ABOUT THE SAME AS THEN          2.0        280               0.28
+3   WORSE NOW THAN I WAS BEFORE I WENT OVERSEAS          3.0        657               0.66
+
+
+
+S132A.Q47C ARE YOU EVER BOTHERED BY NERVOUSNESS?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0         17               0.02
+1      YES, OFTEN          1.0        267               0.27
+2  YES, SOMETIMES          2.0        492               0.49
+3       NO, NEVER          3.0        223               0.22
+
+
+
+S132A.Q47D DO YOU OFTEN HAVE TROUBLE IN GETTING TO SLEEP?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0         19               0.02
+1    VERY OFTEN          1.0        243               0.24
+2     SOMETIMES          2.0        553               0.55
+3  ALMOST NEVER          3.0        184               0.18
+
+
+
+S132A.Q47E ARE YOU EVER TROUBLED BY YOUR HANDS SWEATING SO THAT THEY FEEL DAMP AND CLAMMY?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0         24               0.02
+1      YES, OFTEN          1.0        296                0.3
+2  YES, SOMETIMES          2.0        437               0.44
+3       NO, NEVER          3.0        242               0.24
+
+
+
+S132A.Q47F HOW OFTEN ARE YOU BOTHERED BY HAVING AN UPSET STOMACH?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         23               0.02
+1  NEARLY ALL THE TIME          1.0         68               0.07
+2         PRETTY OFTEN          2.0        253               0.25
+3       NOT VERY OFTEN          3.0        517               0.52
+4                NEVER          4.0        138               0.14
+
+
+
+S132A.Q47G DO YOUR HANDS TREMBLE ENOUGH TO BOTHER YOU?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0         27               0.03
+1      YES, OFTEN          1.0         93               0.09
+2  YES, SOMETIMES          2.0        398                0.4
+3       NO, NEVER          3.0        481               0.48
+
+
+
+S132A.Q47H DO YOU FEEL YOU WILL NEED MEDICAL ATTENTION BEFORE YOU WILL BE IN SHAPE TO TAKE UP A PERMANENT ASSIGNMENT?
+                                                                    answer_label answer_value raw_counts relative_frequency
+0                                                                      NO ANSWER          0.0         29               0.03
+1                              YES, I WILL NEED A GOOD DEAL OF MEDICAL ATTENTION          1.0         83               0.08
+2                                        YES, I WILL NEED SOME MEDICAL ATTENTION          2.0        359               0.36
+3                                         NO, I WON'T NEED ANY MEDICAL ATTENTION          3.0        215               0.22
+4                                                                   I'M NOT SURE          4.0        228               0.23
+5  I EXPECT TO BE DISCHARGED INSTEAD OF BEING GIVEN ANOTHER PERMANENT ASSIGNMENT          5.0         49               0.05
+6                                                         COMBINATION OF 1 AND 5          6.0         11               0.01
+7                                                         COMBINATION OF 2 AND 5          7.0         14               0.01
+8                                                         COMBINATION OF 3 AND 5          8.0          4                0.0
+9                                                         COMBINATION OF 4 AND 5          9.0          7               0.01
+
+
+
+S132A.Q48 DO YOU EVER GET THE FEELING THAT THIS WAR IS NOT WORTH FIGHTING?
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0         40               0.04
+1                  VERY OFTEN          1.0         59               0.06
+2                   SOMETIMES          2.0        166               0.17
+3  ONLY ONCE IN A GREAT WHILE          3.0        208               0.21
+4                       NEVER          4.0        526               0.53
+
+
+
+S132A.Q49 HOW DO YOU FEEL ABOUT WHAT YOU'VE DONE IN THIS WAR?
+                                                                                    answer_label answer_value raw_counts relative_frequency
+0                                                                                      NO ANSWER          0.0         45               0.05
+1                                                 I FEEL I'VE ALREADY DONE MY SHARE AS A SOLDIER          1.0        234               0.23
+2                   I FEEL I'VE PROBABLY DONE MY SHARE, BUT I'M READY TO DO MORE WHEN I'M NEEDED          2.0        302                0.3
+3  I FEEL I'VE DONE A LITTLE, BUT NO SOLDIER CAN SAY HE HAS DONE HIS SHARE UNTIL THE WAR IS OVER          3.0        418               0.42
+
+
+
+S132A.Q50 HOW DO YOU FEEL ABOUT BEING AWAY FROM YOUR OLD OUTFIT?
+                                      answer_label answer_value raw_counts relative_frequency
+0                                        NO ANSWER          0.0         40               0.04
+1        I MISS BEING WITH MY OLD OUTFIT VERY MUCH          1.0        269               0.27
+2             I MISS BEING WITH MY OLD OUTFIT SOME          2.0        324               0.32
+3  I DON'T MISS BEING WITH MY OLD OUTFIT VERY MUCH          3.0        153               0.15
+4     I DON'T MISS BEING WITH MY OLD OUTFIT AT ALL          4.0        204                0.2
+5                         I'M STILL WITH MY OUTFIT          5.0          9               0.01
+
+
+
+S132A.Q51 IF IT WERE UP TO YOU TO CHOOSE, DO YOU THINK YOU COULD DO MORE FOR YOUR COUNTRY AS A SOLDIER OR AS A WORKER IN A WAR JOB?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         33               0.03
+1     AS A SOLDIER          1.0        228               0.23
+2  AS A WAR WORKER          2.0        483               0.48
+3        UNDECIDED          3.0        255               0.26
+
+
+
+S132A.Q52 IN GENERAL, DO YOU FEEL YOU HAVE GOTTEN A SQUARE DEAL FROM THE ARMY?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                         NO ANSWER          0.0         34               0.03
+1              IN SOME WAYS, YES, IN OTHER WAYS, NO          2.0        484               0.48
+2                          YES, IN MOST WAYS I HAVE          1.0        365               0.37
+3  NO, ON THE WHOLE I HAVE NOT GOTTEN A SQUARE DEAL          3.0        116               0.12
+
+
+
+S132A.Q54A.1 THE FOLLOWING IS A LIST OF 27 HIGH SCHOOL AND JUNIOR COLLEGE COURSES WHICH THE ARMY PLANS TO OFFER TO SOLDIERS, BETWEEN THE TIME GERMANY AND JAPAN ARE DEFEATED AND THE TIME SOLDIERS ARE BEING RELEASED FROM THE ARMY TO GO BACK TO CIVILIAN LIFE. NO CHARGE
+                                                                                           answer_label answer_value raw_counts relative_frequency
+0  BUSINESS PRINCIPLES AND MANAGEMENT: PRACTICAL PROBLEMS OF ESTABLISHING AND MANAGING A SMALL BUSINESS          1.0         65               0.07
+1                                                                                            NOT CHOSEN          2.0        934               0.93
+
+
+
+S132A.Q54A.2 THE FOLLOWING IS A LIST OF 27 HIGH SCHOOL AND JUNIOR COLLEGE COURSES WHICH THE ARMY PLANS TO OFFER TO SOLDIERS, BETWEEN THE TIME GERMANY AND JAPAN ARE DEFEATED AND THE TIME SOLDIERS ARE BEING RELEASED FROM THE ARMY TO GO BACK TO CIVILIAN LIFE. NO CHARGE
+                                                                        answer_label answer_value raw_counts relative_frequency
+0  BOOKKEEPING: FUNDAMENTALS OF DEBITS, CREDITS, AND USE OF SIMPLE BOOKKEEPING FORMS          1.0         22               0.02
+1                                                                         NOT CHOSEN          2.0        977               0.98
+
+
+
+S132A.Q54A.3 THE FOLLOWING IS A LIST OF 27 HIGH SCHOOL AND JUNIOR COLLEGE COURSES WHICH THE ARMY PLANS TO OFFER TO SOLDIERS, BETWEEN THE TIME GERMANY AND JAPAN ARE DEFEATED AND THE TIME SOLDIERS ARE BEING RELEASED FROM THE ARMY TO GO BACK TO CIVILIAN LIFE. NO CHARGE
+                                                                               answer_label answer_value raw_counts relative_frequency
+0  BUSINESS ARITHMETIC: AS USED IN PURCHASING, SELLING, TRADING, BANKING, REAL ESTATE, ETC.          1.0         15               0.02
+1                                                                                NOT CHOSEN          2.0        984               0.98
+
+
+
+S132A.Q54A.4 THE FOLLOWING IS A LIST OF 27 HIGH SCHOOL AND JUNIOR COLLEGE COURSES WHICH THE ARMY PLANS TO OFFER TO SOLDIERS, BETWEEN THE TIME GERMANY AND JAPAN ARE DEFEATED AND THE TIME SOLDIERS ARE BEING RELEASED FROM THE ARMY TO GO BACK TO CIVILIAN LIFE. NO CHARGE
+                                                                    answer_label answer_value raw_counts relative_frequency
+0  BUSINESS ENGLISH: FUNDAMENTALS OF CORRECT SPEECH AND WRITING USED IN BUSINESS          1.0         28               0.03
+1                                                                     NOT CHOSEN          2.0        971               0.97
+
+
+
+S132A.Q54A.5 THE FOLLOWING IS A LIST OF 27 HIGH SCHOOL AND JUNIOR COLLEGE COURSES WHICH THE ARMY PLANS TO OFFER TO SOLDIERS, BETWEEN THE TIME GERMANY AND JAPAN ARE DEFEATED AND THE TIME SOLDIERS ARE BEING RELEASED FROM THE ARMY TO GO BACK TO CIVILIAN LIFE. NO CHARGE
+                                                                answer_label answer_value raw_counts relative_frequency
+0  BUSINESS LAW: PRINCIPLES OF LAW AS APPLIED TO EVERY-DAY BUSINESS PROBLEMS          1.0         25               0.03
+1                                                                 NOT CHOSEN          2.0        974               0.97
+
+
+
+S132A.Q54A.6 THE FOLLOWING IS A LIST OF 27 HIGH SCHOOL AND JUNIOR COLLEGE COURSES WHICH THE ARMY PLANS TO OFFER TO SOLDIERS, BETWEEN THE TIME GERMANY AND JAPAN ARE DEFEATED AND THE TIME SOLDIERS ARE BEING RELEASED FROM THE ARMY TO GO BACK TO CIVILIAN LIFE. NO CHARGE
+                                                            answer_label answer_value raw_counts relative_frequency
+0  SALESMANSHIP: BASIC PRINCIPLES; EMPHASIZES PRACTICAL SELLING PROBLEMS          1.0         29               0.03
+1                                                             NOT CHOSEN          2.0        970               0.97
+
+
+
+S132A.Q54A.7 THE FOLLOWING IS A LIST OF 27 HIGH SCHOOL AND JUNIOR COLLEGE COURSES WHICH THE ARMY PLANS TO OFFER TO SOLDIERS, BETWEEN THE TIME GERMANY AND JAPAN ARE DEFEATED AND THE TIME SOLDIERS ARE BEING RELEASED FROM THE ARMY TO GO BACK TO CIVILIAN LIFE. NO CHARGE
+                                                                   answer_label answer_value raw_counts relative_frequency
+0  SUPERVISION AND FOREMANSHIP: PROBLEMS OF DIRECTING AND SUPERVISING EMPLOYEES          1.0         31               0.03
+1                                                                    NOT CHOSEN          2.0        968               0.97
+
+
+
+S132A.Q54A.8 THE FOLLOWING IS A LIST OF 27 HIGH SCHOOL AND JUNIOR COLLEGE COURSES WHICH THE ARMY PLANS TO OFFER TO SOLDIERS, BETWEEN THE TIME GERMANY AND JAPAN ARE DEFEATED AND THE TIME SOLDIERS ARE BEING RELEASED FROM THE ARMY TO GO BACK TO CIVILIAN LIFE. NO CHARGE
+                                                                       answer_label answer_value raw_counts relative_frequency
+0  PERSONNEL MANAGEMENT: HANDLING LABOR RELATIONS IN MODERN INDUSTRY AND GOVERNMENT          1.0         29               0.03
+1                                                                        NOT CHOSEN          2.0        970               0.97
+
+
+
+S132A.Q54A.9 THE FOLLOWING IS A LIST OF 27 HIGH SCHOOL AND JUNIOR COLLEGE COURSES WHICH THE ARMY PLANS TO OFFER TO SOLDIERS, BETWEEN THE TIME GERMANY AND JAPAN ARE DEFEATED AND THE TIME SOLDIERS ARE BEING RELEASED FROM THE ARMY TO GO BACK TO CIVILIAN LIFE. NO CHARGE
+                                                            answer_label answer_value raw_counts relative_frequency
+0  ADVERTISING: ELEMENTARY PRINCIPLES; MEDIA, LAYOUT, COPY-WRITING, ETC.          1.0         20               0.02
+1                                                             NOT CHOSEN          2.0        979               0.98
+
+
+
+S132A.Q54A.10 THE FOLLOWING IS A LIST OF 27 HIGH SCHOOL AND JUNIOR COLLEGE COURSES WHICH THE ARMY PLANS TO OFFER TO SOLDIERS, BETWEEN THE TIME GERMANY AND JAPAN ARE DEFEATED AND THE TIME SOLDIERS ARE BEING RELEASED FROM THE ARMY TO GO BACK TO CIVILIAN LIFE. NO CHARGE
+                                                                                           answer_label answer_value raw_counts relative_frequency
+0  PLANNING YOUR POST-WAR CAREER: BASIS FOR CHOICE OF A CAREER; PROSPECTS IN INDUSTRIES AND OCCUPATIONS          1.0         25               0.03
+1                                                                                            NOT CHOSEN          2.0        974               0.97
+
+
+
+S132A.Q54A.11 THE FOLLOWING IS A LIST OF 27 HIGH SCHOOL AND JUNIOR COLLEGE COURSES WHICH THE ARMY PLANS TO OFFER TO SOLDIERS, BETWEEN THE TIME GERMANY AND JAPAN ARE DEFEATED AND THE TIME SOLDIERS ARE BEING RELEASED FROM THE ARMY TO GO BACK TO CIVILIAN LIFE. NO CHARGE
+                                                              answer_label answer_value raw_counts relative_frequency
+0  THE AMERICAN WAY: HISTORY AND GROWTH OF AMERICAN IDEAS AND INSTITUTIONS          1.0          4                0.0
+1                                                               NOT CHOSEN          2.0        995                1.0
+
+
+
+S132A.Q54A.12 THE FOLLOWING IS A LIST OF 27 HIGH SCHOOL AND JUNIOR COLLEGE COURSES WHICH THE ARMY PLANS TO OFFER TO SOLDIERS, BETWEEN THE TIME GERMANY AND JAPAN ARE DEFEATED AND THE TIME SOLDIERS ARE BEING RELEASED FROM THE ARMY TO GO BACK TO CIVILIAN LIFE. NO CHARGE
+                                                                                     answer_label answer_value raw_counts relative_frequency
+0  INTERNATIONAL RELATIONS: ECONOMIC, SOCIAL, AND POLITICAL PROBLEMS OF INTERNATIONAL COOPERATION          1.0         10               0.01
+1                                                                                      NOT CHOSEN          2.0        989               0.99
+
+
+
+S132A.Q54A.13 THE FOLLOWING IS A LIST OF 27 HIGH SCHOOL AND JUNIOR COLLEGE COURSES WHICH THE ARMY PLANS TO OFFER TO SOLDIERS, BETWEEN THE TIME GERMANY AND JAPAN ARE DEFEATED AND THE TIME SOLDIERS ARE BEING RELEASED FROM THE ARMY TO GO BACK TO CIVILIAN LIFE. NO CHARGE
+                                                                     answer_label answer_value raw_counts relative_frequency
+0  AMERICAN ECONOMIC PROBLEMS: UNEMPLOYMENT, WASTE, TAXATION, FOREIGN TRADE, ETC.          1.0          7               0.01
+1                                                                      NOT CHOSEN          2.0        992               0.99
+
+
+
+S132A.Q54A.14 THE FOLLOWING IS A LIST OF 27 HIGH SCHOOL AND JUNIOR COLLEGE COURSES WHICH THE ARMY PLANS TO OFFER TO SOLDIERS, BETWEEN THE TIME GERMANY AND JAPAN ARE DEFEATED AND THE TIME SOLDIERS ARE BEING RELEASED FROM THE ARMY TO GO BACK TO CIVILIAN LIFE. NO CHARGE
+                                                                                       answer_label answer_value raw_counts relative_frequency
+0  AMERICAN GOVERNMENT: PRINCIPLES AND PROBLEMS OF PRESENT-DAY LOCAL, STATE, AND FEDERAL GOVERNMENT          1.0          5               0.01
+1                                                                                        NOT CHOSEN          2.0        994               0.99
+
+
+
+S132A.Q54A.15 THE FOLLOWING IS A LIST OF 27 HIGH SCHOOL AND JUNIOR COLLEGE COURSES WHICH THE ARMY PLANS TO OFFER TO SOLDIERS, BETWEEN THE TIME GERMANY AND JAPAN ARE DEFEATED AND THE TIME SOLDIERS ARE BEING RELEASED FROM THE ARMY TO GO BACK TO CIVILIAN LIFE. NO CHARGE
+                                                                 answer_label answer_value raw_counts relative_frequency
+0  PHYSICAL SCIENCES: INTRODUCTION TO PHYSICS, CHEMISTRY, AND ALLIED SCIENCES          1.0          9               0.01
+1                                                                  NOT CHOSEN          2.0        990               0.99
+
+
+
+S132A.Q54A.16 THE FOLLOWING IS A LIST OF 27 HIGH SCHOOL AND JUNIOR COLLEGE COURSES WHICH THE ARMY PLANS TO OFFER TO SOLDIERS, BETWEEN THE TIME GERMANY AND JAPAN ARE DEFEATED AND THE TIME SOLDIERS ARE BEING RELEASED FROM THE ARMY TO GO BACK TO CIVILIAN LIFE. NO CHARGE
+                                                          answer_label answer_value raw_counts relative_frequency
+0  PSYCHOLOGY: PRINCIPLES OF HUMAN BEHAVIOR; GETTING ALONG WITH PEOPLE          1.0         11               0.01
+1                                                           NOT CHOSEN          2.0        988               0.99
+
+
+
+S132A.Q54A.17 THE FOLLOWING IS A LIST OF 27 HIGH SCHOOL AND JUNIOR COLLEGE COURSES WHICH THE ARMY PLANS TO OFFER TO SOLDIERS, BETWEEN THE TIME GERMANY AND JAPAN ARE DEFEATED AND THE TIME SOLDIERS ARE BEING RELEASED FROM THE ARMY TO GO BACK TO CIVILIAN LIFE. NO CHARGE
+                                                                                     answer_label answer_value raw_counts relative_frequency
+0  LANGUAGE: INTRODUCTORY COURSE IN THE LANGUAGE OF THE COUNTRY IN WHICH THE SOLDIER IS STATIONED          1.0         23               0.02
+1                                                                                      NOT CHOSEN          2.0        976               0.98
+
+
+
+S132A.Q54A.18 THE FOLLOWING IS A LIST OF 27 HIGH SCHOOL AND JUNIOR COLLEGE COURSES WHICH THE ARMY PLANS TO OFFER TO SOLDIERS, BETWEEN THE TIME GERMANY AND JAPAN ARE DEFEATED AND THE TIME SOLDIERS ARE BEING RELEASED FROM THE ARMY TO GO BACK TO CIVILIAN LIFE. NO CHARGE
+                                                                           answer_label answer_value raw_counts relative_frequency
+0  GENERAL AGRICULTURE: DESCRIBES PROBLEMS AND ADVANTAGES OF DIFFERENT KINDS OF FARMING          1.0         15               0.02
+1                                                                            NOT CHOSEN          2.0        984               0.98
+
+
+
+S132A.Q54A.19 THE FOLLOWING IS A LIST OF 27 HIGH SCHOOL AND JUNIOR COLLEGE COURSES WHICH THE ARMY PLANS TO OFFER TO SOLDIERS, BETWEEN THE TIME GERMANY AND JAPAN ARE DEFEATED AND THE TIME SOLDIERS ARE BEING RELEASED FROM THE ARMY TO GO BACK TO CIVILIAN LIFE. NO CHARGE
+                                                                      answer_label answer_value raw_counts relative_frequency
+0  FARM MANAGEMENT: PRACTICAL PROBLEMS; CROP ROTATION, FINANCIAL CREDIT, MARKETING          1.0         20               0.02
+1                                                                       NOT CHOSEN          2.0        979               0.98
+
+
+
+S132A.Q54A.20 THE FOLLOWING IS A LIST OF 27 HIGH SCHOOL AND JUNIOR COLLEGE COURSES WHICH THE ARMY PLANS TO OFFER TO SOLDIERS, BETWEEN THE TIME GERMANY AND JAPAN ARE DEFEATED AND THE TIME SOLDIERS ARE BEING RELEASED FROM THE ARMY TO GO BACK TO CIVILIAN LIFE. NO CHARGE
+                                                                             answer_label answer_value raw_counts relative_frequency
+0  BEGINNING RADIO: FUNDAMENTAL THEORY AND PRINCIPLES, ELEMENTARY SYMBOLS AND TERMINOLOGY          1.0         32               0.03
+1                                                                              NOT CHOSEN          2.0        967               0.97
+
+
+
+S132A.Q54A.21 THE FOLLOWING IS A LIST OF 27 HIGH SCHOOL AND JUNIOR COLLEGE COURSES WHICH THE ARMY PLANS TO OFFER TO SOLDIERS, BETWEEN THE TIME GERMANY AND JAPAN ARE DEFEATED AND THE TIME SOLDIERS ARE BEING RELEASED FROM THE ARMY TO GO BACK TO CIVILIAN LIFE. NO CHARGE
+                                                                             answer_label answer_value raw_counts relative_frequency
+0  BEGINNING ELECTRICITY: BASIC PRINCIPLES OF ELECTRICITY AND THEIR PRACTICAL APPLICATION          1.0         44               0.04
+1                                                                              NOT CHOSEN          2.0        955               0.96
+
+
+
+S132A.Q54A.22 THE FOLLOWING IS A LIST OF 27 HIGH SCHOOL AND JUNIOR COLLEGE COURSES WHICH THE ARMY PLANS TO OFFER TO SOLDIERS, BETWEEN THE TIME GERMANY AND JAPAN ARE DEFEATED AND THE TIME SOLDIERS ARE BEING RELEASED FROM THE ARMY TO GO BACK TO CIVILIAN LIFE. NO CHARGE
+                                                                      answer_label answer_value raw_counts relative_frequency
+0  REVIEW ARITHMETIC: REVIEW OF ADDITION, SUBTRACTION, MULTIPLICATION AND DIVISION          1.0         13               0.01
+1                                                                       NOT CHOSEN          2.0        986               0.99
+
+
+
+S132A.Q54A.23 THE FOLLOWING IS A LIST OF 27 HIGH SCHOOL AND JUNIOR COLLEGE COURSES WHICH THE ARMY PLANS TO OFFER TO SOLDIERS, BETWEEN THE TIME GERMANY AND JAPAN ARE DEFEATED AND THE TIME SOLDIERS ARE BEING RELEASED FROM THE ARMY TO GO BACK TO CIVILIAN LIFE. NO CHARGE
+                                                                               answer_label answer_value raw_counts relative_frequency
+0  AUTO MECHANICS: PRINCIPLES OF GAS ENGINE OPERATION; EMPHASIS ON ENGINE THEORY AND DESIGN          1.0         59               0.06
+1                                                                                NOT CHOSEN          2.0        940               0.94
+
+
+
+S132A.Q54A.24 THE FOLLOWING IS A LIST OF 27 HIGH SCHOOL AND JUNIOR COLLEGE COURSES WHICH THE ARMY PLANS TO OFFER TO SOLDIERS, BETWEEN THE TIME GERMANY AND JAPAN ARE DEFEATED AND THE TIME SOLDIERS ARE BEING RELEASED FROM THE ARMY TO GO BACK TO CIVILIAN LIFE. NO CHARGE
+                                                          answer_label answer_value raw_counts relative_frequency
+0  MECHANICAL DRAFTING: ESSENTIAL PRINCIPLES AND PRACTICES OF DRAFTING          1.0         21               0.02
+1                                                           NOT CHOSEN          2.0        978               0.98
+
+
+
+S132A.Q54A.25 THE FOLLOWING IS A LIST OF 27 HIGH SCHOOL AND JUNIOR COLLEGE COURSES WHICH THE ARMY PLANS TO OFFER TO SOLDIERS, BETWEEN THE TIME GERMANY AND JAPAN ARE DEFEATED AND THE TIME SOLDIERS ARE BEING RELEASED FROM THE ARMY TO GO BACK TO CIVILIAN LIFE. NO CHARGE
+                                                                   answer_label answer_value raw_counts relative_frequency
+0  BLUE PRINT READING: EMPHASIS ON BLUEPRINTS OF COMMONLY USED MECHANICAL PARTS          1.0         36               0.04
+1                                                                    NOT CHOSEN          2.0        963               0.96
+
+
+
+S132A.Q54A.26 THE FOLLOWING IS A LIST OF 27 HIGH SCHOOL AND JUNIOR COLLEGE COURSES WHICH THE ARMY PLANS TO OFFER TO SOLDIERS, BETWEEN THE TIME GERMANY AND JAPAN ARE DEFEATED AND THE TIME SOLDIERS ARE BEING RELEASED FROM THE ARMY TO GO BACK TO CIVILIAN LIFE. NO CHARGE
+                                                                                    answer_label answer_value raw_counts relative_frequency
+0  SHOP MATHEMATICS: ARITHMETIC, ALGEBRA, GEOMETRY, AND TRIGONOMETRY IN MACHINE AND OTHER TRADES          1.0         31               0.03
+1                                                                                     NOT CHOSEN          2.0        968               0.97
+
+
+
+S132A.Q54A.27 THE FOLLOWING IS A LIST OF 27 HIGH SCHOOL AND JUNIOR COLLEGE COURSES WHICH THE ARMY PLANS TO OFFER TO SOLDIERS, BETWEEN THE TIME GERMANY AND JAPAN ARE DEFEATED AND THE TIME SOLDIERS ARE BEING RELEASED FROM THE ARMY TO GO BACK TO CIVILIAN LIFE. NO CHARGE
+                                                            answer_label answer_value raw_counts relative_frequency
+0  CARPENTRY: BASIC PRINCIPLES OF CARPENTRY AND USE OF WOODWORKING TOOLS          1.0         29               0.03
+1                                                             NOT CHOSEN          2.0        970               0.97
+
+
+
+S132A.Q54A.28 THE FOLLOWING IS A LIST OF 27 HIGH SCHOOL AND JUNIOR COLLEGE COURSES WHICH THE ARMY PLANS TO OFFER TO SOLDIERS, BETWEEN THE TIME GERMANY AND JAPAN ARE DEFEATED AND THE TIME SOLDIERS ARE BEING RELEASED FROM THE ARMY TO GO BACK TO CIVILIAN LIFE. NO CHARGE
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0         41               0.04
+1   NOT CHOSEN          2.0        958               0.96
+
+
+
+S132A.Q54B HOW INTERESTED WOULD YOU BE IN TAKING THESE COURSES IN THE ARMY?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0         57               0.06
+1    VERY MUCH INTERESTED          1.0        135               0.14
+2  PRETTY MUCH INTERESTED          2.0         51               0.05
+3  NOT SO MUCH INTERESTED          3.0         13               0.01
+4   NOT INTERESTED AT ALL          4.0         17               0.02
+5      INDETERMINATE CODE          5.0        726               0.73
+
+
+
+S132A.Q54D HOW MANY YEARS WERE YOU WORKING AT A FULL TIME JOB IN CIVILIAN LIFE BEFORE YOU ENTERED THE ARMY?
+                                     answer_label answer_value raw_counts relative_frequency
+0                                       NO ANSWER          0.0         57               0.06
+1                                LESS THAN 1 YEAR          1.0          2                0.0
+2                                          1 YEAR          2.0         17               0.02
+3     OVER 1 YEAR UP TO BUT NOT INCLUDING 2 YEARS          3.0          9               0.01
+4         2 YEARS UP TO BUT NOT INCLUDING 3 YEARS          4.0         28               0.03
+5         3 YEARS UP TO BUT NOT INCLUDING 4 YEARS          5.0         21               0.02
+6         4 YEARS UP TO BUT NOT INCLUDING 5 YEARS          6.0         24               0.02
+7                                         5 YEARS          7.0         18               0.02
+8   OVER 5 YEARS UP TO BUT NOT INCLUDING 10 YEARS          8.0         41               0.04
+9                                        10 YEARS          9.0          5               0.01
+10                                  OVER 10 YEARS         10.0         29               0.03
+11                               I WASN'T WORKING         11.0         22               0.02
+12                             INDETERMINATE CODE         12.0        726               0.73
+
+
+
