@@ -1,4 +1,4 @@
-Mon Aug 29 21:09:54 2022
+Tue Aug 30 20:06:09 2022
 S218U.Q76 in new questions but missing from input SPSS file
 S218U.Q77.n in new questions but missing from input SPSS file
 S218U.Q78.n in new questions but missing from input SPSS file
@@ -12,16 +12,3 @@ S40O.Q55B.6 in new questions but missing from input SPSS file
 S40O.Q55B.7 in new questions but missing from input SPSS file
 S40O.Q55B.8 in new questions but missing from input SPSS file
 S40O.Q55B.9 in new questions but missing from input SPSS file
-S40O.Q55B.10 in new questions but missing from input SPSS file
-S40O.Q55B.11 in new questions but missing from input SPSS file
-S40O.Q55B.12 in new questions but missing from input SPSS file
-S40O.Q55B.13 in new questions but missing from input SPSS file
-S40O.Q55B.14 in new questions but missing from input SPSS file
-S40O.Q55B.15 in new questions but missing from input SPSS file
-S40O.Q55B.16 in new questions but missing from input SPSS file
-S40O.Q55B.17 in new questions but missing from input SPSS file
-S40O.Q55B.18 in new questions but missing from input SPSS file
-S40O.Q55B.19 in new questions but missing from input SPSS file
-S40O.Q55B.20 in new questions but missing from input SPSS file
-S40O.Q55B.21 in new questions but missing from input SPSS file
-S40O.Q55B.22 in new questions but missing from input SPSS file

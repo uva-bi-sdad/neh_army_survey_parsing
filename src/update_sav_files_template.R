@@ -37,6 +37,7 @@ for (s in surveys_unq) {
     
     # check if question is in both question and answer files
     q_and_a <- nrow(answers[question_id == q]) > 0
+    
     # check if question is in SPSS file
     q_in_spss <- !is.null(tbl_haven_labelled[[q]])
     
@@ -47,16 +48,18 @@ for (s in surveys_unq) {
                          append = TRUE)
     }
     
-    if (q_and_a == TRUE & q_in_spss == TRUE) {
+    if (q_in_spss == TRUE) {
       # assign question text ('label' in SPSS)
       attr(tbl_haven_labelled[[q]], "label") <- survey_qs[i]$question
       
-      # assign potential answers texts (labels in SPSS)
-      #- build replacement named vector of labels
-      labels_nmd_vec <- as.double(answers[question_id==q]$position)
-      names(labels_nmd_vec) <- answers[question_id==q]$label
-      #- replace named vectors of labels
-      attr(tbl_haven_labelled[[q]], "labels") <- labels_nmd_vec
+      if (q_and_a == TRUE) {
+        # assign potential answers texts (labels in SPSS)
+        #- build replacement named vector of labels
+        labels_nmd_vec <- as.double(answers[question_id==q]$position)
+        names(labels_nmd_vec) <- answers[question_id==q]$label
+        #- replace named vectors of labels
+        attr(tbl_haven_labelled[[q]], "labels") <- labels_nmd_vec
+      }
     }
   }
   
