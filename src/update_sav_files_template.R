@@ -15,6 +15,8 @@ sav_files <- list.files(input_dir, pattern = "*.sav", full.names = T)
 
 # get unique survey identifiers
 surveys_unq <- unique(questions[parent_id!= "" & parent_id!= "X"]$parent_id)
+surveys_unq <- surveys_unq[surveys_unq %like% "S32N"]
+
 
 # start log
 readr::write_lines(paste0(date()),
