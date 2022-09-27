@@ -1,0 +1,1415 @@
+FORMFORM
+            answer_label answer_value raw_counts relative_frequency
+0  S-040E - ENLISTED MEN          1.0       3028                1.0
+
+
+
+S40E.Q1 WHAT IS YOUR RANK OR GRADE?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0         16               0.01
+1                             PRIVATE          1.0       1584               0.52
+2                 PRIVATE FIRST CLASS          2.0        658               0.22
+3                TECHNICIAN 5TH GRADE          3.0        169               0.06
+4                            CORPORAL          4.0        214               0.07
+5                TECHNICIAN 4TH GRADE          5.0         85               0.03
+6                            SERGEANT          6.0        138               0.05
+7                TECHNICIAN 3RD GRADE          7.0          3                0.0
+8                      STAFF SERGEANT          8.0        127               0.04
+9                  TECHNICAL SERGEANT          9.0          5                0.0
+10  MASTER SERGEANT OR FIRST SERGEANT         10.0         29               0.01
+
+
+
+S40E.Q2 IN WHAT STATE OF THE UNITED STATES DID YOU SPEND MOST OF THE PAST FIVE YEARS OF YOUR CIVILIAN LIFE?
+                                                                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                                                                  NO ANSWER          0.0        198               0.07
+1                                       NEW ENGLAND: CONNECTICUT, MAINE, MASSACHUSETTS, NEW HAMPSHIRE, RHODE ISLAND, VERMONT          1.0        217               0.07
+2                                                                        MIDDLE ATLANTIC: NEW JERSEY, NEW YORK, PENNSYLVANIA          2.0        763               0.25
+3                                                           EAST NORTH CENTRAL: ILLINOIS, INDIANA, MICHIGAN, OHIO, WISCONSIN          3.0        652               0.22
+4                                WEST NORTH CENTRAL: IOWA, KANSAS, MINNESOTA, MISSOURI, NEBRASKA, NORTH DAKOTA, SOUTH DAKOTA          4.0        234               0.08
+5   SOUTH ATLANTIC: DELAWARE, DISTRICT OF COLUMBIA, FLORIDA, GEORGIA, MARYLAND, NORTH CAROLINA, SOUTH CAROLINA, VIRGINIA, WE          5.0        258               0.09
+6                                                              EAST SOUTH CENTRAL: ALABAMA, KENTUCKY, MISSISSIPPI, TENNESSEE          6.0        244               0.08
+7                                                                   WEST SOUTH CENTRAL: ARKANSAS, LOUISIANA, OKLAHOMA, TEXAS          7.0        250               0.08
+8                                             MOUNTAIN: ARIZONA, COLORADO, IDAHO, MONTANA, NEVADA, NEW MEXICO, UTAH, WYOMING          8.0         69               0.02
+9                                                                                    PACIFIC: CALIFORNIA, OREGON, WASHINGTON          9.0        134               0.04
+10                                                                                                 FOREIGN - U.S. POSSESSION         10.0          2                0.0
+11                                                                                                U.S. - STATE NOT SPECIFIED         12.0          7                0.0
+
+
+
+S40E.Q3 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         11                0.0
+1  19 YEARS OR YOUNGER          1.0        473               0.16
+2             20 YEARS          2.0        330               0.11
+3       21 TO 24 YEARS          3.0       1004               0.33
+4       25 TO 29 YEARS          4.0        703               0.23
+5       30 TO 34 YEARS          5.0        328               0.11
+6     35 YEARS OR OVER          6.0        179               0.06
+
+
+
+S40E.Q4 HOW FAR DID YOU GO IN SCHOOL?
+                       answer_label answer_value raw_counts relative_frequency
+0                         NO ANSWER          0.0         13                0.0
+1               LESS THAN 6TH GRADE          1.0        127               0.04
+2                FINISHED 6TH GRADE          2.0        144               0.05
+3                FINISHED 7TH GRADE          3.0        238               0.08
+4                FINISHED 8TH GRADE          4.0        574               0.19
+5  SOME HIGH SCHOOL OR TRADE SCHOOL          5.0        925               0.31
+6        GRADUATED FROM HIGH SCHOOL          6.0        770               0.25
+7   SOME COLLEGE BUT DID NOT FINISH          7.0        196               0.06
+8                  COLLEGE GRADUATE          8.0         41               0.01
+
+
+
+S40E.Q5.x ARE YOU SINGLE, MARRIED, DIVORCED, WIDOWED OR SEPARATED?  Q.6. IF YOU ARE MARRIED, DID YOU GET MARRIED BEFORE OR AFTER ENTERING THE ARMY?
+                        answer_label answer_value raw_counts relative_frequency
+0                          NO ANSWER          0.0         13                0.0
+1                             SINGLE          1.0       2121                0.7
+2                           DIVORCED          2.0         54               0.02
+3                            WIDOWED          3.0         10                0.0
+4                          SEPARATED          4.0         16               0.01
+5  MARRIED, BEFORE ENTERING THE ARMY          5.0        512               0.17
+6   MARRIED, AFTER ENTERING THE ARMY          6.0        300                0.1
+7                 MARRIED, NO ANSWER          7.0          2                0.0
+
+
+
+S40E.Q7 IF YOU ARE OR HAVE BEEN MARRIED, HOW MANY CHILDREN DO YOU HAVE?
+              answer_label answer_value raw_counts relative_frequency
+0                      ONE          1.0        240               0.08
+1                      TWO          2.0         35               0.01
+2            THREE OR MORE          3.0         14                0.0
+3                     NONE          4.0        610                0.2
+4  INAPPLICABLE, NO ANSWER          9.0       2129                0.7
+
+
+
+S40E.Q8 HOW LONG HAVE YOU BEEN IN THE ARMY?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         11                0.0
+1              3 MONTHS OR LESS          1.0        731               0.24
+2  OVER 3 MONTHS UP TO 6 MONTHS          2.0        421               0.14
+3    OVER 6 MONTHS UP TO 1 YEAR          3.0        927               0.31
+4                   OVER 1 YEAR          4.0        938               0.31
+
+
+
+S40E.Q9 WHEN YOU ENTERED THE ARMY, DID YOU COME IN AS A:
+                        answer_label answer_value raw_counts relative_frequency
+0                          NO ANSWER          0.0         18               0.01
+1  DRAFTEE THROUGH SELECTIVE SERVICE          1.0       2391               0.79
+2                          VOLUNTEER          2.0        498               0.16
+3       MEMBER OF THE NATIONAL GUARD          3.0        121               0.04
+
+
+
+S40E.Q10 WHAT BRANCH OF SERVICE ARE YOU IN?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0          5                0.0
+1          CAVALRY          1.0          3                0.0
+2        ENGINEERS          2.0          1                0.0
+3         INFANTRY          3.0       2407               0.79
+4  FIELD ARTILLERY          4.0        612                0.2
+
+
+
+S40E.Q11 WHAT WAS YOUR MAIN CIVILIAN OCCUPATION?
+                                                                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                                                                  NO ANSWER          0.0         55               0.02
+1    PROFESSIONAL OR SEMI-PROFESSIONAL OCCUPATION (I.E. DOCTORS, DENTISTS, LAWYERS, TEACHERS, ENGINEERS, SOCIAL WORKERS, ETC          1.0         91               0.03
+2                                       CLERICAL AND SALES OCCUPATIONS (I.E. BOOKKEEPERS, CLERKS, TELEPHONE OPERATORS, ETC.)          2.0        336               0.11
+3   SERVICE OCCUPATIONS (I.E. DOMESTIC SERVICE: COOKS, SERVANTS, ETC.; PERSONAL SERVICE: DOORMEN, USHERS, BEAUTICIANS, BARBE          3.0         99               0.03
+4                        AGRICULTURE, FISHERY, AND FORESTRY (EXCEPT LOGGING) (I.E. FARMERS, FISHERMEN, HUNTERS AND TRAPPERS)          4.0        644               0.21
+5                         SKILLED OCCUPATIONS (I.E. CARPENTERS, PRESSMEN, TYPOGRAPHERS, WEAVERS, JEWELERS, TOOLMAKERS, ETC.)          5.0        590               0.19
+6                                                                                                   SEMI-SKILLED OCCUPATIONS          6.0        581               0.19
+7                                                       UNSKILLED OCCUPATIONS (INCLUDING FACTORY WORKERS, JOB NOT SPECIFIED)          7.0        341               0.11
+8                                                                                     MANAGERIAL AND OFFICIALS (HIGHER TYPE)          8.0         81               0.03
+9                                                                                    MERCHANTS, SHOPKEEPERS, TRADESMEN, ETC.          9.0         22               0.01
+10                                                                                                                   STUDENT         10.0         83               0.03
+11                                                                                              MISCELLANEOUS UNCLASSIFIABLE         11.0        100               0.03
+12                                                                                     UNEMPLOYED (INCLUDING CCC, WPA, ETC.)         12.0          5                0.0
+
+
+
+S40E.Q12 WHAT KIND OF WORK WOULD YOU LIKE TO DO AFTER THE WAR?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                         NO ANSWER          0.0         66               0.02
+1  STAY IN ARMY OR ANYTHING ELSE, PLUS STAY IN ARMY          1.0         62               0.02
+2                       SAME GENERAL LINE AS BEFORE          2.0       1725               0.57
+3                                    NEW OCCUPATION          3.0        741               0.24
+4                                             OTHER          4.0        113               0.04
+5                             NO IDEA OR DON'T KNOW          5.0        321               0.11
+
+
+
+S40E.Q13 WHAT KIND OF A CHANCE DO YOU THINK YOU WILL HAVE OF ACTUALLY DOING THIS KIND OF WORK?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        211               0.07
+1         GOOD          1.0       1628               0.54
+2         FAIR          2.0        724               0.24
+3         POOR          3.0        191               0.06
+4    UNCERTAIN          4.0        274               0.09
+
+
+
+S40E.Q14A.x BEFORE THE WAR, DID YOU HAVE THE SAME JOB PLANS FOR THE FUTURE THAT YOU HAVE NOW?  Q.14B. IF BEFORE THE WAR YOUR JOB PLANS WERE DIFFERENT FROM NOW, WHAT DID YOU THEN HAVE IN MIND?
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0                                                                                                                 NO ANSWER          0.0         69               0.02
+1                                                                                        NO, CONTINUE IN SAME JOB AS BEFORE          1.0        119               0.04
+2  NO, PLANNED TO ADVANCE IN SOME LINE OF WORK AS BEFORE E.G. "GO INTO BUSINESS FOR MYSELF", "BECOME PARTNER IN FIRM FOR WH          2.0         62               0.02
+3                                                                                                    NO, CONTINUE EDUCATION          3.0         29               0.01
+4                                                                                    NO, PLANNED TO GO INTO A DIFFERENT JOB          4.0        225               0.07
+5                                                                        NO, STAY IN THE ARMY A WHILE, THEN GO BACK TO WORK          5.0         11                0.0
+6                                                                                           NO, NOTHING DEFINITE, UNCERTAIN          6.0         75               0.02
+7                                                                                                             NO, NO ANSWER          7.0        170               0.06
+8                                                                                                             YES TO PART A          8.0       2268               0.75
+
+
+
+S40E.Q15 DO YOU FEEL THAT YOU NEED ANY MORE FORMAL EDUCATION IN ORDER TO DO WHAT YOU WANT TO DO AFTER THE WAR?
+                       answer_label answer_value raw_counts relative_frequency
+0                         NO ANSWER          0.0         79               0.03
+1   YES, IT IS ABSOLUTELY NECESSARY          1.0        451               0.15
+2  YES, IT WOULD BE QUITE IMPORTANT          2.0        994               0.33
+3                    NO, NOT NEEDED          3.0       1173               0.39
+4   NOT SURE WHAT I WILL WANT TO DO          4.0        331               0.11
+
+
+
+S40E.Q16 DO YOU THINK YOU WILL GO TO SCHOOL OR COLLEGE AFTER THE WAR?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         29               0.01
+1          YES          1.0        399               0.13
+2           NO          2.0       1943               0.64
+3    UNCERTAIN          3.0        657               0.22
+
+
+
+S40E.Q17A DO YOU THINK YOU SHOULD BE GETTING MORE OF ANY KIND OF DRILL OR INSTRUCTION THAN YOU GET NOW?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0         41               0.01
+1  VERY MUCH MORE          1.0        550               0.18
+2       SOME MORE          2.0       1104               0.36
+3         NO MORE          3.0       1333               0.44
+
+
+
+S40E.Q17B.1 IF MORE OF ANY KIND OF DRILL OR INSTRUCTION IS NEEDED, JUST WHAT IS NEEDED? E. BASIC TRAINING:
+                                                answer_label answer_value raw_counts relative_frequency
+0  DRILL (CLOSE-ORDER DRILL, MANUAL OF ARMS, MARCHING, ETC.)          1.0        156               0.05
+1                                                 NOT CHOSEN          2.0       2872               0.95
+
+
+
+S40E.Q17B.2IF MORE OF ANY KIND OF DRILL OR INSTRUCTION IS NEEDED, JUST WHAT IS NEEDED? E. BASIC TRAINING:
+                                      answer_label answer_value raw_counts relative_frequency
+0  TRAINING IN DISCIPLINE, MILITARY COURTESY, ETC.          1.0         32               0.01
+1                                       NOT CHOSEN          2.0       2996               0.99
+
+
+
+S40E.Q17B.3IF MORE OF ANY KIND OF DRILL OR INSTRUCTION IS NEEDED, JUST WHAT IS NEEDED? E. BASIC TRAINING:
+            answer_label answer_value raw_counts relative_frequency
+0  PHYSICAL CONDITIONING          1.0         94               0.03
+1             NOT CHOSEN          2.0       2934               0.97
+
+
+
+S40E.Q17B.4IF MORE OF ANY KIND OF DRILL OR INSTRUCTION IS NEEDED, JUST WHAT IS NEEDED? E. BASIC TRAINING:
+                                     answer_label answer_value raw_counts relative_frequency
+0  BACKGROUND INFORMATION ABOUT ARMS AND SERVICES          1.0         13                0.0
+1                                      NOT CHOSEN          2.0       3015                1.0
+
+
+
+S40E.Q17B.5IF MORE OF ANY KIND OF DRILL OR INSTRUCTION IS NEEDED, JUST WHAT IS NEEDED? E. BASIC TRAINING:
+                                                          answer_label answer_value raw_counts relative_frequency
+0  MORE REASONS SHOULD BE GIVEN FOR INSTRUCTIONS OR DRILL FOR TRAINING          1.0          8                0.0
+1                                                           NOT CHOSEN          2.0       3020                1.0
+
+
+
+S40E.Q17B.6IF MORE OF ANY KIND OF DRILL OR INSTRUCTION IS NEEDED, JUST WHAT IS NEEDED? E. BASIC TRAINING:
+                                                 answer_label answer_value raw_counts relative_frequency
+0        JUST "BASIC" OR "BASIC TRAINING" WITHOUT EXPLANATION          1.0         17               0.01
+1  NOT CHOSEN E. TACTICAL TRAINING FOR VARIOUS UNITS (KINDS):          2.0       3011               0.99
+
+
+
+S40E.Q17B.7IF MORE OF ANY KIND OF DRILL OR INSTRUCTION IS NEEDED, JUST WHAT IS NEEDED? E. TACTICAL TRAINING FOR VARIOUS UNITS (KINDS):
+                                                      answer_label answer_value raw_counts relative_frequency
+0  INDIVIDUAL TRAINING FOR RESPONSIBILITY AND INITIATIVE IN COMBAT          1.0         51               0.02
+1                                                       NOT CHOSEN          2.0       2977               0.98
+
+
+
+S40E.Q17B.8IF MORE OF ANY KIND OF DRILL OR INSTRUCTION IS NEEDED, JUST WHAT IS NEEDED? E. TACTICAL TRAINING FOR VARIOUS UNITS (KINDS):
+              answer_label answer_value raw_counts relative_frequency
+0  SCOUTING AND PATROLLING          1.0         40               0.01
+1               NOT CHOSEN          2.0       2988               0.99
+
+
+
+S40E.Q17B.9IF MORE OF ANY KIND OF DRILL OR INSTRUCTION IS NEEDED, JUST WHAT IS NEEDED? E. TACTICAL TRAINING FOR VARIOUS UNITS (KINDS):
+                                                          answer_label answer_value raw_counts relative_frequency
+0  "SMALL UNIT" (SQUAD, PLATOON, OR COMPANY) TACTICS OR PROBLEMS; RSOP          1.0         40               0.01
+1                                                           NOT CHOSEN          2.0       2988               0.99
+
+
+
+S40E.Q17B.10IF MORE OF ANY KIND OF DRILL OR INSTRUCTION IS NEEDED, JUST WHAT IS NEEDED? E. TACTICAL TRAINING FOR VARIOUS UNITS (KINDS):
+                                                                     answer_label answer_value raw_counts relative_frequency
+0  LARGE UNIT (BATTALION, REGIMENT OR DIVISION) TACTICS OR PROBLEMS AND MANEUVERS          1.0         12                0.0
+1                                                                      NOT CHOSEN          2.0       3016                1.0
+
+
+
+S40E.Q17B.11IF MORE OF ANY KIND OF DRILL OR INSTRUCTION IS NEEDED, JUST WHAT IS NEEDED? E. TACTICAL TRAINING FOR VARIOUS UNITS (KINDS):
+                                     answer_label answer_value raw_counts relative_frequency
+0  HAND TO HAND COMBAT TRAINING - SELF PROTECTION          1.0         35               0.01
+1                                      NOT CHOSEN          2.0       2993               0.99
+
+
+
+S40E.Q17B.12IF MORE OF ANY KIND OF DRILL OR INSTRUCTION IS NEEDED, JUST WHAT IS NEEDED? E. TACTICAL TRAINING FOR VARIOUS UNITS (KINDS):
+                                              answer_label answer_value raw_counts relative_frequency
+0  TRAINING IN ENEMY TACTICS, OR TACTICS OF OTHER BRANCHES          1.0         11                0.0
+1                                               NOT CHOSEN          2.0       3017                1.0
+
+
+
+S40E.Q17B.13IF MORE OF ANY KIND OF DRILL OR INSTRUCTION IS NEEDED, JUST WHAT IS NEEDED? E. TACTICAL TRAINING FOR VARIOUS UNITS (KINDS):
+                                               answer_label answer_value raw_counts relative_frequency
+0  JUST "TACTICS", "TACTICAL TRAINING", ETC. - INFILTRATION          1.0        158               0.05
+1           NOT CHOSEN E. CONDITIONS OF TRAINING - REALISM:          2.0       2870               0.95
+
+
+
+S40E.Q17B.14IF MORE OF ANY KIND OF DRILL OR INSTRUCTION IS NEEDED, JUST WHAT IS NEEDED? E. CONDITIONS OF TRAINING - REALISM:
+                         answer_label answer_value raw_counts relative_frequency
+0  COMMANDO TRAINING, RANGER TRAINING          1.0          9                0.0
+1                          NOT CHOSEN          2.0       3019                1.0
+
+
+
+S40E.Q17B.15IF MORE OF ANY KIND OF DRILL OR INSTRUCTION IS NEEDED, JUST WHAT IS NEEDED? E. CONDITIONS OF TRAINING - REALISM:
+     answer_label answer_value raw_counts relative_frequency
+0  NIGHT PROBLEMS          1.0         27               0.01
+1      NOT CHOSEN          2.0       3001               0.99
+
+
+
+S40E.Q17B.16IF MORE OF ANY KIND OF DRILL OR INSTRUCTION IS NEEDED, JUST WHAT IS NEEDED? E. CONDITIONS OF TRAINING - REALISM:
+                                         answer_label answer_value raw_counts relative_frequency
+0  TRAINING FOR VARIED TERRAIN (JUNGLE, DESERT, ETC.)          1.0         17               0.01
+1                                          NOT CHOSEN          2.0       3011               0.99
+
+
+
+S40E.Q17B.17IF MORE OF ANY KIND OF DRILL OR INSTRUCTION IS NEEDED, JUST WHAT IS NEEDED? E. CONDITIONS OF TRAINING - REALISM:
+                                                      answer_label answer_value raw_counts relative_frequency
+0  TRAINING WITH LIVE AMMUNITION, FIRING AT SURPRISE TARGETS, ETC.          1.0         47               0.02
+1                                                       NOT CHOSEN          2.0       2981               0.98
+
+
+
+S40E.Q17B.18IF MORE OF ANY KIND OF DRILL OR INSTRUCTION IS NEEDED, JUST WHAT IS NEEDED? E. CONDITIONS OF TRAINING - REALISM:
+                      answer_label answer_value raw_counts relative_frequency
+0  ACTUAL COMBAT LIVING CONDITIONS          1.0          7                0.0
+1                       NOT CHOSEN          2.0       3021                1.0
+
+
+
+S40E.Q17B.19IF MORE OF ANY KIND OF DRILL OR INSTRUCTION IS NEEDED, JUST WHAT IS NEEDED? E. CONDITIONS OF TRAINING - REALISM:
+                                                    answer_label answer_value raw_counts relative_frequency
+0  OPERATION OF VEHICLES UNDER COMBAT OR OTHER SPECIAL EQUIPMENT          1.0         17               0.01
+1                                                     NOT CHOSEN          2.0       3011               0.99
+
+
+
+S40E.Q17B.20IF MORE OF ANY KIND OF DRILL OR INSTRUCTION IS NEEDED, JUST WHAT IS NEEDED? E. CONDITIONS OF TRAINING - REALISM:
+                                                               answer_label answer_value raw_counts relative_frequency
+0  "MORE REALISTIC TRAINING" - NOT SPECIFICALLY DESIGNATED (MORE PRACTICAL)          1.0        143               0.05
+1                                      NOT CHOSEN E. TRAINING WITH WEAPONS:          2.0       2885               0.95
+
+
+
+S40E.Q17B.21IF MORE OF ANY KIND OF DRILL OR INSTRUCTION IS NEEDED, JUST WHAT IS NEEDED? E. TRAINING WITH WEAPONS:
+                                                        answer_label answer_value raw_counts relative_frequency
+0  MORE FIRING OF WEAPONS, "FIRING", "SHOOTING", COMBAT RANGE FIRING          1.0        295                0.1
+1                                                         NOT CHOSEN          2.0       2733                0.9
+
+
+
+S40E.Q17B.22IF MORE OF ANY KIND OF DRILL OR INSTRUCTION IS NEEDED, JUST WHAT IS NEEDED? E. TRAINING WITH WEAPONS:
+                                                                              answer_label answer_value raw_counts relative_frequency
+0  MORE TECHNICAL KNOWLEDGE ON WEAPONS AND THEIR USE; USE OF RANGE FINDERS, AIMING CIRCLES          1.0        174               0.06
+1                                                                               NOT CHOSEN          2.0       2854               0.94
+
+
+
+S40E.Q17B.23IF MORE OF ANY KIND OF DRILL OR INSTRUCTION IS NEEDED, JUST WHAT IS NEEDED? E. TRAINING WITH WEAPONS:
+                                                                        answer_label answer_value raw_counts relative_frequency
+0  TRAINING WITH WEAPONS OTHER THAN THOSE THAT ONE REGULARLY USED, AUXILIARY WEAPONS          1.0         48               0.02
+1                                                                         NOT CHOSEN          2.0       2980               0.98
+
+
+
+S40E.Q17B.24IF MORE OF ANY KIND OF DRILL OR INSTRUCTION IS NEEDED, JUST WHAT IS NEEDED? E. TRAINING WITH WEAPONS:
+                            answer_label answer_value raw_counts relative_frequency
+0  BAYONET PRACTICE, HAND GRENADES, ETC.          1.0         59               0.02
+1                             NOT CHOSEN          2.0       2969               0.98
+
+
+
+S40E.Q17B.25IF MORE OF ANY KIND OF DRILL OR INSTRUCTION IS NEEDED, JUST WHAT IS NEEDED? E. TRAINING WITH WEAPONS:
+    answer_label answer_value raw_counts relative_frequency
+0  DIRECT LAYING          1.0          6                0.0
+1     NOT CHOSEN          2.0       3022                1.0
+
+
+
+S40E.Q17B.26IF MORE OF ANY KIND OF DRILL OR INSTRUCTION IS NEEDED, JUST WHAT IS NEEDED? E. TRAINING WITH WEAPONS:
+                       answer_label answer_value raw_counts relative_frequency
+0  MECHANIZED AND ANTI-TANK DEFENSE          1.0          9                0.0
+1                        NOT CHOSEN          2.0       3019                1.0
+
+
+
+S40E.Q17B.27IF MORE OF ANY KIND OF DRILL OR INSTRUCTION IS NEEDED, JUST WHAT IS NEEDED? E. TRAINING WITH WEAPONS:
+            answer_label answer_value raw_counts relative_frequency
+0  ANTI-AIRCRAFT DEFENSE          1.0          3                0.0
+1             NOT CHOSEN          2.0       3025                1.0
+
+
+
+S40E.Q17B.28IF MORE OF ANY KIND OF DRILL OR INSTRUCTION IS NEEDED, JUST WHAT IS NEEDED? E. TRAINING WITH WEAPONS:
+                                                         answer_label answer_value raw_counts relative_frequency
+0  TRAINING WITH WEAPONS REGULARLY USED RATHER THAN AUXILIARY WEAPONS          1.0         19               0.01
+1                                                          NOT CHOSEN          2.0       3009               0.99
+
+
+
+S40E.Q17B.29IF MORE OF ANY KIND OF DRILL OR INSTRUCTION IS NEEDED, JUST WHAT IS NEEDED? E. TRAINING WITH WEAPONS:
+                                   answer_label answer_value raw_counts relative_frequency
+0            JUST "WEAPONS" OR ANY NAMED WEAPON          1.0         29               0.01
+1  NOT CHOSEN E. SPECIAL TECHNICAL INSTRUCTION:          2.0       2999               0.99
+
+
+
+S40E.Q17B.30IF MORE OF ANY KIND OF DRILL OR INSTRUCTION IS NEEDED, JUST WHAT IS NEEDED? E. SPECIAL TECHNICAL INSTRUCTION:
+                                    answer_label answer_value raw_counts relative_frequency
+0  TRAINING OF NON-COMMISSIONED OFFICERS (NCO'S)          1.0          7                0.0
+1                                     NOT CHOSEN          2.0       3021                1.0
+
+
+
+S40E.Q17B.31IF MORE OF ANY KIND OF DRILL OR INSTRUCTION IS NEEDED, JUST WHAT IS NEEDED? E. SPECIAL TECHNICAL INSTRUCTION:
+                answer_label answer_value raw_counts relative_frequency
+0  MAP READING, COMPASS WORK          1.0         78               0.03
+1                 NOT CHOSEN          2.0       2950               0.97
+
+
+
+S40E.Q17B.32IF MORE OF ANY KIND OF DRILL OR INSTRUCTION IS NEEDED, JUST WHAT IS NEEDED? E. SPECIAL TECHNICAL INSTRUCTION:
+  answer_label answer_value raw_counts relative_frequency
+0   CAMOUFLAGE          1.0         19               0.01
+1   NOT CHOSEN          2.0       3009               0.99
+
+
+
+S40E.Q17B.33IF MORE OF ANY KIND OF DRILL OR INSTRUCTION IS NEEDED, JUST WHAT IS NEEDED? E. SPECIAL TECHNICAL INSTRUCTION:
+                                          answer_label answer_value raw_counts relative_frequency
+0  DEMOLITION AND BOOBY TRAPS, ROAD BLOCKS, LAND MINES          1.0          4                0.0
+1                                           NOT CHOSEN          2.0       3024                1.0
+
+
+
+S40E.Q17B.34IF MORE OF ANY KIND OF DRILL OR INSTRUCTION IS NEEDED, JUST WHAT IS NEEDED? E. SPECIAL TECHNICAL INSTRUCTION:
+                 answer_label answer_value raw_counts relative_frequency
+0  SIGNALLING, COMMUNICATIONS          1.0         20               0.01
+1                  NOT CHOSEN          2.0       3008               0.99
+
+
+
+S40E.Q17B.35IF MORE OF ANY KIND OF DRILL OR INSTRUCTION IS NEEDED, JUST WHAT IS NEEDED? E. SPECIAL TECHNICAL INSTRUCTION:
+             answer_label answer_value raw_counts relative_frequency
+0  GAS - CHEMICAL WARFARE          1.0         43               0.01
+1              NOT CHOSEN          2.0       2985               0.99
+
+
+
+S40E.Q17B.36IF MORE OF ANY KIND OF DRILL OR INSTRUCTION IS NEEDED, JUST WHAT IS NEEDED? E. SPECIAL TECHNICAL INSTRUCTION:
+                                            answer_label answer_value raw_counts relative_frequency
+0  IDENTIFICATION OF AIRCRAFT, TANKS AND OTHER EQUIPMENT          1.0          5                0.0
+1                                             NOT CHOSEN          2.0       3023                1.0
+
+
+
+S40E.Q17B.37IF MORE OF ANY KIND OF DRILL OR INSTRUCTION IS NEEDED, JUST WHAT IS NEEDED? E. SPECIAL TECHNICAL INSTRUCTION:
+         answer_label answer_value raw_counts relative_frequency
+0  AIRBOURNE TRAINING          1.0          1                0.0
+1          NOT CHOSEN          2.0       3027                1.0
+
+
+
+S40E.Q17B.38IF MORE OF ANY KIND OF DRILL OR INSTRUCTION IS NEEDED, JUST WHAT IS NEEDED? E. SPECIAL TECHNICAL INSTRUCTION:
+                                                                                         answer_label answer_value raw_counts relative_frequency
+0  "TECHNICAL TRAINING", "SPECIALIZED TRAINING", ETC. MOTOR MAINTENANCE, MATHEMATICS, ENEMY EQUIPMENT          1.0         91               0.03
+1                                                                                          NOT CHOSEN          2.0       2937               0.97
+
+
+
+S40E.Q17B.39IF MORE OF ANY KIND OF DRILL OR INSTRUCTION IS NEEDED, JUST WHAT IS NEEDED? E. SPECIAL TECHNICAL INSTRUCTION:
+                                                      answer_label answer_value raw_counts relative_frequency
+0  MISCELLANEOUS REMARKS NOT MENTIONED ELSEWHERE UNDER ANY HEADING          1.0        306                0.1
+1                                                       NOT CHOSEN          2.0       2722                0.9
+
+
+
+S40E.Q18A DO YOU THINK THAT SOME OF THE DRILL OR INSTRUCTION YOU ARE NOW GETTING IS NOT NEEDED TO MAKE MEN GOOD SOLDIERS?
+               answer_label answer_value raw_counts relative_frequency
+0                 NO ANSWER          0.0        110               0.04
+1  MUCH OF IT IS NOT NEEDED          1.0        223               0.07
+2  SOME OF IT IS NOT NEEDED          2.0        802               0.26
+3       ALL OF IT IS NEEDED          3.0       1893               0.63
+
+
+
+S40E.Q18B.1 IF SOME OF THE DRILL OR INSTRUCTION NOW GIVEN IS NOT NEEDED, JUST WHAT IS NOT NEEDED? E. OBJECTION IS TO KIND OF DRILL OR INSTRUCTION NOW GIVEN:
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0  "EYE-WASH" OR "SPIT AND POLISH" (E.G. FORMATIONS; INSPECTIONS; REVIEWS; PARADES; GUARD MOUNT; EMPHASIS ON SALUTING, MILI          1.0        164               0.05
+1                                                                                                                NOT CHOSEN          2.0       2864               0.95
+
+
+
+S40E.Q18B.2IF SOME OF THE DRILL OR INSTRUCTION NOW GIVEN IS NOT NEEDED, JUST WHAT IS NOT NEEDED? E. OBJECTION IS TO KIND OF DRILL OR INSTRUCTION NOW GIVEN:
+                        answer_label answer_value raw_counts relative_frequency
+0  CLOSE-ORDER DRILL; MANUAL OF ARMS          1.0        112               0.04
+1                         NOT CHOSEN          2.0       2916               0.96
+
+
+
+S40E.Q18B.3IF SOME OF THE DRILL OR INSTRUCTION NOW GIVEN IS NOT NEEDED, JUST WHAT IS NOT NEEDED? E. OBJECTION IS TO KIND OF DRILL OR INSTRUCTION NOW GIVEN:
+                                                                                                         answer_label answer_value raw_counts relative_frequency
+0  HOUSEKEEPING DUTIES; GARRISON TRAINING OR DRILL (E.G. POLICING BARRACKS AND AREA; KP; FATIGUE DETAILS; GUARD DUTY)          1.0         70               0.02
+1                                                                                                          NOT CHOSEN          2.0       2958               0.98
+
+
+
+S40E.Q18B.4IF SOME OF THE DRILL OR INSTRUCTION NOW GIVEN IS NOT NEEDED, JUST WHAT IS NOT NEEDED? E. OBJECTION IS TO KIND OF DRILL OR INSTRUCTION NOW GIVEN:
+                                           answer_label answer_value raw_counts relative_frequency
+0  PHYSICAL TRAINING (EITHER TOO MUCH OR TOO STRENUOUS)          1.0         25               0.01
+1                                            NOT CHOSEN          2.0       3003               0.99
+
+
+
+S40E.Q18B.5IF SOME OF THE DRILL OR INSTRUCTION NOW GIVEN IS NOT NEEDED, JUST WHAT IS NOT NEEDED? E. OBJECTION IS TO KIND OF DRILL OR INSTRUCTION NOW GIVEN:
+                                       answer_label answer_value raw_counts relative_frequency
+0  HIKING AND MARCHING, WHEN NOT REFERRING TO SPEED          1.0        119               0.04
+1                                        NOT CHOSEN          2.0       2909               0.96
+
+
+
+S40E.Q18B.6IF SOME OF THE DRILL OR INSTRUCTION NOW GIVEN IS NOT NEEDED, JUST WHAT IS NOT NEEDED? E. OBJECTION IS TO KIND OF DRILL OR INSTRUCTION NOW GIVEN:
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0  FIELD TRAINING, TACTICS AND MANEUVERS (E.G. SQUAD TACTICS; EXTENDED ORDER DRILL; SCOUTING AND PATROLLING; FIELD PROBLEMS          1.0         34               0.01
+1                                                                                                                NOT CHOSEN          2.0       2994               0.99
+
+
+
+S40E.Q18B.7IF SOME OF THE DRILL OR INSTRUCTION NOW GIVEN IS NOT NEEDED, JUST WHAT IS NOT NEEDED? E. OBJECTION IS TO KIND OF DRILL OR INSTRUCTION NOW GIVEN:
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0  DETAILED, TECHNICAL AND/OR PRELIMINARY INSTRUCTION (E.G. DRY RUNS; NOMENCLATURE; INSTRUCTION ON TYPE OF WEAPONS OR OTHER          1.0         61               0.02
+1                                                                                                                NOT CHOSEN          2.0       2967               0.98
+
+
+
+S40E.Q18B.8IF SOME OF THE DRILL OR INSTRUCTION NOW GIVEN IS NOT NEEDED, JUST WHAT IS NOT NEEDED? E. OBJECTION IS TO KIND OF DRILL OR INSTRUCTION NOW GIVEN:
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0  SPECIFIC REFERENCE TO ONE OR MORE AUXILIARY SUBJECTS, NOT PART OF ACTUAL COMBAT TRAINING (E.G. GAS DRILL; CAMOUFLAGE; MA          1.0         13                0.0
+1                                                                                                                NOT CHOSEN          2.0       3015                1.0
+
+
+
+S40E.Q18B.9IF SOME OF THE DRILL OR INSTRUCTION NOW GIVEN IS NOT NEEDED, JUST WHAT IS NOT NEEDED? E. OBJECTION IS TO KIND OF DRILL OR INSTRUCTION NOW GIVEN:
+                                                                                            answer_label answer_value raw_counts relative_frequency
+0  SPEED MARCHING (INCLUDING "MARCHING", PLUS REFERENCE TO DISTANCE AND TIME); DOUBLE-TIMING; 1-MILE JOG          1.0        154               0.05
+1                                                                                             NOT CHOSEN          2.0       2874               0.95
+
+
+
+S40E.Q18B.10IF SOME OF THE DRILL OR INSTRUCTION NOW GIVEN IS NOT NEEDED, JUST WHAT IS NOT NEEDED? E. OBJECTION IS TO KIND OF DRILL OR INSTRUCTION NOW GIVEN:
+                                           answer_label answer_value raw_counts relative_frequency
+0  OTHER - INCLUDING BASIC TRAINING; RIFLE MARKSMANSHIP          1.0         92               0.03
+1                                            NOT CHOSEN          2.0       2936               0.97
+
+
+
+FORM..1FORM.
+            answer_label answer_value raw_counts relative_frequency
+0  S-040E - ENLISTED MEN          1.0       3028                1.0
+
+
+
+S40E.Q18B.11 IF SOME OF THE DRILL OR INSTRUCTION NOW GIVEN IS NOT NEEDED, JUST WHAT IS NOT NEEDED? E. OBJECTION IS TO THE WAY DRILL OR INSTRUCTION IS GIVEN OR PLANNED:
+                               answer_label answer_value raw_counts relative_frequency
+0  TOO ROUTINE OR REPETITIOUS, BORING, ETC.          1.0         66               0.02
+1                                NOT CHOSEN          2.0       2962               0.98
+
+
+
+S40E.Q18B.12IF SOME OF THE DRILL OR INSTRUCTION NOW GIVEN IS NOT NEEDED, JUST WHAT IS NOT NEEDED? E. OBJECTION IS TO THE WAY DRILL OR INSTRUCTION IS GIVEN OR PLANNED:
+                                               answer_label answer_value raw_counts relative_frequency
+0  AIMLESS, NOT PLANNED; POORLY PLANNED; IRREGULAR SCHEDULE          1.0         72               0.02
+1                                                NOT CHOSEN          2.0       2956               0.98
+
+
+
+S40E.Q18B.13IF SOME OF THE DRILL OR INSTRUCTION NOW GIVEN IS NOT NEEDED, JUST WHAT IS NOT NEEDED? E. OBJECTION IS TO THE WAY DRILL OR INSTRUCTION IS GIVEN OR PLANNED:
+                         answer_label answer_value raw_counts relative_frequency
+0  TRAINING GIVEN MERELY TO KILL TIME          1.0          4                0.0
+1                          NOT CHOSEN          2.0       3024                1.0
+
+
+
+S40E.Q18B.14IF SOME OF THE DRILL OR INSTRUCTION NOW GIVEN IS NOT NEEDED, JUST WHAT IS NOT NEEDED? E. OBJECTION IS TO THE WAY DRILL OR INSTRUCTION IS GIVEN OR PLANNED:
+                          answer_label answer_value raw_counts relative_frequency
+0  TOO MANY LECTURES; TOO MANY CLASSES          1.0         30               0.01
+1                           NOT CHOSEN          2.0       2998               0.99
+
+
+
+S40E.Q18B.15IF SOME OF THE DRILL OR INSTRUCTION NOW GIVEN IS NOT NEEDED, JUST WHAT IS NOT NEEDED? E. OBJECTION IS TO THE WAY DRILL OR INSTRUCTION IS GIVEN OR PLANNED:
+         answer_label answer_value raw_counts relative_frequency
+0  MISPLACED EMPHASIS          1.0         75               0.02
+1          NOT CHOSEN          2.0       2953               0.98
+
+
+
+S40E.Q18B.16 IF SOME OF THE DRILL OR INSTRUCTION NOW GIVEN IS NOT NEEDED, JUST WHAT IS NOT NEEDED? E. OBJECTION IS TO THE WAY DRILL OR INSTRUCTION IS GIVEN OR PLANNED:
+                        answer_label answer_value raw_counts relative_frequency
+0  IMPOSITION ON MEN'S OWN FREE TIME          1.0         66               0.02
+1                         NOT CHOSEN          2.0       2962               0.98
+
+
+
+S40E.Q18B.17IF SOME OF THE DRILL OR INSTRUCTION NOW GIVEN IS NOT NEEDED, JUST WHAT IS NOT NEEDED? E. OBJECTION IS TO THE WAY DRILL OR INSTRUCTION IS GIVEN OR PLANNED:
+                                            answer_label answer_value raw_counts relative_frequency
+0  POOR OR INADEQUATE TEACHING METHODS; LACK OF PRACTICE          1.0         54               0.02
+1                                             NOT CHOSEN          2.0       2974               0.98
+
+
+
+S40E.Q18B.18IF SOME OF THE DRILL OR INSTRUCTION NOW GIVEN IS NOT NEEDED, JUST WHAT IS NOT NEEDED? E. OBJECTION IS TO THE WAY DRILL OR INSTRUCTION IS GIVEN OR PLANNED:
+  answer_label answer_value raw_counts relative_frequency
+0   NOT CHOSEN          2.0       3028                1.0
+
+
+
+S40E.Q18B.19IF SOME OF THE DRILL OR INSTRUCTION NOW GIVEN IS NOT NEEDED, JUST WHAT IS NOT NEEDED? E. OBJECTION IS TO THE WAY DRILL OR INSTRUCTION IS GIVEN OR PLANNED:
+  answer_label answer_value raw_counts relative_frequency
+0        OTHER          1.0         15                0.0
+1   NOT CHOSEN          2.0       3013                1.0
+
+
+
+S40E.Q18B.20IF SOME OF THE DRILL OR INSTRUCTION NOW GIVEN IS NOT NEEDED, JUST WHAT IS NOT NEEDED? E. OBJECTION IS TO THE WAY DRILL OR INSTRUCTION IS GIVEN OR PLANNED:
+              answer_label answer_value raw_counts relative_frequency
+0  INAPPLICABLE, NO ANSWER          1.0       2151               0.71
+1               NOT CHOSEN          2.0        877               0.29
+
+
+
+S40E.Q19 HOW MUCH CLOSE ORDER DRILL DO YOU GET?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0         18               0.01
+1                TOO MUCH          1.0        235               0.08
+2  ABOUT THE RIGHT AMOUNT          2.0       2235               0.74
+3              TOO LITTLE          3.0        539               0.18
+4                    NONE          4.0          1                0.0
+
+
+
+S40E.Q20 HAVE THE PHYSICAL TRAINING AND HARDENING EXERCISES YOU HAVE GOTTEN PUT YOU IN GOOD ALL-AROUND CONDITION OR NOT?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1      YES, THEY HAVE          1.0       1955               0.65
+2   NO, THEY HAVE NOT          2.0       1034               0.34
+3           NO ANSWER          3.0         37               0.01
+
+
+
+S40E.Q21 IS THE PHYSICAL TRAINING AND HARDENING PROGRAM TOO TOUGH FOR YOU?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         40               0.01
+1          YES          1.0        683               0.23
+2           NO          2.0       2305               0.76
+
+
+
+S40E.Q22 HOW MUCH TRAINING DO YOU GET IN ACTUALLY USING THE WEAPONS AND TOOLS YOU WILL NEED IN COMBAT?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0         30               0.01
+1                TOO MUCH          1.0         72               0.02
+2  ABOUT THE RIGHT AMOUNT          2.0       1555               0.51
+3              TOO LITTLE          3.0       1368               0.45
+4                    NONE          4.0          3                0.0
+
+
+
+S40E.Q23 HOW MUCH COVER AND CONCEALMENT PRACTICE DO YOU GET UNDER THE FIRE OF REAL AMMUNITION?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0        180               0.06
+1                TOO MUCH          1.0         58               0.02
+2  ABOUT THE RIGHT AMOUNT          2.0       1050               0.35
+3              TOO LITTLE          3.0       1558               0.51
+4                    NONE          4.0        182               0.06
+
+
+
+S40E.Q24 HOW MUCH HIKING DO YOU GET?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0         33               0.01
+1                TOO MUCH          1.0        968               0.32
+2  ABOUT THE RIGHT AMOUNT          2.0       1781               0.59
+3              TOO LITTLE          3.0        241               0.08
+4                    NONE          4.0          5                0.0
+
+
+
+S40E.Q25 HOW MANY TRAINING FILMS DO YOU GET?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0         14                0.0
+1                TOO MANY          1.0         90               0.03
+2  ABOUT THE RIGHT NUMBER          2.0       1398               0.46
+3                 TOO FEW          3.0       1525                0.5
+4                    NONE          4.0          1                0.0
+
+
+
+S40E.Q26 HOW MANY TRAINING LECTURES DO YOU GET?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0         23               0.01
+1                TOO MANY          1.0        262               0.09
+2  ABOUT THE RIGHT NUMBER          2.0       1969               0.65
+3                 TOO FEW          3.0        773               0.26
+4                    NONE          4.0          1                0.0
+
+
+
+S40E.Q27 HOW MANY TALKS ARE YOU GIVEN ON "WHAT THIS WAR IS ALL ABOUT"?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0         30               0.01
+1                TOO MANY          1.0         99               0.03
+2  ABOUT THE RIGHT NUMBER          2.0       1203                0.4
+3                 TOO FEW          3.0       1693               0.56
+4                    NONE          4.0          3                0.0
+
+
+
+S40E.Q28 HOW MANY OF THE NONCOMS YOU NOW SERVE UNDER ARE THE KIND YOU WOULD WANT TO SERVE UNDER IN COMBAT?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1     ALL OF THEM ARE          1.0        516               0.17
+2    MOST OF THEM ARE          2.0       1267               0.42
+3     FEW OF THEM ARE          3.0       1207                0.4
+4                NONE          4.0          3                0.0
+5           NO ANSWER          5.0         33               0.01
+
+
+
+S40E.Q29.1 LISTED BELOW ARE FIVE ABILITIES THAT A GOOD NONCOM IS SUPPOSED TO HAVE. PUT A NUMBER "1" IN FRONT OF THE ONE THAT YOU THINK IS MOST IMPORTANT. THEN PUT A NUMBER "2" IN FRONT OF THE ONE THAT YOU THINK IS SECOND IN IMPORTANCE. E. FIRST CHOICE:
+                                                   answer_label answer_value raw_counts relative_frequency
+0                                                     NO ANSWER          0.0        260               0.09
+1                         THE ABILITY TO EXPLAIN THINGS CLEARLY          1.0        513               0.17
+2                              THE ABILITY TO THINK FOR HIMSELF          2.0        400               0.13
+3              THE ABILITY TO HELP AND ADVISE THE MEN UNDER HIM          3.0        536               0.18
+4       THE ABILITY TO CARRY OUT ORDERS PROMPTLY AND ACCURATELY          4.0        726               0.24
+5  THE ABILITY TO GAIN THE PERSONAL LIKING OF THE MEN UNDER HIM          5.0        593                0.2
+
+
+
+S40E.Q29.2LISTED BELOW ARE FIVE ABILITIES THAT A GOOD NONCOM IS SUPPOSED TO HAVE. PUT A NUMBER "1" IN FRONT OF THE ONE THAT YOU THINK IS MOST IMPORTANT. THEN PUT A NUMBER "2" IN FRONT OF THE ONE THAT YOU THINK IS SECOND IN IMPORTANCE. E. SECOND CHOICE:
+                                                   answer_label answer_value raw_counts relative_frequency
+0                                                     NO ANSWER          0.0        429               0.14
+1                         THE ABILITY TO EXPLAIN THINGS CLEARLY          1.0        344               0.11
+2                              THE ABILITY TO THINK FOR HIMSELF          2.0        374               0.12
+3              THE ABILITY TO HELP AND ADVISE THE MEN UNDER HIM          3.0        734               0.24
+4       THE ABILITY TO CARRY OUT ORDERS PROMPTLY AND ACCURATELY          4.0        571               0.19
+5  THE ABILITY TO GAIN THE PERSONAL LIKING OF THE MEN UNDER HIM          5.0        576               0.19
+
+
+
+S40E.Q30 DURING TRAINING AND DRILL PERIODS, DO YOU HAVE TO SPEND TOO MUCH TIME WAITING AROUND AND DOING NOTHING? (THIS QUESTION DOES NOT APPLY TO REST PERIODS.)
+       answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER          0.0         20               0.01
+1    YES, EVERY DAY          1.0        256               0.08
+2  YES, QUITE OFTEN          2.0        427               0.14
+3     NO, NOT OFTEN          3.0       1352               0.45
+4         NO, NEVER          4.0        796               0.26
+5         UNDECIDED          5.0        177               0.06
+
+
+
+S40E.Q31 DO YOU FEEL THAT YOU ARE NOW TRAINED AND READY FOR COMBAT OR DO YOU NEED MORE TRAINING?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0         29               0.01
+1  I NEED A LITTLE MORE TRAINING          2.0       1017               0.34
+2       I'M READY FOR COMBAT NOW          1.0        651               0.21
+3     I NEED A LOT MORE TRAINING          3.0       1331               0.44
+
+
+
+S40E.Q32 WHICH OF THE FOLLOWING STATEMENTS BEST TELLS THE WAY YOU FEEL ABOUT GETTING INTO THE FIGHTING?
+                                                                             answer_label answer_value raw_counts relative_frequency
+0                                                                               NO ANSWER          0.0         19               0.01
+1                           I'M READY TO GO AND I WANT TO GET INTO THE REAL FIGHTING SOON          1.0        637               0.21
+2   I'D LIKE TO GET IN ON THE FIGHTING, BEFORE IT'S OVER, BUT I DON'T THINK I'M READY YET          2.0       1119               0.37
+3                       I HOPE I WON'T HAVE TO GO, BUT IF I DO, I THINK I'LL DO ALL RIGHT          3.0        790               0.26
+4          I HOPE I WON'T HAVE TO GO BECAUSE I DON'T THINK I'LL EVER BE GOOD AS A FIGHTER          4.0        233               0.08
+5                                                                 TOO OLD FOR COMBAT DUTY          5.0         18               0.01
+6                                                      NOT PHYSICALLY FIT FOR COMBAT DUTY          6.0         49               0.02
+7                                                               SHOULD BE IN WAR INDUSTRY          7.0         13                0.0
+8                                             LACK OF CONFIDENCE IN OFFICERS AND NON-COMS          8.0         26               0.01
+9                                                           WOULD PREFER TO BE INSTRUCTOR          9.0          2                0.0
+10                                OTHER COMMENTS INDICATING THAT MAN DOES NOT WISH COMBAT         10.0         47               0.02
+11                                            ALL OTHER - INCLUDING MORE THAN ONE CHECKED         11.0         75               0.02
+
+
+
+S40E.Q34A WITH GERMANY?
+                                                                        answer_label answer_value raw_counts relative_frequency
+0                                                                          NO ANSWER          0.0        217               0.07
+1                                         LESS THAN A YEAR; "1943"; ONE YEAR AT MOST          1.0        735               0.24
+2                ONE YEAR; NO MORE THAN A YEAR; ABOUT A YEAR; WILL BE OVER IN A YEAR          2.0        735               0.24
+3                           OVER ONE YEAR BUT LESS THAN TWO; "1944"; AT LEAST A YEAR          3.0        348               0.11
+4                                                                          TWO YEARS          4.0        362               0.12
+5                                         OVER TWO YEARS BUT LESS THAN THREE; "1945"          5.0         41               0.01
+6                                                                        THREE YEARS          6.0         63               0.02
+7                                                                   OVER THREE YEARS          7.0         45               0.01
+8                        INDEFINITE ANSWER INDICATING A SHORT TIME - E.G. "NOT LONG"          8.0         83               0.03
+9                INDEFINITE ANSWER INDICATING A LONG TIME - E.G. "SEVERAL YEARS YET"          9.0         34               0.01
+10  INDEFINITE ANSWER WITH NO INDICATION OF TIME - E.G. "WILL LAST UNTIL WE STOP IT"         10.0         42               0.01
+11                                                             DON'T KNOW, UNDECIDED         11.0        323               0.11
+
+
+
+S40E.Q34B WITH JAPAN?
+                                                                        answer_label answer_value raw_counts relative_frequency
+0                                                                          NO ANSWER          0.0        281               0.09
+1                                         LESS THAN A YEAR; "1943"; ONE YEAR AT MOST          1.0        358               0.12
+2                ONE YEAR; NO MORE THAN A YEAR; ABOUT A YEAR; WILL BE OVER IN A YEAR          2.0        452               0.15
+3                           OVER ONE YEAR BUT LESS THAN TWO; "1944"; AT LEAST A YEAR          3.0        473               0.16
+4                                                                          TWO YEARS          4.0        444               0.15
+5                                         OVER TWO YEARS BUT LESS THAN THREE; "1945"          5.0        149               0.05
+6                                                                        THREE YEARS          6.0        193               0.06
+7                                                                   OVER THREE YEARS          7.0        153               0.05
+8                        INDEFINITE ANSWER INDICATING A SHORT TIME - E.G. "NOT LONG"          8.0         62               0.02
+9                INDEFINITE ANSWER INDICATING A LONG TIME - E.G. "SEVERAL YEARS YET"          9.0         43               0.01
+10  INDEFINITE ANSWER WITH NO INDICATION OF TIME - E.G. "WILL LAST UNTIL WE STOP IT"         10.0         66               0.02
+11                                                             DON'T KNOW, UNDECIDED         11.0        354               0.12
+
+
+
+S40E.Q35 WHICH COMES CLOSEST TO YOUR IDEA OF HOW HARD IT IS GOING TO BE TO BEAT THE JAPANESE?
+                                                          answer_label answer_value raw_counts relative_frequency
+0                                                            NO ANSWER          0.0         34               0.01
+1                                             IT WILL NOT BE VERY HARD          1.0        308                0.1
+2         IT WILL BE A TOUGH JOB BUT OUR LOSSES SHOULDN'T BE TOO HEAVY          2.0       1549               0.51
+3  IT WILL BE A VERY TOUGH JOB, WITH HEAVY LOSSES OF MEN AND MATERIALS          3.0       1137               0.38
+
+
+
+S40E.Q36 WHICH COMES CLOSEST TO YOUR IDEA OF HOW HARD IT IS GOING TO BE TO BEAT THE GERMANS?
+                                                          answer_label answer_value raw_counts relative_frequency
+0                                                            NO ANSWER          0.0         33               0.01
+1                                             IT WILL NOT BE VERY HARD          1.0        555               0.18
+2         IT WILL BE A TOUGH JOB BUT OUR LOSSES SHOULDN'T BE TOO HEAVY          2.0       1288               0.43
+3  IT WILL BE A VERY TOUGH JOB, WITH HEAVY LOSSES OF MEN AND MATERIALS          3.0       1152               0.38
+
+
+
+S40E.Q37 IN GENERAL, DO YOU THINK THAT CIVILIANS IN THIS COUNTRY ARE TAKING THE WAR SERIOUSLY ENOUGH?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0         16               0.01
+1  ALMOST ALL OF THEM ARE          1.0        677               0.22
+2         A GOOD MANY ARE          2.0       1211                0.4
+3   SOME ARE BUT NOT MANY          3.0        836               0.28
+4          HARDLY ANY ARE          4.0        188               0.06
+5              NO OPINION          5.0        100               0.03
+
+
+
+S40E.Q38A DO YOU THINK IT IS AT ALL LIKELY THAT WE SHALL HAVE TO FIGHT THE BRITISH SOMETIME AFTER THE PRESENT WAR IS OVER?
+               answer_label answer_value raw_counts relative_frequency
+0                 NO ANSWER          0.0         43               0.01
+1       ALMOST NOT POSSIBLE          1.0        661               0.22
+2         NOT AT ALL LIKELY          2.0        918                0.3
+3  NOT LIKELY, BUT POSSIBLE          3.0       1212                0.4
+4               VERY LIKELY          4.0        141               0.05
+5            ALMOST CERTAIN          5.0         53               0.02
+
+
+
+S40E.Q38B.1 IF YOU THINK WAR WITH THE BRITISH IS AT ALL LIKELY, WHAT IS YOUR REASON FOR THINKING THIS?
+                           answer_label answer_value raw_counts relative_frequency
+0        CONFLICT OF ECONOMIC INTERESTS          1.0        105               0.03
+1                   BRITISH IMPERIALISM          2.0         68               0.02
+2              CHARACTER OF THE BRITISH          3.0        100               0.03
+3  FAILURE TO MAKE SUITABLE PEACE TERMS          4.0         88               0.03
+4                    HISTORICAL REASONS          5.0         32               0.01
+5                         MISCELLANEOUS          6.0        151               0.05
+6               INAPPLICABLE, NO ANSWER          9.0       2484               0.82
+
+
+
+S40E.Q38B.2 IF YOU THINK WAR WITH THE BRITISH IS AT ALL LIKELY, WHAT IS YOUR REASON FOR THINKING THIS?  E. CONFLICT OF ECONOMIC INTERESTS:
+                   answer_label answer_value raw_counts relative_frequency
+0  TRADE AND COMMERCIAL RIVALRY          1.0         15                0.0
+1                    NOT CHOSEN          2.0       3013                1.0
+
+
+
+S40E.Q38B.3 IF YOU THINK WAR WITH THE BRITISH IS AT ALL LIKELY, WHAT IS YOUR REASON FOR THINKING THIS? E. CONFLICT OF ECONOMIC INTERESTS:
+                               answer_label answer_value raw_counts relative_frequency
+0  DISPUTE OVER AIR LANES AND AIR SUPREMACY          1.0          3                0.0
+1                                NOT CHOSEN          2.0       3025                1.0
+
+
+
+S40E.Q38B.4IF YOU THINK WAR WITH THE BRITISH IS AT ALL LIKELY, WHAT IS YOUR REASON FOR THINKING THIS? E. CONFLICT OF ECONOMIC INTERESTS:
+                  answer_label answer_value raw_counts relative_frequency
+0  LEND-LEASE ACT DIFFICULTIES          1.0         41               0.01
+1                   NOT CHOSEN          2.0       2987               0.99
+
+
+
+S40E.Q38B.5IF YOU THINK WAR WITH THE BRITISH IS AT ALL LIKELY, WHAT IS YOUR REASON FOR THINKING THIS? E. CONFLICT OF ECONOMIC INTERESTS:
+          answer_label answer_value raw_counts relative_frequency
+0  CONTROL OF THE SEAS          1.0         10                0.0
+1           NOT CHOSEN          2.0       3018                1.0
+
+
+
+S40E.Q38B.6IF YOU THINK WAR WITH THE BRITISH IS AT ALL LIKELY, WHAT IS YOUR REASON FOR THINKING THIS? E. CONFLICT OF ECONOMIC INTERESTS:
+         answer_label answer_value raw_counts relative_frequency
+0  STRUGGLE FOR POWER          1.0         38               0.01
+1          NOT CHOSEN          2.0       2990               0.99
+
+
+
+S40E.Q38B.7E. BRITISH IMPERIALISM:
+                         answer_label answer_value raw_counts relative_frequency
+0  ENGLAND'S DESIRE TO GAIN TERRITORY          1.0         21               0.01
+1                          NOT CHOSEN          2.0       3007               0.99
+
+
+
+S40E.Q38B.8E. BRITISH IMPERIALISM:
+                    answer_label answer_value raw_counts relative_frequency
+0  RELUCTANCE TO BREAK UP EMPIRE          1.0         13                0.0
+1                     NOT CHOSEN          2.0       3015                1.0
+
+
+
+S40E.Q38B.9E. BRITISH IMPERIALISM:
+                          answer_label answer_value raw_counts relative_frequency
+0  BRITISH DESIRE FOR WORLD DOMINATION          1.0         26               0.01
+1                           NOT CHOSEN          2.0       3002               0.99
+
+
+
+S40E.Q38B.10E. CHARACTER OF THE BRITISH:
+       answer_label answer_value raw_counts relative_frequency
+0  SELFISH ATTITUDE          1.0         24               0.01
+1        NOT CHOSEN          2.0       3004               0.99
+
+
+
+S40E.Q38B.11E. CHARACTER OF THE BRITISH:
+               answer_label answer_value raw_counts relative_frequency
+0  CLEVER, DON'T TRUST THEM          1.0         39               0.01
+1                NOT CHOSEN          2.0       2989               0.99
+
+
+
+S40E.Q38B.12E. CHARACTER OF THE BRITISH:
+              answer_label answer_value raw_counts relative_frequency
+0  ATTITUDE OF SUPERIORITY          1.0         14                0.0
+1               NOT CHOSEN          2.0       3014                1.0
+
+
+
+S40E.Q38B.13E. FAILURE TO MAKE SUITABLE PEACE TERMS:
+                        answer_label answer_value raw_counts relative_frequency
+0  FOR BRITISH, HER SHARE IN THE WAR          1.0         14                0.0
+1                         NOT CHOSEN          2.0       3014                1.0
+
+
+
+S40E.Q38B.14E. FAILURE TO MAKE SUITABLE PEACE TERMS:
+              answer_label answer_value raw_counts relative_frequency
+0  BRITISH DEMANDS (OTHER)          1.0          2                0.0
+1               NOT CHOSEN          2.0       3026                1.0
+
+
+
+S40E.Q38B.15E. FAILURE TO MAKE SUITABLE PEACE TERMS:
+   answer_label answer_value raw_counts relative_frequency
+0  U.S. DEMANDS          1.0          3                0.0
+1    NOT CHOSEN          2.0       3025                1.0
+
+
+
+S40E.Q38B.16E. FAILURE TO MAKE SUITABLE PEACE TERMS:
+                     answer_label answer_value raw_counts relative_frequency
+0  TERRITORIAL DISPUTE IN GENERAL          1.0         19               0.01
+1                      NOT CHOSEN          2.0       3009               0.99
+
+
+
+S40E.Q38B.17E. HISTORICAL REASONS:
+                             answer_label answer_value raw_counts relative_frequency
+0  HAPPENED BEFORE, CAN HAPPEN AGAIN 3012          1.0         16               0.01
+1                              NOT CHOSEN          2.0       3012               0.99
+
+
+
+S40E.Q38B.18E. HISTORICAL REASONS:
+                                        answer_label answer_value raw_counts relative_frequency
+0  BRITISH BELIEF U.S. IS STILL PART OF BRITAIN 3022          1.0          6                0.0
+1                                         NOT CHOSEN          2.0       3022                1.0
+
+
+
+S40E.Q38B.19E. MISCELLANEOUS:
+           answer_label answer_value raw_counts relative_frequency
+0  ANYTHING IS POSSIBLE          1.0         40               0.01
+1            NOT CHOSEN          2.0       2988               0.99
+
+
+
+S40E.Q38B.20E. MISCELLANEOUS:
+                                    answer_label answer_value raw_counts relative_frequency
+0  MUTUAL DISTRUST, NO CONFIDENCE IN ONE ANOTHER          1.0          8                0.0
+1                                     NOT CHOSEN          2.0       3020                1.0
+
+
+
+S40E.Q38B.21E. MISCELLANEOUS:
+                               answer_label answer_value raw_counts relative_frequency
+0  U.S. SHOULD GET SOMETHING OUT OF THE WAR          1.0          2                0.0
+1                                NOT CHOSEN          2.0       3026                1.0
+
+
+
+S40E.Q39A DO YOU THINK IT IS AT ALL LIKELY WE SHALL HAVE TO FIGHT THE RUSSIANS SOMETIME AFTER THE PRESENT WAR IS OVER?
+               answer_label answer_value raw_counts relative_frequency
+0                 NO ANSWER          0.0         56               0.02
+1       ALMOST NOT POSSIBLE          1.0        377               0.12
+2         NOT AT ALL LIKELY          2.0        650               0.21
+3  NOT LIKELY, BUT POSSIBLE          3.0       1400               0.46
+4               VERY LIKELY          4.0        450               0.15
+5            ALMOST CERTAIN          5.0         95               0.03
+
+
+
+S40E.Q39B IF YOU THINK WAR WITH THE RUSSIANS IS AT ALL LIKELY, WHAT IS YOUR REASON FOR THINKING THIS?
+                                                        answer_label answer_value raw_counts relative_frequency
+0                                 DIFFERENCE BETWEEN U.S. AND RUSSIA          1.0        185               0.06
+1  RUSSIAN AMBITION TO SPREAD COMMUNISM AND DOMINATE OTHER COUNTRIES          2.0        306                0.1
+2             UNFRIENDLINESS AND SUSPICION BETWEEN RUSSIA AND ALLIES          3.0        158               0.05
+3                               FAILURE TO MAKE SUITABLE PEACE TERMS          4.0        181               0.06
+4                                                      MISCELLANEOUS          5.0        162               0.05
+5                                            INAPPLICABLE, NO ANSWER          9.0       2036               0.67
+
+
+
+S40E.V39C.1 FURTHER SPECIFIC ANSWERS TO Q.39B:
+               answer_label answer_value raw_counts relative_frequency
+0  DIFFERENCE IN GOVERNMENT          1.0        137               0.05
+1                NOT CHOSEN          2.0       2891               0.95
+
+
+
+S40E.V39C.2 FURTHER SPECIFIC ANSWERS TO Q.39B:
+        answer_label answer_value raw_counts relative_frequency
+0  VIEWS ON RELIGION          1.0          9                0.0
+1         NOT CHOSEN          2.0       3019                1.0
+
+
+
+S40E.V39C.3 FURTHER SPECIFIC ANSWERS TO Q.39B:
+  answer_label answer_value raw_counts relative_frequency
+0   NOT CHOSEN          2.0       3028                1.0
+
+
+
+S40E.V39C.4 FURTHER SPECIFIC ANSWERS TO Q.39B:
+                      answer_label answer_value raw_counts relative_frequency
+0  IDEALS, WAY OF LIFE, IDEOLOGIES          1.0         50               0.02
+1                       NOT CHOSEN          2.0       2978               0.98
+
+
+
+S40E.V39C.5FURTHER SPECIFIC ANSWERS TO Q.39B: X. NOTE THAT MAJOR CATEGORIES BELOW CORRESPOND CODES IN Q.39B. E. RUSSIAN AMBITION TO SPREAD COMMUNISM AND DOMINATE OTHER COUNTRIES:
+           answer_label answer_value raw_counts relative_frequency
+0  DOMINATE WHOLE WORLD          1.0         71               0.02
+1            NOT CHOSEN          2.0       2957               0.98
+
+
+
+S40E.V39C.6FURTHER SPECIFIC ANSWERS TO Q.39B: X. NOTE THAT MAJOR CATEGORIES BELOW CORRESPOND CODES IN Q.39B. E. RUSSIAN AMBITION TO SPREAD COMMUNISM AND DOMINATE OTHER COUNTRIES:
+         answer_label answer_value raw_counts relative_frequency
+0  CONTROL ALL EUROPE          1.0         19               0.01
+1          NOT CHOSEN          2.0       3009               0.99
+
+
+
+S40E.V39C.7FURTHER SPECIFIC ANSWERS TO Q.39B: X. NOTE THAT MAJOR CATEGORIES BELOW CORRESPOND CODES IN Q.39B. E. RUSSIAN AMBITION TO SPREAD COMMUNISM AND DOMINATE OTHER COUNTRIES:
+                                               answer_label answer_value raw_counts relative_frequency
+0  DETERMINE WHAT HAPPENS TO BEATEN COUNTRIES (OR OCCUPIED)          1.0         31               0.01
+1                                                NOT CHOSEN          2.0       2997               0.99
+
+
+
+S40E.V39C.8FURTHER SPECIFIC ANSWERS TO Q.39B: X. NOTE THAT MAJOR CATEGORIES BELOW CORRESPOND CODES IN Q.39B. E. RUSSIAN AMBITION TO SPREAD COMMUNISM AND DOMINATE OTHER COUNTRIES:
+                   answer_label answer_value raw_counts relative_frequency
+0  COMMUNISM IN U.S., RESOURCES          1.0         12                0.0
+1                    NOT CHOSEN          2.0       3016                1.0
+
+
+
+S40E.V39C.9FURTHER SPECIFIC ANSWERS TO Q.39B: X. NOTE THAT MAJOR CATEGORIES BELOW CORRESPOND CODES IN Q.39B. E. RUSSIAN AMBITION TO SPREAD COMMUNISM AND DOMINATE OTHER COUNTRIES:
+                                 answer_label answer_value raw_counts relative_frequency
+0  STRUGGLE FOR POWER BETWEEN RUSSIA AND U.S.          1.0         43               0.01
+1                                  NOT CHOSEN          2.0       2985               0.99
+
+
+
+S40E.V39C.10FURTHER SPECIFIC ANSWERS TO Q.39B: X. NOTE THAT MAJOR CATEGORIES BELOW CORRESPOND CODES IN Q.39B. E. RUSSIAN AMBITION TO SPREAD COMMUNISM AND DOMINATE OTHER COUNTRIES:
+                  answer_label answer_value raw_counts relative_frequency
+0  RUSSIA AN AGGRESSIVE NATION          1.0         37               0.01
+1                   NOT CHOSEN          2.0       2991               0.99
+
+
+
+S40E.V39C.11FURTHER SPECIFIC ANSWERS TO Q.39B: X. NOTE THAT MAJOR CATEGORIES BELOW CORRESPOND CODES IN Q.39B. E. UNFRIENDLINESS AND SUSPICION BETWEEN RUSSIA AND ALLIES:
+                       answer_label answer_value raw_counts relative_frequency
+0  ATTITUDE OF RUSSIA TO THE ALLIES          1.0         29               0.01
+1                        NOT CHOSEN          2.0       2999               0.99
+
+
+
+S40E.V39C.12FURTHER SPECIFIC ANSWERS TO Q.39B: X. NOTE THAT MAJOR CATEGORIES BELOW CORRESPOND CODES IN Q.39B. E. UNFRIENDLINESS AND SUSPICION BETWEEN RUSSIA AND ALLIES:
+        answer_label answer_value raw_counts relative_frequency
+0  CHANGEABLE PEOPLE          1.0         11                0.0
+1         NOT CHOSEN          2.0       3017                1.0
+
+
+
+S40E.V39C.13FURTHER SPECIFIC ANSWERS TO Q.39B: X. NOTE THAT MAJOR CATEGORIES BELOW CORRESPOND CODES IN Q.39B. E. UNFRIENDLINESS AND SUSPICION BETWEEN RUSSIA AND ALLIES:
+       answer_label answer_value raw_counts relative_frequency
+0  DON'T TRUST THEM          1.0         73               0.02
+1        NOT CHOSEN          2.0       2955               0.98
+
+
+
+FORM..2FORM.
+  answer_label answer_value raw_counts relative_frequency
+0       S-040E          1.0       3028                1.0
+
+
+
+S40E.V39C.14FURTHER SPECIFIC ANSWERS TO Q.39B: X. NOTE THAT MAJOR CATEGORIES BELOW CORRESPOND CODES IN Q.39B. E. UNFRIENDLINESS AND SUSPICION BETWEEN RUSSIA AND ALLIES:
+                answer_label answer_value raw_counts relative_frequency
+0  TRADITIONAL BAD RELATIONS          1.0         11                0.0
+1                 NOT CHOSEN          2.0       3017                1.0
+
+
+
+S40E.V39C.15FURTHER SPECIFIC ANSWERS TO Q.39B: X. NOTE THAT MAJOR CATEGORIES BELOW CORRESPOND CODES IN Q.39B. E. FAILURE TO MAKE SUITABLE PEACE TERMS:
+                           answer_label answer_value raw_counts relative_frequency
+0  RUSSIA'S DEMANDS FOR HER PART IN WAR          1.0         60               0.02
+1                            NOT CHOSEN          2.0       2968               0.98
+
+
+
+S40E.V39C.16FURTHER SPECIFIC ANSWERS TO Q.39B: X. NOTE THAT MAJOR CATEGORIES BELOW CORRESPOND CODES IN Q.39B. E. FAILURE TO MAKE SUITABLE PEACE TERMS:
+                  answer_label answer_value raw_counts relative_frequency
+0  WE WILL BE UNFAIR TO RUSSIA          1.0          9                0.0
+1                   NOT CHOSEN          2.0       3019                1.0
+
+
+
+S40E.V39C.17FURTHER SPECIFIC ANSWERS TO Q.39B: X. NOTE THAT MAJOR CATEGORIES BELOW CORRESPOND CODES IN Q.39B. E. FAILURE TO MAKE SUITABLE PEACE TERMS:
+                      answer_label answer_value raw_counts relative_frequency
+0  TERRITORIAL DISPUTES IN GENERAL          1.0         60               0.02
+1                       NOT CHOSEN          2.0       2968               0.98
+
+
+
+S40E.V39C.18FURTHER SPECIFIC ANSWERS TO Q.39B: X. NOTE THAT MAJOR CATEGORIES BELOW CORRESPOND CODES IN Q.39B. E. MISCELLANEOUS:
+           answer_label answer_value raw_counts relative_frequency
+0  ANYTHING IS POSSIBLE          1.0         22               0.01
+1            NOT CHOSEN          2.0       3006               0.99
+
+
+
+S40E.V39C.19FURTHER SPECIFIC ANSWERS TO Q.39B: X. NOTE THAT MAJOR CATEGORIES BELOW CORRESPOND CODES IN Q.39B. E. MISCELLANEOUS:
+                    answer_label answer_value raw_counts relative_frequency
+0  RUSSIA'S RELATIONS WITH JAPAN          1.0         24               0.01
+1                     NOT CHOSEN          2.0       3004               0.99
+
+
+
+S40E.V39C.20FURTHER SPECIFIC ANSWERS TO Q.39B: X. NOTE THAT MAJOR CATEGORIES BELOW CORRESPOND CODES IN Q.39B. E. MISCELLANEOUS:
+              answer_label answer_value raw_counts relative_frequency
+0  LEND-LEASE DIFFICULTIES          1.0         26               0.01
+1               NOT CHOSEN          2.0       3002               0.99
+
+
+
+S40E.V39C.21FURTHER SPECIFIC ANSWERS TO Q.39B: X. NOTE THAT MAJOR CATEGORIES BELOW CORRESPOND CODES IN Q.39B. E. MISCELLANEOUS:
+             answer_label answer_value raw_counts relative_frequency
+0  RUSSIAN HATERS IN U.S.          1.0         11                0.0
+1              NOT CHOSEN          2.0       3017                1.0
+
+
+
+S40E.Q40 IF THE GERMANS WERE TO OFFER TO STOP FIGHTING NOW AND TO GIVE UP THE TERRITORY THEY HAVE CONQUERED, WHAT SHOULD WE DO?
+                                                   answer_label answer_value raw_counts relative_frequency
+0                                                     NO ANSWER          0.0         31               0.01
+1                          WE SHOULD TALK PEACE TERMS WITH THEM          1.0        464               0.15
+2  WE SHOULD KEEP ON FIGHTING UNTIL THEY ARE COMPLETELY CRUSHED          2.0       2204               0.73
+3                                                     UNDECIDED          3.0        329               0.11
+
+
+
+S40E.Q41 IF THE JAPANESE WERE TO OFFER TO STOP FIGHTING NOW AND TO GIVE UP THE TERRITORY THEY HAVE CONQUERED, WHAT SHOULD WE DO?
+                                                   answer_label answer_value raw_counts relative_frequency
+0                                                     NO ANSWER          0.0         27               0.01
+1                          WE SHOULD TALK PEACE TERMS WITH THEM          1.0        281               0.09
+2  WE SHOULD KEEP ON FIGHTING UNTIL THEY ARE COMPLETELY CRUSHED          2.0       2507               0.83
+3                                                     UNDECIDED          3.0        213               0.07
+
+
+
+S40E.Q42A "CONSIDERING EVERYTHING, THE BRITISH ARE DOING AS GOOD A JOB AS POSSIBLE OF FIGHTING THIS WAR?"
+                           answer_label answer_value raw_counts relative_frequency
+0                             NO ANSWER          0.0         97               0.03
+1                                 AGREE          1.0       2450               0.81
+2                              DISAGREE          2.0        476               0.16
+3  BOTH (AGREE AND DISAGREE), UNDECIDED          3.0          5                0.0
+
+
+
+S40E.Q42B "AFTER THE WAR, WE SHOULD ALLOW THE GERMAN PEOPLE TO RUN THEIR OWN GOVERNMENT?"
+                           answer_label answer_value raw_counts relative_frequency
+0                             NO ANSWER          0.0         90               0.03
+1                                 AGREE          1.0        584               0.19
+2                              DISAGREE          2.0       2331               0.77
+3  BOTH (AGREE AND DISAGREE), UNDECIDED          3.0         23               0.01
+
+
+
+S40E.Q42C "WHEN THE WAR IS OVER, THE RUSSIANS WILL TRY AS MUCH AS POSSIBLE TO WORK OUT A JUST AND LASTING PEACE?"
+                           answer_label answer_value raw_counts relative_frequency
+0                             NO ANSWER          0.0        153               0.05
+1                                 AGREE          1.0       1872               0.62
+2                              DISAGREE          2.0        953               0.31
+3  BOTH (AGREE AND DISAGREE), UNDECIDED          3.0         50               0.02
+
+
+
+S40E.Q42D "WE SHOULD SEE TO IT THAT THE JAPANESE PEOPLE SUFFER PLENTY FOR ALL THE TROUBLE THEY ARE CAUSING US?"
+                           answer_label answer_value raw_counts relative_frequency
+0                             NO ANSWER          0.0         89               0.03
+1                                 AGREE          1.0       2228               0.74
+2                              DISAGREE          2.0        685               0.23
+3  BOTH (AGREE AND DISAGREE), UNDECIDED          3.0         26               0.01
+
+
+
+S40E.Q42E "BRITAIN IS MORE INTERESTED IN DOMINATING OR CONTROLLING THE WORLD THAN SHE IS IN BUILDING A TRULY DEMOCRATIC WORLD?"
+                           answer_label answer_value raw_counts relative_frequency
+0                             NO ANSWER          0.0        179               0.06
+1                                 AGREE          1.0        957               0.32
+2                              DISAGREE          2.0       1861               0.61
+3  BOTH (AGREE AND DISAGREE), UNDECIDED          3.0         31               0.01
+
+
+
+S40E.Q42F "EVEN IF WE HAD NOT BEEN ATTACKED, THERE WAS NO WAY FOR US TO STAY OUT OF THIS WAR?"
+                           answer_label answer_value raw_counts relative_frequency
+0                             NO ANSWER          0.0        153               0.05
+1                                 AGREE          1.0       2100               0.69
+2                              DISAGREE          2.0        762               0.25
+3  BOTH (AGREE AND DISAGREE), UNDECIDED          3.0         13                0.0
+
+
+
+S40E.Q42G "CONSIDERING EVERYTHING, THE RUSSIANS ARE DOING AS GOOD A JOB AS POSSIBLE OF FIGHTING THIS WAR?"
+                           answer_label answer_value raw_counts relative_frequency
+0                             NO ANSWER          0.0        109               0.04
+1                                 AGREE          1.0       2829               0.93
+2                              DISAGREE          2.0         79               0.03
+3  BOTH (AGREE AND DISAGREE), UNDECIDED          3.0         11                0.0
+
+
+
+S40E.Q42H "AFTER THE WAR, WE SHOULD ALLOW THE JAPANESE PEOPLE TO RUN THEIR OWN GOVERNMENT?"
+                           answer_label answer_value raw_counts relative_frequency
+0                             NO ANSWER          0.0        117               0.04
+1                                 AGREE          1.0        480               0.16
+2                              DISAGREE          2.0       2401               0.79
+3  BOTH (AGREE AND DISAGREE), UNDECIDED          3.0         30               0.01
+
+
+
+S40E.Q42I "WHEN THE WAR IS OVER, THE BRITISH WILL TRY AS MUCH AS POSSIBLE TO WORK OUT A JUST AND LASTING PEACE?"
+                           answer_label answer_value raw_counts relative_frequency
+0                             NO ANSWER          0.0        161               0.05
+1                                 AGREE          1.0       2340               0.77
+2                              DISAGREE          2.0        488               0.16
+3  BOTH (AGREE AND DISAGREE), UNDECIDED          3.0         39               0.01
+
+
+
+S40E.Q42J "WE SHOULD SEE TO IT THAT THE GERMAN PEOPLE SUFFER PLENTY FOR ALL THE TROUBLE THEY ARE CAUSING US?"
+                           answer_label answer_value raw_counts relative_frequency
+0                             NO ANSWER          0.0        128               0.04
+1                                 AGREE          1.0       1822                0.6
+2                              DISAGREE          2.0       1038               0.34
+3  BOTH (AGREE AND DISAGREE), UNDECIDED          3.0         40               0.01
+
+
+
+S40E.Q42K "RUSSIA IS MORE INTERESTED IN DOMINATING OR CONTROLLING THE WORLD THAN SHE IS IN BUILDING A TRULY DEMOCRATIC WORLD?"
+                           answer_label answer_value raw_counts relative_frequency
+0                             NO ANSWER          0.0        169               0.06
+1                                 AGREE          1.0        927               0.31
+2                              DISAGREE          2.0       1860               0.61
+3  BOTH (AGREE AND DISAGREE), UNDECIDED          3.0         72               0.02
+
+
+
+S40E.Q43 DO YOU FEEL THAT MOST OF THE SOLDIERS IN YOUR OUTFIT HAVE A FULL UNDERSTANDING OF WHY WE ARE FIGHTING THIS WAR?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         19               0.01
+1          YES          1.0       1756               0.58
+2           NO          2.0       1039               0.34
+3    UNDECIDED          3.0        214               0.07
+
+
+
+S40E.Q44 DOES YOUR COMPANY GET THE "NEWSMAP" PUT OUT BY SPECIAL SERVICE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         27               0.01
+1          YES          1.0       1968               0.65
+2           NO          2.0        474               0.16
+3   DON'T KNOW          3.0        559               0.18
+
+
+
+S40E.Q45 DO YOU GET TO LOOK AT THE "NEWSMAP" EACH WEEK?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0         92               0.03
+1                    YES          1.0       1538               0.51
+2                     NO          2.0       1148               0.38
+3  DON'T GET A CHANCE TO          3.0        250               0.08
+
+
+
+S40E.Q46 DO YOU THINK THE PROBLEMS OF POST-WAR LIFE SUCH AS SOCIAL SECURITY, FULL EMPLOYMENT AND WORKING CONDITIONS IN THIS COUNTRY ARE GETTING ENOUGH ATTENTION AT THE PRESENT TIME OR NOT?
+                                                           answer_label answer_value raw_counts relative_frequency
+0                                                             NO ANSWER          0.0         70               0.02
+1  TOO MUCH TIME AND ATTENTION IS ALREADY BEING GIVEN TO THESE PROBLEMS          1.0        329               0.11
+2                       GETTING ABOUT THE RIGHT AMOUNT OF ATTENTION NOW          2.0       1367               0.45
+3             MORE TIME AND ATTENTION SHOULD BE GIVEN TO THESE PROBLEMS          3.0       1262               0.42
+
+
+
+S40E.Q47 THERE HAS BEEN MUCH DISCUSSION ABOUT THE VALUE OF A "SINGING ARMY". DO YOU PERSONALLY FEEL THAT SINGING MAKES THE SOLDIER'S JOB EASIER OR NOT?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         36               0.01
+1      MUCH EASIER          1.0       1465               0.48
+2  A LITTLE EASIER          2.0        877               0.29
+3    NO DIFFERENCE          3.0        650               0.21
+
+
+
+S40E.Q48 HAVE YOU MADE ALL OF THE ARRANGEMENTS FOR YOUR PERSONAL AND FINANCIAL AFFAIRS THAT YOU WOULD NEED TO MAKE IN THE EVENT YOU ARE TO GO OVERSEAS?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0         32               0.01
+1   ALL OF THEM          1.0        913                0.3
+2  MOST OF THEM          2.0       1184               0.39
+3   FEW OF THEM          3.0        890               0.29
+4          NONE          4.0          9                0.0
+
+
+
+S40E.Q49A MADE A WILL?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        445               0.15
+1          YES          1.0        430               0.14
+2           NO          2.0       2153               0.71
+
+
+
+S40E.Q49B GRANTED A POWER OF ATTORNEY?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        643               0.21
+1          YES          1.0        372               0.12
+2           NO          2.0       2013               0.66
+
+
+
+S40E.Q49C TOLD MY DEPENDENTS ALL THEY NEED TO KNOW ABOUT ALLOTMENTS, INSURANCE, ETC.?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        247               0.08
+1          YES          1.0       2030               0.67
+2           NO          2.0        751               0.25
+
+
+
+S40E.Q49D TOLD MY DEPENDENTS ABOUT THEIR RIGHTS TO ARMY MEDICAL CARE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        415               0.14
+1          YES          1.0        979               0.32
+2           NO          2.0       1634               0.54
+
+
+
+S40E.Q50 HAVE YOU HEARD ABOUT THE PLANS FOR DEPOSITING MONEY WITH THE ARMY FINANCE OFFICE THROUGH YOUR C.O.?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1                  NO          2.0       1562               0.52
+2                 YES          1.0       1420               0.47
+3           NO ANSWER          3.0         44               0.01
+
+
+
+S40E.V53 CAMP AND OUTFIT IDENTIFICATION:
+                                                     answer_label answer_value raw_counts relative_frequency
+0   CAMP CARSON, COLORADO - 353RD INFANTRY REGIMENT 89TH DIVISION          1.0        130               0.04
+1   CAMP CARSON, COLORADO - 354TH INFANTRY REGIMENT 89TH DIVISION          2.0        133               0.04
+2   CAMP CARSON, COLORADO - 355TH INFANTRY REGIMENT 89TH DIVISION          3.0        120               0.04
+3                      CAMP CARSON, COLORADO - F.A. 89TH DIVISION          4.0        113               0.04
+4                     FORT DIX, NEW JERSEY - OUTFIT NOT SPECIFIED          5.0        511               0.17
+5   CAMP GRUBER, OKLAHOMA - 349TH INFANTRY REGIMENT 88TH DIVISION          6.0        130               0.04
+6   CAMP GRUBER, OKLAHOMA - 350TH INFANTRY REGIMENT 88TH DIVISION          7.0        134               0.04
+7   CAMP GRUBER, OKLAHOMA - 351ST INFANTRY REGIMENT 88TH DIVISION          8.0        145               0.05
+8                      CAMP GRUBER, OKLAHOMA - F.A. 88TH DIVISION          9.0        104               0.03
+9       CAMP HOWZE, TEXAS - 341ST INFANTRY REGIMENT 86TH DIVISION         10.0        131               0.04
+10      CAMP HOWZE, TEXAS - 342ND INFANTRY REGIMENT 86TH DIVISION         11.0        134               0.04
+11     CAMP HOWZE, TEXAS - 343RD INFANTRY REGIMENT, 86TH DIVISION         12.0        138               0.05
+12                         CAMP HOWZE, TEXAS - F.A. 86TH DIVISION         13.0        104               0.03
+13              CAMP LIVINGSTON, LOUISIANA - OUTFIT NOT SPECIFIED         14.0        466               0.15
+14                CAMP MCCAIN, MISSISSIPPI - OUTFIT NOT SPECIFIED         15.0        535               0.18
+
+
+

@@ -1,0 +1,828 @@
+FORMFORM
+                                               answer_label answer_value raw_counts relative_frequency
+0  S-10XXE - OFFICERS - EUROPEAN THEATER OF OPERATIONS FORM          5.0       1398                1.0
+
+
+
+S106OE.Q1 WHAT IS YOUR PRESENT GRADE?
+                        answer_label answer_value raw_counts relative_frequency
+0                          NO ANSWER          0.0         27               0.02
+1  FLIGHT OFFICER OR WARRANT OFFICER          1.0         25               0.02
+2                  SECOND LIEUTENANT          2.0        372               0.27
+3                   FIRST LIEUTENANT          3.0        630               0.45
+4                            CAPTAIN          4.0        330               0.24
+5           RANK HIGHER THAN CAPTAIN          5.0         14               0.01
+
+
+
+S106OE.Q2 HOW LONG HAVE YOU BEEN ON ACTIVE SERVICE AS A COMMISSIONED OFFICER IN THE ARMY?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         25               0.02
+1              3 MONTHS OR LESS          1.0          4                0.0
+2  OVER 3 MONTHS UP TO 6 MONTHS          2.0         11               0.01
+3  OVER 6 MONTHS UP TO 9 MONTHS          3.0        162               0.12
+4    OVER 9 MONTHS UP TO 1 YEAR          4.0        178               0.13
+5     OVER 1 YEAR UP TO 2 YEARS          5.0        747               0.53
+6    OVER 2 YEARS UP TO 5 YEARS          6.0        268               0.19
+7                  OVER 5 YEARS          7.0          3                0.0
+
+
+
+S106OE.Q3 WERE YOU SERVING IN THE ARMY AS AN ENLISTED MAN JUST BEFORE YOU WERE COMMISSIONED?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         34               0.02
+1          YES          1.0        892               0.64
+2           NO          2.0        472               0.34
+
+
+
+S106OE.Q4 HOW WERE YOU FIRST TAKEN INTO THE ARMY?
+                             answer_label answer_value raw_counts relative_frequency
+0                           I WAS DRAFTED          1.0        306               0.22
+1        I VOLUNTEERED AFTER PEARL HARBOR          2.0        293               0.21
+2       I VOLUNTEERED BEFORE PEARL HARBOR          3.0        205               0.15
+3             I WAS IN THE NATIONAL GUARD          4.0         53               0.04
+4  I WAS IN THE E.R.C. (ENLISTED RESERVE)          5.0         60               0.04
+5                 INAPPLICABLE, NO ANSWER          9.0        481               0.34
+
+
+
+S106OE.Q5 HOW MUCH ACTIVE SERVICE DID YOU SEE AS AN ENLISTED MAN BEFORE YOU RECEIVED YOUR COMMISSION?
+                       answer_label answer_value raw_counts relative_frequency
+0                  6 MONTHS OR LESS          1.0        134                0.1
+1        OVER 6 MONTHS UP TO 1 YEAR          2.0        338               0.24
+2         OVER 1 YEAR UP TO 2 YEARS          3.0        284                0.2
+3  OVER TWO YEARS UP TO THREE YEARS          4.0         75               0.05
+4                  OVER THREE YEARS          5.0         74               0.05
+5           INAPPLICABLE, NO ANSWER          9.0        493               0.35
+
+
+
+S106OE.Q6A HAVE YOU SERVED OUTSIDE THE CONTINENTAL UNITED STATES IN THIS WAR?
+              answer_label answer_value raw_counts relative_frequency
+0                NO ANSWER          0.0          4                0.0
+1  YES, AS AN ENLISTED MAN          1.0         15               0.01
+2       YES, AS AN OFFICER          2.0       1373               0.98
+3                       NO          3.0          6                0.0
+
+
+
+S106OE.Q6B HAVE YOU BEEN IN ACTUAL COMBAT IN THIS WAR?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1                 YES          1.0        764               0.55
+2                  NO          2.0        613               0.44
+3           NO ANSWER          3.0         19               0.01
+
+
+
+S106OE.Q7 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0          4                0.0
+1             19 YEARS          2.0          7               0.01
+2                   20          3.0         47               0.03
+3                   21          4.0         91               0.07
+4                   22          5.0        144                0.1
+5                   23          6.0        173               0.12
+6                   24          7.0        167               0.12
+7                   25          8.0        138                0.1
+8          26-29 YEARS          9.0        398               0.28
+9          30-34 YEARS         10.0        129               0.09
+10  35 YEARS AND OLDER         11.0        100               0.07
+
+
+
+S106OE.Q8A WHERE WERE YOU LIVING JUST BEFORE YOU CAME INTO THE ARMY?
+                                           answer_label answer_value raw_counts relative_frequency
+0                                             NO ANSWER          0.0         10               0.01
+1                                             ON A FARM          1.0         98               0.07
+2                      IN THE COUNTRY BUT NOT ON A FARM          2.0         34               0.02
+3             IN A VILLAGE WITH FEWER THAN 2,500 PEOPLE          3.0         85               0.06
+4  IN A SMALL CITY WITH BETWEEN 2,500 AND 25,000 PEOPLE          4.0        320               0.23
+5      IN A CITY WITH BETWEEN 25,000 AND 100,000 PEOPLE          5.0        267               0.19
+6         IN A LARGE CITY WITH MORE THAN 100,000 PEOPLE          6.0        584               0.42
+
+
+
+S106OE.Q8B HOW LONG HAD YOU BEEN LIVING THERE BEFORE YOU ENTERED THE ARMY?
+                        answer_label answer_value raw_counts relative_frequency
+0                          NO ANSWER          0.0          8               0.01
+1                   ONE YEAR OR LESS          1.0         70               0.05
+2      OVER ONE YEAR UP TO TWO YEARS          2.0         87               0.06
+3   OVER TWO YEARS UP TO THREE YEARS          3.0         94               0.07
+4  OVER THREE YEARS UP TO FIVE YEARS          4.0         84               0.06
+5                    OVER FIVE YEARS          5.0       1055               0.75
+
+
+
+S106OE.Q9 HOW MUCH EDUCATION HAVE YOU HAD?
+                              answer_label answer_value raw_counts relative_frequency
+0               GRADUATED FROM HIGH SCHOOL          4.0        367               0.26
+1          SOME COLLEGE BUT DID NOT FINISH          5.0        566                0.4
+2                   GRADUATED FROM COLLEGE          6.0        252               0.18
+3  GRADUATE STUDY IN COLLEGE OR UNIVERSITY          7.0        141                0.1
+4                                NO ANSWER          0.0          3                0.0
+5                      LESS THAN 8TH GRADE          1.0          1                0.0
+6                       FINISHED 8TH GRADE          2.0          6                0.0
+7      SOME HIGH SCHOOL BUT DID NOT FINISH          3.0         62               0.04
+
+
+
+S106OE.Q10.x ARE YOU SINGLE, MARRIED, DIVORCED OR SEPARATED, OR WIDOWED? F. IF MARRIED:  Q.11. WERE YOU MARRIED BEFORE OR AFTER ENTERING THE ARMY?
+                       answer_label answer_value raw_counts relative_frequency
+0                         NO ANSWER          0.0          9               0.01
+1                            SINGLE          1.0        701                0.5
+2             DIVORCED OR SEPARATED          2.0         16               0.01
+3                           WIDOWED          3.0          2                0.0
+4  MARRIED BEFORE ENTERING THE ARMY          4.0        224               0.16
+5   MARRIED AFTER ENTERING THE ARMY          5.0        446               0.32
+
+
+
+S106OE.Q12 HOW MANY CHILDREN DO YOU HAVE?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         16               0.01
+1             HAVE NO CHILDREN          1.0        412               0.29
+2               HAVE ONE CHILD          2.0        216               0.15
+3            HAVE TWO CHILDREN          3.0         38               0.03
+4  HAVE THREE OR MORE CHILDREN          4.0         13               0.01
+5              I'M NOT MARRIED          5.0        703                0.5
+
+
+
+S106OE.Q13 WHAT ARM OR SERVICE ARE YOU IN NOW?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0          7               0.01
+1                  ENGINEERS          1.0          6                0.0
+2            FIELD ARTILLERY          2.0          1                0.0
+3        QUARTERMASTER CORPS          3.0         27               0.02
+4                   INFANTRY          4.0          4                0.0
+5         MEDICAL DEPARTMENT          5.0         44               0.03
+6               SIGNAL CORPS          7.0         18               0.01
+7            COAST ARTILLERY          8.0          1                0.0
+8              ANTI-AIRCRAFT          9.0          1                0.0
+9                  AIR CORPS         10.0       1192               0.85
+10       ORDNANCE DEPARTMENT         12.0         69               0.05
+11  CHEMICAL WARFARE SERVICE         13.0         12               0.01
+12           MILITARY POLICE         14.0          8               0.01
+13                     OTHER         16.0          7               0.01
+14              AUS, NMB, BI         17.0          1                0.0
+
+
+
+S106OE.Q14 HOW DID YOU RECEIVE YOUR COMMISSION?
+                                                                             answer_label answer_value raw_counts relative_frequency
+0                                                                               NO ANSWER          0.0         10               0.01
+1                                            FROM PILOT - BOMBARDIER - NAVIGATOR TRAINING          1.0        517               0.37
+2                                                         FROM AIR CORPS TECHNICAL SCHOOL          2.0        239               0.17
+3                                                           FROM OFFICER CANDIDATE SCHOOL          3.0        426                0.3
+4                                                               FROM R.O.T.C. OR C.M.T.C.          4.0         53               0.04
+5                                                                         FROM WEST POINT          5.0         15               0.01
+6                                                COMMISSIONED DIRECTLY FROM CIVILIAN LIFE          6.0         77               0.06
+7                                                                       IN SOME OTHER WAY          7.0         13               0.01
+8                                                                          NATIONAL GUARD          8.0          6                0.0
+9  DIRECT FROM ENLISTED STATUS (OR FROM WARRANT OFFICER OR A WARRANT OFFICER APPOINTMENT)          9.0         42               0.03
+
+
+
+S106OE.Q15 IS THE WORK YOU ARE DOING IN YOUR PRESENT ARMY ASSIGNMENT RELATED EITHER TO YOUR PAST CIVILIAN EXPERIENCE OR TO WHAT YOU INTEND TO DO AFTER THE WAR?
+                                          answer_label answer_value raw_counts relative_frequency
+0                                            NO ANSWER          0.0         18               0.01
+1                                 YES, RELATED TO BOTH          1.0        250               0.18
+2  YES, RELATED TO WHAT I DID BEFORE ENTERING THE ARMY          2.0         82               0.06
+3    YES, RELATED TO WHAT I INTEND TO DO AFTER THE WAR          3.0        443               0.32
+4                            NO, NOT RELATED TO EITHER          4.0        605               0.43
+
+
+
+S106OE.Q16 WHICH OF THE FOLLOWING WERE YOU DOING JUST BEFORE YOU CAME INTO THE ARMY?
+                                                         answer_label answer_value raw_counts relative_frequency
+0                                                           NO ANSWER          0.0          9               0.01
+1   WORKING FULL-TIME FOR THE GOVERNMENT (FEDERAL, STATE, CITY, ETC.)          1.0        155               0.11
+2              WORKING FULL-TIME FOR A RELATIVE (FATHER, UNCLE, ETC.)          2.0         56               0.04
+3   WORKING FULL-TIME FOR SOME OTHER EMPLOYER (COMPANY, PERSON, ETC.)          3.0        695                0.5
+4                                        WORKING FULL-TIME FOR MYSELF          4.0         88               0.06
+5                                           GOING TO FULL-TIME SCHOOL          5.0        325               0.23
+6                                                      SOMETHING ELSE          6.0          8               0.01
+7      PART-TIME WORK AND FULL-TIME SCHOOL (WHERE WORK WAS IMPORTANT)          7.0         10               0.01
+8                UNEMPLOYED (ONLY IF FOR CONSIDERABLE LENGTH OF TIME)          8.0          4                0.0
+9                                                    C.C.C. OR W.P.A.          9.0          1                0.0
+10            OWN BUSINESS AND FULL-TIME JOB (OWN SMALL SHOP OR FARM)         10.0          2                0.0
+11                                                       REGULAR ARMY         11.0         45               0.03
+
+
+
+S106OE.Q17A PLEASE DESCRIBE THE LAST JOB YOU HAD BEFORE ENTERING THE ARMY. WHAT WAS YOUR JOB CALLED? JUST WHAT DID YOU DO? E. OCCUPATION:
+                                                                                       answer_label answer_value raw_counts relative_frequency
+0                                                                                         NO ANSWER          0.0         13               0.01
+1           PROFESSIONAL (I.E., DOCTORS, LAWYERS, DENTISTS, ACCOUNTANTS, ENGINEERS, TEACHERS, ETC.)          1.0        201               0.14
+2   SEMI-PROFESSIONALS (AVIATORS, COMMERCIAL ARTISTS, DRAFTSMEN, PHOTOGRAPHERS, ENTERTAINERS, ETC.)          2.0         85               0.06
+3                            SERVICE OCCUPATIONS (COOKS, WAITERS, BARBERS, GUARDS, POLICEMEN, ETC.)          3.0         65               0.05
+4                                                                                       AGRICULTURE          4.0         37               0.03
+5                            SKILLED OCCUPATIONS (TOOLMAKERS, CARPENTERS, PLUMBERS, PAINTERS, ETC.)          5.0        142                0.1
+6                    SEMI-SKILLED OCCUPATIONS (MOST FACTORY MACHINE OPERATORS, TRUCK-DRIVERS, ETC.)          6.0        121               0.09
+7            UNSKILLED OCCUPATIONS (LABORERS, INCLUDING FACTORY WORKERS WHOSE JOB IS NOT SPECIFIED)          7.0         26               0.02
+8                                    MANAGERS AND OFFICIALS (HIGHER TYPE WITH SUPERVISORY CAPACITY)          8.0         61               0.04
+9                                            MERCHANTS, SHOPKEEPERS, TRADESMEN, ETC. (OWN BUSINESS)          9.0         16               0.01
+10                                                                                         CLERICAL         10.0        201               0.14
+11                                         SALES PERSONS (INCLUDING MANAGERS OF SMALL CHAIN STORES)         11.0        105               0.08
+12                                                 MISCELLANEOUS UNCLASSIFIABLE (INCLUDES STUDENTS)         12.0        325               0.23
+
+
+
+S106OE.Q17B ON THE AVERAGE HOW MUCH PAY WERE YOU EARNING ON THIS JOB? E. WEEK: MONTH: YEAR:
+                                      answer_label answer_value raw_counts relative_frequency
+0                                        NO ANSWER          0.0        409               0.29
+1              UP TO $20 - UP TO $90 - UP TO $1100          1.0         64               0.05
+2        $21 TO $30 - $91 TO $130 - $1101 TO $1600          2.0        210               0.15
+3       $31 TO $40 - $131 TO $175 - $1601 TO $2100          3.0        275                0.2
+4       $41 TO $50 - $176 TO $220 - $2101 TO $2600          4.0        163               0.12
+5       $51 TO $60 - $221 TO $260 - $2601 TO $3100          5.0        103               0.07
+6       $61 TO $80 - $261 TO $350 - $3101 TO $4200          6.0         94               0.07
+7      $81 TO $100 - $351 TO $430 - $4201 TO $5200          7.0         31               0.02
+8     $101 TO $125 - $431 TO $540 - $5201 TO $6500          8.0         13               0.01
+9     $126 TO $150 - $541 TO $650 - $6501 TO $7800          9.0         13               0.01
+10  $151 TO $200 - $651 TO $870 - $7801 TO $10,400         10.0         14               0.01
+11            OVER $200 - OVER $870 - OVER $10,400         11.0          9               0.01
+
+
+
+S106OE.Q17C ABOUT HOW LONG DID YOU DO THIS KIND OF WORK, EITHER ON THIS JOB OR OTHER JOBS?
+                                answer_label answer_value raw_counts relative_frequency
+0                                  NO ANSWER          0.0        381               0.27
+1                         LESS THAN 6 MONTHS          1.0         57               0.04
+2        6 MONTHS UP TO AND INCLUDING 1 YEAR          2.0        242               0.17
+3    OVER 1 YEAR UP TO AND INCLUDING 3 YEARS          3.0        380               0.27
+4   OVER 3 YEARS UP TO AND INCLUDING 5 YEARS          4.0        153               0.11
+5  OVER 5 YEARS UP TO AND INCLUDING 10 YEARS          5.0        129               0.09
+6                              OVER 10 YEARS          6.0         56               0.04
+
+
+
+S106OE.Q18A.1 WHAT KIND OF WORK DO YOU THINK YOU WILL DO RIGHT AFTER THE WAR? (IF YOU ARE UNDECIDED, TELL WHAT YOU THINK YOU MIGHT DO.) E. INDUSTRY:
+             answer_label answer_value raw_counts relative_frequency
+0  SCHOOL (STUDENTS ONLY)          1.0        195               0.14
+1              NOT CHOSEN          2.0       1203               0.86
+
+
+
+S106OE.Q18A.2WHAT KIND OF WORK DO YOU THINK YOU WILL DO RIGHT AFTER THE WAR? (IF YOU ARE UNDECIDED, TELL WHAT YOU THINK YOU MIGHT DO.) E. INDUSTRY:
+  answer_label answer_value raw_counts relative_frequency
+0  AGRICULTURE          1.0         49               0.04
+1   NOT CHOSEN          2.0       1349               0.96
+
+
+
+S106OE.Q18A.3WHAT KIND OF WORK DO YOU THINK YOU WILL DO RIGHT AFTER THE WAR? (IF YOU ARE UNDECIDED, TELL WHAT YOU THINK YOU MIGHT DO.) E. INDUSTRY:
+  answer_label answer_value raw_counts relative_frequency
+0     AVIATION          1.0        197               0.14
+1   NOT CHOSEN          2.0       1201               0.86
+
+
+
+S106OE.Q18A.4WHAT KIND OF WORK DO YOU THINK YOU WILL DO RIGHT AFTER THE WAR? (IF YOU ARE UNDECIDED, TELL WHAT YOU THINK YOU MIGHT DO.) E. INDUSTRY:
+        answer_label answer_value raw_counts relative_frequency
+0  RADIO (NOT SALES)          1.0          8               0.01
+1         NOT CHOSEN          2.0       1390               0.99
+
+
+
+S106OE.Q18A.5WHAT KIND OF WORK DO YOU THINK YOU WILL DO RIGHT AFTER THE WAR? (IF YOU ARE UNDECIDED, TELL WHAT YOU THINK YOU MIGHT DO.) E. INDUSTRY:
+  answer_label answer_value raw_counts relative_frequency
+0       MINING          1.0          4                0.0
+1   NOT CHOSEN          2.0       1394                1.0
+
+
+
+S106OE.Q18A.6WHAT KIND OF WORK DO YOU THINK YOU WILL DO RIGHT AFTER THE WAR? (IF YOU ARE UNDECIDED, TELL WHAT YOU THINK YOU MIGHT DO.) E. INDUSTRY:
+  answer_label answer_value raw_counts relative_frequency
+0         ARMY          1.0        149               0.11
+1   NOT CHOSEN          2.0       1249               0.89
+
+
+
+S106OE.Q18A.7WHAT KIND OF WORK DO YOU THINK YOU WILL DO RIGHT AFTER THE WAR? (IF YOU ARE UNDECIDED, TELL WHAT YOU THINK YOU MIGHT DO.) E. INDUSTRY:
+                                                              answer_label answer_value raw_counts relative_frequency
+0  ARMY AND/OR SOMETHING ELSE (WILL BE USED ONLY AS PART OF A DOUBLE CODE)          1.0        128               0.09
+1                                                               NOT CHOSEN          2.0       1270               0.91
+
+
+
+S106OE.Q18A.8WHAT KIND OF WORK DO YOU THINK YOU WILL DO RIGHT AFTER THE WAR? (IF YOU ARE UNDECIDED, TELL WHAT YOU THINK YOU MIGHT DO.) E. INDUSTRY:
+                                                                            answer_label answer_value raw_counts relative_frequency
+0  FULL-TIME SCHOOL AND/OR SOMETHING ELSE (WILL BE USED ONLY AS A PART OF A DOUBLE CODE)          1.0         76               0.05
+1                                                                             NOT CHOSEN          2.0       1322               0.95
+
+
+
+S106OE.Q18A.9WHAT KIND OF WORK DO YOU THINK YOU WILL DO RIGHT AFTER THE WAR? (IF YOU ARE UNDECIDED, TELL WHAT YOU THINK YOU MIGHT DO.) E. INDUSTRY:
+                                                                                                           answer_label answer_value raw_counts relative_frequency
+0  TRADE, TRANSPORTATION, CONSTRUCTION, MANUFACTURING OTHER THAN RADIO AND AVIATION. ONE MENTION (NOT LISTED ELSEWHERE)          1.0        563                0.4
+1                                                                                                            NOT CHOSEN          2.0        835                0.6
+
+
+
+S106OE.Q18A.10WHAT KIND OF WORK DO YOU THINK YOU WILL DO RIGHT AFTER THE WAR? (IF YOU ARE UNDECIDED, TELL WHAT YOU THINK YOU MIGHT DO.) E. INDUSTRY:
+                                                                                                              answer_label answer_value raw_counts relative_frequency
+0  TWO OR MORE MENTIONED BUT NOT INCLUDING SCHOOL OR ARMY (THIS MAY BE USED WHERE MAN APPEARS UNDECIDED AND APPARENTLY HAS          1.0        110               0.08
+1                                                                                                               NOT CHOSEN          2.0       1288               0.92
+
+
+
+S106OE.Q18A.11WHAT KIND OF WORK DO YOU THINK YOU WILL DO RIGHT AFTER THE WAR? (IF YOU ARE UNDECIDED, TELL WHAT YOU THINK YOU MIGHT DO.) E. INDUSTRY:
+            answer_label answer_value raw_counts relative_frequency
+0  NO INDUSTRY MENTIONED          1.0         64               0.05
+1             NOT CHOSEN          2.0       1334               0.95
+
+
+
+S106OE.Q18A.12WHAT KIND OF WORK DO YOU THINK YOU WILL DO RIGHT AFTER THE WAR? (IF YOU ARE UNDECIDED, TELL WHAT YOU THINK YOU MIGHT DO.) E. INDUSTRY:
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0         41               0.03
+1   NOT CHOSEN          2.0       1357               0.97
+
+
+
+S106OE.Q18A.13WHAT KIND OF WORK DO YOU THINK YOU WILL DO RIGHT AFTER THE WAR? (IF YOU ARE UNDECIDED, TELL WHAT YOU THINK YOU MIGHT DO.) E. INDUSTRY:
+                                                                               answer_label answer_value raw_counts relative_frequency
+0                                                                                 NO ANSWER          0.0         33               0.02
+1           SAME JOB OR TYPE OF WORK (OLD JOB OR OWN BUSINESS) - DEFINITE AND SPECIFIC PLAN          1.0        439               0.31
+2                                DIFFERENT JOB OR TYPE OF WORK - DEFINITE AND SPECIFIC PLAN          2.0        258               0.18
+3                       OWN BUSINESS OR FARM, NEW OR DIFFERENT - DEFINITE AND SPECIFIC PLAN          3.0         38               0.03
+4                                    SAME OR DIFFERENT TYPE OF WORK - TWO ALTERNATIVE PLANS          4.0        122               0.09
+5                         OWN BUSINESS OR FARM OR SAME TYPE OF WORK - TWO ALTERNATIVE PLANS          5.0         13               0.01
+6                    OWN BUSINESS OR FARM OR DIFFERENT TYPE OF WORK - TWO ALTERNATIVE PLANS          6.0         18               0.01
+7                                             SAME JOB MAYBE - NO DEFINITE OR SPECIFIC PLAN          7.0         71               0.05
+8                                        DIFFERENT JOB MAYBE - NO DEFINITE OR SPECIFIC PLAN          8.0        285                0.2
+9                                         OWN BUSINESS MAYBE - NO DEFINITE OR SPECIFIC PLAN          9.0         43               0.03
+10  UNDECIDED OR NO DEFINITE PLAN WITH NO INDICATION WHETHER SAME OR DIFFERENT TYPE OF WORK         10.0         55               0.04
+11         OWN BUSINESS (NEW OWNERSHIP) BUT IN THE SAME GENERAL LINE OF WORK AS PRE-WAR JOB         11.0         23               0.02
+
+
+
+S106OE.Q18B DID YOU DO THIS KIND OF WORK BEFORE YOU ENTERED THE ARMY? IF YES, HOW LONG?
+                                                           answer_label answer_value raw_counts relative_frequency
+0                                                             NO ANSWER          0.0        333               0.24
+1                                                    LESS THAN 6 MONTHS          1.0         16               0.01
+2                                   6 MONTHS UP TO AND INCLUDING 1 YEAR          2.0         80               0.06
+3                               OVER 1 YEAR UP TO AND INCLUDING 3 YEARS          3.0        210               0.15
+4                              OVER 3 YEARS UP TO AND INCLUDING 5 YEARS          4.0        107               0.08
+5                             OVER 5 YEARS UP TO AND INCLUDING 10 YEARS          5.0        108               0.08
+6                                                         OVER 10 YEARS          6.0         47               0.03
+7                                                YES, BUT NO TIME GIVEN          7.0         21               0.02
+8                                     NO, I NEVER DID THIS KIND OF WORK          8.0        152               0.11
+9  NO, BUT I'M LEARNING (OR HAVE LEARNED) THIS KIND OF WORK IN THE ARMY          9.0        324               0.23
+
+
+
+S106OE.Q19 HOW SURE DO YOU FEEL THAT AFTER THE WAR YOU WILL DO THE KIND OF WORK YOU DESCRIBED IN THE LAST QUESTION?
+                                   answer_label answer_value raw_counts relative_frequency
+0                                     NO ANSWER          0.0         78               0.06
+1                        I'M ALMOST SURE I WILL          1.0        654               0.47
+2  I PROBABLY WILL, BUT I MAY DO SOMETHING ELSE          2.0        434               0.31
+3     I'M REALLY NOT AT ALL SURE WHAT I WILL DO          3.0        232               0.17
+
+
+
+S106OE.Q20.1 DO YOU EXPECT TO WORK FOR YOURSELF OR FOR SOMEONE ELSE RIGHT AFTER YOU LEAVE THE ARMY?
+                  answer_label answer_value raw_counts relative_frequency
+0  I EXPECT TO WORK FOR MYSELF          1.0        225               0.16
+1                   NOT CHOSEN          2.0       1173               0.84
+
+
+
+S106OE.Q20.2DO YOU EXPECT TO WORK FOR YOURSELF OR FOR SOMEONE ELSE RIGHT AFTER YOU LEAVE THE ARMY?
+                                                       answer_label answer_value raw_counts relative_frequency
+0  I EXPECT TO WORK FOR THE GOVERNMENT (FEDERAL, STATE, CITY, ETC.)          1.0        120               0.09
+1                                                        NOT CHOSEN          2.0       1278               0.91
+
+
+
+S106OE.Q20.3DO YOU EXPECT TO WORK FOR YOURSELF OR FOR SOMEONE ELSE RIGHT AFTER YOU LEAVE THE ARMY?
+                                            answer_label answer_value raw_counts relative_frequency
+0  I EXPECT TO WORK FOR A RELATIVE (FATHER, UNCLE, ETC.)          1.0         57               0.04
+1                                             NOT CHOSEN          2.0       1341               0.96
+
+
+
+S106OE.Q.20.4DO YOU EXPECT TO WORK FOR YOURSELF OR FOR SOMEONE ELSE RIGHT AFTER YOU LEAVE THE ARMY?
+                                                       answer_label answer_value raw_counts relative_frequency
+0  I EXPECT TO WORK FOR SOME OTHER EMPLOYER (COMPANY, PERSON, ETC.)          1.0        412               0.29
+1                                                        NOT CHOSEN          2.0        986               0.71
+
+
+
+S106OE.Q.20.5DO YOU EXPECT TO WORK FOR YOURSELF OR FOR SOMEONE ELSE RIGHT AFTER YOU LEAVE THE ARMY?
+                       answer_label answer_value raw_counts relative_frequency
+0  I PLAN TO GO TO FULL-TIME SCHOOL          1.0        184               0.13
+1                        NOT CHOSEN          2.0       1214               0.87
+
+
+
+S106OE.Q.20.6DO YOU EXPECT TO WORK FOR YOURSELF OR FOR SOMEONE ELSE RIGHT AFTER YOU LEAVE THE ARMY?
+                 answer_label answer_value raw_counts relative_frequency
+0  I PLAN TO STAY IN THE ARMY          1.0        177               0.13
+1                  NOT CHOSEN          2.0       1221               0.87
+
+
+
+S106OE.Q20.7DO YOU EXPECT TO WORK FOR YOURSELF OR FOR SOMEONE ELSE RIGHT AFTER YOU LEAVE THE ARMY?
+                      answer_label answer_value raw_counts relative_frequency
+0  I DON'T HAVE ANY DEFINITE PLANS          1.0        173               0.12
+1                       NOT CHOSEN          2.0       1225               0.88
+
+
+
+S106OE.Q20.8DO YOU EXPECT TO WORK FOR YOURSELF OR FOR SOMEONE ELSE RIGHT AFTER YOU LEAVE THE ARMY?
+               answer_label answer_value raw_counts relative_frequency
+0  ARMY AND OTHER CODE 1355          1.0         43               0.03
+1                NOT CHOSEN          2.0       1355               0.97
+
+
+
+S106OE.Q20.9DO YOU EXPECT TO WORK FOR YOURSELF OR FOR SOMEONE ELSE RIGHT AFTER YOU LEAVE THE ARMY?
+                 answer_label answer_value raw_counts relative_frequency
+0  SCHOOL AND OTHER CODE 1383          1.0         15               0.01
+1                  NOT CHOSEN          2.0       1383               0.99
+
+
+
+S106OE.Q20.10DO YOU EXPECT TO WORK FOR YOURSELF OR FOR SOMEONE ELSE RIGHT AFTER YOU LEAVE THE ARMY?
+                            answer_label answer_value raw_counts relative_frequency
+0  NO DEFINITE PLANS AND OTHER CODE 1385          1.0         13               0.01
+1                             NOT CHOSEN          2.0       1385               0.99
+
+
+
+S106OE.Q20.11DO YOU EXPECT TO WORK FOR YOURSELF OR FOR SOMEONE ELSE RIGHT AFTER YOU LEAVE THE ARMY?
+                                 answer_label answer_value raw_counts relative_frequency
+0  COMBINATION OF CODES (COLUMNS 51-54 ABOVE)          1.0         10               0.01
+1                                  NOT CHOSEN          2.0       1388               0.99
+
+
+
+S106OE.Q20.12DO YOU EXPECT TO WORK FOR YOURSELF OR FOR SOMEONE ELSE RIGHT AFTER YOU LEAVE THE ARMY?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0         24               0.02
+1   NOT CHOSEN          2.0       1374               0.98
+
+
+
+S106OE.Q21 DO YOU THINK YOU WILL TRY TO GET A GOVERNMENT (FEDERAL, STATE, CITY, ETC.) JOB AFTER THE WAR?
+                                                             answer_label answer_value raw_counts relative_frequency
+0                                                               NO ANSWER          0.0        125               0.09
+1          I HAVE A GOVERNMENT JOB WAITING FOR ME, WHICH I EXPECT TO TAKE          1.0         77               0.06
+2                    I AM DEFINITELY GOING TO TRY TO GET A GOVERNMENT JOB          2.0        140                0.1
+3  I WOULD LIKE A GOVERNMENT JOB, BUT I AM NOT SURE I WILL TRY TO GET ONE          3.0        295               0.21
+4               I WOULD TRY IF I COULDN'T GET SOME OTHER JOB I WOULD LIKE          4.0        334               0.24
+5                          I AM NOT AT ALL INTERESTED IN A GOVERNMENT JOB          5.0        427               0.31
+
+
+
+S106OE.Q22 HAVE YOU EVER WORKED ON A FARM FOR AS MUCH AS A YEAR?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0         21               0.02
+1  YES, ON A FULL-TIME BASIS          1.0        182               0.13
+2  YES, ON A PART-TIME BASIS          2.0        197               0.14
+3                         NO          3.0        998               0.71
+
+
+
+S106OE.Q23 DO YOU THINK YOU WILL DO FARMING WHEN YOU GET OUT OF THE ARMY?
+                                                  answer_label answer_value raw_counts relative_frequency
+0                                                    NO ANSWER          0.0         22               0.02
+1                  YES, I AM ALMOST SURE I WILL FARM FULL-TIME          1.0         33               0.02
+2  I EXPECT TO FARM, BUT TO HAVE A STEADY JOB AT THE SAME TIME          2.0         52               0.04
+3                                 I MAY FARM, BUT I'M NOT SURE          3.0        117               0.08
+4                             NO, I'M ALMOST SURE I WON'T FARM          4.0       1174               0.84
+
+
+
+S106OE.Q24 DO YOU EXPECT TO BUY OR TO INHERIT A FARM IN THE NEXT FIVE OR TEN YEARS?
+                              answer_label answer_value raw_counts relative_frequency
+0                       NO CODE OR NO DATA          0.0          2                0.0
+1  I DON'T EXPECT TO BUY OR INHERIT A FARM          1.0        843                0.6
+2                     I ALREADY OWN A FARM          2.0         54               0.04
+3                   I EXPECT TO BUY A FARM          3.0        106               0.08
+4               I EXPECT TO INHERIT A FARM          4.0         85               0.06
+5                             I DON'T KNOW          5.0        286                0.2
+6                                NO ANSWER          6.0         22               0.02
+
+
+
+S106OE.Q25 DO YOU FEEL THAT YOU HAVE HAD AS MUCH SCHOOL OR COLLEGE AS YOU WANT, OR WOULD YOU LIKE TO GO BACK TO SCHOOL OR COLLEGE AFTER THE WAR?
+                                             answer_label answer_value raw_counts relative_frequency
+0                                               NO ANSWER          0.0         37               0.03
+1          I HAVE HAD AS MUCH SCHOOL OR COLLEGE AS I WANT          1.0        477               0.34
+2  I WOULD LIKE TO GO BACK TO FULL-TIME SCHOOL OR COLLEGE          2.0        359               0.26
+3  I WOULD LIKE TO GO BACK TO PART-TIME SCHOOL OR COLLEGE          3.0        525               0.38
+
+
+
+S106OE.Q26 IT HAS BEEN PLANNED THAT THE FEDERAL GOVERNMENT WILL PAY TUITION AND OTHER EDUCATIONAL EXPENSES PLUS A LIVING ALLOWANCE OF $50 PER MONTH TO VETERANS WHO QUALIFY AND WANT TO CONTINUE THEIR SCHOOLING. DO YOU THINK YOU WOULD GO BACK TO FULL-TIME SCHOOL OR C
+                                                                     answer_label answer_value raw_counts relative_frequency
+0                                                                       NO ANSWER          0.0         54               0.04
+1  I EXPECT TO GO BACK TO FULL-TIME SCHOOL WHETHER OR NOT THE GOVERNMENT HELPS ME          1.0        167               0.12
+2         I WILL GO BACK TO FULL-TIME SCHOOL IF THE GOVERNMENT PROVIDES THIS HELP          2.0        253               0.18
+3     I WILL NOT GO BACK TO FULL-TIME SCHOOL EVEN IF THE GOVERNMENT WOULD HELP ME          3.0        534               0.38
+4                                                                       UNDECIDED          4.0        390               0.28
+
+
+
+S106OE.Q27 REGARDLESS OF WHAT YOU WOULD LIKE TO DO, DO YOU THINK YOU WILL ACTUALLY GO BACK TO SCHOOL OR COLLEGE AFTER THE WAR?
+                                            answer_label answer_value raw_counts relative_frequency
+0                                              NO ANSWER          0.0         32               0.02
+1                    YES, TO FULL-TIME SCHOOL OR COLLEGE          1.0        232               0.17
+2                    YES, TO PART-TIME SCHOOL OR COLLEGE          2.0        288               0.21
+3  NO, I DON'T THINK I WILL GO BACK TO SCHOOL OR COLLEGE          3.0        550               0.39
+4                                              UNDECIDED          4.0        296               0.21
+
+
+
+S106OE.Q28 IF YOU COULD KEEP YOUR COMMISSION AFTER THE WAR, DO YOU THINK YOU MIGHT WANT TO MAKE A CAREER OF THE ARMY?
+                            answer_label answer_value raw_counts relative_frequency
+0                              NO ANSWER          0.0         16               0.01
+1         YES, I WOULD WANT TO VERY MUCH          1.0        427               0.31
+2  YES, I MIGHT WANT TO BUT I'M NOT SURE          2.0        389               0.28
+3      NO, I DON'T THINK I WOULD WANT TO          3.0        255               0.18
+4         NO, I WOULD NOT WANT TO AT ALL          4.0        311               0.22
+
+
+
+S106OE.Q29 DO YOU THINK YOU MIGHT WANT TO STAY IN THE ARMY, AS AN OFFICER, FOR A YEAR OR TWO AFTER THE WAR?
+                            answer_label answer_value raw_counts relative_frequency
+0                     NO CODE OR NO DATA          0.0          2                0.0
+1         YES, I WOULD WANT TO VERY MUCH          1.0        425                0.3
+2  YES, I MIGHT WANT TO BUT I'M NOT SURE          2.0        404               0.29
+3          NO, I DON'T THINK I'D WANT TO          3.0        226               0.16
+4         NO, I WOULD NOT WANT TO AT ALL          4.0        320               0.23
+5                              NO ANSWER          5.0         21               0.02
+
+
+
+S106OE.Q30 DO YOU THINK YOU MIGHT WANT TO STAY IN THE ARMY AS AN OFFICER AFTER THE WAR EVEN IF YOU HAD TO ACCEPT A LOWER GRADE THAN YOU NOW HOLD?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         15               0.01
+1          YES          1.0        387               0.28
+2           NO          2.0        837                0.6
+3    UNDECIDED          3.0        159               0.11
+
+
+
+S106OE.Q31 WOULD YOU CONSIDER STAYING IN THE ARMY AS A NONCOM AFTER THE WAR?
+                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                  NO ANSWER          0.0         16               0.01
+1                         I WOULD BE WILLING TO STAY AS A NONCOM PERMANENTLY          1.0         39               0.03
+2  I WOULD BE WILLING TO STAY AS A NONCOM IF I COULD LATER BE RECOMMISSIONED          2.0         79               0.06
+3                                   I WOULD NOT CONSIDER STAYING AS A NONCOM          3.0       1203               0.86
+4                                                                  UNDECIDED          4.0         61               0.04
+
+
+
+S106OE.Q32 IF YOU WERE FAIRLY CERTAIN OF GETTING A GOOD CIVILIAN JOB WHEN THE WAR IS OVER, DO YOU STILL THINK YOU WOULD STAY IN THE ARMY?
+                                         answer_label answer_value raw_counts relative_frequency
+0                                           NO ANSWER          0.0         17               0.01
+1         YES, I WOULD STILL WANT TO STAY IN THE ARMY          1.0        252               0.18
+2  I MIGHT WANT TO STAY IN THE ARMY, BUT I'M NOT SURE          2.0        215               0.15
+3                   NO, I WOULD TAKE THE CIVILIAN JOB          3.0        825               0.59
+4                                           UNDECIDED          4.0         89               0.06
+
+
+
+S106OE.Q33 WOULD YOU WANT TO SERVE OVERSEAS AS AN OFFICER WITH AN ARMY OF OCCUPATION FOR 3 TO 5 YEARS AFTER THE WAR?
+                        answer_label answer_value raw_counts relative_frequency
+0                          NO ANSWER          0.0         13               0.01
+1     YES, I WOULD WANT TO VERY MUCH          1.0        145                0.1
+2  I MIGHT WANT TO, BUT I'M NOT SURE          2.0        229               0.16
+3             NO, I WOULDN'T WANT TO          3.0        939               0.67
+4                          UNDECIDED          4.0         72               0.05
+
+
+
+S106OE.Q34 IF YOU ARE MARRIED, HOW WOULD YOUR WIFE FEEL ABOUT YOUR STAYING IN THE ARMY AS AN OFFICER AFTER THE WAR?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0         11               0.01
+1      SHE WOULD LIKE TO HAVE ME STAY          1.0        166               0.12
+2      IT WOULDN'T MATTER MUCH TO HER          2.0        127               0.09
+3  SHE WOULD NOT LIKE TO HAVE ME STAY          3.0        245               0.18
+4     I DON'T KNOW HOW SHE WOULD FEEL          4.0        135                0.1
+5                    I AM NOT MARRIED          5.0        714               0.51
+
+
+
+S106OE.Q35 IF YOU THINK YOU WILL WANT TO STAY IN THE ARMY, WHAT ARE YOUR REASONS FOR WANTING TO STAY?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0         64               0.05
+1                  COMMENT WRITTEN IN          1.0        716               0.51
+2  I DO NOT THINK I WILL WANT TO STAY          2.0        618               0.44
+
+
+
+S106OE.Q36 DO YOU THINK YOU WILL ACTUALLY STAY IN THE ARMY, OF YOUR OWN CHOICE, AFTER THE WAR?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         19               0.01
+1           NO          2.0        714               0.51
+2          YES          1.0        304               0.22
+3    UNDECIDED          3.0        361               0.26
+
+
+
+S106OE.Q37 WOULD YOU WANT TO REMAIN IN THE AIR CORPS AFTER THE WAR IF YOU COULD RETAIN YOUR FLYING STATUS?
+                                                                        answer_label answer_value raw_counts relative_frequency
+0  I WOULD WANT TO STAY IN THE AIR CORPS EVEN IF I COULD NOT RETAIN MY FLYING STATUS          1.0         24               0.02
+1                                 I WOULD STAY ONLY IF I COULD KEEP MY FLYING STATUS          2.0        460               0.33
+2                 I WOULD WANT TO STAY IN THE AIR CORPS, BUT NOT AS A FLYING OFFICER          3.0         10               0.01
+3                                       NO, I WOULDN'T WANT TO STAY IN THE AIR CORPS          4.0         94               0.07
+4                                                            INAPPLICABLE, NO ANSWER          9.0        810               0.58
+
+
+
+FORM..1FORM
+                                               answer_label answer_value raw_counts relative_frequency
+0  S-10XXE - OFFICERS - EUROPEAN THEATER OF OPERATIONS FORM          5.0       1398                1.0
+
+
+
+S106OE.Q38 IF FLYING PAY WERE CUT OUT AFTER THE WAR AND YOU COULD GET ONLY THE REGULAR PAY FOR YOUR GRADE, WOULD YOU STILL WANT TO STAY IN THE AIR CORPS, WITH FLYING STATUS, AFTER THE WAR?
+                                                                             answer_label answer_value raw_counts relative_frequency
+0                                    I WOULD WANT TO STAY EVEN IF FLYING PAY WERE CUT OUT          1.0        190               0.14
+1                        I WOULD WANT TO STAY ONLY IF I COULD CONTINUE TO DRAW FLYING PAY          2.0        268               0.19
+2  I PROBABLY WOULD NOT WANT TO STAY REGARDLESS OF WHETHER OR NOT I COULD DRAW FLYING PAY          3.0        109               0.08
+3                                                                 INAPPLICABLE, NO ANSWER          9.0        831               0.59
+
+
+
+S106OE.Q39 WOULD YOU CONSIDER SIGNING UP TO REMAIN IN THE AIR CORPS AFTER THE WAR IF YOUR FIRST ASSIGNMENT WAS OUTSIDE THE CONTINENTAL UNITED STATES?
+                         answer_label answer_value raw_counts relative_frequency
+0       YES, I WOULD PROBABLY SIGN UP          1.0        195               0.14
+1           I MIGHT, BUT I'M NOT SURE          2.0        188               0.13
+2  NO, I WOULDN'T CONSIDER SIGNING UP          3.0        241               0.17
+3             INAPPLICABLE, NO ANSWER          9.0        774               0.55
+
+
+
+S106OE.Q40 IF YOU WERE OFFERED NOW AN APPOINTMENT AS AN OFFICER IN THE REGULAR ARMY AFTER THE WAR, WOULD YOU APPLY NOW?
+              answer_label answer_value raw_counts relative_frequency
+0                      YES          1.0        327               0.23
+1                       NO          2.0        146                0.1
+2                UNDECIDED          3.0        147               0.11
+3  INAPPLICABLE, NO ANSWER          9.0        778               0.56
+
+
+
+S106OE.Q41 WOULD YOU APPLY NOW FOR AN APPOINTMENT AS AN OFFICER IN THE REGULAR ARMY AFTER THE WAR IF YOU KNEW FOR SURE THAT YOU COULD HAVE A LEAVE OF A MONTH OR TWO IN THE UNITED STATES BEFORE UNDERTAKING YOUR NEW ASSIGNMENT?
+                                                                                                        answer_label answer_value raw_counts relative_frequency
+0  I WOULD PROBABLY APPLY EVEN IF I COULD NOT GET A LEAVE IN THE UNITED STATES BEFORE REPORTING ON MY NEW ASSIGNMENT          1.0        177               0.13
+1                      I WOULD APPLY ONLY IF I WAS SURE OF HAVING A LEAVE IN THE UNITED STATES AFTER THE WAR IS OVER          2.0        244               0.17
+2                                                                               I WOULD NOT APPLY FOR AN APPOINTMENT          3.0        197               0.14
+3                                                                                            INAPPLICABLE, NO ANSWER          9.0        780               0.56
+
+
+
+S106OE.Q42 IN WHAT STATE OF THE UNITED STATES DID YOU SPEND MOST OF THE LAST FIVE YEARS OF YOUR CIVILIAN LIFE BEFORE YOU CAME INTO THE ARMY? E. SECTION:
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         15               0.01
+1                  NEW ENGLAND          1.0         81               0.06
+2              MIDDLE ATLANTIC          2.0        321               0.23
+3           EAST NORTH CENTRAL          3.0        289               0.21
+4           WEST NORTH CENTRAL          4.0        140                0.1
+5               SOUTH ATLANTIC          5.0        144                0.1
+6           EAST SOUTH CENTRAL          6.0         79               0.06
+7           WEST SOUTH CENTRAL          7.0        142                0.1
+8                     MOUNTAIN          8.0         53               0.04
+9                      PACIFIC          9.0        121               0.09
+10  FOREIGN - U.S. POSSESSIONS         10.0          4                0.0
+11          FOREIGN - NOT U.S.         11.0          2                0.0
+12  U.S. - STATE NOT SPECIFIED         12.0          7               0.01
+
+
+
+S106OE.Q43A WERE YOU LIVING IN THE STATE YOU NAMED ABOVE JUST BEFORE YOU CAME INTO THE ARMY?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         18               0.01
+1          YES          1.0       1239               0.89
+2           NO          2.0        141                0.1
+
+
+
+S106OE.Q43B IF NOT, WHAT STATE WERE YOU LIVING IN JUST BEFORE YOU CAME INTO THE ARMY?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         21               0.02
+1                  NEW ENGLAND          1.0         85               0.06
+2              MIDDLE ATLANTIC          2.0        311               0.22
+3           EAST NORTH CENTRAL          3.0        281                0.2
+4           WEST NORTH CENTRAL          4.0        125               0.09
+5               SOUTH ATLANTIC          5.0        164               0.12
+6           EAST SOUTH CENTRAL          6.0         79               0.06
+7           WEST SOUTH CENTRAL          7.0        136                0.1
+8                     MOUNTAIN          8.0         48               0.03
+9                      PACIFIC          9.0        130               0.09
+10  FOREIGN - U.S. POSSESSIONS         10.0          4                0.0
+11          FOREIGN - NOT U.S.         11.0          9               0.01
+12  U.S. - STATE NOT SPECIFIED         12.0          5                0.0
+
+
+
+S106OE.Q44 WHAT STATE IN THE UNITED STATES DO YOU THINK YOU WILL LIVE IN RIGHT AFTER YOU GET OUT OF THE ARMY?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0        255               0.18
+1                  NEW ENGLAND          1.0         73               0.05
+2              MIDDLE ATLANTIC          2.0        264               0.19
+3           EAST NORTH CENTRAL          3.0        217               0.16
+4           WEST NORTH CENTRAL          4.0         97               0.07
+5               SOUTH ATLANTIC          5.0        128               0.09
+6           EAST SOUTH CENTRAL          6.0         66               0.05
+7           WEST SOUTH CENTRAL          7.0        110               0.08
+8                     MOUNTAIN          8.0         39               0.03
+9                      PACIFIC          9.0        133                0.1
+10  FOREIGN - U.S. POSSESSIONS         10.0          2                0.0
+11          FOREIGN - NOT U.S.         11.0          1                0.0
+12  U.S. - STATE NOT SPECIFIED         12.0         13               0.01
+
+
+
+S106OE.V44A COMBINATION OF QUESTIONS 42-44.
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0         42               0.03
+1  SAME STATE AS IN Q.42          1.0        993               0.71
+2  SAME STATE AS IN Q.43          2.0         31               0.02
+3       SOME OTHER STATE          3.0        106               0.08
+4              UNDECIDED          4.0        226               0.16
+
+
+
+S106OE.Q45 HOW SURE DO YOU FEEL THAT YOU WILL ACTUALLY LIVE IN THE STATE YOU NAMED IN QUESTION 43?
+                                                   answer_label answer_value raw_counts relative_frequency
+0                                                     NO ANSWER          0.0         55               0.04
+1                         I AM ALMOST CERTAIN I WILL LIVE THERE          1.0        750               0.54
+2  I WILL PROBABLY LIVE THERE, BUT I MAY GO TO SOME OTHER STATE          2.0        349               0.25
+3                 I AM REALLY NOT AT ALL SURE WHERE I WILL LIVE          3.0        244               0.17
+
+
+
+S106OE.Q46 AFTER THE WAR, DO YOU PLAN TO GO BACK AND LIVE IN THE SAME PLACE - THE SAME LOCAL AREA, SAY WITHIN 5 OR 10 MILES OF WHERE YOU LIVED BEFORE YOU ENTERED THE ARMY?
+                                        answer_label answer_value raw_counts relative_frequency
+0                                 NO CODE OR NO DATA          0.0          2                0.0
+1  YES, I PLAN TO LIVE THERE FOR A LONG TIME TO COME          1.0        546               0.39
+2                     YES, BUT ONLY FOR A SHORT TIME          2.0        214               0.15
+3                                                 NO          3.0        253               0.18
+4                                          UNDECIDED          4.0        343               0.25
+5                                          NO ANSWER          5.0         40               0.03
+
+
+
+S106OE.Q47 UP TO NOW, HOW MUCH HAD YOU THOUGHT ABOUT EXACTLY WHAT YOU WILL WANT TO DO AFTER THE WAR?
+                         answer_label answer_value raw_counts relative_frequency
+0                  NO CODE OR NO DATA          0.0          2                0.0
+1  I HAD THOUGHT A GOOD DEAL ABOUT IT          1.0       1024               0.73
+2         I HAD THOUGHT SOME ABOUT IT          2.0        301               0.22
+3       I HAD HARDLY THOUGHT ABOUT IT          3.0         44               0.03
+4                           NO ANSWER          4.0         27               0.02
+
+
+
+S106OE.Q48A HOW MUCH HAS SERVING IN THE ARMY CHANGED THE PLANS FOR YOUR LIFE THAT YOU HAD BEFORE YOU ENTERED THE ARMY?
+                                                        answer_label answer_value raw_counts relative_frequency
+0                                                 NO CODE OR NO DATA          0.0          2                0.0
+1  IT HAS DELAYED CARRYING OUT MY PLANS BUT HASN'T CHANGED THEM MUCH          1.0        471               0.34
+2      IT HAS DELAYED CARRYING OUT SOME PLANS AND HAS CHANGED OTHERS          2.0        352               0.25
+3                                    IT HAS CHANGED MOST OF MY PLANS          3.0        323               0.23
+4                       I REALLY DIDN'T HAVE ANY VERY DEFINITE PLANS          4.0        186               0.13
+5                                                          NO ANSWER          5.0         64               0.05
+
+
+
+S106OE.V50 ATTITUDE TOWARD STAYING IN ARMY SCORE E. DERIVED FROM QUESTIONS 18A, 28, 29, 36.
+                          answer_label answer_value raw_counts relative_frequency
+0  DEFINITELY WANT TO STAY IN THE ARMY          1.0        174               0.12
+1         ARE SERIOUSLY CONSIDERING IT          2.0        424                0.3
+2          ARE POSSIBLY CONSIDERING IT          3.0        197               0.14
+3          ARE POSSIBLY CONSIDERING IT          4.0        274                0.2
+4       DEFINITELY DO NOT WANT TO STAY          5.0        329               0.24
+
+
+
+S106OE.V51 OLD AND NEW ARMY:
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1                 NEW          1.0       1025               0.73
+2                 OLD          2.0        371               0.27
+
+
+
+S106OE.V52 TYPE OF TROOP IDENTIFICATION:
+                     answer_label answer_value raw_counts relative_frequency
+0              NO CODE OR NO DATA          0.0          4                0.0
+1        AIR CORPS FIGHTER GROUPS          1.0        797               0.57
+2   AIR CORPS LIGHT BOMBER GROUPS          2.0        199               0.14
+3  AIR CORPS MEDIUM BOMBER GROUPS          3.0        398               0.28
+
+
+
+S106OE.V53 IDENTIFICATION OF WORLD-WIDE CROSS-SECTION: E. A WORLD-WIDE CROSS-SECTION OF OFFICERS MAY BE CREATED BY COMBINING THE WORLD-WIDE CROSS-SECTION CASES FROM AMS-106OU, AMS-106OE, AMS-106OH.
+               answer_label answer_value raw_counts relative_frequency
+0  WORLD-WIDE CROSS SECTION          1.0        269               0.19
+1           ALL OTHER CASES          2.0       1129               0.81
+
+
+

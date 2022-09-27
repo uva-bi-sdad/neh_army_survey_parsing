@@ -1,0 +1,1482 @@
+FORMFORM
+  answer_label answer_value raw_counts relative_frequency
+0       S-207F          1.0       2154                1.0
+
+
+
+S207F.Qi1 HOW LONG HAVE YOU BEEN IN THE ARMY? E. IF YOU HAVE BEEN IN THE ARMY BEFORE, THEN WERE OUT FOR A WHILE, JUST CHECK THE LENGTH OF TIME SINCE YOU ENTERED THIS LAST TIME. IF YOU WERE IN THE NATIONAL GUARD, CHECK THE LENGTH OF TIME SINCE YOUR OUTFIT CAME INTO
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0          7                0.0
+1  OVER 6 MONTHS UP TO 1 YEAR          2.0         17               0.01
+2   OVER 1 YEAR UP TO 2 YEARS          3.0        688               0.32
+3  OVER 2 YEARS UP TO 3 YEARS          4.0        839               0.39
+4  OVER 3 YEARS UP TO 5 YEARS          5.0        549               0.25
+5                OVER 5 YEARS          6.0         54               0.03
+
+
+
+S207F.Qi2 HOW LONG HAVE YOU BEEN IN YOUR PRESENT GROUP?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0          1                0.0
+1              ONE MONTH OR LESS          1.0         63               0.03
+2  OVER ONE MONTH UP TO 2 MONTHS          2.0         81               0.04
+3   OVER 2 MONTHS UP TO 3 MONTHS          3.0        201               0.09
+4   OVER 3 MONTHS UP TO 6 MONTHS          4.0       1173               0.54
+5     OVER 6 MONTHS UP TO 1 YEAR          5.0        535               0.25
+6                  OVER ONE YEAR          6.0        100               0.05
+
+
+
+S207F.Qi3 WHEN WERE YOU BORN?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0         52               0.02
+1                       1926 - 18 YEARS OLD          1.0        141               0.07
+2                       1925 - 19 YEARS OLD          2.0        264               0.12
+3                       1924 - 20 YEARS OLD          3.0        228               0.11
+4                       1923 - 21 YEARS OLD          4.0        222                0.1
+5                       1922 - 22 YEARS OLD          5.0        205                0.1
+6                       1921 - 23 YEARS OLD          6.0        213                0.1
+7                       1920 - 24 YEARS OLD          7.0        215                0.1
+8                       1919 - 25 YEARS OLD          8.0        144               0.07
+9               1915-1918 - 26-29 YEARS OLD          9.0        404               0.19
+10              1910-1914 - 30-34 YEARS OLD         10.0         60               0.03
+11  1909 AND BEFORE - 35 YEARS OLD AND OVER         11.0          6                0.0
+
+
+
+S207F.Qi4 ARE YOU:
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0          4                0.0
+1                 SINGLE          1.0       1268               0.59
+2                MARRIED          2.0        862                0.4
+3  DIVORCED OR SEPARATED          3.0         20               0.01
+
+
+
+S207F.Qi5 WHAT IS YOUR MAIN FLYING DUTY?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0          6                0.0
+1   AIRPLANE COMMANDER          1.0        194               0.09
+2                PILOT          2.0        205                0.1
+3            NAVIGATOR          3.0        203               0.09
+4           BOMBARDIER          4.0        204               0.09
+5       RADAR OBSERVER          5.0        143               0.07
+6             ENGINEER          6.0        199               0.09
+7       RADIO OPERATOR          7.0        199               0.09
+8          TAIL GUNNER          8.0        203               0.09
+9           CFC GUNNER          9.0        200               0.09
+10      BLISTER GUNNER         10.0        398               0.18
+
+
+
+S207F.Qi6 WHAT IS YOUR RANK OR GRADE?
+                      answer_label answer_value raw_counts relative_frequency
+0                        NO ANSWER          0.0          2                0.0
+1                            MAJOR          1.0         12               0.01
+2                          CAPTAIN          2.0         83               0.04
+3                   1ST LIEUTENANT          3.0        292               0.14
+4                   2ND LIEUTENANT          4.0        534               0.25
+5                   FLIGHT OFFICER          5.0         81               0.04
+6                  MASTER SERGEANT          6.0          9                0.0
+7               TECHNICAL SERGEANT          7.0         96               0.04
+8                   STAFF SERGEANT          8.0        115               0.05
+9                         SERGEANT          9.0        377               0.18
+10                        CORPORAL         10.0        475               0.22
+11  PRIVATE FIRST CLASS OR PRIVATE         11.0         78               0.04
+
+
+
+S207F.Qi7 HOW LONG HAVE YOU HELD YOUR PRESENT RANK?
+                     answer_label answer_value raw_counts relative_frequency
+0                       NO ANSWER          0.0          2                0.0
+1                3 MONTHS OR LESS          1.0        579               0.27
+2    OVER 3 MONTHS UP TO 6 MONTHS          2.0        200               0.09
+3    OVER 6 MONTHS UP TO 9 MONTHS          3.0        427                0.2
+4   OVER 9 MONTHS UP TO 12 MONTHS          4.0        349               0.16
+5  OVER 12 MONTHS UP TO 18 MONTHS          5.0        315               0.15
+6  OVER 18 MONTHS UP TO 24 MONTHS          6.0        158               0.07
+7                  OVER 24 MONTHS          7.0        124               0.06
+
+
+
+S207F.Qi8A SO FAR AS YOU KNOW, WHAT IS THE HIGHEST RANK A MAN CAN HOLD FOR THE JOB YOU ARE NOW DOING IN YOUR PRESENT CREW?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         18               0.01
+1             CORPORAL          2.0          3                0.0
+2        BUCK SERGEANT          3.0        106               0.05
+3       STAFF SERGEANT          4.0        396               0.18
+4   TECHNICAL SERGEANT          5.0        465               0.22
+5      MASTER SERGEANT          6.0         39               0.02
+6       FLIGHT OFFICER          7.0          6                0.0
+7       1ST LIEUTENANT          8.0        298               0.14
+8       2ND LIEUTENANT          9.0         21               0.01
+9              CAPTAIN         10.0        442               0.21
+10               MAJOR         11.0        356               0.17
+11   HIGHER THAN MAJOR         12.0          4                0.0
+
+
+
+S207F.Qi8B WHAT DO YOU THINK THE TOP RANK REALLY SHOULD BE? (IF YOU THINK THE ONE YOU MARKED IN THE LAST QUESTION IS O.K., CHECK IT AGAIN BELOW. IF YOU THINK IT SHOULD BE HIGHER OR LOWER, CHECK WHAT YOU THINK IT SHOULD BE.)
+                      answer_label answer_value raw_counts relative_frequency
+0                        NO ANSWER          0.0         45               0.02
+1   PRIVATE FIRST CLASS OR PRIVATE          1.0          1                0.0
+2                         CORPORAL          2.0          1                0.0
+3                    BUCK SERGEANT          3.0          4                0.0
+4                   STAFF SERGEANT          4.0        124               0.06
+5               TECHNICAL SERGEANT          5.0        634               0.29
+6                  MASTER SERGEANT          6.0        173               0.08
+7                   FLIGHT OFFICER          7.0         75               0.03
+8                   1ST LIEUTENANT          8.0        194               0.09
+9                   2ND LIEUTENANT          9.0         23               0.01
+10                         CAPTAIN         10.0        519               0.24
+11                           MAJOR         11.0        350               0.16
+12               HIGHER THAN MAJOR         12.0         11               0.01
+
+
+
+S207F.Qi9 HOW DO YOU FEEL ABOUT YOUR PRESENT CHANCES FOR PROMOTION?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0         17               0.01
+1    VERY WELL SATISFIED          1.0        188               0.09
+2  FAIRLY WELL SATISFIED          2.0        609               0.28
+3  SOMEWHAT DISSATISFIED          3.0        601               0.28
+4      VERY DISSATISFIED          4.0        547               0.25
+5              UNDECIDED          5.0        192               0.09
+
+
+
+S207F.Qi10 HOW DO YOU THINK THE MEN IN YOUR OUTFIT ARE SELECTED FOR PROMOTION?
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0                                                                                                                 NO ANSWER          0.0        428                0.2
+1                                                                                                        BECAUSE OF ABILITY          1.0        584               0.27
+2                                                                                           BOOTLICKING OR PLAYING POLITICS          2.0        339               0.16
+3                                                                                                                      LUCK          3.0        353               0.16
+4                                                                                              BEEN IN THE ARMY A LONG TIME          4.0        166               0.08
+5  AUTOMATIC ("UP TO T/O LIMITS," "MASS PROMOTION," "UP TO WHATEVER THE JOB CALLS FOR"; LENGTH OF TIME IN GRADE, UNIT, ETC.          5.0        214                0.1
+6                                                                                                                     OTHER          6.0          4                0.0
+7                                                                                                             MISCELLANEOUS          7.0         66               0.03
+
+
+
+S207F.Qi11 HOW DO YOU FEEL ABOUT THE IMPORTANCE OF THE WORK YOU ARE DOING RIGHT NOW AS COMPARED WITH OTHER JOBS YOU MIGHT BE DOING IN THE ARMY?
+                                                 answer_label answer_value raw_counts relative_frequency
+0                                                   NO ANSWER          0.0         11               0.01
+1              IT IS AS IMPORTANT AS ANY OTHER JOB I COULD DO          1.0       1637               0.76
+2  IT IS FAIRLY IMPORTANT, BUT I COULD DO MORE IMPORTANT WORK          2.0        458               0.21
+3                            IT HARDLY SEEMS IMPORTANT AT ALL          3.0         48               0.02
+
+
+
+S207F.Qi12 DOES THE ARMY JOB YOU NOW HAVE GIVE YOU A CHANCE TO USE YOUR SKILL AND EXPERIENCE?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0          8                0.0
+1    A VERY GOOD CHANCE          1.0        686               0.32
+2  A FAIRLY GOOD CHANCE          2.0        762               0.35
+3  NOT MUCH OF A CHANCE          3.0        354               0.16
+4      NO CHANCE AT ALL          4.0        246               0.11
+5             UNDECIDED          5.0         98               0.05
+
+
+
+S207F.Qi13 WOULD YOU CHANGE TO SOME OTHER ARMY JOB IF GIVEN A CHANCE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          6                0.0
+1          YES          1.0        774               0.36
+2           NO          2.0       1038               0.48
+3    UNDECIDED          3.0        336               0.16
+
+
+
+S207F.Qi14 HOW DO YOU FEEL ABOUT THE AMOUNT OF WORK YOU HAVE TO DO?
+                                                            answer_label answer_value raw_counts relative_frequency
+0                                                              NO ANSWER          0.0         30               0.01
+1                     I HAVE TOO MUCH TO DO, BUT MOST OF IT IS NECESSARY          1.0        281               0.13
+2                   I HAVE TOO MUCH TO DO AND A LOT OF IT IS UNNECESSARY          2.0        367               0.17
+3                            I HAVE ABOUT THE RIGHT AMOUNT OF WORK TO DO          3.0       1346               0.62
+4               I AM NOT KEPT VERY BUSY, BUT I DON'T MIND SITTING AROUND          4.0         45               0.02
+5  I DON'T HAVE ENOUGH TO DO, AND IT GETS PRETTY TIRESOME SITTING AROUND          5.0         85               0.04
+
+
+
+S207F.Qi15 IN GENERAL, HOW WELL DO YOU LIKE WORKING IN YOUR PRESENT ARMY JOB?
+                       answer_label answer_value raw_counts relative_frequency
+0                         NO ANSWER          0.0          3                0.0
+1  I REALLY ENJOY MY WORK VERY MUCH          1.0        692               0.32
+2             I LIKE IT FAIRLY WELL          2.0       1122               0.52
+3             I DISLIKE IT A LITTLE          3.0        216                0.1
+4            I DISLIKE IT VERY MUCH          4.0        121               0.06
+
+
+
+S207F.Qi16 HAVE YOU EVER SERVED IN THE ARMY OUTSIDE THE UNITED STATES IN THIS WAR? (DON'T COUNT TRAINING TRIPS LIKE GYPSY)
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          7                0.0
+1          YES          1.0        498               0.23
+2           NO          2.0       1649               0.77
+
+
+
+S207F.Qi17 HAVE YOU BEEN IN ACTUAL COMBAT OR UNDER ENEMY FIRE IN THIS WAR?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          4                0.0
+1          YES          1.0        385               0.18
+2           NO          2.0       1765               0.82
+
+
+
+S207F.Qi18 HOW DO YOU FEEL ABOUT SERVING OVERSEAS?
+                                                                           answer_label answer_value raw_counts relative_frequency
+0                                                                             NO ANSWER          0.0         16               0.01
+1                                            I WANT TO GET OVERSEAS AS SOON AS POSSIBLE          1.0        395               0.18
+2                                                   I'M READY TO GO WHENEVER I'M NEEDED          2.0       1368               0.64
+3  I'D LIKE TO STAY IN THE U.S. FOR A FEW MONTHS, BUT THEN I'LL BE READY TO GO ANYWHERE          3.0        179               0.08
+4                                                           I DON'T WANT TO GO OVERSEAS          4.0        196               0.09
+
+
+
+S207F.Qi19 IF AND WHEN YOU GET INTO COMBAT HOW WELL DO YOU THINK YOU WILL STAND UP UNDER BATTLE CONDITIONS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         18               0.01
+1        VERY WELL          1.0        778               0.36
+2      FAIRLY WELL          2.0        957               0.44
+3    NOT VERY WELL          3.0         39               0.02
+4  NOT WELL AT ALL          4.0         33               0.02
+5        UNDECIDED          5.0        329               0.15
+
+
+
+S207F.Qi20 ABOUT HOW MUCH LONGER DO YOU THINK THE WAR WILL LAST WITH JAPAN?
+                                          answer_label answer_value raw_counts relative_frequency
+0                                            NO ANSWER          0.0         67               0.03
+1                                   LESS THAN 6 MONTHS          1.0         14               0.01
+2                                     EXACTLY 6 MONTHS          2.0         68               0.03
+3    MORE THAN 6 MONTHS UP TO BUT NOT INCLUDING 1 YEAR          3.0        202               0.09
+4                                       EXACTLY 1 YEAR          4.0        572               0.27
+5   MORE THAN 1 YEAR UP TO BUT NOT INCLUDING 18 MONTHS          5.0        155               0.07
+6                      EXACTLY 18 MONTHS (1 1/2 YEARS)          6.0        450               0.21
+7                         OVER 18 MONTHS UP TO 2 YEARS          7.0         71               0.03
+8                                      EXACTLY 2 YEARS          8.0        457               0.21
+9         OVER 2 YEARS UP TO BUT NOT INCLUDING 3 YEARS          9.0         51               0.02
+10                                     3 YEARS OR MORE         10.0         47               0.02
+
+
+
+S207F.Qi21 HOW IMPORTANT A PART DO YOU THINK B-29'S WILL PLAY IN WINNING THE WAR?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0          3                0.0
+1      A VERY IMPORTANT PART          1.0       1696               0.79
+2    A FAIRLY IMPORTANT PART          2.0        429                0.2
+3  NOT A VERY IMPORTANT PART          3.0         23               0.01
+4       NOT IMPORTANT AT ALL          4.0          3                0.0
+
+
+
+S207F.Qi22 DO YOU EVER GET THE FEELING THAT THIS WAR IS NOT WORTH FIGHTING?
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0         11               0.01
+1                  VERY OFTEN          1.0        109               0.05
+2                   SOMETIMES          2.0        440                0.2
+3  ONLY ONCE IN A GREAT WHILE          3.0        492               0.23
+4                       NEVER          4.0       1102               0.51
+
+
+
+S207F.Qi23 HOW MANY OF YOUR SQUADRON OFFICERS ARE THE KIND THAT ALWAYS TRY TO LOOK OUT FOR THE WELFARE OF ENLISTED MEN?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         13               0.01
+1         NONE          1.0         81               0.04
+2          FEW          2.0        534               0.25
+3   ABOUT HALF          3.0        338               0.16
+4         MOST          4.0        811               0.38
+5          ALL          5.0         82               0.04
+6   DON'T KNOW          6.0        295               0.14
+
+
+
+S207F.Qi24 DO YOU FEEL YOU REALLY BELONG IN YOUR SQUADRON AND ARE AN IMPORTANT PART OF IT?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0         15               0.01
+1    VERY MUCH SO          1.0        710               0.33
+2  FAIRLY MUCH SO          2.0        986               0.46
+3   NOT VERY MUCH          3.0        354               0.16
+4      NOT AT ALL          4.0         89               0.04
+
+
+
+S207F.Qi25 IN GENERAL DO YOU THINK THAT THE ENLISTED MEN IN YOUR PRESENT SQUADRON GET A SQUARE DEAL FROM THEIR SQUADRON OFFICERS?
+                                     answer_label answer_value raw_counts relative_frequency
+0                                       NO ANSWER          0.0         34               0.02
+1                       YES, IN MOST WAYS THEY DO          1.0        883               0.41
+2            IN SOME WAYS, YES, IN OTHER WAYS, NO          2.0       1055               0.49
+3  NO, ON THE WHOLE THEY DO NOT GET A SQUARE DEAL          3.0        182               0.08
+
+
+
+S207F.Qi26 IN GENERAL, DO YOU FEEL YOU YOURSELF HAVE GOTTEN A SQUARE DEAL FROM THE ARMY?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                         NO ANSWER          0.0          9                0.0
+1                          YES, IN MOST WAYS I HAVE          1.0       1015               0.47
+2              IN SOME WAYS, YES, IN OTHER WAYS, NO          2.0        901               0.42
+3  NO, ON THE WHOLE I HAVE NOT GOTTEN A SQUARE DEAL          3.0        229               0.11
+
+
+
+S207F.Qi27 CONSIDERING THEIR RESPONSIBILITIES, HOW DO YOU FEEL ABOUT THE PRIVILEGES THAT OFFICERS GET COMPARED WITH ENLISTED MEN?
+                                           answer_label answer_value raw_counts relative_frequency
+0                                             NO ANSWER          0.0         22               0.01
+1    FAR TOO MANY PRIVILEGES COMPARED WITH ENLISTED MEN          1.0        387               0.18
+2  A FEW TOO MANY PRIVILEGES COMPARED WITH ENLISTED MEN          2.0        655                0.3
+3                  ABOUT THE RIGHT NUMBER OF PRIVILEGES          3.0       1050               0.49
+4                                    TOO FEW PRIVILEGES          4.0         40               0.02
+
+
+
+S207F.Qi28A THE MEDICAL SERVICE YOU ARE GETTING?
+                                                       answer_label answer_value raw_counts relative_frequency
+0                                                         NO ANSWER          0.0          8                0.0
+1              ABOUT AS GOOD AS IT COULD BE UNDER THE CIRCUMSTANCES          1.0       1588               0.74
+2  COULD BE IMPROVED BUT IT WOULDN'T MAKE TOO MUCH DIFFERENCE TO ME          2.0        187               0.09
+3              COULD BE IMPROVED AND IT WOULD HELP A LOT IF IT WERE          3.0        278               0.13
+4                                                         UNCERTAIN          4.0         93               0.04
+
+
+
+S207F.Qi28B THE RECREATIONAL FACILITIES AT THIS BASE?
+                                                       answer_label answer_value raw_counts relative_frequency
+0                                                         NO ANSWER          0.0          9                0.0
+1            ABOUT AS GOOD AS THEY COULD BE UNDER THE CIRCUMSTANCES          1.0        883               0.41
+2  COULD BE IMPROVED BUT IT WOULDN'T MAKE TOO MUCH DIFFERENCE TO ME          2.0        311               0.14
+3              COULD BE IMPROVED AND IT WOULD HELP A LOT IF IT WERE          3.0        906               0.42
+4                                                         UNCERTAIN          4.0         45               0.02
+
+
+
+S207F.Qi28C THE FOOD AT YOUR MESS?
+                                                       answer_label answer_value raw_counts relative_frequency
+0                                                         NO ANSWER          0.0          7                0.0
+1              ABOUT AS GOOD AS IT COULD BE UNDER THE CIRCUMSTANCES          1.0       1015               0.47
+2  COULD BE IMPROVED BUT IT WOULDN'T MAKE TOO MUCH DIFFERENCE TO ME          2.0        158               0.07
+3              COULD BE IMPROVED AND IT WOULD HELP A LOT IF IT WERE          3.0        951               0.44
+4                                                         UNCERTAIN          4.0         23               0.01
+
+
+
+S207F.Qi31 HOW MUCH DOES IT BOTHER YOU WHEN YOU ARE ORDERED TO DO THINGS WHICH YOU DON'T SEE A GOOD REASON FOR DOING?
+               answer_label answer_value raw_counts relative_frequency
+0                 NO ANSWER          0.0         13               0.01
+1   BOTHERS ME A GREAT DEAL          1.0        396               0.18
+2    BOTHERS ME QUITE A BIT          2.0        729               0.34
+3    DOESN'T BOTHER ME MUCH          3.0        880               0.41
+4  DOESN'T BOTHER ME AT ALL          4.0        136               0.06
+
+
+
+S207F.Qi32 WHAT DO YOU THINK OF THE MILITARY CONTROL AND DISCIPLINE AT THIS BASE?
+                                     answer_label answer_value raw_counts relative_frequency
+0                                       NO ANSWER          0.0         34               0.02
+1     IT'S TOO STRICT BUT MOST OF IT IS NECESSARY          1.0         80               0.04
+2  IT'S TOO STRICT AND A LOT OF IT IS UNNECESSARY          2.0        618               0.29
+3                                IT'S ABOUT RIGHT          3.0       1304               0.61
+4                          IT'S NOT STRICT ENOUGH          4.0        118               0.05
+
+
+
+S207F.Qi33 IN GENERAL, HOW DOES YOUR BOMB GROUP GET ALONG WITH OTHER ORGANIZATIONS AT THIS BASE?
+    answer_label answer_value raw_counts relative_frequency
+0      NO ANSWER          0.0         66               0.03
+1      VERY WELL          1.0        706               0.33
+2    FAIRLY WELL          2.0       1121               0.52
+3  NOT VERY WELL          3.0        191               0.09
+4    VERY POORLY          4.0         70               0.03
+
+
+
+S207F.Qi34 HOW SUCCESSFUL ARE YOUR SQUADRON OFFICERS IN GETTING WILLING AND WHOLE-HEARTED COOPERATION FROM THE MEN?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         23               0.01
+1      VERY SUCCESSFUL          1.0        574               0.27
+2    FAIRLY SUCCESSFUL          2.0       1142               0.53
+3  NOT VERY SUCCESSFUL          3.0        245               0.11
+4         UNSUCCESSFUL          4.0         60               0.03
+5             NOT SURE          5.0        110               0.05
+
+
+
+S207F.Qi35 DO YOU FEEL YOUR SUPERIOR OFFICERS KNOW WHAT YOUR ABILITIES ARE AND WHAT YOU ARE ABLE TO DO?
+                                     answer_label answer_value raw_counts relative_frequency
+0                                       NO ANSWER          0.0         30               0.01
+1                           THEY HAVE A GOOD IDEA          1.0        669               0.31
+2                           THEY HAVE A FAIR IDEA          2.0       1021               0.47
+3  THEY KNOW LITTLE OR NOTHING ABOUT MY ABILITIES          3.0        434                0.2
+
+
+
+S207F.Qi36 ARE YOU USUALLY TOLD WHY THE THINGS THAT ARE DONE IN YOUR SQUADRON ARE NECESSARY?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         27               0.01
+1        ALMOST ALWAYS          1.0        318               0.15
+2              USUALLY          2.0        735               0.34
+3  ABOUT HALF THE TIME          3.0        447               0.21
+4          USUALLY NOT          4.0        457               0.21
+5         ALMOST NEVER          5.0        170               0.08
+
+
+
+S207F.Qi37 IN GENERAL ARE YOU GLAD YOU ARE IN A B-29 OUTFIT OR WOULD YOU RATHER BE IN SOME OTHER TYPE OF OUTFIT?
+                           answer_label answer_value raw_counts relative_frequency
+0                             NO ANSWER          0.0        105               0.05
+1                    PREFER B-29 OUTFIT          1.0       1326               0.62
+2                                  B-17          2.0         74               0.03
+3                                  B-24          3.0         90               0.04
+4             ALL OTHER "B'S" (BOMBERS)          4.0        116               0.05
+5  ALL "A" SHIPS, SUCH AS A-26 (ATTACK)          5.0         51               0.02
+6   ALL "P" SHIPS, (PURSUIT OR FIGHTER)          6.0         75               0.03
+7   ALL OTHER SPECIFIED (MISCELLANEOUS)          7.0         51               0.02
+8                 OTHER (NOT SPECIFIED)          8.0         34               0.02
+9                   MAKES NO DIFFERENCE          9.0        232               0.11
+
+
+
+S207F.Qi38 YOU WILL PROBABLY WANT TO TAKE A VACATION FIRST OF ALL AFTER YOU GET OUT OF THE ARMY. BUT AFTER THAT, WHICH ONE OF THE THINGS BELOW DO YOU THINK YOU ARE MOST LIKELY TO DO? (CHECK ONLY ONE - THE THINGS YOU THINK YOU ARE MOST LIKELY TO DO FIRST, EVEN IF YO
+                                           answer_label answer_value raw_counts relative_frequency
+0                                             NO ANSWER          0.0         13               0.01
+1  WORK FOR AN EMPLOYER, ON SALARY, WAGES OR COMMISSION          1.0        451               0.21
+2                     GO TO FULL-TIME SCHOOL OR COLLEGE          2.0        675               0.31
+3                                                  FARM          3.0         68               0.03
+4                                  HAVE MY OWN BUSINESS          4.0        354               0.16
+5                            I PLAN TO STAY IN THE ARMY          5.0        199               0.09
+6                          I'M UNDECIDED WHAT I WILL DO          6.0        364               0.17
+7                                     ALL DOUBLE CHECKS          7.0         30               0.01
+
+
+
+S207F.Qi39 HOW FAR DID YOU GO IN SCHOOL?
+                                        answer_label answer_value raw_counts relative_frequency
+0                                          NO ANSWER          0.0          6                0.0
+1                                 FINISHED 6TH GRADE          2.0          1                0.0
+2                                 FINISHED 7TH GRADE          3.0          3                0.0
+3                                 FINISHED 8TH GRADE          4.0         23               0.01
+4                SOME HIGH SCHOOL BUT DID NOT FINISH          5.0        223                0.1
+5                         GRADUATED FROM HIGH SCHOOL          6.0        960               0.45
+6                    SOME COLLEGE BUT DID NOT FINISH          7.0        825               0.38
+7  GRADUATED FROM COLLEGE (EDUCATION BEYOND COLLEGE)          8.0        113               0.05
+
+
+
+S207F.Qi40A1 LENGTH OF BRIEFINGS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         65               0.03
+1     TOO LONG          1.0        616               0.29
+2    TOO SHORT          2.0         22               0.01
+3  ABOUT RIGHT          3.0       1451               0.67
+
+
+
+S207F.Qi40A2 INFORMATION GIVEN AT BRIEFINGS?
+                       answer_label answer_value raw_counts relative_frequency
+0                         NO ANSWER          0.0        116               0.05
+1  TOO MUCH UNNECESSARY INFORMATION          1.0        612               0.28
+2            NOT ENOUGH INFORMATION          2.0        266               0.12
+3            ABOUT THE RIGHT AMOUNT          3.0       1160               0.54
+
+
+
+S207F.Qi40A3 THE WAY INFORMATION IS PRESENTED AT BRIEFINGS?
+       answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER          0.0         83               0.04
+1    WELL PRESENTED          1.0       1697               0.79
+2  POORLY PRESENTED          2.0        374               0.17
+
+
+
+S207F.Qi41 ON THE WHOLE, HOW IS THE MORALE OF THE FLIERS IN YOUR SQUADRON?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         35               0.02
+1    VERY HIGH          1.0        221                0.1
+2         HIGH          2.0        845               0.39
+3   JUST SO-SO          3.0        688               0.32
+4          LOW          4.0        227               0.11
+5     VERY LOW          5.0        138               0.06
+
+
+
+S207F.Qi42.1 WHAT TWO THINGS DO YOU THINK WOULD DO THE MOST GOOD TO IMPROVE THE MORALE OF THE MEN IN YOUR SQUADRON?
+                                                                                                              answer_label answer_value raw_counts relative_frequency
+0  COMPLAINTS ABOUT UTILIZATION OF TIME (BAD SCHEDULING OF FLIGHTS, "SWEATING" OUT PLANES, WANTS TO DECIDE FOR SELF HOW TO          1.0        368               0.17
+1                                                                                                               NOT CHOSEN          2.0       1786               0.83
+
+
+
+S207F.Qi42.2WHAT TWO THINGS DO YOU THINK WOULD DO THE MOST GOOD TO IMPROVE THE MORALE OF THE MEN IN YOUR SQUADRON?
+                                                                                         answer_label answer_value raw_counts relative_frequency
+0  ALL GROUND SCHOOL COMPLAINTS (SCHOOL NO GOOD, JUST A TIME KILLING DEVICE, REPETITION OF SCHOOLING)          1.0         93               0.04
+1                                                                                          NOT CHOSEN          2.0       2061               0.96
+
+
+
+S207F.Qi42.3WHAT TWO THINGS DO YOU THINK WOULD DO THE MOST GOOD TO IMPROVE THE MORALE OF THE MEN IN YOUR SQUADRON?
+                                                                              answer_label answer_value raw_counts relative_frequency
+0  PASS SITUATION BAD (OUGHT TO BE EASIER TO GET, AT LEAST ONE SUNDAY EVERY 2 WEEKS, ETC.)          1.0        254               0.12
+1                                                                               NOT CHOSEN          2.0       1900               0.88
+
+
+
+S207F.Qi42.4WHAT TWO THINGS DO YOU THINK WOULD DO THE MOST GOOD TO IMPROVE THE MORALE OF THE MEN IN YOUR SQUADRON?
+                                                       answer_label answer_value raw_counts relative_frequency
+0  COMPLAINTS ON RATINGS AND PROMOTIONS (T/O NOT HIGH ENOUGH, ETC.)          1.0        664               0.31
+1                                                        NOT CHOSEN          2.0       1490               0.69
+
+
+
+S207F.Qi42.5WHAT TWO THINGS DO YOU THINK WOULD DO THE MOST GOOD TO IMPROVE THE MORALE OF THE MEN IN YOUR SQUADRON?
+                                                                       answer_label answer_value raw_counts relative_frequency
+0  RECREATION AND SPORTS SHOULD BE IMPROVED (P.T. NOT GOOD, SPORTS PROGRAM INSTEAD)          1.0        127               0.06
+1                                                                        NOT CHOSEN          2.0       2027               0.94
+
+
+
+S207F.Qi42.6WHAT TWO THINGS DO YOU THINK WOULD DO THE MOST GOOD TO IMPROVE THE MORALE OF THE MEN IN YOUR SQUADRON?
+                                                                        answer_label answer_value raw_counts relative_frequency
+0  IMPROVE RELATIONS BETWEEN OFFICERS AND ENLISTED MEN (MORE PARTIES, GET TOGETHERS)          1.0         90               0.04
+1                                                                         NOT CHOSEN          2.0       2064               0.96
+
+
+
+S207F.Qi42.7WHAT TWO THINGS DO YOU THINK WOULD DO THE MOST GOOD TO IMPROVE THE MORALE OF THE MEN IN YOUR SQUADRON?
+                                                                               answer_label answer_value raw_counts relative_frequency
+0  FOOD NOT SATISFACTORY (IN-FLIGHT LUNCHES, PX NOT GOOD, HOT AND COLD DRINKS WHILE IN AIR)          1.0        168               0.08
+1                                                                                NOT CHOSEN          2.0       1986               0.92
+
+
+
+S207F.Qi42.8WHAT TWO THINGS DO YOU THINK WOULD DO THE MOST GOOD TO IMPROVE THE MORALE OF THE MEN IN YOUR SQUADRON?
+                                                          answer_label answer_value raw_counts relative_frequency
+0  KEEP MEN INFORMED (DON'T KNOW WHAT GOES ON AND WHY); LENGTH OF TOUR          1.0        109               0.05
+1                                                           NOT CHOSEN          2.0       2045               0.95
+
+
+
+S207F.Qi42.9WHAT TWO THINGS DO YOU THINK WOULD DO THE MOST GOOD TO IMPROVE THE MORALE OF THE MEN IN YOUR SQUADRON?
+                             answer_label answer_value raw_counts relative_frequency
+0  COMPLAINTS OF AIRPLANE MAINTENANCE PLM          1.0         70               0.03
+1                              NOT CHOSEN          2.0       2084               0.97
+
+
+
+S207F.Qi42.10WHAT TWO THINGS DO YOU THINK WOULD DO THE MOST GOOD TO IMPROVE THE MORALE OF THE MEN IN YOUR SQUADRON?
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0  INEFFICIENCY OF GROUP OPERATION: MEN NOT HANDLED FAIRLY; GIVE PRAISES WHEN DUE; GIVE MEN MORE RESPONSIBILITY; LESS RED T          1.0        454               0.21
+1                                                                                                                NOT CHOSEN          2.0       1700               0.79
+
+
+
+S207F.Qi42.11WHAT TWO THINGS DO YOU THINK WOULD DO THE MOST GOOD TO IMPROVE THE MORALE OF THE MEN IN YOUR SQUADRON?
+    answer_label answer_value raw_counts relative_frequency
+0  MISCELLANEOUS          1.0        746               0.35
+1     NOT CHOSEN          2.0       1408               0.65
+
+
+
+S207F.Qi42.12WHAT TWO THINGS DO YOU THINK WOULD DO THE MOST GOOD TO IMPROVE THE MORALE OF THE MEN IN YOUR SQUADRON?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0        184               0.09
+1   NOT CHOSEN          2.0       1970               0.91
+
+
+
+S207F.Qi43 IF IT WERE UP TO YOU TO CHOOSE, DO YOU THINK YOU COULD DO MORE FOR YOUR COUNTRY AS A SOLDIER OR AS A WORKER IN A WAR JOB?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1        AS A SOLDIER          1.0       1354               0.63
+2     AS A WAR WORKER          2.0        414               0.19
+3           UNDECIDED          3.0        372               0.17
+4           NO ANSWER          4.0         12               0.01
+
+
+
+S207F.Qi44 DO YOU EVER GET THE FEELING THAT YOU WILL NOT BE AS GOOD A COMBAT FLIER AS THE OTHER MEN ON YOUR CREW?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0         22               0.01
+1                I ALMOST NEVER FEEL THAT WAY          1.0       1519               0.71
+2  I FEEL THAT WAY ONLY ONCE IN A GREAT WHILE          2.0        497               0.23
+3                I FEEL THAT WAY FAIRLY OFTEN          3.0         84               0.04
+4      I FEEL THAT WAY NEARLY ALL OF THE TIME          4.0         32               0.01
+
+
+
+S207F.Qi45 IF YOU WERE ON A LONG MISSION AND IF FLYING AND COMBAT CONDITIONS PERMITTED, DO YOU THINK YOU WOULD BE ABLE TO SLEEP?
+                answer_label answer_value raw_counts relative_frequency
+0         NO CODE OR NO DATA          0.0          2                0.0
+1      YES, I'M SURE I COULD          1.0       1432               0.66
+2  NO, I DON'T THINK I COULD          2.0        431                0.2
+3                I CAN'T SAY          3.0        281               0.13
+4                  NO ANSWER          4.0          8                0.0
+
+
+
+S207F.Qi46A FLYING OVER MOUNTAINS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         39               0.02
+1        OFTEN          1.0         55               0.03
+2    SOMETIMES          2.0        311               0.14
+3         ONCE          3.0        153               0.07
+4        NEVER          4.0       1596               0.74
+
+
+
+S207F.Qi46B FLYING OVER WATER?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         35               0.02
+1        OFTEN          1.0         96               0.04
+2    SOMETIMES          2.0        364               0.17
+3         ONCE          3.0        176               0.08
+4        NEVER          4.0       1483               0.69
+
+
+
+S207F.Qi46C TAKE-OFFS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         26               0.01
+1        OFTEN          1.0        233               0.11
+2    SOMETIMES          2.0        665               0.31
+3         ONCE          3.0        196               0.09
+4        NEVER          4.0       1034               0.48
+
+
+
+S207F.Qi46D LANDINGS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         37               0.02
+1        OFTEN          1.0        115               0.05
+2    SOMETIMES          2.0        654                0.3
+3         ONCE          3.0        233               0.11
+4        NEVER          4.0       1115               0.52
+
+
+
+S207F.Qi46E TROUBLE WITH PRESSURIZED CABINS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         49               0.02
+1        OFTEN          1.0         54               0.03
+2    SOMETIMES          2.0        287               0.13
+3         ONCE          3.0        162               0.08
+4        NEVER          4.0       1602               0.74
+
+
+
+FORM..1FORM.
+  answer_label answer_value raw_counts relative_frequency
+0       S-207F          1.0       2154                1.0
+
+
+
+S207F.Qi46F FLYING FORMATION THROUGH HEAVY CLOUDS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         83               0.04
+1        OFTEN          1.0        301               0.14
+2    SOMETIMES          2.0        603               0.28
+3         ONCE          3.0        204               0.09
+4        NEVER          4.0        963               0.45
+
+
+
+S207F.Qi46G NIGHT FLYING?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         43               0.02
+1        OFTEN          1.0         74               0.03
+2    SOMETIMES          2.0        407               0.19
+3         ONCE          3.0        143               0.07
+4        NEVER          4.0       1487               0.69
+
+
+
+S207F.Qi46H FLYING IN BAD WEATHER?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         27               0.01
+1        OFTEN          1.0        243               0.11
+2    SOMETIMES          2.0        861                0.4
+3         ONCE          3.0        297               0.14
+4        NEVER          4.0        726               0.34
+
+
+
+S207F.Qi47A THE THOUGHT OF DITCHING?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         25               0.01
+1        OFTEN          1.0        134               0.06
+2    SOMETIMES          2.0        747               0.35
+3         ONCE          3.0        195               0.09
+4        NEVER          4.0       1053               0.49
+
+
+
+S207F.Qi47B THE THOUGHT OF CRASH LANDING?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         31               0.01
+1        OFTEN          1.0        131               0.06
+2    SOMETIMES          2.0        736               0.34
+3         ONCE          3.0        229               0.11
+4        NEVER          4.0       1027               0.48
+
+
+
+S207F.Qi47C THE THOUGHT OF GETTING LOST?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         31               0.01
+1        OFTEN          1.0         73               0.03
+2    SOMETIMES          2.0        408               0.19
+3         ONCE          3.0        211                0.1
+4        NEVER          4.0       1431               0.66
+
+
+
+S207F.Qi47D THE THOUGHT OF ENGINE FAILURE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         32               0.01
+1        OFTEN          1.0        253               0.12
+2    SOMETIMES          2.0        767               0.36
+3         ONCE          3.0        193               0.09
+4        NEVER          4.0        909               0.42
+
+
+
+S207F.Qi47E THE THOUGHT OF FIRE ON THE SHIP?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         31               0.01
+1        OFTEN          1.0        263               0.12
+2    SOMETIMES          2.0        808               0.38
+3         ONCE          3.0        273               0.13
+4        NEVER          4.0        779               0.36
+
+
+
+S207F.Qi47F THE THOUGHT OF BAILING OUT?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         29               0.01
+1        OFTEN          1.0        174               0.08
+2    SOMETIMES          2.0        691               0.32
+3         ONCE          3.0        245               0.11
+4        NEVER          4.0       1015               0.47
+
+
+
+S207F.Qi48 SO FAR AS YOU KNOW, WILL YOU GET ALL THE FIGHTER ESCORT YOU NEED WHEN YOUR GROUP IS IN COMBAT?
+                       answer_label answer_value raw_counts relative_frequency
+0                         NO ANSWER          0.0          6                0.0
+1              YES, I THINK WE WILL          1.0       1043               0.48
+2            NO, I DOUBT IF WE WILL          2.0        380               0.18
+3  I CAN'T SAY ONE WAY OR THE OTHER          3.0        725               0.34
+
+
+
+S207F.Qi49 DO YOU EVER WORRY WHETHER YOU WILL BE INJURED IN COMBAT BEFORE THE WAR IS OVER?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         11               0.01
+1         NEVER WORRY ABOUT IT          1.0        830               0.39
+2   HARDLY EVER WORRY ABOUT IT          2.0       1000               0.46
+3  WORRY ABOUT IT FAIRLY OFTEN          3.0        239               0.11
+4    WORRY ABOUT IT VERY OFTEN          4.0         74               0.03
+
+
+
+S207F.Qi50.1 ARE THERE ANY TACTICS OR PRACTICES OF THE JAPANESE THAT PARTICULARLY BOTHER YOU?
+                                                                                             answer_label answer_value raw_counts relative_frequency
+0  NOT BOTHERED IN PARTICULAR (WILL WORRY LATER; THIS IS WAR; THEY SHOOT LIVE AMMO; THEY TRY TO KILL YOU)          1.0        330               0.15
+1                                                                                              NOT CHOSEN          2.0       1824               0.85
+
+
+
+S207F.Qi50.2ARE THERE ANY TACTICS OR PRACTICES OF THE JAPANESE THAT PARTICULARLY BOTHER YOU?
+                                      answer_label answer_value raw_counts relative_frequency
+0  SUICIDE ATTACKS (KAMIKAZE) (RAMMING IN MID-AIR)          1.0        902               0.42
+1                                       NOT CHOSEN          2.0       1252               0.58
+
+
+
+S207F.Qi50.3ARE THERE ANY TACTICS OR PRACTICES OF THE JAPANESE THAT PARTICULARLY BOTHER YOU?
+                                                                                         answer_label answer_value raw_counts relative_frequency
+0  TREATMENT OF PRISONERS (TORTURING, ATROCITIES, CONCENTRATION CAMPS, BEING CAPTURED, BAD TREATMENT)          1.0        578               0.27
+1                                                                                          NOT CHOSEN          2.0       1576               0.73
+
+
+
+S207F.Qi50.4ARE THERE ANY TACTICS OR PRACTICES OF THE JAPANESE THAT PARTICULARLY BOTHER YOU?
+                                  answer_label answer_value raw_counts relative_frequency
+0  KILLING PRISONERS (BEHEADING, DECAPITATING)          1.0        119               0.06
+1                                   NOT CHOSEN          2.0       2035               0.94
+
+
+
+S207F.Qi50.5ARE THERE ANY TACTICS OR PRACTICES OF THE JAPANESE THAT PARTICULARLY BOTHER YOU?
+                               answer_label answer_value raw_counts relative_frequency
+0  FRONTAL OR NOSE ATTACKS (OUT OF THE SUN)          1.0         29               0.01
+1                                NOT CHOSEN          2.0       2125               0.99
+
+
+
+S207F.Qi50.6ARE THERE ANY TACTICS OR PRACTICES OF THE JAPANESE THAT PARTICULARLY BOTHER YOU?
+         answer_label answer_value raw_counts relative_frequency
+0  AIR TO AIR BOMBING          1.0         26               0.01
+1          NOT CHOSEN          2.0       2128               0.99
+
+
+
+S207F.Qi50.7ARE THERE ANY TACTICS OR PRACTICES OF THE JAPANESE THAT PARTICULARLY BOTHER YOU?
+    answer_label answer_value raw_counts relative_frequency
+0  MISCELLANEOUS          1.0        108               0.05
+1     NOT CHOSEN          2.0       2046               0.95
+
+
+
+S207F.Qi50.8ARE THERE ANY TACTICS OR PRACTICES OF THE JAPANESE THAT PARTICULARLY BOTHER YOU?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0        386               0.18
+1   NOT CHOSEN          2.0       1768               0.82
+
+
+
+S207F.Qi51 IF IT WERE UP TO YOU, WHAT KIND OF ARMY JOB WOULD YOU RATHER HAVE?
+                           answer_label answer_value raw_counts relative_frequency
+0                             NO ANSWER          0.0         89               0.04
+1  FLYING JOB HERE IN THE UNITED STATES          1.0        778               0.36
+2       GROUND JOB IN THE UNITED STATES          2.0        161               0.07
+3                   GROUND JOB OVERSEAS          3.0         50               0.02
+4                FLYING COMBAT OVERSEAS          4.0        790               0.37
+5            FLYING NON-COMBAT OVERSEAS          5.0        286               0.13
+
+
+
+S207F.Qi52A AS A KID HOW INTERESTED WERE YOU IN AIRPLANES, COMPARED TO OTHER KIDS?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0          7                0.0
+1  MUCH MORE INTERESTED THAN MOST KIDS          1.0        497               0.23
+2             SOMEWHAT MORE INTERESTED          2.0        478               0.22
+3         ABOUT THE SAME AS OTHER KIDS          3.0        898               0.42
+4      LESS INTERESTED THAN OTHER KIDS          4.0        274               0.13
+
+
+
+S207F.Qi52B DID YOU EVER FLY AS A PILOT OR PASSENGER BEFORE ENTERING THE ARMY?
+       answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER          0.0          6                0.0
+1  YES, A GOOD DEAL          1.0        229               0.11
+2         YES, SOME          2.0        973               0.45
+3         NO, NEVER          3.0        946               0.44
+
+
+
+S207F.Qi52C HOW DID YOU FEEL ABOUT FIGHTING AS A KID?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0          9                0.0
+1             DIDN'T LIKE FIGHTING AT ALL          1.0        527               0.24
+2  DIDN'T PARTICULARLY LIKE OR DISLIKE IT          2.0       1428               0.66
+3                   REALLY LIKED FIGHTING          3.0        190               0.09
+
+
+
+S207F.Qi53 DID YOU VOLUNTEER OR WERE YOU ASSIGNED TO B-29'S?
+               answer_label answer_value raw_counts relative_frequency
+0                 NO ANSWER          0.0         10                0.0
+1  I VOLUNTEERED FOR B-29,S          1.0        755               0.35
+2  I WAS ASSIGNED TO B-29,S          2.0       1389               0.64
+
+
+
+S207F.Qi54A WERE YOU EVER ELIMINATED OR WASHED OUT AT ANY STAGE OF AIR CADET TRAINING?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         15               0.01
+1          YES          1.0        879               0.41
+2           NO          2.0       1260               0.58
+
+
+
+S207F.Qi54B IF YES, HOW DO YOU FEEL ABOUT IT NOW?
+                                     answer_label answer_value raw_counts relative_frequency
+0                                       NO ANSWER          0.0       1170               0.54
+1                     I AM JUST AS WELL SATISFIED          1.0        447               0.21
+2  I AM SOMEWHAT DISSATISFIED WITH THE DEAL I GOT          2.0        313               0.15
+3      I AM VERY DISSATISFIED WITH THE DEAL I GOT          3.0        224                0.1
+
+
+
+S207F.Qi55 HOW DO YOU THINK YOUR SQUADRON STACKS UP WITH THE OTHER SQUADRONS IN YOUR BOMB GROUP?
+                      answer_label answer_value raw_counts relative_frequency
+0                        NO ANSWER          0.0         37               0.02
+1   AT LEAST AS GOOD AS THE OTHERS          1.0        815               0.38
+2  PROBABLY BETTER THAN THE OTHERS          2.0        637                0.3
+3      MUCH BETTER THAN THE OTHERS          3.0        558               0.26
+4        NOT AS GOOD AS THE OTHERS          4.0        107               0.05
+
+
+
+S207F.Qi56 IF YOU HAD TO BE TRANSFERRED TO ANOTHER SQUADRON IN YOUR GROUP, WHICH ONE WOULD YOU PICK?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          3                0.0
+1      461ST SQUADRON          1.0        461               0.21
+2      462ND SQUADRON          2.0        482               0.22
+3      463RD SQUADRON          3.0        493               0.23
+4                 847          4.0         42               0.02
+5     NONE, NO ANSWER          5.0        673               0.31
+
+
+
+S207F.Qi57 HOW DOES YOUR BOMB GROUP STACK UP WITH OTHER B-29 BOMB GROUPS THAT YOU KNOW ABOUT?
+                                        answer_label answer_value raw_counts relative_frequency
+0                                          NO ANSWER          0.0         25               0.01
+1                         AT LEAST AS GOOD AS OTHERS          1.0        519               0.24
+2                        PROBABLY BETTER THAN OTHERS          2.0        542               0.25
+3                            MUCH BETTER THAN OTHERS          3.0        296               0.14
+4                              NOT AS GOOD AS OTHERS          4.0         91               0.04
+5  I DON'T KNOW ANYTHING ABOUT ANY OTHER BOMB GROUPS          5.0        681               0.32
+
+
+
+S207F.Qi58A VIOLENT POUNDING OF THE HEART?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         53               0.02
+1        OFTEN          1.0         60               0.03
+2    SOMETIMES          2.0        390               0.18
+3         ONCE          3.0        196               0.09
+4        NEVER          4.0       1455               0.68
+
+
+
+S207F.Qi58B SINKING FEELING IN THE STOMACH?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         52               0.02
+1        OFTEN          1.0         85               0.04
+2    SOMETIMES          2.0        702               0.33
+3         ONCE          3.0        295               0.14
+4        NEVER          4.0       1020               0.47
+
+
+
+S207F.Qi58C FEELING OF WEAKNESS OR FEELING FAINT?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         64               0.03
+1        OFTEN          1.0         31               0.01
+2    SOMETIMES          2.0        170               0.08
+3         ONCE          3.0        152               0.07
+4        NEVER          4.0       1737               0.81
+
+
+
+S207F.Qi58D FEELING SICK AT THE STOMACH?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1               OFTEN          1.0         74               0.03
+2           SOMETIMES          2.0        525               0.24
+3                ONCE          3.0        366               0.17
+4               NEVER          4.0       1134               0.53
+5           NO ANSWER          5.0         53               0.02
+
+
+
+S207F.Qi58E COLD SWEAT?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1               OFTEN          1.0         73               0.03
+2           SOMETIMES          2.0        313               0.15
+3                ONCE          3.0        234               0.11
+4               NEVER          4.0       1484               0.69
+5           NO ANSWER          5.0         48               0.02
+
+
+
+S207F.Qi58F VOMITING?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         52               0.02
+1        OFTEN          1.0         34               0.02
+2    SOMETIMES          2.0        140               0.06
+3         ONCE          3.0        212                0.1
+4        NEVER          4.0       1716                0.8
+
+
+
+S207F.Qi58G SHAKING OR TREMBLING ALL OVER?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          3                0.0
+1               OFTEN          1.0         31               0.01
+2           SOMETIMES          2.0        113               0.05
+3                ONCE          3.0        122               0.06
+4               NEVER          4.0       1834               0.85
+5           NO ANSWER          5.0         51               0.02
+
+
+
+S207F.Qi58H FEELING OF STIFFNESS?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1               OFTEN          1.0         46               0.02
+2           SOMETIMES          2.0        306               0.14
+3                ONCE          3.0         97               0.05
+4               NEVER          4.0       1654               0.77
+5           NO ANSWER          5.0         49               0.02
+
+
+
+S207F.Qi59 IN YOUR OPINION, DOES YOUR AIRPLANE COMMANDER KNOW HIS STUFF?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         13               0.01
+1               YES, VERY WELL          1.0       1646               0.76
+2             YES, FAIRLY WELL          2.0        260               0.12
+3              NO, HE DOES NOT          3.0         17               0.01
+4  I AM THE AIRPLANE COMMANDER          4.0        192               0.09
+5                    UNDECIDED          5.0         26               0.01
+
+
+
+S207F.Qi60 HOW DOES YOUR AIRPLANE COMMANDER COMPARE WITH MOST OF THE OTHER AIRPLANE COMMANDERS YOU KNOW?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         28               0.01
+1        MUCH BETTER THAN MOST          1.0       1025               0.48
+2    SOMEWHAT BETTER THAN MOST          2.0        459               0.21
+3              AS GOOD AS MOST          3.0        412               0.19
+4          NOT AS GOOD AS MOST          4.0         39               0.02
+5  I AM THE AIRPLANE COMMANDER          5.0        191               0.09
+
+
+
+S207F.Qi61 HOW MANY HOURS HAVE YOU FLOWN WITH YOUR PRESENT AIRPLANE COMMANDER? (A/C'S OMIT ANSWERING THIS)
+            answer_label answer_value raw_counts relative_frequency
+0  DON'T KNOW, NO ANSWER          0.0        216                0.1
+1           0 - 39 HOURS          1.0        133               0.06
+2          40 - 79 HOURS          2.0        190               0.09
+3         80 - 119 HOURS          3.0        535               0.25
+4        120 - 159 HOURS          4.0        454               0.21
+5        160 - 199 HOURS          5.0        171               0.08
+6        200 - 239 HOURS          6.0        223                0.1
+7     240 HOURS AND OVER          7.0        232               0.11
+
+
+
+S207F.Qi62 DOES YOUR NAVIGATOR SEEM TO KNOW HIS STUFF?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0         29               0.01
+1      YES, VERY WELL          1.0       1425               0.66
+2    YES, FAIRLY WELL          2.0        430                0.2
+3     NO, HE DOES NOT          3.0         13               0.01
+4  I AM THE NAVIGATOR          4.0        199               0.09
+5           UNDECIDED          5.0         58               0.03
+
+
+
+S207F.Qi63 IN YOUR OPINION, HOW WELL DO THE GROUND CREWS OF THE GROUP KNOW THEIR STUFF?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         81               0.04
+1        VERY WELL          1.0        378               0.18
+2      FAIRLY WELL          2.0       1299                0.6
+3    NOT VERY WELL          3.0        312               0.14
+4  NOT WELL AT ALL          4.0         84               0.04
+
+
+
+S207F.Qi64 ARE YOU IN A LEAD CREW AT PRESENT?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         17               0.01
+1          YES          1.0        421                0.2
+2           NO          2.0       1279               0.59
+3   DON'T KNOW          3.0        437                0.2
+
+
+
+S207F.Qi65 DO YOU THINK YOU WOULD WANT TO BE IN A LEAD CREW WHEN FLYING IN COMBAT?
+                                             answer_label answer_value raw_counts relative_frequency
+0                                               NO ANSWER          0.0         21               0.01
+1                                          YES, VERY MUCH          1.0        856                0.4
+2                            YES, THAT WOULD BE ALL RIGHT          2.0        504               0.23
+3  IT DOES NOT MATTER WHETHER I'M IN THE LEAD CREW OR NOT          3.0        568               0.26
+4                  I WOULD RATHER NOT BE IN THE LEAD CREW          4.0        205                0.1
+
+
+
+S207F.Qi66 SO FAR AS YOU KNOW, WHAT WILL PROBABLY BE THE ONE MOST IMPORTANT REASON FOR SELECTING THE AIRPLANE COMMANDERS OF THE LEAD CREWS IN COMBAT?
+                        answer_label answer_value raw_counts relative_frequency
+0                 NO CODE OR NO DATA          0.0          4                0.0
+1         TOTAL HOURS OF FLYING TIME          1.0        105               0.05
+2                               RANK          2.0        447               0.21
+3                           POLITICS          3.0        240               0.11
+4  PERFORMANCE IN TRAINING OR COMBAT          4.0       1089               0.51
+5                     SOMETHING ELSE          5.0         40               0.02
+6                          NO ANSWER          6.0        229               0.11
+
+
+
+S207F.Qi67 HOW DO YOU THINK OTHER MEMBERS OF THE LEAD CREWS WILL BE SELECTED?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                         NO ANSWER          0.0        192               0.09
+1                        TOTAL HOURS OF FLYING TIME          1.0         42               0.02
+2                                              RANK          2.0        237               0.11
+3                                          POLITICS          3.0        188               0.09
+4                 PERFORMANCE IN TRAINING OR COMBAT          4.0        989               0.46
+5  IT ALL DEPENDS ON HOW YOUR PRESENT A/C MAKES OUT          5.0        395               0.18
+6                                    SOMETHING ELSE          6.0        111               0.05
+
+
+
+S207F.Qi68A ABOUT HOW MANY COMBAT MISSIONS DO YOU THINK HEADQUARTERS WILL EXPECT YOUR CREW TO FLY IN THE PACIFIC?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0         76               0.04
+1  15 MISSIONS OR UNDER          1.0         21               0.01
+2           20 MISSIONS          2.0        104               0.05
+3           25 MISSIONS          3.0        221                0.1
+4           30 MISSIONS          4.0        456               0.21
+5           35 MISSIONS          5.0        784               0.36
+6           40 MISSIONS          6.0        121               0.06
+7           45 MISSIONS          7.0         46               0.02
+8           50 MISSIONS          8.0        288               0.13
+9      OVER 50 MISSIONS          9.0         37               0.02
+
+
+
+S207F.Qi68B HOW MANY COMBAT MISSIONS DO YOU THINK A MAN IN YOUR JOB CAN FLY BEFORE HE SHOULD BE TAKEN OFF OPERATIONS OR ROTATED?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0        128               0.06
+1  15 MISSIONS OR UNDER          1.0        118               0.05
+2           20 MISSIONS          2.0        176               0.08
+3           25 MISSIONS          3.0        412               0.19
+4           30 MISSIONS          4.0        380               0.18
+5           35 MISSIONS          5.0        427                0.2
+6           40 MISSIONS          6.0        100               0.05
+7           45 MISSIONS          7.0         21               0.01
+8           50 MISSIONS          8.0        334               0.16
+9      OVER 50 MISSIONS          9.0         58               0.03
+
+
+
+S207F.Qi68C WHAT IS THE GREATEST NUMBER OF COMBAT MISSIONS YOU THINK YOU COULD FLY IN ONE MONTH AND STILL DO YOUR JOB O.K.?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0         82               0.04
+1   UNDER 4 MISSIONS          1.0         21               0.01
+2     4 - 5 MISSIONS          2.0        227               0.11
+3     6 - 7 MISSIONS          3.0        220                0.1
+4     8 - 9 MISSIONS          4.0        399               0.19
+5   10 - 11 MISSIONS          5.0        708               0.33
+6   12 - 13 MISSIONS          6.0        160               0.07
+7   14 - 15 MISSIONS          7.0        238               0.11
+8   16 - 17 MISSIONS          8.0         10                0.0
+9   18 - 19 MISSIONS          9.0          6                0.0
+10  OVER 19 MISSIONS         10.0         83               0.04
+
+
+
+S207F.Qi68D HOW MANY DAYS IN A ROW DO YOU THINK YOU COULD FLY IN COMBAT AND STILL DO YOUR JOB O.K. IF YOU GOT ONLY FIVE HOURS SLEEP EACH DAY?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0         92               0.04
+1               1 DAY          1.0        146               0.07
+2              2 DAYS          2.0        532               0.25
+3              3 DAYS          3.0        575               0.27
+4              4 DAYS          4.0        220                0.1
+5              5 DAYS          5.0        217                0.1
+6              6 DAYS          6.0         60               0.03
+7              7 DAYS          7.0        120               0.06
+8              8 DAYS          8.0         14               0.01
+9              9 DAYS          9.0          6                0.0
+10            10 DAYS         10.0         87               0.04
+11  MORE THAN 10 DAYS         11.0         85               0.04
+
+
+
+S207F.Qi69 DO YOU THINK YOU COULD FLY ON A COMBAT MISSION THAT KEPT YOU AWAKE FOR 24 HOURS AND STILL DO YOUR JOB O.K.?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0         15               0.01
+1      YES, I'M SURE I COULD          1.0        634               0.29
+2            YES, I THINK SO          2.0        878               0.41
+3  I'M NOT SURE THAT I COULD          3.0        627               0.29
+
+
+
+S207F.Qi70A ARE THERE ANY MEMBERS OF YOUR CREW WHO HAVE BEEN IN AERIAL COMBAT IN THIS WAR?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          4                0.0
+1                 YES          1.0        726               0.34
+2                  NO          2.0       1416               0.66
+3           NO ANSWER          3.0          8                0.0
+
+
+
+S207F.Qi70B HOW DO YOU FEEL ABOUT HAVING FLIERS WHO HAVE BEEN IN COMBAT AS MEMBERS OF YOUR CREW?
+                                                     answer_label answer_value raw_counts relative_frequency
+0                                                       NO ANSWER          0.0         76               0.04
+1  IT WOULD BE BETTER IF WE HAD MORE COMBAT RETURNEES IN OUR CREW          1.0        784               0.36
+2            I WOULD RATHER NOT HAVE COMBAT RETURNEES IN OUR CREW          2.0        299               0.14
+3                                               IT DOESN'T MATTER          3.0        995               0.46
+
+
+
+S207F.Qi71 DO YOU THINK YOUR PRESENT CREW IS PROGRESSING AS WELL AS CAN BE EXPECTED IN THEIR TRAINING FOR COMBAT?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0         18               0.01
+1                        YES, DOING VERY WELL          1.0       1352               0.63
+2                      YES, COMING ALONG O.K.          2.0        690               0.32
+3  NO, NOT DOING AS WELL AS COULD BE EXPECTED          3.0         78               0.04
+4                            NO, DOING POORLY          4.0         16               0.01
+
+
+
+S207F.Qi72 SO FAR AS YOU KNOW, IS YOUR TRAINING THE KIND YOU WILL ACTUALLY NEED IN COMBAT?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         38               0.02
+1          YES          1.0       1520               0.71
+2           NO          2.0        596               0.28
+
+
+
+S207F.Qi73 DO YOU THINK TOO MUCH TRAINING TIME HAS BEEN SPENT IN CERTAIN ASPECTS OR PHASES OF YOUR TRAINING?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          4                0.0
+1                 YES          1.0        704               0.33
+2                  NO          2.0       1412               0.66
+3           NO ANSWER          3.0         34               0.02
+
+
+
+S207F.Qi76 SO FAR AS YOU KNOW, WILL YOUR FLY-AWAY B-29'S BE AS EASY TO MAINTAIN UNDER COMBAT CONDITIONS AS ARE THE LATEST B-17'S?
+                                                 answer_label answer_value raw_counts relative_frequency
+0                                                   NO ANSWER          0.0         68               0.03
+1  THE LATEST B-29'S WILL BE EASIER TO MAINTAIN THAN THE 17'S          1.0         97               0.05
+2                            JUST AS EASY TO MAINTAIN AS 17'S          2.0        299               0.14
+3                       SOMEWHAT HARDER TO MAINTAIN THAN 17'S          3.0        917               0.43
+4                           MUCH HARDER TO MAINTAIN THAN 17'S          4.0        773               0.36
+
+
+
+S207F.Qi77 IF THE JAPANESE WERE TO OFFER TO STOP FIGHTING NOW AND TO GIVE UP ALL THE COUNTRIES AND TERRITORY THEY HAVE TAKEN OVER, WHAT DO YOU THINK WE SHOULD DO?
+                                                                       answer_label answer_value raw_counts relative_frequency
+0                                                                         NO ANSWER          0.0         17               0.01
+1                                  WE SHOULD ACCEPT THE OFFER AND STOP FIGHTING NOW          1.0        209                0.1
+2       WE SHOULD CONSIDER THE OFFER AND TRY TO WORK OUT SOME PEACE TERMS WITH THEM          2.0        355               0.16
+3  WE SHOULD TURN DOWN THE OFFER AND KEEP ON FIGHTING UNTIL THEY GIVE UP COMPLETELY          3.0       1422               0.66
+4                                                                         UNDECIDED          4.0        151               0.07
+
+
+
+S207F.Qi78A WHAT WOULD YOU LIKE TO SEE HAPPEN TO THE JAPANESE AFTER THE WAR?
+                                                 answer_label answer_value raw_counts relative_frequency
+0                                                   NO ANSWER          0.0         28               0.01
+1           PUNISH THE LEADERS, BUT NOT THE ORDINARY JAPANESE          1.0        486               0.23
+2  PUNISH THE ORDINARY JAPANESE PEOPLE AS WELL AS THE LEADERS          2.0        897               0.42
+3                          WIPE OUT THE WHOLE JAPANESE NATION          3.0        743               0.34
+
+
+
+S207F.Qi78B WHAT WOULD YOU LIKE TO SEE HAPPEN TO THE GERMANS NOW THAT THE WAR IS OVER?
+                                               answer_label answer_value raw_counts relative_frequency
+0                                                 NO ANSWER          0.0         29               0.01
+1          PUNISH THE LEADERS, BUT NOT THE ORDINARY GERMANS          1.0        651                0.3
+2  PUNISH THE ORDINARY GERMAN PEOPLE AS WELL AS THE LEADERS          2.0       1241               0.58
+3                          WIPE OUT THE WHOLE GERMAN NATION          3.0        233               0.11
+
+
+
+S207F.Qi79 DO YOU THINK JAPAN WILL GIVE UP AND SURRENDER ON OUR TERMS BEFORE THEY LOSE EVERYTHING OR DO YOU THINK THEY WILL KEEP RIGHT ON FIGHTING TO THE VERY END?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                NO CODE OR NO DATA          0.0          2                0.0
+1                   THEY WILL GIVE UP AND SURRENDER          1.0        746               0.35
+2  THEY WILL KEEP RIGHT ON FIGHTING TO THE VERY END          2.0       1382               0.64
+3                                         NO ANSWER          3.0         24               0.01
+
+
+
+S207F.Qi80 DO YOU AGREE OR DISAGREE WITH THE IDEA THAT THE JAP PILOTS ARE GOOD FIGHTERS AND VERY HARD TO DEFEAT?
+                                                           answer_label answer_value raw_counts relative_frequency
+0                                                             NO ANSWER          0.0         60               0.03
+1              I AGREE, THE JAP IS A GOOD PILOT AND VERY HARD TO DEFEAT          1.0        544               0.25
+2  I AGREE THAT THE JAP IS A GOOD PILOT BUT HE'S NOT TOO HARD TO DEFEAT          2.0       1305               0.61
+3          I DISAGREE, HE'S NOT A GOOD PILOT AND NOT TOO HARD TO DEFEAT          3.0        245               0.11
+
+
+
+S207F.Qi81 WHICH COMES CLOSEST TO YOUR IDEA OF HOW HARD IT IS GOING TO BE TO BEAT THE JAPANESE?
+                                                     answer_label answer_value raw_counts relative_frequency
+0                                                       NO ANSWER          0.0          7                0.0
+1                                        IT WILL NOT BE VERY HARD          1.0         99               0.05
+2        IT WILL BE A TOUGH JOB BUT OUR LOSSES WON'T BE TOO HEAVY          2.0        463               0.21
+3  IT WILL BE A TOUGH JOB, WITH HEAVY LOSSES OF MEN AND EQUIPMENT          3.0       1585               0.74
+
+
+
+S207F.Qi82 DO THE MEN IN YOUR CREW COOPERATE AND WORK WELL TOGETHER?
+       answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER          0.0         15               0.01
+1   ALL OF THE TIME          1.0       1283                0.6
+2  MOST OF THE TIME          2.0        788               0.37
+3      OFTEN DO NOT          3.0         55               0.03
+4   ALMOST NEVER DO          4.0         13               0.01
+
+
+
+S207F.Qi83 HOW MANY OF THE MEN IN YOUR PRESENT CREW WOULD YOU SAY KNOW THEIR STUFF?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         13               0.01
+1          ALL          1.0       1302                0.6
+2         MOST          2.0        771               0.36
+3   ABOUT HALF          3.0         55               0.03
+4   ONLY A FEW          4.0         11               0.01
+5  ALMOST NONE          5.0          2                0.0
+
+
+
+S207F.Qi84 IF AND WHEN YOU GET INTO COMBAT HOW DO YOU THINK YOUR PRESENT CREW WILL STAND UP UNDER COMBAT CONDITIONS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0          9                0.0
+1        VERY WELL          1.0       1290                0.6
+2      FAIRLY WELL          2.0        748               0.35
+3    NOT VERY WELL          3.0         22               0.01
+4  NOT WELL AT ALL          4.0          7                0.0
+5        UNDECIDED          5.0         78               0.04
+
+
+
+S207F.Qii1 IN GENERAL, WHAT SORT OF PHYSICAL CONDITION WOULD YOU SAY YOU ARE IN AT THE PRESENT TIME?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0          4                0.0
+1  VERY GOOD PHYSICAL CONDITION          1.0        469               0.22
+2       GOOD PHYSICAL CONDITION          2.0       1068                0.5
+3       FAIR PHYSICAL CONDITION          3.0        538               0.25
+4       POOR PHYSICAL CONDITION          4.0         61               0.03
+5  VERY POOR PHYSICAL CONDITION          5.0         14               0.01
+
+
+
+S207F.Qii1A AS FAR AS YOU KNOW, ARE YOU NOW CLASSIFIED BY THE ARMY AS PHYSICALLY FIT FOR OVERSEAS FLYING DUTY?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0          4                0.0
+1            NO          2.0         11               0.01
+2           YES          1.0       2108               0.98
+3  I DON'T KNOW          3.0         31               0.01
+
+
+
+FORM..2FORM.
+  answer_label answer_value raw_counts relative_frequency
+0       S-207F          1.0       2154                1.0
+
+
+
+S207F.Qii1B IN YOUR OWN OPINION, ARE YOU PHYSICALLY FIT FOR OVERSEAS FLYING DUTY?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          4                0.0
+1           NO          2.0         98               0.05
+2          YES          1.0       1949                0.9
+3    UNDECIDED          3.0        103               0.05
+
+
+
+S207F.Qii3B IN GENERAL, WHAT SORT OF A TIME DO YOU HAVE IN THE ARMY?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0          7                0.0
+1    I HAVE A PRETTY GOOD TIME          1.0        910               0.42
+2       IT'S ABOUT FIFTY-FIFTY          2.0       1099               0.51
+3  I HAVE A PRETTY ROTTEN TIME          3.0        138               0.06
+
+
+
+S207F.Qii3C IN GENERAL, HOW WOULD YOU SAY YOU FEEL MOST OF THE TIME, IN GOOD SPIRITS OR IN LOW SPIRITS?
+                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                  NO ANSWER          0.0          8                0.0
+1                                               I AM USUALLY IN GOOD SPIRITS          1.0       1360               0.63
+2  I AM IN GOOD SPIRITS SOME OF THE TIME AND IN LOW SPIRITS SOME OF THE TIME          2.0        708               0.33
+3                                                I AM USUALLY IN LOW SPIRITS          3.0         78               0.04
+
+
+
+S207F.Vii3D1 NEUROPSYCHIATRIC INVENTORY SCORE: E. DERIVED FROM QUESTIONS 2A-2O PART II.
+   answer_label answer_value raw_counts relative_frequency
+0    SCORE OF 0          0.0          1                0.0
+1    SCORE OF 2          2.0          3                0.0
+2    SCORE OF 3          3.0          1                0.0
+3    SCORE OF 4          4.0          1                0.0
+4    SCORE OF 5          5.0          2                0.0
+5    SCORE OF 6          6.0          2                0.0
+6    SCORE OF 7          7.0          4                0.0
+7    SCORE OF 8          8.0          4                0.0
+8    SCORE OF 9          9.0          9                0.0
+9   SCORE OF 10         10.0          7                0.0
+10  SCORE OF 11         11.0          5                0.0
+11  SCORE OF 12         12.0         14               0.01
+12  SCORE OF 13         13.0         15               0.01
+13  SCORE OF 14         14.0         15               0.01
+14  SCORE OF 15         15.0         20               0.01
+15  SCORE OF 16         16.0         25               0.01
+16  SCORE OF 17         17.0         35               0.02
+17  SCORE OF 18         18.0         41               0.02
+18  SCORE OF 19         19.0         54               0.03
+19  SCORE OF 20         20.0         64               0.03
+20  SCORE OF 21         21.0         95               0.04
+21  SCORE OF 22         22.0        107               0.05
+22  SCORE OF 23         23.0        155               0.07
+23  SCORE OF 24         24.0        172               0.08
+24  SCORE OF 25         25.0        207                0.1
+25  SCORE OF 26         26.0        225                0.1
+26  SCORE OF 27         27.0        259               0.12
+27  SCORE OF 28         28.0        289               0.13
+28  SCORE OF 29         29.0        223                0.1
+29  SCORE OF 30         30.0         99               0.05
+30    NO ANSWER         99.0          1                0.0
+
+
+
+S207F.Vii3D2 NEUROPSYCHIATRIC INVENTORY SCORE: E. DERIVED FROM QUESTIONS 2C, 2E, 2K, 2L, 2O, 3A, 3B, 3C, PART II. QUESTION NUMBERS FOR THIS SCALE NOT GIVEN BY SURVEY ORGANIZATION. THOSE CITED ABOVE CORRESPOND TO FORM G.
+   answer_label answer_value raw_counts relative_frequency
+0    SCORE OF 0          0.0          4                0.0
+1    SCORE OF 1          1.0          7                0.0
+2    SCORE OF 2          2.0          7                0.0
+3    SCORE OF 3          3.0         10                0.0
+4    SCORE OF 4          4.0         19               0.01
+5    SCORE OF 5          5.0         31               0.01
+6    SCORE OF 6          6.0         26               0.01
+7    SCORE OF 7          7.0         42               0.02
+8    SCORE OF 8          8.0         94               0.04
+9    SCORE OF 9          9.0        112               0.05
+10  SCORE OF 10         10.0        163               0.08
+11  SCORE OF 11         11.0        266               0.12
+12  SCORE OF 12         12.0        328               0.15
+13  SCORE OF 13         13.0        352               0.16
+14  SCORE OF 14         14.0        343               0.16
+15  SCORE OF 15         15.0        248               0.12
+16  SCORE OF 16         16.0        101               0.05
+17    NO ANSWER         99.0          1                0.0
+
+
+
+S207F.Vii4A EFFICIENCY RATING: (IF TWO OR THREE RATINGS ARE KNOWN)
+                              answer_label answer_value raw_counts relative_frequency
+0                       NO CODE OR NO DATA          0.0          6                0.0
+1                            ALL SUPERIORS          1.0         32               0.01
+2             MIXED SUPERIOR AND EXCELLENT          2.0        110               0.05
+3                            ALL EXCELLENT          3.0        233               0.11
+4                    ONE RATING KNOWN ONLY          5.0        115               0.05
+5  AT LEAST ONE VERY SATISFACTORY OR LOWER          4.0         89               0.04
+6                                NO ANSWER          6.0       1569               0.73
+
+
+
+S207F.Vii6 JOB SATISFACTION SCORE: E. DERIVED FROM QUESTIONS 17, 18, 19 PART I.
+  answer_label answer_value raw_counts relative_frequency
+0   SCORE OF 1          1.0        824               0.38
+1   SCORE OF 2          2.0        680               0.32
+2   SCORE OF 3          3.0        389               0.18
+3   SCORE OF 4          4.0        227               0.11
+4   SCORE OF 5          5.0         34               0.02
+
+
+
+S207F.Vii7 CAMP AND OUTFIT IDENTIFICATION:
+                                       answer_label answer_value raw_counts relative_frequency
+0               CAMP DAVIS - MONTHAN 489 BOMB GROUP          1.0        456               0.21
+1   CAMP GREAT BEND (ARMY AIR FORCE) - 435 SQUADRON          2.0        128               0.06
+2   CAMP GREAT BEND (ARMY AIR FORCE) - 460 SQUADRON          3.0        157               0.07
+3   CAMP GREAT BEND (ARMY AIR FORCE) - 507 SQUADRON          4.0        129               0.06
+4                         CAMP PRATT - 461 SQUADRON          5.0        163               0.08
+5                         CAMP PRATT - 462 SQUADRON          6.0        171               0.08
+6                         CAMP PRATT - 463 SQUADRON          7.0        173               0.08
+7       CAMP SMOKEY HILL 382 GROUP - 420TH SQUADRON          8.0         90               0.04
+8       CAMP SMOKEY HILL 382 GROUP - 464TH SQUADRON          9.0        117               0.05
+9         CAMP SMOKEY HILL 382 GROUP - 872 SQUADRON         10.0        142               0.07
+10           CAMP WALKER 383 GROUP - 876TH SQUADRON         11.0        131               0.06
+11           CAMP WALKER 383 GROUP - 880TH SQUADRON         12.0        159               0.07
+12           CAMP WALKER 383 GROUP - 884TH SQUADRON         13.0        138               0.06
+
+
+

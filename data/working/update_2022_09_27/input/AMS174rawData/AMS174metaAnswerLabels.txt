@@ -1,0 +1,468 @@
+{
+  "S174.Q1": {
+    "0.0": "NO ANSWER",
+    "1.0": "PRIVATE",
+    "2.0": "PRIVATE FIRST CLASS",
+    "3.0": "TECHNICIAN 5TH GRADE OR CORPORAL",
+    "4.0": "TECHNICIAN 4TH GRADE OR SERGEANT",
+    "5.0": "TECHNICIAN 3RD GRADE OR STAFF SERGEANT",
+    "6.0": "TECHNICAL SERGEANT",
+    "7.0": "MASTER SERGEANT OR FIRST SERGEANT"
+  },
+  "S174.Q2": {
+    "0.0": "NO ANSWER",
+    "1.0": "18 YEARS OR LESS",
+    "2.0": "19 YEARS",
+    "3.0": "20",
+    "4.0": "21",
+    "5.0": "22",
+    "6.0": "23",
+    "7.0": "24",
+    "8.0": "25",
+    "9.0": "26-29 YEARS",
+    "10.0": "30-34 YEARS",
+    "11.0": "35 YEARS AND OVER"
+  },
+  "S174.Q3": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN 6TH GRADE",
+    "2.0": "FINISHED 6TH GRADE",
+    "3.0": "FINISHED 7TH GRADE",
+    "4.0": "FINISHED 8TH GRADE",
+    "5.0": "SOME HIGH SCHOOL BUT DID NOT FINISH",
+    "6.0": "GRADUATED FROM HIGH SCHOOL",
+    "7.0": "WENT TO COLLEGE"
+  },
+  "S174.Q4.1": {
+    "0.0": "NO ANSWER",
+    "1.0": "NEW ENGLAND",
+    "2.0": "MIDDLE ATLANTIC",
+    "3.0": "EAST NORTH CENTRAL",
+    "4.0": "WEST NORTH CENTRAL",
+    "5.0": "SOUTH ATLANTIC",
+    "6.0": "EAST SOUTH CENTRAL",
+    "7.0": "WEST SOUTH CENTRAL",
+    "8.0": "MOUNTAIN",
+    "9.0": "PACIFIC",
+    "10.0": "OUTSIDE U.S. OR OUTSIDE TERRITORIES BELONGING TO U.S.",
+    "11.0": "TERRITORIES BELONGING TO U.S."
+  },
+  "S174.Q4.2": {
+    "0.0": "NO ANSWER",
+    "1.0": "OUTSIDE U.S. OR OUTSIDE TERRITORIES BELONGING TO U.S.",
+    "2.0": "TERRITORIES BELONGING TO U.S.",
+    "11.0": "MAINE",
+    "12.0": "NEW HAMPSHIRE",
+    "13.0": "VERMONT",
+    "14.0": "MASSACHUSETTS",
+    "15.0": "RHODE ISLAND 3",
+    "16.0": "CONNECTICUT",
+    "21.0": "NEW YORK",
+    "22.0": "NEW JERSEY",
+    "23.0": "PENNSYLVANIA",
+    "31.0": "OHIO",
+    "32.0": "INDIANA",
+    "33.0": "ILLINOIS",
+    "34.0": "MICHIGAN",
+    "35.0": "WISCONSIN 3",
+    "41.0": "MINNESOTA",
+    "42.0": "IOWA",
+    "43.0": "MISSOURI",
+    "44.0": "NORTH DAKOTA",
+    "45.0": "SOUTH DAKOTA",
+    "46.0": "NEBRASKA",
+    "47.0": "KANSAS",
+    "51.0": "DELAWARE",
+    "52.0": "MARYLAND 22",
+    "53.0": "SOUTH CAROLINA",
+    "54.0": "VIRGINIA",
+    "55.0": "WEST VIRGINIA",
+    "56.0": "NORTH CAROLINA",
+    "57.0": "DIST. OF COLUMBIA",
+    "58.0": "FLORIDA",
+    "59.0": "GEORGIA",
+    "61.0": "KENTUCKY",
+    "62.0": "TENNESSEE",
+    "63.0": "ALABAMA",
+    "64.0": "MISSISSIPPI",
+    "71.0": "ARKANSAS",
+    "72.0": "LOUISIANA",
+    "73.0": "OKLAHOMA",
+    "74.0": "TEXAS",
+    "81.0": "MONTANA",
+    "82.0": "IDAHO",
+    "83.0": "WYOMING",
+    "84.0": "COLORADO",
+    "85.0": "NEW MEXICO",
+    "86.0": "ARIZONA",
+    "87.0": "UTAH",
+    "88.0": "NEVADA",
+    "91.0": "WASHINGTON",
+    "92.0": "OREGON",
+    "93.0": "CALIFORNIA"
+  },
+  "S174.Q5": {
+    "0.0": "NO ANSWER",
+    "1.0": "ON A FARM OR IN THE COUNTRY",
+    "2.0": "IN A SMALL TOWN (FEWER THAN 2,500 PEOPLE)",
+    "3.0": "IN A TOWN (WITH BETWEEN 2,500 AND 25,000 PEOPLE)",
+    "4.0": "IN A CITY (BETWEEN 25,000 AND 100,000 PEOPLE)",
+    "5.0": "IN A LARGE CITY (MORE THAN 100,000 PEOPLE)"
+  },
+  "S174.Q6": {
+    "0.0": "NO ANSWER",
+    "1.0": "1 YEAR OR LESS",
+    "2.0": "1 YEAR TO 2 YEARS",
+    "3.0": "2 YEARS TO 3 YEARS",
+    "4.0": "3 YEARS TO 4 YEARS",
+    "5.0": "OVER 4 YEARS"
+  },
+  "S174.Q7": {
+    "0.0": "NO ANSWER",
+    "1.0": "I HAVE A PRETTY GOOD TIME",
+    "2.0": "IT'S ABOUT FIFTY-FIFTY",
+    "3.0": "I HAVE A PRETTY ROTTEN TIME"
+  },
+  "S174.Q8": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, VERY PROUD",
+    "2.0": "YES, FAIRLY PROUD",
+    "3.0": "NO, NOT PROUD",
+    "4.0": "UNDECIDED"
+  },
+  "S174.Q9": {
+    "0.0": "NO ANSWER",
+    "1.0": "I AM USUALLY IN GOOD SPIRITS",
+    "2.0": "I AM IN GOOD SPIRITS SOME OF THE TIME AND IN LOW SPIRITS SOME OF THE TIME",
+    "3.0": "I AM USUALLY IN LOW SPIRITS"
+  },
+  "S174.Q10": {
+    "0.0": "NO ANSWER",
+    "1.0": "I LIKE THE ARMY VERY MUCH",
+    "2.0": "I LIKE IT FAIRLY WELL",
+    "3.0": "I RATHER DISLIKE IT",
+    "4.0": "I DISLIKE THE ARMY VERY MUCH"
+  },
+  "S174.Q11": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY HIGH",
+    "2.0": "FAIRLY HIGH",
+    "3.0": "JUST SO-SO",
+    "4.0": "FAIRLY LOW",
+    "5.0": "VERY LOW"
+  },
+  "S174.Q12": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY HIGH",
+    "2.0": "FAIRLY HIGH",
+    "3.0": "JUST SO-SO",
+    "4.0": "FAIRLY LOW",
+    "5.0": "VERY LOW"
+  },
+  "S174.Q13": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT IS RUN VERY WELL",
+    "2.0": "IT IS RUN PRETTY WELL",
+    "3.0": "IT IS NOT RUN SO WELL",
+    "4.0": "IT IS RUN VERY POORLY",
+    "5.0": "UNDECIDED"
+  },
+  "S174.Q14": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY GOOD PHYSICAL CONDITION",
+    "2.0": "GOOD PHYSICAL CONDITION",
+    "3.0": "FAIR PHYSICAL CONDITION",
+    "4.0": "POOR PHYSICAL CONDITION",
+    "5.0": "VERY POOR PHYSICAL CONDITION"
+  },
+  "S174.Q15A": {
+    "1.0": "YES",
+    "2.0": "NO",
+    "4.0": "UNDECIDED",
+    "NaN": "QUESTION 15B NOT CODED.",
+    "0.0": "NO ANSWER",
+    "3.0": "I THINK SO, BUT I'M NOT SURE"
+  },
+  "S174.Q16": {
+    "0.0": "NO ANSWER",
+    "1.0": "A VERY IMPORTANT PART",
+    "2.0": "A FAIRLY IMPORTANT PART",
+    "3.0": "NOT A VERY IMPORTANT PART",
+    "4.0": "NOT IMPORTANT AT ALL"
+  },
+  "S174.Q17": {
+    "0.0": "NO ANSWER",
+    "1.0": "PUNISH THE LEADERS, BUT NOT THE ORDINARY GERMAN",
+    "2.0": "MAKE THE ORDINARY GERMAN PEOPLE SUFFER PLENTY",
+    "3.0": "WIPE OUT THE WHOLE GERMAN NATION"
+  },
+  "S174.Q18": {
+    "0.0": "NO ANSWER",
+    "1.0": "PUNISH THE LEADERS, BUT NOT THE ORDINARY JAPANESE",
+    "2.0": "MAKE THE ORDINARY JAPANESE PEOPLE SUFFER PLENTY",
+    "3.0": "WIPE OUT THE WHOLE JAPANESE NATION"
+  },
+  "S174.Q19": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALL OF THEM DO",
+    "2.0": "MOST OF THEM DO",
+    "3.0": "ABOUT HALF OF THEM DO",
+    "4.0": "FEW OF THEM DO",
+    "5.0": "NONE OF THEM DO"
+  },
+  "S174.Q20": {
+    "0.0": "NO ANSWER",
+    "1.0": "THEY HAVE A GOOD IDEA OF WHAT I CAN DO",
+    "2.0": "THEY HAVE SOME IDEA OF WHAT I CAN DO",
+    "3.0": "THEY KNOW LITTLE OR NOTHING ABOUT WHAT I CAN DO",
+    "4.0": "UNDECIDED"
+  },
+  "S174.Q21": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALL OF THEM",
+    "2.0": "MOST OF THEM",
+    "3.0": "ABOUT HALF OF THEM",
+    "4.0": "FEW OF THEM",
+    "5.0": "NONE OF THEM"
+  },
+  "S174.Q22": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY SATISFIED",
+    "2.0": "SATISFIED",
+    "3.0": "VERY DISSATISFIED",
+    "4.0": "DISSATISFIED",
+    "5.0": "IT DOES NOT MAKE ANY DIFFERENCE TO ME"
+  },
+  "S174.Q23": {
+    "0.0": "NO ANSWER",
+    "1.0": "A VERY GOOD CHANCE",
+    "2.0": "A FAIRLY GOOD CHANCE",
+    "3.0": "NOT MUCH OF A CHANCE",
+    "4.0": "NO CHANCE AT ALL",
+    "5.0": "UNDECIDED"
+  },
+  "S174.Q24": {
+    "0.0": "NO ANSWER",
+    "1.0": "A VERY GOOD CHANCE",
+    "2.0": "A FAIRLY GOOD CHANCE",
+    "3.0": "NOT MUCH OF A CHANCE",
+    "4.0": "NO CHANCE AT ALL",
+    "5.0": "UNDECIDED"
+  },
+  "S174.Q25": {
+    "0.0": "NO ANSWER",
+    "1.0": "MOST OF THE MEN USUALLY PUT ALL THEY HAVE INTO IT",
+    "2.0": "MOST OF THE MEN USUALLY WORK JUST HARD ENOUGH TO GET BY",
+    "3.0": "UNDECIDED"
+  },
+  "S174.Q26": {
+    "0.0": "NO ANSWER",
+    "1.0": "I USUALLY PUT ALL I HAVE INTO IT",
+    "2.0": "I USUALLY WORK JUST HARD ENOUGH TO GET BY",
+    "3.0": "UNDECIDED"
+  },
+  "S174.Q27": {
+    "0.0": "NO ANSWER",
+    "1.0": "SAME AS IT IS NOW",
+    "2.0": "FOUR EVENINGS A WEEK, ONE HOUR EACH NIGHT",
+    "3.0": "TWO EVENINGS A WEEK, TWO HOURS EACH NIGHT",
+    "4.0": "TWO FULL DAYS EVERY MONTH",
+    "5.0": "A WHOLE WEEK EVERY THREE MONTHS",
+    "6.0": "SOME OTHER WAY"
+  },
+  "S174.Q28": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, WE NEED MORE TRAINING",
+    "2.0": "NO, WE GET EVERYTHING WE NEED"
+  },
+  "S174.Q29": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, WE GET TOO MUCH",
+    "2.0": "NO, WE NEED EVERYTHING WE GET"
+  },
+  "S174.Q30": {
+    "0.0": "NO ANSWER",
+    "1.0": "IN A FIGHTING OUTFIT",
+    "2.0": "IN A NON-FIGHTING OUTFIT, BUT NEAR THE FRONT",
+    "3.0": "IN A NON-FIGHTING OUTFIT HERE"
+  },
+  "S174.Q31": {
+    "0.0": "NO ANSWER",
+    "1.0": "I WOULD MOVE TO ANY OTHER ISLAND IN THE PACIFIC JUST TO GET AWAY FROM HERE",
+    "2.0": "I WOULD MOVE TO SOME OTHER ISLAND IF I COULD CHOOSE THE ISLAND",
+    "3.0": "I WOULD NOT WANT TO MOVE TO ANY OTHER ISLAND IN THE PACIFIC"
+  },
+  "S174.Q32": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONCE",
+    "2.0": "TWICE",
+    "3.0": "THREE TIMES",
+    "4.0": "FOUR TIMES",
+    "5.0": "FIVE OR MORE TIMES",
+    "6.0": "I HAVEN'T BEEN ON SICK CALL IN THE PAST MONTH"
+  },
+  "S174.Q33A": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT IS VERY GOOD",
+    "NaN": "QUESTION 33B NOT CODED.",
+    "2.0": "IT IS PRETTY GOOD",
+    "3.0": "IT IS NOT SO GOOD",
+    "4.0": "IT IS POOR",
+    "5.0": "UNDECIDED"
+  },
+  "S174.Q34": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S174.Q35A": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT IS VERY GOOD",
+    "NaN": "QUESTION 35B NOT CODED.",
+    "2.0": "IT IS PRETTY GOOD",
+    "3.0": "IT IS NOT SO GOOD",
+    "4.0": "IT IS POOR",
+    "5.0": "UNDECIDED"
+  },
+  "S174.Q36": {
+    "0.0": "NO ANSWER",
+    "NaN": "QUESTION 37 NOT CODED.",
+    "1.0": "I HAVE BEEN PICKED UP BY M.P'S",
+    "2.0": "I HAVE BEEN PICKED UP BY TOWN POLICE",
+    "3.0": "I HAVE BEEN PICKED UP BY BOTH M.P'S AND TOWN POLICE",
+    "4.0": "I HAVE NEVER BEEN PICKED UP BY EITHER M.P'S OR TOWN POLICE"
+  },
+  "S174.Q38": {
+    "0.0": "NO ANSWER",
+    "1.0": "TOWN POLICE ARE USUALLY FAIR",
+    "2.0": "ABOUT HALF ARE, HALF ARE NOT",
+    "3.0": "TOWN POLICE ARE USUALLY NOT FAIR",
+    "4.0": "UNDECIDED"
+  },
+  "S174.Q39": {
+    "0.0": "NO ANSWER",
+    "1.0": "M.P'S ARE USUALLY FAIR",
+    "2.0": "ABOUT HALF ARE, HALF ARE NOT",
+    "3.0": "M.P'S ARE USUALLY NOT FAIR",
+    "4.0": "UNDECIDED"
+  },
+  "S174.Q40": {
+    "0.0": "NO ANSWER",
+    "1.0": "NEGRO SOLDIERS ARE TREATED BETTER THAN WHITE SOLDIERS",
+    "2.0": "NEGRO SOLDIERS ARE TREATED ABOUT THE SAME AS WHITE SOLDIERS",
+    "3.0": "NEGRO SOLDIERS ARE TREATED WORSE THAN WHITE SOLDIERS",
+    "4.0": "UNDECIDED"
+  },
+  "S174.Q41": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONCE",
+    "2.0": "TWICE",
+    "3.0": "THREE TIMES",
+    "4.0": "FOUR TIMES",
+    "5.0": "FIVE OR MORE TIMES",
+    "6.0": "NOT AT ALL"
+  },
+  "S174.Q42": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALMOST ALWAYS",
+    "2.0": "USUALLY",
+    "3.0": "SELDOM",
+    "4.0": "NEVER"
+  },
+  "S174.Q43": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY SATISFIED",
+    "2.0": "SATISFIED",
+    "3.0": "DISSATISFIED",
+    "4.0": "VERY DISSATISFIED"
+  },
+  "S174.Q44": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALMOST ALWAYS",
+    "2.0": "USUALLY",
+    "3.0": "SELDOM",
+    "4.0": "NEVER"
+  },
+  "S174.Q45A": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONCE EVERY TWO OR THREE WEEKS",
+    "NaN": "QUESTION 45B NOT CODED.",
+    "2.0": "ONCE A WEEK",
+    "3.0": "TWO OR MORE TIMES A WEEK",
+    "4.0": "ONCE A MONTH OR LESS",
+    "5.0": "NEVER"
+  },
+  "S174.Q46A": {
+    "1.0": "I AM VERY WELL SATISFIED",
+    "2.0": "I AM PRETTY WELL SATISFIED",
+    "4.0": "I AM VERY DISSATISFIED",
+    "NaN": "QUESTION 46B NOT CODED.",
+    "0.0": "NO ANSWER",
+    "3.0": "I AM SOMEWHAT DISSATISFIED"
+  },
+  "S174.Q47": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, I HAVE PASSED THE TEST",
+    "2.0": "NO, I HAVE NOT PASSED THE TEST, BUT EXPECT TO SOON",
+    "3.0": "NO, I HAVE NOT PASSED THE TEST AND DO NOT EXPECT TO"
+  },
+  "S174.Q48A": {
+    "1.0": "IT IS A VERY GOOD IDEA",
+    "2.0": "IT IS A PRETTY GOOD IDEA",
+    "4.0": "IT IS A VERY POOR IDEA",
+    "NaN": "QUESTION 48B NOT CODED.",
+    "0.0": "NO ANSWER",
+    "3.0": "IT IS NOT SUCH A GOOD IDEA"
+  },
+  "S174.Q49": {
+    "0.0": "NO ANSWER",
+    "1.0": "I AM VERY WELL SATISFIED",
+    "2.0": "I AM PRETTY WELL SATISFIED",
+    "3.0": "I AM SOMEWHAT DISSATISFIED",
+    "4.0": "I AM VERY DISSATISFIED"
+  },
+  "S174.Q50": {
+    "0.0": "NO ANSWER",
+    "1.0": "I AM VERY WELL SATISFIED",
+    "2.0": "I AM PRETTY WELL SATISFIED",
+    "3.0": "I AM SOMEWHAT DISSATISFIED",
+    "4.0": "I AM VERY DISSATISFIED"
+  },
+  "S174.Q51A": {
+    "0.0": "NO ANSWER",
+    "2.0": "THEY COULD DO SOMEWHAT MORE",
+    "NaN": "QUESTION 51B NOT CODED.",
+    "1.0": "THEY DO ALL THEY CAN NOW",
+    "3.0": "THEY COULD DO A LOT MORE"
+  },
+  "S174.Q52A": {
+    "0.0": "NO ANSWER",
+    "2.0": "NO",
+    "NaN": "QUESTION 52B NOT CODED.",
+    "1.0": "YES",
+    "3.0": "I AM NOT SURE"
+  },
+  "S174.Q53": {
+    "0.0": "NO ANSWER",
+    "1.0": "THEY TREAT US BETTER OVER HERE",
+    "2.0": "THEY TREAT US ABOUT THE SAME OVER HERE",
+    "3.0": "THEY TREAT US WORSE OVER HERE"
+  },
+  "S174.Q54": {
+    "0.0": "NO ANSWER",
+    "NaN": "QUESTIONS 55, 56 AND 57 NOT CODED.",
+    "1.0": "IT IS USUALLY GOOD FOOD AND WELL COOKED",
+    "2.0": "IT IS USUALLY GOOD FOOD BUT POORLY COOKED",
+    "3.0": "IT IS USUALLY POOR FOOD, BUT WELL COOKED",
+    "4.0": "IT IS USUALLY POOR FOOD AND POORLY COOKED"
+  },
+  "S174.V58": {
+    "1.0": "FIRST COMPANY BN. A",
+    "2.0": "FIRST COMPANY BN. B",
+    "3.0": "SECOND COMPANY BN. A",
+    "4.0": "SECOND COMPANY BN. B",
+    "5.0": "THIRD COMPANY BN. A",
+    "6.0": "HEADQUARTERS BN. A AND B",
+    "7.0": "SEPARATE COMPANY"
+  }
+}

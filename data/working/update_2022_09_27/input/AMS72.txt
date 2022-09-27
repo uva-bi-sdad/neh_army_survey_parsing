@@ -1,0 +1,964 @@
+S72.Q1 SINCE YOU HAVE BEEN AT YOUR PRESENT CAMP OR STATION, ABOUT HOW OFTEN DO YOU GO TO A USO CLUB IN A TOWN OR CITY NEAR YOUR CAMP?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0         83               0.01
+1     THREE OR MORE TIMES A WEEK          1.0       2229               0.26
+2                   TWICE A WEEK          2.0       2406               0.29
+3                    ONCE A WEEK          3.0       2306               0.27
+4  ONCE EVERY TWO OR THREE WEEKS          4.0        759               0.09
+5                   ONCE A MONTH          5.0        278               0.03
+6         LESS THAN ONCE A MONTH          6.0        364               0.04
+
+
+
+S72.Q2 ABOUT HOW MANY MILES IS IT FROM YOUR OUTFIT TO THIS USO CLUB? (PUT DOWN YOUR BEST GUESS)
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         43               0.01
+1             TWO MILES OR LESS          1.0       1412               0.17
+2    OVER 2 MILES UP TO 5 MILES          2.0       1283               0.15
+3   OVER 5 MILES UP TO 10 MILES          3.0       2260               0.27
+4  OVER 10 MILES UP TO 15 MILES          4.0       1467               0.17
+5  OVER 15 MILES UP TO 20 MILES          5.0        611               0.07
+6  OVER 20 MILES UP TO 25 MILES          6.0        270               0.03
+7  OVER 25 MILES UP TO 50 MILES          7.0        596               0.07
+8                 OVER 50 MILES          8.0        483               0.06
+
+
+
+S72.Q3.1 HOW DID YOU GET FROM CAMP TO TOWN TODAY?
+  answer_label answer_value raw_counts relative_frequency
+0       BY BUS          1.0       4138               0.49
+1   NOT CHOSEN          2.0       4287               0.51
+
+
+
+S72.Q3.2HOW DID YOU GET FROM CAMP TO TOWN TODAY?
+    answer_label answer_value raw_counts relative_frequency
+0  BY STREET CAR          1.0        812                0.1
+1     NOT CHOSEN          2.0       7613                0.9
+
+
+
+S72.Q3.3HOW DID YOU GET FROM CAMP TO TOWN TODAY?
+             answer_label answer_value raw_counts relative_frequency
+0  BY ARMY TRANSPORTATION          1.0        405               0.05
+1              NOT CHOSEN          2.0       8020               0.95
+
+
+
+S72.Q3.4HOW DID YOU GET FROM CAMP TO TOWN TODAY?
+  answer_label answer_value raw_counts relative_frequency
+0   BY OWN CAR          1.0        141               0.02
+1   NOT CHOSEN          2.0       8284               0.98
+
+
+
+S72.Q3.5HOW DID YOU GET FROM CAMP TO TOWN TODAY?
+      answer_label answer_value raw_counts relative_frequency
+0  BY FRIEND'S CAR          1.0        414               0.05
+1       NOT CHOSEN          2.0       8011               0.95
+
+
+
+S72.Q3.6HOW DID YOU GET FROM CAMP TO TOWN TODAY?
+      answer_label answer_value raw_counts relative_frequency
+0  BY HITCH-HIKING          1.0       1253               0.15
+1       NOT CHOSEN          2.0       7172               0.85
+
+
+
+S72.Q3.7HOW DID YOU GET FROM CAMP TO TOWN TODAY?
+  answer_label answer_value raw_counts relative_frequency
+0   BY WALKING          1.0        643               0.08
+1   NOT CHOSEN          2.0       7782               0.92
+
+
+
+S72.Q3.8HOW DID YOU GET FROM CAMP TO TOWN TODAY?
+     answer_label answer_value raw_counts relative_frequency
+0  BY OTHER MEANS          1.0        437               0.05
+1      NOT CHOSEN          2.0       7988               0.95
+
+
+
+S72.Q3.9HOW DID YOU GET FROM CAMP TO TOWN TODAY?
+                             answer_label answer_value raw_counts relative_frequency
+0  I DID NOT COME FROM CAMP TO TOWN TODAY          1.0        521               0.06
+1                              NOT CHOSEN          2.0       7904               0.94
+
+
+
+S72.Q3.10HOW DID YOU GET FROM CAMP TO TOWN TODAY?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0         31                0.0
+1   NOT CHOSEN          2.0       8394                1.0
+
+
+
+S72.Q4 ABOUT HOW LONG DID IT TAKE YOU TO GET FROM YOUR OUTFIT TO THIS USO CLUB TODAY? (COUNT THE TIME YOU SPENT WAITING AS WELL AS THE TIME YOU SPENT ACTUALLY TRAVELING.)
+                                           answer_label answer_value raw_counts relative_frequency
+0                                             NO ANSWER          0.0         39                0.0
+1                                      ABOUT 15 MINUTES          1.0       1345               0.16
+2                                      ABOUT 30 MINUTES          2.0       2526                0.3
+3                                         ABOUT AN HOUR          3.0       2031               0.24
+4                              ABOUT AN HOUR AND A HALF          4.0        824                0.1
+5                                       ABOUT TWO HOURS          5.0        442               0.05
+6                                   MORE THAN TWO HOURS          6.0        556               0.07
+7  I DID NOT COME FROM MY OUTFIT TO THIS USO CLUB TODAY          7.0        662               0.08
+
+
+
+S72.Q5 COUNTING THIS VISIT, ABOUT HOW MANY TIMES IN THE PAST 30 DAYS HAVE YOU BEEN TO THIS USO CLUB?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0         82               0.01
+1          1 TIME          1.0       1732               0.21
+2         2 TIMES          2.0        983               0.12
+3               3          3.0        806                0.1
+4               4          4.0        784               0.09
+5               5          5.0        541               0.06
+6            6-10          6.0       1749               0.21
+7           11-15          7.0        833                0.1
+8           16-20          8.0        425               0.05
+9           21-30          9.0        237               0.03
+10  OVER 30 TIMES         10.0         90               0.01
+11           NONE         11.0        163               0.02
+
+
+
+S72.Q6 ABOUT HOW MANY TIMES IN THE PAST 30 DAYS HAVE YOU BEEN TO OTHER USO CLUBS IN THIS TOWN AND OTHER TOWNS RIGHT AROUND YOUR CAMP?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0        280               0.03
+1          1 TIME          1.0        655               0.08
+2         2 TIMES          2.0        896               0.11
+3               3          3.0        669               0.08
+4               4          4.0        606               0.07
+5               5          5.0        556               0.07
+6            6-10          6.0       1147               0.14
+7           11-15          7.0        407               0.05
+8           16-20          8.0        182               0.02
+9           21-30          9.0         86               0.01
+10  OVER 30 TIMES         10.0         55               0.01
+11           NONE         11.0       2886               0.34
+
+
+
+S72.Q7 ABOUT HOW MANY TIMES IN THE PAST 30 DAYS HAVE YOU BEEN TO OTHER USO CLUBS BESIDES THOSE IN TOWNS RIGHT AROUND YOUR CAMP?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0        566               0.07
+1          1 TIME          1.0        656               0.08
+2         2 TIMES          2.0        704               0.08
+3               3          3.0        399               0.05
+4               4          4.0        263               0.03
+5               5          5.0        222               0.03
+6            6-10          6.0        376               0.04
+7           11-15          7.0        133               0.02
+8           16-20          8.0         61               0.01
+9           21-30          9.0         39                0.0
+10  OVER 30 TIMES         10.0         33                0.0
+11           NONE         11.0       4973               0.59
+
+
+
+S72.Q9 ON WHAT DAY, BEFORE TODAY, WERE YOU LAST AT THIS CLUB?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0        137               0.02
+1                       SUNDAY          1.0       1814               0.22
+2                       MONDAY          2.0        275               0.03
+3                      TUESDAY          3.0        359               0.04
+4                    WEDNESDAY          4.0        662               0.08
+5                     THURSDAY          5.0        636               0.08
+6                       FRIDAY          6.0        822                0.1
+7                     SATURDAY          7.0       2017               0.24
+8  I'VE NEVER BEEN HERE BEFORE          8.0       1703                0.2
+
+
+
+S72.Q10 WHEN YOU CAME TO THIS CLUB THE LAST TIME (THE TIME BEFORE THIS VISIT), DID YOU HAVE SOMETHING SPECIAL IN MIND YOU WANTED TO DO HERE?
+                                                 answer_label answer_value raw_counts relative_frequency
+0                                                   NO ANSWER          0.0         22                0.0
+1         YES, I HAD SOMETHING SPECIAL IN MIND I WANTED TO DO          1.0       3867               0.46
+2  NO, I DID NOT HAVE ANYTHING SPECIAL IN MIND I WANTED TO DO          2.0       2604               0.31
+3                                        I DON'T REMEMBER NOW          3.0        244               0.03
+4                                 I'VE NEVER BEEN HERE BEFORE          4.0       1688                0.2
+
+
+
+S72.Q15 IS THIS USO CLUB CROWDED ON SATURDAYS AND SUNDAYS?
+                                                 answer_label answer_value raw_counts relative_frequency
+0                                                   NO ANSWER          0.0        160               0.02
+1       YES, IT IS VERY CROWDED HERE ON SATURDAYS AND SUNDAYS          1.0       2060               0.24
+2     YES, IT IS PRETTY CROWDED HERE ON SATURDAYS AND SUNDAYS          2.0       2832               0.34
+3      NO, IT IS NOT SO CROWDED HERE ON SATURDAYS AND SUNDAYS          3.0       1170               0.14
+4  NO, IT IS NOT CROWDED AT ALL HERE ON SATURDAYS AND SUNDAYS          4.0        155               0.02
+5                      CROWDED ON SATURDAY, BUT NOT ON SUNDAY          5.0         17                0.0
+6         I'VE NEVER BEEN HERE BEFORE ON SATURDAYS OR SUNDAYS          6.0       2031               0.24
+
+
+
+S72.Q16 IS THIS USO CLUB CROWDED ON OTHER DAYS OF THE WEEK?
+                                    answer_label answer_value raw_counts relative_frequency
+0                                      NO ANSWER          0.0        250               0.03
+1       YES, IT IS VERY CROWDED HERE ON WEEKDAYS          1.0        265               0.03
+2     YES, IT IS PRETTY CROWDED HERE ON WEEKDAYS          2.0       1751               0.21
+3      NO, IT IS NOT SO CROWDED HERE ON WEEKDAYS          3.0       2548                0.3
+4  NO, IT IS NOT CROWDED AT ALL HERE ON WEEKDAYS          4.0        495               0.06
+5        I'VE NEVER BEEN HERE BEFORE ON WEEKDAYS          5.0       3116               0.37
+
+
+
+S72.Q17A LIBRARY?
+               answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER TO ENTIRE Q.17          0.0        188               0.02
+1                   CHECKED          1.0       4380               0.52
+2               NOT CHECKED          2.0       3857               0.46
+
+
+
+S72.Q17B RADIO?
+               answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER TO ENTIRE Q.17          0.0        188               0.02
+1                   CHECKED          1.0       4549               0.54
+2               NOT CHECKED          2.0       3688               0.44
+
+
+
+S72.Q17C PHONOGRAPH?
+               answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER TO ENTIRE Q.17          0.0        188               0.02
+1                   CHECKED          1.0       3052               0.36
+2               NOT CHECKED          2.0       5185               0.62
+
+
+
+S72.Q17D POOL TABLES?
+               answer_label answer_value raw_counts relative_frequency
+0        NO CODE OR NO DATA          0.0          1                0.0
+1                   CHECKED          1.0       2689               0.32
+2               NOT CHECKED          2.0       5547               0.66
+3  NO ANSWER TO ENTIRE Q.17          3.0        188               0.02
+
+
+
+S72.Q17E PING-PONG TABLES?
+               answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER TO ENTIRE Q.17          0.0        188               0.02
+1                   CHECKED          1.0       3295               0.39
+2               NOT CHECKED          2.0       4942               0.59
+
+
+
+S72.Q17F TABLE GAMES, CHECKERS, CHESS, ETC.?
+               answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER TO ENTIRE Q.17          0.0        188               0.02
+1                   CHECKED          1.0       2048               0.24
+2               NOT CHECKED          2.0       6189               0.73
+
+
+
+S72.Q17G MUSICAL INSTRUMENTS?
+               answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER TO ENTIRE Q.17          0.0        188               0.02
+1                   CHECKED          1.0       1662                0.2
+2               NOT CHECKED          2.0       6575               0.78
+
+
+
+S72.Q17H SNACK BAR?
+               answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER TO ENTIRE Q.17          0.0        188               0.02
+1                   CHECKED          1.0       5053                0.6
+2               NOT CHECKED          2.0       3184               0.38
+
+
+
+S72.Q17I SLEEPING FACILITIES?
+               answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER TO ENTIRE Q.17          0.0        188               0.02
+1                   CHECKED          1.0       3504               0.42
+2               NOT CHECKED          2.0       4733               0.56
+
+
+
+S72.Q17J SHOWERS?
+               answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER TO ENTIRE Q.17          0.0        188               0.02
+1                   CHECKED          1.0       4282               0.51
+2               NOT CHECKED          2.0       3955               0.47
+
+
+
+S72.Q17K CHECKING FACILITIES?
+               answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER TO ENTIRE Q.17          0.0        188               0.02
+1                   CHECKED          1.0       2272               0.27
+2               NOT CHECKED          2.0       5965               0.71
+
+
+
+S72.Q17L LETTER WRITING FACILITIES?
+               answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER TO ENTIRE Q.17          0.0        188               0.02
+1                   CHECKED          1.0       5378               0.64
+2               NOT CHECKED          2.0       2859               0.34
+
+
+
+S72.Q17M INFORMATION SERVICE?
+               answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER TO ENTIRE Q.17          0.0        188               0.02
+1                   CHECKED          1.0       4545               0.54
+2               NOT CHECKED          2.0       3692               0.44
+
+
+
+S72.Q17N GAME EQUIPMENT?
+               answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER TO ENTIRE Q.17          0.0        188               0.02
+1                   CHECKED          1.0        849                0.1
+2               NOT CHECKED          2.0       7388               0.88
+
+
+
+S72.Q17O ATHLETIC EQUIPMENT?
+               answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER TO ENTIRE Q.17          0.0        188               0.02
+1                   CHECKED          1.0        788               0.09
+2               NOT CHECKED          2.0       7449               0.88
+
+
+
+S72.Q17P PHOTOGRAPHY EQUIPMENT?
+               answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER TO ENTIRE Q.17          0.0        188               0.02
+1                   CHECKED          1.0        752               0.09
+2               NOT CHECKED          2.0       7485               0.89
+
+
+
+S72.Q17Q DARK ROOM?
+               answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER TO ENTIRE Q.17          0.0        188               0.02
+1                   CHECKED          1.0        645               0.08
+2               NOT CHECKED          2.0       7592                0.9
+
+
+
+S72.Q17R HANDICRAFT EQUIPMENT?
+               answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER TO ENTIRE Q.17          0.0        188               0.02
+1                   CHECKED          1.0        331               0.04
+2               NOT CHECKED          2.0       7906               0.94
+
+
+
+S72.Q17S A MACHINE TO MAKE A RECORD OF MY VOICE?
+               answer_label answer_value raw_counts relative_frequency
+0        NO CODE OR NO DATA          0.0          1                0.0
+1               NOT CHECKED          2.0       6783               0.81
+2                   CHECKED          1.0       1453               0.17
+3  NO ANSWER TO ENTIRE Q.17          3.0        188               0.02
+
+
+
+S72.Q20A "THE PEOPLE WHO WORK IN USO CLUBS ARE JUST INTERESTED IN THEIR JOBS AND DON'T CARE ABOUT US"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        396               0.05
+1        AGREE          1.0        337               0.04
+2     IN DOUBT          2.0        275               0.03
+3     DISAGREE          3.0       7417               0.88
+
+
+
+S72.Q20B "THE USO PEOPLE REALLY MAKE A FELLOW FEEL AT HOME"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        283               0.03
+1        AGREE          1.0       7438               0.88
+2     IN DOUBT          2.0        385               0.05
+3     DISAGREE          3.0        319               0.04
+
+
+
+S72.Q20C "THE PEOPLE WHO WORK IN USO CLUBS ARE FINE PEOPLE AND DO A GOOD JOB"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        304               0.04
+1        AGREE          1.0       7769               0.92
+2     IN DOUBT          2.0        231               0.03
+3     DISAGREE          3.0        121               0.01
+
+
+
+S72.Q20D "THE USO PEOPLE ARE ALWAYS TRYING TO GET US TO DO SOMETHING, WHEN ALL WE WANT TO DO IS TAKE IT EASY"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        444               0.05
+1        AGREE          1.0       1245               0.15
+2     IN DOUBT          2.0        679               0.08
+3     DISAGREE          3.0       6057               0.72
+
+
+
+S72.Q20E "THE USO PEOPLE PUT IN A LOT OF TIME AND EFFORT TO GIVE US A GOOD TIME"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        294               0.03
+1        AGREE          1.0       7743               0.92
+2     IN DOUBT          2.0        248               0.03
+3     DISAGREE          3.0        140               0.02
+
+
+
+S72.Q20F "THE PEOPLE WHO WORK IN USO CLUBS DON'T MANAGE THEM VERY WELL"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        479               0.06
+1        AGREE          1.0        396               0.05
+2     IN DOUBT          2.0        496               0.06
+3     DISAGREE          3.0       7054               0.84
+
+
+
+S72.Q20G "THE USO PEOPLE ARE TOO ,GOODY-GOODY, TO SUIT ME"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        519               0.06
+1     IN DOUBT          2.0        687               0.08
+2        AGREE          1.0        698               0.08
+3     DISAGREE          3.0       6521               0.77
+
+
+
+S72.Q24 YOUR FRIENDS MAY HAVE DIFFERENT OPINIONS ABOUT USO CLUBS, BUT WHAT DO MOST OF YOUR FRIENDS IN THE ARMY THINK ABOUT THE USO CLUBS?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0        138               0.02
+1      THEY LIKE THEM VERY MUCH          1.0       5743               0.68
+2    THEY LIKE THEM PRETTY MUCH          2.0       2141               0.25
+3  THEY DON'T LIKE THEM SO MUCH          3.0        366               0.04
+4   THEY DON'T LIKE THEM AT ALL          4.0         37                0.0
+
+
+
+S72.Q25 HOW IMPORTANT IS IT TO YOU PERSONALLY TO HAVE A USO CLUB WHERE YOU CAN GO DURING YOUR OFF-DUTY FREE TIME IN THE ARMY?
+                    answer_label answer_value raw_counts relative_frequency
+0             NO CODE OR NO DATA          0.0          1                0.0
+1     IT IS ABSOLUTELY NECESSARY          1.0       2492                0.3
+2      IT IS OF GREAT IMPORTANCE          2.0       4230                0.5
+3     IT IS OF MEDIUM IMPORTANCE          3.0       1254               0.15
+4     IT IS OF LITTLE IMPORTANCE          4.0        240               0.03
+5  IT IS OF NO IMPORTANCE AT ALL          5.0         88               0.01
+6                      NO ANSWER          6.0        120               0.01
+
+
+
+S72.Q26 HAVE YOU EVER BEEN TO A USO CLUB BECAUSE YOU WERE ORDERED OR DETAILED TO GO?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         68               0.01
+1          YES          1.0        609               0.07
+2           NO          2.0       7748               0.92
+
+
+
+S72.Q27 IN YOUR OPINION, IS IT A GOOD IDEA OR A POOR IDEA TO ORDER OR DETAIL MEN TO GO TO A USO CLUB?
+                                          answer_label answer_value raw_counts relative_frequency
+0                                            NO ANSWER          0.0        197               0.02
+1  IT IS A POOR IDEA TO DETAIL MEN TO GO TO A USO CLUB          2.0       5926                0.7
+2  IT IS A GOOD IDEA TO DETAIL MEN TO GO TO A USO CLUB          1.0       1233               0.15
+3                                            UNDECIDED          3.0       1069               0.13
+
+
+
+S72.Q29 ARE YOU:
+              answer_label answer_value raw_counts relative_frequency
+0       NO CODE OR NO DATA          0.0          1                0.0
+1          AN ENLISTED MAN          1.0       8225               0.98
+2  AN ENLISTED WOMAN (WAC)          2.0        140               0.02
+3                NO ANSWER          3.0         59               0.01
+
+
+
+S72.Q30 ARE YOU:
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0         48               0.01
+1                 SINGLE          1.0       6189               0.73
+2                MARRIED          2.0       2000               0.24
+3  DIVORCED OR SEPARATED          3.0        168               0.02
+4                WIDOWED          4.0         20                0.0
+
+
+
+S72.Q31 WHAT IS YOUR RACE?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1               WHITE          1.0       7779               0.92
+2               NEGRO          2.0        555               0.07
+3               OTHER          3.0         41                0.0
+4           NO ANSWER          4.0         48               0.01
+
+
+
+S72.Q32 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0        137               0.02
+1   18 OR YOUNGER          1.0        482               0.06
+2              19          2.0        865                0.1
+3              20          3.0        952               0.11
+4              21          4.0        918               0.11
+5              22          5.0        790               0.09
+6              23          6.0        674               0.08
+7              24          7.0        552               0.07
+8              25          8.0        486               0.06
+9           26-29          9.0       1312               0.16
+10          30-34         10.0        854                0.1
+11    35 OR OLDER         11.0        403               0.05
+
+
+
+S72.Q33 HOW FAR DID YOU GO IN SCHOOL?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0         43               0.01
+1                  LESS THAN 6TH GRADE          1.0         63               0.01
+2                   FINISHED 6TH GRADE          2.0         70               0.01
+3                   FINISHED 7TH GRADE          3.0        149               0.02
+4                   FINISHED 8TH GRADE          4.0        505               0.06
+5  SOME HIGH SCHOOL BUT DID NOT FINISH          5.0       1531               0.18
+6           GRADUATED FROM HIGH SCHOOL          6.0       3078               0.37
+7      SOME COLLEGE BUT DID NOT FINISH          7.0       2261               0.27
+8               GRADUATED FROM COLLEGE          8.0        725               0.09
+
+
+
+S72.Q34 WHAT WERE YOU DOING JUST BEFORE YOU CAME INTO THE ARMY?
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0         56               0.01
+1            I WAS UNEMPLOYED          1.0        247               0.03
+2               I WAS WORKING          2.0       6709                0.8
+3  I WAS GOING TO HIGH SCHOOL          3.0        217               0.03
+4      I WAS GOING TO COLLEGE          4.0        902               0.11
+5  2 AND 3 OR 2 AND 4 CHECKED          5.0        294               0.03
+
+
+
+S72.Q36 WERE YOU RUNNING YOUR OWN BUSINESS OR WERE YOU WORKING FOR SOMEBODY ELSE?
+                                                   answer_label answer_value raw_counts relative_frequency
+0                                            NO CODE OR NO DATA          0.0          1                0.0
+1                                 I WAS RUNNING MY OWN BUSINESS          1.0        730               0.09
+2  I WAS WORKING FOR A COMPANY THAT EMPLOYED LESS THAN 5 PEOPLE          2.0        463               0.05
+3  I WAS WORKING FOR A COMPANY THAT EMPLOYED MORE THAN 5 PEOPLE          3.0       5962               0.71
+4             I WASN'T WORKING JUST BEFORE I CAME INTO THE ARMY          4.0        978               0.12
+5                                                     NO ANSWER          5.0        291               0.03
+
+
+
+S72.Q37 WHAT DO YOU EXPECT TO DO WHEN YOU GET OUT OF THE ARMY?
+                      answer_label answer_value raw_counts relative_frequency
+0               NO CODE OR NO DATA          0.0          1                0.0
+1                GO TO HIGH SCHOOL          1.0         53               0.01
+2                    GO TO COLLEGE          2.0       1260               0.15
+3   GO BACK TO MY OLD LINE OF WORK          3.0       3969               0.47
+4  GO INTO SOME OTHER LINE OF WORK          4.0       2276               0.27
+5       SCHOOLING AND WORK CHECKED          5.0        201               0.02
+6     I EXPECT TO STAY IN THE ARMY          6.0        310               0.04
+7                        NO ANSWER          7.0        355               0.04
+
+
+
+S72.Q38 ARE YOU REASONABLY SURE OF GETTING A JOB AFTER THE WAR?
+                                answer_label answer_value raw_counts relative_frequency
+0                                  NO ANSWER          0.0        113               0.01
+1  YES, I HAVE BEEN PROMISED MY OLD JOB BACK          1.0       3077               0.37
+2      YES, I EXPECT TO HAVE MY OWN BUSINESS          2.0        986               0.12
+3  YES, I AM REASONABLY SURE I'LL FIND A JOB          3.0       1624               0.19
+4          NO, I AM NOT SURE I'LL FIND A JOB          4.0        949               0.11
+5                                  UNDECIDED          5.0        542               0.06
+6               I EXPECT TO STAY IN THE ARMY          6.0        313               0.04
+7    I EXPECT TO GO BACK TO FULL-TIME SCHOOL          7.0        821                0.1
+
+
+
+S72.Q39 ARE YOU WORRIED OR NOT WORRIED ABOUT FINDING A GOOD JOB AFTER THE WAR?
+              answer_label answer_value raw_counts relative_frequency
+0        I AM VERY WORRIED          1.0        568               0.07
+1    I AM SOMEWHAT WORRIED          2.0       1522               0.18
+2      I AM NOT SO WORRIED          3.0       2026               0.24
+3  I AM NOT WORRIED AT ALL          4.0       4154               0.49
+4                NO ANSWER          5.0        155               0.02
+
+
+
+S72.Q40.1 WHAT DO YOU THINK USO CLUBS COULD DO NOW TO HELP YOU WITH THE JOB PROBLEMS YOU MAY HAVE AFTER THE WAR?
+                                             answer_label answer_value raw_counts relative_frequency
+0  HAVE DISCUSSIONS ABOUT JOB OPPORTUNITIES AFTER THE WAR          1.0       1361               0.16
+1                                              NOT CHOSEN          2.0       7064               0.84
+
+
+
+S72.Q40.2WHAT DO YOU THINK USO CLUBS COULD DO NOW TO HELP YOU WITH THE JOB PROBLEMS YOU MAY HAVE AFTER THE WAR?
+                                                   answer_label answer_value raw_counts relative_frequency
+0  PROVIDE READING MATTER ABOUT JOB OPPORTUNITIES AFTER THE WAR          1.0       1163               0.14
+1                                                    NOT CHOSEN          2.0       7262               0.86
+
+
+
+S72.Q40.3WHAT DO YOU THINK USO CLUBS COULD DO NOW TO HELP YOU WITH THE JOB PROBLEMS YOU MAY HAVE AFTER THE WAR?
+                                          answer_label answer_value raw_counts relative_frequency
+0  HAVE CLASSES TO PREPARE YOU FOR A JOB AFTER THE WAR          1.0       1201               0.14
+1                                           NOT CHOSEN          2.0       7224               0.86
+
+
+
+S72.Q40.4WHAT DO YOU THINK USO CLUBS COULD DO NOW TO HELP YOU WITH THE JOB PROBLEMS YOU MAY HAVE AFTER THE WAR?
+                                                  answer_label answer_value raw_counts relative_frequency
+0  GIVE YOU ADVICE ABOUT JOBS YOU COULD FIT INTO AFTER THE WAR          1.0       1827               0.22
+1                                                   NOT CHOSEN          2.0       6598               0.78
+
+
+
+S72.Q40.5WHAT DO YOU THINK USO CLUBS COULD DO NOW TO HELP YOU WITH THE JOB PROBLEMS YOU MAY HAVE AFTER THE WAR?
+     answer_label answer_value raw_counts relative_frequency
+0  SOMETHING ELSE          1.0        356               0.04
+1      NOT CHOSEN          2.0       8069               0.96
+
+
+
+S72.Q40.6WHAT DO YOU THINK USO CLUBS COULD DO NOW TO HELP YOU WITH THE JOB PROBLEMS YOU MAY HAVE AFTER THE WAR?
+            answer_label answer_value raw_counts relative_frequency
+0  THREE OR MORE CHECKED          1.0        137               0.02
+1             NOT CHOSEN          2.0       8288               0.98
+
+
+
+S72.Q40.7WHAT DO YOU THINK USO CLUBS COULD DO NOW TO HELP YOU WITH THE JOB PROBLEMS YOU MAY HAVE AFTER THE WAR?
+                              answer_label answer_value raw_counts relative_frequency
+0  I EXPECT TO GO BACK TO FULL-TIME SCHOOL          1.0        662               0.08
+1                               NOT CHOSEN          2.0       7763               0.92
+
+
+
+S72.Q40.8WHAT DO YOU THINK USO CLUBS COULD DO NOW TO HELP YOU WITH THE JOB PROBLEMS YOU MAY HAVE AFTER THE WAR?
+                                                  answer_label answer_value raw_counts relative_frequency
+0  I DON'T THINK THE USO SHOULD DO ANYTHING ABOUT JOB PROBLEMS          1.0       1186               0.14
+1                                            NOT CHOSEN CARD 2          2.0       7239               0.86
+
+
+
+S72.Q40.9 WHAT DO YOU THINK USO CLUBS COULD DO NOW TO HELP YOU WITH THE JOB PROBLEMS YOU MAY HAVE AFTER THE WAR?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0        869                0.1
+1   NOT CHOSEN          2.0       7556                0.9
+
+
+
+S72.Q41.1 WHAT DO YOU THINK USO CLUBS COULD DO NOW TO HELP YOU WITH SCHOOL PROBLEMS YOU MAY HAVE AFTER THE WAR?
+                                            answer_label answer_value raw_counts relative_frequency
+0  PROVIDE TEXTBOOKS ON SUBJECTS YOU WOULD LIKE TO STUDY          1.0       1705                0.2
+1                                             NOT CHOSEN          2.0       6720                0.8
+
+
+
+S72.Q41.2WHAT DO YOU THINK USO CLUBS COULD DO NOW TO HELP YOU WITH SCHOOL PROBLEMS YOU MAY HAVE AFTER THE WAR?
+                                                      answer_label answer_value raw_counts relative_frequency
+0  HAVE CLASSES TO PREPARE YOU FOR SCHOOL OR COLLEGE AFTER THE WAR          1.0        918               0.11
+1                                                       NOT CHOSEN          2.0       7507               0.89
+
+
+
+S72.Q41.3WHAT DO YOU THINK USO CLUBS COULD DO NOW TO HELP YOU WITH SCHOOL PROBLEMS YOU MAY HAVE AFTER THE WAR?
+                                                                      answer_label answer_value raw_counts relative_frequency
+0  GIVE YOU ADVICE ABOUT COURSES YOU MIGHT TAKE IN SCHOOL OR COLLEGE AFTER THE WAR          1.0       1621               0.19
+1                                                                       NOT CHOSEN          2.0       6804               0.81
+
+
+
+S72.Q41.4WHAT DO YOU THINK USO CLUBS COULD DO NOW TO HELP YOU WITH SCHOOL PROBLEMS YOU MAY HAVE AFTER THE WAR?
+     answer_label answer_value raw_counts relative_frequency
+0  SOMETHING ELSE          1.0        190               0.02
+1      NOT CHOSEN          2.0       8235               0.98
+
+
+
+S72.Q41.5WHAT DO YOU THINK USO CLUBS COULD DO NOW TO HELP YOU WITH SCHOOL PROBLEMS YOU MAY HAVE AFTER THE WAR?
+            answer_label answer_value raw_counts relative_frequency
+0  THREE OR MORE CHECKED          1.0         49               0.01
+1             NOT CHOSEN          2.0       8376               0.99
+
+
+
+S72.Q41.6WHAT DO YOU THINK USO CLUBS COULD DO NOW TO HELP YOU WITH SCHOOL PROBLEMS YOU MAY HAVE AFTER THE WAR?
+                                   answer_label answer_value raw_counts relative_frequency
+0  I DON'T EXPECT TO GO TO SCHOOL AFTER THE WAR          1.0       2604               0.31
+1                                    NOT CHOSEN          2.0       5821               0.69
+
+
+
+S72.Q41.7WHAT DO YOU THINK USO CLUBS COULD DO NOW TO HELP YOU WITH SCHOOL PROBLEMS YOU MAY HAVE AFTER THE WAR?
+                                                     answer_label answer_value raw_counts relative_frequency
+0  I DON'T THINK THE USO SHOULD DO ANYTHING ABOUT SCHOOL PROBLEMS          1.0        823                0.1
+1                                                      NOT CHOSEN          2.0       7602                0.9
+
+
+
+S72.Q41.8WHAT DO YOU THINK USO CLUBS COULD DO NOW TO HELP YOU WITH SCHOOL PROBLEMS YOU MAY HAVE AFTER THE WAR?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0        741               0.09
+1   NOT CHOSEN          2.0       7684               0.91
+
+
+
+S72.Q42 IF THE USO SET UP DISCUSSION GROUPS OR CLASSES ON JOB AND SCHOOL PROBLEMS, WOULD YOU GO TO ONE OF THESE GROUPS OR CLASSES?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          4                0.0
+1                 YES          1.0       3549               0.42
+2                  NO          2.0       1784               0.21
+3          DON'T KNOW          3.0       2750               0.33
+4           NO ANSWER          4.0        338               0.04
+
+
+
+S72.Q44 IF THE USO SET UP A DISCUSSION GROUP OR A CLASS ABOUT A SUBJECT YOU WERE INTERESTED IN, ABOUT HOW OFTEN WOULD YOU GO TO IT?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0        845                0.1
+1         MORE THAN ONCE A WEEK          1.0       2454               0.29
+2                   ONCE A WEEK          2.0       2618               0.31
+3    TWO OR THREE TIMES A MONTH          3.0        702               0.08
+4                  ONCE A MONTH          4.0        237               0.03
+5  LESS OFTEN THAN ONCE A MONTH          5.0        123               0.01
+6                 I WOULDN'T GO          6.0       1446               0.17
+
+
+
+S72.Q45 WHETHER YOU ARE A CHURCH MEMBER OR NOT, DO YOU CONSIDER YOURSELF:
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        204               0.02
+1     CATHOLIC          1.0       2743               0.33
+2       JEWISH          2.0        819                0.1
+3   PROTESTANT          3.0       4348               0.52
+4        OTHER          4.0        122               0.01
+5         NONE          5.0        189               0.02
+
+
+
+S72.Q46A THE BOY SCOUTS, THE GIRL SCOUTS, OR THE CAMPFIRE GIRLS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0       2013               0.24
+1          YES          1.0       3228               0.38
+2           NO          2.0       3184               0.38
+
+
+
+S72.Q46B THE Y.M.C.A. OR Y.W.C.A., THE Y.M.H.A. OR Y.W.H.A., OR A CATHOLIC YOUTH ORGANIZATION?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0       2158               0.26
+1          YES          1.0       3359                0.4
+2           NO          2.0       2908               0.35
+
+
+
+S72.Q46C THE 4-H CLUB?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1                 YES          1.0        798               0.09
+2                  NO          2.0       3762               0.45
+3           NO ANSWER          3.0       3864               0.46
+
+
+
+S72.Q47 BESIDES THE CLUBS IN THE ABOVE LIST DID YOU BELONG TO ANY OTHER CLUBS OR ORGANIZATIONS?
+                    answer_label answer_value raw_counts relative_frequency
+0             NO CODE OR NO DATA          0.0          5                0.0
+1            ANOTHER CLUB LISTED          1.0       2959               0.35
+2  I DIDN'T BELONG TO ANY OTHERS          2.0       4156               0.49
+3                      NO ANSWER          3.0       1305               0.15
+
+
+
+S72.Q48 IN WHAT STATE OF THE UNITED STATES DID YOU SPEND MOST OF THE LAST FIVE YEARS OF YOUR CIVILIAN LIFE BEFORE YOU CAME INTO THE ARMY? E. SECTION:
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0        199               0.02
+1                  NEW ENGLAND          1.0        712               0.08
+2              MIDDLE ATLANTIC          2.0       2518                0.3
+3           EAST NORTH CENTRAL          3.0       1859               0.22
+4           WEST NORTH CENTRAL          4.0        707               0.08
+5               SOUTH ATLANTIC          5.0        680               0.08
+6           EAST SOUTH CENTRAL          6.0        356               0.04
+7           WEST SOUTH CENTRAL          7.0        452               0.05
+8                     MOUNTAIN          8.0        198               0.02
+9                      PACIFIC          9.0        612               0.07
+10   FOREIGN - U.S. POSSESSION         10.0          9                0.0
+11          FOREIGN - NOT U.S.         11.0         15                0.0
+12  U.S. - STATE NOT SPECIFIED         12.0        108               0.01
+
+
+
+S72.Q50 WHERE WERE YOU LIVING MOST OF THE LAST FIVE YEARS OF YOUR CIVILIAN LIFE BEFORE YOU CAME INTO THE ARMY?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                         NO ANSWER          0.0        123               0.01
+1                       ON A FARM OR IN THE COUNTRY          1.0        651               0.08
+2         IN A SMALL TOWN (FEWER THAN 2,500 PEOPLE)          2.0        650               0.08
+3  IN A TOWN (WITH BETWEEN 2,500 AND 25,000 PEOPLE)          3.0       1502               0.18
+4     IN A CITY (BETWEEN 25,000 AND 100,000 PEOPLE)          4.0       1665                0.2
+5        IN A LARGE CITY (MORE THAN 100,000 PEOPLE)          5.0       3834               0.46
+
+
+
+S72.Q51 WHAT IS YOUR ARMY RANK OR GRADE?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0         86               0.01
+1                                 PRIVATE          1.0       3219               0.38
+2                     PRIVATE FIRST CLASS          2.0       1774               0.21
+3        TECHNICIAN 5TH GRADE OR CORPORAL          3.0       1706                0.2
+4        TECHNICIAN 4TH GRADE OR SERGEANT          4.0        883                0.1
+5  TECHNICIAN 3RD GRADE OR STAFF SERGEANT          5.0        325               0.04
+6                      TECHNICAL SERGEANT          6.0         90               0.01
+7       MASTER SERGEANT OR FIRST SERGEANT          7.0         62               0.01
+8                                   OTHER          8.0        280               0.03
+
+
+
+S72.Q52 HOW LONG HAVE YOU BEEN IN THE ARMY?
+                   answer_label answer_value raw_counts relative_frequency
+0              3 MONTHS OR LESS          1.0        921               0.11
+1  OVER 3 MONTHS UP TO 6 MONTHS          2.0       1670                0.2
+2  OVER 6 MONTHS UP TO 9 MONTHS          3.0       1648                0.2
+3    OVER 9 MONTHS UP TO 1 YEAR          4.0       1607               0.19
+4     OVER 1 YEAR UP TO 2 YEARS          5.0       1716                0.2
+5                  OVER 2 YEARS          6.0        788               0.09
+6                     NO ANSWER          7.0         75               0.01
+
+
+
+S72.Q53 HOW LONG HAVE YOU BEEN IN THE CAMP WHERE YOU ARE NOW STATIONED?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0        130               0.02
+1              3 MONTHS OR LESS          1.0       4365               0.52
+2  OVER 3 MONTHS UP TO 6 MONTHS          2.0       1735               0.21
+3  OVER 6 MONTHS UP TO 9 MONTHS          3.0        960               0.11
+4    OVER 9 MONTHS UP TO 1 YEAR          4.0        634               0.08
+5     OVER 1 YEAR UP TO 2 YEARS          5.0        522               0.06
+6                  OVER 2 YEARS          6.0         79               0.01
+
+
+
+S72.Q54 DO YOU HAVE TROUBLE FINDING INTERESTING THINGS TO DO IN YOUR OFF-DUTY FREE TIME?
+       answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER          0.0        135               0.02
+1  MOST OF THE TIME          1.0       1554               0.18
+2  MUCH OF THE TIME          2.0       1046               0.12
+3    NOT VERY OFTEN          3.0       3689               0.44
+4             NEVER          4.0       2001               0.24
+
+
+
+S72.Q55 ABOUT HOW OFTEN DO YOU GO TO ANY TOWN OR CITY WHERE THERE IS A USO CLUB SINCE YOU'VE BEEN IN THIS CAMP?
+                            answer_label answer_value raw_counts relative_frequency
+0                     NO CODE OR NO DATA          0.0          1                0.0
+1             THREE OR MORE TIMES A WEEK          1.0       2370               0.28
+2                           TWICE A WEEK          2.0       2078               0.25
+3                            ONCE A WEEK          3.0       2172               0.26
+4                ONCE EVERY 2 OR 3 WEEKS          4.0        604               0.07
+5                           ONCE A MONTH          5.0        215               0.03
+6                 LESS THAN ONCE A MONTH          6.0        340               0.04
+7  I LIVE OFF THE POST IN A TOWN OR CITY          7.0        365               0.04
+8                              NO ANSWER          8.0        280               0.03
+
+
+
+S72.V57 CAMP IDENTIFICATION
+                                                                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                                                            DEVENS, EDWARDS          1.0        263               0.03
+1                                                                         MITCHELL FIELD, FT. NIAGARA, FT. SLOCUM, PINE CAMP          2.0        340               0.04
+2                                                                          INDIANTOWN GAP MILITARY RESERVATION, JOYCE KILMER          3.0        216               0.03
+3                                                                                         FT. MEAD, BUTNER, FT. BELVOIR, LEE          4.0        843                0.1
+4                                                                                                                   FT. KNOX          5.0        224               0.03
+5                                                                                                  SCOTT FIELD, FT. SHERIDAN          6.0        333               0.04
+6   BLANDING, DREW FIELD, MCCLELLAN, FT. MCPHERSON FT. BENNING, AIR BASE, SHELBY, HARBOR DEFENSES, JACKSON, SMYRNA AIR BASE,          7.0       1588               0.19
+7                                                                                                             FT. DES MOINES          8.0        107               0.01
+8                                               FT. SILL, FT. RILEY, AERONAUT. SCHOOLS, JEFFERSON BARRACKS, FT. LEONARD WOOD          9.0        665               0.08
+9                         CLAIBORNE, POLK, NEW ORLEANS, BARKELEY, CAMP SWIFT ELLINGTON FIELD, WALLACE, MAXEY, SHEPPARD FIELD         10.0        761               0.09
+10                                                           CARSON, LOWRY FIELD, GOWEN AIR FIELD, FT. HARRISON, FT. DOUGLAS         11.0        764               0.09
+11                                                        ROBERTS, HAAN AND MARCH FIELDS, HAMILTON, ADAIR PAINE FIELD, LEWIS         12.0        908               0.11
+12                                                                           NO CAMP AFFILIATION - COMMUNITY SPONSORED CLUBS         13.0       1413               0.17
+
+
+
+S72.V58 CITY AND RACE IDENTIFICATION
+                                                          answer_label answer_value raw_counts relative_frequency
+0   JACKSONVILLE, FLA.: NATIONALLY SPONSORED WHITE ENLISTED MEN'S CLUB          1.0        111               0.01
+1                                    STARKE, FLA.: NATIONAL WHITE CLUB          2.0        107               0.01
+2                                     TAMPA, FLA.: NATIONAL WHITE CLUB          3.0        111               0.01
+3                                  ANNISTON, ALA.: NATIONAL NEGRO CLUB          4.0        108               0.01
+4                                BIRMINGHAM, ALA.: NATIONAL WHITE CLUB          5.0        109               0.01
+5                                    ATLANTA, GA.: NATIONAL WHITE CLUB          6.0        113               0.01
+6                                   COLUMBUS, GA.: NATIONAL NEGRO CLUB          7.0        106               0.01
+7                                   COLUMBUS, GA.: NATIONAL WHITE CLUB          8.0        110               0.01
+8                                   VALDOSTA, GA.: NATIONAL WHITE CLUB          9.0        110               0.01
+9                              HATTIESBURG, MISS.: NATIONAL WHITE CLUB         10.0        111               0.01
+10                               CHARLESTON, S.C.: NATIONAL WHITE CLUB         11.0         74               0.01
+11                                 COLUMBIA, S.C.: NATIONAL WHITE CLUB         12.0        110               0.01
+12                                  SMYRNA, TENN.: NATIONAL WHITE CLUB         13.0         92               0.01
+13                               TULLAHOMA, TENN.: NATIONAL WHITE CLUB         14.0        106               0.01
+14                               DYERSBURG, TENN.: NATIONAL WHITE CLUB         15.0        110               0.01
+15                                    AYER, MASS.: NATIONAL WHITE CLUB         16.0        110               0.01
+16                           BUZZARD'S BAY, MASS.: NATIONAL WHITE CLUB         17.0        110               0.01
+17                                 MASHPEE, MASS.: NATIONAL NEGRO CLUB         18.0         43               0.01
+18                       DES MOINES, IOWA: NATIONAL WHITE CLUB - WAC'S         19.0        107               0.01
+19                               BELLEVILLE, ILL.: NATIONAL WHITE CLUB         20.0        110               0.01
+20                                  CHICAGO, ILL.: NATIONAL WHITE CLUB         21.0        115               0.01
+21                                 HIGHWOOD, ILL.: NATIONAL WHITE CLUB         22.0        108               0.01
+22                                 LEXINGTON, KY.: NATIONAL WHITE CLUB         23.0        110               0.01
+23                                LOUISVILLE, KY.: NATIONAL WHITE CLUB         24.0         51               0.01
+24                                LOUISVILLE, KY.: NATIONAL NEGRO CLUB         25.0         63               0.01
+25                                   ALTUS, OKLA.: NATIONAL WHITE CLUB         26.0        123               0.01
+26                           OKLAHOMA CITY, OKLA.: NATIONAL WHITE CLUB         27.0        111               0.01
+27                        COLORADO SPRINGS, COLO.: NATIONAL WHITE CLUB         28.0        106               0.01
+28                                  DENVER, COLO.: NATIONAL WHITE CLUB         29.0        115               0.01
+29                                  DENVER, COLO.: NATIONAL WHITE CLUB         30.0        110               0.01
+30                                   BOISE, IDAHO: NATIONAL WHITE CLUB         31.0        109               0.01
+31                              MANHATTAN, KANSAS: NATIONAL WHITE CLUB         32.0        102               0.01
+32                               KANSAS CITY, MO.: NATIONAL WHITE CLUB         33.0        110               0.01
+33                                 ST. LOUIS, MO.: NATIONAL WHITE CLUB         34.0        110               0.01
+34                               WAYNESVILLE, MO.: NATIONAL WHITE CLUB         35.0        109               0.01
+35                                  HELENA, MONT.: NATIONAL WHITE CLUB         36.0         91               0.01
+36                                   MURRAY, UTAH: NATIONAL WHITE CLUB         37.0        108               0.01
+37                           SALT LAKE CITY, UTAH: NATIONAL WHITE CLUB         38.0        126               0.01
+38                            NEW BRUNSWICK, N.J.: NATIONAL WHITE CLUB         39.0        107               0.01
+39                                HEMPSTEAD, N.Y.: NATIONAL WHITE CLUB         40.0        110               0.01
+40                                  BUFFALO, N.Y.: NATIONAL WHITE CLUB         41.0        109               0.01
+41                             NEW ROCHELLE, N.Y.: NATIONAL WHITE CLUB         42.0         14                0.0
+42                                WATERTOWN, N.Y.: NATIONAL WHITE CLUB         43.0        107               0.01
+43                                   LEBANON, PA.: NATIONAL WHITE CLUB         44.0        109               0.01
+44                                 BALTIMORE, MD.: NATIONAL WHITE CLUB         45.0        103               0.01
+45                                    LAUREL, MD.: NATIONAL WHITE CLUB         46.0        109               0.01
+46                                   DURHAM, N.C.: NATIONAL WHITE CLUB         47.0        108               0.01
+47                                  RALEIGH, N.C.: NATIONAL WHITE CLUB         48.0         97               0.01
+48                                ALEXANDRIA, VA.: NATIONAL WHITE CLUB         49.0         96               0.01
+49                                PETERSBURG, VA.: NATIONAL WHITE CLUB         50.0        109               0.01
+50                                  RICHMOND, VA.: NATIONAL WHITE CLUB         51.0        109               0.01
+51                               WASHINGTON, D.C.: NATIONAL WHITE CLUB         52.0        112               0.01
+52                               NEW ORLEANS, LA.: NATIONAL WHITE CLUB         55.0        111               0.01
+53                               NEW ORLEANS, LA.: NATIONAL WHITE CLUB         56.0        110               0.01
+54                                  ABILENE, TEX.: NATIONAL WHITE CLUB         57.0        108               0.01
+55                                   AUSTIN, TEX.: NATIONAL WHITE CLUB         58.0        109               0.01
+56                                  HOUSTON, TEX.: NATIONAL WHITE CLUB         59.0        108               0.01
+57                                GALVESTON, TEX.: NATIONAL WHITE CLUB         60.0        105               0.01
+58                                    PARIS, TEX.: NATIONAL WHITE CLUB         61.0        110               0.01
+59                                   BALBOA, CAL.: NATIONAL WHITE CLUB         63.0        103               0.01
+60                             SANTA MONICA, CAL.: NATIONAL WHITE CLUB         64.0         96               0.01
+61                              PASO ROBLES, CAL.: NATIONAL WHITE CLUB         65.0        111               0.01
+62                                RIVERSIDE, CAL.: NATIONAL WHITE CLUB         66.0        107               0.01
+63                            SAN FRANCISCO, CAL.: NATIONAL WHITE CLUB         67.0        109               0.01
+64                            SAN FRANCISCO, CAL.: NATIONAL NEGRO CLUB         68.0         43               0.01
+65                                 ALBANY, OREGON: NATIONAL WHITE CLUB         69.0        114               0.01
+66                                 SEATTLE, WASH.: NATIONAL WHITE CLUB         70.0        108               0.01
+67                            SOUTH TACOMA, WASH.: NATIONAL WHITE CLUB         71.0         86               0.01
+68                                  TACOMA, WASH.: NATIONAL NEGRO CLUB         72.0         30                0.0
+69                    NASHVILLE, TENN.: COMMUNITY SPONSORED WHITE CLUB         73.0        105               0.01
+70                       BOSTON, MASS.: COMMUNITY SPONSORED WHITE CLUB         74.0        106               0.01
+71                       CHICAGO, ILL.: COMMUNITY SPONSORED WHITE CLUB         75.0         97               0.01
+72                               CLEVELAND, OHIO: COMMUNITY WHITE CLUB         77.0        106               0.01
+73                                DETROIT, MICH.: COMMUNITY WHITE CLUB         78.0        107               0.01
+74                                DETROIT, MICH.: COMMUNITY NEGRO CLUB         79.0         71               0.01
+75                            INDIANAPOLIS, IND.: COMMUNITY WHITE CLUB         80.0        111               0.01
+76                              MILWAUKEE, WISC.: COMMUNITY WHITE CLUB         81.0        106               0.01
+77                                ST. LOUIS, MO.: COMMUNITY WHITE CLUB         83.0        110               0.01
+78                                  NEWARK, N.J.: COMMUNITY WHITE CLUB         84.0        109               0.01
+79                            POUGHKEEPSIE, N.Y.: COMMUNITY WHITE CLUB         85.0         77               0.01
+80                               PITTSBURGH, PA.: COMMUNITY WHITE CLUB         86.0         90               0.01
+81                             LOS ANGELES, CAL.: COMMUNITY WHITE CLUB         87.0        110               0.01
+82                                 OAKLAND, CAL.: COMMUNITY WHITE CLUB         88.0        108               0.01
+
+
+

@@ -1,0 +1,244 @@
+S136.Q1 WHAT KIND OF A SQUADRON ARE YOU IN?
+                                    answer_label answer_value raw_counts relative_frequency
+0                                      NO ANSWER          0.0          6                0.0
+1  SERVICE SQUADRON IN A FIGHTER OR BOMBER GROUP          1.0        187               0.09
+2                               FIGHTER SQUADRON          2.0        451               0.21
+3                                BOMBER SQUADRON          3.0        826               0.38
+4                      SOME OTHER TYPE OF OUTFIT          4.0        716               0.33
+
+
+
+S136.Q2 WHAT TYPE OF JOB DO YOU HAVE AT PRESENT?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0         21               0.01
+1                           COMBAT FLYING JOB          1.0        847               0.39
+2  GROUND CREW - "LINE" JOB WORKING ON PLANES          2.0        428                0.2
+3                            OTHER GROUND JOB          3.0        890               0.41
+
+
+
+S136.V3 TYPE OF PERSONNEL TO QUESTION 3A:
+           answer_label answer_value raw_counts relative_frequency
+0      COMBAT PERSONNEL          1.0        839               0.38
+1  NON-COMBAT PERSONNEL          2.0       1347               0.62
+
+
+
+S136.Q4 HOW IMPORTANT A PART DO YOU THINK YOUR TYPE OF OUTFIT WILL PLAY IN WINNING THE WAR AGAINST GERMANY?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0         21               0.01
+1        VERY IMPORTANT          1.0       1510               0.69
+2      FAIRLY IMPORTANT          2.0        563               0.26
+3    NOT VERY IMPORTANT          3.0         75               0.03
+4  NOT IMPORTANT AT ALL          4.0         17               0.01
+
+
+
+S136.Q5 HOW IMPORTANT A PART DO YOU THINK YOUR TYPE OF OUTFIT WILL PLAY IN WINNING THE WAR AGAINST JAPAN?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0         35               0.02
+1        VERY IMPORTANT          1.0       1263               0.58
+2      FAIRLY IMPORTANT          2.0        646                0.3
+3    NOT VERY IMPORTANT          3.0        177               0.08
+4  NOT IMPORTANT AT ALL          4.0         65               0.03
+
+
+
+S136.Q6 IF YOU ARE IN EUROPEAN THEATER OPERATIONS WHEN GERMANY IS DEFEATED, DO YOU THINK YOU WILL BE NEEDED IN ANOTHER THEATER IN ORDER TO HELP BEAT JAPAN?
+                                     answer_label answer_value raw_counts relative_frequency
+0                                       NO ANSWER          0.0         22               0.01
+1  YES, ALMOST IMMEDIATELY AFTER GERMANY'S DEFEAT          1.0        791               0.36
+2              YES, BUT NOT UNTIL SOME TIME LATER          2.0        635               0.29
+3                                              NO          3.0        410               0.19
+4                                HAVEN'T ANY IDEA          4.0        328               0.15
+
+
+
+S136.Q7 ABOUT HOW MUCH LONGER FROM NOW DO YOU THINK THE WAR WILL LAST WITH GERMANY?
+                                  answer_label answer_value raw_counts relative_frequency
+0                                    NO ANSWER          0.0         19               0.01
+1                  LESS THAN 3 MONTHS FROM NOW          1.0         97               0.04
+2                       3 TO 6 MONTHS FROM NOW          2.0        904               0.41
+3     MORE THAN 6 MONTHS UP TO A YEAR FROM NOW          3.0       1001               0.46
+4  MORE THAN A YEAR UP TO 1 1/2 YEARS FROM NOW          4.0        129               0.06
+5               MORE THAN 1 1/2 YEARS FROM NOW          5.0         36               0.02
+
+
+
+S136.Q8 AFTER GERMANY IS DEFEATED, ABOUT HOW MUCH LONGER DO YOU THINK THE WAR WILL LAST WITH JAPAN?
+                                                           answer_label answer_value raw_counts relative_frequency
+0                                                             NO ANSWER          0.0         27               0.01
+1                  LESS THAN 3 MONTHS FROM THE TIME GERMANY IS DEFEATED          1.0         83               0.04
+2                       3 TO 6 MONTHS FROM THE TIME GERMANY IS DEFEATED          2.0        440                0.2
+3     MORE THAN 6 MONTHS UP TO A YEAR FROM THE TIME GERMANY IS DEFEATED          3.0        944               0.43
+4  MORE THAN A YEAR UP TO 1 1/2 YEARS FROM THE TIME GERMANY IS DEFEATED          4.0        508               0.23
+5               MORE THAN 1 1/2 YEARS FROM THE TIME GERMANY IS DEFEATED          5.0        184               0.08
+
+
+
+S136.Q9 WHAT WOULD YOU LIKE TO SEE HAPPEN TO THE GERMANS AFTER THE WAR?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                NO CODE OR NO DATA          0.0          2                0.0
+1  PUNISH THE LEADERS, BUT NOT THE ORDINARY GERMANS          1.0       1621               0.74
+2     MAKE THE ORDINARY GERMAN PEOPLE SUFFER PLENTY          2.0        181               0.08
+3                  WIPE OUT THE WHOLE GERMAN NATION          3.0        304               0.14
+4                                         NO ANSWER          4.0         78               0.04
+
+
+
+S136.Q10 WHAT WOULD YOU LIKE TO SEE HAPPEN TO THE JAPANESE AFTER THE WAR?
+                                        answer_label answer_value raw_counts relative_frequency
+0                                          NO ANSWER          0.0         82               0.04
+1  PUNISH THE LEADERS, BUT NOT THE ORDINARY JAPANESE          1.0        767               0.35
+2    MAKE THE ORDINARY JAPANESE PEOPLE SUFFER PLENTY          2.0        302               0.14
+3                 WIPE OUT THE WHOLE JAPANESE NATION          3.0       1035               0.47
+
+
+
+S136.Q11 ABOUT HOW LONG HAVE YOU BEEN OVERSEAS?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0          8                0.0
+1                   LESS THAN 6 MONTHS          1.0        771               0.35
+2                6 MONTHS UP TO A YEAR          2.0        736               0.34
+3  MORE THAN A YEAR, UP TO 1 1/2 YEARS          3.0        371               0.17
+4                MORE THAN 1 1/2 YEARS          4.0        300               0.14
+
+
+
+S136.Q12 ARE YOU MARRIED OR SINGLE?
+                     answer_label answer_value raw_counts relative_frequency
+0                       NO ANSWER          0.0         12               0.01
+1                         MARRIED          1.0        690               0.32
+2                          SINGLE          2.0       1429               0.65
+3  WIDOWED, DIVORCED OR SEPARATED          3.0         55               0.03
+
+
+
+S136.Q13 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0        111               0.05
+1    20 YEARS OR LESS          1.0        224                0.1
+2            21 YEARS          2.0        233               0.11
+3                  22          3.0        241               0.11
+4                  23          4.0        246               0.11
+5                  24          5.0        231               0.11
+6                  25          6.0        164               0.08
+7         26-29 YEARS          7.0        439                0.2
+8         30-34 YEARS          8.0        188               0.09
+9         35-37 YEARS          9.0         73               0.03
+10           38 YEARS         10.0         15               0.01
+11  39 YEARS AND OVER         11.0         21               0.01
+
+
+
+S136.Q14 ARE YOU AN OFFICER OR AN ENLISTED MAN?
+                        answer_label answer_value raw_counts relative_frequency
+0                          NO ANSWER          0.0         23               0.01
+1               COMMISSIONED OFFICER          1.0        492               0.23
+2  FLIGHT OFFICER OR WARRANT OFFICER          2.0         21               0.01
+3                       ENLISTED MAN          3.0       1650               0.75
+
+
+
+S136.Q15 HOW DID YOU COME INTO THE ARMY?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         30               0.01
+1                I WAS DRAFTED          1.0       1126               0.52
+2                I VOLUNTEERED          2.0        991               0.45
+3  I WAS IN THE NATIONAL GUARD          3.0         30               0.01
+4      I WAS A RESERVE OFFICER          4.0          9                0.0
+
+
+
+S136.Q16 IF YOU ARE IN EUROPEAN THEATER OPERATIONS WHEN GERMANY IS DEFEATED, HOW WOULD YOU FEEL ABOUT GOING TO ANOTHER THEATER TO HELP BEAT JAPAN?
+                                                                                                         answer_label answer_value raw_counts relative_frequency
+0                                                                                                           NO ANSWER          0.0         35               0.02
+1                                                                                        WOULD BE QUITE ANXIOUS TO GO          1.0        181               0.08
+2                                                          WOULD ONLY FEEL WILLING TO GO AFTER A FURLOUGH IN THE U.S.          2.0        797               0.36
+3  WOULD RATHER GO AFTER A FURLOUGH IN THE U.S., BUT WOULD FEEL WILLING TO GO EVEN WITHOUT ONE IF IT SEEMED NECESSARY          3.0        926               0.42
+4                                                                                         WOULD NOT WANT TO GO AT ALL          4.0        247               0.11
+
+
+
+S136.Q17 IF YOU WERE SENT TO ANOTHER THEATER TO HELP DEFEAT JAPAN, WOULD YOU PREFER TO CONTINUE IN YOUR PRESENT TYPE OF JOB OR TO CHANGE TO SOME OTHER TYPE OF AIR CORPS JOB?
+                                                              answer_label answer_value raw_counts relative_frequency
+0                                                                NO ANSWER          0.0         39               0.02
+1                              WOULD PREFER TO KEEP MY PRESENT TYPE OF JOB          1.0       1500               0.69
+2  WOULD PREFER SOME OTHER TYPE - SPECIFIES SOME KIND OF COMBAT FLYING JOB          2.0        210                0.1
+3     WOULD PREFER SOME OTHER TYPE - SPECIFIES OTHER NON-COMBAT FLYING JOB          3.0        186               0.09
+4                      WOULD PREFER SOME OTHER TYPE - NO ANSWER AS TO WHAT          4.0        100               0.05
+5                                    IT WOULDN'T MAKE ANY DIFFERENCE TO ME          5.0        151               0.07
+
+
+
+S136.Q18 ALL THINGS CONSIDERED, WHERE DO YOU FEEL THAT YOU PERSONALLY COULD BE OF MOST VALUE TO THE TOTAL WAR EFFORT AT THE PRESENT TIME?
+                                                               answer_label answer_value raw_counts relative_frequency
+0                                                                 NO ANSWER          0.0         77               0.04
+1                                        IN MY PRESENT ASSIGNMENT IN E.T.O.          1.0       1626               0.74
+2                              IN SOME OTHER AIR CORPS ASSIGNMENT IN E.T.O.          2.0        202               0.09
+3  IN AN AIR CORPS ASSIGNMENT IN ANOTHER THEATER IN THE FIGHT AGAINST JAPAN          3.0         93               0.04
+4                                                            SOMETHING ELSE          4.0        188               0.09
+
+
+
+S136.Q19A WITH RESPECT TO THE DIFFICULTY OF COMBAT FLYING?
+                                answer_label answer_value raw_counts relative_frequency
+0                                  NO ANSWER          0.0         71               0.03
+1      MUCH TOUGHER IN THE PACIFIC THAN HERE          1.0        282               0.13
+2  SOMEWHAT TOUGHER IN THE PACIFIC THAN HERE          2.0        252               0.12
+3       ABOUT AS HARD ONE PLACE AS THE OTHER          3.0        495               0.23
+4   SOMEWHAT EASIER IN THE PACIFIC THAN HERE          4.0        523               0.24
+5       MUCH EASIER IN THE PACIFIC THAN HERE          5.0        253               0.12
+6                                 NO OPINION          6.0        310               0.14
+
+
+
+S136.Q19B WITH RESPECT TO THE GENERAL LIVING AND WORKING CONDITIONS?
+                                answer_label answer_value raw_counts relative_frequency
+0                                  NO ANSWER          0.0         53               0.02
+1       MUCH BETTER IN THE PACIFIC THAN HERE          1.0         39               0.02
+2   SOMEWHAT BETTER IN THE PACIFIC THAN HERE          2.0         35               0.02
+3       ABOUT AS GOOD ONE PLACE AS THE OTHER          3.0        173               0.08
+4   NOT QUITE AS GOOD IN THE PACIFIC AS HERE          4.0        535               0.24
+5  NOT NEARLY AS GOOD IN THE PACIFIC AS HERE          5.0       1141               0.52
+6                                 NO OPINION          6.0        210                0.1
+
+
+
+S136.Q21 AFTER THE WAR, DO YOU THINK THE GERMANS SHOULD BE REQUIRED TO MAKE SOME TYPE OF PAYMENT FOR WHAT THE WAR HAS COST OTHER COUNTRIES?
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0                                                                                                        NO CODE OR NO DATA          0.0          8                0.0
+1                                                                                      THEY SHOULD PAY IN MONEY OR IN GOODS          1.0       1014               0.46
+2  THEY SHOULD PAY BY SENDING GERMAN LABORERS TO WORK IN ALLIED COUNTRIES WHICH NEED ADDITIONAL MAN-POWER TO REPAIR WAR DAM          2.0        545               0.25
+3                                                                                        THEY SHOULD NOT BE REQUIRED TO PAY          3.0        123               0.06
+4                                                                                                                 UNDECIDED          4.0        388               0.18
+5                                                                                                                 NO ANSWER          5.0        108               0.05
+
+
+
+S136.Q22 HOW ABOUT THE JAPANESE?
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0                                                                                                        NO CODE OR NO DATA          0.0         13               0.01
+1                                                                                      THEY SHOULD PAY IN MONEY OR IN GOODS          1.0       1141               0.52
+2  THEY SHOULD PAY BY SENDING JAPANESE LABORERS TO WORK IN ALLIED COUNTRIES WHICH NEED ADDITIONAL MAN-POWER TO REPAIR WAR D          2.0        434                0.2
+3                                                                                        THEY SHOULD NOT BE REQUIRED TO PAY          3.0         75               0.03
+4                                                                                                                 UNDECIDED          4.0        368               0.17
+5                                                                                                                 NO ANSWER          5.0        155               0.07
+
+
+
+S136.V23 EIGHTH AND NINTH AIR FORCE IDENTIFICATION:
+                  answer_label answer_value raw_counts relative_frequency
+0   303RD H BOMBER GROUP (8TH)          1.0        239               0.11
+1      96TH BOMBER GROUP (8TH)          2.0        239               0.11
+2     445TH BOMBER GROUP (8TH)          3.0        195               0.09
+3  352ND FIGHTER-B GROUP (8TH)          4.0        229                0.1
+4   386TH M BOMBER GROUP (9TH)          5.0        234               0.11
+5     394TH BOMBER GROUP (9TH)          6.0        208                0.1
+6  354TH FIGHTER-B GROUP (9TH)          7.0        244               0.11
+7  474TH FIGHTER-B GROUP (9TH)          8.0        166               0.08
+8               TROOP CARRIERS          9.0        199               0.09
+9              ENGINEERS (9TH)         10.0        233               0.11
+
+
+

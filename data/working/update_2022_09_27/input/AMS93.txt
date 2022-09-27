@@ -1,0 +1,371 @@
+S93.Q1 WHAT IS YOUR RANK OR GRADE?
+                                   answer_label answer_value raw_counts relative_frequency
+0                                     NO ANSWER          0.0         34               0.01
+1              CORPORAL OR TECHNICIAN 5TH GRADE          2.0        692               0.21
+2                PRIVATE OR PRIVATE FIRST CLASS          1.0       1440               0.45
+3  SERGEANT (ANY GRADE) OR TECHNICIAN 4TH GRADE          3.0       1057               0.33
+
+
+
+S93.Q2.x ARE YOU SINGLE, MARRIED, DIVORCED, SEPARATED OR WIDOWED? F. IF MARRIED:  Q.3. WERE YOU MARRIED BEFORE OR AFTER ENTERING THE ARMY?
+                       answer_label answer_value raw_counts relative_frequency
+0                         NO ANSWER          0.0          5                0.0
+1                            SINGLE          1.0       2440               0.76
+2  MARRIED BEFORE ENTERING THE ARMY          2.0        428               0.13
+3   MARRIED AFTER ENTERING THE ARMY          3.0        260               0.08
+4           MARRIED, NO ANSWER WHEN          4.0          1                0.0
+5      DIVORCED, SEPARATED, WIDOWED          5.0         89               0.03
+
+
+
+S93.Q4 HOW FAR DID YOU GO IN SCHOOL? (PUT A CHECK BEFORE THE HIGHEST GRADE YOU COMPLETED.)
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0         16                0.0
+1                       6TH GRADE OR LESS          1.0        144               0.04
+2                        7TH OR 8TH GRADE          2.0        538               0.17
+3  SOME HIGH SCHOOL, BUT DID NOT GRADUATE          3.0        964                0.3
+4              GRADUATED FROM HIGH SCHOOL          4.0       1191               0.37
+5                   COLLEGE OR UNIVERSITY          5.0        370               0.11
+
+
+
+S93.Q5 HOW DID YOU COME INTO THE ARMY?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0         17               0.01
+1            THROUGH SELECTIVE SERVICE          1.0       2103               0.65
+2              BY VOLUNTARY ENLISTMENT          2.0        936               0.29
+3  BY CALLING UP OF THE NATIONAL GUARD          3.0        167               0.05
+
+
+
+S93.Q6 HOW LONG HAVE YOU BEEN IN THE ARMY?
+              answer_label answer_value raw_counts relative_frequency
+0                NO ANSWER          0.0          7                0.0
+1         6 MONTHS OR LESS          1.0         13                0.0
+2  OVER 6 MONTHS TO 1 YEAR          2.0        339               0.11
+3   OVER 1 YEAR TO 2 YEARS          3.0       1614                0.5
+4             OVER 2 YEARS          4.0       1250               0.39
+
+
+
+S93.Q7 ON WHAT DATE DID YOU LEAVE THE UNITED STATES FOR OVERSEAS DUTY?
+                                        answer_label answer_value raw_counts relative_frequency
+0                                          NO ANSWER          0.0         20               0.01
+1         AUGUST, SEPTEMBER, OCTOBER, NOVEMBER, 1943          1.0        169               0.05
+2                              MAY, JUNE, JULY, 1943          2.0        943               0.29
+3                            FEBRUARY, MARCH, APRIL,          3.0        425               0.13
+4  MAY, JUNE, JULY, AUGUST, SEPTEMBER, OCTOBER, 1942          5.0        413               0.13
+5             NOVEMBER, DECEMBER 1942; JANUARY, 1943          4.0        282               0.09
+6                                   BEFORE MAY, 1942          6.0        971                0.3
+
+
+
+S93.Q8 HOW MANY MONTHS SERVICE HAVE YOU HAD IN NEW GUINEA - INCLUDING THE NEARBY ISLANDS?
+                      answer_label answer_value raw_counts relative_frequency
+0                        NO ANSWER          0.0          7                0.0
+1                       1-2 MONTHS          1.0        479               0.15
+2                       3-5 MONTHS          2.0        512               0.16
+3                       6-8 MONTHS          3.0        471               0.15
+4                      9-11 MONTHS          4.0        170               0.05
+5                     12-18 MONTHS          5.0        309                0.1
+6               18 MONTHS AND OVER          6.0         64               0.02
+7  HAVE NEVER SERVED IN NEW GUINEA          7.0       1211               0.38
+
+
+
+S93.Q9 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0         22               0.01
+1  18-19 YEARS OF AGE          1.0         83               0.03
+2               20-24          2.0       1488               0.46
+3               25-29          3.0       1074               0.33
+4               30-34          4.0        361               0.11
+5               35-39          5.0        166               0.05
+6   40 YEARS AND OVER          6.0         29               0.01
+
+
+
+S93.Q10 WHAT BRANCH OF THE ARMY ARE YOU IN?
+                                                       answer_label answer_value raw_counts relative_frequency
+0                                                         NO ANSWER          0.0          3                0.0
+1                                                         AIR CORPS          1.0        797               0.25
+2                                  COAST ARTILLERY OR ANTI-AIRCRAFT          2.0        110               0.03
+3                                                         ENGINEERS          3.0        351               0.11
+4                                                   FIELD ARTILLERY          4.0        260               0.08
+5                                                          INFANTRY          5.0        554               0.17
+6                                                           MEDICAL          6.0        245               0.08
+7                                                     QUARTERMASTER          7.0        161               0.05
+8                                         CAVALRY OR RECONNAISSANCE          8.0        193               0.06
+9  OTHER NON-COMBAT TROOPS (SIGNAL, TRANSPORTATION, ORDNANCE, ETC.)          9.0        549               0.17
+
+
+
+S93.Q11 DO YOU FEEL PROUD OF YOUR COMPANY (BATTERY, SQUADRON, TROOP)?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0         31               0.01
+1    YES, VERY PROUD          1.0       1199               0.37
+2  YES, FAIRLY PROUD          2.0       1034               0.32
+3      NO, NOT PROUD          3.0        517               0.16
+4          UNDECIDED          4.0        442               0.14
+
+
+
+S93.Q12 WOULD YOU CHANGE TO SOME OTHER ARMY JOB IF GIVEN A CHANCE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         20               0.01
+1          YES          1.0       1838               0.57
+2           NO          2.0        910               0.28
+3    UNDECIDED          3.0        455               0.14
+
+
+
+S93.Q13 IN GENERAL, HOW WOULD YOU SAY YOU FEEL MOST OF THE TIME, IN GOOD SPIRITS, OR IN LOW SPIRITS?
+                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                  NO ANSWER          0.0         10                0.0
+1                                               I AM USUALLY IN GOOD SPIRITS          1.0        940               0.29
+2  I AM IN GOOD SPIRITS SOME OF THE TIME AND IN LOW SPIRITS SOME OF THE TIME          2.0       1830               0.57
+3                                                I AM USUALLY IN LOW SPIRITS          3.0        443               0.14
+
+
+
+S93.Q14 WOULD YOU HONESTLY SAY THAT YOU USUALLY PUT ALL YOU HAVE INTO YOUR ARMY DUTIES, OR DO YOU USUALLY WORK JUST HARD ENOUGH TO GET BY?
+                                answer_label answer_value raw_counts relative_frequency
+0                                  NO ANSWER          0.0         21               0.01
+1           I USUALLY PUT ALL I HAVE INTO IT          1.0       2181               0.68
+2  I USUALLY WORK JUST HARD ENOUGH TO GET BY          2.0        767               0.24
+3                                  UNDECIDED          3.0        254               0.08
+
+
+
+S93.Q15 DO YOU EVER FEEL THAT YOU ARE NOT AS GOOD A SOLDIER AS MOST OF THE OTHER MEN IN YOUR OUTFIT?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0         33               0.01
+1  I FEEL THAT WAY NEARLY ALL OF THE TIME          1.0        363               0.11
+2            I FEEL THAT WAY FAIRLY OFTEN          2.0        234               0.07
+3    I FEEL THAT WAY ONLY ONCE IN A WHILE          3.0        801               0.25
+4            I ALMOST NEVER FEEL THAT WAY          4.0       1792               0.56
+
+
+
+S93.Q16 DO YOU THINK YOU MIGHT WANT TO STAY IN THE ARMY AFTER THE WAR?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0          6                0.0
+1          YES, I WOULD WANT TO VERY MUCH          1.0         95               0.03
+2  YES, I MIGHT WANT TO, BUT I'M NOT SURE          2.0        333                0.1
+3       NO, I DON'T THINK I WOULD WANT TO          3.0        664               0.21
+4          NO, I WOULD NOT WANT TO AT ALL          4.0       1874               0.58
+5                               UNDECIDED          5.0        251               0.08
+
+
+
+S93.Q17 WHEN THE WAR IS OVER DO YOU THINK THE ARMY SHOULD RELEASE ALL SOLDIERS BACK TO CIVILIAN LIFE AS SOON AS POSSIBLE OR SHOULD IT RELEASE THEM ONLY WHEN THERE ARE JOBS FOR THEM?
+                                                             answer_label answer_value raw_counts relative_frequency
+0                                                               NO ANSWER          0.0         42               0.01
+1                           RELEASE MEN ONLY WHEN THERE ARE JOBS FOR THEM          1.0       1088               0.34
+2  RELEASE MEN AS SOON AS POSSIBLE WHETHER THERE ARE JOBS FOR THEM OR NOT          2.0       1698               0.53
+3                                                               UNDECIDED          3.0        395               0.12
+
+
+
+S93.Q18 AFTER THE WAR DO YOU THINK SOLDIERS SHOULD BE GIVEN FIRST CHOICE OF THE JOBS THAT ARE OPEN OR DO YOU THINK EVERY- BODY SHOULD HAVE AN EQUAL CHANCE TO GET JOBS?
+                            answer_label answer_value raw_counts relative_frequency
+0                              NO ANSWER          0.0         12                0.0
+1       SOLDIERS SHOULD GET FIRST CHOICE          1.0       2096               0.65
+2  EVERYBODY SHOULD HAVE AN EQUAL CHANCE          2.0       1016               0.32
+3                              UNDECIDED          3.0         99               0.03
+
+
+
+S93.V19G MEN WITH DEPENDENTS
+                answer_label answer_value raw_counts relative_frequency
+0  INCONSISTENT OR NO ANSWER          0.0        237               0.07
+1                    1 CHECK          1.0        621               0.19
+2                   2 CHECKS          2.0        866               0.27
+3                   3 CHECKS          3.0       1222               0.38
+4                  NO CHECKS          4.0        277               0.09
+
+
+
+S93.V19H MEN IN THE ARMY LONGEST
+                answer_label answer_value raw_counts relative_frequency
+0  INCONSISTENT OR NO ANSWER          0.0        243               0.08
+1                    1 CHECK          1.0       1247               0.39
+2                   2 CHECKS          2.0        642                0.2
+3                   3 CHECKS          3.0         82               0.03
+4                  NO CHECKS          4.0       1009               0.31
+
+
+
+S93.V19I MEN WHO HAVE SERVED OVERSEAS
+                answer_label answer_value raw_counts relative_frequency
+0  INCONSISTENT OR NO ANSWER          0.0        179               0.06
+1                    1 CHECK          1.0        166               0.05
+2                   2 CHECKS          2.0       1153               0.36
+3                   3 CHECKS          3.0       1701               0.53
+4                  NO CHECKS          4.0         24               0.01
+
+
+
+S93.V19J MEN OVER THIRTY YEARS OF AGE
+                answer_label answer_value raw_counts relative_frequency
+0  INCONSISTENT OR NO ANSWER          0.0        247               0.08
+1                    1 CHECK          1.0        944               0.29
+2                   2 CHECKS          2.0        317                0.1
+3                   3 CHECKS          3.0         51               0.02
+4                  NO CHECKS          4.0       1664               0.52
+
+
+
+S93.Q20 DO YOU THINK THERE IS SOME OTHER GROUP OF SOLDIERS BESIDES THOSE LISTED IN THE QUESTION ABOVE THAT SHOULD BE LET OUT OF THE ARMY FIRST?
+                                             answer_label answer_value raw_counts relative_frequency
+0                                               NO ANSWER          0.0        217               0.07
+1     YES, MEN WHO HAVE BEEN OVERSEAS AND HAVE DEPENDENTS          1.0         99               0.03
+2                 YES, MEN WHO HAVE BEEN OVERSEAS LONGEST          2.0         45               0.01
+3   YES, MEN WHO HAVE SERVED IN NEW GUINEA, TROPICS, ETC.          3.0         37               0.01
+4      YES, MEN WHO ARE IN POOR PHYSICAL OR MENTAL HEALTH          4.0        186               0.06
+5                                       YES, MEN ON FARMS          5.0         22               0.01
+6                        YES, MEN WHO HAVE BEEN IN COMBAT          6.0        279               0.09
+7                          YES, MEN WHO HAVE JOBS WAITING          7.0         62               0.02
+8                 YES, MEN WHO PLAN TO GET MORE EDUCATION          8.0         32               0.01
+9                                  YES, AND NOT SPECIFIED          9.0         18               0.01
+10                                           OTHER GROUPS         10.0        290               0.09
+11                                                     NO         11.0       1936                0.6
+
+
+
+S93.Q21 AFTER THE WAR, DO YOU THINK THE UNITED STATES COULD HAVE AN ARMY LARGE ENOUGH FOR THE COUNTRY'S NEEDS BY TAKING VOLUNTEERS ONLY?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0          6                0.0
+1        YES, I THINK IT COULD          1.0       1681               0.52
+2  NO, I DO NOT THINK IT COULD          2.0       1173               0.36
+3                    UNDECIDED          3.0        363               0.11
+
+
+
+S93.Q22 AFTER THE WAR, DO YOU THINK THE UNITED STATES SHOULD DRAFT ALL YOUNG MEN FOR A CERTAIN AMOUNT OF ARMY TRAINING DURING PEACETIME OR SHOULD WE GO BACK TO THE REGULAR ARMY SYSTEM OF TAKING VOLUNTEERS ONLY?
+                                           answer_label answer_value raw_counts relative_frequency
+0                                             NO ANSWER          0.0          5                0.0
+1  DRAFT ALL YOUNG MEN FOR A CERTAIN AMOUNT OF TRAINING          1.0       2229               0.69
+2                     GO BACK TO TAKING VOLUNTEERS ONLY          2.0        832               0.26
+3                                             UNDECIDED          3.0        157               0.05
+
+
+
+S93.Q23 WHICH OF THE FOLLOWING REASONS COMES CLOSEST TO SAYING WHY YOU THINK THE UNITED STATES SHOULD DRAFT ALL YOUNG MEN FOR A CERTAIN AMOUNT OF ARMY TRAINING DURING PEACETIME?
+                                                                                            answer_label answer_value raw_counts relative_frequency
+0                                                                                              NO ANSWER          0.0        110               0.03
+1                                     I THINK THE UNITED STATES SHOULD GO BACK TO TAKING VOLUNTEERS ONLY          1.0        830               0.26
+2                                        BECAUSE I THINK THE ARMY EXPERIENCE IS WORTHWHILE FOR YOUNG MEN          2.0        156               0.05
+3                                    BECAUSE I THINK IT IS NECESSARY FOR THE SAFETY OF THE UNITED STATES          3.0        343               0.11
+4  BECAUSE I THINK IT IS BOTH WORTHWHILE FOR YOUNG MEN AND NECESSARY FOR THE SAFETY OF THE UNITED STATES          4.0       1762               0.55
+5                                                                                  FOR SOME OTHER REASON          5.0         22               0.01
+
+
+
+S93.Q24 IF ALL YOUNG MEN IN THE UNITED STATES WERE TO BE GIVEN MILITARY TRAINING, AT ABOUT WHAT AGE DO YOU THINK THIS TRAINING SHOULD BEGIN?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0         42               0.01
+1  BEFORE 18 YEARS OF AGE          1.0        257               0.08
+2             AT 18 YEARS          2.0       1948                0.6
+3             AT 19 YEARS          3.0        350               0.11
+4             AT 20 YEARS          4.0        283               0.09
+5             AT 21 YEARS          5.0        254               0.08
+6          AFTER 21 YEARS          6.0         89               0.03
+
+
+
+S93.Q25 IF ALL YOUNG MEN IN THE UNITED STATES WERE TO BE GIVEN MILITARY TRAINING, FOR ABOUT HOW LONG A TIME DO YOU THINK THIS TRAINING SHOULD LAST?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0         23               0.01
+1     ABOUT 6 MONTHS          1.0        665               0.21
+2       ABOUT 1 YEAR          2.0       2140               0.66
+3  ABOUT 1 1/2 YEARS          3.0        211               0.07
+4      ABOUT 2 YEARS          4.0        162               0.05
+5  MORE THAN 2 YEARS          5.0         22               0.01
+
+
+
+S93.V48 SCALE SCORE: APPROVAL OF POST-WAR COMPULSORY MILITARY TRAINING: E. DERIVED FROM Q.21-Q.23.
+                                                                           answer_label answer_value raw_counts relative_frequency
+0  SCORE OF ZERO: LEAST FAVORABLE ATTITUDE TOWARD POST-WAR COMPULSORY MILITARY TRAINING          0.0        887               0.28
+1                                                                          SCORE OF ONE          1.0        371               0.12
+2                                                                          SCORE OF TWO          2.0       1104               0.34
+3  SCORE OF THREE: MOST FAVORABLE ATTITUDE TOWARD POST-WAR COMPULSORY MILITARY TRAINING          3.0        860               0.27
+4                                                                             NO ANSWER          9.0          1                0.0
+
+
+
+S93.V49 MAJOR COMMAND:
+         answer_label answer_value raw_counts relative_frequency
+0           AIR FORCE          1.0        841               0.26
+1        GROUND FORCE          2.0       1339               0.42
+2  SERVICES OF SUPPLY          3.0       1043               0.32
+
+
+
+S93.V50 SAMPLE, LOCATION AND OUTFIT: E. IN COLUMN 39 CODES 0-2 REPRESENT AUSTRALIAN MAINLAND INSTALLATIONS; CODES 4-8 REPRESENT NEW GUINEA AND ISLAND INSTALLATIONS.
+                                           answer_label answer_value raw_counts relative_frequency
+0                      172ND STATION HOSPITAL, BRISBANE          1.0         44               0.01
+1                        1ST CAVALRY DIVISION, BRISBANE          2.0         99               0.03
+2                        1ST CAVALRY DIVISION, BRISBANE          3.0         96               0.03
+3                        1ST CAVALRY DIVISION, BRISBANE          4.0         49               0.02
+4                              5TH REP. DEPOT, BRISBANE          5.0         90               0.03
+5                DOOMBIN - SERVICES OF SUPPLY, BRISBANE          6.0         24               0.01
+6                   41ST INFANTRY DIVISION, ROCKHAMPTON          7.0         99               0.03
+7                   41ST INFANTRY DIVISION, ROCKHAMPTON          8.0         98               0.03
+8                   41ST INFANTRY DIVISION, ROCKHAMPTON          9.0         48               0.01
+9                   24TH INFANTRY DIVISION, ROCKHAMPTON         10.0         99               0.03
+10                  24TH INFANTRY DIVISION, ROCKHAMPTON         11.0         99               0.03
+11                  24TH INFANTRY DIVISION, ROCKHAMPTON         12.0         38               0.01
+12                      4TH AIR DEPOT GROUP, TOWNSVILLE         13.0         50               0.02
+13                     12TH AIR DEPOT GROUP, TOWNSVILLE         14.0         51               0.02
+14                     15TH AIR DEPOT GROUP, TOWNSVILLE         15.0         33               0.01
+15                    12TH STATION HOSPITAL, TOWNSVILLE         16.0         22               0.01
+16                       411TH ENGINEER COMPANY, CAIRNS         17.0         79               0.02
+17                       436TH SIGNAL BATTALION, CAIRNS         18.0         30               0.01
+18                   179TH ORDNANCE COMPANY, TOWNSVILLE         19.0         33               0.01
+19                     800TH M.P. BATTALION, TOWNSVILLE         20.0         56               0.02
+20                    85TH STATION HOSPITAL, TOWNSVILLE         21.0         30               0.01
+21                     380TH BOMBER GROUP, FENTON FIELD         22.0         99               0.03
+22                     380TH BOMBER GROUP, FENTON FIELD         23.0         15                0.0
+23                        USAFFE HEADQUARTERS, BRISBANE         24.0         54               0.02
+24                          52ND SIGNAL CORPS, BRISBANE         25.0         55               0.02
+25                   27TH AIR DEPOT GROUP, PORT MORESBY         40.0         89               0.03
+26                    348TH FIGHTER GROUP, PORT MORESBY         41.0         49               0.02
+27                      90TH BOMBER GROUP, PORT MORESBY         42.0         85               0.03
+28                  11TH SERVICE SQUADRON, PORT MORESBY         43.0         58               0.02
+29               41ST TROOP CARRIER GROUP, PORT MORESBY         44.0         48               0.01
+30                 166TH STATION HOSPITAL, PORT MORESBY         45.0         19               0.01
+31                101ST CA (AA) BATTALION, PORT MORESBY         46.0         48               0.01
+32           1354TH QUARTERMASTER COMPANY, PORT MORESBY         47.0         52               0.02
+33                       35TH FIGHTER GROUP, LAE-NADZAB         50.0         61               0.02
+34                       63RD SERVICE GROUP, LAE-NADZAB         51.0         54               0.02
+35       871ST A/B ENGINEER BATTALION (AVN), LAE-NADZAB         52.0         49               0.02
+36                  102ND CA (AA) BATTALION, LAE-NADZAB         53.0         30               0.01
+37                   928TH SIGNAL BATTALION, LAE-NADZAB         54.0         26               0.01
+38                  532ND ENGINEER REGIMENT, LAE-NADZAB         55.0         22               0.01
+39                       62ND STATION HOSPITAL, ORO BAY         60.0         27               0.01
+40                     592ND ENGINEER REGIMENT, ORO BAY         61.0         99               0.03
+41                     592ND ENGINEER REGIMENT, ORO BAY         62.0         24               0.01
+42                        387TH PORT BATTALION, ORO BAY         63.0         67               0.02
+43                        491ST PORT BATTALION, ORO BAY         64.0         55               0.02
+44                          46TH SERVICE GROUP, ORO BAY         65.0         49               0.02
+45                             22ND BOMB GROUP, ORO BAY         66.0         51               0.02
+46                        9TH FIGHTER SQUADRON, ORO BAY         67.0         49               0.02
+47          745TH CA (AA) BATTALION BATTERY A., ORO BAY         68.0         29               0.01
+48   121ST FA BATTALION, 32 DIVISION, GOODENOUGH ISLAND         70.0         60               0.02
+49  128TH INF. REGIMENT, 32 DIVISION, GOODENOUGH ISLAND         71.0         99               0.03
+50  128TH INF. REGIMENT, 32 DIVISION, GOODENOUGH ISLAND         72.0         41               0.01
+51             99TH SIGNAL BATTALION, GOODENOUGH ISLAND         73.0         22               0.01
+52        112TH QUARTERMASTER BAKERY COMPANY, MILNE BAY         80.0         25               0.01
+53          28TH QUARTERMASTER SALVAGE DEPOT, MILNE BAY         81.0         26               0.01
+54              310TH ORDNANCE (MTS) COMPANY, MILNE BAY         82.0         25               0.01
+55              339TH ENGINEER (GS) REGIMENT, MILNE BAY         83.0         49               0.02
+56                      489TH PORT BATTALION, MILNE BAY         84.0         39               0.01
+57                    174TH STATION HOSPITAL, MILNE BAY         85.0         45               0.01
+58      126TH INFANTRY REGIMENT, 32 DIVISION, MILNE BAY         86.0         89               0.03
+59      126TH INFANTRY REGIMENT, 32 DIVISION, MILNE BAY         87.0         22               0.01
+60             120 FA BATTALION, 32 DIVISION, MILNE BAY         88.0         51               0.02
+
+
+

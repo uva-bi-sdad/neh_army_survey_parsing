@@ -1,0 +1,854 @@
+FORMFORM
+  answer_label answer_value raw_counts relative_frequency
+0       B FORM          2.0        620                1.0
+
+
+
+PS5B.Q1 WHAT IS YOUR RANK OR GRADE?
+                           answer_label answer_value raw_counts relative_frequency
+0                             NO ANSWER          0.0          4               0.01
+1                               PRIVATE          1.0        322               0.52
+2                   PRIVATE FIRST CLASS          2.0        127                0.2
+3        TECHNICIAN 5TH GRADE, CORPORAL          3.0         84               0.14
+4        TECHNICIAN 4TH GRADE, SERGEANT          4.0         50               0.08
+5  TECHNICIAN 3RD GRADE, STAFF SERGEANT          5.0         15               0.02
+6                    TECHNICAL SERGEANT          6.0         17               0.03
+7                       MASTER SERGEANT          7.0          1                0.0
+
+
+
+PS5B.Q2 IN WHAT STATE OF THE UNITED STATES DID YOU SPEND MOST OF THE PAST FIVE YEARS OF YOUR CIVILIAN LIFE?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0          9               0.01
+1          NEW ENGLAND          1.0         21               0.03
+2      MIDDLE ATLANTIC          2.0        141               0.23
+3   EAST NORTH CENTRAL          3.0        148               0.24
+4   WEST NORTH CENTRAL          4.0         75               0.12
+5       SOUTH ATLANTIC          5.0         54               0.09
+6   EAST SOUTH CENTRAL          6.0         42               0.07
+7   WEST SOUTH CENTRAL          7.0         75               0.12
+8             MOUNTAIN          8.0          9               0.01
+9              PACIFIC          9.0         44               0.07
+10             FOREIGN         10.0          2                0.0
+
+
+
+PS5B.Q3 WHERE WAS YOUR HOME FOR MOST OF THE PAST FIVE YEARS BEFORE YOU ENTERED THE ARMY?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0          4               0.01
+1                               ON A FARM          1.0        137               0.22
+2  IN A TOWN WITH FEWER THAN 2,500 PEOPLE          2.0         87               0.14
+3      IN A CITY BETWEEN 2,500 AND 25,000          3.0        109               0.18
+4    IN A CITY BETWEEN 25,000 AND 100,000          4.0         95               0.15
+5        IN A CITY WITH MORE THAN 100,000          5.0        188                0.3
+
+
+
+PS5B.Q4 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0          4               0.01
+1  19 YEARS OR UNDER          1.0         34               0.05
+2           20 YEARS          2.0         41               0.07
+3              21-24          3.0        266               0.43
+4              25-27          4.0        108               0.17
+5              28-29          5.0         44               0.07
+6              30-34          6.0         67               0.11
+7  35 YEARS AND OVER          7.0         56               0.09
+
+
+
+PS5B.Q5 HOW FAR DID YOU GO IN SCHOOL?
+                       answer_label answer_value raw_counts relative_frequency
+0                         NO ANSWER          0.0          3                0.0
+1               LESS THAN 6TH GRADE          1.0         28               0.05
+2                FINISHED 6TH GRADE          2.0         27               0.04
+3                FINISHED 7TH GRADE          3.0         42               0.07
+4                FINISHED 8TH GRADE          4.0         98               0.16
+5  SOME HIGH SCHOOL OR TRADE SCHOOL          5.0        173               0.28
+6        GRADUATED FROM HIGH SCHOOL          6.0        188                0.3
+7   SOME COLLEGE BUT DID NOT FINISH          7.0         49               0.08
+8                  COLLEGE GRADUATE          8.0         12               0.02
+
+
+
+PS5B.Q6 ARE YOU:
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          4               0.01
+1              SINGLE          1.0        458               0.74
+2             MARRIED          2.0        127                0.2
+3            DIVORCED          3.0         20               0.03
+4             WIDOWED          4.0          3                0.0
+5           SEPARATED          5.0          7               0.01
+6           NO ANSWER          6.0          1                0.0
+
+
+
+PS5B.Q7A IF YOU ARE MARRIED, HOW LONG HAVE YOU BEEN MARRIED?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         22               0.04
+1   LESS THAN 2 MONTHS          1.0         13               0.02
+2        2 OR 3 MONTHS          2.0         14               0.02
+3        4 OR 5 MONTHS          3.0         12               0.02
+4        6 OR 7 MONTHS          4.0          9               0.01
+5        8 OR 9 MONTHS          5.0         12               0.02
+6      10 OR 11 MONTHS          6.0          9               0.01
+7      12 OR 13 MONTHS          7.0         14               0.02
+8      14 OR 15 MONTHS          8.0          8               0.01
+9      16 TO 22 MONTHS          9.0         12               0.02
+10   22 MONTHS OR MORE         10.0         37               0.06
+11              SINGLE         99.0        458               0.74
+
+
+
+PS5B.Q7B WERE YOU MARRIED BEFORE OR AFTER ENTERING THE ARMY?
+               answer_label answer_value raw_counts relative_frequency
+0        NO CODE OR NO DATA          0.0          6               0.01
+1  BEFORE ENTERING THE ARMY          1.0         93               0.15
+2   AFTER ENTERING THE ARMY          2.0         50               0.08
+3                 NO ANSWER          3.0         13               0.02
+4                    SINGLE          9.0        458               0.74
+
+
+
+PS5B.Q8 IF YOU ARE MARRIED, HOW MANY CHILDREN DO YOU HAVE?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          6               0.01
+1                NONE          1.0         99               0.16
+2                 ONE          2.0         35               0.06
+3                 TWO          3.0          4               0.01
+4       THREE OR MORE          4.0          4               0.01
+5           NO ANSWER          5.0         14               0.02
+6              SINGLE          9.0        458               0.74
+
+
+
+PS5B.Q9 WHETHER YOU ARE A CHURCH MEMBER OR NOT, DO YOU CONSIDER YOURSELF:
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          5               0.01
+1            CATHOLIC          1.0        212               0.34
+2              JEWISH          2.0         23               0.04
+3          PROTESTANT          3.0        360               0.58
+4               OTHER          4.0          6               0.01
+5           NO ANSWER          5.0         14               0.02
+
+
+
+PS5B.Q10 WHEN DID YOU ENTER THE ARMY? P. IF YOU HAVE SERVED PREVIOUSLY IN THE ARMY, CHECK LAST TIME YOU ENTERED. IF YOU WERE A NATIONAL GUARDSMAN, CHECK WHEN YOUR OUTFIT ENTERED ARMY. E. LENGTH OF TIME IN THE ARMY.
+                              answer_label answer_value raw_counts relative_frequency
+0                                NO ANSWER          0.0         12               0.02
+1  OCT. 1942 TO PRESENT (3 MONTHS OR LESS)          1.0        109               0.18
+2     JULY 1942 TO SEPT. 1942 (4-6 MONTHS)          2.0        173               0.28
+3     JAN. 1942 TO JUNE 1942 (7-12 MONTHS)          3.0        109               0.18
+4       JAN. 1941 TO DEC. 1941 (1-2 YEARS)          4.0        160               0.26
+5    PRIOR TO JAN. 1941 (2 YEARS AND OVER)          5.0         57               0.09
+
+
+
+PS5B.Q11 WHAT IS YOUR FATHER'S USUAL JOB OR OCCUPATION? PLEASE STATE SPECIFICALLY WHAT HE DOES. IF HE IS DEAD, OR RETIRED, DESCRIBE HIS FORMER JOB OR OCCUPATION.
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0         50               0.08
+1  PROFESSIONAL AND MANAGERIAL OCCUPATION          1.0         91               0.15
+2                      CLERICAL AND SALES          2.0         33               0.05
+3                                 SERVICE          3.0         31               0.05
+4                            AGRICULTURAL          4.0        165               0.27
+5                          SKILLED WORKER          5.0        178               0.29
+6                     SEMI-SKILLED WORKER          6.0         40               0.06
+7                        UNSKILLED WORKER          7.0         32               0.05
+
+
+
+PS5B.Q12 DO YOU THINK THE ARMY FOOD IS WELL PREPARED AND COOKED?
+       answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER          0.0          6               0.01
+1    YES, VERY WELL          1.0        113               0.18
+2  YES, FAIRLY WELL          2.0        344               0.55
+3         UNDECIDED          3.0         58               0.09
+4        NO, POORLY          4.0         78               0.13
+5   NO, VERY POORLY          5.0         21               0.03
+
+
+
+PS5B.Q13 ARE THE SPORTS AND ATHLETIC PROGRAMS AT YOUR STATION WELL ARRANGED?
+       answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER          0.0         14               0.02
+1    YES, VERY WELL          1.0         88               0.14
+2  YES, FAIRLY WELL          2.0        184                0.3
+3        DON'T KNOW          3.0         71               0.11
+4        NO, POORLY          4.0        152               0.25
+5   NO, VERY POORLY          5.0        111               0.18
+
+
+
+PS5B.Q14 DO YOU THINK YOU ARE A GOOD SOLDIER?
+                 answer_label answer_value raw_counts relative_frequency
+0          NO CODE OR NO DATA          0.0          2                0.0
+1        YES, ONE OF THE BEST          1.0         91               0.15
+2                         YES          2.0        285               0.46
+3  NO, NOT YET, BUT I WILL BE          3.0        164               0.26
+4                  DON'T KNOW          4.0         40               0.06
+5                          NO          5.0         35               0.06
+6                   NO ANSWER          6.0          3                0.0
+
+
+
+PS5B.Q15 DO THE MEN IN YOUR COMPANY OR BATTERY COOPERATE, AND WORK TOGETHER?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0          5               0.01
+1   YES, ALL OF THE TIME          1.0        167               0.27
+2  YES, MOST OF THE TIME          2.0        332               0.54
+3             DON'T KNOW          3.0         28               0.05
+4       NO, OFTEN DO NOT          4.0         72               0.12
+5    NO, ALMOST NEVER DO          5.0         16               0.03
+
+
+
+PS5B.Q16 DO YOU THINK GOOD MEDICAL ATTENTION HAS BEEN PROVIDED IN THE ARMY?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0          6               0.01
+1  YES, VERY GOOD          1.0        194               0.31
+2       YES, GOOD          2.0        233               0.38
+3      DON'T KNOW          3.0         64                0.1
+4        NO, POOR          4.0         92               0.15
+5   NO, VERY POOR          5.0         31               0.05
+
+
+
+PS5B.Q17 DO YOU FEEL PROUD OF YOUR COMPANY OR BATTERY?
+                            answer_label answer_value raw_counts relative_frequency
+0                     NO CODE OR NO DATA          0.0          2                0.0
+1                        YES, VERY PROUD          1.0        303               0.49
+2                      YES, RATHER PROUD          2.0        180               0.29
+3  I HAVE NO PARTICULAR FEELING ABOUT IT          3.0         94               0.15
+4                          NO, NOT PROUD          4.0         28               0.05
+5                  NO, I'M ASHAMED OF IT          5.0          9               0.01
+6                              NO ANSWER          6.0          4               0.01
+
+
+
+PS5B.Q18 DO YOU GET A KICK OUT OF GIVING A SNAPPY SALUTE?
+           answer_label answer_value raw_counts relative_frequency
+0    NO CODE OR NO DATA          0.0          4               0.01
+1        YES, VERY MUCH          1.0        442               0.71
+2         YES, A LITTLE          2.0         99               0.16
+3            DON'T KNOW          3.0         18               0.03
+4  NO, NOT PARTICULARLY          4.0         40               0.06
+5       NO, NONE AT ALL          5.0         14               0.02
+6             NO ANSWER          6.0          3                0.0
+
+
+
+PS5B.Q19 IN YOUR HONEST OPINION, DO YOU THINK YOUR COMPANY OR BATTERY IS THE BEST ONE IN THE BATTALION?
+               answer_label answer_value raw_counts relative_frequency
+0        NO CODE OR NO DATA          0.0          4               0.01
+1  YES, ABSOLUTELY THE BEST          1.0        255               0.41
+2       YES, AS GOOD AS ANY          2.0        262               0.42
+3                DON'T KNOW          3.0         40               0.06
+4                        NO          4.0         54               0.09
+5                 NO ANSWER          5.0          5               0.01
+
+
+
+PS5B.Q20 DO YOUR IMMEDIATE SUPERIORS GIVE YOU A GOOD CHANCE TO ASK QUESTIONS AS TO THE REASON WHY THINGS ARE DONE THE WAY THEY ARE?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0          2                0.0
+1         YES, ALWAYS          1.0        258               0.42
+2        YES, USUALLY          2.0        203               0.33
+3          DON'T KNOW          3.0         20               0.03
+4  NO, NOT VERY OFTEN          4.0         92               0.15
+5    NO, ALMOST NEVER          5.0         45               0.07
+
+
+
+PS5B.Q21 ON THE WHOLE, DO YOU THINK THE ARMY IS GIVING YOU A GOOD CHANCE TO SHOW WHAT YOU CAN DO?
+                answer_label answer_value raw_counts relative_frequency
+0         NO CODE OR NO DATA          0.0          2                0.0
+1    YES, A VERY GOOD CHANCE          1.0        201               0.32
+2  YES, A FAIRLY GOOD CHANCE          2.0        216               0.35
+3                 DON'T KNOW          3.0         31               0.05
+4   NO, NOT MUCH OF A CHANCE          4.0        136               0.22
+5           NO CHANCE AT ALL          5.0         33               0.05
+6                  NO ANSWER          6.0          1                0.0
+
+
+
+PS5B.Q22 DO YOU THINK THAT YOUR NONCOMS ARE ABOUT AS GOOD AS ANY THAT COULD HAVE BEEN PICKED FROM YOUR OUTFIT?
+                answer_label answer_value raw_counts relative_frequency
+0         NO CODE OR NO DATA          0.0          4               0.01
+1  YES, ABOUT AS GOOD AS ANY          1.0        422               0.68
+2                 DON'T KNOW          2.0         71               0.11
+3                         NO          3.0        119               0.19
+4                  NO ANSWER          4.0          4               0.01
+
+
+
+PS5B.Q23 HOW WELL SATISFIED ARE YOU ABOUT BEING IN YOUR PRESENT ARMY JOB INSTEAD OF SOME OTHER ARMY JOB?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          3                0.0
+1      VERY SATISFIED          1.0        151               0.24
+2           SATISFIED          2.0        173               0.28
+3           UNDECIDED          3.0        115               0.19
+4        DISSATISFIED          4.0        110               0.18
+5   VERY DISSATISFIED          5.0         66               0.11
+6           NO ANSWER          6.0          2                0.0
+
+
+
+PS5B.Q24 ABOUT HOW MUCH LONGER DO YOU THINK THE WAR WILL LAST?
+              answer_label answer_value raw_counts relative_frequency
+0                NO ANSWER          0.0          3                0.0
+1       LESS THAN 6 MONTHS          1.0         24               0.04
+2       6 MONTHS TO 1 YEAR          2.0        136               0.22
+3   OVER 1 YEAR TO 2 YEARS          3.0        189                0.3
+4  OVER 2 YEARS TO 3 YEARS          4.0         67               0.11
+5  OVER 3 YEARS TO 4 YEARS          5.0         19               0.03
+6  OVER 4 YEARS TO 5 YEARS          6.0          5               0.01
+7             OVER 5 YEARS          7.0          9               0.01
+8         HAVEN'T ANY IDEA          8.0        168               0.27
+
+
+
+PS5B.Q25 IF YOU SHOULD HAVE TO MAKE THE FOLLOWING CHOICE, WHICH WOULD YOU MAKE?
+                  answer_label answer_value raw_counts relative_frequency
+0           NO CODE OR NO DATA          0.0          6               0.01
+1      DUTY IN A COMBAT OUTFIT          1.0        403               0.65
+2  DUTY IN A NON-COMBAT OUTFIT          2.0        197               0.32
+3                    NO ANSWER          3.0         14               0.02
+
+
+
+PS5B.Q26 IF YOU SHOULD HAVE TO MAKE THE FOLLOWING CHOICE, WHICH WOULD YOU MAKE?
+                    answer_label answer_value raw_counts relative_frequency
+0             NO CODE OR NO DATA          0.0          6               0.01
+1     DUTY IN AN OUTFIT OVERSEAS          1.0        300               0.48
+2  DUTY IN AN OUTFIT IN THE U.S.          2.0        305               0.49
+3                      NO ANSWER          3.0          9               0.01
+
+
+
+PS5B.Q27 HAVE YOU BEEN INVITED TO CIVILIAN HOMES NEAR YOUR PRESENT POST?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          6               0.01
+1  YES, ONCE OR TWICE          1.0         86               0.14
+2  YES, SEVERAL TIMES          2.0        121                0.2
+3                  NO          3.0        404               0.65
+4           NO ANSWER          4.0          3                0.0
+
+
+
+PS5B.Q28 HOW INTERESTED ARE YOU IN BEING INVITED TO CIVILIAN HOMES NEAR YOUR PRESENT POST?
+            answer_label answer_value raw_counts relative_frequency
+0     NO CODE OR NO DATA          0.0          4               0.01
+1   VERY MUCH INTERESTED          1.0        192               0.31
+2    SOMEWHAT INTERESTED          2.0        166               0.27
+3    SLIGHTLY INTERESTED          3.0        106               0.17
+4  NOT INTERESTED AT ALL          4.0        138               0.22
+5              NO ANSWER          5.0         14               0.02
+
+
+
+PS5B.Q29 IN GENERAL, DO YOU THINK CIVILIANS (MEN AND WOMEN NOT IN UNIFORM) ARE TRYING TO DO EVERYTHING THEY POSSIBLY CAN TO BACK UP THE ARMED FORCES?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0          3                0.0
+1  ALMOST ALL OF THEM ARE          1.0        181               0.29
+2         A GOOD MANY ARE          2.0        269               0.43
+3  SOME, BUT NOT MANY ARE          3.0        121                0.2
+4          HARDLY ANY ARE          4.0         15               0.02
+5              NO OPINION          5.0         31               0.05
+
+
+
+PS5B.Q30 IN GENERAL, DO YOU THINK CIVILIANS ARE BUYING AS MANY WAR BONDS AS THEY SHOULD?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0          4               0.01
+1  ALMOST ALL OF THEM ARE          1.0        101               0.16
+2         A GOOD MANY ARE          2.0        319               0.51
+3  SOME, BUT NOT MANY ARE          3.0        100               0.16
+4          HARDLY ANY ARE          4.0         14               0.02
+5              NO OPINION          5.0         82               0.13
+
+
+
+PS5B.Q31 IN GENERAL, DO YOU THINK CIVILIANS ARE DOING AS GOOD A JOB AS THEY SHOULD ON SALVAGE AND SCRAP DRIVES (COLLECTING OLD RUBBER, METAL, ETC.)?
+             answer_label answer_value raw_counts relative_frequency
+0      NO CODE OR NO DATA          0.0          4               0.01
+1  ALMOST ALL OF THEM ARE          1.0        207               0.33
+2         A GOOD MANY ARE          2.0        242               0.39
+3  SOME, BUT NOT MANY ARE          3.0        101               0.16
+4          HARDLY ANY ARE          4.0         13               0.02
+5              NO OPINION          5.0         49               0.08
+6               NO ANSWER          6.0          4               0.01
+
+
+
+PS5B.Q32 IN GENERAL, DO YOU THINK THAT CIVILIANS ARE KICKING TOO MUCH ABOUT THE INCREASED TAXES THEY HAVE TO PAY?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0          6               0.01
+1  ALMOST ALL OF THEM ARE          1.0         62                0.1
+2         A GOOD MANY ARE          2.0        169               0.27
+3  SOME, BUT NOT MANY ARE          3.0        185                0.3
+4          HARDLY ANY ARE          4.0         85               0.14
+5              NO OPINION          5.0        113               0.18
+
+
+
+PS5B.Q33 IN GENERAL, DO YOU THINK THAT CIVILIANS ARE KICKING TOO MUCH ABOUT THE RATIONING OF GASOLINE AND TIRES?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0          6               0.01
+1  ALMOST ALL OF THEM ARE          1.0        120               0.19
+2         A GOOD MANY ARE          2.0        194               0.31
+3  SOME, BUT NOT MANY ARE          3.0        176               0.28
+4          HARDLY ANY ARE          4.0         80               0.13
+5              NO OPINION          5.0         44               0.07
+
+
+
+PS5B.Q34 IN GENERAL, DO YOU THINK THAT CIVILIANS ARE KICKING TOO MUCH ABOUT THE RATIONING OF FOOD, SUCH AS SUGAR, COFFEE, ETC.?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0          3                0.0
+1  ALMOST ALL OF THEM ARE          1.0         54               0.09
+2         A GOOD MANY ARE          2.0        136               0.22
+3  SOME, BUT NOT MANY ARE          3.0        213               0.34
+4          HARDLY ANY ARE          4.0        157               0.25
+5              NO OPINION          5.0         57               0.09
+
+
+
+PS5B.Q35 IN GENERAL, DO YOU THINK THAT CIVILIANS (MEN AND WOMEN NOT IN UNIFORM) IN THIS COUNTRY ARE TAKING THE WAR SERIOUSLY ENOUGH?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0          5               0.01
+1  ALMOST ALL OF THEM ARE          1.0        105               0.17
+2         A GOOD MANY ARE          2.0        181               0.29
+3  SOME, BUT NOT MANY ARE          3.0        186                0.3
+4          HARDLY ANY ARE          4.0        106               0.17
+5              NO OPINION          5.0         37               0.06
+
+
+
+PS5B.Q36 SOME PEOPLE HAVE MADE THE SUGGESTION THAT "AFTER THE WAR, THE SOLDIERS SHOULD TAKE OVER THE COUNTRY AND RUN IT." WHAT DO YOU THINK OF THIS IDEA?
+                                                         answer_label answer_value raw_counts relative_frequency
+0                                                           NO ANSWER          0.0          9               0.01
+1                                        I AM STRONGLY IN FAVOR OF IT          1.0         23               0.04
+2        I AM NOT EXACTLY IN FAVOR OF IT, BUT IT MIGHT BE A GOOD IDEA          2.0         82               0.13
+3  I AM NOT EXACTLY AGAINST IT, BUT IT DOESN'T SEEM TO BE A GOOD IDEA          3.0        132               0.21
+4                                            I AM STRONGLY AGAINST IT          4.0        295               0.48
+5                                                          NO OPINION          5.0         79               0.13
+
+
+
+PS5B.Q37 IN GENERAL, DO YOU THINK AMERICAN BUSINESS AND AMERICAN LABOR ARE COOPERATING ON THE JOB OF PRODUCING THE MATERIALS FOR WAR?
+                                                      answer_label answer_value raw_counts relative_frequency
+0                                               NO CODE OR NO DATA          0.0          2                0.0
+1                  YES, THEY ARE COOPERATING ALL THEY POSSIBLY CAN          1.0        193               0.31
+2  YES, THEY ARE COOPERATING QUITE A BIT, BUT COULD COOPERATE MORE          2.0        311                0.5
+3       NO, THEY ARE NOT COOPERATING NEARLY AS MUCH AS THEY SHOULD          3.0         87               0.14
+4                                                       NO OPINION          4.0         24               0.04
+5                                                        NO ANSWER          5.0          3                0.0
+
+
+
+PS5B.Q38 DO YOU THINK FARMERS ARE DOING THEIR SHARE TO HELP WIN THE WAR?
+                                      answer_label answer_value raw_counts relative_frequency
+0                               NO CODE OR NO DATA          0.0          5               0.01
+1                      THEY ARE DOING ALL THEY CAN          1.0        406               0.65
+2    THEY ARE DOING QUITE A BIT, BUT COULD DO MORE          2.0        142               0.23
+3  THEY ARE NOT DOING NEARLY AS MUCH AS THEY COULD          3.0         26               0.04
+4                                       NO OPINION          4.0         37               0.06
+5                                        NO ANSWER          5.0          4               0.01
+
+
+
+PS5B.Q39 DO YOU THINK LABOR UNION LEADERS ARE DOING THEIR SHARE TO HELP WIN THE WAR?
+                                      answer_label answer_value raw_counts relative_frequency
+0                                        NO ANSWER          0.0         10               0.02
+1                      THEY ARE DOING ALL THEY CAN          1.0         75               0.12
+2    THEY ARE DOING QUITE A BIT, BUT COULD DO MORE          2.0        209               0.34
+3  THEY ARE NOT DOING NEARLY AS MUCH AS THEY COULD          3.0        249                0.4
+4                                       NO OPINION          4.0         77               0.12
+
+
+
+PS5B.Q40 DO YOU THINK WORKERS IN COMPANIES MAKING WAR MATERIALS ARE DOING THEIR SHARE TO HELP WIN THE WAR?
+                                      answer_label answer_value raw_counts relative_frequency
+0                               NO CODE OR NO DATA          0.0          4               0.01
+1                      THEY ARE DOING ALL THEY CAN          1.0        292               0.47
+2    THEY ARE DOING QUITE A BIT, BUT COULD DO MORE          2.0        237               0.38
+3  THEY ARE NOT DOING NEARLY AS MUCH AS THEY COULD          3.0         58               0.09
+4                                       NO OPINION          4.0         24               0.04
+5                                        NO ANSWER          5.0          5               0.01
+
+
+
+PS5B.Q41 DO YOU THINK OWNERS AND MANAGERS OF COMPANIES MAKING WAR MATERIALS ARE DOING THEIR SHARE TO HELP WIN THE WAR?
+                                      answer_label answer_value raw_counts relative_frequency
+0                               NO CODE OR NO DATA          0.0          3                0.0
+1                      THEY ARE DOING ALL THEY CAN          1.0        210               0.34
+2    THEY ARE DOING QUITE A BIT, BUT COULD DO MORE          2.0        282               0.45
+3  THEY ARE NOT DOING NEARLY AS MUCH AS THEY COULD          3.0         68               0.11
+4                                       NO OPINION          4.0         52               0.08
+5                                        NO ANSWER          5.0          5               0.01
+
+
+
+PS5B.Q42 DO YOU THINK AMERICAN JEWISH PEOPLE ARE DOING THEIR SHARE TO HELP WIN THE WAR?
+                                      answer_label answer_value raw_counts relative_frequency
+0                               NO CODE OR NO DATA          0.0          2                0.0
+1                      THEY ARE DOING ALL THEY CAN          1.0        128               0.21
+2    THEY ARE DOING QUITE A BIT, BUT COULD DO MORE          2.0        146               0.24
+3  THEY ARE NOT DOING NEARLY AS MUCH AS THEY COULD          3.0        167               0.27
+4                                       NO OPINION          4.0        167               0.27
+5                                        NO ANSWER          5.0         10               0.02
+
+
+
+PS5B.Q43 DO YOU THINK YOU WOULD LIKE BEING IN THE ARMY BETTER THAN AT PRESENT OR WORSE THAN AT PRESENT IF YOU WERE SENT OVERSEAS?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          6               0.01
+1              BETTER          1.0        186                0.3
+2               WORSE          2.0        128               0.21
+3      ABOUT THE SAME          3.0        282               0.45
+4           NO ANSWER          4.0         18               0.03
+
+
+
+PS5B.Q44 WOULD YOU LIKE BEING IN THE ARMY BETTER OR WORSE IF YOU WENT OVER TO FIGHT THE GERMANS?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          5               0.01
+1              BETTER          1.0        297               0.48
+2               WORSE          2.0         81               0.13
+3      ABOUT THE SAME          3.0        220               0.35
+4           NO ANSWER          4.0         17               0.03
+
+
+
+PS5B.Q45 WOULD YOU LIKE IT BETTER OR WORSE IF YOU WENT OVER TO FIGHT THE JAPS?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          6               0.01
+1              BETTER          1.0        338               0.55
+2               WORSE          2.0         87               0.14
+3      ABOUT THE SAME          3.0        173               0.28
+4           NO ANSWER          4.0         16               0.03
+
+
+
+PS5B.Q46 DO YOU THINK YOU WOULD LIKE IT BETTER OR WORSE IF YOU KNEW THAT YOU WOULD NEVER BE SENT OUT OF THE UNITED STATES?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          6               0.01
+1              BETTER          1.0        226               0.36
+2               WORSE          2.0        147               0.24
+3      ABOUT THE SAME          3.0        228               0.37
+4           NO ANSWER          4.0         13               0.02
+
+
+
+PS5B.Q47 WOULD YOU LIKE IT BETTER OR WORSE IF YOU GOT INTO THE REAL FIGHTING SOON?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          7               0.01
+1              BETTER          1.0        232               0.37
+2               WORSE          2.0        149               0.24
+3      ABOUT THE SAME          3.0        208               0.34
+4           NO ANSWER          4.0         24               0.04
+
+
+
+PS5B.Q48 WHEN YOU ARE AWAY FROM CAMP, DO YOU FEEL MORE AT EASE AMONG OTHER SOLDIERS OR MORE AT EASE AMONG CIVILIAN MEN?
+                                               answer_label answer_value raw_counts relative_frequency
+0                                        NO CODE OR NO DATA          0.0          3                0.0
+1                     I FEEL MORE AT EASE WITH CIVILIAN MEN          1.0         78               0.13
+2                   I FEEL MORE AT EASE WITH OTHER SOLDIERS          2.0        232               0.37
+3  I FEEL ABOUT THE SAME WITH SOLDIERS OR WITH CIVILIAN MEN          3.0        264               0.43
+4                                                NO OPINION          4.0         33               0.05
+5                                                 NO ANSWER          5.0         10               0.02
+
+
+
+PS5B.Q49 WHAT DO YOU THINK OF THE STATEMENT THAT "THE ARMY MAKES A MAN OUT OF YOU"?
+                                           answer_label answer_value raw_counts relative_frequency
+0                                    NO CODE OR NO DATA          0.0          2                0.0
+1                                   THERE'S A LOT TO IT          1.0        303               0.49
+2  THERE MAY BE SOMETHING TO IT, BUT I'M STILL DOUBTFUL          2.0        178               0.29
+3                               THERE IS NOT MUCH TO IT          3.0         87               0.14
+4                                            NO OPINION          4.0         41               0.07
+5                                             NO ANSWER          5.0          9               0.01
+
+
+
+PS5B.Q50 AFTER THE WAR DO YOU THINK YOU WOULD LIKE TO COME BACK TO YOUR OLD OUTFIT FOR TWO WEEKS OF ARMY TRAINING EVERY YEAR?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0          8               0.01
+1          YES, I WOULD LIKE IT VERY MUCH          1.0        268               0.43
+2  YES, I MIGHT LIKE IT, BUT I'M NOT SURE          2.0        127                0.2
+3       NO, I DON'T THINK I WOULD LIKE IT          3.0         84               0.14
+4          NO, I WOULD NOT LIKE IT AT ALL          4.0        105               0.17
+5                              NO OPINION          5.0         28               0.05
+
+
+
+PS5B.Q51 DO YOU THINK YOU MIGHT WANT TO STAY IN THE ARMY FOR A CAREER AFTER THE WAR?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0          7               0.01
+1          YES, I WOULD WANT TO VERY MUCH          1.0         27               0.04
+2  YES, I MIGHT WANT TO, BUT I'M NOT SURE          2.0        170               0.27
+3       NO, I DON'T THINK I WOULD WANT TO          3.0        154               0.25
+4      NO, I ABSOLUTELY WOULD NOT WANT TO          4.0        217               0.35
+5                              NO OPINION          5.0         45               0.07
+
+
+
+PS5B.Q52 DO YOU THINK THAT AFTER A MAN HAS BEEN IN THE ARMY A WHILE HE THINKS MORE OR LESS ABOUT WHY WE ARE FIGHTING THIS WAR?
+                                                    answer_label answer_value raw_counts relative_frequency
+0                                             NO CODE OR NO DATA          0.0          6               0.01
+1  HE THINKS MORE AND MORE ABOUT IT THE LONGER HE IS IN THE ARMY          1.0        315               0.51
+2  HE THINKS LESS AND LESS ABOUT IT THE LONGER HE IS IN THE ARMY          2.0        113               0.18
+3                         HE THINKS ABOUT IT NO MORE AND NO LESS          3.0        173               0.28
+4                                                      NO ANSWER          4.0         13               0.02
+
+
+
+PS5B.Q53 DO TOO MANY OF THE ARMY RULES AND REGULATIONS SEEM USELESS TO YOU?
+                            answer_label answer_value raw_counts relative_frequency
+0                     NO CODE OR NO DATA          0.0          6               0.01
+1             YES, TOO MANY SEEM USELESS          1.0        267               0.43
+2  NO, I USED TO THINK SO, BUT DON'T NOW          2.0        160               0.26
+3                 NO, I NEVER THOUGHT SO          3.0        132               0.21
+4                             NO OPINION          4.0         40               0.06
+5                              NO ANSWER          5.0         15               0.02
+
+
+
+PS5B.Q54 IN THE LONG RUN, HOW DO YOU THINK THINGS WILL BE FOR YOU AND OTHER SOLDIERS AFTER THE WAR, COMPARED TO THE WAY THEY WERE BEFORE YOU ENTERED THE ARMY?
+                                 answer_label answer_value raw_counts relative_frequency
+0                          NO CODE OR NO DATA          0.0          3                0.0
+1        BETTER THAN BEFORE ENTERING THE ARMY          1.0         87               0.14
+2         WORSE THAN BEFORE ENTERING THE ARMY          2.0        324               0.52
+3  ABOUT THE SAME AS BEFORE ENTERING THE ARMY          3.0        134               0.22
+4                                  NO OPINION          4.0         64                0.1
+5                                   NO ANSWER          5.0          8               0.01
+
+
+
+PS5B.Q55 IN THE LONG RUN, AFTER THE WAR, HOW DO YOU THINK THINGS WILL BE FOR MOST AMERICAN CIVILIANS WHO WERE NOT IN THE ARMED FORCES DURING THE WAR, COMPARED TO THE WAY THINGS WERE FOR THEM BEFORE THE WAR?
+                       answer_label answer_value raw_counts relative_frequency
+0                NO CODE OR NO DATA          0.0          5               0.01
+1        BETTER THAN BEFORE THE WAR          1.0        138               0.22
+2         WORSE THAN BEFORE THE WAR          2.0        206               0.33
+3  ABOUT THE SAME AS BEFORE THE WAR          3.0        182               0.29
+4                        NO OPINION          4.0         80               0.13
+5                         NO ANSWER          5.0          9               0.01
+
+
+
+PS5B.Q56A "WHAT KIND OF A COUNTRY WILL THIS BE AFTER THE WAR?" HOW OFTEN HAVE YOU WONDERED ABOUT THE QUESTION ABOVE?
+                            answer_label answer_value raw_counts relative_frequency
+0                     NO CODE OR NO DATA          0.0          4               0.01
+1  I HAVE WONDERED A GREAT DEAL ABOUT IT          1.0        343               0.55
+2  I HAVE WONDERED FAIRLY OFTEN ABOUT IT          2.0        164               0.26
+3   I HAVE HARDLY EVER WONDERED ABOUT IT          3.0         33               0.05
+4         I HAVE NEVER WONDERED ABOUT IT          4.0         38               0.06
+5                             NO OPINION          5.0         25               0.04
+6                              NO ANSWER          6.0         13               0.02
+
+
+
+PS5B.Q56B WILL I LOSE OUT WITH MY GIRL FRIEND OR WIFE WHILE I'M AWAY?
+                            answer_label answer_value raw_counts relative_frequency
+0                     NO CODE OR NO DATA          0.0          3                0.0
+1  I HAVE WONDERED A GREAT DEAL ABOUT IT          1.0        128               0.21
+2  I HAVE WONDERED FAIRLY OFTEN ABOUT IT          2.0         62                0.1
+3   I HAVE HARDLY EVER WONDERED ABOUT IT          3.0         84               0.14
+4         I HAVE NEVER WONDERED ABOUT IT          4.0        186                0.3
+5                             NO OPINION          5.0         82               0.13
+6                              NO ANSWER          6.0         75               0.12
+
+
+
+PS5B.Q56C WILL I HAVE A GOOD JOB AFTER THE WAR?
+                            answer_label answer_value raw_counts relative_frequency
+0                     NO CODE OR NO DATA          0.0          2                0.0
+1  I HAVE WONDERED A GREAT DEAL ABOUT IT          1.0        296               0.48
+2  I HAVE WONDERED FAIRLY OFTEN ABOUT IT          2.0         99               0.16
+3   I HAVE HARDLY EVER WONDERED ABOUT IT          3.0         50               0.08
+4         I HAVE NEVER WONDERED ABOUT IT          4.0         60                0.1
+5                             NO OPINION          5.0         56               0.09
+6                              NO ANSWER          6.0         57               0.09
+
+
+
+PS5B.Q56D WILL I BE ABLE TO CARRY OUT THE PLANS I HAD FOR MY LIFE BEFORE THE WAR?
+                            answer_label answer_value raw_counts relative_frequency
+0                     NO CODE OR NO DATA          0.0          3                0.0
+1  I HAVE WONDERED A GREAT DEAL ABOUT IT          1.0        320               0.52
+2  I HAVE WONDERED FAIRLY OFTEN ABOUT IT          2.0         93               0.15
+3   I HAVE HARDLY EVER WONDERED ABOUT IT          3.0         45               0.07
+4         I HAVE NEVER WONDERED ABOUT IT          4.0         42               0.07
+5                             NO OPINION          5.0         57               0.09
+6                              NO ANSWER          6.0         60                0.1
+
+
+
+PS5B.Q56E WILL I COME OUT OF THE WAR BADLY CRIPPLED OR DISFIGURED?
+                            answer_label answer_value raw_counts relative_frequency
+0                     NO CODE OR NO DATA          0.0          1                0.0
+1  I HAVE WONDERED A GREAT DEAL ABOUT IT          1.0        132               0.21
+2  I HAVE WONDERED FAIRLY OFTEN ABOUT IT          2.0         84               0.14
+3   I HAVE HARDLY EVER WONDERED ABOUT IT          3.0        135               0.22
+4         I HAVE NEVER WONDERED ABOUT IT          4.0        167               0.27
+5                             NO OPINION          5.0         67               0.11
+6                              NO ANSWER          6.0         34               0.05
+
+
+
+PS5B.Q56F HOW LONG WILL I HAVE TO STAY IN THE ARMY AFTER THE WAR IS OVER?
+                            answer_label answer_value raw_counts relative_frequency
+0                     NO CODE OR NO DATA          0.0          3                0.0
+1  I HAVE WONDERED A GREAT DEAL ABOUT IT          1.0        202               0.33
+2  I HAVE WONDERED FAIRLY OFTEN ABOUT IT          2.0        113               0.18
+3   I HAVE HARDLY EVER WONDERED ABOUT IT          3.0         94               0.15
+4         I HAVE NEVER WONDERED ABOUT IT          4.0        105               0.17
+5                             NO OPINION          5.0         60                0.1
+6                              NO ANSWER          6.0         43               0.07
+
+
+
+PS5B.Q56G WILL I HAVE TO PAY A LOT OF HIGH TAXES AFTER THE WAR?
+                            answer_label answer_value raw_counts relative_frequency
+0                     NO CODE OR NO DATA          0.0          1                0.0
+1  I HAVE WONDERED A GREAT DEAL ABOUT IT          1.0        176               0.28
+2  I HAVE WONDERED FAIRLY OFTEN ABOUT IT          2.0         96               0.15
+3   I HAVE HARDLY EVER WONDERED ABOUT IT          3.0         97               0.16
+4         I HAVE NEVER WONDERED ABOUT IT          4.0        135               0.22
+5                             NO OPINION          5.0         74               0.12
+6                              NO ANSWER          6.0         41               0.07
+
+
+
+PS5B.Q56H WILL THE WOMEN WHO ARE NOW WORKING KEEP MEN OUT OF JOBS AFTER THE WAR?
+                            answer_label answer_value raw_counts relative_frequency
+0                     NO CODE OR NO DATA          0.0          3                0.0
+1  I HAVE WONDERED A GREAT DEAL ABOUT IT          1.0        225               0.36
+2  I HAVE WONDERED FAIRLY OFTEN ABOUT IT          2.0        123                0.2
+3   I HAVE HARDLY EVER WONDERED ABOUT IT          3.0         62                0.1
+4         I HAVE NEVER WONDERED ABOUT IT          4.0        105               0.17
+5                             NO OPINION          5.0         65                0.1
+6                              NO ANSWER          6.0         37               0.06
+
+
+
+PS5B.Q56I WILL IT BE HARD FOR ME TO SETTLE DOWN WHEN I GO BACK TO CIVILIAN LIFE?
+                            answer_label answer_value raw_counts relative_frequency
+0                     NO CODE OR NO DATA          0.0          1                0.0
+1  I HAVE WONDERED A GREAT DEAL ABOUT IT          1.0        166               0.27
+2  I HAVE WONDERED FAIRLY OFTEN ABOUT IT          2.0         94               0.15
+3   I HAVE HARDLY EVER WONDERED ABOUT IT          3.0         91               0.15
+4         I HAVE NEVER WONDERED ABOUT IT          4.0        180               0.29
+5                             NO OPINION          5.0         50               0.08
+6                              NO ANSWER          6.0         38               0.06
+
+
+
+PS5B.Q56J WILL ANOTHER WAR COME ALONG SOON AND MAKE ME A SOLDIER AGAIN?
+                            answer_label answer_value raw_counts relative_frequency
+0                     NO CODE OR NO DATA          0.0          2                0.0
+1  I HAVE WONDERED A GREAT DEAL ABOUT IT          1.0         70               0.11
+2  I HAVE WONDERED FAIRLY OFTEN ABOUT IT          2.0         54               0.09
+3   I HAVE HARDLY EVER WONDERED ABOUT IT          3.0         84               0.14
+4         I HAVE NEVER WONDERED ABOUT IT          4.0        243               0.39
+5                             NO OPINION          5.0        118               0.19
+6                              NO ANSWER          6.0         49               0.08
+
+
+
+PS5B.Q56K WILL I BE OUT OF A JOB FOR A LONG TIME AFTER THE WAR?
+                            answer_label answer_value raw_counts relative_frequency
+0                     NO CODE OR NO DATA          0.0          2                0.0
+1  I HAVE WONDERED A GREAT DEAL ABOUT IT          1.0        232               0.37
+2  I HAVE WONDERED FAIRLY OFTEN ABOUT IT          2.0         78               0.13
+3   I HAVE HARDLY EVER WONDERED ABOUT IT          3.0         69               0.11
+4         I HAVE NEVER WONDERED ABOUT IT          4.0        134               0.22
+5                             NO OPINION          5.0         60                0.1
+6                              NO ANSWER          6.0         45               0.07
+
+
+
+PS5B.Q56L WILL THERE BE A REAL DEPRESSION AFTER THE WAR?
+                            answer_label answer_value raw_counts relative_frequency
+0                     NO CODE OR NO DATA          0.0          2                0.0
+1  I HAVE WONDERED A GREAT DEAL ABOUT IT          1.0        278               0.45
+2  I HAVE WONDERED FAIRLY OFTEN ABOUT IT          2.0        126                0.2
+3   I HAVE HARDLY EVER WONDERED ABOUT IT          3.0         50               0.08
+4         I HAVE NEVER WONDERED ABOUT IT          4.0         50               0.08
+5                             NO OPINION          5.0         76               0.12
+6                              NO ANSWER          6.0         38               0.06
+
+
+
+PS5B.Q56M WILL WE HAVE A FREE COUNTRY OR A DICTATORSHIP AFTER WE WIN THE WAR?
+                            answer_label answer_value raw_counts relative_frequency
+0                     NO CODE OR NO DATA          0.0          1                0.0
+1  I HAVE WONDERED A GREAT DEAL ABOUT IT          1.0        160               0.26
+2  I HAVE WONDERED FAIRLY OFTEN ABOUT IT          2.0         60                0.1
+3   I HAVE HARDLY EVER WONDERED ABOUT IT          3.0         64                0.1
+4         I HAVE NEVER WONDERED ABOUT IT          4.0        194               0.31
+5                             NO OPINION          5.0         79               0.13
+6                              NO ANSWER          6.0         62                0.1
+
+
+
+FORM..1FORM.
+  answer_label answer_value raw_counts relative_frequency
+0       FORM B          2.0        620                1.0
+
+
+
+PS5B.Q57 DO YOU HAVE ANY ARMY LIFE INSURANCE?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          6               0.01
+1                 YES          1.0        525               0.85
+2                  NO          2.0         73               0.12
+3          DON'T KNOW          3.0          4               0.01
+4           NO ANSWER          4.0         12               0.02
+
+
+
+PS5B.Q58 IF YES, HOW MUCH DO YOU HAVE?
+               answer_label answer_value raw_counts relative_frequency
+0   NO ANSWER, INAPPLICABLE          0.0         93               0.15
+1                    $1,000          1.0         20               0.03
+2                     2,000          2.0         33               0.05
+3                     3,000          3.0         24               0.04
+4                     4,000          4.0          4               0.01
+5                     5,000          5.0        205               0.33
+6                     6,000          6.0          9               0.01
+7                     7,000          7.0          7               0.01
+8                     8,000          8.0          2                0.0
+9                    10,000         10.0        221               0.36
+10           DON'T REMEMBER         11.0          2                0.0
+
+
+
+PS5B.V61 CIVILIAN SUPPORT SCALE E. DERIVED FROM QUESTIONS 29, 30, 32, 33, 34, 35.
+                         answer_label answer_value raw_counts relative_frequency
+0  NUMBER OF POSITIVE RESPONSES: NONE          0.0         17               0.03
+1                                 ONE          1.0         30               0.05
+2                                 TWO          2.0         66               0.11
+3                               THREE          3.0        296               0.48
+4                                FOUR          4.0        124                0.2
+5                                FIVE          5.0         62                0.1
+6                                 SIX          6.0         25               0.04
+
+
+
+PS5B.V63 CAMP IDENTIFICATION:
+                               answer_label answer_value raw_counts relative_frequency
+0                        NO CODE OR NO DATA          0.0          6               0.01
+1                            EDWARDS, MASS.          1.0         82               0.13
+2                          ETHAN ALLEN, VT.          2.0         78               0.13
+3                              STEWART, GA.          3.0         77               0.12
+4                   COLUMBIA AIR BASE, S.C.          4.0          3                0.0
+5                           FUNSTON, CALIF.          5.0         78               0.13
+6                             RILEY, KANSAS          6.0         83               0.13
+7                        SAM HOUSTON, TEXAS          7.0         82               0.13
+8                   SAN LUIS OBISPO, CALIF.          8.0         47               0.08
+9  LOS ANGELES, CALIF., 329TH FIGHTER GROUP          9.0         84               0.14
+
+
+

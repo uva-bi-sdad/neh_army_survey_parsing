@@ -1,0 +1,504 @@
+{
+  "FORM": {
+    "1.0": "S-195A",
+    "2.0": "S-195B",
+    "3.0": "S-195C"
+  },
+  "S195B.Q1": {
+    "0.0": "NO ANSWER",
+    "1.0": "PRIVATE",
+    "2.0": "PRIVATE FIRST CLASS",
+    "3.0": "NONCOM (CORPORAL OR ANY GRADE OF SERGEANT OR TECHNICIAN)",
+    "4.0": "SOME OTHER RANK OR GRADE"
+  },
+  "S195B.Q2": {
+    "0.0": "NO ANSWER",
+    "1.0": "19 YEARS OR YOUNGER",
+    "2.0": "20 TO 24 YEARS",
+    "3.0": "25 TO 29 YEARS",
+    "4.0": "30 TO 34 YEARS",
+    "5.0": "35 YEARS OR OLDER"
+  },
+  "S195B.Q3": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN 6TH GRADE",
+    "2.0": "FINISHED 6TH GRADE",
+    "3.0": "FINISHED 7TH GRADE",
+    "4.0": "FINISHED 8TH GRADE",
+    "5.0": "SOME HIGH SCHOOL BUT DID NOT FINISH",
+    "6.0": "GRADUATED FROM HIGH SCHOOL",
+    "7.0": "SOME COLLEGE BUT DID NOT FINISH",
+    "8.0": "GRADUATED FROM COLLEGE"
+  },
+  "S195B.Q4A": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT IS AS IMPORTANT AS ANY OTHER JOB I COULD DO",
+    "2.0": "IT IS FAIRLY IMPORTANT, BUT I COULD DO MORE IMPORTANT WORK",
+    "3.0": "IT HARDLY SEEMS IMPORTANT AT ALL"
+  },
+  "S195B.Q4B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY STRONGLY",
+    "2.0": "FAIRLY STRONGLY",
+    "3.0": "NOT STRONGLY"
+  },
+  "S195B.Q5A": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH INTERESTED",
+    "2.0": "A LITTLE BUT NOT MUCH",
+    "3.0": "NOT INTERESTED AT ALL"
+  },
+  "S195B.Q5B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY STRONGLY",
+    "2.0": "FAIRLY STRONGLY",
+    "3.0": "NOT STRONGLY"
+  },
+  "S195B.Q6A": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY SATISFIED",
+    "2.0": "SATISFIED",
+    "3.0": "IT DOES NOT MAKE ANY DIFFERENCE TO ME",
+    "4.0": "DISSATISFIED",
+    "5.0": "VERY DISSATISFIED"
+  },
+  "S195B.Q6B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY STRONGLY",
+    "2.0": "FAIRLY STRONGLY",
+    "3.0": "NOT STRONGLY"
+  },
+  "S195B.Q7A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED"
+  },
+  "S195B.Q7B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY STRONGLY",
+    "2.0": "FAIRLY STRONGLY",
+    "3.0": "NOT STRONGLY"
+  },
+  "S195B.Q8A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED"
+  },
+  "S195B.Q8B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY STRONGLY",
+    "2.0": "FAIRLY STRONGLY",
+    "3.0": "NOT STRONGLY"
+  },
+  "S195B.Q9A": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY IMPORTANT",
+    "2.0": "PRETTY IMPORTANT",
+    "3.0": "NOT SO IMPORTANT",
+    "4.0": "NOT IMPORTANT AT ALL",
+    "5.0": "UNDECIDED"
+  },
+  "S195B.Q9B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY STRONGLY",
+    "2.0": "FAIRLY STRONGLY",
+    "3.0": "NOT STRONGLY"
+  },
+  "S195B.Q10A": {
+    "0.0": "NO ANSWER",
+    "1.0": "A VERY GOOD CHANCE",
+    "2.0": "A FAIRLY GOOD CHANCE",
+    "3.0": "NOT MUCH OF A CHANCE",
+    "4.0": "NO CHANCE AT ALL",
+    "5.0": "UNDECIDED"
+  },
+  "S195B.Q10B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY STRONGLY",
+    "2.0": "FAIRLY STRONGLY",
+    "3.0": "NOT STRONGLY"
+  },
+  "S195B.Q11A": {
+    "0.0": "NO ANSWER",
+    "1.0": "I USUALLY FEEL IT IS NOT WORTHWHILE",
+    "2.0": "I USUALLY FEEL IT IS WORTHWHILE",
+    "3.0": "UNDECIDED"
+  },
+  "S195B.Q11B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY STRONGLY",
+    "2.0": "FAIRLY STRONGLY",
+    "3.0": "NOT STRONGLY"
+  },
+  "S195B.Q12A": {
+    "0.0": "NO ANSWER",
+    "1.0": "TIME ALWAYS PASSES QUICKLY",
+    "2.0": "TIME PASSES QUICKLY MOST OF THE TIME",
+    "3.0": "ENJOY WORKING PART OF THE TIME, BUT IT DRAGS AT OTHER TIMES",
+    "4.0": "TIME DRAGS MOST OF THE TIME",
+    "5.0": "TIME ALWAYS DRAGS"
+  },
+  "S195B.Q12B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY STRONGLY",
+    "2.0": "FAIRLY STRONGLY",
+    "3.0": "NOT STRONGLY"
+  },
+  "S195B.Q13A": {
+    "0.0": "NO ANSWER",
+    "1.0": "I USUALLY PUT ALL I HAVE INTO IT",
+    "2.0": "I USUALLY WORK JUST HARD ENOUGH TO GET BY",
+    "3.0": "UNDECIDED"
+  },
+  "S195B.Q13B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY STRONGLY",
+    "2.0": "FAIRLY STRONGLY",
+    "3.0": "NOT STRONGLY"
+  },
+  "S195B.Q14A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S195B.Q14B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY STRONGLY",
+    "2.0": "FAIRLY STRONGLY",
+    "3.0": "NOT STRONGLY"
+  },
+  "S195B.Q15A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S195B.Q15B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY STRONGLY",
+    "2.0": "FAIRLY STRONGLY",
+    "3.0": "NOT STRONGLY"
+  },
+  "S195B.Q16A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S195B.Q16B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY STRONGLY",
+    "2.0": "FAIRLY STRONGLY",
+    "3.0": "NOT STRONGLY"
+  },
+  "S195B.Q17A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S195B.Q17B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY STRONGLY",
+    "2.0": "FAIRLY STRONGLY",
+    "3.0": "NOT STRONGLY"
+  },
+  "S195B.Q18A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S195B.Q18B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY STRONGLY",
+    "2.0": "FAIRLY STRONGLY",
+    "3.0": "NOT STRONGLY"
+  },
+  "S195B.Q19A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S195B.Q19B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY STRONGLY",
+    "2.0": "FAIRLY STRONGLY",
+    "3.0": "NOT STRONGLY"
+  },
+  "S195B.Q20A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S195B.Q20B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY STRONGLY",
+    "2.0": "FAIRLY STRONGLY",
+    "3.0": "NOT STRONGLY"
+  },
+  "S195B.Q21A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S195B.Q21B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY STRONGLY",
+    "2.0": "FAIRLY STRONGLY",
+    "3.0": "NOT STRONGLY"
+  },
+  "S195B.Q22A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S195B.Q22B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY STRONGLY",
+    "2.0": "FAIRLY STRONGLY",
+    "3.0": "NOT STRONGLY"
+  },
+  "S195B.Q23A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S195B.Q23B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY STRONGLY",
+    "2.0": "FAIRLY STRONGLY",
+    "3.0": "NOT STRONGLY"
+  },
+  "S195B.Q24A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S195B.Q24B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY STRONGLY",
+    "2.0": "FAIRLY STRONGLY",
+    "3.0": "NOT STRONGLY"
+  },
+  "S195B.Q25": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, ALWAYS",
+    "2.0": "YES, USUALLY",
+    "3.0": "UNDECIDED",
+    "4.0": "NO, NOT VERY OFTEN",
+    "5.0": "NO, ALMOST NEVER"
+  },
+  "S195B.Q26": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY OFTEN",
+    "2.0": "OFTEN",
+    "3.0": "SOMETIMES",
+    "4.0": "HARDLY EVER",
+    "5.0": "NEVER"
+  },
+  "S195B.Q27": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALL OF THEM DO",
+    "2.0": "MOST OF THEM DO",
+    "3.0": "ABOUT HALF OF THEM DO",
+    "4.0": "FEW OF THEM DO",
+    "5.0": "NONE OF THEM DO"
+  },
+  "S195B.Q28": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, ALL THE TIME",
+    "2.0": "YES, MOST OF THE TIME",
+    "3.0": "NO, THEY OFTEN DO NOT",
+    "4.0": "NO, THEY ALMOST NEVER DO"
+  },
+  "S195B.Q29": {
+    "0.0": "NO ANSWER",
+    "1.0": "THEY ARE VERY MUCH AWARE OF MY PROBLEMS AND NEEDS",
+    "2.0": "THEY ARE FAIRLY WELL AWARE OF MY PROBLEMS AND NEEDS",
+    "3.0": "THEY DO NOT KNOW VERY MUCH ABOUT MY REAL PROBLEMS OR NEEDS"
+  },
+  "S195B.Q30": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, I'M SURE THEY DO",
+    "2.0": "YES, I THINK THEY DO BUT I'M NOT SURE",
+    "3.0": "NO, I DON'T THINK THEY DO",
+    "4.0": "UNDECIDED"
+  },
+  "S195B.Q31": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY GOOD",
+    "2.0": "FAIRLY GOOD",
+    "3.0": "ABOUT AVERAGE",
+    "4.0": "PRETTY POOR",
+    "5.0": "VERY POOR"
+  },
+  "S195B.Q32": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALMOST ALL OF THEM DO",
+    "2.0": "MOST OF THEM DO",
+    "3.0": "SOME OF THEM DO",
+    "4.0": "ONLY A FEW OF THEM DO",
+    "5.0": "NONE OF THEM DO"
+  },
+  "S195B.Q33": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALWAYS",
+    "2.0": "USUALLY",
+    "3.0": "RARELY",
+    "4.0": "NEVER"
+  },
+  "S195B.Q34": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALL OF THEM ARE",
+    "2.0": "MOST OF THEM ARE",
+    "3.0": "ABOUT HALF OF THEM ARE",
+    "4.0": "FEW OF THEM ARE",
+    "5.0": "NONE OF THEM ARE"
+  },
+  "S195B.Q35": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH",
+    "2.0": "PRETTY MUCH",
+    "3.0": "NOT SO MUCH",
+    "4.0": "NOT AT ALL"
+  },
+  "S195B.Q36": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALWAYS TELL ME ENOUGH",
+    "2.0": "USUALLY TELL ME ENOUGH",
+    "3.0": "OFTEN DO NOT TELL ME ENOUGH",
+    "4.0": "ALMOST NEVER TELL ME ENOUGH",
+    "5.0": "UNDECIDED"
+  },
+  "S195B.Q37": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALL OF THEM ARE",
+    "2.0": "MOST OF THEM ARE",
+    "3.0": "ABOUT HALF OF THEM ARE",
+    "4.0": "FEW OF THEM ARE",
+    "5.0": "NONE OF THEM ARE"
+  },
+  "S195B.Q38": {
+    "0.0": "NO ANSWER",
+    "1.0": "THEY ARE THE BEST ONES THAT COULD HAVE BEEN PICKED",
+    "2.0": "THEY ARE AS GOOD AS ANY THAT COULD HAVE BEEN PICKED",
+    "3.0": "SOMEWHAT BETTER ONES COULD HAVE BEEN PICKED",
+    "4.0": "MUCH BETTER ONES COULD HAVE BEEN PICKED",
+    "5.0": "UNDECIDED"
+  },
+  "S195B.Q39": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, ALWAYS",
+    "2.0": "YES, USUALLY",
+    "3.0": "NO, YOU CAN'T COUNT ON IT"
+  },
+  "S195B.Q40A": {
+    "0.0": "NO ANSWER",
+    "1.0": "GENERAL MACARTHUR",
+    "2.0": "GENERAL EISENHOWER",
+    "3.0": "GENERAL ARNOLD",
+    "4.0": "GENERAL MARSHALL"
+  },
+  "S195B.Q40B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY SURE",
+    "2.0": "FAIRLY SURE",
+    "3.0": "NOT SURE"
+  },
+  "S195B.Q41A": {
+    "0.0": "NO ANSWER",
+    "1.0": "ARGENTINA",
+    "2.0": "SWEDEN",
+    "3.0": "BRAZIL",
+    "4.0": "TURKEY"
+  },
+  "S195B.Q41B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY SURE",
+    "2.0": "FAIRLY SURE",
+    "3.0": "NOT SURE"
+  },
+  "S195B.Q42A": {
+    "0.0": "NO ANSWER",
+    "1.0": "SOUTHERN FRANCE",
+    "2.0": "NORMANDY",
+    "3.0": "HOLLAND",
+    "4.0": "BELGIUM"
+  },
+  "S195B.Q42B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY SURE",
+    "2.0": "FAIRLY SURE",
+    "3.0": "NOT SURE"
+  },
+  "S195B.Q43A": {
+    "0.0": "NO ANSWER",
+    "1.0": "WELLES",
+    "2.0": "STETTINIUS",
+    "3.0": "NELSON",
+    "4.0": "BYRNES"
+  },
+  "S195B.Q43B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY SURE",
+    "2.0": "FAIRLY SURE",
+    "3.0": "NOT SURE"
+  },
+  "S195B.Q44A": {
+    "0.0": "NO ANSWER",
+    "1.0": "CHURCHILL",
+    "2.0": "MUSSOLINI",
+    "3.0": "CHAMBERLAIN",
+    "4.0": "TANAKA"
+  },
+  "S195B.Q44B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY SURE",
+    "2.0": "FAIRLY SURE",
+    "3.0": "NOT SURE"
+  },
+  "S195B.Q45A": {
+    "0.0": "NO ANSWER",
+    "1.0": "THE GERMANS",
+    "2.0": "THE SPANISH",
+    "3.0": "THE ITALIANS",
+    "4.0": "THE JAPANESE"
+  },
+  "S195B.Q45B": {
+    "0.0": "NO ANSWER CARD 2",
+    "1.0": "VERY SURE",
+    "2.0": "FAIRLY SURE",
+    "3.0": "NOT SURE"
+  },
+  "FORM..1": {
+    "1.0": "S-195A",
+    "2.0": "S-195B",
+    "3.0": "S-195C"
+  },
+  "S195B.Q46A": {
+    "0.0": "NO ANSWER",
+    "1.0": "IRELAND",
+    "2.0": "RUSSIA",
+    "3.0": "ITALY",
+    "4.0": "GERMANY"
+  },
+  "S195B.Q46B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY SURE",
+    "2.0": "FAIRLY SURE",
+    "3.0": "NOT SURE"
+  },
+  "S195B.Q47A": {
+    "0.0": "NO ANSWER",
+    "1.0": "NORWAY",
+    "2.0": "CZECHOSLOVAKIA",
+    "3.0": "POLAND",
+    "4.0": "BELGIUM"
+  },
+  "S195B.Q47B": {
+    "0.0": "NO ANSWER",
+    "2.0": "FAIRLY SURE",
+    "NaN": "QUESTION 48 NOT CODED.",
+    "1.0": "VERY SURE",
+    "3.0": "NOT SURE"
+  }
+}

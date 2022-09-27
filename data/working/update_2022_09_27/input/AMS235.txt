@@ -1,0 +1,1482 @@
+S235.Q1 HOW LONG HAVE YOU BEEN IN THE ARMY? E. IF YOU HAVE BEEN IN THE ARMY BEFORE, THEN WERE OUT FOR A WHILE, JUST CHECK THE LENGTH OF TIME SINCE YOU ENTERED THIS LAST TIME. IF YOU WERE IN THE NATIONAL GUARD, CHECK THE LENGTH OF TIME SINCE YOUR OUTFIT WAS ACTIV
+                     answer_label answer_value raw_counts relative_frequency
+0                       NO ANSWER          0.0         17               0.01
+1                6 MONTHS OR LESS          1.0          2                0.0
+2      OVER 6 MONTHS UP TO 1 YEAR          2.0         63               0.03
+3   OVER 1 YEAR UP TO 1 1/2 YEARS          3.0        148               0.08
+4  OVER 1 1/2 YEARS UP TO 2 YEARS          4.0        146               0.08
+5  OVER 2 YEARS UP TO 2 1/2 YEARS          5.0        305               0.17
+6  OVER 2 1/2 YEARS UP TO 3 YEARS          6.0        542                0.3
+7  OVER 3 YEARS UP TO 3 1/2 YEARS          7.0        264               0.14
+8                OVER 3 1/2 YEARS          8.0        337               0.18
+
+
+
+S235.Q2 HOW LONG HAVE YOU BEEN OVERSEAS?
+                     answer_label answer_value raw_counts relative_frequency
+0                       NO ANSWER          0.0         18               0.01
+1                6 MONTHS OR LESS          1.0        113               0.06
+2      OVER 6 MONTHS UP TO A YEAR          2.0        432               0.24
+3   OVER 1 YEAR UP TO 1 1/2 YEARS          3.0        365                0.2
+4  OVER 1 1/2 YEARS UP TO 2 YEARS          4.0        529               0.29
+5  OVER 2 YEARS UP TO 2 1/2 YEARS          5.0        204               0.11
+6  OVER 2 1/2 YEARS UP TO 3 YEARS          6.0        103               0.06
+7                    OVER 3 YEARS          7.0         60               0.03
+
+
+
+S235.Q3 HAVE YOU EVER BEEN IN ACTUAL COMBAT OR UNDER ENEMY FIRE IN THIS WAR?
+                                                                                      answer_label answer_value raw_counts relative_frequency
+0                 NO ANSWER I. IF YOU ARE IN THE AIR FORCES, SKIP QUESTION 4 AND GO ON TO QUESTION          0.0         33               0.02
+1  I HAVE NOT BEEN IN ACTUAL COMBAT, BUT I HAVE BEEN UNDER SOME KIND OF ENEMY FIRE (GROUND OR AIR)          2.0        781               0.43
+2                                                      I HAVE BEEN IN ACTUAL COMBAT WITH THE ENEMY          1.0        458               0.25
+3            NO, I HAVE NOT BEEN IN COMBAT NOR UNDER ANY KIND OF ENEMY FIRE FROM THE GROUND OR AIR          3.0        552                0.3
+
+
+
+S235.Q4 ABOUT HOW MANY DAYS HAVE YOU BEEN IN COMBAT SINCE COMING OVERSEAS? (DO NOT COUNT ANY TIME YOU WERE IN REST CAMP OR IN THE HOSPITAL OR ON FURLOUGH.)
+                            answer_label answer_value raw_counts relative_frequency
+0  NO ANSWER, ALTHOUGH NOT IN AIR FORCES          0.0        170               0.09
+1                              1-27 DAYS          1.0         78               0.04
+2                                  28-55          2.0         38               0.02
+3                                 56-111          3.0        131               0.07
+4                                112-167          4.0         19               0.01
+5                                280-335          7.0          2                0.0
+6        I HAVE NOT BEEN IN COMBAT, NONE         10.0        984               0.54
+7           INAPPLICABLE (IN AIR FORCES)         99.0        402               0.22
+
+
+
+S235.Q5A WHAT KIND OF A SQUADRON ARE YOU IN?
+                                    answer_label answer_value raw_counts relative_frequency
+0  SERVICE SQUADRON IN A FIGHTER OR BOMBER GROUP          1.0        134               0.07
+1                               FIGHTER SQUADRON          2.0         36               0.02
+2                                BOMBER SQUADRON          3.0        174                0.1
+3                      SOME OTHER TYPE OF OUTFIT          4.0         39               0.02
+4    INAPPLICABLE (NOT IN AIR FORCES), NO ANSWER          9.0       1441               0.79
+
+
+
+S235.Q5B WHAT TYPE OF JOB DO YOU HAVE AT PRESENT?
+                                  answer_label answer_value raw_counts relative_frequency
+0                            COMBAT FLYING JOB          1.0         63               0.03
+1   GROUND CREW - "LINE" JOB-WORKING ON PLANES          2.0        121               0.07
+2                             OTHER GROUND JOB          3.0        196               0.11
+3  INAPPLICABLE (NOT IN AIR FORCES), NO ANSWER          9.0       1444               0.79
+
+
+
+S235.Q6 WHAT IS YOUR ARMY RANK OR GRADE?
+                                          answer_label answer_value raw_counts relative_frequency
+0                                            NO ANSWER          0.0         20               0.01
+1                       PRIVATE OR PRIVATE FIRST CLASS          1.0        761               0.42
+2                     CORPORAL OR TECHNICIAN 5TH GRADE          2.0        424               0.23
+3  SERGEANT (ANY GRADE) OR TECHNICIAN 3RD OR 4TH GRADE          3.0        619               0.34
+
+
+
+S235.Q7 HOW FAR DID YOU GO IN SCHOOL?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0          8                0.0
+1                  LESS THAN 6TH GRADE          1.0         43               0.02
+2                   FINISHED 6TH GRADE          2.0         50               0.03
+3                   FINISHED 7TH GRADE          3.0         95               0.05
+4                   FINISHED 8TH GRADE          4.0        243               0.13
+5  SOME HIGH SCHOOL, BUT DIDN'T FINISH          5.0        508               0.28
+6           GRADUATED FROM HIGH SCHOOL          6.0        602               0.33
+7      SOME COLLEGE BUT DID NOT FINISH          7.0        224               0.12
+8               GRADUATED FROM COLLEGE          8.0         51               0.03
+
+
+
+S235.Q8 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0         19               0.01
+1   19 YEARS OR LESS          1.0         91               0.05
+2           20 YEARS          2.0        134               0.07
+3                 21          3.0        149               0.08
+4                 22          4.0        126               0.07
+5                 23          5.0        147               0.08
+6                 24          6.0        158               0.09
+7                 25          7.0        136               0.07
+8              26-29          8.0        395               0.22
+9              30-34          9.0        289               0.16
+10       35-37 YEARS         10.0        116               0.06
+11  38 YEARS OR MORE         11.0         64               0.04
+
+
+
+S235.Q9.x ARE YOU SINGLE, MARRIED, DIVORCED OR SEPARATED, OR WIDOWED? F. IF MARRIED:  Q.10. HOW MANY CHILDREN DO YOU HAVE?
+                           answer_label answer_value raw_counts relative_frequency
+0                             NO ANSWER          0.0          8                0.0
+1                                SINGLE          1.0       1062               0.58
+2                 DIVORCED OR SEPARATED          2.0         32               0.02
+3                               WIDOWED          3.0          5                0.0
+4             MARRIED, HAVE NO CHILDREN          4.0        382               0.21
+5               MARRIED, HAVE ONE CHILD          5.0        246               0.13
+6            MARRIED, HAVE TWO CHILDREN          6.0         62               0.03
+7  MARRIED, HAVE THREE OR MORE CHILDREN          7.0         27               0.01
+
+
+
+S235.Q11 AS FAR AS YOU KNOW, HOW MANY POINTS DO YOU HAVE UNDER THE ARMY POINT SCORE PLAN?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0         32               0.02
+1    UNDER 40 POINTS          1.0        314               0.17
+2              40-49          2.0        269               0.15
+3              50-59          3.0        319               0.17
+4              60-74          4.0        474               0.26
+5              75-84          5.0        188                0.1
+6  85 POINTS OR MORE          6.0        228               0.12
+
+
+
+S235.Q12 HOW LONG HAVE YOU BEEN IN YOUR PRESENT OUTFIT?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0         25               0.01
+1   LESS THAN 1 MONTH          1.0        149               0.08
+2          1-2 MONTHS          2.0        310               0.17
+3          3-5 MONTHS          3.0        236               0.13
+4         6-11 MONTHS          4.0        255               0.14
+5  12 MONTHS AND OVER          5.0        849               0.47
+
+
+
+S235.Q13 IN GENERAL, WHAT SORT OF PHYSICAL CONDITION WOULD YOU SAY YOU ARE IN AT THE PRESENT TIME?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         14               0.01
+1  VERY GOOD PHYSICAL CONDITION          1.0        290               0.16
+2       GOOD PHYSICAL CONDITION          2.0        661               0.36
+3       FAIR PHYSICAL CONDITION          3.0        733                0.4
+4       POOR PHYSICAL CONDITION          4.0        102               0.06
+5  VERY POOR PHYSICAL CONDITION          5.0         24               0.01
+
+
+
+S235.Q14A HOW DO YOU FEEL ABOUT THE IMPORTANCE OF THE WORK YOU ARE DOING RIGHT NOW AS COMPARED WITH OTHER JOBS YOU MIGHT BE DOING IN THE ARMY?
+                                                 answer_label answer_value raw_counts relative_frequency
+0                                                   NO ANSWER          0.0         48               0.03
+1        IT IS ABOUT AS IMPORTANT AS ANY OTHER JOB I COULD DO          1.0        787               0.43
+2  IT IS FAIRLY IMPORTANT, BUT I COULD DO MORE IMPORTANT WORK          2.0        426               0.23
+3                            IT HARDLY SEEMS IMPORTANT AT ALL          3.0        563               0.31
+
+
+
+S235.Q15 IN GENERAL, DO YOU THINK THE ARMY HAS TRIED ITS BEST TO SEE THAT MEN GET AS SQUARE A DEAL AS POSSIBLE?
+                            answer_label answer_value raw_counts relative_frequency
+0                              NO ANSWER          0.0         26               0.01
+1             YES, IT HAS TRIED ITS BEST          1.0        464               0.25
+2  IT HAS TRIED SOME BUT NOT HARD ENOUGH          2.0       1150               0.63
+3             IT HAS HARDLY TRIED AT ALL          3.0        184                0.1
+
+
+
+S235.Q16 IN GENERAL, DO YOU FEEL YOU YOURSELF HAVE GOTTEN A SQUARE DEAL FROM THE ARMY?
+                                      answer_label answer_value raw_counts relative_frequency
+0                                        NO ANSWER          0.0          9                0.0
+1                         YES, IN MOST WAYS I HAVE          1.0        659               0.36
+2             IN SOME WAYS, YES, IN OTHER WAYS, NO          2.0        946               0.52
+3  NO, ON THE WHOLE I HAVEN'T GOTTEN A SQUARE DEAL          3.0        210               0.12
+
+
+
+S235.Q17 DO YOU THINK THE OUTFIT YOU ARE IN NOW PAYS TOO MUCH ATTENTION, TOO LITTLE OR ABOUT THE RIGHT AMOUNT OF ATTENTION TO INSPECTIONS AND "SPIT AND POLISH"?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0         19               0.01
+1    TOO LITTLE ATTENTION          1.0         55               0.03
+2      TOO MUCH ATTENTION          2.0        594               0.33
+3  ABOUT THE RIGHT AMOUNT          3.0       1156               0.63
+
+
+
+S235.Q18 DO YOU FEEL THAT THE ARMY IS TRYING ITS BEST TO LOOK OUT FOR THE WELFARE OF ENLISTED MEN?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0         16               0.01
+1              YES, IT IS TRYING ITS BEST          1.0        518               0.28
+2  IT IS TRYING SOME, BUT NOT HARD ENOUGH          2.0       1097                0.6
+3              IT IS HARDLY TRYING AT ALL          3.0        193               0.11
+
+
+
+S235.Q19 IN THE ARMY, SOME JOBS ARE NATURALLY HARDER AND MORE DANGEROUS THAN OTHERS AND THE ARMY HAS TO PUT MEN WHERE IT THINKS THEY ARE NEEDED. DO YOU THINK THE ARMY IS TRYING ITS BEST TO SEE THAT THE MEN WHO HAVE THE HARD AND DANGEROUS JOBS GET THE SPECIAL CONS
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0         26               0.01
+1              YES, IT IS TRYING ITS BEST          1.0        556                0.3
+2  IT IS TRYING SOME, BUT NOT HARD ENOUGH          2.0        898               0.49
+3              IT IS HARDLY TRYING AT ALL          3.0        344               0.19
+
+
+
+S235.Q20 HOW RESENTFUL DO YOU YOURSELF FEEL ABOUT TROOPS WHO HAVE JOBS IN THE UNITED STATES?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0         45               0.02
+1        VERY RESENTFUL          1.0        259               0.14
+2      FAIRLY RESENTFUL          2.0        481               0.26
+3      NOT SO RESENTFUL          3.0        486               0.27
+4  NOT RESENTFUL AT ALL          4.0        553                0.3
+
+
+
+S235.Q21 IN GENERAL, HOW WOULD YOU SAY YOU FEEL MOST OF THE TIME, IN GOOD SPIRITS OR IN LOW SPIRITS?
+                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                  NO ANSWER          0.0          8                0.0
+1                                               I AM USUALLY IN GOOD SPIRITS          1.0        463               0.25
+2  I AM IN GOOD SPIRITS SOME OF THE TIME AND IN LOW SPIRITS SOME OF THE TIME          2.0       1055               0.58
+3                                                I AM USUALLY IN LOW SPIRITS          3.0        298               0.16
+
+
+
+S235.Q22 WHAT IS YOUR BEST GUESS AS TO HOW MUCH LONGER YOU WILL BE IN THE ARMY BEFORE YOU ARE DISCHARGED?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0        180                0.1
+1   LESS THAN 2 MONTHS          1.0         52               0.03
+2     2 TO LESS THAN 4          2.0        191                0.1
+3     4 TO LESS THAN 6          3.0        121               0.07
+4     6 TO LESS THAN 8          4.0        455               0.25
+5    8 TO LESS THAN 10          5.0        152               0.08
+6   10 TO LESS THAN 12          6.0         49               0.03
+7   12 TO LESS THAN 15          7.0        437               0.24
+8   15 TO LESS THAN 18          8.0         22               0.01
+9   18 TO LESS THAN 24          9.0         66               0.04
+10  24 TO LESS THAN 30         10.0         69               0.04
+11  30 MONTHS AND OVER         11.0         30               0.02
+
+
+
+S235.Q23 DO YOU THINK WHEN YOU ARE DISCHARGED YOU WILL GO BACK TO CIVILIAN LIFE WITH A FAVORABLE OR UNFAVORABLE ATTITUDE TOWARD THE ARMY?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0         16               0.01
+1      VERY FAVORABLE          1.0        204               0.11
+2    FAIRLY FAVORABLE          2.0        428               0.23
+3         ABOUT 50-50          3.0        749               0.41
+4  FAIRLY UNFAVORABLE          4.0        212               0.12
+5    VERY UNFAVORABLE          5.0        215               0.12
+
+
+
+S235.Q24 IN GENERAL, WHAT DO YOU THINK OF THE ARMY SCORE CARD PLAN (THE POINT SYSTEM)?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0         21               0.01
+1                      IT IS VERY GOOD          1.0        250               0.14
+2                    IT IS FAIRLY GOOD          2.0        784               0.43
+3                    IT IS NOT SO GOOD          3.0        457               0.25
+4                IT IS NOT GOOD AT ALL          4.0        277               0.15
+5  I DON'T KNOW ENOUGH ABOUT IT TO SAY          5.0         35               0.02
+
+
+
+S235.Q25 AS FAR AS YOU CAN TELL, HOW IS THE ARMY SCORE CARD PLAN (THE POINT SYSTEM) WORKING OUT UP TO NOW?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0         22               0.01
+1     VERY WELL          1.0        159               0.09
+2   PRETTY WELL          2.0        717               0.39
+3  PRETTY BADLY          3.0        449               0.25
+4    VERY BADLY          4.0        268               0.15
+5     UNDECIDED          5.0        209               0.11
+
+
+
+S235.Q26 WHAT IS YOUR BEST GUESS AS TO HOW MUCH LONGER YOU WILL HAVE TO SERVE SOMEWHERE OVERSEAS?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0        197               0.11
+1   LESS THAN 2 MONTHS          1.0        207               0.11
+2     2 TO LESS THAN 4          2.0        353               0.19
+3     4 TO LESS THAN 6          3.0        238               0.13
+4     6 TO LESS THAN 8          4.0        428               0.23
+5    8 TO LESS THAN 10          5.0        121               0.07
+6   10 TO LESS THAN 12          6.0         66               0.04
+7   12 TO LESS THAN 15          7.0        157               0.09
+8   15 TO LESS THAN 18          8.0          9                0.0
+9   18 TO LESS THAN 24          9.0         29               0.02
+10  24 TO LESS THAN 30         10.0         15               0.01
+11  30 MONTHS AND OVER         11.0          4                0.0
+
+
+
+S235.Q27 NOW THAT THE WAR IS OVER WHO DO YOU THINK THE ARMY SHOULD USE FOR OCCUPYING THE DEFEATED COUNTRIES?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0        149               0.08
+1  SOME ANSWER WRITTEN IN          1.0       1675               0.92
+
+
+
+S235.Q28 ALTHOUGH THE WAR IS OVER, THERE IS STILL A BIG JOB FOR THE ARMY TO DO IN OCCUPYING THE DEFEATED COUNTRIES AND IN COMPLETING THE JOB OF DEMOBILIZATION. HOW DO YOU FEEL ABOUT FURTHER SERVICE ON THESE JOBS?
+                                                    answer_label answer_value raw_counts relative_frequency
+0                                                      NO ANSWER          0.0         33               0.02
+1   I FEEL I HAVE ALREADY DONE MY SHARE AND SHOULD BE DISCHARGED          1.0       1422               0.78
+2    I FEEL I HAVE ALREADY DONE MY SHARE BUT AM READY TO DO MORE          2.0        323               0.18
+3  I DON'T FEEL I HAVE DONE MY SHARE YET AND AM READY TO DO MORE          3.0         46               0.03
+
+
+
+S235.Q29A NOW THAT THE WAR IS OVER, HOW LONG DO YOU THINK IT WILL TAKE TO GET ALL THE TROOPS IN EUROPE BACK TO THE U.S.? (NOT COUNTING THE MEN WHO ARE CHOSEN FOR OCCUPATION DUTY.)
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0        133               0.07
+1  LESS THAN 4 MONTHS          1.0         47               0.03
+2          4-6 MONTHS          2.0        324               0.18
+3         7-11 MONTHS          3.0        447               0.25
+4  12 MONTHS AND OVER          4.0        873               0.48
+
+
+
+S235.Q30A WHAT SORT OF OPINION DO YOU HAVE OF THE ENGLISH PEOPLE?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1      VERY FAVORABLE          1.0        411               0.23
+2    FAIRLY FAVORABLE          2.0        968               0.53
+3  RATHER UNFAVORABLE          3.0        293               0.16
+4    VERY UNFAVORABLE          4.0         81               0.04
+5           NO ANSWER          5.0         69               0.04
+
+
+
+S235.Q31 HOW LONG WERE YOU IN THE BRITISH ISLES?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0         62               0.03
+1         LESS THAN 2 MONTHS          1.0        194               0.11
+2           2 TO LESS THAN 3          2.0         86               0.05
+3           3 TO LESS THAN 4          3.0        122               0.07
+4           4 TO LESS THAN 5          4.0        100               0.05
+5           5 TO LESS THAN 6          5.0         58               0.03
+6           6 TO LESS THAN 7          6.0        156               0.09
+7           7 TO LESS THAN 8          7.0         36               0.02
+8          8 TO LESS THAN 12          8.0        226               0.12
+9         12 TO LESS THAN 18          9.0        255               0.14
+10        18 MONTHS AND OVER         10.0        188                0.1
+11  NO TIME (I WASN'T THERE)         11.0        341               0.19
+
+
+
+S235.Q32A WHAT SORT OF OPINION DO YOU HAVE OF THE FRENCH PEOPLE?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0        113               0.06
+1      VERY FAVORABLE          1.0        108               0.06
+2    FAIRLY FAVORABLE          2.0        701               0.38
+3  RATHER UNFAVORABLE          3.0        557               0.31
+4    VERY UNFAVORABLE          4.0        345               0.19
+
+
+
+S235.Q33 HOW MUCH TIME HAVE YOU SPENT IN FRANCE? (DON'T COUNT TIME SPENT IN OTHER COUNTRIES SUCH AS BELGIUM, HOLLAND, GERMANY, ETC.)?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0         67               0.04
+1         LESS THAN 2 MONTHS          1.0        295               0.16
+2           2 TO LESS THAN 3          2.0        266               0.15
+3           3 TO LESS THAN 4          3.0        172               0.09
+4           4 TO LESS THAN 5          4.0        115               0.06
+5           5 TO LESS THAN 6          5.0        117               0.06
+6           6 TO LESS THAN 7          6.0        126               0.07
+7           7 TO LESS THAN 8          7.0         90               0.05
+8          8 TO LESS THAN 12          8.0        293               0.16
+9         12 TO LESS THAN 18          9.0        169               0.09
+10        18 MONTHS AND OVER         10.0          1                0.0
+11  NO TIME (I WASN'T THERE)         11.0        113               0.06
+
+
+
+S235.Q34A "CONSIDERING EVERYTHING, THE FRENCH HAVE DONE AS GOOD A JOB AS POSSIBLE OF FIGHTING THIS WAR"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         73               0.04
+1        AGREE          1.0        836               0.46
+2     DISAGREE          2.0        915                0.5
+
+
+
+S235.Q34B "MOST FRENCH PEOPLE SINCERELY LIKE AMERICANS"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         85               0.05
+1        AGREE          1.0        921                0.5
+2     DISAGREE          2.0        818               0.45
+
+
+
+S235.Q34C "THE FRENCH NATION IS SO WEAK AND SPLIT UP THAT IT WILL NEVER AMOUNT TO ANYTHING AGAIN"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         90               0.05
+1        AGREE          1.0        597               0.33
+2     DISAGREE          2.0       1137               0.62
+
+
+
+S235.Q34D "MOST FRENCH PEOPLE UNDERSTAND AND APPRECIATE WHAT AMERICA HAS DONE TO HELP WIN THE WAR"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         85               0.05
+1        AGREE          1.0        941               0.52
+2     DISAGREE          2.0        798               0.44
+
+
+
+S235.Q34E "WE SHOULD DO EVERYTHING WE CAN TO HELP FRANCE GET BACK ON HER FEET AS SOON AS POSSIBLE"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        116               0.06
+1        AGREE          1.0        945               0.52
+2     DISAGREE          2.0        763               0.42
+
+
+
+S235.Q35 HOW DO YOU THINK WE WILL GET ALONG WITH ENGLAND AFTER THE WAR?
+                                                            answer_label answer_value raw_counts relative_frequency
+0                                                              NO ANSWER          0.0         31               0.02
+1                                            WE WILL GET ALONG VERY WELL          1.0        323               0.18
+2             WE WILL DISAGREE ABOUT SOME THINGS BUT MANAGE TO GET ALONG          2.0        962               0.53
+3  WE WILL HAVE SOME SERIOUS DISAGREEMENTS BUT WE WON'T FIGHT EACH OTHER          3.0        334               0.18
+4                   WE WILL VERY LIKELY FIGHT EACH OTHER SOONER OR LATER          4.0         51               0.03
+5                                                              UNDECIDED          5.0        123               0.07
+
+
+
+S235.Q36 HOW DO YOU THINK WE WILL GET ALONG WITH RUSSIA AFTER THE WAR?
+                                                            answer_label answer_value raw_counts relative_frequency
+0                                                              NO ANSWER          0.0         27               0.01
+1                                            WE WILL GET ALONG VERY WELL          1.0        322               0.18
+2             WE WILL DISAGREE ABOUT SOME THINGS BUT MANAGE TO GET ALONG          2.0        707               0.39
+3  WE WILL HAVE SOME SERIOUS DISAGREEMENTS BUT WE WON'T FIGHT EACH OTHER          3.0        360                0.2
+4                   WE WILL VERY LIKELY FIGHT EACH OTHER SOONER OR LATER          4.0        157               0.09
+5                                                              UNDECIDED          5.0        251               0.14
+
+
+
+S235.Q37A "CONSIDERING EVERYTHING, THE BRITISH HAVE DONE AS GOOD A JOB AS POSSIBLE OF FIGHTING THIS WAR"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         35               0.02
+1        AGREE          1.0       1519               0.83
+2     DISAGREE          2.0        270               0.15
+
+
+
+S235.Q37B "RUSSIA IS MORE INTERESTED IN DOMINATING OR CONTROLLING THE WORLD THAN SHE IS IN BUILDING A TRULY DEMOCRATIC WORLD"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        108               0.06
+1        AGREE          1.0        497               0.27
+2     DISAGREE          2.0       1219               0.67
+
+
+
+S235.Q37C "THE BRITISH WILL TRY AS MUCH AS POSSIBLE TO WORK OUT A JUST AND LASTING PEACE"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         75               0.04
+1        AGREE          1.0       1523               0.83
+2     DISAGREE          2.0        226               0.12
+
+
+
+S235.Q37D "CONSIDERING EVERYTHING, THE RUSSIANS HAVE DONE AS GOOD A JOB AS POSSIBLE OF FIGHTING THIS WAR"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         35               0.02
+1        AGREE          1.0       1749               0.96
+2     DISAGREE          2.0         40               0.02
+
+
+
+S235.Q37E "WE CAN COUNT ON RUSSIA TO DO EVERYTHING SHE CAN TO HELP US DEFEAT JAPAN"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         74               0.04
+1        AGREE          1.0       1617               0.89
+2     DISAGREE          2.0        133               0.07
+
+
+
+S235.Q37F "BRITAIN IS MORE INTERESTED IN DOMINATING OR CONTROLLING THE WORLD THAN SHE IS IN BUILDING A TRULY DEMOCRATIC WORLD"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         97               0.05
+1        AGREE          1.0        381               0.21
+2     DISAGREE          2.0       1346               0.74
+
+
+
+S235.Q37G "WE CAN COUNT ON ENGLAND TO DO EVERYTHING SHE CAN TO HELP US DEFEAT JAPAN"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         70               0.04
+1        AGREE          1.0       1398               0.77
+2     DISAGREE          2.0        356                0.2
+
+
+
+S235.Q37H "THE RUSSIANS WILL TRY AS MUCH AS POSSIBLE TO WORK OUT A JUST AND LASTING PEACE"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        135               0.07
+1        AGREE          1.0       1395               0.76
+2     DISAGREE          2.0        294               0.16
+
+
+
+S235.Q37I "MOST BRITISH PEOPLE UNDERSTAND AND APPRECIATE WHAT AMERICA HAS DONE TO HELP WIN THE WAR"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         56               0.03
+1        AGREE          1.0       1304               0.71
+2     DISAGREE          2.0        464               0.25
+
+
+
+S235.Q38 AFTER THE WAR, SOME OF OUR ALLIES WILL NEED HELP IN FEEDING THEIR PEOPLE. DO YOU THINK THE UNITED STATES SHOULD SEND FOOD TO THESE COUNTRIES EVEN IF IT MEANT THAT WE WOULD HAVE TO KEEP ON RATIONING FOOD IN OUR OWN COUNTRY FOR A WHILE TO DO IT?
+                                                                                                 answer_label answer_value raw_counts relative_frequency
+0                                                                                                   NO ANSWER          0.0         35               0.02
+1  WE SHOULD SEND FOOD AFTER THE WAR, EVEN IF WE HAVE TO KEEP ON RATIONING FOOD IN THE U.S. IN ORDER TO DO IT          1.0        928               0.51
+2         WE SHOULD NOT SEND FOOD IF IT MEANS WE HAVE TO KEEP ON RATIONING FOOD IN THE U.S. IN ORDER TO DO IT          2.0        861               0.47
+
+
+
+S235.Q39 AFTER THE WAR, SOME OF OUR ALLIES WILL NEED MONEY AND MATERIALS TO HELP THEM GET BACK ON THEIR FEET. DO YOU THINK WE SHOULD LET THEM HAVE MONEY AND MATERIALS TO HELP THEM GET BACK ON THEIR FEET, EVEN IF IT MEANT THAT WE SHOULD HAVE TO PAY HIGHER TAXES TO
+                                                                                       answer_label answer_value raw_counts relative_frequency
+0                                                                                         NO ANSWER          0.0         46               0.03
+1  WE SHOULD HELP THEM WITH MONEY AND MATERIALS AFTER THE WAR, EVEN IF IT MEANS HIGHER TAXES FOR US          1.0        539                0.3
+2    WE SHOULD NOT HELP THEM WITH MONEY AND MATERIALS AFTER THE WAR IF IT MEANS HIGHER TAXES FOR US          2.0       1239               0.68
+
+
+
+S235.Q40 AFTER THE WAR DO YOU THINK THE DIFFERENT COUNTRIES (LIKE THE UNITED STATES, RUSSIA, ENGLAND, CHINA, FRANCE, ETC.) SHOULD SET UP A PERMANENT ORGANIZATION OF NATIONS TO TRY TO SETTLE QUARRELS BETWEEN COUNTRIES AND TRY TO PREVENT WAR?
+           answer_label answer_value raw_counts relative_frequency
+0    NO CODE OR NO DATA          0.0          2                0.0
+1      SHOULD BE SET UP          1.0       1613               0.88
+2  SHOULD NOT BE SET UP          2.0         38               0.02
+3             UNDECIDED          3.0        151               0.08
+4             NO ANSWER          4.0         20               0.01
+
+
+
+S235.Q41 AFTER THE WAR DO YOU THINK THERE SHOULD BE A SPECIAL FORCE OF SOLDIERS FROM THE ARMIES OF A NUMBER OF DIFFERENT COUNTRIES THAT COULD BE SENT ANY PLACE THE INTERNATIONAL ORGANIZATION DECIDED THEY WERE NEEDED?
+                                                 answer_label answer_value raw_counts relative_frequency
+0                                                   NO ANSWER          0.0         23               0.01
+1     YES, THERE SHOULD BE AN INTERNATIONAL ARMY OF THAT KIND          1.0       1106               0.61
+2  NO, THERE SHOULD NOT BE AN INTERNATIONAL ARMY OF THAT KIND          2.0        279               0.15
+3                                                   UNDECIDED          3.0        416               0.23
+
+
+
+S235.Q42 WHICH DO YOU THINK WOULD BE THE BEST WAY FOR THE UNITED STATES TO TRY TO KEEP OUT OF WAR IN THE FUTURE?
+                                      answer_label answer_value raw_counts relative_frequency
+0                               NO CODE OR NO DATA          0.0          3                0.0
+1                        STAY OUT OF WORLD AFFAIRS          1.0        155               0.08
+2  JOIN A STRONG PERMANENT ORGANIZATION OF NATIONS          2.0       1221               0.67
+3                                   SOME OTHER WAY          3.0        114               0.06
+4                                        UNDECIDED          4.0        300               0.16
+5                                        NO ANSWER          5.0         31               0.02
+
+
+
+S235.Q43 DO YOU THINK THE UNITED STATES SHOULD JOIN A STRONG PERMANENT ORGANIZATION OF NATIONS, EVEN IF IT MEANS THAT THIS ORGANIZATION WOULD HAVE SOME SAY ABOUT HOW THE UNITED STATES DEALS WITH OTHER COUNTRIES?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0         23               0.01
+1       YES, I THINK THE U.S. SHOULD JOIN          1.0       1066               0.58
+2  NO, I DON'T THINK THE U.S. SHOULD JOIN          2.0        341               0.19
+3                               UNDECIDED          3.0        394               0.22
+
+
+
+S235.Q44 SUPPOSE THE U.S. HAD NOT BEEN ATTACKED BY JAPAN. DO YOU THINK THE UNITED STATES WOULD HAVE HAD TO GET INTO THIS WAR ANYWAY, OR DO YOU THINK WE COULD HAVE STAYED OUT?
+                                                 answer_label answer_value raw_counts relative_frequency
+0                                                   NO ANSWER          0.0         22               0.01
+1       WE COULD HAVE STAYED OUT, IF WE HAD NOT BEEN ATTACKED          1.0        171               0.09
+2  WE WOULD HAVE HAD TO GET IN THE WAR SOONER OR LATER ANYWAY          2.0       1553               0.85
+3                                                   UNDECIDED          3.0         78               0.04
+
+
+
+S235.Q45 DO YOU EVER GET THE FEELING THAT THIS WAR WAS NOT WORTH FIGHTING?
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0         24               0.01
+1                  VERY OFTEN          1.0        252               0.14
+2                   SOMETIMES          2.0        581               0.32
+3  ONLY ONCE IN A GREAT WHILE          3.0        390               0.21
+4                       NEVER          4.0        577               0.32
+
+
+
+S235.Q46 AFTER THE WAR IS OVER, DO YOU THINK THE UNITED STATES WILL BE A BETTER PLACE OR WORSE PLACE TO LIVE IN THAN IT WAS BEFORE THE WAR?
+                               answer_label answer_value raw_counts relative_frequency
+0                        NO CODE OR NO DATA          0.0          2                0.0
+1  BETTER AFTER THE WAR THAN BEFORE THE WAR          1.0        633               0.35
+2      SAME AFTER THE WAR AS BEFORE THE WAR          2.0        439               0.24
+3   WORSE AFTER THE WAR THAN BEFORE THE WAR          3.0        284               0.16
+4                                 UNDECIDED          4.0        441               0.24
+5                                 NO ANSWER          5.0         25               0.01
+
+
+
+S235.Q47A DO YOU THINK THE UNITED STATES WILL GET INTO ANOTHER BIG WAR WITHIN THE NEXT 25 YEARS?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1                 YES          1.0        353               0.19
+2                  NO          2.0        714               0.39
+3           UNDECIDED          3.0        729                0.4
+4           NO ANSWER          4.0         26               0.01
+
+
+
+S235.Q47B.1 IF YOU THINK THE U.S. WILL BE IN ANOTHER BIG WAR, WHO DO YOU THINK THE U.S. WILL BE FIGHTING AGAINST?
+  answer_label answer_value raw_counts relative_frequency
+0      ENGLAND          1.0         52               0.03
+1   NOT CHOSEN          2.0       1772               0.97
+
+
+
+S235.Q47B.2IF YOU THINK THE U.S. WILL BE IN ANOTHER BIG WAR, WHO DO YOU THINK THE U.S. WILL BE FIGHTING AGAINST?
+  answer_label answer_value raw_counts relative_frequency
+0       RUSSIA          1.0        314               0.17
+1   NOT CHOSEN          2.0       1510               0.83
+
+
+
+S235.Q47B.3IF YOU THINK THE U.S. WILL BE IN ANOTHER BIG WAR, WHO DO YOU THINK THE U.S. WILL BE FIGHTING AGAINST?
+  answer_label answer_value raw_counts relative_frequency
+0        CHINA          1.0         14               0.01
+1   NOT CHOSEN          2.0       1810               0.99
+
+
+
+S235.Q47B.4IF YOU THINK THE U.S. WILL BE IN ANOTHER BIG WAR, WHO DO YOU THINK THE U.S. WILL BE FIGHTING AGAINST?
+  answer_label answer_value raw_counts relative_frequency
+0       FRANCE          1.0         16               0.01
+1   NOT CHOSEN          2.0       1808               0.99
+
+
+
+S235.Q47B.5IF YOU THINK THE U.S. WILL BE IN ANOTHER BIG WAR, WHO DO YOU THINK THE U.S. WILL BE FIGHTING AGAINST?
+  answer_label answer_value raw_counts relative_frequency
+0      GERMANY          1.0         60               0.03
+1   NOT CHOSEN          2.0       1764               0.97
+
+
+
+S235.Q47B.6 IF YOU THINK THE U.S. WILL BE IN ANOTHER BIG WAR, WHO DO YOU THINK THE U.S. WILL BE FIGHTING AGAINST?
+  answer_label answer_value raw_counts relative_frequency
+0        JAPAN          1.0         65               0.04
+1   NOT CHOSEN          2.0       1759               0.96
+
+
+
+S235.Q47B.7IF YOU THINK THE U.S. WILL BE IN ANOTHER BIG WAR, WHO DO YOU THINK THE U.S. WILL BE FIGHTING AGAINST?
+    answer_label answer_value raw_counts relative_frequency
+0  OTHER COUNTRY          1.0         22               0.01
+1     NOT CHOSEN          2.0       1802               0.99
+
+
+
+S235.Q47B.8IF YOU THINK THE U.S. WILL BE IN ANOTHER BIG WAR, WHO DO YOU THINK THE U.S. WILL BE FIGHTING AGAINST?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0       1383               0.76
+1   NOT CHOSEN          2.0        441               0.24
+
+
+
+S235.Q48A READ THE TWO STATEMENTS BELOW AND CHECK WHICH ONE YOU THINK IS THE MORE IMPORTANT REASON WHY WE GOT INTO THE WAR.
+                                                                                      answer_label answer_value raw_counts relative_frequency
+0                                                                                        NO ANSWER          0.0        145               0.08
+1  "WE GOT INTO THIS WAR BECAUSE 'BIG BUSINESS' IN THE UNITED STATES WAS LOOKING FOR MORE PROFITS"          1.0        358                0.2
+2                                                  "WE GOT INTO THIS WAR BECAUSE WE WERE ATTACKED"          2.0       1321               0.72
+
+
+
+S235.Q48B NOW READ THESE TWO STATEMENTS AND CHECK WHICH ONE YOU THINK IS THE MORE IMPORTANT REASON WHY WE GOT INTO THE WAR.
+                                                                                      answer_label answer_value raw_counts relative_frequency
+0                                                                                        NO ANSWER          0.0        156               0.09
+1                                             "WE GOT INTO THIS WAR TO DESTROY NAZISM AND FASCISM"          1.0       1368               0.75
+2  "WE GOT INTO THIS WAR BECAUSE 'BIG BUSINESS' IN THE UNITED STATES WAS LOOKING FOR MORE PROFITS"          2.0        300               0.16
+
+
+
+S235.Q48C NOW CHECK WHICH ONE OF THESE TWO STATEMENTS YOU THINK IS THE MORE IMPORTANT REASON WHY WE GOT INTO THE WAR.
+                                           answer_label answer_value raw_counts relative_frequency
+0                                             NO ANSWER          0.0        225               0.12
+1  "WE GOT INTO THIS WAR TO DESTROY NAZISM AND FASCISM"          1.0        744               0.41
+2       "WE GOT INTO THIS WAR BECAUSE WE WERE ATTACKED"          2.0        855               0.47
+
+
+
+S235.Q49A READ THE TWO STATEMENTS BELOW AND CHECK THE ONE WHICH YOU THINK SHOULD BE THE MORE IMPORTANT PEACE AIM FOR THE UNITED STATES?
+                                                                        answer_label answer_value raw_counts relative_frequency
+0                                                                 NO CODE OR NO DATA          0.0          2                0.0
+1                   "TO SEE THAT THE NATIONS ORGANIZE TO PREVENT WARS IN THE FUTURE"          1.0       1214               0.67
+2  "TO SEE THAT THE UNITED STATES IS SO STRONG THAT NO NATIONS WOULD DARE ATTACK US"          2.0        536               0.29
+3                                                                          NO ANSWER          3.0         72               0.04
+
+
+
+S235.Q49B NOW READ THESE TWO STATEMENTS AND CHECK THE ONE YOU THINK SHOULD BE THE MORE IMPORTANT PEACE AIM FOR THE UNITED STATES.
+                                                                    answer_label answer_value raw_counts relative_frequency
+0                                                             NO CODE OR NO DATA          0.0          2                0.0
+1  "TO SEE THAT THE PEOPLE IN ALL COUNTRIES HAVE THE RIGHT TO GOVERN THEMSELVES"          1.0        659               0.36
+2               "TO SEE THAT THE NATIONS ORGANIZE TO PREVENT WARS IN THE FUTURE"          2.0       1085               0.59
+3                                                                      NO ANSWER          3.0         78               0.04
+
+
+
+S235.Q49C NOW CHECK WHICH ONE OF THESE TWO STATEMENTS SHOULD BE THE MORE IMPORTANT PEACE AIM FOR THE UNITED STATES.
+                                                                        answer_label answer_value raw_counts relative_frequency
+0                                                                          NO ANSWER          0.0        133               0.07
+1      "TO SEE THAT THE PEOPLE IN ALL COUNTRIES HAVE THE RIGHT TO GOVERN THEMSELVES"          1.0       1004               0.55
+2  "TO SEE THAT THE UNITED STATES IS SO STRONG THAT NO NATIONS WOULD DARE ATTACK US"          2.0        687               0.38
+
+
+
+S235.Q50A SINCE D-DAY (6 JUNE 1944) HAVE YOU BEEN IN GERMANY AT ANY TIME? IF YES, HOW MANY WEEKS ALTOGETHER SINCE 6 JUNE 1944?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0        129               0.07
+1    LESS THAN 4 WEEKS          1.0         89               0.05
+2                  4-7          2.0        297               0.16
+3                 8-11          3.0        155               0.08
+4                12-15          4.0        204               0.11
+5                16-19          5.0        139               0.08
+6                20-23          6.0         97               0.05
+7                24-27          7.0         79               0.04
+8                28-31          8.0         34               0.02
+9                32-35          9.0         23               0.01
+10    36 WEEKS OR MORE         10.0         45               0.02
+11  NO TIME IN GERMANY         11.0        533               0.29
+
+
+
+S235.Q50B SINCE VE-DAY (8 MAY 1945) HAVE YOU BEEN IN GERMANY AT ANY TIME? IF YES, HOW MANY WEEKS ALTOGETHER SINCE 8 MAY 1945?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0        116               0.06
+1    LESS THAN 2 WEEKS          1.0         51               0.03
+2                    2          2.0         81               0.04
+3                    3          3.0        104               0.06
+4                    4          4.0        174                0.1
+5                    5          5.0         79               0.04
+6                    6          6.0         84               0.05
+7                    7          7.0         56               0.03
+8                 8-11          8.0        204               0.11
+9                12-15          9.0        273               0.15
+10   16 WEEKS AND OVER         10.0        114               0.06
+11  NO TIME IN GERMANY         11.0        488               0.27
+
+
+
+S235.Q51 CHECK THE ONE STATEMENT BELOW THAT COMES CLOSEST TO EXPRESSING HOW YOU FEEL TOWARD GERMAN SOLDIERS.
+                                                                      answer_label answer_value raw_counts relative_frequency
+0                                                                        NO ANSWER          0.0         58               0.03
+1                                   I HAVE A STRONG HATRED TOWARDS GERMAN SOLDIERS          1.0        379               0.21
+2                             I HAVE A GREAT DISLIKE FOR THEM, BUT DON'T HATE THEM          2.0        614               0.34
+3  SOMETIMES I HAVE STRONG FEELINGS AGAINST THEM, SOMETIMES NO PARTICULAR FEELINGS          3.0        339               0.19
+4                                      I DON'T HAVE ANY STRONG FEELINGS ABOUT THEM          4.0        100               0.05
+5           I FEEL THEY ARE LIKE US AND HAVE DONE WHAT THEY THOUGHT WAS THEIR DUTY          5.0        334               0.18
+
+
+
+S235.Q52 CHECK THE ONE STATEMENT BELOW THAT COMES CLOSEST TO EXPRESSING HOW YOU FEEL TOWARD GERMAN COMMON PEOPLE.
+                                                                      answer_label answer_value raw_counts relative_frequency
+0                                                                        NO ANSWER          0.0         74               0.04
+1                              I HAVE A STRONG HATRED TOWARDS GERMAN COMMON PEOPLE          1.0        192               0.11
+2                             I HAVE A GREAT DISLIKE FOR THEM, BUT DON'T HATE THEM          2.0        632               0.35
+3  SOMETIMES I HAVE STRONG FEELINGS AGAINST THEM, SOMETIMES NO PARTICULAR FEELINGS          3.0        445               0.24
+4                                      I DON'T HAVE ANY STRONG FEELINGS ABOUT THEM          4.0        205               0.11
+5           I FEEL THEY ARE LIKE US AND HAVE DONE WHAT THEY THOUGHT WAS THEIR DUTY          5.0        276               0.15
+
+
+
+S235.Q53 DO YOU THINK THE UNITED NATIONS SHOULD KEEP AN OCCUPATION FORCE IN GERMANY FOR SOME YEARS AFTER THE WAR, EVEN IF IT MEANS THE U.S. WILL HAVE TO FURNISH A CONSIDERABLE NUMBER OF TROOPS IN ORDER TO DO IT?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         32               0.02
+1          YES          1.0       1342               0.74
+2           NO          2.0        193               0.11
+3     NOT SURE          3.0        257               0.14
+
+
+
+S235.Q54A HOW MANY OF THE AMERICAN SOLDIERS (IN THAT PART OF GERMANY YOU HAVE BEEN IN) DO YOU THINK HAVE HAD SOME FRIENDLY CONTACT WITH GERMAN GIRLS? (FOR EXAMPLE, TALKING, JOKING OR FLIRTING WITH THEM, ETC.)
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0         74               0.04
+1          ALMOST NONE OF THE SOLDIERS HAVE          1.0         34               0.02
+2                        A FEW OF THEM HAVE          2.0        293               0.16
+3                   ABOUT HALF OF THEM HAVE          3.0        229               0.13
+4                         MOST OF THEM HAVE          4.0        479               0.26
+5                   ALMOST ALL OF THEM HAVE          5.0        294               0.16
+6  I HAVE NOT BEEN IN GERMANY ENOUGH TO SAY          6.0        421               0.23
+
+
+
+S235.Q54B HOW MANY OF THE AMERICAN SOLDIERS THERE DO YOU THINK HAVE HAD SOME FRIENDLY CONTACT WITH OLDER GERMAN CIVILIANS? (FOR EXAMPLE, TALKING WITH THEM, PASSING THE TIME OF DAY, ETC.)
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0         79               0.04
+1          ALMOST NONE OF THE SOLDIERS HAVE          1.0        163               0.09
+2                        A FEW OF THEM HAVE          2.0        546                0.3
+3                   ABOUT HALF OF THEM HAVE          3.0        205               0.11
+4                         MOST OF THEM HAVE          4.0        251               0.14
+5                   ALMOST ALL OF THEM HAVE          5.0        125               0.07
+6  I HAVE NOT BEEN IN GERMANY ENOUGH TO SAY          6.0        455               0.25
+
+
+
+S235.Q54C HOW ABOUT YOU YOURSELF - HOW OFTEN HAVE YOU HAD SOME FRIENDLY CONTACT WITH OLDER GERMAN CIVILIANS?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0         66               0.04
+1                 VERY OFTEN          1.0        121               0.07
+2               FAIRLY OFTEN          2.0        250               0.14
+3             NOT VERY OFTEN          3.0        410               0.22
+4               ALMOST NEVER          4.0        557               0.31
+5  I HAVEN'T BEEN IN GERMANY          5.0        420               0.23
+
+
+
+S235.Q55 IN THE THREE QUESTIONS ABOVE WERE SOME EXAMPLES OF SOCIAL CONTACTS THAT AMERICAN SOLDIERS MAY HAVE WITH GERMAN CIVILIANS. DO YOU PERSONALLY BELIEVE THERE ARE GOOD REASONS FOR NOT HAVING SUCH CONTACTS WITH GERMAN CIVILIANS?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0        274               0.15
+1       YES, I THINK THERE ARE GOOD REASONS          1.0        768               0.42
+2  NO, I DON'T THINK THERE ARE GOOD REASONS          2.0        782               0.43
+
+
+
+S235.Q56 DO YOU THINK THAT THE ORDINARY GERMAN PEOPLE ARE TO BLAME FOR STARTING THE WAR, OR DO YOU THINK THAT IT IS REALLY JUST THE GROUP OF NAZI MILITARISTIC LEADERS WHO ARE TO BLAME?
+                                                                                       answer_label answer_value raw_counts relative_frequency
+0                                                                                         NO ANSWER          0.0         53               0.03
+1                    ALMOST ALL OF THE ORDINARY GERMAN PEOPLE ARE TO BLAME AS WELL AS THEIR LEADERS          1.0        397               0.22
+2  MOST OF THE ORDINARY GERMANS ARE TO BLAME, BUT SOME OF THEM COULDN'T HELP WHAT THEIR LEADERS DID          2.0        719               0.39
+3          FEW OF THE ORDINARY GERMAN PEOPLE ARE TO BLAME, IT WAS MOSTLY THE FAULT OF THEIR LEADERS          3.0        517               0.28
+4                 ALMOST NONE OF THE ORDINARY GERMAN PEOPLE ARE TO BLAME, IT WAS JUST THEIR LEADERS          4.0        138               0.08
+
+
+
+S235.Q57A BREAK GERMANY UP INTO SMALLER STATES?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         52               0.03
+1       SHOULD          1.0        902               0.49
+2   SHOULD NOT          2.0        416               0.23
+3   DON'T KNOW          3.0        454               0.25
+
+
+
+S235.Q57B PREVENT THE GERMANS FROM REBUILDING THEIR STEEL, CHEMICAL, AND AUTOMOTIVE INDUSTRIES?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         49               0.03
+1       SHOULD          1.0        935               0.51
+2   SHOULD NOT          2.0        592               0.32
+3   DON'T KNOW          3.0        248               0.14
+
+
+
+S235.Q57C MAKE GERMAN LABOR REBUILD DEVASTATED AREAS IN OTHER COUNTRIES AT THE WAGES USUALLY PAID PRISONERS OF WAR?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         44               0.02
+1       SHOULD          1.0       1448               0.79
+2   SHOULD NOT          2.0        139               0.08
+3   DON'T KNOW          3.0        193               0.11
+
+
+
+S235.Q57D CLOSELY SUPERVISE AND INSPECT THE GERMAN SCHOOLS AND COLLEGES FOR YEARS TO COME?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         41               0.02
+1       SHOULD          1.0       1681               0.92
+2   SHOULD NOT          2.0         47               0.03
+3   DON'T KNOW          3.0         55               0.03
+
+
+
+S235.Q57E GIVE EMERGENCY RELIEF IN SUCH THINGS AS FOOD, CLOTHING, FUEL, MEDICAL AID, WHERE THE GERMANS CANNOT SUPPLY THESE THINGS THEMSELVES?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         62               0.03
+1       SHOULD          1.0        939               0.51
+2   SHOULD NOT          2.0        531               0.29
+3   DON'T KNOW          3.0        292               0.16
+
+
+
+S235.Q57F KILL OR PUT IN PRISON FOR LIFE ALL THE BIGSHOT NAZI LEADERS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         43               0.02
+1       SHOULD          1.0       1716               0.94
+2   SHOULD NOT          2.0         10               0.01
+3   DON'T KNOW          3.0         55               0.03
+
+
+
+S235.Q57G KILL OR PUT IN PRISON FOR LIFE ALL THE LITTLE NAZI LEADERS WHO HELD LOWER POSITIONS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         51               0.03
+1       SHOULD          1.0       1320               0.72
+2   SHOULD NOT          2.0        174                0.1
+3   DON'T KNOW          3.0        279               0.15
+
+
+
+S235.Q58 ABOUT HOW MANY OF THE GERMAN PEOPLE DO YOU THINK CAN BE EDUCATED AWAY FROM NAZISM AND TAUGHT TO REALLY THINK AND ACT LIKE DEMOCRATIC PEOPLE?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         52               0.03
+1   ALMOST ALL OF THEM          1.0        245               0.13
+2         MOST OF THEM          2.0        809               0.44
+3   ABOUT HALF OF THEM          3.0        451               0.25
+4          FEW OF THEM          4.0        221               0.12
+5  ALMOST NONE OF THEM          5.0         46               0.03
+
+
+
+S235.Q59 DO YOU THINK GERMANY WILL EVER AGAIN BE A NATION THAT WE CAN TRUST AND TREAT AS AN EQUAL?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         37               0.02
+1          YES          1.0        461               0.25
+2           NO          2.0        728                0.4
+3   DON'T KNOW          3.0        598               0.33
+
+
+
+S235.Q60A TIME TALKING WITH CHILDREN?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          8                0.0
+1   LESS THAN 2 HOURS          1.0        152               0.08
+2           2-5 HOURS          2.0        113               0.06
+3    6 HOURS AND OVER          3.0         69               0.04
+4             NO TIME          4.0        872               0.48
+5           NO ANSWER          5.0        610               0.33
+
+
+
+S235.Q60B TIME TALKING WITH GIRLS?
+          answer_label answer_value raw_counts relative_frequency
+0   NO CODE OR NO DATA          0.0          2                0.0
+1    LESS THAN 2 HOURS          1.0        104               0.06
+2                  2-3          2.0         78               0.04
+3                  4-5          3.0         42               0.02
+4                  6-7          4.0         29               0.02
+5                  8-9          5.0         15               0.01
+6                10-11          6.0         19               0.01
+7                12-15          7.0         20               0.01
+8                16-19          8.0          4                0.0
+9                20-23          9.0          6                0.0
+10   24 HOURS AND OVER         10.0         41               0.02
+11             NO TIME         11.0        867               0.48
+12           NO ANSWER         12.0        597               0.33
+
+
+
+S235.Q60C TIME TALKING WITH EITHER MEN OR OLDER WOMEN?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0        604               0.33
+1   LESS THAN 2 HOURS          1.0        137               0.08
+2                 2-3          2.0         61               0.03
+3                 4-5          3.0         41               0.02
+4                 6-7          4.0         24               0.01
+5                 8-9          5.0          5                0.0
+6               10-11          6.0         13               0.01
+7               12-15          7.0         10               0.01
+8               16-19          8.0          2                0.0
+9   24 HOURS AND OVER         10.0         14               0.01
+10            NO TIME         11.0        913                0.5
+
+
+
+S235.Q61 DO YOU SPEAK GERMAN?
+                                                answer_label answer_value raw_counts relative_frequency
+0                                                  NO ANSWER          0.0         40               0.02
+1  ONLY ENOUGH TO GREET PEOPLE, ASK DIRECTIONS, AND SO FORTH          1.0        413               0.23
+2             ENOUGH TO HAVE VERY SHORT SIMPLE CONVERSATIONS          2.0        263               0.14
+3                     ENOUGH TO TALK A LITTLE ABOUT THE NEWS          3.0         40               0.02
+4                ENOUGH FOR NEARLY ANY ORDINARY CONVERSATION          4.0         71               0.04
+5                          ALMOST AS WELL AS I SPEAK ENGLISH          5.0         17               0.01
+6                                                 NOT AT ALL          6.0        980               0.54
+
+
+
+S235.Q62 WHAT SORT OF OPINION DO YOU HAVE OF THE GERMAN PEOPLE?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0         98               0.05
+1      VERY FAVORABLE          1.0         60               0.03
+2    FAIRLY FAVORABLE          2.0        793               0.43
+3  RATHER UNFAVORABLE          3.0        637               0.35
+4    VERY UNFAVORABLE          4.0        236               0.13
+
+
+
+S235.Q65A LEAVING ASIDE FOR THE MOMENT THE FACT THAT THEY ARE OUR ENEMIES OR ALLIES, WHICH ONE OF THE FOLLOWING DO YOU LIKE BEST JUST AS PEOPLE?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0        231               0.13
+1   THE FRENCH PEOPLE          1.0        306               0.17
+2   THE GERMAN PEOPLE          2.0        364                0.2
+3  THE ENGLISH PEOPLE          3.0        923               0.51
+
+
+
+S235.Q66A HAVE ANY OF THE GERMANS YOU HAVE MET TRIED TO TELL YOU THE GERMAN SIDE OF THE CASE ABOUT ATROCITIES, WHO WAS RESPONSIBLE FOR THE WAR, AND SO FORTH?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        321               0.18
+1          YES          1.0        417               0.23
+2           NO          2.0       1086                0.6
+
+
+
+S235.Q66B DID YOU FEEL YOURSELF IN AGREEMENT WITH ANY OF THE POINTS THEY MADE?
+                                     answer_label answer_value raw_counts relative_frequency
+0                                       NO ANSWER          0.0        584               0.32
+1                                             YES          1.0        166               0.09
+2                                              NO          2.0        350               0.19
+3  NONE OF THEM TALKED WITH ME ABOUT THESE THINGS          3.0        724                0.4
+
+
+
+S235.Q66C DID YOU TRY TO ANSWER ANY OF THE POINTS THEY MADE?
+                                     answer_label answer_value raw_counts relative_frequency
+0                                       NO ANSWER          0.0        550                0.3
+1                                             YES          1.0        181                0.1
+2                                              NO          2.0        329               0.18
+3  NONE OF THEM TALKED WITH ME ABOUT THESE THINGS          3.0        764               0.42
+
+
+
+S235.Q66D WHAT LANGUAGE WAS USED IN THESE CONVERSATIONS?
+                                   answer_label answer_value raw_counts relative_frequency
+0                                     NO ANSWER          0.0        342               0.19
+1                                MOSTLY ENGLISH          1.0        152               0.08
+2                                 MOSTLY GERMAN          2.0         89               0.05
+3               A MIXTURE OF ENGLISH AND GERMAN          3.0        256               0.14
+4                           SOME OTHER LANGUAGE          4.0         10               0.01
+5  NONE OF THEM TALKED TO ME ABOUT THESE THINGS          5.0        975               0.53
+
+
+
+S235.Q67 DO YOU THINK THAT THE AMERICAN MILITARY GOVERNMENT IS TOO TOUGH OR NOT TOUGH ENOUGH ON THE ORDINARY GERMANS?
+       answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER          0.0        115               0.06
+1         TOO TOUGH          1.0         11               0.01
+2  NOT TOUGH ENOUGH          2.0        819               0.45
+3       ABOUT RIGHT          3.0        592               0.32
+4         UNDECIDED          4.0        287               0.16
+
+
+
+S235.Q68 HOW MUCH IS DONE IN YOUR OUTFIT TO KEEP MEN INFORMED ABOUT THE NEWS AND WHAT IT MEANS?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                NO CODE OR NO DATA          0.0          2                0.0
+1  AS MUCH AS POSSIBLE IS DONE TO KEEP MEN INFORMED          1.0        713               0.39
+2       QUITE A BIT IS DONE, BUT MORE COULD BE DONE          2.0        471               0.26
+3     A LOT MORE COULD BE DONE TO KEEP MEN INFORMED          3.0        569               0.31
+4                                         NO ANSWER          4.0         69               0.04
+
+
+
+S235.Q69 DURING THE LAST FEW MONTHS, ABOUT HOW OFTEN HAS YOUR UNIT HAD TALKS AND DISCUSSIONS ON DUTY TIME ABOUT HOW THE WAR IS GOING, WHAT THE WAR IS ALL ABOUT, AND TOPICS LIKE THAT?
+                                        answer_label answer_value raw_counts relative_frequency
+0                                 NO CODE OR NO DATA          0.0          3                0.0
+1                                  ABOUT ONCE A WEEK          1.0        640               0.35
+2                         TWO OR THREE TIMES A MONTH          2.0        237               0.13
+3                                 ABOUT ONCE A MONTH          3.0        223               0.12
+4                             LESS THAN ONCE A MONTH          4.0        298               0.16
+5  WE NEVER HAVE ANY TALKS OR DISCUSSIONS ON THE WAR          5.0        300               0.16
+6                                          NO ANSWER          6.0        123               0.07
+
+
+
+S235.Q70A HAVE YOU HEARD OR READ ANYTHING ABOUT THE SAN FRANCISCO CONFERENCE?
+                                     answer_label answer_value raw_counts relative_frequency
+0                              NO CODE OR NO DATA          0.0          4                0.0
+1    YES, HAVE HEARD OR READ QUITE A BIT ABOUT IT          1.0        733                0.4
+2  HAVE HEARD OF IT, BUT DON'T KNOW MUCH ABOUT IT          2.0        942               0.52
+3                      HAVEN'T HEARD OF IT AT ALL          3.0         71               0.04
+4                                       NO ANSWER          4.0         74               0.04
+
+
+
+S235.Q70B AS YOU UNDERSTAND IT, WHICH OF THE FOLLOWING STATEMENTS BEST DESCRIBES THE SAN FRANCISCO CONFERENCE?
+                                                                                                         answer_label answer_value raw_counts relative_frequency
+0                                                                                                           NO ANSWER          0.0        191                0.1
+1  A CONFERENCE OF STALIN, CHURCHILL, ATLEE, AND TRUMAN TO DISCUSS THE FUTURE COURSE OF THE WAR AND MAKE PLANS FOR IT          1.0        177                0.1
+2                              A CONFERENCE OF LEADING U.S. STATESMEN AND PUBLIC FIGURES TO DISCUSS NATIONAL PROBLEMS          2.0         68               0.04
+3        A CONFERENCE OF REPRESENTATIVES OF THE UNITED NATIONS TO SET UP PLANS FOR A POST-WAR ORGANIZATION OF NATIONS          3.0       1065               0.58
+4                                                        HAVEN'T ANY IDEA WHICH OF THESE STATEMENTS BEST DESCRIBES IT          4.0        323               0.18
+
+
+
+S235.Q72 DO YOU THINK YOU YOURSELF WILL JOIN SOME SORT OF A VETERANS, ORGANIZATION AFTER THE WAR?
+                                     answer_label answer_value raw_counts relative_frequency
+0                                       NO ANSWER          0.0        116               0.06
+1                                             YES          1.0        766               0.42
+2                                              NO          2.0        319               0.17
+3  I HAVE ALREADY JOINED A VETERANS, ORGANIZATION          3.0         39               0.02
+4                                       UNDECIDED          4.0        584               0.32
+
+
+
+S235.Q74A ABOUT WHAT KIND OF WORK YOU SHOULD GO INTO AFTER THE WAR?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0         90               0.05
+1         WORRY A LOT          1.0        308               0.17
+2      WORRY A LITTLE          2.0        824               0.45
+3  ALMOST NEVER WORRY          3.0        602               0.33
+
+
+
+S235.Q74B ABOUT WHETHER YOU WILL BE ABLE TO GET A JOB AFTER THE WAR?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0         95               0.05
+1         WORRY A LOT          1.0        340               0.19
+2      WORRY A LITTLE          2.0        634               0.35
+3  ALMOST NEVER WORRY          3.0        755               0.41
+
+
+
+S235.Q74C ABOUT WHETHER YOU AND YOUR WIFE OR SWEETHEART AFTER THE WAR WILL BE ABLE TO GET ALONG TOGETHER AS WELL AS BEFORE THE WAR?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0        150               0.08
+1         WORRY A LOT          1.0        190                0.1
+2      WORRY A LITTLE          2.0        348               0.19
+3  ALMOST NEVER WORRY          3.0       1136               0.62
+
+
+
+S235.Q74D ABOUT WHETHER YOU WILL BE ABLE TO SETTLE DOWN WHEN YOU GET BACK TO CIVILIAN LIFE?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0        103               0.06
+1         WORRY A LOT          1.0        158               0.09
+2      WORRY A LITTLE          2.0        522               0.29
+3  ALMOST NEVER WORRY          3.0       1041               0.57
+
+
+
+S235.Q74E ABOUT WHETHER YOUR FAMILY AND FRIENDS WILL THINK YOU DID WELL IN THE ARMY?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0        106               0.06
+1         WORRY A LOT          1.0         50               0.03
+2      WORRY A LITTLE          2.0        192               0.11
+3  ALMOST NEVER WORRY          3.0       1476               0.81
+
+
+
+S235.Q75 AFTER YOU GO BACK TO CIVILIAN LIFE, DO YOU THINK YOU WILL VOTE MORE OFTEN OR LESS OFTEN THAN YOU DID BEFORE THE WAR?
+                              answer_label answer_value raw_counts relative_frequency
+0                                NO ANSWER          0.0        137               0.08
+1  THINK I WILL VOTE MORE OFTEN THAN I DID          1.0        517               0.28
+2  THINK I WILL VOTE LESS OFTEN THAN I DID          2.0         28               0.02
+3  ABOUT THE SAME AMOUNT AS BEFORE THE WAR          3.0        508               0.28
+4   I WAS TOO YOUNG TO VOTE BEFORE THE WAR          4.0        634               0.35
+
+
+
+S235.Q76 AFTER YOU GO BACK TO CIVILIAN LIFE, DO YOU THINK YOU WILL PROBABLY BE MORE INTERESTED OR LESS INTERESTED THAN YOU WERE BEFORE THE WAR IN READING AND FOLLOWING THE NEWS ABOUT WHAT THE GOVERNMENT IS DOING, WHAT PROBLEMS AND ISSUES ARE BEING DISCUSSED IN CO
+                                                               answer_label answer_value raw_counts relative_frequency
+0                                                                 NO ANSWER          0.0         96               0.05
+1          THINK I'LL PROBABLY BE MORE INTERESTED THAN I WAS BEFORE THE WAR          1.0       1289               0.71
+2  THINK I'LL PROBABLY TAKE ABOUT THE SAME INTEREST AS I DID BEFORE THE WAR          2.0        381               0.21
+3          THINK I'LL PROBABLY BE LESS INTERESTED THAN I WAS BEFORE THE WAR          3.0         58               0.03
+
+
+
+S235.Q77 ABOUT HOW MANY OF THE U.S. GOVERNMENT LEADERS DO YOU THINK WILL TRY TO DO ALL THEY CAN TO SEE THAT DISCHARGED SOLDIERS GET A SQUARE DEAL?
+                                     answer_label answer_value raw_counts relative_frequency
+0                                       NO ANSWER          0.0         64               0.04
+1        MOST OF THEM WILL TRY TO DO ALL THEY CAN          1.0        728                0.4
+2  ABOUT HALF OF THEM WILL TRY AND HALF WON'T TRY          2.0        512               0.28
+3                     ONLY A FEW OF THEM WILL TRY          3.0        375               0.21
+4                                       UNDECIDED          4.0        145               0.08
+
+
+
+S235.Q78 ABOUT HOW MANY OF THE LEADERS OF BUSINESS AND INDUSTRY DO YOU THINK WILL TRY TO DO ALL THEY CAN TO SEE THAT DISCHARGED SOLDIERS GET A SQUARE DEAL?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0         77               0.04
+1    MOST OF THEM WILL TRY TO DO ALL THEY CAN          1.0        431               0.24
+2  ABOUT HALF OF THEM WILL AND HALF WON'T TRY          2.0        689               0.38
+3                 ONLY A FEW OF THEM WILL TRY          3.0        457               0.25
+4                                   UNDECIDED          4.0        170               0.09
+
+
+
+S235.Q79 ABOUT HOW MANY OF THE LEADERS OF LABOR UNIONS DO YOU THINK WILL TRY TO DO ALL THEY CAN TO SEE THAT DISCHARGED SOLDIERS GET A SQUARE DEAL?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0         80               0.04
+1    MOST OF THEM WILL TRY TO DO ALL THEY CAN          1.0        485               0.27
+2  ABOUT HALF OF THEM WILL AND HALF WON'T TRY          2.0        514               0.28
+3                 ONLY A FEW OF THEM WILL TRY          3.0        489               0.27
+4                                   UNDECIDED          4.0        256               0.14
+
+
+
+S235.Q80 AFTER THE WAR DO YOU THINK THAT MOST SOLDIERS WILL FIND IT EASY OR HARD TO GET THE KIND OF JOBS THEY WANT?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         71               0.04
+1    VERY EASY          1.0         27               0.01
+2  FAIRLY EASY          2.0        277               0.15
+3  FAIRLY HARD          3.0        863               0.47
+4    VERY HARD          4.0        423               0.23
+5    UNDECIDED          5.0        163               0.09
+
+
+
+S235.Q81 HOW ABOUT YOU YOURSELF, DO YOU THINK YOU WILL FIND IT EASY OR HARD TO GET THE KIND OF JOB YOU WANT?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         80               0.04
+1    VERY EASY          1.0        371                0.2
+2  FAIRLY EASY          2.0        526               0.29
+3  FAIRLY HARD          3.0        458               0.25
+4    VERY HARD          4.0        184                0.1
+5    UNDECIDED          5.0        205               0.11
+
+
+
+S235.Q82 AFTER THE WAR, DO YOU THINK SOLDIERS SHOULD BE GIVEN FIRST CHOICE OF THE JOBS THAT ARE OPEN, OR DO YOU THINK EVERYBODY SHOULD HAVE AN EQUAL CHANCE TO GET JOBS?
+                            answer_label answer_value raw_counts relative_frequency
+0                              NO ANSWER          0.0         80               0.04
+1       SOLDIERS SHOULD GET FIRST CHOICE          1.0       1179               0.65
+2  EVERYBODY SHOULD HAVE AN EQUAL CHANCE          2.0        426               0.23
+3                        SOME OTHER IDEA          3.0         71               0.04
+4                              UNDECIDED          4.0         68               0.04
+
+
+
+S235.Q83 DO YOU EXPECT WE PROBABLY SHALL HAVE A WIDESPREAD DEPRESSION IN THE UNITED STATES WITHIN 10 YEARS AFTER THE WAR IS OVER, OR DO YOU THINK WE PROBABLY WILL AVOID HAVING ONE?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0         87               0.05
+1  WE WILL PROBABLY HAVE A DEPRESSION          1.0        802               0.44
+2   WE WILL PROBABLY AVOID HAVING ONE          2.0        471               0.26
+3                           UNDECIDED          3.0        464               0.25
+
+
+
+S235.Q84 ARE THERE ANY IMPORTANT CHANGES THAT YOU THINK SHOULD BE MADE TO IMPROVE OUR AMERICAN WAY OF LIFE AFTER THE WAR?
+                                   answer_label answer_value raw_counts relative_frequency
+0                                     NO ANSWER          0.0         99               0.05
+1           NO IMPORTANT CHANGES SHOULD BE MADE          1.0        306               0.17
+2        A FEW IMPORTANT CHANGES SHOULD BE MADE          2.0        751               0.41
+3  A GOOD MANY IMPORTANT CHANGES SHOULD BE MADE          3.0        317               0.17
+4                                     UNDECIDED          4.0        351               0.19
+
+
+
+S235.Q85 REGARDLESS OF WHAT YOU THINK SHOULD BE DONE, DO YOU THINK ANY IMPORTANT CHANGES IN AMERICAN LIFE ACTUALLY WILL BE MADE?
+                                          answer_label answer_value raw_counts relative_frequency
+0                                            NO ANSWER          0.0        106               0.06
+1           NO IMPORTANT CHANGES ACTUALLY WILL BE MADE          1.0        325               0.18
+2        A FEW IMPORTANT CHANGES ACTUALLY WILL BE MADE          2.0        961               0.53
+3  A GOOD MANY IMPORTANT CHANGES ACTUALLY WILL BE MADE          3.0        191                0.1
+4                                            UNDECIDED          4.0        241               0.13
+
+
+
+S235.Q86 IF WAR VETERANS GET ORGANIZED AFTER THIS WAR INTO A STRONG POLITICAL GROUP, DO YOU THINK IT WOULD BE A GOOD THING FOR THE COUNTRY?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0         97               0.05
+1   A BAD THING          1.0        358                0.2
+2  A GOOD THING          2.0        745               0.41
+3     UNDECIDED          3.0        624               0.34
+
+
+
+S235.Q87 HOW GOOD A JOB DO YOU THINK THE GOVERNMENT IS DOING IN SEEING TO IT THAT DISCHARGED SOLDIERS WILL GET WHATEVER HELP THEY NEED TO GET STARTED IN CIVILIAN LIFE?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0         84               0.05
+1  THE GOVERNMENT IS DOING A GOOD JOB ON THIS          1.0        481               0.26
+2  THE GOVERNMENT IS DOING A FAIR JOB ON THIS          2.0        806               0.44
+3  THE GOVERNMENT IS DOING A POOR JOB ON THIS          3.0        194               0.11
+4                          I HAVEN'T ANY IDEA          4.0        259               0.14
+
+
+
+S235.Q88 DO YOU THINK OUR GOVERNMENT LEADERS ARE TRYING TO DO EVERYTHING THEY CAN TO SEE TO IT THAT WARS WILL BE PREVENTED IN THE FUTURE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         86               0.05
+1          YES          1.0       1245               0.68
+2           NO          2.0        153               0.08
+3    UNDECIDED          3.0        340               0.19
+
+
+
+S235.Q89 IN YOUR OPINION ABOUT HOW MANY OF THE PEOPLE BACK HOME ARE DOING ALL THEY SHOULD DO TO HELP WIN THE WAR?
+              answer_label answer_value raw_counts relative_frequency
+0       NO CODE OR NO DATA          0.0          2                0.0
+1   ALMOST ALL OF THEM ARE          1.0        406               0.22
+2         MOST OF THEM ARE          2.0        910                0.5
+3   ABOUT HALF OF THEM ARE          3.0        339               0.19
+4          FEW OF THEM ARE          4.0         67               0.04
+5  ALMOST NONE OF THEM ARE          5.0         10               0.01
+6                NO ANSWER          6.0         90               0.05
+
+
+
+S235.Q90 IN YOUR OPINION ABOUT HOW MANY OF THE PEOPLE BACK HOME HAVE A REAL SENSE OF GRATITUDE AND APPRECIATION FOR WHAT THE SOLDIERS HAVE DONE?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0         97               0.05
+1   ALMOST ALL OF THEM DO          1.0        375               0.21
+2         MOST OF THEM DO          2.0        766               0.42
+3   ABOUT HALF OF THEM DO          3.0        399               0.22
+4          FEW OF THEM DO          4.0        169               0.09
+5  ALMOST NONE OF THEM DO          5.0         18               0.01
+
+
+
+S235.Q91A.1 ARE THERE ANY KINDS OF GROUPS OF PEOPLE IN AMERICA THAT YOU FEEL WILL HAVE A HARDER TIME GETTING ALONG TOGETHER AFTER THE WAR THAN THEY DID BEFORE THE WAR? IF YES, WHAT GROUPS?
+                             answer_label answer_value raw_counts relative_frequency
+0  YES, NEGROES OR \(NEGROES AND WHITES\)          1.0        591               0.32
+1                              NOT CHOSEN          2.0       1233               0.68
+
+
+
+S235.Q91A.2 ARE THERE ANY KINDS OF GROUPS OF PEOPLE IN AMERICA THAT YOU FEEL WILL HAVE A HARDER TIME GETTING ALONG TOGETHER AFTER THE WAR THAN THEY DID BEFORE THE WAR? IF YES, WHAT GROUPS?
+  answer_label answer_value raw_counts relative_frequency
+0    YES, JEWS          1.0         89               0.05
+1   NOT CHOSEN          2.0       1735               0.95
+
+
+
+S235.Q91A.3 ARE THERE ANY KINDS OF GROUPS OF PEOPLE IN AMERICA THAT YOU FEEL WILL HAVE A HARDER TIME GETTING ALONG TOGETHER AFTER THE WAR THAN THEY DID BEFORE THE WAR? IF YES, WHAT GROUPS?
+                         answer_label answer_value raw_counts relative_frequency
+0  YES, LABOR UNIONS, GROUPS, LEADERS          1.0         34               0.02
+1                          NOT CHOSEN          2.0       1790               0.98
+
+
+
+S235.Q91A.4ARE THERE ANY KINDS OF GROUPS OF PEOPLE IN AMERICA THAT YOU FEEL WILL HAVE A HARDER TIME GETTING ALONG TOGETHER AFTER THE WAR THAN THEY DID BEFORE THE WAR? IF YES, WHAT GROUPS?
+                                  answer_label answer_value raw_counts relative_frequency
+0  YES, BUSINESS, GROUPS, LEADERS, CAPITALISTS          1.0         60               0.03
+1                                   NOT CHOSEN          2.0       1764               0.97
+
+
+
+S235.Q91A.5ARE THERE ANY KINDS OF GROUPS OF PEOPLE IN AMERICA THAT YOU FEEL WILL HAVE A HARDER TIME GETTING ALONG TOGETHER AFTER THE WAR THAN THEY DID BEFORE THE WAR? IF YES, WHAT GROUPS?
+      answer_label answer_value raw_counts relative_frequency
+0  YES, COMMUNISTS          1.0         30               0.02
+1       NOT CHOSEN          2.0       1794               0.98
+
+
+
+S235.Q91A.6ARE THERE ANY KINDS OF GROUPS OF PEOPLE IN AMERICA THAT YOU FEEL WILL HAVE A HARDER TIME GETTING ALONG TOGETHER AFTER THE WAR THAN THEY DID BEFORE THE WAR? IF YES, WHAT GROUPS?
+        answer_label answer_value raw_counts relative_frequency
+0  YES, OTHER GROUPS          1.0        109               0.06
+1         NOT CHOSEN          2.0       1715               0.94
+
+
+
+S235.Q91A.7ARE THERE ANY KINDS OF GROUPS OF PEOPLE IN AMERICA THAT YOU FEEL WILL HAVE A HARDER TIME GETTING ALONG TOGETHER AFTER THE WAR THAN THEY DID BEFORE THE WAR? IF YES, WHAT GROUPS?
+     answer_label answer_value raw_counts relative_frequency
+0  YES, NO ANSWER          1.0         41               0.02
+1      NOT CHOSEN          2.0       1783               0.98
+
+
+
+S235.Q91A.8ARE THERE ANY KINDS OF GROUPS OF PEOPLE IN AMERICA THAT YOU FEEL WILL HAVE A HARDER TIME GETTING ALONG TOGETHER AFTER THE WAR THAN THEY DID BEFORE THE WAR? IF YES, WHAT GROUPS?
+  answer_label answer_value raw_counts relative_frequency
+0           NO          1.0        759               0.42
+1   NOT CHOSEN          2.0       1065               0.58
+
+
+
+S235.Q91A.9ARE THERE ANY KINDS OF GROUPS OF PEOPLE IN AMERICA THAT YOU FEEL WILL HAVE A HARDER TIME GETTING ALONG TOGETHER AFTER THE WAR THAN THEY DID BEFORE THE WAR? IF YES, WHAT GROUPS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0        265               0.15
+1   NOT CHOSEN          2.0       1559               0.85
+
+
+
+S235.Q91B.1 ARE THERE ANY KINDS OF GROUPS OF PEOPLE IN AMERICA THAT YOU PERSONALLY DISLIKE VERY MUCH? IF YES, WHAT GROUPS?
+                           answer_label answer_value raw_counts relative_frequency
+0  YES, NEGROES OR (NEGROES AND WHITES)          1.0        200               0.11
+1                            NOT CHOSEN          2.0       1624               0.89
+
+
+
+S235.Q91B.2ARE THERE ANY KINDS OF GROUPS OF PEOPLE IN AMERICA THAT YOU PERSONALLY DISLIKE VERY MUCH? IF YES, WHAT GROUPS?
+  answer_label answer_value raw_counts relative_frequency
+0    YES, JEWS          1.0        133               0.07
+1   NOT CHOSEN          2.0       1691               0.93
+
+
+
+S235.Q91B.3ARE THERE ANY KINDS OF GROUPS OF PEOPLE IN AMERICA THAT YOU PERSONALLY DISLIKE VERY MUCH? IF YES, WHAT GROUPS?
+                         answer_label answer_value raw_counts relative_frequency
+0  YES, LABOR UNIONS, GROUPS, LEADERS          1.0         34               0.02
+1                          NOT CHOSEN          2.0       1790               0.98
+
+
+
+S235.Q91B.4ARE THERE ANY KINDS OF GROUPS OF PEOPLE IN AMERICA THAT YOU PERSONALLY DISLIKE VERY MUCH? IF YES, WHAT GROUPS?
+                                  answer_label answer_value raw_counts relative_frequency
+0  YES, BUSINESS, GROUPS, LEADERS, CAPITALISTS          1.0         27               0.01
+1                                   NOT CHOSEN          2.0       1797               0.99
+
+
+
+S235.Q91B.5ARE THERE ANY KINDS OF GROUPS OF PEOPLE IN AMERICA THAT YOU PERSONALLY DISLIKE VERY MUCH? IF YES, WHAT GROUPS?
+      answer_label answer_value raw_counts relative_frequency
+0  YES, COMMUNISTS          1.0         37               0.02
+1       NOT CHOSEN          2.0       1787               0.98
+
+
+
+S235.Q91B.6ARE THERE ANY KINDS OF GROUPS OF PEOPLE IN AMERICA THAT YOU PERSONALLY DISLIKE VERY MUCH? IF YES, WHAT GROUPS?
+        answer_label answer_value raw_counts relative_frequency
+0  YES, OTHER GROUPS          1.0         87               0.05
+1         NOT CHOSEN          2.0       1737               0.95
+
+
+
+S235.Q91B.7ARE THERE ANY KINDS OF GROUPS OF PEOPLE IN AMERICA THAT YOU PERSONALLY DISLIKE VERY MUCH? IF YES, WHAT GROUPS?
+     answer_label answer_value raw_counts relative_frequency
+0  YES, NO ANSWER          1.0         23               0.01
+1      NOT CHOSEN          2.0       1801               0.99
+
+
+
+S235.Q91B.8ARE THERE ANY KINDS OF GROUPS OF PEOPLE IN AMERICA THAT YOU PERSONALLY DISLIKE VERY MUCH? IF YES, WHAT GROUPS?
+  answer_label answer_value raw_counts relative_frequency
+0           NO          1.0       1112               0.61
+1   NOT CHOSEN          2.0        712               0.39
+
+
+
+S235.Q91B.9ARE THERE ANY KINDS OF GROUPS OF PEOPLE IN AMERICA THAT YOU PERSONALLY DISLIKE VERY MUCH? IF YES, WHAT GROUPS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0        245               0.13
+1   NOT CHOSEN          2.0       1579               0.87
+
+
+
+S235.Q91C.1 ARE THERE ANY KINDS OR GROUPS OF PEOPLE IN AMERICA THAT YOU THINK HAVE TAKEN ADVANTAGE OF THE WAR TO FURTHER THEIR OWN SELFISH INTERESTS? IF YES, WHAT GROUPS?
+                           answer_label answer_value raw_counts relative_frequency
+0  YES, NEGROES OR (NEGROES AND WHITES)          1.0        105               0.06
+1                            NOT CHOSEN          2.0       1719               0.94
+
+
+
+S235.Q91C.2ARE THERE ANY KINDS OR GROUPS OF PEOPLE IN AMERICA THAT YOU THINK HAVE TAKEN ADVANTAGE OF THE WAR TO FURTHER THEIR OWN SELFISH INTERESTS? IF YES, WHAT GROUPS?
+  answer_label answer_value raw_counts relative_frequency
+0    YES, JEWS          1.0        170               0.09
+1   NOT CHOSEN          2.0       1654               0.91
+
+
+
+S235.Q91C.3ARE THERE ANY KINDS OR GROUPS OF PEOPLE IN AMERICA THAT YOU THINK HAVE TAKEN ADVANTAGE OF THE WAR TO FURTHER THEIR OWN SELFISH INTERESTS? IF YES, WHAT GROUPS?
+                         answer_label answer_value raw_counts relative_frequency
+0  YES, LABOR UNIONS, GROUPS, LEADERS          1.0        139               0.08
+1                          NOT CHOSEN          2.0       1685               0.92
+
+
+
+S235.Q91C.4ARE THERE ANY KINDS OR GROUPS OF PEOPLE IN AMERICA THAT YOU THINK HAVE TAKEN ADVANTAGE OF THE WAR TO FURTHER THEIR OWN SELFISH INTERESTS? IF YES, WHAT GROUPS?
+                                  answer_label answer_value raw_counts relative_frequency
+0  YES, BUSINESS, GROUPS, LEADERS, CAPITALISTS          1.0        317               0.17
+1                                   NOT CHOSEN          2.0       1507               0.83
+
+
+
+S235.Q91C.5ARE THERE ANY KINDS OR GROUPS OF PEOPLE IN AMERICA THAT YOU THINK HAVE TAKEN ADVANTAGE OF THE WAR TO FURTHER THEIR OWN SELFISH INTERESTS? IF YES, WHAT GROUPS?
+      answer_label answer_value raw_counts relative_frequency
+0  YES, COMMUNISTS          1.0         16               0.01
+1       NOT CHOSEN          2.0       1808               0.99
+
+
+
+S235.Q91C.6ARE THERE ANY KINDS OR GROUPS OF PEOPLE IN AMERICA THAT YOU THINK HAVE TAKEN ADVANTAGE OF THE WAR TO FURTHER THEIR OWN SELFISH INTERESTS? IF YES, WHAT GROUPS?
+        answer_label answer_value raw_counts relative_frequency
+0  YES, OTHER GROUPS          1.0         94               0.05
+1         NOT CHOSEN          2.0       1730               0.95
+
+
+
+S235.Q91C.7ARE THERE ANY KINDS OR GROUPS OF PEOPLE IN AMERICA THAT YOU THINK HAVE TAKEN ADVANTAGE OF THE WAR TO FURTHER THEIR OWN SELFISH INTERESTS? IF YES, WHAT GROUPS?
+     answer_label answer_value raw_counts relative_frequency
+0  YES, NO ANSWER          1.0         93               0.05
+1      NOT CHOSEN          2.0       1731               0.95
+
+
+
+S235.Q91C.8ARE THERE ANY KINDS OR GROUPS OF PEOPLE IN AMERICA THAT YOU THINK HAVE TAKEN ADVANTAGE OF THE WAR TO FURTHER THEIR OWN SELFISH INTERESTS? IF YES, WHAT GROUPS?
+  answer_label answer_value raw_counts relative_frequency
+0           NO          1.0        675               0.37
+1   NOT CHOSEN          2.0       1149               0.63
+
+
+
+S235.Q91C.9ARE THERE ANY KINDS OR GROUPS OF PEOPLE IN AMERICA THAT YOU THINK HAVE TAKEN ADVANTAGE OF THE WAR TO FURTHER THEIR OWN SELFISH INTERESTS? IF YES, WHAT GROUPS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0        318               0.17
+1   NOT CHOSEN          2.0       1506               0.83
+
+
+

@@ -1,0 +1,1505 @@
+S64.Q1 WHAT IS YOUR ARMY RANK OR GRADE?
+                             answer_label answer_value raw_counts relative_frequency
+0                      NO CODE OR NO DATA          0.0          1                0.0
+1                                 PRIVATE          1.0       1953               0.44
+2                     PRIVATE FIRST CLASS          2.0       1011               0.23
+3        TECHNICIAN 5TH GRADE OR CORPORAL          3.0        636               0.14
+4        TECHNICIAN 4TH GRADE OR SERGEANT          4.0        391               0.09
+5  TECHNICIAN 3RD GRADE OR STAFF SERGEANT          5.0        226               0.05
+6                      TECHNICAL SERGEANT          6.0         51               0.01
+7       MASTER SERGEANT OR FIRST SERGEANT          7.0         50               0.01
+8                                   OTHER          8.0          1                0.0
+9                               NO ANSWER          9.0         72               0.02
+
+
+
+S64.Q2 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+   answer_label answer_value raw_counts relative_frequency
+0      18 YEARS          1.0        344               0.08
+1            19          2.0        549               0.12
+2            20          3.0        516               0.12
+3            21          4.0        418                0.1
+4            22          5.0        332               0.08
+5            23          6.0        264               0.06
+6            24          7.0        212               0.05
+7            25          8.0        218               0.05
+8         26-29          9.0        634               0.14
+9         30-34         10.0        462               0.11
+10  35 AND OVER         11.0        262               0.06
+11    NO ANSWER         12.0        181               0.04
+
+
+
+S64.Q3 HOW FAR DID YOU GO IN SCHOOL?
+                          answer_label answer_value raw_counts relative_frequency
+0                  LESS THAN 6TH GRADE          1.0        122               0.03
+1                   FINISHED 6TH GRADE          2.0        120               0.03
+2                   FINISHED 7TH GRADE          3.0        209               0.05
+3                   FINISHED 8TH GRADE          4.0        532               0.12
+4  SOME HIGH SCHOOL BUT DID NOT FINISH          5.0       1279               0.29
+5           GRADUATED FROM HIGH SCHOOL          6.0       1353               0.31
+6      SOME COLLEGE BUT DID NOT FINISH          7.0        578               0.13
+7               GRADUATED FROM COLLEGE          8.0        117               0.03
+8                            NO ANSWER          9.0         82               0.02
+
+
+
+S64.Q4 IN WHAT STATE OF THE UNITED STATES DID YOU SPEND MOST OF THE LAST FIVE YEARS OF YOUR CIVILIAN LIFE BEFORE YOU CAME INTO THE ARMY? E. SECTION:
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0        514               0.12
+1                  NEW ENGLAND          1.0        336               0.08
+2              MIDDLE ATLANTIC          2.0        834               0.19
+3           EAST NORTH CENTRAL          3.0        866                0.2
+4           WEST NORTH CENTRAL          4.0        492               0.11
+5               SOUTH ATLANTIC          5.0        350               0.08
+6           EAST SOUTH CENTRAL          6.0        198               0.05
+7           WEST SOUTH CENTRAL          7.0        387               0.09
+8                     MOUNTAIN          8.0        127               0.03
+9                      PACIFIC          9.0        270               0.06
+10   FOREIGN - U.S. POSSESSION         10.0          1                0.0
+11  U.S. - STATE NOT SPECIFIED         12.0         17                0.0
+
+
+
+S64.Q5 WHERE WERE YOU LIVING MOST OF THE LAST FIVE YEARS OF YOUR CIVILIAN LIFE BEFORE YOU CAME INTO THE ARMY?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                NO CODE OR NO DATA          0.0          5                0.0
+1                       ON A FARM OR IN THE COUNTRY          1.0        785               0.18
+2         IN A SMALL TOWN (FEWER THAN 2,500 PEOPLE)          2.0        480               0.11
+3  IN A TOWN (WITH BETWEEN 2,500 AND 25,000 PEOPLE)          3.0        873                0.2
+4     IN A CITY (BETWEEN 25,000 AND 100,000 PEOPLE)          4.0        777               0.18
+5        IN A LARGE CITY (MORE THAN 100,000 PEOPLE)          5.0       1404               0.32
+6                                         NO ANSWER          6.0         68               0.02
+
+
+
+S64.Q6.x ARE YOU SINGLE, MARRIED, DIVORCED OR SEPARATED, OR WIDOWED? F. IF MARRIED:  Q.7. WERE YOU MARRIED BEFORE OR AFTER ENTERING THE ARMY?
+                       answer_label answer_value raw_counts relative_frequency
+0                         NO ANSWER          0.0          4                0.0
+1                            SINGLE          1.0       2955               0.67
+2             DIVORCED OR SEPARATED          2.0         89               0.02
+3                           WIDOWED          3.0         13                0.0
+4  MARRIED BEFORE ENTERING THE ARMY          4.0        991               0.23
+5   MARRIED AFTER ENTERING THE ARMY          5.0        334               0.08
+6        MARRIED BUT NO ANSWER WHEN          6.0          6                0.0
+
+
+
+S64.Q8 HOW MANY CHILDREN DO YOU HAVE?
+                  answer_label answer_value raw_counts relative_frequency
+0           NO CODE OR NO DATA          0.0          5                0.0
+1             HAVE NO CHILDREN          1.0        944               0.21
+2               HAVE ONE CHILD          2.0        355               0.08
+3            HAVE TWO CHILDREN          3.0         67               0.02
+4  HAVE THREE OR MORE CHILDREN          4.0         34               0.01
+5              I'M NOT MARRIED          5.0       2950               0.67
+6                    NO ANSWER          6.0         37               0.01
+
+
+
+S64.Q9 IS YOUR WIFE NOW EXPECTING A BABY?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1                 YES          1.0        241               0.05
+2                  NO          2.0       1083               0.25
+3     I'M NOT MARRIED          3.0       3024               0.69
+4           NO ANSWER          4.0         43               0.01
+
+
+
+S64.Q10 HOW DID YOU COME INTO THE ARMY?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         15                0.0
+1                I WAS DRAFTED          1.0       3288               0.75
+2                I VOLUNTEERED          2.0       1024               0.23
+3  I WAS IN THE NATIONAL GUARD          3.0         63               0.01
+4               ROTC, ERC, RAR          4.0          2                0.0
+
+
+
+S64.Q11 HOW LONG HAVE YOU BEEN IN THE ARMY? E. IF YOU HAVE BEEN IN THE ARMY BEFORE, THEN WERE OUT FOR A WHILE, JUST CHECK THE LENGTH OF TIME SINCE YOU ENTERED THIS LAST TIME. IF YOU WERE IN THE NATIONAL GUARD, CHECK THE LENGTH OF TIME SINCE YOUR OUTFIT CAME INTO
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0          7                0.0
+1              3 MONTHS OR LESS          1.0        293               0.07
+2  OVER 3 MONTHS UP TO 6 MONTHS          2.0       1306                0.3
+3  OVER 6 MONTHS UP TO 9 MONTHS          3.0       1071               0.24
+4    OVER 9 MONTHS UP TO 1 YEAR          4.0        647               0.15
+5     OVER 1 YEAR UP TO 2 YEARS          5.0        666               0.15
+6                  OVER 2 YEARS          6.0        402               0.09
+
+
+
+S64.Q12 HAS THE ARMY CLASSIFIED YOU AS A LIMITED SERVICE MAN?
+                                                                answer_label answer_value raw_counts relative_frequency
+0                                                         NO CODE OR NO DATA          0.0          2                0.0
+1                         YES, THE ARMY HAS CLASSIFIED ME AS LIMITED SERVICE          1.0        504               0.11
+2                      NO, THE ARMY HAS NOT CLASSIFIED ME AS LIMITED SERVICE          2.0       3404               0.78
+3  I DON'T KNOW WHETHER THE ARMY HAS CLASSIFIED ME AS LIMITED SERVICE OR NOT          3.0        450                0.1
+4                                                                  NO ANSWER          4.0         32               0.01
+
+
+
+S64.Q13 HOW LONG HAVE YOU BEEN IN THE CAMP WHERE YOU ARE NOW STATIONED?
+                   answer_label answer_value raw_counts relative_frequency
+0            NO CODE OR NO DATA          0.0          2                0.0
+1              3 MONTHS OR LESS          1.0       1192               0.27
+2  OVER 3 MONTHS UP TO 6 MONTHS          2.0       1688               0.38
+3  OVER 6 MONTHS UP TO 9 MONTHS          3.0        828               0.19
+4    OVER 9 MONTHS UP TO 1 YEAR          4.0        316               0.07
+5                   OVER 1 YEAR          5.0        351               0.08
+6                     NO ANSWER          6.0         15                0.0
+
+
+
+S64.Q14 WHAT BRANCH OF THE ARMY ARE YOU IN NOW?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0         23               0.01
+1                           ENGINEERS          1.0        212               0.05
+2                     FIELD ARTILLERY          2.0        411               0.09
+3                 QUARTERMASTER CORPS          3.0        262               0.06
+4                            INFANTRY          4.0        575               0.13
+5                  MEDICAL DEPARTMENT          5.0        405               0.09
+6                       ARMORED FORCE          6.0        322               0.07
+7                        SIGNAL CORPS          7.0        154               0.04
+8   COAST ARTILLERY AND ANTI-AIRCRAFT          8.0        361               0.08
+9                           AIR CORPS          9.0       1124               0.26
+10               TRANSPORTATION CORPS         10.0          4                0.0
+11                ORDNANCE DEPARTMENT         11.0        250               0.06
+12           CHEMICAL WARFARE SERVICE         12.0         56               0.01
+13                    MILITARY POLICE         13.0        171               0.04
+14                            CAVALRY         14.0         32               0.01
+15                            FINANCE         15.0          1                0.0
+16                              OTHER         16.0         29               0.01
+
+
+
+S64.Q15 IF YOU HAD A CHOICE, WHICH ONE OF THESE BRANCHES OF THE ARMY WOULD YOU LIKE TO BE IN?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0         98               0.02
+1                           ENGINEERS          1.0        139               0.03
+2                     FIELD ARTILLERY          2.0        138               0.03
+3                 QUARTERMASTER CORPS          3.0        274               0.06
+4                            INFANTRY          4.0        119               0.03
+5                  MEDICAL DEPARTMENT          5.0        172               0.04
+6                       ARMORED FORCE          6.0        144               0.03
+7                        SIGNAL CORPS          7.0        137               0.03
+8   COAST ARTILLERY AND ANTI-AIRCRAFT          8.0        258               0.06
+9                           AIR CORPS          9.0       2175                0.5
+10               TRANSPORTATION CORPS         10.0        169               0.04
+11                ORDNANCE DEPARTMENT         11.0        303               0.07
+12           CHEMICAL WARFARE SERVICE         12.0         24               0.01
+13                    MILITARY POLICE         13.0        218               0.05
+14                            CAVALRY         14.0          5                0.0
+15                            FINANCE         15.0          7                0.0
+16                              OTHER         16.0         12                0.0
+
+
+
+S64.Q16 ABOUT HOW OFTEN DO YOU GO TO ANY TOWN OR CITY SINCE YOU'VE BEEN IN THIS CAMP?
+                            answer_label answer_value raw_counts relative_frequency
+0                     NO CODE OR NO DATA          0.0          1                0.0
+1             THREE OR MORE TIMES A WEEK          1.0        514               0.12
+2                           TWICE A WEEK          2.0        669               0.15
+3                            ONCE A WEEK          3.0       1070               0.24
+4                ONCE EVERY 2 OR 3 WEEKS          4.0        976               0.22
+5                           ONCE A MONTH          5.0        415               0.09
+6                 LESS THAN ONCE A MONTH          6.0        318               0.07
+7                                  NEVER          7.0        178               0.04
+8  I LIVE OFF THE POST IN A TOWN OR CITY          8.0        227               0.05
+9                              NO ANSWER          9.0         24               0.01
+
+
+
+S64.Q17 DO YOU FEEL PROUD OF YOUR COMPANY (BATTERY, SQUADRON, TROOP)?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1     YES, VERY PROUD          1.0       1633               0.37
+2   YES, FAIRLY PROUD          2.0       1296                0.3
+3       NO, NOT PROUD          3.0        733               0.17
+4           UNDECIDED          4.0        706               0.16
+5           NO ANSWER          5.0         23               0.01
+
+
+
+S64.Q18 HOW INTERESTED ARE YOU IN YOUR ARMY JOB?
+            answer_label answer_value raw_counts relative_frequency
+0     NO CODE OR NO DATA          0.0          1                0.0
+1   VERY MUCH INTERESTED          1.0       2351               0.54
+2  A LITTLE BUT NOT MUCH          2.0       1381               0.31
+3  NOT INTERESTED AT ALL          3.0        625               0.14
+4              NO ANSWER          4.0         34               0.01
+
+
+
+S64.Q19 WOULD YOU CHANGE TO SOME OTHER ARMY JOB IF GIVEN A CHANCE?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1                 YES          1.0       2682               0.61
+2                  NO          2.0       1203               0.27
+3           UNDECIDED          3.0        475               0.11
+4           NO ANSWER          4.0         30               0.01
+
+
+
+S64.Q20 DO YOU USUALLY FEEL THAT WHAT YOU ARE DOING IN THE ARMY IS WORTHWHILE OR NOT?
+                          answer_label answer_value raw_counts relative_frequency
+0                   NO CODE OR NO DATA          0.0          1                0.0
+1  I USUALLY FEEL IT IS NOT WORTHWHILE          1.0       1067               0.24
+2      I USUALLY FEEL IT IS WORTHWHILE          2.0       2699               0.61
+3                            UNDECIDED          3.0        591               0.13
+4                            NO ANSWER          4.0         34               0.01
+
+
+
+S64.Q21 DO YOU THINK YOU CAN MAKE GOOD IN THE ARMY?
+                         answer_label answer_value raw_counts relative_frequency
+0                  NO CODE OR NO DATA          0.0          1                0.0
+1  I FEEL PRETTY SURE I CAN MAKE GOOD          1.0       3084                0.7
+2    I AM NOT SO SURE I CAN MAKE GOOD          2.0        876                0.2
+3                           UNDECIDED          3.0        396               0.09
+4                           NO ANSWER          4.0         35               0.01
+
+
+
+S64.Q22 IN GENERAL, WHAT SORT OF A TIME DO YOU HAVE IN THE ARMY?
+                  answer_label answer_value raw_counts relative_frequency
+0           NO CODE OR NO DATA          0.0          1                0.0
+1    I HAVE A PRETTY GOOD TIME          1.0       1291               0.29
+2       IT'S ABOUT FIFTY-FIFTY          2.0       2370               0.54
+3  I HAVE A PRETTY ROTTEN TIME          3.0        704               0.16
+4                    NO ANSWER          4.0         26               0.01
+
+
+
+S64.Q23 IN GENERAL, HOW WOULD YOU SAY YOU FEEL MOST OF THE TIME, IN GOOD SPIRITS OR IN LOW SPIRITS?
+                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                  NO ANSWER          0.0         19                0.0
+1                                               I AM USUALLY IN GOOD SPIRITS          1.0       1534               0.35
+2  I AM IN GOOD SPIRITS SOME OF THE TIME AND IN LOW SPIRITS SOME OF THE TIME          2.0       2284               0.52
+3                                                I AM USUALLY IN LOW SPIRITS          3.0        555               0.13
+
+
+
+S64.Q24 ARE YOU EVER WORRIED AND UPSET?
+                         answer_label answer_value raw_counts relative_frequency
+0                  NO CODE OR NO DATA          0.0          3                0.0
+1  I AM HARDLY EVER WORRIED AND UPSET          1.0       1647               0.38
+2    I AM SOMETIMES WORRIED AND UPSET          2.0       2022               0.46
+3        I AM OFTEN WORRIED AND UPSET          3.0        701               0.16
+4                           NO ANSWER          4.0         19                0.0
+
+
+
+S64.Q25 IF IT WERE UP TO YOU, WHAT KIND OF OUTFIT WOULD YOU RATHER BE IN?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                NO CODE OR NO DATA          0.0          2                0.0
+1                       IN A COMBAT OUTFIT OVERSEAS          1.0       2062               0.47
+2                   IN A NON-COMBAT OUTFIT OVERSEAS          2.0        591               0.13
+3  IN AN OUTFIT THAT WILL STAY IN THE UNITED STATES          3.0       1615               0.37
+4                                         NO ANSWER          4.0        122               0.03
+
+
+
+S64.Q26 IF IT WERE UP TO YOU TO CHOOSE, DO YOU THINK YOU COULD DO MORE FOR YOUR COUNTRY AS A SOLDIER OR AS A WORKER IN A WAR JOB?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         34               0.01
+1     AS A SOLDIER          1.0       1685               0.38
+2  AS A WAR WORKER          2.0       2173               0.49
+3        UNDECIDED          3.0        500               0.11
+
+
+
+S64.Q27 HOW SATISFIED ARE YOU ABOUT BEING IN YOUR PRESENT ARMY JOB INSTEAD OF SOME OTHER ARMY JOB?
+                            answer_label answer_value raw_counts relative_frequency
+0                     NO CODE OR NO DATA          0.0          1                0.0
+1                         VERY SATISFIED          1.0        705               0.16
+2                              SATISFIED          2.0       1556               0.35
+3  IT DOES NOT MAKE ANY DIFFERENCE TO ME          3.0        643               0.15
+4                           DISSATISFIED          4.0       1017               0.23
+5                      VERY DISSATISFIED          5.0        444                0.1
+6                              NO ANSWER          6.0         26               0.01
+
+
+
+S64.Q28 DO YOU FEEL THAT EVERYTHING POSSIBLE HAS BEEN DONE TO PLACE YOU IN THE ARMY JOB WHERE YOU BEST FIT?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1                 YES          1.0       1579               0.36
+2                  NO          2.0       2303               0.52
+3           UNDECIDED          3.0        489               0.11
+4           NO ANSWER          4.0         20                0.0
+
+
+
+S64.Q29 DO YOU CONSIDER YOUR OWN PRESENT JOB OR DUTY IN THE ARMY AN IMPORTANT ONE IN THE WAR EFFORT?
+           answer_label answer_value raw_counts relative_frequency
+0    NO CODE OR NO DATA          0.0          1                0.0
+1        VERY IMPORTANT          1.0       1777                0.4
+2      PRETTY IMPORTANT          2.0       1304                0.3
+3      NOT SO IMPORTANT          3.0        761               0.17
+4  NOT IMPORTANT AT ALL          4.0        355               0.08
+5             UNDECIDED          5.0        171               0.04
+6             NO ANSWER          6.0         23               0.01
+
+
+
+S64.Q30 ON THE WHOLE, DO YOU THINK THE ARMY IS GIVING YOU A CHANCE TO SHOW WHAT YOU CAN DO?
+           answer_label answer_value raw_counts relative_frequency
+0    NO CODE OR NO DATA          0.0          1                0.0
+1    A VERY GOOD CHANCE          1.0        891                0.2
+2  A FAIRLY GOOD CHANCE          2.0       1538               0.35
+3  NOT MUCH OF A CHANCE          3.0       1233               0.28
+4      NO CHANCE AT ALL          4.0        595               0.14
+5             UNDECIDED          5.0        120               0.03
+6             NO ANSWER          6.0         14                0.0
+
+
+
+S64.Q31 DO YOU THINK A SOLDIER WITH ABILITY HAS A GOOD CHANCE FOR PROMOTION IN THE ARMY?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0         53               0.01
+1    A VERY GOOD CHANCE          1.0       1747                0.4
+2  A FAIRLY GOOD CHANCE          2.0       1727               0.39
+3  NOT MUCH OF A CHANCE          3.0        553               0.13
+4      NO CHANCE AT ALL          4.0        141               0.03
+5             UNDECIDED          5.0        171               0.04
+
+
+
+S64.Q32 WHICH BRANCH OF THE ARMY DO YOU THINK MOST HIGHLY OF?
+                      answer_label answer_value raw_counts relative_frequency
+0                        NO ANSWER          0.0         57               0.01
+1                        ENGINEERS          1.0        222               0.05
+2                  FIELD ARTILLERY          2.0        125               0.03
+3              QUARTERMASTER CORPS          3.0        128               0.03
+4                         INFANTRY          4.0        386               0.09
+5               MEDICAL DEPARTMENT          5.0        177               0.04
+6                    ARMORED FORCE          6.0        148               0.03
+7                     SIGNAL CORPS          7.0         87               0.02
+8   COAST ARTILLERY, ANTI-AIRCRAFT          8.0        170               0.04
+9                        AIR CORPS          9.0       2339               0.53
+10            TRANSPORTATION CORPS         10.0         86               0.02
+11             ORDNANCE DEPARTMENT         11.0        144               0.03
+12        CHEMICAL WARFARE SERVICE         12.0          8                0.0
+13                 MILITARY POLICE         13.0         96               0.02
+14                         CAVALRY         14.0          2                0.0
+15                         FINANCE         15.0          5                0.0
+16                       UNDECIDED         16.0        212               0.05
+
+
+
+S64.Q33 DO YOU THINK YOU MIGHT WANT TO STAY IN THE ARMY AFTER THE WAR?
+                             answer_label answer_value raw_counts relative_frequency
+0                      NO CODE OR NO DATA          0.0          1                0.0
+1          YES, I WOULD WANT TO VERY MUCH          1.0        204               0.05
+2  YES, I MIGHT WANT TO, BUT I'M NOT SURE          2.0        896                0.2
+3       NO, I DON'T THINK I WOULD WANT TO          3.0       1104               0.25
+4          NO, I WOULD NOT WANT TO AT ALL          4.0       1912               0.44
+5                               UNDECIDED          5.0        256               0.06
+6                               NO ANSWER          6.0         19                0.0
+
+
+
+S64.Q34 AFTER THE WAR DO YOU THINK YOU WOULD LIKE TO COME BACK TO YOUR OLD OUTFIT FOR TWO WEEKS OF TRAINING EVERY YEAR?
+                             answer_label answer_value raw_counts relative_frequency
+0                      NO CODE OR NO DATA          0.0          2                0.0
+1          YES, I WOULD WANT TO VERY MUCH          1.0       1384               0.32
+2  YES, I MIGHT WANT TO, BUT I'M NOT SURE          2.0       1106               0.25
+3       NO, I DON'T THINK I WOULD WANT TO          3.0        605               0.14
+4          NO, I WOULD NOT WANT TO AT ALL          4.0       1042               0.24
+5                               UNDECIDED          5.0        228               0.05
+6                               NO ANSWER          6.0         25               0.01
+
+
+
+S64.Q35 ON THE WHOLE, WOULD YOU SAY YOU ARE WELL ADJUSTED OR POORLY ADJUSTED TO ARMY LIFE?
+                answer_label answer_value raw_counts relative_frequency
+0         NO CODE OR NO DATA          0.0          2                0.0
+1    I AM VERY WELL ADJUSTED          1.0       1191               0.27
+2  I AM FAIRLY WELL ADJUSTED          2.0       2203                0.5
+3  I AM NOT SO WELL ADJUSTED          3.0        603               0.14
+4  I AM VERY POORLY ADJUSTED          4.0        371               0.08
+5                  NO ANSWER          5.0         22               0.01
+
+
+
+S64.Q36 IF YOU WERE SENT INTO ACTUAL FIGHTING RIGHT NOW, HOW DO YOU THINK YOU WOULD DO?
+                                                             answer_label answer_value raw_counts relative_frequency
+0                                                      NO CODE OR NO DATA          0.0          3                0.0
+1                                            I THINK I WOULD DO ALL RIGHT          1.0       1282               0.29
+2  I THINK I WOULD HAVE TROUBLE AT FIRST, BUT AFTER A WHILE I WOULD BE OK          2.0       1682               0.38
+3                                      I DON'T THINK I WOULD DO VERY WELL          3.0        736               0.17
+4                                       I HAVEN'T ANY IDEA HOW I WOULD DO          4.0        666               0.15
+5                                                               NO ANSWER          5.0         23               0.01
+
+
+
+S64.Q37 WHICH OF THE FOLLOWING STATEMENTS BEST TELLS THE WAY YOU FEEL ABOUT GETTING INTO THE FIGHTING?
+                                                                            answer_label answer_value raw_counts relative_frequency
+0                                                                     NO CODE OR NO DATA          0.0          2                0.0
+1                          I'M READY TO GO AND I WANT TO GET INTO THE REAL FIGHTING SOON          1.0        949               0.22
+2   I'D LIKE TO GET IN ON THE FIGHTING BEFORE IT'S OVER, BUT I DON'T THINK I'M READY YET          2.0       1312                0.3
+3                      I HOPE I WON'T HAVE TO GO, BUT IF I DO, I THINK I'LL DO ALL RIGHT          3.0       1160               0.26
+4         I HOPE I WON'T HAVE TO GO BECAUSE I DON'T THINK I'LL EVER BE GOOD AS A FIGHTER          4.0        399               0.09
+5                                 NONE OF THE ABOVE FITS ME, I'M TOO OLD FOR COMBAT DUTY          5.0         23               0.01
+6                      NONE OF THE ABOVE FITS ME, I'M NOT PHYSICALLY FIT FOR COMBAT DUTY          6.0        122               0.03
+7                                                   SHOULD BE IN WAR INDUSTRY OR ON FARM          7.0         21                0.0
+8               CHECKED 1, BUT QUALIFIED BY ASKING FOR FURLOUGH, WIFE'S PERMISSION, ETC.          8.0         30               0.01
+9                                                       WOULD PREFER TO BE AN INSTRUCTOR          9.0          6                0.0
+10                                    OTHER COMMENTS INDICATING MAN DOES NOT WISH COMBAT         10.0        128               0.03
+11                                                                             ALL OTHER         11.0        179               0.04
+12                                                                             NO ANSWER         12.0         61               0.01
+
+
+
+S64.Q38 ABOUT HOW MUCH LONGER FROM NOW DO YOU GUESS THE WAR WILL LAST WITH GERMANY?
+              answer_label answer_value raw_counts relative_frequency
+0       NO CODE OR NO DATA          0.0          1                0.0
+1         LESS THAN 1 YEAR          1.0       1839               0.42
+2                   1 YEAR          2.0        937               0.21
+3   OVER 1 BUT LESS THAN 2          3.0        682               0.16
+4                  2 YEARS          4.0        374               0.09
+5   OVER 2 BUT LESS THAN 3          5.0         84               0.02
+6                  3 YEARS          6.0         65               0.01
+7                   OVER 3          7.0         62               0.01
+8             A SHORT TIME          8.0         60               0.01
+9              A LONG TIME          9.0         11                0.0
+10   NO INDICATION OF TIME         10.0         36               0.01
+11              DON'T KNOW         11.0        149               0.03
+12               NO ANSWER         12.0         92               0.02
+
+
+
+S64.Q39 WHICH COMES CLOSEST TO YOUR IDEA OF HOW HARD IT IS GOING TO BE TO BEAT THE GERMANS?
+                                                     answer_label answer_value raw_counts relative_frequency
+0                                              NO CODE OR NO DATA          0.0          1                0.0
+1                                        IT WILL NOT BE VERY HARD          1.0        454                0.1
+2        IT WILL BE A TOUGH JOB BUT OUR LOSSES WON'T BE TOO HEAVY          2.0       2161               0.49
+3  IT WILL BE A TOUGH JOB, WITH HEAVY LOSSES OF MEN AND EQUIPMENT          3.0       1720               0.39
+4                                                       NO ANSWER          4.0         56               0.01
+
+
+
+S64.Q40 ABOUT HOW MUCH LONGER FROM NOW DO YOU GUESS THE WAR WILL LAST WITH JAPAN?
+              answer_label answer_value raw_counts relative_frequency
+0       NO CODE OR NO DATA          0.0          1                0.0
+1         LESS THAN 1 YEAR          1.0        596               0.14
+2                   1 YEAR          2.0        647               0.15
+3   OVER 1 BUT LESS THAN 2          3.0        927               0.21
+4                  2 YEARS          4.0        733               0.17
+5   OVER 2 BUT LESS THAN 3          5.0        331               0.08
+6                  3 YEARS          6.0        304               0.07
+7                   OVER 3          7.0        355               0.08
+8             A SHORT TIME          8.0         52               0.01
+9              A LONG TIME          9.0         42               0.01
+10   NO INDICATION OF TIME         10.0         87               0.02
+11              DON'T KNOW         11.0        200               0.05
+12               NO ANSWER         12.0        117               0.03
+
+
+
+S64.Q41 WHICH COMES CLOSEST TO YOUR IDEA OF HOW HARD IT IS GOING TO BE TO BEAT THE JAPANESE?
+                                                     answer_label answer_value raw_counts relative_frequency
+0                                              NO CODE OR NO DATA          0.0          1                0.0
+1                                        IT WILL NOT BE VERY HARD          1.0        564               0.13
+2        IT WILL BE A TOUGH JOB BUT OUR LOSSES WON'T BE TOO HEAVY          2.0       1903               0.43
+3  IT WILL BE A TOUGH JOB, WITH HEAVY LOSSES OF MEN AND EQUIPMENT          3.0       1870               0.43
+4                                                       NO ANSWER          4.0         54               0.01
+
+
+
+S64.Q42 DO YOU THINK THERE WILL BE ANOTHER WAR IN THE NEXT 25 YEARS OR SO?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1                 YES          1.0       1927               0.44
+2                  NO          2.0       1175               0.27
+3           UNDECIDED          3.0       1234               0.28
+4           NO ANSWER          4.0         55               0.01
+
+
+
+S64.Q43 DO YOU THINK YOU HAVE AS MUCH OF A PERSONAL STAKE IN THIS WAR AS ANYBODY ELSE?
+                  answer_label answer_value raw_counts relative_frequency
+0           NO CODE OR NO DATA          0.0          2                0.0
+1                          YES          1.0       3306               0.75
+2  I THINK SO BUT I'M NOT SURE          2.0        495               0.11
+3                           NO          3.0        300               0.07
+4                    UNDECIDED          4.0        234               0.05
+5                    NO ANSWER          5.0         55               0.01
+
+
+
+S64.Q44 DO YOU THINK THAT AFTER THE WAR THE TRAINING YOU ARE GETTING IN THE ARMY WILL OR WILL NOT HELP YOU TO GET A BETTER JOB THAN YOU HAD BEFORE YOU WENT INTO THE ARMY?
+                           answer_label answer_value raw_counts relative_frequency
+0                    NO CODE OR NO DATA          0.0          2                0.0
+1      WILL HELP ME TO GET A BETTER JOB          1.0       1676               0.38
+2  WILL NOT HELP ME TO GET A BETTER JOB          2.0       1927               0.44
+3                             UNDECIDED          3.0        751               0.17
+4                             NO ANSWER          4.0         36               0.01
+
+
+
+S64.Q45A DO YOU THINK THAT AFTER THE WAR SOLDIERS IN YOUR OUTFIT WILL FIND IT EASIER OR HARDER TO GET JOBS THAN THEY DID BEFORE THE WAR?
+                       answer_label answer_value raw_counts relative_frequency
+0                NO CODE OR NO DATA          0.0          1                0.0
+1        EASIER THAN BEFORE THE WAR          1.0        841               0.19
+2  ABOUT THE SAME AS BEFORE THE WAR          2.0        852               0.19
+3        HARDER THAN BEFORE THE WAR          3.0       2234               0.51
+4                         UNDECIDED          4.0        426                0.1
+5                         NO ANSWER          5.0         38               0.01
+
+
+
+S64.Q46A DO YOU THINK THAT THINGS WILL BE BETTER OR WORSE FOR YOU PERSONALLY AFTER THE WAR THAN THEY WERE BEFORE THE WAR?
+                                      answer_label answer_value raw_counts relative_frequency
+0                               NO CODE OR NO DATA          0.0          1                0.0
+1  BETTER FOR ME AFTER THE WAR THAN BEFORE THE WAR          1.0       1187               0.27
+2      SAME FOR ME AFTER THE WAR AS BEFORE THE WAR          2.0       1199               0.27
+3   WORSE FOR ME AFTER THE WAR THAN BEFORE THE WAR          3.0       1174               0.27
+4                                        UNDECIDED          4.0        801               0.18
+5                                        NO ANSWER          5.0         30               0.01
+
+
+
+S64.Q47 DO YOU THINK THE PROBLEMS THIS COUNTRY WILL HAVE AFTER THE WAR ARE GETTING TOO MUCH OR TOO LITTLE ATTENTION AT THE PRESENT TIME?
+                                               answer_label answer_value raw_counts relative_frequency
+0                                        NO CODE OR NO DATA          0.0          1                0.0
+1                   THEY ARE GETTING TOO MUCH ATTENTION NOW          1.0        418                0.1
+2  THEY ARE GETTING ABOUT THE RIGHT AMOUNT OF ATTENTION NOW          2.0       1635               0.37
+3                 THEY ARE GETTING TOO LITTLE ATTENTION NOW          3.0       1762                0.4
+4                                                 UNDECIDED          4.0        540               0.12
+5                                                 NO ANSWER          5.0         36               0.01
+
+
+
+S64.Q48 WHICH OF THESE THINGS DO YOU THINK THE UNITED STATES SHOULD TRY TO DO WHEN THE WAR IS OVER?
+                                    answer_label answer_value raw_counts relative_frequency
+0                             NO CODE OR NO DATA          0.0          4                0.0
+1  STAY OUT OF WORLD AFFAIRS AS MUCH AS POSSIBLE          1.0        933               0.21
+2           TAKE AN ACTIVE PART IN WORLD AFFAIRS          2.0       2887               0.66
+3                                     DON'T KNOW          3.0        544               0.12
+4                                      NO ANSWER          4.0         24               0.01
+
+
+
+S64.Q49A CONSIDERING WHAT EACH OF THESE COUNTRIES COULD DO, WHICH ONE DO YOU THINK IS TRYING HARDEST TO WIN THE WAR?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1             ENGLAND          1.0        265               0.06
+2              RUSSIA          2.0        942               0.21
+3               CHINA          3.0        567               0.13
+4       UNITED STATES          4.0       2260               0.51
+5          DON'T KNOW          5.0        273               0.06
+6           NO ANSWER          6.0         84               0.02
+
+
+
+S64.Q49B NOW, WHICH ONE DO YOU THINK IS TRYING NEXT HARDEST TO WIN?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1             ENGLAND          1.0        989               0.23
+2              RUSSIA          2.0       1421               0.32
+3               CHINA          3.0        709               0.16
+4       UNITED STATES          4.0        841               0.19
+5          DON'T KNOW          5.0        341               0.08
+6           NO ANSWER          6.0         90               0.02
+
+
+
+S64.Q50 HOW GOOD DO YOU THINK THE CHINESE ARE AS FIGHTERS?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1  VERY GOOD FIGHTERS          1.0       1460               0.33
+2       GOOD FIGHTERS          2.0       1475               0.34
+3       FAIR FIGHTERS          3.0       1011               0.23
+4       POOR FIGHTERS          4.0        202               0.05
+5          DON'T KNOW          5.0        222               0.05
+6           NO ANSWER          6.0         21                0.0
+
+
+
+S64.Q51 HOW ABOUT THE RUSSIANS AS FIGHTERS?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1  VERY GOOD FIGHTERS          1.0       2648                0.6
+2       GOOD FIGHTERS          2.0       1332                0.3
+3       FAIR FIGHTERS          3.0        268               0.06
+4       POOR FIGHTERS          4.0         25               0.01
+5          DON'T KNOW          5.0         97               0.02
+6           NO ANSWER          6.0         21                0.0
+
+
+
+S64.Q52A THE GERMANS?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1  VERY GOOD FIGHTERS          1.0       1656               0.38
+2       GOOD FIGHTERS          2.0       1742                0.4
+3       FAIR FIGHTERS          3.0        621               0.14
+4       POOR FIGHTERS          4.0        166               0.04
+5          DON'T KNOW          5.0        152               0.03
+6           NO ANSWER          6.0         53               0.01
+
+
+
+S64.Q52B THE JAPANESE?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1  VERY GOOD FIGHTERS          1.0       1048               0.24
+2       GOOD FIGHTERS          2.0       1655               0.38
+3       FAIR FIGHTERS          3.0       1025               0.23
+4       POOR FIGHTERS          4.0        423                0.1
+5          DON'T KNOW          5.0        167               0.04
+6           NO ANSWER          6.0         72               0.02
+
+
+
+S64.Q52C THE ENGLISH?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1  VERY GOOD FIGHTERS          1.0       1283               0.29
+2       GOOD FIGHTERS          2.0       1875               0.43
+3       FAIR FIGHTERS          3.0        864                0.2
+4       POOR FIGHTERS          4.0        178               0.04
+5          DON'T KNOW          5.0        106               0.02
+6           NO ANSWER          6.0         85               0.02
+
+
+
+S64.Q52D THE AMERICANS?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1  VERY GOOD FIGHTERS          1.0       3581               0.82
+2       GOOD FIGHTERS          2.0        667               0.15
+3       FAIR FIGHTERS          3.0         52               0.01
+4       POOR FIGHTERS          4.0          8                0.0
+5          DON'T KNOW          5.0         40               0.01
+6           NO ANSWER          6.0         43               0.01
+
+
+
+S64.Q53 DO YOU THINK ENGLAND CAN BE DEPENDED UPON TO COOPERATE WITH US AFTER THE WAR?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1      WILL COOPERATE          1.0       2391               0.54
+2            WILL NOT          2.0        692               0.16
+3          DON'T KNOW          3.0       1267               0.29
+4           NO ANSWER          4.0         41               0.01
+
+
+
+S64.Q54 WHAT ABOUT RUSSIA, CAN WE DEPEND UPON HER TO COOPERATE AFTER THE WAR?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1      WILL COOPERATE          1.0       1252               0.29
+2            WILL NOT          2.0        895                0.2
+3          DON'T KNOW          3.0       2205                0.5
+4           NO ANSWER          4.0         39               0.01
+
+
+
+S64.Q55 WHAT ABOUT CHINA?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          4                0.0
+1      WILL COOPERATE          1.0       3736               0.85
+2            WILL NOT          2.0         76               0.02
+3          DON'T KNOW          3.0        542               0.12
+4           NO ANSWER          4.0         34               0.01
+
+
+
+S64.Q56A "THE ENGLISH ARE DOING AS GOOD A JOB AS POSSIBLE OF FIGHTING THE WAR, CONSIDERING EVERYTHING."
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1               AGREE          1.0       3493                0.8
+2            DISAGREE          2.0        773               0.18
+3           UNDECIDED          3.0          4                0.0
+4      AGREE MODIFIED          4.0          4                0.0
+5           NO ANSWER          6.0        116               0.03
+
+
+
+S64.Q56B "BRITAIN IS MORE INTERESTED IN DOMINATING OR CONTROLLING THE WORLD THAN SHE IS IN BUILDING A TRULY DEMOCRATIC WORLD."
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1               AGREE          1.0       1562               0.36
+2            DISAGREE          2.0       2640                0.6
+3           UNDECIDED          3.0         28               0.01
+4      AGREE MODIFIED          4.0          4                0.0
+5   DISAGREE MODIFIED          5.0          7                0.0
+6           NO ANSWER          6.0        150               0.03
+
+
+
+S64.Q56C "THE RUSSIANS ARE DOING AS GOOD A JOB AS POSSIBLE OF FIGHTING THE WAR, CONSIDERING EVERYTHING."
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          5                0.0
+1               AGREE          1.0       4101               0.93
+2            DISAGREE          2.0        145               0.03
+3           UNDECIDED          3.0          6                0.0
+4      AGREE MODIFIED          4.0          1                0.0
+5           NO ANSWER          6.0        134               0.03
+
+
+
+S64.Q56D "RUSSIA IS MORE INTERESTED IN DOMINATING OR CONTROLLING THE WORLD THAN SHE IS IN BUILDING A TRULY DEMOCRATIC WORLD."
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1               AGREE          1.0       1317                0.3
+2            DISAGREE          2.0       2808               0.64
+3           UNDECIDED          3.0         62               0.01
+4      AGREE MODIFIED          4.0          7                0.0
+5   DISAGREE MODIFIED          5.0         13                0.0
+6           NO ANSWER          6.0        183               0.04
+
+
+
+S64.Q56E "WE SHOULD SEE TO IT THAT THE GERMAN PEOPLE SUFFER PLENTY FOR ALL THE TROUBLE THEY ARE CAUSING US."
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1               AGREE          1.0       2137               0.49
+2            DISAGREE          2.0       2054               0.47
+3           UNDECIDED          3.0         22               0.01
+4      AGREE MODIFIED          4.0         15                0.0
+5   DISAGREE MODIFIED          5.0         18                0.0
+6           NO ANSWER          6.0        145               0.03
+
+
+
+S64.Q56F "WE SHOULD SEE TO IT THAT THE JAPANESE PEOPLE SUFFER PLENTY FOR ALL THE TROUBLE THEY ARE CAUSING US."
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1               AGREE          1.0       3192               0.73
+2            DISAGREE          2.0       1032               0.23
+3           UNDECIDED          3.0         16                0.0
+4      AGREE MODIFIED          4.0         12                0.0
+5   DISAGREE MODIFIED          5.0         11                0.0
+6           NO ANSWER          6.0        128               0.03
+
+
+
+S64.Q56G "THE BRITISH ALWAYS TRY TO GET OTHER COUNTRIES TO DO THEIR FIGHTING FOR THEM."
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1               AGREE          1.0       2066               0.47
+2            DISAGREE          2.0       2097               0.48
+3           UNDECIDED          3.0         29               0.01
+4      AGREE MODIFIED          4.0         19                0.0
+5   DISAGREE MODIFIED          5.0          9                0.0
+6           NO ANSWER          6.0        170               0.04
+
+
+
+S64.Q56H "THE BRITISH CAN TAKE IT ON THE CHIN AND COME BACK FOR MORE."
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1               AGREE          1.0       3276               0.75
+2            DISAGREE          2.0        874                0.2
+3           UNDECIDED          3.0         35               0.01
+4      AGREE MODIFIED          4.0         30               0.01
+5   DISAGREE MODIFIED          5.0          2                0.0
+6           NO ANSWER          6.0        174               0.04
+
+
+
+S64.Q57 DO YOU THINK IT IS AT ALL LIKELY THAT WE WILL FIGHT ENGLAND IN THE NEXT 25 YEARS OR SO?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1        NOT POSSIBLE          1.0        946               0.22
+2     NOT VERY LIKELY          2.0       2458               0.56
+3        QUITE LIKELY          3.0        659               0.15
+4      ALMOST CERTAIN          4.0        140               0.03
+5           NO ANSWER          5.0        188               0.04
+
+
+
+S64.Q58 DO YOU THINK IT IS AT ALL LIKELY THAT WE WILL FIGHT RUSSIA IN THE NEXT 25 YEARS OR SO?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1        NOT POSSIBLE          1.0        384               0.09
+2     NOT VERY LIKELY          2.0       2099               0.48
+3        QUITE LIKELY          3.0       1508               0.34
+4      ALMOST CERTAIN          4.0        316               0.07
+5           NO ANSWER          5.0         83               0.02
+
+
+
+S64.Q59A DO YOU THINK THE UNITED STATES IS TAKING TOO LONG TO REALLY GET GOING IN THIS WAR OR NOT?
+                               answer_label answer_value raw_counts relative_frequency
+0                        NO CODE OR NO DATA          0.0          1                0.0
+1  THE UNITED STATES IS NOT TAKING TOO LONG          1.0       2558               0.58
+2      THE UNITED STATES IS TAKING TOO LONG          2.0       1266               0.29
+3                                 UNDECIDED          3.0        500               0.11
+4                                 NO ANSWER          4.0         67               0.02
+
+
+
+S64.Q60A HOW MUCH DO YOU THINK THE UNITED STATES IS DOING TO WIN THE WAR?
+                      answer_label answer_value raw_counts relative_frequency
+0               NO CODE OR NO DATA          0.0          2                0.0
+1        DOING ALL IT POSSIBLY CAN          1.0       2081               0.47
+2  DOING ALL IT CAN IN MOST THINGS          2.0       1302                0.3
+3        COULD DO QUITE A BIT MORE          3.0        711               0.16
+4        COULD DO A WHOLE LOT MORE          4.0        218               0.05
+5                        NO ANSWER          5.0         78               0.02
+
+
+
+S64.Q63 DO YOU THINK THE THINGS WE ARE FIGHTING FOR ARE WORTH RISKING YOUR LIFE FOR?
+                   answer_label answer_value raw_counts relative_frequency
+0            NO CODE OR NO DATA          0.0          1                0.0
+1                           YES          1.0       3735               0.85
+2  I THINK SO, BUT I'M NOT SURE          2.0        396               0.09
+3                            NO          3.0        121               0.03
+4                     UNDECIDED          4.0        111               0.03
+5                     NO ANSWER          5.0         28               0.01
+
+
+
+S64.Q64 HOW DO YOU THINK THIS WAR WILL COME OUT?
+                                         answer_label answer_value raw_counts relative_frequency
+0                                  NO CODE OR NO DATA          0.0          2                0.0
+1                IT WILL BE A COMPLETE VICTORY FOR US          1.0       2729               0.62
+2     WE WILL WIN, BUT IT WON'T BE A COMPLETE VICTORY          2.0       1435               0.33
+3                               IT WILL END IN A DRAW          3.0         34               0.01
+4  THE OTHER SIDE HAS A PRETTY GOOD CHANCE OF WINNING          4.0         40               0.01
+5                                           UNDECIDED          5.0        121               0.03
+6                                           NO ANSWER          6.0         31               0.01
+
+
+
+S64.Q65 DO YOU THINK IT WOULD MAKE MUCH DIFFERENCE TO YOU PERSONALLY IF WE DID NOT WIN THIS WAR?
+                                     answer_label answer_value raw_counts relative_frequency
+0                                       NO ANSWER          0.0         28               0.01
+1  IT WOULD MAKE A GREAT DEAL OF DIFFERENCE TO ME          1.0       4002               0.91
+2   IT WOULD MAKE QUITE A BIT OF DIFFERENCE TO ME          2.0        275               0.06
+3      IT WOULD NOT MAKE SO MUCH DIFFERENCE TO ME          3.0         60               0.01
+4          IT WOULD NOT MAKE ANY DIFFERENCE TO ME          4.0         27               0.01
+
+
+
+S64.Q66 IN YOUR OPINION IS THE UNITED STATES FIGHTING FOR THINGS THAT YOU FEEL ARE WORTH FIGHTING FOR?
+                   answer_label answer_value raw_counts relative_frequency
+0            NO CODE OR NO DATA          0.0          1                0.0
+1                           YES          1.0       3951                0.9
+2  I THINK SO, BUT I'M NOT SURE          2.0        253               0.06
+3                            NO          3.0         85               0.02
+4                     UNDECIDED          4.0         67               0.02
+5                     NO ANSWER          5.0         35               0.01
+
+
+
+S64.Q67 DO THE MEN IN YOUR COMPANY (BATTERY, SQUADRON, TROOP) COOPERATE, AND WORK WELL TOGETHER?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1     ALL OF THE TIME          1.0        944               0.21
+2    MOST OF THE TIME          2.0       2437               0.55
+3        OFTEN DO NOT          3.0        719               0.16
+4     ALMOST NEVER DO          4.0        201               0.05
+5           UNDECIDED          5.0         66               0.02
+6           NO ANSWER          6.0         24               0.01
+
+
+
+S64.Q68 HOW MANY OF THE MEN IN YOUR COMPANY WOULD YOU SAY ARE GOOD ALL-AROUND SOLDIERS?
+                   answer_label answer_value raw_counts relative_frequency
+0            NO CODE OR NO DATA          0.0          1                0.0
+1                       ALL ARE          1.0        408               0.09
+2                      MOST ARE          2.0       2237               0.51
+3  ABOUT HALF ARE, HALF ARE NOT          3.0       1126               0.26
+4                ONLY A FEW ARE          4.0        514               0.12
+5               ALMOST NONE ARE          5.0         79               0.02
+6                     NO ANSWER          6.0         27               0.01
+
+
+
+S64.Q69 DO YOU LIKE TO WORK WITH THE OTHER FELLOWS IN YOUR COMPANY?
+              answer_label answer_value raw_counts relative_frequency
+0       NO CODE OR NO DATA          0.0          1                0.0
+1        WITH MOST OF THEM          1.0       3193               0.73
+2  WITH ABOUT HALF OF THEM          2.0        718               0.16
+3  WITH ONLY A FEW OF THEM          3.0        423                0.1
+4                UNDECIDED          4.0         38               0.01
+5                NO ANSWER          5.0         19                0.0
+
+
+
+S64.Q70 HOW DO YOU THINK YOUR COMPANY WOULD SHOW UP UNDER COMBAT CONDITIONS?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1           VERY WELL          1.0       1024               0.23
+2         FAIRLY WELL          2.0       1752                0.4
+3         NOT SO WELL          3.0        798               0.18
+4              POORLY          4.0        560               0.13
+5           UNDECIDED          5.0        233               0.05
+6           NO ANSWER          6.0         24               0.01
+
+
+
+S64.Q71 DO YOU FEEL PROUD OF YOUR PRESENT JOB OR DUTY?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1     YES, VERY PROUD          1.0       1349               0.31
+2   YES, FAIRLY PROUD          2.0       1728               0.39
+3       NO, NOT PROUD          3.0       1062               0.24
+4           UNDECIDED          4.0        224               0.05
+5           NO ANSWER          5.0         27               0.01
+
+
+
+S64.Q72 DO YOU FEEL PROUD OF YOUR REGIMENT? (IF YOU ARE NOT PART OF A REGIMENT, ANSWER THIS QUESTION FOR THE LARGEST UNIT TO WHICH YOU BELONG.)
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1     YES, VERY PROUD          1.0       1505               0.34
+2   YES, FAIRLY PROUD          2.0       1782               0.41
+3       NO, NOT PROUD          3.0        720               0.16
+4           UNDECIDED          4.0        256               0.06
+5           NO ANSWER          5.0        128               0.03
+
+
+
+S64.Q73A DO YOU BELONG TO A DIVISION OR REGIMENT THAT IS WELL KNOWN IN THE ARMY FOR WHAT IT HAS DONE IN THE PAST?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          3                0.0
+1                 YES          1.0       1093               0.25
+2                  NO          2.0       2148               0.49
+3          DON'T KNOW          3.0        971               0.22
+4           NO ANSWER          4.0        177               0.04
+
+
+
+S64.Q74 DO YOU EVER FEEL LIKE ASKING THE NONCOMS YOU SERVE UNDER QUESTIONS ABOUT WHY THINGS ARE DONE THE WAY THEY ARE?
+                  answer_label answer_value raw_counts relative_frequency
+0           NO CODE OR NO DATA          0.0          3                0.0
+1  VERY OFTEN FEEL LIKE ASKING          1.0       2354               0.54
+2   SOMETIMES FEEL LIKE ASKING          2.0       1300                0.3
+3      SELDOM FEEL LIKE ASKING          3.0        352               0.08
+4       NEVER FEEL LIKE ASKING          4.0        241               0.05
+5                    NO ANSWER          5.0        142               0.03
+
+
+
+S64.Q75 DO YOUR NONCOMS GIVE YOU A GOOD CHANCE TO ASK QUESTIONS AS TO THE REASON WHY THINGS ARE DONE THE WAY THEY ARE?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1              ALWAYS          1.0       1004               0.23
+2             USUALLY          2.0       1669               0.38
+3      NOT VERY OFTEN          3.0        982               0.22
+4        ALMOST NEVER          4.0        529               0.12
+5           UNDECIDED          5.0         61               0.01
+6           NO ANSWER          6.0        146               0.03
+
+
+
+S64.Q76 HOW DO YOU FEEL ABOUT THE NONCOMS THAT HAVE BEEN PICKED FROM YOUR OUTFIT?
+                                          answer_label answer_value raw_counts relative_frequency
+0                                   NO CODE OR NO DATA          0.0          1                0.0
+1   THEY ARE THE BEST ONES THAT COULD HAVE BEEN PICKED          1.0        611               0.14
+2  THEY ARE AS GOOD AS ANY THAT COULD HAVE BEEN PICKED          2.0       1445               0.33
+3          SOMEWHAT BETTER ONES COULD HAVE BEEN PICKED          3.0       1312                0.3
+4              MUCH BETTER ONES COULD HAVE BEEN PICKED          4.0        699               0.16
+5                                            UNDECIDED          5.0        195               0.04
+6                                            NO ANSWER          6.0        129               0.03
+
+
+
+S64.Q77 HOW MANY OF THE NONCOMS YOU NOW SERVE UNDER ARE THE KIND YOU WOULD WANT TO SERVE UNDER IN COMBAT?
+             answer_label answer_value raw_counts relative_frequency
+0      NO CODE OR NO DATA          0.0          2                0.0
+1         ALL OF THEM ARE          1.0        510               0.12
+2        MOST OF THEM ARE          2.0       1446               0.33
+3  ABOUT HALF OF THEM ARE          3.0        933               0.21
+4         FEW OF THEM ARE          4.0       1057               0.24
+5        NONE OF THEM ARE          5.0        317               0.07
+6               NO ANSWER          6.0        127               0.03
+
+
+
+S64.Q78 HOW MANY OF THE OFFICERS IN YOUR COMPANY (BATTERY, SQUADRON, TROOP) ARE THE KIND YOU WOULD WANT TO SERVE UNDER IN COMBAT?
+             answer_label answer_value raw_counts relative_frequency
+0      NO CODE OR NO DATA          0.0          3                0.0
+1         ALL OF THEM ARE          1.0       1063               0.24
+2        MOST OF THEM ARE          2.0       1405               0.32
+3  ABOUT HALF OF THEM ARE          3.0        646               0.15
+4         FEW OF THEM ARE          4.0        845               0.19
+5        NONE OF THEM ARE          5.0        298               0.07
+6               NO ANSWER          6.0        132               0.03
+
+
+
+S64.Q79 HOW MANY OF YOUR COMPANY OFFICERS ARE THE KIND WHO ARE WILLING TO GO THROUGH ANYTHING THEY ASK THEIR MEN TO GO THROUGH?
+             answer_label answer_value raw_counts relative_frequency
+0      NO CODE OR NO DATA          0.0          1                0.0
+1         ALL OF THEM ARE          1.0       1153               0.26
+2        MOST OF THEM ARE          2.0       1442               0.33
+3  ABOUT HALF OF THEM ARE          3.0        611               0.14
+4         FEW OF THEM ARE          4.0        823               0.19
+5        NONE OF THEM ARE          5.0        217               0.05
+6               NO ANSWER          6.0        145               0.03
+
+
+
+S64.Q80 HOW MANY OF YOUR OFFICERS TAKE A PERSONAL INTEREST IN THEIR MEN?
+            answer_label answer_value raw_counts relative_frequency
+0     NO CODE OR NO DATA          0.0          2                0.0
+1         ALL OF THEM DO          1.0        841               0.19
+2        MOST OF THEM DO          2.0       1456               0.33
+3  ABOUT HALF OF THEM DO          3.0        700               0.16
+4         FEW OF THEM DO          4.0       1051               0.24
+5        NONE OF THEM DO          5.0        213               0.05
+6              NO ANSWER          6.0        129               0.03
+
+
+
+S64.Q81 HOW MUCH DOES IT BOTHER YOU WHEN YOU ARE ORDERED TO DO THINGS WHICH YOU DON'T SEE A GOOD REASON FOR DOING?
+               answer_label answer_value raw_counts relative_frequency
+0        NO CODE OR NO DATA          0.0          1                0.0
+1   BOTHERS ME A GREAT DEAL          1.0        920               0.21
+2    BOTHERS ME QUITE A BIT          2.0       1251               0.28
+3    DOESN'T BOTHER ME MUCH          3.0       1670               0.38
+4  DOESN'T BOTHER ME AT ALL          4.0        444                0.1
+5                 NO ANSWER          5.0        106               0.02
+
+
+
+S64.Q82.1 DO MANY OF THE ARMY RULES AND REGULATIONS SEEM USELESS TO YOU?
+                            answer_label answer_value raw_counts relative_frequency
+0                     NO CODE OR NO DATA          0.0          1                0.0
+1                 NO, I NEVER THOUGHT SO          1.0        894                0.2
+2  NO, I USED TO THINK SO, BUT DON'T NOW          2.0       1502               0.34
+3             YES, TOO MANY SEEM USELESS          3.0       1700               0.39
+4                              UNDECIDED          4.0        262               0.06
+5                              NO ANSWER          5.0         33               0.01
+
+
+
+S64.Q82.2DO MANY OF THE ARMY RULES AND REGULATIONS SEEM USELESS TO YOU?
+                 answer_label answer_value raw_counts relative_frequency
+0          NO CODE OR NO DATA          0.0          3                0.0
+1        IT IS VERY IMPORTANT          1.0       3243               0.74
+2      IT IS PRETTY IMPORTANT          2.0        781               0.18
+3      IT IS NOT SO IMPORTANT          3.0        249               0.06
+4  IT IS NOT IMPORTANT AT ALL          4.0         90               0.02
+5                   NO ANSWER          5.0         26               0.01
+
+
+
+S64.Q84A DO YOU THINK THAT SOME OF THE ARMY DRILL OR TRAINING YOU ARE GETTING IS NOT NEEDED TO MAKE MEN GOOD SOLDIERS?
+                    answer_label answer_value raw_counts relative_frequency
+0             NO CODE OR NO DATA          0.0          2                0.0
+1  YES, MUCH OF IT IS NOT NEEDED          1.0        577               0.13
+2  YES, SOME OF IT IS NOT NEEDED          2.0       1365               0.31
+3              NO, ALL IS NEEDED          3.0       2113               0.48
+4                      UNDECIDED          4.0        293               0.07
+5                      NO ANSWER          5.0         42               0.01
+
+
+
+S64.Q85A DO YOU THINK YOU SHOULD BE GETTING MORE OF ANY KIND OF ARMY DRILL OR TRAINING THAN YOU GET NOW?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1                 YES          1.0       1646               0.37
+2                  NO          2.0       2082               0.47
+3           UNDECIDED          3.0        608               0.14
+4           NO ANSWER          4.0         54               0.01
+
+
+
+S64.Q86 HOW MUCH OF YOUR TRAINING OR DUTY TIME IS USED IN DOING THINGS THAT DO NOT SEEM IMPORTANT TO YOU?
+          answer_label answer_value raw_counts relative_frequency
+0   NO CODE OR NO DATA          0.0          2                0.0
+1          A LOT OF IT          1.0        958               0.22
+2           SOME OF IT          2.0       1785               0.41
+3  ONLY A LITTLE OF IT          3.0       1147               0.26
+4           NONE OF IT          4.0        463               0.11
+5            NO ANSWER          5.0         37               0.01
+
+
+
+S64.Q87 WHEN YOUR OFFICERS OR NONCOMS GIVE YOU SOMETHING TO DO, DO THEY TELL YOU ENOUGH ABOUT IT SO THAT YOU CAN DO A GOOD JOB?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         42               0.01
+1        ALWAYS TELL ME ENOUGH          1.0        807               0.18
+2       USUALLY TELL ME ENOUGH          2.0       2300               0.52
+3  OFTEN DO NOT TELL ME ENOUGH          3.0        920               0.21
+4  ALMOST NEVER TELL ME ENOUGH          4.0        255               0.06
+5                    UNDECIDED          5.0         68               0.02
+
+
+
+S64.Q88 IN GENERAL, HOW WELL DO YOU THINK THE ARMY IS RUN?
+            answer_label answer_value raw_counts relative_frequency
+0     NO CODE OR NO DATA          0.0          2                0.0
+1    IT IS RUN VERY WELL          1.0       1012               0.23
+2  IT IS RUN PRETTY WELL          2.0       2242               0.51
+3  IT IS NOT RUN SO WELL          3.0        660               0.15
+4  IT IS RUN VERY POORLY          4.0        323               0.07
+5              UNDECIDED          5.0        116               0.03
+6              NO ANSWER          6.0         37               0.01
+
+
+
+S64.Q89 DO YOU THINK THE EQUIPMENT OF THE AMERICAN ARMY IS BETTER OR WORSE THAN THE EQUIPMENT OF THE GERMAN ARMY?
+                                                 answer_label answer_value raw_counts relative_frequency
+0                                          NO CODE OR NO DATA          0.0          1                0.0
+1                              ALL OF OUR EQUIPMENT IS BETTER          1.0       2167               0.49
+2                             MOST OF OUR EQUIPMENT IS BETTER          2.0       1652               0.38
+3  OUR EQUIPMENT IS ABOUT THE SAME AS THAT OF THE GERMAN ARMY          3.0        247               0.06
+4                              MOST OF OUR EQUIPMENT IS WORSE          4.0         10                0.0
+5                               ALL OF OUR EQUIPMENT IS WORSE          5.0          7                0.0
+6                                                  DON'T KNOW          6.0        263               0.06
+7                                                   NO ANSWER          7.0         45               0.01
+
+
+
+S64.Q90 IF IT WERE UP TO YOU TO CHOOSE, WOULD YOU RATHER BE A SOLDIER OR WOULD YOU RATHER BE A CIVILIAN DOING SOME KIND OF WORK NEEDED TO WIN THE WAR?
+                                                                 answer_label answer_value raw_counts relative_frequency
+0                                                          NO CODE OR NO DATA          0.0          5                0.0
+1                                                 I WOULD RATHER BE A SOLDIER          1.0       1784               0.41
+2  I WOULD RATHER BE A CIVILIAN DOING SOME KIND OF WORK NEEDED TO WIN THE WAR          2.0       2202                0.5
+3                                                                   UNDECIDED          3.0        353               0.08
+4                                                                   NO ANSWER          4.0         48               0.01
+
+
+
+S64.Q91A.x HAVE YOU EVER KNOWN ANY SOLDIERS WHO WENT AWOL FOR MORE THAN A DAY? F. IF YES:  Q.91B. THINK OF THE ONE YOU KNEW BEST. DO YOU THINK HE WAS PUNISHED TOO MUCH OR TOO LITTLE?
+                answer_label answer_value raw_counts relative_frequency
+0         NO CODE OR NO DATA          0.0          1                0.0
+1     NO, HAVE NOT KNOWN ANY          1.0        627               0.14
+2     YES, PUNISHED TOO MUCH          2.0        683               0.16
+3  YES, PUNISHED ABOUT RIGHT          3.0       1747                0.4
+4   YES, PUNISHED TOO LITTLE          4.0        993               0.23
+5                  UNDECIDED          5.0        235               0.05
+6    YES, NO ANSWER HOW MUCH          6.0         39               0.01
+7                  NO ANSWER          7.0         67               0.02
+
+
+
+S64.Q92A IN GENERAL, HOW SERIOUS AN OFFENSE DO YOU THINK IT IS FOR A SOLDIER TO GO AWOL?
+                   answer_label answer_value raw_counts relative_frequency
+0                  VERY SERIOUS          1.0       1674               0.38
+1                PRETTY SERIOUS          2.0       1002               0.23
+2                NOT SO SERIOUS          3.0        351               0.08
+3            NOT SERIOUS AT ALL          4.0         91               0.02
+4                     UNDECIDED          5.0         70               0.02
+5  IT DEPENDS ON THE CONDITIONS          6.0       1108               0.25
+6                     NO ANSWER          7.0         96               0.02
+
+
+
+S64.Q93 HOW MANY FURLOUGHS HAVE YOU HAD IN THE PAST 12 MONTHS?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          8                0.0
+1                NONE          1.0       2283               0.52
+2                 ONE          2.0       1658               0.38
+3                 TWO          3.0        289               0.07
+4       THREE OR MORE          4.0         37               0.01
+5           NO ANSWER          5.0        117               0.03
+
+
+
+S64.Q94 ABOUT HOW MANY TIMES IN THE PAST 30 DAYS HAVE YOU HAD LEAVE FROM CAMP FOR 12 HOURS OR MORE AT A TIME?
+        answer_label answer_value raw_counts relative_frequency
+0             1 TIME          1.0        793               0.18
+1            2 TIMES          2.0        752               0.17
+2                  3          3.0        531               0.12
+3                  4          4.0        570               0.13
+4                  5          5.0        110               0.03
+5                  6          6.0         65               0.01
+6                  7          7.0         25               0.01
+7                  8          8.0         59               0.01
+8                  9          9.0          4                0.0
+9   10 OR MORE TIMES         10.0        237               0.05
+10       NONE AT ALL         11.0       1034               0.24
+11         NO ANSWER         12.0        211               0.05
+
+
+
+S64.Q95 DO YOU FEEL THAT YOU HAVE BEEN GIVEN YOUR FAIR SHARE OF FURLOUGHS AND PASSES SINCE YOU HAVE BEEN IN THIS CAMP?
+                                                         answer_label answer_value raw_counts relative_frequency
+0          YES, I HAVE HAD MY FAIR SHARE OF BOTH FURLOUGHS AND PASSES          1.0       1370               0.31
+1            I HAVE HAD MY FAIR SHARE OF FURLOUGHS, BUT NOT OF PASSES          2.0        420                0.1
+2            I HAVE HAD MY FAIR SHARE OF PASSES, BUT NOT OF FURLOUGHS          3.0       1331                0.3
+3      NO, I HAVE NOT HAD MY FAIR SHARE OF EITHER FURLOUGHS OR PASSES          4.0       1107               0.25
+4  I HAVE HAD MY FAIR SHARE OF PASSES, HAVE BEEN IN ARMY A SHORT TIME          5.0          2                0.0
+5                                                           NO ANSWER          6.0        162               0.04
+
+
+
+S64.Q96 UP TO NOW, HAS THE WAR MADE THINGS BETTER OR WORSE FOR YOUR FAMILY AND FRIENDS BACK HOME (SUCH THINGS AS JOBS, PAY AND LIVING CONDITIONS)?
+                              answer_label answer_value raw_counts relative_frequency
+0                THINGS ARE A LITTLE WORSE          4.0       1285               0.29
+1                   THINGS ARE A LOT WORSE          5.0        949               0.22
+2                               DON'T KNOW          6.0        198               0.05
+3                                NO ANSWER          7.0         87               0.02
+4                       NO CODE OR NO DATA          0.0          4                0.0
+5                  THINGS ARE A LOT BETTER          1.0        497               0.11
+6  THINGS ARE A LITTLE BETTER BUT NOT MUCH          2.0        714               0.16
+7               I DON'T SEE ANY DIFFERENCE          3.0        658               0.15
+
+
+
+S64.V98 POST-WAR OPTIMISM-PESSIMISM SCORE E. DERIVED FROM QUESTIONS 42, 45, 46.
+         answer_label answer_value raw_counts relative_frequency
+0          SCORE OF 0          0.0        843               0.19
+1          SCORE OF 1          1.0       1608               0.37
+2          SCORE OF 2          2.0       1190               0.27
+3          SCORE OF 3          3.0        568               0.13
+4          SCORE OF 4          4.0        182               0.04
+5  NO CODE OR NO DATA          9.0          1                0.0
+
+
+
+S64.V99 SATISFACTION WITH ROLE IN WAR EFFORT SCORE E. DERIVED FROM QUESTIONS 10, 29, 30, 71.
+  answer_label answer_value raw_counts relative_frequency
+0   SCORE OF 0          0.0        708               0.16
+1   SCORE OF 1          1.0        594               0.14
+2   SCORE OF 2          2.0        813               0.19
+3   SCORE OF 3          3.0       1551               0.35
+4   SCORE OF 4          4.0        726               0.17
+
+
+
+S64.V100 CONFIDENCE IN COUNTRY SCORE E. DERIVED FROM QUESTIONS 49, 52D, 59A, 60A.
+  answer_label answer_value raw_counts relative_frequency
+0   SCORE OF 0          0.0        261               0.06
+1   SCORE OF 1          1.0        873                0.2
+2   SCORE OF 2          2.0       1132               0.26
+3   SCORE OF 3          3.0       1153               0.26
+4   SCORE OF 4          4.0        973               0.22
+
+
+
+S64.V101 CONFIDENCE AND PRIDE IN OUTFIT SCORE E. DERIVED FROM QUESTIONS 17, 67, 68, 69, 70, 72.
+         answer_label answer_value raw_counts relative_frequency
+0          SCORE OF 0          0.0        497               0.11
+1          SCORE OF 1          1.0        652               0.15
+2          SCORE OF 2          2.0        656               0.15
+3          SCORE OF 3          3.0        874                0.2
+4          SCORE OF 4          4.0        659               0.15
+5          SCORE OF 5          5.0        604               0.14
+6          SCORE OF 6          6.0        448                0.1
+7  NO CODE OR NO DATA          9.0          2                0.0
+
+
+
+S64.V102 ATTITUDE TOWARD BRITAIN SCORE E. DERIVED FROM QUESTIONS 52C, 53, 56A,B,G,H, 57.
+         answer_label answer_value raw_counts relative_frequency
+0          SCORE OF 0          0.0        310               0.07
+1          SCORE OF 2          2.0        555               0.13
+2          SCORE OF 1          1.0        408               0.09
+3          SCORE OF 3          3.0        652               0.15
+4          SCORE OF 4          4.0        754               0.17
+5          SCORE OF 5          5.0        808               0.18
+6          SCORE OF 6          6.0        669               0.15
+7          SCORE OF 7          7.0        232               0.05
+8  NO CODE OR NO DATA          9.0          4                0.0
+
+
+
+S64.V103 ATTITUDE TOWARD CHINA SCORE E. DERIVED FROM QUESTIONS 50, 55.
+         answer_label answer_value raw_counts relative_frequency
+0          SCORE OF 0          0.0         16                0.0
+1          SCORE OF 1          1.0         64               0.01
+2          SCORE OF 2          2.0        429                0.1
+3          SCORE OF 3          3.0       1150               0.26
+4          SCORE OF 4          4.0       1392               0.32
+5          SCORE OF 5          5.0       1339                0.3
+6  NO CODE OR NO DATA          9.0          2                0.0
+
+
+
+S64.V104 ATTITUDE TOWARD RUSSIA SCORE E. DERIVED FROM QUESTIONS 51, 54, 56D, 58.
+         answer_label answer_value raw_counts relative_frequency
+0          SCORE OF 0          0.0        213               0.05
+1          SCORE OF 1          1.0       1255               0.29
+2          SCORE OF 2          2.0       1790               0.41
+3          SCORE OF 3          3.0        930               0.21
+4          SCORE OF 4          4.0        203               0.05
+5  NO CODE OR NO DATA          9.0          1                0.0
+
+
+
+S64.V105 ATTITUDE TOWARD NONCOMS SCORE E. DERIVED FROM QUESTIONS 75, 76, 77.
+          answer_label answer_value raw_counts relative_frequency
+0           SCORE OF 0          0.0        211               0.05
+1           SCORE OF 1          1.0        334               0.08
+2           SCORE OF 2          2.0        495               0.11
+3           SCORE OF 3          3.0        547               0.12
+4           SCORE OF 4          4.0        594               0.14
+5           SCORE OF 5          5.0        589               0.13
+6           SCORE OF 6          6.0        712               0.16
+7           SCORE OF 7          7.0        420                0.1
+8           SCORE OF 8          8.0        273               0.06
+9           SCORE OF 9          9.0        215               0.05
+10  NO CODE OR NO DATA         10.0          2                0.0
+
+
+
+S64.V106 ATTITUDE TOWARD OFFICERS SCORE E. DERIVED FROM QUESTIONS 78, 79, 80.
+   answer_label answer_value raw_counts relative_frequency
+0    SCORE OF 0          0.0         77               0.02
+1    SCORE OF 1          1.0         86               0.02
+2    SCORE OF 2          2.0        183               0.04
+3    SCORE OF 3          3.0        537               0.12
+4    SCORE OF 4          4.0        214               0.05
+5    SCORE OF 5          5.0        269               0.06
+6    SCORE OF 6          6.0        371               0.08
+7    SCORE OF 7          7.0        301               0.07
+8    SCORE OF 8          8.0        329               0.07
+9    SCORE OF 9          9.0        747               0.17
+10  SCORE OF 10         10.0        372               0.08
+11  SCORE OF 11         11.0        354               0.08
+12  SCORE OF 12         12.0        552               0.13
+
+
+
+S64.V107 CRITICISM OF THE ARMY SCORE E. DERIVED FROM QUESTIONS 82, 56, 87, 88, 89.
+         answer_label answer_value raw_counts relative_frequency
+0          SCORE OF 0          0.0       1417               0.32
+1          SCORE OF 1          1.0       1572               0.36
+2          SCORE OF 2          2.0        760               0.17
+3          SCORE OF 3          3.0        378               0.09
+4          SCORE OF 4          4.0        201               0.05
+5          SCORE OF 5          5.0         63               0.01
+6  NO CODE OR NO DATA          9.0          1                0.0
+
+
+
+S64.V108 DISCIPLINE SCORE E. DERIVED FROM QUESTIONS 78, 81, 82, 92A.
+         answer_label answer_value raw_counts relative_frequency
+0          SCORE OF 0          0.0         81               0.02
+1          SCORE OF 1          1.0        526               0.12
+2          SCORE OF 2          2.0       1494               0.34
+3          SCORE OF 3          3.0       1347               0.31
+4          SCORE OF 4          4.0        638               0.15
+5          SCORE OF 5          5.0        232               0.05
+6          SCORE OF 6          6.0          1                0.0
+7  NO CODE OR NO DATA          9.0         73               0.02
+
+
+
+S64.V109 TOUGH JOB SCORE E. DERIVED FROM QUESTIONS 38, 39, 40, 41, 52A, 52B.
+         answer_label answer_value raw_counts relative_frequency
+0          SCORE OF 0          0.0        263               0.06
+1          SCORE OF 1          1.0        549               0.12
+2          SCORE OF 2          2.0        851               0.19
+3          SCORE OF 3          3.0        851               0.19
+4          SCORE OF 4          4.0        832               0.19
+5          SCORE OF 5          5.0        608               0.14
+6          SCORE OF 6          6.0        436                0.1
+7  NO CODE OR NO DATA          9.0          2                0.0
+
+
+
+S64.V110 PERSONAL ADJUSTMENT SCORE E. DERIVED FROM QUESTIONS 18, 20, 22, 23, 24.
+         answer_label answer_value raw_counts relative_frequency
+0          SCORE OF 0          0.0        165               0.04
+1          SCORE OF 2          2.0        429                0.1
+2          SCORE OF 1          1.0        235               0.05
+3          SCORE OF 3          3.0        688               0.16
+4          SCORE OF 4          4.0        915               0.21
+5          SCORE OF 5          5.0        832               0.19
+6          SCORE OF 6          6.0        646               0.15
+7          SCORE OF 7          7.0        480               0.11
+8  NO CODE OR NO DATA          9.0          2                0.0
+
+
+
+S64.V111 SATISFACTION WITH JOB ASSIGNMENT SCORE E. DERIVED FROM QUESTIONS 18, 19, 27, 28, 30.
+         answer_label answer_value raw_counts relative_frequency
+0          SCORE OF 2          2.0        809               0.18
+1          SCORE OF 4          4.0        824               0.19
+2          SCORE OF 5          5.0        753               0.17
+3  NO CODE OR NO DATA          9.0          1                0.0
+4       0. SCORE OF 0          0.0        437                0.1
+5          SCORE OF 1          1.0        709               0.16
+6          SCORE OF 3          3.0        859                0.2
+
+
+
+S64.V112 DESIRE FOR COMBAT SCORE E. DERIVED FROM QUESTIONS 25, 36, 37.
+         answer_label answer_value raw_counts relative_frequency
+0          SCORE OF 0          0.0        218               0.05
+1          SCORE OF 2          2.0        773               0.18
+2          SCORE OF 1          1.0        374               0.09
+3          SCORE OF 3          3.0        624               0.14
+4          SCORE OF 4          4.0        552               0.13
+5          SCORE OF 5          5.0        789               0.18
+6          SCORE OF 6          6.0        513               0.12
+7          SCORE OF 7          7.0        547               0.12
+8  NO CODE OR NO DATA          9.0          2                0.0
+
+
+
+S64.V113 SELF CONFIDENCE SCORE E. DERIVED FROM QUESTIONS 21, 36.
+         answer_label answer_value raw_counts relative_frequency
+0          SCORE OF 0          0.0       1085               0.25
+1          SCORE OF 1          1.0       2246               0.51
+2          SCORE OF 2          2.0       1060               0.24
+3  NO CODE OR NO DATA          9.0          1                0.0
+
+
+
+S64.V114 VINDICTIVENESS SCORE E. DERIVED FROM QUESTIONS 56E, F.
+         answer_label answer_value raw_counts relative_frequency
+0          SCORE OF 0          0.0       1038               0.24
+1          SCORE OF 1          1.0       1073               0.24
+2          SCORE OF 2          2.0       2278               0.52
+3  NO CODE OR NO DATA          9.0          3                0.0
+
+
+
+S64.V115 POST-WAR ARMY SCORE E. DERIVED FROM QUESTIONS 33, 34.
+         answer_label answer_value raw_counts relative_frequency
+0          SCORE OF 0          0.0        972               0.22
+1          SCORE OF 1          1.0        578               0.13
+2          SCORE OF 2          2.0        271               0.06
+3          SCORE OF 3          3.0        867                0.2
+4          SCORE OF 4          4.0       1082               0.25
+5          SCORE OF 5          5.0        475               0.11
+6          SCORE OF 6          6.0        145               0.03
+7  NO CODE OR NO DATA          9.0          2                0.0
+
+
+
+S64.V116 FEELING OF ARMY INTEREST SCORE E. DERIVED FROM QUESTIONS 28, 30, 80, 87, 95.
+         answer_label answer_value raw_counts relative_frequency
+0          SCORE OF 0          0.0        380               0.09
+1          SCORE OF 1          1.0       1303                0.3
+2          SCORE OF 2          2.0       1212               0.28
+3          SCORE OF 3          3.0        769               0.18
+4          SCORE OF 4          4.0        439                0.1
+5          SCORE OF 5          5.0        208               0.05
+6          SCORE OF 6          6.0          1                0.0
+7  NO CODE OR NO DATA          9.0         80               0.02
+
+
+
+S64.V117 CAMP IDENTIFICATION:
+                         answer_label answer_value raw_counts relative_frequency
+0                  NO CODE OR NO DATA          0.0          3                0.0
+1                    CAMP ADAIR, ORE.          1.0        194               0.04
+2                  GOWEN FIELD, IDAHO          2.0        132               0.03
+3                HAMILTON FIELD, CAL.          3.0        175               0.04
+4                     CAMP HAAN, CAL.          5.0        230               0.05
+5                   CAMP MCCAIN, MISS          9.0        168               0.04
+6                  FORT DEVENS, MASS.         14.0        140               0.03
+7                 CAMP BLANDING, FLA.         41.0        322               0.07
+8                      FORT KNOX, KY.         51.0        333               0.08
+9                      CAMP POLK, LA.         57.0        266               0.06
+10  MUNICIPAL AIRPORT, MEMPHIS, TENN.         58.0         52               0.01
+11                FORT SHERIDAN, ILL.         63.0        275               0.06
+12                  FORT BRADY, MICH.         65.0        144               0.03
+13                   FORT MEADE, S.D.         66.0        133               0.03
+14             FORT LEONARD WOOD, MO.         72.0        313               0.07
+15                   ELLINGTON, TEXAS         77.0        102               0.02
+16                  CAMP MAXEY, TEXAS         78.0        257               0.06
+17               SHEPPARD FIELD, TEX.         79.0        257               0.06
+18                   DREW FIELD, FLA.         90.0        267               0.06
+19                 LOWRY FIELD, COLO.         91.0        224               0.05
+20                  FORT LEWIS, WASH.         95.0        178               0.04
+21                 CAMP ROBERTS, CAL.         99.0        227               0.05
+
+
+

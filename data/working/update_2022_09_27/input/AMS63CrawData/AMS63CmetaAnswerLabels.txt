@@ -1,0 +1,1460 @@
+{
+  "FORM": {
+    "1.0": "S-63A",
+    "2.0": "S-63B",
+    "3.0": "S-63C",
+    "4.0": "S-63D",
+    "5.0": "S-63E",
+    "6.0": "S-63F",
+    "7.0": "S-63G"
+  },
+  "S63C.Q1": {
+    "0.0": "NO ANSWER",
+    "1.0": "PRIVATE",
+    "2.0": "PRIVATE FIRST CLASS",
+    "3.0": "TECHNICIAN 5TH GRADE OR CORPORAL",
+    "4.0": "TECHNICIAN 4TH GRADE OR SERGEANT",
+    "5.0": "TECHNICIAN 3RD GRADE OR STAFF SERGEANT",
+    "6.0": "TECHNICAL SERGEANT",
+    "7.0": "MASTER SERGEANT OR FIRST SERGEANT"
+  },
+  "S63C.Q2": {
+    "0.0": "NO ANSWER",
+    "1.0": "18 YEARS OR YOUNGER",
+    "2.0": "19 YEARS",
+    "3.0": "20",
+    "4.0": "21",
+    "5.0": "22",
+    "6.0": "23",
+    "7.0": "24",
+    "8.0": "25",
+    "9.0": "26-29 YEARS",
+    "10.0": "30-34 YEARS",
+    "11.0": "35 YEARS AND OVER"
+  },
+  "S63C.Q3": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN 6TH GRADE",
+    "2.0": "FINISHED 6TH GRADE",
+    "3.0": "FINISHED 7TH GRADE",
+    "4.0": "FINISHED 8TH GRADE",
+    "5.0": "SOME HIGH SCHOOL BUT DID NOT FINISH",
+    "6.0": "GRADUATED FROM HIGH SCHOOL",
+    "7.0": "SOME COLLEGE BUT DID NOT FINISH",
+    "8.0": "GRADUATED FROM COLLEGE"
+  },
+  "S63C.Q4": {
+    "0.0": "NO ANSWER",
+    "1.0": "NEW ENGLAND",
+    "2.0": "MIDDLE ATLANTIC",
+    "3.0": "EAST NORTH CENTRAL",
+    "4.0": "WEST NORTH CENTRAL",
+    "5.0": "SOUTH ATLANTIC",
+    "6.0": "EAST SOUTH CENTRAL",
+    "7.0": "WEST SOUTH CENTRAL",
+    "8.0": "MOUNTAIN",
+    "9.0": "PACIFIC",
+    "10.0": "FOREIGN - U.S. POSSESSION",
+    "11.0": "FOREIGN - NOT U.S.",
+    "12.0": "U.S. - STATE NOT SPECIFIED"
+  },
+  "S63C.Q5": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ON A FARM OR IN THE COUNTRY",
+    "2.0": "IN A SMALL TOWN (FEWER THAN 2,500 PEOPLE)",
+    "3.0": "IN A TOWN (WITH BETWEEN 2,500 AND 25,000 PEOPLE)",
+    "4.0": "IN A CITY (BETWEEN 25,000 AND 100,000 PEOPLE)",
+    "5.0": "IN A LARGE CITY (MORE THAN 100,000 PEOPLE)",
+    "6.0": "NO ANSWER"
+  },
+  "S63C.Q6.x": {
+    "0.0": "NO ANSWER",
+    "1.0": "SINGLE",
+    "2.0": "DIVORCED OR SEPARATED",
+    "3.0": "WIDOWED",
+    "4.0": "MARRIED BEFORE ENTERING THE ARMY",
+    "5.0": "MARRIED AFTER ENTERING THE ARMY"
+  },
+  "S63C.Q8": {
+    "0.0": "NO ANSWER",
+    "1.0": "HAVE ONE CHILD",
+    "2.0": "HAVE TWO CHILDREN",
+    "3.0": "HAVE THREE OR MORE CHILDREN",
+    "4.0": "HAVE NO CHILDREN",
+    "5.0": "I'M NOT MARRIED"
+  },
+  "S63C.Q9": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "I'M NOT MARRIED"
+  },
+  "S63C.Q10": {
+    "0.0": "NO ANSWER",
+    "1.0": "I WAS DRAFTED",
+    "2.0": "I VOLUNTEERED",
+    "3.0": "I WAS IN THE NATIONAL GUARD"
+  },
+  "S63C.Q11": {
+    "0.0": "NO ANSWER",
+    "1.0": "3 MONTHS OR LESS",
+    "2.0": "OVER 3 MONTHS UP TO 6 MONTHS",
+    "3.0": "OVER 6 MONTHS UP TO 9 MONTHS",
+    "4.0": "OVER 9 MONTHS UP TO 1 YEAR",
+    "5.0": "OVER 1 YEAR UP TO 2 YEARS",
+    "6.0": "OVER 2 YEARS"
+  },
+  "S63C.Q12": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, THE ARMY HAS CLASSIFIED ME AS LIMITED SERVICE",
+    "2.0": "NO, THE ARMY HAS NOT CLASSIFIED ME AS LIMITED SERVICE",
+    "3.0": "I DON'T KNOW WHETHER THE ARMY HAS CLASSIFIED ME AS LIMITED SERVICE OR NOT"
+  },
+  "S63C.Q14": {
+    "0.0": "NO ANSWER",
+    "1.0": "SAME AS I DID BEFORE ENTERING THE ARMY",
+    "2.0": "SOME OTHER KIND OF WORK",
+    "3.0": "UNDECIDED"
+  },
+  "S63C.Q15": {
+    "0.0": "NO ANSWER",
+    "1.0": "1 YEAR OR LESS",
+    "2.0": "OVER 1 YEAR UP TO 2 YEARS",
+    "3.0": "OVER 2 YEARS UP TO 3 YEARS",
+    "4.0": "OVER 3 YEARS UP TO 4 YEARS",
+    "5.0": "OVER 4 YEARS UP TO 5 YEARS",
+    "6.0": "OVER 5 YEARS",
+    "7.0": "I CAME INTO THE ARMY RIGHT OUT OF SCHOOL"
+  },
+  "S63C.Q16A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED"
+  },
+  "S63C.Q17A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED"
+  },
+  "S63C.Q19": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "3 MONTHS OR LESS",
+    "2.0": "OVER 3 MONTHS UP TO 6 MONTHS",
+    "3.0": "OVER 6 MONTHS UP TO 9 MONTHS",
+    "4.0": "OVER 9 MONTHS UP TO 1 YEAR",
+    "5.0": "OVER 1 YEAR",
+    "6.0": "NO ANSWER"
+  },
+  "S63C.Q20": {
+    "0.0": "NO ANSWER",
+    "1.0": "ENGINEERS",
+    "2.0": "FIELD ARTILLERY",
+    "3.0": "QUARTERMASTER CORPS",
+    "4.0": "INFANTRY",
+    "5.0": "MEDICAL DEPARTMENT",
+    "6.0": "ARMORED FORCE",
+    "7.0": "SIGNAL CORPS",
+    "8.0": "COAST ARTILLERY AND ANTI-AIRCRAFT",
+    "9.0": "AIR CORPS",
+    "10.0": "TRANSPORTATION CORPS",
+    "11.0": "ORDNANCE DEPARTMENT",
+    "12.0": "CHEMICAL WARFARE SERVICE",
+    "13.0": "MILITARY POLICE",
+    "14.0": "CAVALRY",
+    "15.0": "FINANCE",
+    "16.0": "OTHER"
+  },
+  "S63C.Q21": {
+    "0.0": "NO ANSWER",
+    "1.0": "ENGINEERS",
+    "2.0": "FIELD ARTILLERY",
+    "3.0": "QUARTERMASTER CORPS",
+    "4.0": "INFANTRY",
+    "5.0": "MEDICAL DEPARTMENT",
+    "6.0": "ARMORED FORCE",
+    "7.0": "SIGNAL CORPS",
+    "8.0": "COAST ARTILLERY AND ANTI-AIRCRAFT",
+    "9.0": "AIR CORPS",
+    "10.0": "TRANSPORTATION CORPS",
+    "11.0": "ORDNANCE DEPARTMENT",
+    "12.0": "CHEMICAL WARFARE SERVICE",
+    "13.0": "MILITARY POLICE",
+    "14.0": "CAVALRY",
+    "15.0": "FINANCE",
+    "16.0": "OTHER"
+  },
+  "S63C.Q22": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONCE EVERY 2 OR 3 WEEKS",
+    "2.0": "ONCE A WEEK",
+    "3.0": "TWICE A WEEK",
+    "4.0": "THREE OR MORE TIMES A WEEK",
+    "5.0": "LESS THAN ONCE A MONTH",
+    "6.0": "ONCE A MONTH",
+    "7.0": "NEVER",
+    "8.0": "I LIVE OFF POST IN A TOWN OR CITY"
+  },
+  "S63C.Q23": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, VERY PROUD",
+    "2.0": "YES, FAIRLY PROUD",
+    "3.0": "NO, NOT PROUD",
+    "4.0": "UNDECIDED"
+  },
+  "S63C.Q24": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH INTERESTED",
+    "2.0": "A LITTLE BUT NOT MUCH",
+    "3.0": "NOT INTERESTED AT ALL"
+  },
+  "S63C.Q25": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED"
+  },
+  "S63C.Q26": {
+    "0.0": "NO ANSWER",
+    "1.0": "I USUALLY FEEL IT IS WORTHWHILE",
+    "2.0": "I USUALLY FEEL IT IS NOT WORTHWHILE",
+    "3.0": "UNDECIDED"
+  },
+  "S63C.Q27": {
+    "0.0": "NO ANSWER",
+    "1.0": "I FEEL PRETTY SURE I CAN MAKE GOOD",
+    "2.0": "I AM NOT SO SURE I CAN MAKE GOOD",
+    "3.0": "UNDECIDED"
+  },
+  "S63C.Q28": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I HAVE A PRETTY GOOD TIME",
+    "2.0": "IT'S ABOUT FIFTY-FIFTY",
+    "3.0": "I HAVE A PRETTY ROTTEN TIME",
+    "4.0": "NO ANSWER"
+  },
+  "S63C.Q29": {
+    "0.0": "NO ANSWER",
+    "1.0": "I AM USUALLY IN GOOD SPIRITS",
+    "2.0": "I AM IN GOOD SPIRITS SOME OF THE TIME AND IN LOW SPIRITS SOME OF THE TIME",
+    "3.0": "I AM USUALLY IN LOW SPIRITS"
+  },
+  "S63C.Q30": {
+    "0.0": "NO ANSWER",
+    "1.0": "I AM HARDLY EVER WORRIED AND UPSET",
+    "2.0": "I AM SOMETIMES WORRIED AND UPSET",
+    "3.0": "I AM OFTEN WORRIED AND UPSET"
+  },
+  "S63C.Q31": {
+    "0.0": "NO ANSWER",
+    "1.0": "IN A COMBAT OUTFIT OVERSEAS",
+    "2.0": "IN A NON-COMBAT OUTFIT OVERSEAS",
+    "3.0": "IN AN OUTFIT THAT WILL STAY IN THE UNITED STATES"
+  },
+  "S63C.Q32": {
+    "0.0": "NO ANSWER",
+    "1.0": "AS A SOLDIER",
+    "2.0": "AS A WAR WORKER",
+    "3.0": "UNDECIDED"
+  },
+  "S63C.Q33": {
+    "0.0": "NO ANSWER",
+    "1.0": "MOST OF THE TIME",
+    "2.0": "MUCH OF THE TIME",
+    "3.0": "NOT VERY OFTEN",
+    "4.0": "NEVER"
+  },
+  "S63C.Q34": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, ONCE",
+    "2.0": "YES, TWICE",
+    "3.0": "YES, THREE OR FOUR TIMES",
+    "4.0": "YES, ALMOST EVERY DAY",
+    "5.0": "NO, NO SPORTS OR ATHLETIC GAMES DURING TRAINING OR DUTY HOURS",
+    "6.0": "DON'T KNOW"
+  },
+  "S63C.Q35": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN AN HOUR",
+    "2.0": "ABOUT ONE HOUR",
+    "3.0": "ABOUT TWO HOURS",
+    "4.0": "ABOUT THREE OR FOUR HOURS",
+    "5.0": "ABOUT FIVE OR SIX HOURS",
+    "6.0": "ABOUT SEVEN OR MORE HOURS",
+    "7.0": "NONE AT ALL",
+    "8.0": "I WAS OFF REGULAR DUTY OR TRAINING ONE OR MORE DAYS LAST WEEK",
+    "9.0": "I DON'T REMEMBER"
+  },
+  "S63C.Q36": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONE DAY",
+    "2.0": "TWO DAYS",
+    "3.0": "THREE OR FOUR DAYS",
+    "4.0": "ALMOST EVERY DAY",
+    "5.0": "NOT AT ALL",
+    "6.0": "I WAS AWAY FROM MY REGULAR OUTFIT ONE OR MORE DAYS LAST WEEK"
+  },
+  "S63C.Q37": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN AN HOUR",
+    "2.0": "ABOUT ONE HOUR",
+    "3.0": "ABOUT TWO HOURS",
+    "4.0": "ABOUT THREE OR FOUR HOURS",
+    "5.0": "ABOUT FIVE OR SIX HOURS",
+    "6.0": "ABOUT SEVEN OR MORE HOURS",
+    "7.0": "NONE AT ALL",
+    "8.0": "I WAS AWAY FROM MY REGULAR OUTFIT ONE OR MORE DAYS LAST WEEK",
+    "9.0": "I DON'T REMEMBER"
+  },
+  "S63C.Q38A.x": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, OFF-DUTY PROGRAM - YES, USUALLY TAKE PART",
+    "2.0": "YES, OFF-DUTY PROGRAM - NO, DO NOT USUALLY TAKE PART",
+    "3.0": "YES, OFF-DUTY PROGRAM, NO ANSWER TO Q.38B",
+    "4.0": "NO, THERE IS NO OFF-DUTY ATHLETIC PROGRAM IN WHICH THE MEN IN MY OUTFIT CAN TAKE PART",
+    "5.0": "DON'T KNOW IF THERE IS AN OFF-DUTY ATHLETIC PROGRAM"
+  },
+  "S63C.Q39A1": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL",
+    "4.0": "NEVER TRIED IT"
+  },
+  "S63C.Q39A2": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL",
+    "4.0": "NEVER TRIED IT"
+  },
+  "S63C.Q39A3": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL",
+    "4.0": "NEVER TRIED IT"
+  },
+  "S63C.Q39A4": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL",
+    "4.0": "NEVER TRIED IT"
+  },
+  "S63C.Q39A5": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL",
+    "4.0": "NEVER TRIED IT"
+  },
+  "S63C.Q39A6": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL",
+    "4.0": "NEVER TRIED IT"
+  },
+  "S63C.Q39B1": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL",
+    "4.0": "NEVER TRIED IT"
+  },
+  "S63C.Q39B2": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL",
+    "4.0": "NEVER TRIED IT"
+  },
+  "S63C.Q39B3": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL",
+    "4.0": "NEVER TRIED IT"
+  },
+  "S63C.Q39B4": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL",
+    "4.0": "NEVER TRIED IT"
+  },
+  "S63C.Q39B5": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL",
+    "4.0": "NEVER TRIED IT"
+  },
+  "S63C.Q39B6": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL",
+    "4.0": "NEVER TRIED IT"
+  },
+  "S63C.Q39C1": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL",
+    "4.0": "NEVER TRIED IT"
+  },
+  "S63C.Q39C2": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL",
+    "4.0": "NEVER TRIED IT"
+  },
+  "S63C.Q39C3": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL",
+    "4.0": "NEVER TRIED IT"
+  },
+  "S63C.Q39C4": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL",
+    "4.0": "NEVER TRIED IT"
+  },
+  "S63C.Q39C5": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL",
+    "4.0": "NEVER TRIED IT"
+  },
+  "S63C.Q39C6": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL",
+    "4.0": "NEVER TRIED IT"
+  },
+  "S63C.Q40.1": {
+    "1.0": "TENNIS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q40.2": {
+    "1.0": "GOLF",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q40.3": {
+    "1.0": "TOUCH FOOTBALL",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q40.4": {
+    "1.0": "REGULAR FOOTBALL",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q40.5": {
+    "1.0": "BADMINTON",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q40.6": {
+    "1.0": "HANDBALL",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q40.7": {
+    "1.0": "VOLLEY BALL",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q40.8": {
+    "1.0": "PING PONG",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q40.9": {
+    "1.0": "BASEBALL",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q40.10": {
+    "1.0": "SOFTBALL",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q40.11": {
+    "1.0": "BOXING",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q40.12": {
+    "1.0": "WRESTLING",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q40.13": {
+    "1.0": "SOCCER",
+    "2.0": "NOT CHOSEN"
+  },
+  "FORM..1": {
+    "1.0": "S-63A",
+    "2.0": "S-63B",
+    "3.0": "S-63C",
+    "4.0": "S-63D",
+    "5.0": "S-63E",
+    "6.0": "S-63F",
+    "7.0": "S-63G"
+  },
+  "S63C.Q40.14": {
+    "1.0": "TRACK",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q40.15": {
+    "1.0": "BASKETBALL",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q40.16": {
+    "1.0": "HORSESHOE PITCHING",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q40.17": {
+    "1.0": "SWIMMING AND DIVING",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q40.18": {
+    "1.0": "BOWLING",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q40.19": {
+    "1.0": "OTHER",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q40.20": {
+    "1.0": "I DON'T LIKE TO TAKE PART IN ANY OF THE SPORTS IN THE LISTS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q40.21": {
+    "1.0": "NO ANSWER",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q41": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "I DIDN'T NAME A SPORT IN QUESTION",
+    "4.0": "NO ANSWER"
+  },
+  "S63C.Q42": {
+    "0.0": "NO ANSWER",
+    "1.0": "THERE IS A GOOD PLACE",
+    "2.0": "THERE IS A PLACE THAT WILL DO",
+    "3.0": "THERE IS NO PLACE",
+    "4.0": "I DIDN'T NAME A SPORT IN QUESTION"
+  },
+  "S63C.Q43": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "I DIDN'T NAME A SPORT IN QUESTION"
+  },
+  "S63C.Q45": {
+    "0.0": "NO ANSWER",
+    "1.0": "I AM VERY WELL SATISFIED",
+    "2.0": "I AM PRETTY WELL SATISFIED",
+    "3.0": "I AM SOMEWHAT DISSATISFIED",
+    "4.0": "I AM VERY DISSATISFIED"
+  },
+  "S63C.Q46.1": {
+    "1.0": "BASEBALL",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q46.2": {
+    "1.0": "BASKETBALL",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q46.3": {
+    "1.0": "BADMINTON",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q46.4": {
+    "1.0": "BOXING",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q46.5": {
+    "1.0": "BOWLING",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q46.6": {
+    "1.0": "PING PONG",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q46.7": {
+    "1.0": "SOFTBALL",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q46.8": {
+    "1.0": "SOCCER",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q46.9": {
+    "1.0": "GOLF",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q46.10": {
+    "1.0": "SWIMMING AND DIVING",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q46.11": {
+    "1.0": "REGULAR FOOTBALL (OR JUST \"FOOTBALL\")",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q46.12": {
+    "1.0": "TOUCH FOOTBALL",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q46.13": {
+    "1.0": "HANDBALL",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q46.14": {
+    "1.0": "HORSESHOE PITCHING",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q46.15": {
+    "1.0": "TENNIS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q46.16": {
+    "1.0": "TRACK",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q46.17": {
+    "1.0": "VOLLEYBALL",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q46.18": {
+    "1.0": "WRESTLING",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q46.19": {
+    "1.0": "OTHER",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q46.20": {
+    "1.0": "NO ANSWER",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q47A1": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL",
+    "4.0": "NEVER SAW IT"
+  },
+  "S63C.Q47A2": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL",
+    "4.0": "NEVER SAW IT"
+  },
+  "S63C.Q47A3": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL",
+    "4.0": "NEVER SAW IT"
+  },
+  "S63C.Q47A4": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL",
+    "4.0": "NEVER SAW IT"
+  },
+  "S63C.Q47A5": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL",
+    "4.0": "NEVER SAW IT"
+  },
+  "S63C.Q47A6": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL",
+    "4.0": "NEVER SAW IT"
+  },
+  "S63C.Q47B1": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL",
+    "4.0": "NEVER SAW IT"
+  },
+  "S63C.Q47B2": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL",
+    "4.0": "NEVER SAW IT"
+  },
+  "S63C.Q47B3": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL",
+    "4.0": "NEVER SAW IT"
+  },
+  "S63C.Q47B4": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL",
+    "4.0": "NEVER SAW IT"
+  },
+  "S63C.Q47B5": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL",
+    "4.0": "NEVER SAW IT"
+  },
+  "S63C.Q47B6": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL",
+    "4.0": "NEVER SAW IT"
+  },
+  "S63C.Q47C1": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL",
+    "4.0": "NEVER SAW IT"
+  },
+  "S63C.Q47C2": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL",
+    "4.0": "NEVER SAW IT"
+  },
+  "S63C.Q47C3": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL",
+    "4.0": "NEVER SAW IT"
+  },
+  "S63C.Q47C4": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL",
+    "4.0": "NEVER SAW IT"
+  },
+  "S63C.Q47C5": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL",
+    "4.0": "NEVER SAW IT"
+  },
+  "S63C.Q47C6": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL",
+    "4.0": "NEVER SAW IT"
+  },
+  "S63C.Q48.1": {
+    "1.0": "BASEBALL",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q48.2": {
+    "1.0": "BASKETBALL",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q48.3": {
+    "1.0": "BADMINTON",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q48.4": {
+    "1.0": "BOXING",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q48.5": {
+    "1.0": "BOWLING",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q48.6": {
+    "1.0": "PING PONG",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q48.7": {
+    "1.0": "SOFTBALL",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q48.8": {
+    "1.0": "SOCCER",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q48.9": {
+    "1.0": "GOLF",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q48.10": {
+    "1.0": "SWIMMING AND DIVING",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q48.11": {
+    "1.0": "REGULAR FOOTBALL (OR JUST \"FOOTBALL\")",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q48.12": {
+    "1.0": "TOUCH FOOTBALL",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q48.13": {
+    "1.0": "HANDBALL",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q48.14": {
+    "1.0": "HORSESHOE PITCHING",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q48.15": {
+    "1.0": "TENNIS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q48.16": {
+    "1.0": "TRACK",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q48.17": {
+    "1.0": "VOLLEYBALL",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q48.18": {
+    "1.0": "WRESTLING",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q48.19": {
+    "1.0": "OTHER",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q48.20": {
+    "1.0": "I DON'T LIKE TO WATCH ANY OF THE SPORTS IN THE LISTS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q48.21": {
+    "1.0": "NO ANSWER",
+    "2.0": "NOT CHOSEN"
+  },
+  "FORM..2": {
+    "1.0": "S-63A",
+    "2.0": "S-63B",
+    "3.0": "S-63C",
+    "4.0": "S-63D",
+    "5.0": "S-63E",
+    "6.0": "S-63F",
+    "7.0": "S-63G"
+  },
+  "S63C.Q49A.x": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, TEAMS - YES, PLAY OFTEN ENOUGH",
+    "2.0": "YES, TEAMS - NO, DO NOT PLAY OFTEN ENOUGH",
+    "3.0": "YES, TEAMS, NO ANSWER TO Q.49B",
+    "4.0": "YES TO PART A, NO SUCH TEAMS TO PART B",
+    "5.0": "NO, AS FAR AS I KNOW THERE ARE NO SUCH TEAMS",
+    "6.0": "DON'T KNOW IF THERE ARE ANY SUCH TEAMS",
+    "7.0": "I DID NOT NAME ANY SPORTS IN QUESTION"
+  },
+  "S63C.Q49C": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, ALMOST EVERY TIME THEY PLAY",
+    "2.0": "YES, SOMETIMES",
+    "3.0": "NO, SELDOM OR NEVER",
+    "4.0": "AS FAR AS I KNOW THERE ARE NO SUCH TEAMS",
+    "5.0": "I DID NOT NAME ANY SPORTS IN QUESTION"
+  },
+  "S63C.Q50": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "AS FAR AS I KNOW THERE ARE NO REGULAR OUTFIT TEAMS OR POST TEAMS HERE"
+  },
+  "S63C.Q51A": {
+    "0.0": "NO ANSWER",
+    "1.0": "THERE ARE TOO MANY TEAMS",
+    "2.0": "THERE ARE ABOUT THE RIGHT NUMBER OF TEAMS",
+    "3.0": "THERE ARE NOT ENOUGH TEAMS",
+    "4.0": "UNDECIDED"
+  },
+  "S63C.Q52": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, WE HAVE ENOUGH",
+    "2.0": "NO, WE DON'T HAVE ENOUGH",
+    "3.0": "NO, WE DON'T HAVE ANY AT ALL",
+    "4.0": "I'M NOT INTERESTED IN SPORTS",
+    "5.0": "DON'T KNOW"
+  },
+  "S63C.Q53": {
+    "0.0": "NO ANSWER",
+    "1.0": "I THINK IT'S GOOD EQUIPMENT",
+    "2.0": "I THINK IT'S FAIR EQUIPMENT",
+    "3.0": "I THINK IT'S POOR EQUIPMENT",
+    "4.0": "DON'T KNOW",
+    "5.0": "SO FAR AS I KNOW WE DON'T HAVE ANY EQUIPMENT"
+  },
+  "S63C.Q54A": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "DON'T KNOW"
+  },
+  "S63C.Q54B": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "DON'T KNOW"
+  },
+  "S63C.Q54C": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "DON'T KNOW"
+  },
+  "S63C.Q54D": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "DON'T KNOW"
+  },
+  "S63C.Q54E": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "DON'T KNOW",
+    "4.0": "NO ANSWER"
+  },
+  "S63C.Q54F": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "DON'T KNOW"
+  },
+  "S63C.Q54G": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "DON'T KNOW"
+  },
+  "S63C.Q54H": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "DON'T KNOW"
+  },
+  "S63C.Q54I": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "DON'T KNOW"
+  },
+  "S63C.Q55": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT IS ABSOLUTELY NECESSARY",
+    "2.0": "IT IS OF GREAT IMPORTANCE",
+    "3.0": "IT IS OF MEDIUM IMPORTANCE",
+    "4.0": "IT IS OF LITTLE IMPORTANCE",
+    "5.0": "IT IS OF NO IMPORTANCE AT ALL"
+  },
+  "S63C.Q56": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT IS ABSOLUTELY NECESSARY",
+    "2.0": "IT IS OF GREAT IMPORTANCE",
+    "3.0": "IT IS OF MEDIUM IMPORTANCE",
+    "4.0": "IT IS OF LITTLE IMPORTANCE",
+    "5.0": "IT IS OF NO IMPORTANCE AT ALL"
+  },
+  "S63C.Q57": {
+    "0.0": "NO ANSWER",
+    "1.0": "A GREAT DEAL",
+    "2.0": "QUITE A BIT",
+    "3.0": "NOT SO MUCH",
+    "4.0": "VERY LITTLE"
+  },
+  "S63C.Q58": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ONE",
+    "2.0": "TWO",
+    "3.0": "THREE",
+    "4.0": "MORE THAN THREE",
+    "5.0": "NONE"
+  },
+  "S63C.Q60A.1": {
+    "1.0": "BINGO",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q60A.2": {
+    "1.0": "CHECKERS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q60A.3": {
+    "1.0": "CHESS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q60A.4": {
+    "1.0": "CHINESE CHECKERS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q60A.5": {
+    "1.0": "CRIBBAGE",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q60A.6": {
+    "1.0": "DARTS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q60A.7": {
+    "1.0": "DOMINOES",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q60A.8": {
+    "1.0": "MONOPOLY",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q60A.9": {
+    "1.0": "TWO OR MORE GAMES",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q60A.10": {
+    "1.0": "OTHER",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q60A.11": {
+    "1.0": "I DON'T LIKE TO PLAY ANY OF THE ABOVE GAMES",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q60A.12": {
+    "1.0": "NO ANSWER",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q61": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONLY ONCE",
+    "2.0": "EVERY DAY",
+    "3.0": "MORE THAN ONCE A DAY",
+    "4.0": "ONCE OR TWICE A WEEK",
+    "5.0": "THREE OR FOUR TIMES A WEEK",
+    "6.0": "FIVE OR SIX TIMES A WEEK",
+    "7.0": "ABOUT TWO OR THREE TIMES IN THE MONTH",
+    "8.0": "NOT AT ALL",
+    "9.0": "THERE IS NO SERVICE CLUB HERE IN THIS CAMP"
+  },
+  "S63C.Q62.1": {
+    "1.0": "WROTE LETTERS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q62.2": {
+    "1.0": "PLAYED BINGO",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q62.3": {
+    "1.0": "PLAYED CARDS OR OTHER \"SITTING DOWN\" GAMES",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q62.4": {
+    "1.0": "PLAYED PING-PONG OR OTHER \"STANDING UP\" GAMES",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q62.5": {
+    "1.0": "ATE OR DRANK AT THE SODA FOUNTAIN OR SNACK BAR",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q62.6": {
+    "1.0": "ALL FIVE ITEMS CHECKED ABOVE (COLS. 42-46)",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q62.7": {
+    "1.0": "ATE IN THE CAFETERIA",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q62.8": {
+    "1.0": "LISTENED TO THE RADIO",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q62.9": {
+    "1.0": "LISTENED TO PHONOGRAPH RECORDS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q62.10": {
+    "1.0": "GOT A BOOK OUT OF THE LIBRARY",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q62.11": {
+    "1.0": "READ A BOOK",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q62.12": {
+    "1.0": "ALL FIVE ITEMS CHECKED ABOVE (COLS. 48-52)",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q62.13": {
+    "1.0": "PLAYED OR LISTENED TO THE PIANO",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q62.14": {
+    "1.0": "READ A MAGAZINE OR NEWSPAPER",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q62.15": {
+    "1.0": "HEARD A CONCERT",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q62.16": {
+    "1.0": "DANCED",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q62.17": {
+    "1.0": "MET FRIENDS OR RELATIVES",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q62.18": {
+    "1.0": "ALL FIVE ITEMS CHECKED ABOVE (COLS. 54-58)",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q62.19": {
+    "1.0": "TOOK PART IN GROUP SINGING",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q62.20": {
+    "1.0": "SAW A SHOW OR STUNTS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q62.21": {
+    "1.0": "SAW A MOVIE",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q62.22": {
+    "1.0": "MADE PHONE CALLS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q62.23": {
+    "1.0": "JUST SAT AROUND AND TOOK IT EASY",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q62.24": {
+    "1.0": "SOMETHING ELSE",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q62.25": {
+    "1.0": "ALL SIX ITEMS CHECKED ABOVE (COLS 60-65)",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q62.26": {
+    "1.0": "I DID NOT GO TO THE SERVICE CLUB DURING THE PAST MONTH",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q62.27": {
+    "1.0": "THERE IS NO SERVICE CLUB HERE IN THIS CAMP",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q62.28": {
+    "1.0": "NO ANSWER",
+    "2.0": "NOT CHOSEN"
+  },
+  "S63C.Q64": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "I NEVER GO TO A SERVICE CLUB",
+    "4.0": "THERE IS NO SERVICE CLUB HERE IN THIS CAMP"
+  },
+  "S63C.Q65": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONLY ONCE",
+    "2.0": "EVERY DAY",
+    "3.0": "MORE THAN ONCE EVERY DAY",
+    "4.0": "ONCE OR TWICE A WEEK",
+    "5.0": "THREE OR FOUR TIMES A WEEK",
+    "6.0": "FIVE OR SIX TIMES A WEEK",
+    "7.0": "ABOUT TWO OR THREE TIMES IN THE MONTH",
+    "8.0": "NOT AT ALL",
+    "9.0": "THERE IS NO SERVICE CLUB CAFETERIA HERE IN THIS CAMP"
+  },
+  "S63C.Q66": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT IS VERY GOOD",
+    "2.0": "IT IS PRETTY GOOD",
+    "3.0": "IT IS NOT SO GOOD",
+    "4.0": "IT IS BAD",
+    "5.0": "I NEVER EAT THERE, SO I CAN'T ANSWER",
+    "6.0": "THERE IS NO SERVICE CLUB CAFETERIA HERE IN THIS CAMP"
+  },
+  "S63C.Q67": {
+    "0.0": "NO ANSWER",
+    "1.0": "PRICES ARE HIGHER THAN TOWN PRICES",
+    "2.0": "PRICES ARE ABOUT THE SAME AS TOWN PRICES",
+    "3.0": "PRICES ARE LOWER THAN TOWN PRICES",
+    "4.0": "THERE IS NO SERVICE CLUB CAFETERIA HERE IN THIS CAMP",
+    "5.0": "NO OPINION"
+  },
+  "S63C.Q68": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT IS VERY GOOD",
+    "2.0": "IT IS PRETTY GOOD",
+    "3.0": "IT IS NOT SO GOOD",
+    "4.0": "IT IS BAD",
+    "5.0": "I NEVER EAT THERE, SO I CAN'T ANSWER",
+    "6.0": "THERE IS NO SERVICE CLUB CAFETERIA HERE IN THIS CAMP"
+  },
+  "S63C.Q69": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONLY ONCE",
+    "2.0": "EVERY DAY",
+    "3.0": "MORE THAN ONCE EVERY DAY",
+    "4.0": "ONCE OR TWICE A WEEK",
+    "5.0": "THREE OR FOUR TIMES A WEEK",
+    "6.0": "FIVE OR SIX TIMES A WEEK",
+    "7.0": "ABOUT TWO OR THREE TIMES IN THE MONTH",
+    "8.0": "NOT AT ALL",
+    "9.0": "THE SERVICE CLUB DOESN'T HAVE A SODA FOUNTAIN",
+    "10.0": "THERE IS NO SERVICE CLUB HERE IN THIS CAMP",
+    "11.0": "I DID NOT GO TO THE SERVICE CLUB DURING THE PAST MONTH"
+  },
+  "S63C.Q70": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONCE EVERY TWO OR THREE WEEKS",
+    "2.0": "ONCE A WEEK",
+    "3.0": "TWO OR MORE TIMES A WEEK",
+    "4.0": "LESS THAN ONCE A MONTH",
+    "5.0": "ONCE A MONTH",
+    "6.0": "NOT AT ALL",
+    "7.0": "THERE IS NO SERVICE CLUB HERE IN THIS CAMP",
+    "8.0": "DON'T KNOW"
+  },
+  "S63C.Q71": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONCE EVERY TWO OR THREE WEEKS",
+    "2.0": "ONCE A WEEK",
+    "3.0": "TWO OR MORE TIMES A WEEK",
+    "4.0": "LESS THAN ONCE A MONTH",
+    "5.0": "ONCE A MONTH",
+    "6.0": "NOT AT ALL",
+    "7.0": "THERE IS NO SERVICE CLUB HERE IN THIS CAMP",
+    "8.0": "UNDECIDED"
+  },
+  "S63C.Q73": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT IS ABSOLUTELY NECESSARY",
+    "2.0": "IT IS OF GREAT IMPORTANCE",
+    "3.0": "IT IS OF MEDIUM IMPORTANCE",
+    "4.0": "IT IS OF LITTLE IMPORTANCE",
+    "5.0": "IT IS OF NO IMPORTANCE AT ALL"
+  },
+  "FORM..3": {
+    "1.0": "S-63A",
+    "2.0": "S-63B",
+    "3.0": "S-63C",
+    "4.0": "S-63D",
+    "5.0": "S-63E",
+    "6.0": "S-63F",
+    "7.0": "S-63G"
+  },
+  "S63C.Q76": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "DON'T KNOW"
+  },
+  "S63C.Q77": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONCE EVERY TWO OR THREE WEEKS",
+    "2.0": "ONCE A WEEK",
+    "3.0": "TWICE A WEEK",
+    "4.0": "THREE OR MORE TIMES A WEEK",
+    "5.0": "LESS THAN ONCE A MONTH",
+    "6.0": "ONCE A MONTH",
+    "7.0": "NEVER",
+    "8.0": "THERE IS NO USO CLUB IN A TOWN OR CITY NEAR MY CAMP"
+  },
+  "S63C.Q78": {
+    "0.0": "NO ANSWER",
+    "1.0": "2 MILES OR LESS",
+    "2.0": "OVER 2 MILES UP TO 5 MILES",
+    "3.0": "OVER 5 MILES UP TO 10 MILES",
+    "4.0": "OVER 10 MILES UP TO 15 MILES",
+    "5.0": "OVER 15 MILES UP TO 20 MILES",
+    "6.0": "OVER 20 MILES UP TO 25 MILES",
+    "7.0": "OVER 25 MILES UP TO 50 MILES",
+    "8.0": "OVER 50 MILES",
+    "9.0": "THERE IS NO USO CLUB IN A TOWN OR CITY NEAR MY CAMP",
+    "10.0": "DON'T KNOW"
+  },
+  "S63C.Q79": {
+    "0.0": "NO ANSWER",
+    "1.0": "ABOUT 15 MINUTES",
+    "2.0": "ABOUT 30 MINUTES",
+    "3.0": "ABOUT AN HOUR",
+    "4.0": "ABOUT AN HOUR AND A HALF",
+    "5.0": "ABOUT TWO HOURS",
+    "6.0": "MORE THAN TWO HOURS",
+    "7.0": "DON'T KNOW"
+  },
+  "S63C.Q80": {
+    "0.0": "NO ANSWER",
+    "1.0": "ABOUT 15 MINUTES",
+    "2.0": "ABOUT 30 MINUTES",
+    "3.0": "ABOUT AN HOUR",
+    "4.0": "ABOUT AN HOUR AND A HALF",
+    "5.0": "ABOUT TWO HOURS",
+    "6.0": "MORE THAN TWO HOURS",
+    "7.0": "DON'T KNOW"
+  },
+  "S63C.Q82": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT IS ABSOLUTELY NECESSARY",
+    "2.0": "IT IS OF GREAT IMPORTANCE",
+    "3.0": "IT IS OF MEDIUM IMPORTANCE",
+    "4.0": "IT IS OF LITTLE IMPORTANCE",
+    "5.0": "IT IS OF NO IMPORTANCE AT ALL"
+  },
+  "S63C.Q83A": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "DON'T KNOW"
+  },
+  "S63C.Q83B": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "DON'T KNOW"
+  },
+  "S63C.Q83C": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "DON'T KNOW"
+  },
+  "S63C.Q83D": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "DON'T KNOW"
+  },
+  "S63C.Q83E": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "DON'T KNOW"
+  },
+  "S63C.Q83F": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "DON'T KNOW"
+  },
+  "S63C.Q83G": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "DON'T KNOW"
+  },
+  "S63C.Q86A": {
+    "0.0": "NO ANSWER",
+    "1.0": "IMPORTANT",
+    "2.0": "NOT IMPORTANT",
+    "3.0": "DON'T KNOW"
+  },
+  "S63C.Q86B": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "DON'T KNOW"
+  },
+  "S63C.Q86C": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "DON'T KNOW"
+  },
+  "S63C.Q86D": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "DON'T KNOW"
+  },
+  "S63C.Q86E": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "DON'T KNOW"
+  },
+  "S63C.Q86F": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "DON'T KNOW"
+  },
+  "S63C.Q86G": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "DON'T KNOW"
+  },
+  "S63C.Q86H": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "DON'T KNOW"
+  },
+  "S63C.Q86I": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "DON'T KNOW"
+  },
+  "S63C.Q86J": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE",
+    "3.0": "DON'T KNOW"
+  },
+  "S63C.V87": {
+    "1.0": "CAMP ADAIR, OR",
+    "2.0": "CAMP ALAMOGORDO, NM",
+    "3.0": "CAMP BARKELEY, TX",
+    "4.0": "CAMP BLANDING, FL",
+    "5.0": "FORT BRADY, MI",
+    "6.0": "CAMP CLAIBORNE, LA",
+    "7.0": "FORT DEVENS, MA",
+    "8.0": "DREW FIELD, FL",
+    "9.0": "CAMP EDWARDS, MA",
+    "10.0": "ELLINGTON FIELD, TX",
+    "11.0": "CAMP FORREST, TN",
+    "12.0": "GOWEN FIELD, ID",
+    "13.0": "CAMP HAAN, CA",
+    "14.0": "HAMILTON FIELD, CA",
+    "15.0": "FORT JACKSON, SC",
+    "16.0": "JEFFERSON BARRACKS, MO",
+    "17.0": "FORT KNOX, KY",
+    "18.0": "FORT LEONARD WOOD, MO",
+    "19.0": "FORT LEWIS, WA",
+    "20.0": "LOWRY FIELD, CO",
+    "21.0": "MARCH FIELD, CA",
+    "22.0": "CAMP MAXEY, TX",
+    "23.0": "CAMP MCCAIN, MS",
+    "24.0": "FORT MEAD, SD",
+    "25.0": "MUNICIPAL AIRPORT, MEMPHIS, TN",
+    "26.0": "ARMY AIR BASE, NEW ORLEANS, LA",
+    "27.0": "CAMP PHILLIPS, KS",
+    "28.0": "CAMP POLK, LA",
+    "29.0": "CAMP ROBERTS, CA",
+    "30.0": "CAMP SHELBY, MS",
+    "31.0": "SHEPPARD FIELD, TX",
+    "32.0": "FORT SHERIDAN, IL"
+  }
+}

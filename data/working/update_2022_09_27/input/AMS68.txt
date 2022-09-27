@@ -1,0 +1,663 @@
+FORMFORM
+                                                                                                        answer_label answer_value raw_counts relative_frequency
+0  MATCHED GROUP (CASES IN WHICH IT WAS POSSIBLE TO MATCH A MAN'S FORM 20 CARD WITH THE QUESTIONNAIRE HE FILLED OUT)          1.0       3440               0.55
+1                                                               UNDESIGNATED GROUP (PERHAPS UNMATCHED FORM 20 CARDS)          3.0       2104               0.34
+2                                                                                                 UNDESIGNATED GROUP          2.0        698               0.11
+
+
+
+S68.Q1 WHAT BRANCH OF SERVICE ARE YOU IN?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0        117               0.02
+1                           ENGINEERS          1.0       2320               0.37
+2                        SIGNAL CORPS          2.0       1868                0.3
+3                  MEDICAL DEPARTMENT          3.0        378               0.06
+4                            ORDNANCE          4.0         84               0.01
+5                 QUARTERMASTER CORPS          5.0        142               0.02
+6                     MILITARY POLICE          6.0         10                0.0
+7                    CHEMICAL WARFARE          7.0          3                0.0
+8  TRANSPORTATION (PORT, CO., OR BN.)          8.0       1290               0.21
+9                   UNDESIGNATED CODE          9.0         30                0.0
+
+
+
+S68.Q2 WHAT IS YOUR RANK OR GRADE?
+                                        answer_label answer_value raw_counts relative_frequency
+0                                 NO CODE OR NO DATA          0.0          8                0.0
+1                     PRIVATE OR PRIVATE FIRST CLASS          1.0       4010               0.64
+2                   CORPORAL OR TECHNICIAN 5TH GRADE          2.0       1259                0.2
+3  SERGEANT ANY GRADE OR TECHNICIAN 3RD OR 4TH GRADE          3.0        812               0.13
+4                                          NO ANSWER          8.0        125               0.02
+5                                  UNDESIGNATED CODE          9.0         28                0.0
+
+
+
+S68.Q3 HOW LONG HAVE YOU BEEN IN THE ARMY?
+                        answer_label answer_value raw_counts relative_frequency
+0                 NO CODE OR NO DATA          0.0          3                0.0
+1                   3 MONTHS OR LESS          1.0       1647               0.26
+2  MORE THAN 3 MONTHS UP TO 6 MONTHS          2.0       1604               0.26
+3    MORE THAN 6 MONTHS UP TO A YEAR          3.0       1976               0.32
+4          OVER A YEAR UP TO 2 YEARS          4.0        593                0.1
+5                       OVER 2 YEARS          5.0        214               0.03
+6                          NO ANSWER          8.0        176               0.03
+7                  UNDESIGNATED CODE          9.0         29                0.0
+
+
+
+S68.Q4 HOW DID YOU GO INTO THE ARMY?
+                   answer_label answer_value raw_counts relative_frequency
+0            NO CODE OR NO DATA          0.0          8                0.0
+1                       DRAFTED          1.0       4577               0.73
+2                   VOLUNTEERED          2.0       1118               0.18
+3  MEMBER OF THE NATIONAL GUARD          3.0         31                0.0
+4                     NO ANSWER          8.0        480               0.08
+5             UNDESIGNATED CODE          9.0         28                0.0
+
+
+
+S68.Q6 HOW FAR DID YOU GO IN SCHOOL?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0        149               0.02
+1                 LESS THAN 6TH GRADE          1.0        187               0.03
+2                  FINISHED 6TH GRADE          2.0        196               0.03
+3                  FINISHED 7TH GRADE          3.0        364               0.06
+4                  FINISHED 8TH GRADE          4.0        781               0.13
+5  SOME HIGH SCHOOL (OR TRADE SCHOOL)          5.0       1813               0.29
+6          GRADUATED FROM HIGH SCHOOL          6.0       1820               0.29
+7     SOME COLLEGE BUT DID NOT FINISH          7.0        715               0.11
+8              GRADUATED FROM COLLEGE          8.0        189               0.03
+9                   UNDESIGNATED CODE          9.0         28                0.0
+
+
+
+S68.Q7 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0         92               0.01
+1  UNDER 20 YEARS OF AGE          1.0       1344               0.22
+2                  20-21          2.0       1414               0.23
+3                  22-24          3.0       1173               0.19
+4                  25-29          4.0       1076               0.17
+5                  30-35          5.0        724               0.12
+6            35 AND OVER          6.0        383               0.06
+7      UNDESIGNATED CODE          9.0         36               0.01
+
+
+
+S68.Q8A.x ARE YOU SINGLE, MARRIED, OR WIDOWED, DIVORCED, SEPARATED?  Q.8B. WERE YOU MARRIED BEFORE OR AFTER ENTERING THE ARMY?
+                        answer_label answer_value raw_counts relative_frequency
+0                          NO ANSWER          0.0         48               0.01
+1           SINGLE, I AM NOT MARRIED          1.0       2740               0.44
+2  MARRIED, BEFORE ENTERING THE ARMY          2.0       1000               0.16
+3   MARRIED, AFTER ENTERING THE ARMY          3.0        232               0.04
+4       WIDOWED, DIVORCED, SEPARATED          4.0         83               0.01
+5                  UNDESIGNATED CODE          9.0       2139               0.34
+
+
+
+S68.Q9 WHAT WERE YOU DOING JUST BEFORE YOU CAME INTO THE ARMY?
+            answer_label answer_value raw_counts relative_frequency
+0  WORKING AT A PAID JOB          1.0       3428               0.55
+1        GOING TO SCHOOL          2.0        202               0.03
+2          OTHER (WHAT?)          4.0        344               0.06
+3              NO ANSWER          0.0        105               0.02
+4       LOOKING FOR WORK          3.0         24                0.0
+5      UNDESIGNATED CODE          9.0       2139               0.34
+
+
+
+S68.Q13C HOW LONG HAVE YOU HAD THIS AS YOUR MAIN ARMY JOB OR ASSIGNMENT?
+                      answer_label answer_value raw_counts relative_frequency
+0                        NO ANSWER          0.0        624                0.1
+1                    UNDER 1 MONTH          1.0       1052               0.17
+2                       1-3 MONTHS          2.0       2420               0.39
+3                       4-6 MONTHS          3.0       1327               0.21
+4             7-12 MONTHS (1 YEAR)          4.0        696               0.11
+5  13 MONTHS OR MORE (OVER 1 YEAR)          5.0         87               0.01
+6                UNDESIGNATED CODE          9.0         36               0.01
+
+
+
+S68.Q14 DO YOU SPEND MOST OF YOUR TIME WORKING ON YOUR MAIN ARMY JOB OR ASSIGNMENT?
+                                                                                                           answer_label answer_value raw_counts relative_frequency
+0                                                                                                             NO ANSWER          0.0        328               0.05
+1                                                        YES, I SPEND MOST OF MY TIME ON MY MAIN ARMY JOB OR ASSIGNMENT          1.0       2720               0.44
+2  NO, I SPEND MOST OF MY TIME ON OTHER DUTIES (IF YOU CHECKED THIS ANSWER, TELL IN DETAIL WHAT THESE OTHER DUTIES ARE)          2.0       1055               0.17
+3                                                                                                     UNDESIGNATED CODE          9.0       2139               0.34
+
+
+
+S68.Q15A DID YOU EVER HAVE A CHANCE TO SAY WHAT KIND OF AN ARMY JOB YOU WOULD LIKE TO HAVE?
+                      answer_label answer_value raw_counts relative_frequency
+0                        NO ANSWER          0.0        109               0.02
+1       YES, I HAD A CHANCE TO SAY          1.0       2315               0.37
+2  NO, I NEVER HAD A CHANCE TO SAY          2.0       1678               0.27
+3                UNDESIGNATED CODE          9.0       2140               0.34
+
+
+
+S68.Q15B DID YOU GET THE JOB YOU ASKED FOR?
+                                                    answer_label answer_value raw_counts relative_frequency
+0                                                      NO ANSWER          0.0        413               0.07
+1  I NEVER DID SAY WHAT KIND OF AN ARMY JOB I WOULD LIKE TO HAVE          1.0       1048               0.17
+2                            YES, I GOT THE ARMY JOB I ASKED FOR          2.0        978               0.16
+3                     NO, I DID NOT GET THE ARMY JOB I ASKED FOR          3.0       1664               0.27
+4                                              UNDESIGNATED CODE          8.0         35               0.01
+5                                              UNDESIGNATED CODE          9.0       2104               0.34
+
+
+
+S68.Q17A IN YOUR PRESENT ARMY JOB OR ASSIGNMENT HOW MUCH ARE YOU USING THE TRAINING YOU GOT AT THE SPECIALIST SCHOOL YOU WENT TO?
+                                answer_label answer_value raw_counts relative_frequency
+0                                  NO ANSWER          0.0       2454               0.39
+1  I DID NOT GO TO AN ARMY SPECIALIST SCHOOL          1.0       1697               0.27
+2             I USE MY TRAINING ALL THE TIME          2.0        477               0.08
+3         I USE MY TRAINING MOST OF THE TIME          3.0        386               0.06
+4      I USE MY TRAINING ABOUT HALF THE TIME          4.0        304               0.05
+5              I HARDLY EVER USE MY TRAINING          5.0        377               0.06
+6                    I NEVER USE MY TRAINING          6.0        506               0.08
+7                          UNDESIGNATED CODE          9.0         41               0.01
+
+
+
+S68.Q18 ARE YOU LEARNING ANY THING IN YOUR PRESENT ARMY JOB WHICH YOU THINK YOU WILL BE ABLE TO USE IN A CIVILIAN JOB AFTER THE WAR?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0        126               0.02
+1                YES          1.0       1951               0.31
+2                 NO          2.0       1477               0.24
+3         DON'T KNOW          3.0        568               0.09
+4  UNDESIGNATED CODE          4.0         13                0.0
+5  UNDESIGNATED CODE          9.0       2107               0.34
+
+
+
+S68.Q19 DO YOU USE THE CIVILIAN TRAINING AND EXPERIENCE YOU HAD BEFORE YOU CAME IN THE ARMY IN YOUR PRESENT ARMY JOB OR ASSIGNMENT?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0        177               0.03
+1  YES, MOST OF THE TIME          1.0        927               0.15
+2   YES, ONCE IN A WHILE          2.0       1038               0.17
+3              NO, NEVER          3.0       1993               0.32
+4      UNDESIGNATED CODE          9.0       2107               0.34
+
+
+
+S68.Q20 DO YOU THINK YOUR ABILITIES AND PREVIOUS EXPERIENCE FIT YOU BETTER FOR SOME OTHER JOB OR ASSIGNMENT?
+                                             answer_label answer_value raw_counts relative_frequency
+0                                      NO CODE OR NO DATA          0.0         11                0.0
+1                 NO, I AM BEST FITTED FOR MY PRESENT JOB          1.0       1697               0.27
+2  YES, I WOULD FIT BETTER IN A DIFFERENT JOB (WHAT JOB?)          2.0       2165               0.35
+3                                               NO ANSWER          8.0        261               0.04
+4                                       UNDESIGNATED CODE          9.0       2108               0.34
+
+
+
+S68.Q21 WOULD YOU TRANSFER TO SOME OTHER ARMY JOB, IF GIVEN A CHANCE?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0         22                0.0
+1                 YES          1.0       2251               0.36
+2                  NO          2.0        949               0.15
+3           UNDECIDED          3.0        803               0.13
+4           NO ANSWER          8.0        110               0.02
+5   UNDESIGNATED CODE          9.0       2107               0.34
+
+
+
+S68.Q22 DO YOU FEEL THAT EVERYTHING POSSIBLE HAS BEEN DONE TO PLACE YOU IN THE ARMY JOB WHERE YOU BEST FIT?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0         30                0.0
+1                 YES          1.0       1340               0.21
+2                  NO          2.0       1923               0.31
+3           UNDECIDED          3.0        742               0.12
+4           NO ANSWER          8.0        100               0.02
+5   UNDESIGNATED CODE          9.0       2107               0.34
+
+
+
+S68.Q23 ON THE WHOLE, DO YOU THINK THE ARMY IS GIVING YOU A CHANCE TO SHOW WHAT YOU CAN DO?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0        114               0.02
+1    A VERY GOOD CHANCE          1.0        856               0.14
+2  A FAIRLY GOOD CHANCE          2.0       1229                0.2
+3  NOT MUCH OF A CHANCE          3.0       1239                0.2
+4      NO CHANCE AT ALL          4.0        700               0.11
+5     UNDESIGNATED CODE          9.0       2104               0.34
+
+
+
+S68.Q24 DO YOU THINK YOUR PRESENT ARMY JOB GIVES YOU A FAIR CHANCE OF PROMOTION?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0         10                0.0
+1                 YES          1.0       1742               0.28
+2                  NO          2.0       1453               0.23
+3          DON'T KNOW          3.0        821               0.13
+4           NO ANSWER          8.0         92               0.01
+5   UNDESIGNATED CODE          9.0       2124               0.34
+
+
+
+S68.Q25 HOW WELL SATISFIED ARE YOU ABOUT BEING IN YOUR PRESENT ARMY JOB INSTEAD OF SOME OTHER ARMY JOB?
+                            answer_label answer_value raw_counts relative_frequency
+0                              NO ANSWER          0.0        152               0.02
+1                         VERY SATISFIED          1.0        644                0.1
+2                              SATISFIED          2.0       1211               0.19
+3  IT DOES NOT MAKE ANY DIFFERENCE TO ME          3.0        478               0.08
+4                           DISSATISFIED          4.0       1011               0.16
+5                      VERY DISSATISFIED          5.0        622                0.1
+6                      UNDESIGNATED CODE          9.0       2124               0.34
+
+
+
+S68.Q26 SINCE YOU FINISHED YOUR BASIC TRAINING HAVE YOU EVER ASKED TO BE GIVEN A DIFFERENT ARMY JOB FROM THE ONE YOU HAD?
+                            answer_label answer_value raw_counts relative_frequency
+0                              NO ANSWER          0.0        151               0.02
+1  I HAVEN'T FINISHED BASIC TRAINING YET          1.0        912               0.15
+2     YES, I DID ASK FOR A DIFFERENT JOB          2.0       1005               0.16
+3  NO, I NEVER ASKED FOR A DIFFERENT JOB          3.0       2050               0.33
+4                      UNDESIGNATED CODE          9.0       2124               0.34
+
+
+
+S68.Q29 DID YOU GET THE DIFFERENT JOB YOU ASKED FOR?
+                          answer_label answer_value raw_counts relative_frequency
+0         YES, I GOT THE DIFFERENT JOB          1.0        207               0.03
+1  NO, I DID NOT GET THE DIFFERENT JOB          2.0        743               0.12
+2    I NEVER ASKED FOR A DIFFERENT JOB          4.0       2645               0.42
+3                            NO ANSWER          0.0        359               0.06
+4           I AM STILL WAITING TO HEAR          3.0        164               0.03
+5                    UNDESIGNATED CODE          9.0       2124               0.34
+
+
+
+S68.Q32 ON THE WHOLE, DO YOU THINK THE PEOPLE YOU SAW DID EVERYTHING THEY COULD TO GET YOU THE JOB YOU ASKED FOR?
+                        answer_label answer_value raw_counts relative_frequency
+0                 NO CODE OR NO DATA          0.0         14                0.0
+1                                YES          1.0        378               0.06
+2                                 NO          2.0        692               0.11
+3                          UNDECIDED          3.0        259               0.04
+4  I NEVER ASKED FOR A DIFFERENT JOB          4.0       2472                0.4
+5                          NO ANSWER          8.0        303               0.05
+6                  UNDESIGNATED CODE          9.0       2124               0.34
+
+
+
+S68.Q33A THE BRITISH CAN TAKE IT ON THE CHIN AND COME BACK FOR MORE.
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0         14                0.0
+1               AGREE          1.0       3428               0.55
+2            DISAGREE          2.0        492               0.08
+3           NO ANSWER          7.0        183               0.03
+4   UNDESIGNATED CODE          8.0         20                0.0
+5   UNDESIGNATED CODE          9.0       2105               0.34
+
+
+
+S68.Q33B THE BRITISH ALWAYS TRY TO GET OTHER PEOPLE TO DO THEIR FIGHTING FOR THEM.
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1               AGREE          1.0       1366               0.22
+2            DISAGREE          2.0       2481                0.4
+3           NO ANSWER          7.0        254               0.04
+4   UNDESIGNATED CODE          9.0       2140               0.34
+
+
+
+S68.Q33C WE SHOULD SEE TO IT THAT THE GERMAN PEOPLE SUFFER PLENTY AFTER THE WAR FOR ALL THE TROUBLE THEY ARE CAUSING US NOW.
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1               AGREE          1.0       1845                0.3
+2            DISAGREE          2.0       2066               0.33
+3           NO ANSWER          7.0        190               0.03
+4   UNDESIGNATED CODE          9.0       2139               0.34
+
+
+
+S68.Q33D WE SHOULD SEE TO IT THAT THE JAPANESE PEOPLE SUFFER PLENTY AFTER THE WAR FOR ALL THE TROUBLE THEY ARE CAUSING US NOW.
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1               AGREE          1.0       2624               0.42
+2            DISAGREE          2.0       1288               0.21
+3           NO ANSWER          7.0        190               0.03
+4   UNDESIGNATED CODE          9.0       2139               0.34
+
+
+
+S68.Q34 IN GENERAL, WHAT SORT OF A TIME DO YOU HAVE IN THE ARMY?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         89               0.01
+1    I HAVE A PRETTY GOOD TIME          1.0       1291               0.21
+2      IT IS ABOUT FIFTY-FIFTY          2.0       2154               0.35
+3  I HAVE A PRETTY ROTTEN TIME          3.0        569               0.09
+4            UNDESIGNATED CODE          9.0       2139               0.34
+
+
+
+S68.Q35 DO YOU THINK A SOLDIER WITH ABILITY HAS A GOOD CHANCE FOR PROMOTION IN THE ARMY?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0        136               0.02
+1    A VERY GOOD CHANCE          1.0       1512               0.24
+2  A FAIRLY GOOD CHANCE          2.0       1563               0.25
+3  NOT MUCH OF A CHANCE          3.0        566               0.09
+4             UNDECIDED          4.0        326               0.05
+5     UNDESIGNATED CODE          9.0       2139               0.34
+
+
+
+S68.Q36 DO YOU FEEL PROUD OF YOUR COMPANY OR BATTERY?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0         80               0.01
+1    YES, VERY PROUD          1.0       1915               0.31
+2  YES, FAIRLY PROUD          2.0       1120               0.18
+3      NO, NOT PROUD          3.0        507               0.08
+4          UNDECIDED          4.0        480               0.08
+5  UNDESIGNATED CODE          8.0         36               0.01
+6  UNDESIGNATED CODE          9.0       2104               0.34
+
+
+
+S68.Q37 IF IT WERE UP TO YOU TO CHOOSE, DO YOU THINK YOU COULD DO MORE FOR YOUR COUNTRY AS A SOLDIER OR AS A WORKER IN A WAR JOB?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0        115               0.02
+1       AS A SOLDIER          1.0       1614               0.26
+2    AS A WAR WORKER          2.0       1716               0.27
+3          UNDECIDED          3.0        656               0.11
+4  UNDESIGNATED CODE          9.0       2141               0.34
+
+
+
+S68.V39 MAIN ARMY OCCUPATION:
+                                                                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                                                         NO CODE OR NO DATA          0.0        163               0.03
+1                                                                                           CLERICAL AND ADMINISTRATIVE WORK          2.0        670               0.11
+2                                                                                                              ENTERTAINMENT          4.0          2                0.0
+3                                                                                                                  LANGUAGES          5.0          2                0.0
+4                                                                                                                      MUSIC          6.0         26                0.0
+5                                                                                                             PERSONNEL WORK          7.0          1                0.0
+6                                                                                         WRITING, WRITING AND CLERICAL WORK          8.0          3                0.0
+7                                                                                                         AIRCRAFT DETECTION          9.0          3                0.0
+8                                                                                                  SURVEYING AND HEAVY LABOR         14.0        147               0.02
+9                                                                                                                   DRAFTING         15.0         19                0.0
+10                                                      MEDICINE, DENTISTRY AND PHARMACY, OPTICAL INSTRUMENT MAKING, BARBERS         19.0        161               0.03
+11  PHOTOGRAPHY AND PHOTOGRAPHIC LABORATORY WORK, PHOTOGRAPHY AND DRAFTING, PHOTOGRAPHY AND LITHOGRAPHY, MOTION PICTURE PROJ         22.0          8                0.0
+12                                                                     CAMERA REPAIRING AND SOUND RECORDING, SOUND RECORDING         28.0          1                0.0
+13                  ELECTRICAL WORK - GENERAL, ELECTRICAL WORK (EXC, TELEPHONE, TELEGRAPH, RADIO, AND AIRPLANE, INSTRUMENTS)         30.0         38               0.01
+14                                                                                         TELEPHONE AND TELEGRAPH OPERATORS         32.0         48               0.01
+15                                                                            TELEPHONE AND TELEGRAPH REPAIR AND MAINTENANCE         33.0        412               0.07
+16                                                                                                           RADIO OPERATORS         34.0        302               0.05
+17                                                                                                           RADIO MECHANICS         35.0         96               0.02
+18                                                                                                RADIO OPERATOR - MECHANICS         36.0          1                0.0
+19  MACHINISTS, AIRPLANE MECHANICS, GENERAL, AIRPLANE ENGINE MECHANICS, AIRPLANE INSTRUMENT AND EQUIPMENT REPAIR, AUTOMOTIVE         37.0        278               0.04
+20                                                                                      LINK TRAINER OPERATORS AND MECHANICS         42.0          1                0.0
+21                                                                                                   MOTOR TRANSPORT DRIVERS         43.0        413               0.07
+22  AUTOMOTIVE REPAIR, CHASSIS, FOUNDRY AND TOLL DRESSING, SHEET METAL WORK AND WELDING, SHEET METAL WORK AND AUTOMOTIVE REP         45.0         24                0.0
+23                                                                                 CHEMICAL WORK, CHEMICAL WORK AND DRAFTING         53.0          2                0.0
+24                                                                   PRINTING, CLERICAL WORK, AND BUSINESS MACHINE OPERATION         57.0          3                0.0
+25                                                     ENGINE AND PUMP OPERATION, ENGINE, PUMP OPERATION AND ELECTRICAL WORK         61.0         81               0.01
+26                                                                CONSTRUCTION MACHINE OPERATION AND MOTOR TRANSPORT DRIVERS         63.0         26                0.0
+27                                                      CONSTRUCTION MACHINE OPERATION, AMMUNITION HANDLING, AND HEAVY LABOR         65.0          2                0.0
+28                                                                                                  PLUMBING AND PIPEFITTING         66.0          1                0.0
+29                                                 CARPENTRY AND WOODWORKING, GENERAL REPAIR WORK, CARPENTRY AND HEAVY LABOR         68.0         51               0.01
+30                                                                                                                  PAINTING         71.0          3                0.0
+31                                                                              CANVAS AND TEXTILE MAINTENANCE, LEATHER WORK         72.0          1                0.0
+32                                                                                   SALVAGE, GENERAL REPAIR AND MAINTENANCE         75.0         12                0.0
+33                                                                                       MARINE, MARINE ENGINEERS AND OILERS         76.0        373               0.06
+34                                                                                                    RAILWAY ADMINISTRATION         79.0          1                0.0
+35                                                                                            RAILWAY REPAIR AND MAINTENANCE         81.0          1                0.0
+36                                                                                                       AMMUNITION HANDLING         82.0         11                0.0
+37                                                                                                                   FIREMEN         83.0          9                0.0
+38                                                                                             FOOD PREPARATION AND PLANNING         85.0        195               0.03
+39                                                                                                           ANIMAL HANDLING         88.0          1                0.0
+40                                                                                                                PROTECTION         91.0         26                0.0
+41                                                                                                                 ATHLETICS         96.0          2                0.0
+42                 UNDESIGNATED CODE, AND: MATHEMATICS, PHYSICS, SURVEYING, DRAFTING, AUTOMOBILE MECHANICS, WOODSMEN, SKIING         98.0       1784               0.29
+43                                                                                                         UNDESIGNATED CODE         99.0        838               0.13
+
+
+
+S68.V40 MAIN CIVILIAN OCCUPATION
+                                                                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                                                         NO CODE OR NO DATA          0.0        293               0.05
+1                                                                                                                        ART          1.0          5                0.0
+2                                                                                           CLERICAL AND ADMINISTRATIVE WORK          2.0       1179               0.19
+3                                                                                                 BUSINESS MACHINE OPERATION          3.0          3                0.0
+4                                                                                                              ENTERTAINMENT          4.0          6                0.0
+5                                                                                                                  LANGUAGES          5.0          5                0.0
+6                                                                                                                      MUSIC          6.0         26                0.0
+7                                                                                                             PERSONNEL WORK          7.0          2                0.0
+8                                                                                         WRITING, WRITING AND CLERICAL WORK          8.0         12                0.0
+9                                                                                                         AIRCRAFT DETECTION          9.0          1                0.0
+10                                                                                      SURVEYING AND ARTILLERY FIRE CONTROL         13.0         13                0.0
+11                                                                                                 SURVEYING AND HEAVY LABOR         14.0        562               0.09
+12                                                                                                                  DRAFTING         15.0         41               0.01
+13                                                                                                      DRAFTING AND WEATHER         17.0          1                0.0
+14                                                      MEDICINE, DENTISTRY AND PHARMACY, OPTICAL INSTRUMENT MAKING, BARBERS         19.0         39               0.01
+15                                                                                                                VETERINARY         20.0          3                0.0
+16  PHOTOGRAPHY AND PHOTOGRAPHIC LABORATORY WORK, PHOTOGRAPHY AND DRAFTING, PHOTOGRAPHY AND LITHOGRAPHY, MOTION PICTURE PROJ         22.0         43               0.01
+17                  ELECTRICAL WORK - GENERAL, ELECTRICAL WORK (EXC, TELEPHONE, TELEGRAPH, RADIO, AND AIRPLANE, INSTRUMENTS)         30.0        126               0.02
+18                                                                                         TELEPHONE AND TELEGRAPH OPERATORS         32.0         26                0.0
+19                                                                            TELEPHONE AND TELEGRAPH REPAIR AND MAINTENANCE         33.0        162               0.03
+20                                                                                                           RADIO OPERATORS         34.0         13                0.0
+21                                                                                                           RADIO MECHANICS         35.0         62               0.01
+22  MACHINISTS, AIRPLANE MECHANICS, GENERAL, AIRPLANE ENGINE MECHANICS, AIRPLANE INSTRUMENT AND EQUIPMENT REPAIR, AUTOMOTIVE         37.0        368               0.06
+23                                                                                                           AIRPLANE PILOTS         38.0          1                0.0
+24                                                                                                   MOTOR TRANSPORT DRIVERS         43.0        435               0.07
+25  AUTOMOTIVE REPAIR, CHASSIS, FOUNDRY AND TOLL DRESSING, SHEET METAL WORK AND WELDING, SHEET METAL WORK AND AUTOMOTIVE REP         45.0        269               0.04
+26                                                                                 CHEMICAL WORK, CHEMICAL WORK AND DRAFTING         53.0         23                0.0
+27                                                                                    PETROLEUM PRODUCTS STORAGE AND PUMPING         56.0          2                0.0
+28                                                                   PRINTING, CLERICAL WORK, AND BUSINESS MACHINE OPERATION         57.0         38               0.01
+29                                                                                                               BOOKBINDING         60.0          3                0.0
+30                                                     ENGINE AND PUMP OPERATION, ENGINE, PUMP OPERATION AND ELECTRICAL WORK         61.0        347               0.06
+31                                                                CONSTRUCTION MACHINE OPERATION AND MOTOR TRANSPORT DRIVERS         63.0         71               0.01
+32                                                      CONSTRUCTION MACHINE OPERATION, AMMUNITION HANDLING, AND HEAVY LABOR         65.0         22                0.0
+33                                                                                                  PLUMBING AND PIPEFITTING         66.0         49               0.01
+34                                                                                               BRICKLAYERS AND STONEMASONS         67.0         17                0.0
+35                                                 CARPENTRY AND WOODWORKING, GENERAL REPAIR WORK, CARPENTRY AND HEAVY LABOR         68.0        174               0.03
+36                                                                                                                  PAINTING         71.0         56               0.01
+37                                                                              CANVAS AND TEXTILE MAINTENANCE, LEATHER WORK         72.0         36               0.01
+38                                                                                                                 TIRE WORK         74.0          5                0.0
+39                                                                                   SALVAGE, GENERAL REPAIR AND MAINTENANCE         75.0         36               0.01
+40                                                                                       MARINE, MARINE ENGINEERS AND OILERS         76.0         99               0.02
+41                                                                                                    RAILWAY ADMINISTRATION         79.0          8                0.0
+42                                                                                                         RAILWAY OPERATION         80.0         14                0.0
+43                                                                                            RAILWAY REPAIR AND MAINTENANCE         81.0         19                0.0
+44                                                                                                       AMMUNITION HANDLING         82.0          4                0.0
+45                                                                                                                   FIREMEN         83.0         17                0.0
+46                                                                                             FOOD PREPARATION AND PLANNING         85.0        130               0.02
+47                                                                                                              LAUNDRY WORK         87.0          2                0.0
+48                                                                                                           ANIMAL HANDLING         88.0         16                0.0
+49                                                                                                              DOG TRAINING         89.0          1                0.0
+50                                                                                                            PIGEON RAISING         90.0          1                0.0
+51                                                                                                                PROTECTION         91.0         16                0.0
+52                                                                                                   CRIMINAL IDENTIFICATION         92.0          2                0.0
+53                                                                                                              FIREFIGHTING         93.0          6                0.0
+54                                                                                                               LUMBER WORK         94.0         34               0.01
+55                                                                                                                 ATHLETICS         96.0         14                0.0
+56                                                                                                              MARKSMANSHIP         97.0          1                0.0
+57                 UNDESIGNATED CODE, AND: MATHEMATICS, PHYSICS, SURVEYING, DRAFTING, AUTOMOBILE MECHANICS, WOODSMEN, SKIING         98.0       1159               0.19
+58                                                                                                         UNDESIGNATED CODE         99.0        124               0.02
+
+
+
+S68.V41 SECOND CIVILIAN OCCUPATION
+                                                                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                                                         NO CODE OR NO DATA          0.0          2                0.0
+1                                                                                                                        ART          1.0          4                0.0
+2                                                                                           CLERICAL AND ADMINISTRATIVE WORK          2.0        545               0.09
+3                                                                                                 BUSINESS MACHINE OPERATION          3.0          2                0.0
+4                                                                                                              ENTERTAINMENT          4.0          6                0.0
+5                                                                                                                  LANGUAGES          5.0          3                0.0
+6                                                                                                                      MUSIC          6.0         33               0.01
+7                                                                                                             PERSONNEL WORK          7.0          1                0.0
+8                                                                                         WRITING, WRITING AND CLERICAL WORK          8.0          4                0.0
+9                                                                                       SURVEYING AND ARTILLERY FIRE CONTROL         13.0         12                0.0
+10                                                                                                 SURVEYING AND HEAVY LABOR         14.0        326               0.05
+11                                                                                                                  DRAFTING         15.0         15                0.0
+12                                                      MEDICINE, DENTISTRY AND PHARMACY, OPTICAL INSTRUMENT MAKING, BARBERS         19.0         14                0.0
+13                                                                                                                VETERINARY         20.0          2                0.0
+14  PHOTOGRAPHY AND PHOTOGRAPHIC LABORATORY WORK, PHOTOGRAPHY AND DRAFTING, PHOTOGRAPHY AND LITHOGRAPHY, MOTION PICTURE PROJ         22.0         22                0.0
+15                                                                                                          CAMERA REPAIRING         27.0          1                0.0
+16                  ELECTRICAL WORK - GENERAL, ELECTRICAL WORK (EXC, TELEPHONE, TELEGRAPH, RADIO, AND AIRPLANE, INSTRUMENTS)         30.0         43               0.01
+17                                                                                         TELEPHONE AND TELEGRAPH OPERATORS         32.0         13                0.0
+18                                                                            TELEPHONE AND TELEGRAPH REPAIR AND MAINTENANCE         33.0         44               0.01
+19                                                                                                           RADIO OPERATORS         34.0        147               0.02
+20                                                                                                           RADIO MECHANICS         35.0        141               0.02
+21  MACHINISTS, AIRPLANE MECHANICS, GENERAL, AIRPLANE ENGINE MECHANICS, AIRPLANE INSTRUMENT AND EQUIPMENT REPAIR, AUTOMOTIVE         37.0        192               0.03
+22                                                                                                           AIRPLANE PILOTS         38.0          1                0.0
+23                                                                                                   MOTOR TRANSPORT DRIVERS         43.0        320               0.05
+24  AUTOMOTIVE REPAIR, CHASSIS, FOUNDRY AND TOLL DRESSING, SHEET METAL WORK AND WELDING, SHEET METAL WORK AND AUTOMOTIVE REP         45.0         97               0.02
+25                                                                                 CHEMICAL WORK, CHEMICAL WORK AND DRAFTING         53.0          7                0.0
+26                                                                   PRINTING, CLERICAL WORK, AND BUSINESS MACHINE OPERATION         57.0         11                0.0
+27                                                     ENGINE AND PUMP OPERATION, ENGINE, PUMP OPERATION AND ELECTRICAL WORK         61.0        147               0.02
+28                                                                CONSTRUCTION MACHINE OPERATION AND MOTOR TRANSPORT DRIVERS         63.0         48               0.01
+29                                                      CONSTRUCTION MACHINE OPERATION, AMMUNITION HANDLING, AND HEAVY LABOR         65.0         10                0.0
+30                                                                                                  PLUMBING AND PIPEFITTING         66.0         23                0.0
+31                                                                                               BRICKLAYERS AND STONEMASONS         67.0          5                0.0
+32                                                 CARPENTRY AND WOODWORKING, GENERAL REPAIR WORK, CARPENTRY AND HEAVY LABOR         68.0         52               0.01
+33                                                                                                                  PAINTING         71.0         26                0.0
+34                                                                              CANVAS AND TEXTILE MAINTENANCE, LEATHER WORK         72.0          8                0.0
+35                                                                                                                 TIRE WORK         74.0          6                0.0
+36                                                                                   SALVAGE, GENERAL REPAIR AND MAINTENANCE         75.0         12                0.0
+37                                                                                       MARINE, MARINE ENGINEERS AND OILERS         76.0         78               0.01
+38                                                                                                    RAILWAY ADMINISTRATION         79.0          1                0.0
+39                                                                                                         RAILWAY OPERATION         80.0          4                0.0
+40                                                                                            RAILWAY REPAIR AND MAINTENANCE         81.0          4                0.0
+41                                                                                                       AMMUNITION HANDLING         82.0          5                0.0
+42                                                                                                                   FIREMEN         83.0         15                0.0
+43                                                                                             FOOD PREPARATION AND PLANNING         85.0         64               0.01
+44                                                                                                              LAUNDRY WORK         87.0          2                0.0
+45                                                                                                           ANIMAL HANDLING         88.0         23                0.0
+46                                                                                                            PIGEON RAISING         90.0          2                0.0
+47                                                                                                                PROTECTION         91.0         17                0.0
+48                                                                                                              FIREFIGHTING         93.0          3                0.0
+49                                                                                                               LUMBER WORK         94.0         18                0.0
+50                                                                                                                 ATHLETICS         96.0          6                0.0
+51                 UNDESIGNATED CODE, AND: MATHEMATICS, PHYSICS, SURVEYING, DRAFTING, AUTOMOBILE MECHANICS, WOODSMEN, SKIING         98.0        506               0.08
+52                                                                                                         UNDESIGNATED CODE         99.0       3149                0.5
+
+
+
+S68.V42 ADDITIONAL CIVILIAN OCCUPATION
+                                                                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                                                         NO CODE OR NO DATA          0.0          1                0.0
+1                                                                                                                        ART          1.0          2                0.0
+2                                                                                           CLERICAL AND ADMINISTRATIVE WORK          2.0         38               0.01
+3                                                                                                              ENTERTAINMENT          4.0          1                0.0
+4                                                                                                                  LANGUAGES          5.0          1                0.0
+5                                                                                                                      MUSIC          6.0          2                0.0
+6                                                                                       SURVEYING AND ARTILLERY FIRE CONTROL         13.0          2                0.0
+7                                                                                                  SURVEYING AND HEAVY LABOR         14.0         21                0.0
+8                                                                                                                   DRAFTING         15.0          3                0.0
+9                                                       MEDICINE, DENTISTRY AND PHARMACY, OPTICAL INSTRUMENT MAKING, BARBERS         19.0          2                0.0
+10  PHOTOGRAPHY AND PHOTOGRAPHIC LABORATORY WORK, PHOTOGRAPHY AND DRAFTING, PHOTOGRAPHY AND LITHOGRAPHY, MOTION PICTURE PROJ         22.0         22                0.0
+11                  ELECTRICAL WORK - GENERAL, ELECTRICAL WORK (EXC, TELEPHONE, TELEGRAPH, RADIO, AND AIRPLANE, INSTRUMENTS)         30.0          5                0.0
+12                                                                                         TELEPHONE AND TELEGRAPH OPERATORS         32.0          2                0.0
+13                                                                            TELEPHONE AND TELEGRAPH REPAIR AND MAINTENANCE         33.0          1                0.0
+14                                                                                                           RADIO OPERATORS         34.0         38               0.01
+15                                                                                                           RADIO MECHANICS         35.0         52               0.01
+16  MACHINISTS, AIRPLANE MECHANICS, GENERAL, AIRPLANE ENGINE MECHANICS, AIRPLANE INSTRUMENT AND EQUIPMENT REPAIR, AUTOMOTIVE         37.0         70               0.01
+17                                                                                                           AIRPLANE PILOTS         38.0          1                0.0
+18                                                                                                   MOTOR TRANSPORT DRIVERS         43.0         37               0.01
+19   AUTOMOTIVE REPAIR, CHASSIS, FOUNDRY AND TOLL DRESSING, SHEET METAL WORK AND WELDING, SHEET METAL WORK ANDZZZ AUTOMOTIVE         45.0          4                0.0
+20                                                                                 CHEMICAL WORK, CHEMICAL WORK AND DRAFTING         53.0          1                0.0
+21                                                     ENGINE AND PUMP OPERATION, ENGINE, PUMP OPERATION AND ELECTRICAL WORK         61.0          4                0.0
+22                                                                CONSTRUCTION MACHINE OPERATION AND MOTOR TRANSPORT DRIVERS         63.0          5                0.0
+23                                                                                                  PLUMBING AND PIPEFITTING         66.0          2                0.0
+24                                                 CARPENTRY AND WOODWORKING, GENERAL REPAIR WORK, CARPENTRY AND HEAVY LABOR         68.0         32               0.01
+25                                                                                                                  PAINTING         71.0          4                0.0
+26                                                                                   SALVAGE, GENERAL REPAIR AND MAINTENANCE         75.0          3                0.0
+27                                                                                       MARINE, MARINE ENGINEERS AND OILERS         76.0         34               0.01
+28                                                                                                         RAILWAY OPERATION         80.0          1                0.0
+29                                                                                                       AMMUNITION HANDLING         82.0          1                0.0
+30                                                                                             FOOD PREPARATION AND PLANNING         85.0          9                0.0
+31                                                                                                           ANIMAL HANDLING         88.0          1                0.0
+32                                                                                                            PIGEON RAISING         90.0          5                0.0
+33                                                                                                                PROTECTION         91.0          1                0.0
+34                                                                                                              FIREFIGHTING         93.0          2                0.0
+35                 UNDESIGNATED CODE, AND: MATHEMATICS, PHYSICS, SURVEYING, DRAFTING, AUTOMOBILE MECHANICS, WOODSMEN, SKIING         98.0         25                0.0
+36                                                                                                         UNDESIGNATED CODE         99.0       5807               0.93
+
+
+
+S68.V43 RECOMMENDED ARMY ASSIGNMENT
+                                                                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                                                         NO CODE OR NO DATA          0.0          5                0.0
+1                                                                                                                        ART          1.0          2                0.0
+2                                                                                           CLERICAL AND ADMINISTRATIVE WORK          2.0        522               0.08
+3                                                                                                 BUSINESS MACHINE OPERATION          3.0          2                0.0
+4                                                                                                              ENTERTAINMENT          4.0          3                0.0
+5                                                                                                                  LANGUAGES          5.0          4                0.0
+6                                                                                                                      MUSIC          6.0         31                0.0
+7                                                                                                             PERSONNEL WORK          7.0          1                0.0
+8                                                                                         WRITING, WRITING AND CLERICAL WORK          8.0          4                0.0
+9                                                                                                         AIRCRAFT DETECTION          9.0          2                0.0
+10                                                                                      SURVEYING AND ARTILLERY FIRE CONTROL         13.0         11                0.0
+11                                                                                                 SURVEYING AND HEAVY LABOR         14.0         76               0.01
+12                                                                                                                  DRAFTING         15.0         25                0.0
+13                                                                                                      DRAFTING AND WEATHER         17.0          2                0.0
+14                                                      MEDICINE, DENTISTRY AND PHARMACY, OPTICAL INSTRUMENT MAKING, BARBERS         19.0         20                0.0
+15                                                                                                                VETERINARY         20.0          1                0.0
+16  PHOTOGRAPHY AND PHOTOGRAPHIC LABORATORY WORK, PHOTOGRAPHY AND DRAFTING, PHOTOGRAPHY AND LITHOGRAPHY, MOTION PICTURE PROJ         22.0         53               0.01
+17                  ELECTRICAL WORK - GENERAL, ELECTRICAL WORK (EXC, TELEPHONE, TELEGRAPH, RADIO, AND AIRPLANE, INSTRUMENTS)         30.0         67               0.01
+18                                                                                         TELEPHONE AND TELEGRAPH OPERATORS         32.0         31                0.0
+19                                                                            TELEPHONE AND TELEGRAPH REPAIR AND MAINTENANCE         33.0        158               0.03
+20                                                                                                           RADIO OPERATORS         34.0        200               0.03
+21                                                                                                           RADIO MECHANICS         35.0        185               0.03
+22  MACHINISTS, AIRPLANE MECHANICS, GENERAL, AIRPLANE ENGINE MECHANICS, AIRPLANE INSTRUMENT AND EQUIPMENT REPAIR, AUTOMOTIVE         37.0        183               0.03
+23                                                                                                   MOTOR TRANSPORT DRIVERS         43.0        520               0.08
+24  AUTOMOTIVE REPAIR, CHASSIS, FOUNDRY AND TOLL DRESSING, SHEET METAL WORK AND WELDING, SHEET METAL WORK AND AUTOMOTIVE REP         45.0        104               0.02
+25                                                                                 CHEMICAL WORK, CHEMICAL WORK AND DRAFTING         53.0          5                0.0
+26                                                                   PRINTING, CLERICAL WORK, AND BUSINESS MACHINE OPERATION         57.0         12                0.0
+27                                                                                                               BOOKBINDING         60.0          1                0.0
+28                                                     ENGINE AND PUMP OPERATION, ENGINE, PUMP OPERATION AND ELECTRICAL WORK         61.0         31                0.0
+29                                                                CONSTRUCTION MACHINE OPERATION AND MOTOR TRANSPORT DRIVERS         63.0         41               0.01
+30                                                      CONSTRUCTION MACHINE OPERATION, AMMUNITION HANDLING, AND HEAVY LABOR         65.0         14                0.0
+31                                                                                                  PLUMBING AND PIPEFITTING         66.0         19                0.0
+32                                                                                               BRICKLAYERS AND STONEMASONS         67.0          6                0.0
+33                                                 CARPENTRY AND WOODWORKING, GENERAL REPAIR WORK, CARPENTRY AND HEAVY LABOR         68.0         90               0.01
+34                                                                                                                  PAINTING         71.0         35               0.01
+35                                                                              CANVAS AND TEXTILE MAINTENANCE, LEATHER WORK         72.0          6                0.0
+36                                                                                                                 TIRE WORK         74.0          1                0.0
+37                                                                                   SALVAGE, GENERAL REPAIR AND MAINTENANCE         75.0          6                0.0
+38                                                                                       MARINE, MARINE ENGINEERS AND OILERS         76.0        124               0.02
+39                                                                                                    RAILWAY ADMINISTRATION         79.0          2                0.0
+40                                                                                                         RAILWAY OPERATION         80.0          8                0.0
+41                                                                                                       AMMUNITION HANDLING         82.0          5                0.0
+42                                                                                                                   FIREMEN         83.0         16                0.0
+43                                                                                             FOOD PREPARATION AND PLANNING         85.0         96               0.02
+44                                                                                                           ANIMAL HANDLING         88.0         11                0.0
+45                                                                                                              DOG TRAINING         89.0          1                0.0
+46                                                                                                            PIGEON RAISING         90.0          6                0.0
+47                                                                                                                PROTECTION         91.0          6                0.0
+48                                                                                                   CRIMINAL IDENTIFICATION         92.0          3                0.0
+49                                                                                                              FIREFIGHTING         93.0          4                0.0
+50                                                                                                               LUMBER WORK         94.0          2                0.0
+51                                                                                                                 ATHLETICS         96.0          3                0.0
+52                                                                                                              MARKSMANSHIP         97.0          1                0.0
+53                 UNDESIGNATED CODE, AND: MATHEMATICS, PHYSICS, SURVEYING, DRAFTING, AUTOMOBILE MECHANICS, WOODSMEN, SKIING         98.0       2481                0.4
+54                                                                                                         UNDESIGNATED CODE         99.0        994               0.16
+
+
+
+S68.V46 JOB COMPARISON
+                                                                              answer_label answer_value raw_counts relative_frequency
+0                                                                       NO CODE OR NO DATA          0.0         44               0.01
+1                                            ARMY JOB AND 1ST CIVILIAN OCCUPATION THE SAME          1.0        947               0.15
+2                                            ARMY JOB AND 2ND CIVILIAN OCCUPATION THE SAME          2.0        244               0.04
+3                                            ARMY JOB AND 3RD CIVILIAN OCCUPATION THE SAME          3.0         29                0.0
+4  ARMY JOB AND CIVILIAN OCCUPATION DIFFERENT BUT SPECIAL TRAINING USED AT LEAST HALF TIME          4.0        602                0.1
+5                  ARMY JOB AND CIVILIAN OCCUPATION DIFFERENT BUT NO ARMY SPECIAL TRAINING          5.0       1223                0.2
+6                                                    CIVILIAN JOB WITH NO ARMY COUNTERPART          8.0       2284               0.37
+7                                                                   NO CIVILIAN OCCUPATION          9.0        869               0.14
+
+
+
+S68.N48 CAMP IDENTIFICATION
+                 answer_label answer_value raw_counts relative_frequency
+0         UNDESIGNATED GROUPS          0.0        619                0.1
+1  SIGNAL CORPS, CAMP CROWDER          1.0       1847                0.3
+2                CAMP EDWARDS          2.0       2309               0.37
+3                  BOSTON POE          3.0       1317               0.21
+4        MEDICS, CAMP CROWDER          4.0        145               0.02
+5                  ALL OTHERS          5.0          5                0.0
+
+
+

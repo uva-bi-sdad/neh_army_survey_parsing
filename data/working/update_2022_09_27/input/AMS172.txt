@@ -1,0 +1,1183 @@
+FORMFORM
+           answer_label answer_value raw_counts relative_frequency
+0  FORM A QUESTIONNAIRE          1.0       2333                0.5
+1  FORM B QUESTIONNAIRE          2.0       2347                0.5
+
+
+
+S172.Q1 WHAT IS YOUR ARMY RANK OR GRADE? (PUT A CHECK IN FRONT OF THE ANSWER SHOWING YOUR PRESENT GRADE.)
+                       answer_label answer_value raw_counts relative_frequency
+0                         NO ANSWER          0.0         58               0.01
+1    PRIVATE OR PRIVATE FIRST CLASS          1.0       1474               0.31
+2  CORPORAL OR TECHNICIAN 5TH GRADE          2.0        763               0.16
+3  SERGEANT OR TECHNICIAN 4TH GRADE          3.0        793               0.17
+4                  1ST THREE GRADES          4.0       1592               0.34
+
+
+
+S172.Q2 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+       answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER          0.0         86               0.02
+1      18 YEARS OLD          1.0          2                0.0
+2      19 YEARS OLD          2.0         64               0.01
+3      20 YEARS OLD          3.0        207               0.04
+4      21 YEARS OLD          4.0        253               0.05
+5      22 YEARS OLD          5.0        274               0.06
+6      23 YEARS OLD          6.0        355               0.08
+7      24 YEARS OLD          7.0        427               0.09
+8      25 YEARS OLD          8.0        534               0.11
+9   26-29 YEARS OLD          9.0       1340               0.29
+10  30-34 YEARS OLD         10.0        706               0.15
+11      35 AND OVER         11.0        432               0.09
+
+
+
+S172.Q3 HOW FAR DID YOU GO IN SCHOOL?
+                            answer_label answer_value raw_counts relative_frequency
+0            DID NOT FINISH GRADE SCHOOL          1.0        542               0.12
+1            GRADUATED FROM GRADE SCHOOL          2.0        544               0.12
+2  SOME HIGH SCHOOL BUT DID NOT GRADUATE          3.0       1515               0.32
+3             GRADUATED FROM HIGH SCHOOL          4.0       1543               0.33
+4                        WENT TO COLLEGE          5.0        482                0.1
+5                              NO ANSWER          6.0         54               0.01
+
+
+
+S172.Q4 HOW DID YOU COME INTO THE ARMY?
+                              answer_label answer_value raw_counts relative_frequency
+0                                NO ANSWER          0.0         30               0.01
+1       I VOLUNTEERED FOR THE REGULAR ARMY          1.0        959                0.2
+2  I VOLUNTEERED THROUGH SELECTIVE SERVICE          2.0        785               0.17
+3              I WAS IN THE NATIONAL GUARD          3.0        255               0.05
+4                            I WAS DRAFTED          4.0       2596               0.55
+5                           SOME OTHER WAY          5.0         55               0.01
+
+
+
+S172.Q5 WERE YOU SENT BACK TO THE STATES UNDER THE ROTATION PLAN OR FOR SOME OTHER REASON?
+                              answer_label answer_value raw_counts relative_frequency
+0                                NO ANSWER          0.0         50               0.01
+1  I WAS SENT BACK UNDER THE ROTATION PLAN          1.0       3091               0.66
+2    I WAS SENT BACK FOR SOME OTHER REASON          2.0       1539               0.33
+
+
+
+S172.Q6 HOW LONG WERE YOU OVERSEAS? (COUNT FROM THE TIME YOU LEFT THE STATES UNTIL YOU RETURNED.)
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         21                0.0
+1            12 MONTHS OR LESS          1.0       1183               0.25
+2  OVER 12 MONTHS TO 18 MONTHS          2.0        416               0.09
+3  OVER 18 MONTHS TO 24 MONTHS          3.0        343               0.07
+4  OVER 24 MONTHS TO 30 MONTHS          4.0        723               0.15
+5  OVER 30 MONTHS TO 36 MONTHS          5.0       1198               0.26
+6               OVER 36 MONTHS          6.0        796               0.17
+
+
+
+S172.Q7 WHAT WAS THE BRANCH OF SERVICE THAT YOU WERE LAST IN WHILE YOU WERE OVERSEAS?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0         64               0.01
+1                  ENGINEERS          1.0        441               0.09
+2            FIELD ARTILLERY          2.0        148               0.03
+3        QUARTERMASTER CORPS          3.0        215               0.05
+4                   INFANTRY          4.0        901               0.19
+5         MEDICAL DEPARTMENT          5.0        258               0.06
+6              ARMORED FORCE          6.0        109               0.02
+7               SIGNAL CORPS          7.0        166               0.04
+8            COAST ARTILLERY          8.0         82               0.02
+9              ANTI-AIRCRAFT          9.0        203               0.04
+10                 AIR CORPS         10.0       1508               0.32
+11      TRANSPORTATION CORPS         11.0        150               0.03
+12       ORDNANCE DEPARTMENT         12.0        171               0.04
+13  CHEMICAL WARFARE SERVICE         13.0         25               0.01
+14           MILITARY POLICE         14.0         93               0.02
+15            TANK DESTROYER         15.0         27               0.01
+16                     OTHER         16.0        119               0.03
+
+
+
+S172.Q8 IN WHAT OVERSEAS THEATER OR AREA DID YOU LAST SERVE? (CHECK THE ONE IN WHICH YOU WERE LAST ON DUTY.)
+                                                      answer_label answer_value raw_counts relative_frequency
+0                                                        NO ANSWER          0.0         62               0.01
+1                         EUROPEAN THEATRE (BRITISH ISLES, FRANCE)          1.0       1092               0.23
+2                      MEDITERRANEAN THEATRE (ITALY, NORTH AFRICA)          2.0        839               0.18
+3                                                CARIBBEAN, PANAMA          3.0         70               0.01
+4                   SOUTHWEST PACIFIC AREA (AUSTRALIA, NEW GUINEA)          4.0       1093               0.23
+5    SOUTH PACIFIC BASE COMMAND (NEW CALEDONIA, GUADALCANAL, ETC.)          5.0        199               0.04
+6   CENTRAL PACIFIC BASE COMMAND (HAWAII, KWAJALEIN, SAIPAN, ETC.)          6.0        334               0.07
+7                                                ALASKA, ALEUTIANS          7.0        180               0.04
+8                             MIDDLE EAST (CAIRO, PALESTINE, IRAN)          8.0         89               0.02
+9                                              CHINA, BURMA, INDIA          9.0        684               0.15
+10                                                     OTHER PLACE         10.0         38               0.01
+
+
+
+S172.Q9 WAS THIS THE OVERSEAS THEATER OR AREA YOU SERVED IN LONGEST?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        110               0.02
+1          YES          1.0       4166               0.89
+2           NO          2.0        404               0.09
+
+
+
+S172.Q10 HAVE YOU BEEN IN COMBAT OR UNDER ENEMY FIRE IN THIS WAR?
+                                                  answer_label answer_value raw_counts relative_frequency
+0                                                    NO ANSWER          0.0         95               0.02
+1  YES, I HAVE BEEN UNDER ENEMY FIRE, BUT NOT IN ACTUAL COMBAT          2.0       1442               0.31
+2                                                           NO          1.0       1007               0.22
+3                            YES, I HAVE BEEN IN ACTUAL COMBAT          3.0       2136               0.46
+
+
+
+S172.Q11A.x DID YOU SEE ANY EVIDENCE IN YOUR OVERSEAS AREA THAT REPLACEMENT DEPOTS WERE NOT RUN AS WELL AS THEY COULD HAVE BEEN UNDER THE CIRCUMSTANCES? (NO, I DID NOT SEE ANY EVIDENCE OF THIS; YES, I SAW SOME EVIDENCE OF THIS, BUT NOT MUCH; YES, I SAW LOTS OF EVIDE
+                          answer_label answer_value raw_counts relative_frequency
+0   NO TO PART A, ANY ANSWER TO PART B          1.0       1902               0.41
+1              YES, SOME AND VERY MUCH          2.0        196               0.04
+2            YES, SOME AND QUITE A BIT          3.0        628               0.13
+3            YES, SOME AND NOT SO MUCH          4.0        855               0.18
+4             YES, SOME AND NOT AT ALL          5.0         70               0.01
+5              YES, LOTS AND VERY MUCH          6.0        455                0.1
+6            YES, LOTS AND QUITE A BIT          7.0        330               0.07
+7            YES, LOTS AND NOT SO MUCH          8.0         65               0.01
+8             YES, LOTS AND NOT AT ALL          9.0         18                0.0
+9            NO ANSWER ON BOTH A AND B         10.0        140               0.03
+10             YES, SOME AND NO ANSWER         11.0         15                0.0
+11             YES, LOTS AND NO ANSWER         12.0          6                0.0
+
+
+
+S172.Q12A.x DO YOU KNOW OF ANY MEN IN YOUR OVERSEAS AREA WHO WERE NOT GIVEN A FAIR CHANCE FOR ROTATION BACK TO THE STATES? (NO, I DO NOT KNOW OF ANY SUCH MEN; YES, I KNOW OF SOME MEN, BUT NOT MANY; YES, I KNOW OF MANY SUCH MEN)  Q.12B. HOW MUCH DID KNOWING ABOUT THI
+                          answer_label answer_value raw_counts relative_frequency
+0   NO TO PART A, ANY ANSWER TO PART B          1.0       2168               0.46
+1              YES, SOME AND VERY MUCH          2.0        407               0.09
+2            YES, SOME AND QUITE A BIT          3.0        734               0.16
+3            YES, SOME AND NOT SO MUCH          4.0        384               0.08
+4             YES, SOME AND NOT AT ALL          5.0         52               0.01
+5              YES, LOTS AND VERY MUCH          6.0        487                0.1
+6            YES, LOTS AND QUITE A BIT          7.0        255               0.05
+7            YES, LOTS AND NOT SO MUCH          8.0         40               0.01
+8             YES, LOTS AND NOT AT ALL          9.0         23                0.0
+9            NO ANSWER ON BOTH A AND B         10.0        104               0.02
+10             YES, SOME AND NO ANSWER         11.0         21                0.0
+11             YES, LOTS AND NO ANSWER         12.0          5                0.0
+
+
+
+S172.Q13A.x DID YOU SEE ANY EVIDENCE IN YOUR OVERSEAS AREA THAT THE ROTATION PLAN WAS MESSED UP OR DELAYED IN ANY WAY? (NO, I DID NOT SEE ANY EVIDENCE OF THIS; YES, I SAW SOME EVIDENCE OF THIS, BUT NOT MUCH; YES, I SAW LOTS OF EVIDENCE OF THIS)  Q.13B. HOW MUCH DID
+                          answer_label answer_value raw_counts relative_frequency
+0   NO TO PART A, ANY ANSWER TO PART B          1.0       1871                0.4
+1              YES, SOME AND VERY MUCH          2.0        297               0.06
+2            YES, SOME AND QUITE A BIT          3.0        687               0.15
+3            YES, SOME AND NOT SO MUCH          4.0        507               0.11
+4             YES, SOME AND NOT AT ALL          5.0         53               0.01
+5              YES, LOTS AND VERY MUCH          6.0        731               0.16
+6            YES, LOTS AND QUITE A BIT          7.0        286               0.06
+7            YES, LOTS AND NOT SO MUCH          8.0         38               0.01
+8             YES, LOTS AND NOT AT ALL          9.0         19                0.0
+9            NO ANSWER ON BOTH A AND B         10.0        167               0.04
+10             YES, SOME AND NO ANSWER         11.0         18                0.0
+11             YES, LOTS AND NO ANSWER         12.0          6                0.0
+
+
+
+S172.Q14A.x DID YOU SEE ANY EVIDENCE IN YOUR OVERSEAS AREA THAT OFFICERS TOOK UNFAIR ADVANTAGE OF THEIR RANK AND PRIVILEGES? (NO, I DID NOT SEE ANY EVIDENCE OF THIS; YES, I SAW SOME EVIDENCE OF THIS, BUT NOT MUCH; YES, I SAW LOTS OF EVIDENCE OF THIS)  Q.14B. HOW MUC
+                          answer_label answer_value raw_counts relative_frequency
+0   NO TO PART A, ANY ANSWER TO PART B          1.0       1571               0.34
+1              YES, SOME AND VERY MUCH          2.0        279               0.06
+2            YES, SOME AND QUITE A BIT          3.0        608               0.13
+3            YES, SOME AND NOT SO MUCH          4.0        739               0.16
+4             YES, SOME AND NOT AT ALL          5.0        115               0.02
+5              YES, LOTS AND VERY MUCH          6.0        879               0.19
+6            YES, LOTS AND QUITE A BIT          7.0        291               0.06
+7            YES, LOTS AND NOT SO MUCH          8.0         65               0.01
+8             YES, LOTS AND NOT AT ALL          9.0         28               0.01
+9            NO ANSWER ON BOTH A AND B         10.0         84               0.02
+10             YES, SOME AND NO ANSWER         11.0         14                0.0
+11             YES, LOTS AND NO ANSWER         12.0          7                0.0
+
+
+
+S172.Q15A.x DID YOU SEE ANY EVIDENCE IN YOUR OVERSEAS AREA THAT OFFICERS DID NOT TAKE A PERSONAL INTEREST IN THE WELFARE OF THEIR MEN? (NO, I DID NOT SEE ANY EVIDENCE OF THIS; YES, I SAW SOME EVIDENCE OF THIS, BUT NOT MUCH; YES, I SAW LOTS OF EVIDENCE OF THIS)  Q.15
+                          answer_label answer_value raw_counts relative_frequency
+0   NO TO PART A, ANY ANSWER TO PART B          1.0       2067               0.44
+1              YES, SOME AND VERY MUCH          2.0        299               0.06
+2            YES, SOME AND QUITE A BIT          3.0        658               0.14
+3            YES, SOME AND NOT SO MUCH          4.0        543               0.12
+4             YES, SOME AND NOT AT ALL          5.0         79               0.02
+5              YES, LOTS AND VERY MUCH          6.0        618               0.13
+6            YES, LOTS AND QUITE A BIT          7.0        183               0.04
+7            YES, LOTS AND NOT SO MUCH          8.0         42               0.01
+8             YES, LOTS AND NOT AT ALL          9.0         19                0.0
+9            NO ANSWER ON BOTH A AND B         10.0        143               0.03
+10             YES, SOME AND NO ANSWER         11.0         21                0.0
+11             YES, LOTS AND NO ANSWER         12.0          8                0.0
+
+
+
+S172.Q16A.x DO YOU KNOW OF ANY CASES IN YOUR OVERSEAS AREA WHERE MEN WERE NOT GIVEN THEIR FAIR SHARE OF PASSES? (NO, I DO NOT KNOW ANY SUCH CASES; YES, I KNOW SOME CASES, BUT NOT MANY; YES, I KNOW OF MANY SUCH CASES)  Q.16B. HOW MUCH DID KNOWING ABOUT THIS BOTHER YO
+                          answer_label answer_value raw_counts relative_frequency
+0   NO TO PART A, ANY ANSWER TO PART B          1.0       3077               0.66
+1              YES, SOME AND VERY MUCH          2.0        125               0.03
+2            YES, SOME AND QUITE A BIT          3.0        325               0.07
+3            YES, SOME AND NOT SO MUCH          4.0        383               0.08
+4             YES, SOME AND NOT AT ALL          5.0         61               0.01
+5              YES, LOTS AND VERY MUCH          6.0        296               0.06
+6            YES, LOTS AND QUITE A BIT          7.0        135               0.03
+7            YES, LOTS AND NOT SO MUCH          8.0         48               0.01
+8             YES, LOTS AND NOT AT ALL          9.0         13                0.0
+9            NO ANSWER ON BOTH A AND B         10.0        196               0.04
+10             YES, SOME AND NO ANSWER         11.0         13                0.0
+11             YES, LOTS AND NO ANSWER         12.0          8                0.0
+
+
+
+S172.Q17A.x DO YOU KNOW OF ANY CASES IN YOUR OVERSEAS AREA IN WHICH ENTERTAINMENT AND RECREATIONAL FACILITIES WERE NOT AS GOOD AS THEY COULD HAVE BEEN UNDER THE CIRCUMSTANCES? (NO, I DO NOT KNOW OF ANY SUCH CASES; YES, I KNOW OF SOME CASES, BUT NOT MANY; YES, I KNOW
+                          answer_label answer_value raw_counts relative_frequency
+0   NO TO PART A, ANY ANSWER TO PART B          1.0       3086               0.66
+1              YES, SOME AND VERY MUCH          2.0         92               0.02
+2            YES, SOME AND QUITE A BIT          3.0        332               0.07
+3            YES, SOME AND NOT SO MUCH          4.0        461                0.1
+4             YES, SOME AND NOT AT ALL          5.0         66               0.01
+5              YES, LOTS AND VERY MUCH          6.0        223               0.05
+6            YES, LOTS AND QUITE A BIT          7.0        118               0.03
+7            YES, LOTS AND NOT SO MUCH          8.0         51               0.01
+8             YES, LOTS AND NOT AT ALL          9.0         17                0.0
+9            NO ANSWER ON BOTH A AND B         10.0        214               0.05
+10             YES, SOME AND NO ANSWER         11.0         16                0.0
+11             YES, LOTS AND NO ANSWER         12.0          4                0.0
+
+
+
+S172.Q18A.x DO YOU KNOW OF ANY CASES IN YOUR OVERSEAS AREA IN WHICH POST EXCHANGES DID NOT HAVE THE SUPPLIES THEY SHOULD HAVE HAD UNDER THE CIRCUMSTANCES? (NO, I DO NOT KNOW OF ANY SUCH CASES; YES, I KNOW OF SOME CASES, BUT NOT MANY; YES, I KNOW OF MANY SUCH CASES)
+                          answer_label answer_value raw_counts relative_frequency
+0   NO TO PART A, ANY ANSWER TO PART B          1.0       2453               0.52
+1              YES, SOME AND VERY MUCH          2.0        155               0.03
+2            YES, SOME AND QUITE A BIT          3.0        436               0.09
+3            YES, SOME AND NOT SO MUCH          4.0        629               0.13
+4             YES, SOME AND NOT AT ALL          5.0         46               0.01
+5              YES, LOTS AND VERY MUCH          6.0        455                0.1
+6            YES, LOTS AND QUITE A BIT          7.0        204               0.04
+7            YES, LOTS AND NOT SO MUCH          8.0         61               0.01
+8             YES, LOTS AND NOT AT ALL          9.0         15                0.0
+9            NO ANSWER ON BOTH A AND B         10.0        190               0.04
+10             YES, SOME AND NO ANSWER         11.0         31               0.01
+11             YES, LOTS AND NO ANSWER         12.0          5                0.0
+
+
+
+S172.Q19A.x DO YOU KNOW OF ANY CASES IN YOUR OVERSEAS AREA IN WHICH ARMY FOOD WAS POORER THAN IT HAD TO BE? (NO, I DO NOT KNOW OF ANY SUCH CASES; YES, I KNOW OF SOME CASES, BUT NOT MANY; YES, I KNOW OF MANY SUCH CASES) Q.19B. HOW MUCH DID KNOWING ABOUT THIS BOTHER Y
+                          answer_label answer_value raw_counts relative_frequency
+0   NO TO PART A, ANY ANSWER TO PART B          1.0       1616               0.35
+1              YES, SOME AND VERY MUCH          2.0        370               0.08
+2            YES, SOME AND QUITE A BIT          3.0        755               0.16
+3            YES, SOME AND NOT SO MUCH          4.0        559               0.12
+4             YES, SOME AND NOT AT ALL          5.0         33               0.01
+5              YES, LOTS AND VERY MUCH          6.0        864               0.18
+6            YES, LOTS AND QUITE A BIT          7.0        250               0.05
+7            YES, LOTS AND NOT SO MUCH          8.0         28               0.01
+8             YES, LOTS AND NOT AT ALL          9.0         12                0.0
+9            NO ANSWER ON BOTH A AND B         10.0        163               0.03
+10             YES, SOME AND NO ANSWER         11.0         20                0.0
+11             YES, LOTS AND NO ANSWER         12.0         10                0.0
+
+
+
+S172.Q20A.x DO YOU KNOW OF ANY MEN IN YOUR OVERSEAS AREA WHO GOT PROMOTIONS WHEN THEY DID NOT DESERVE THEM? (NO, I DO NOT KNOW OF ANY SUCH MEN; YES, I KNOW OF SOME MEN, BUT NOT MANY; YES, I KNOW OF MANY SUCH MEN)  Q.20B. HOW MUCH DID KNOWING ABOUT THIS BOTHER YOU? (
+                          answer_label answer_value raw_counts relative_frequency
+0   NO TO PART A, ANY ANSWER TO PART B          1.0       2123               0.45
+1              YES, SOME AND VERY MUCH          2.0        325               0.07
+2            YES, SOME AND QUITE A BIT          3.0        599               0.13
+3            YES, SOME AND NOT SO MUCH          4.0        618               0.13
+4             YES, SOME AND NOT AT ALL          5.0        193               0.04
+5              YES, LOTS AND VERY MUCH          6.0        399               0.09
+6            YES, LOTS AND QUITE A BIT          7.0        143               0.03
+7            YES, LOTS AND NOT SO MUCH          8.0         71               0.02
+8             YES, LOTS AND NOT AT ALL          9.0         63               0.01
+9            NO ANSWER ON BOTH A AND B         10.0        121               0.03
+10             YES, SOME AND NO ANSWER         11.0         19                0.0
+11             YES, LOTS AND NO ANSWER         12.0          6                0.0
+
+
+
+S172.Q21A.x DO YOU KNOW OF ANY MEN IN YOUR OVERSEAS AREA WHO WERE BUSTED WHEN THEY DID NOT DESERVE TO BE? (NO, I DO NOT KNOW OF ANY SUCH MEN; YES, I KNOW OF SOME MEN, BUT NOT MANY; YES, I KNOW OF MANY SUCH MEN)  Q.21B. HOW MUCH DID KNOWING ABOUT THIS BOTHER YOU? (VE
+                          answer_label answer_value raw_counts relative_frequency
+0   NO TO PART A, ANY ANSWER TO PART B          1.0       2244               0.48
+1              YES, SOME AND VERY MUCH          2.0        532               0.11
+2            YES, SOME AND QUITE A BIT          3.0        795               0.17
+3            YES, SOME AND NOT SO MUCH          4.0        464                0.1
+4             YES, SOME AND NOT AT ALL          5.0        111               0.02
+5              YES, LOTS AND VERY MUCH          6.0        247               0.05
+6            YES, LOTS AND QUITE A BIT          7.0         86               0.02
+7            YES, LOTS AND NOT SO MUCH          8.0         25               0.01
+8             YES, LOTS AND NOT AT ALL          9.0         19                0.0
+9            NO ANSWER ON BOTH A AND B         10.0        118               0.03
+10             YES, SOME AND NO ANSWER         11.0         34               0.01
+11             YES, LOTS AND NO ANSWER         12.0          5                0.0
+
+
+
+S172.Q22A.x DO YOU KNOW OF ANY MEN IN YOUR OVERSEAS AREA WHO WOULD HAVE BEEN PROMOTED IF REPLACEMENTS WITH RATINGS HAD NOT BEEN SENT IN TO FILL THE VACANCIES? (NO, I DO NOT KNOW OF ANY SUCH MEN; YES, I KNOW OF SOME MEN, BUT NOT MANY; YES, I KNOW OF MANY SUCH MEN)  Q
+                          answer_label answer_value raw_counts relative_frequency
+0   NO TO PART A, ANY ANSWER TO PART B          1.0       1661               0.35
+1              YES, SOME AND VERY MUCH          2.0        318               0.07
+2            YES, SOME AND QUITE A BIT          3.0        565               0.12
+3            YES, SOME AND NOT SO MUCH          4.0        541               0.12
+4             YES, SOME AND NOT AT ALL          5.0        124               0.03
+5              YES, LOTS AND VERY MUCH          6.0        864               0.18
+6            YES, LOTS AND QUITE A BIT          7.0        289               0.06
+7            YES, LOTS AND NOT SO MUCH          8.0         78               0.02
+8             YES, LOTS AND NOT AT ALL          9.0         60               0.01
+9            NO ANSWER ON BOTH A AND B         10.0        156               0.03
+10             YES, SOME AND NO ANSWER         11.0         19                0.0
+11             YES, LOTS AND NO ANSWER         12.0          5                0.0
+
+
+
+S172.Q23A IN GENERAL, HOW WOULD YOU SAY THE MORALE WAS IN YOUR OVERSEAS OUTFIT?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        181               0.04
+1    VERY HIGH          1.0        489                0.1
+2  FAIRLY HIGH          2.0       1264               0.27
+3   JUST SO-SO          3.0       1503               0.32
+4   FAIRLY LOW          4.0        645               0.14
+5     VERY LOW          5.0        598               0.13
+
+
+
+S172.Q25 ON THE WHOLE, WHAT DO YOU THINK OF THE IDEA OF HAVING SUCH REDISTRIBUTION STATIONS AS THIS ONE FOR RETURNING SOLDIERS?
+                                            answer_label answer_value raw_counts relative_frequency
+0                                              NO ANSWER          0.0        116               0.02
+1                          IT IS A GOOD IDEA IN ALL WAYS          1.0       3988               0.85
+2  IT IS A GOOD IDEA IN MOST WAYS, BUT NOT IN OTHER WAYS          2.0        533               0.11
+3  IT IS A POOR IDEA IN MOST WAYS, BUT NOT IN OTHER WAYS          3.0         22                0.0
+4                          IT IS A POOR IDEA IN ALL WAYS          4.0         21                0.0
+
+
+
+S172.Q26 HOW DOES THE TREATMENT YOU GET FROM ARMY PERSONNEL HERE COMPARE WITH THE TREATMENT YOU RECEIVED FROM ARMY PERSONNEL IN MOST OTHER ARMY INSTALLATIONS YOU HAVE BEEN IN?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0        141               0.03
+1     IT IS BETTER HERE          1.0       3722                0.8
+2  IT IS ABOUT THE SAME          2.0        786               0.17
+3      IT IS WORSE HERE          3.0         31               0.01
+
+
+
+S172.Q28 AFTER THE WAR, DO YOU THINK THE UNITED STATES SHOULD DRAFT ALL YOUNG MEN FOR A CERTAIN AMOUNT OF ARMY TRAINING DURING PEACETIME OR SHOULD WE GO BACK TO THE REGULAR ARMY SYSTEM OF TAKING VOLUNTEERS ONLY?
+                                           answer_label answer_value raw_counts relative_frequency
+0                                             NO ANSWER          0.0        118               0.03
+1  DRAFT ALL YOUNG MEN FOR A CERTAIN AMOUNT OF TRAINING          1.0       2728               0.58
+2                     GO BACK TO TAKING VOLUNTEERS ONLY          2.0        986               0.21
+3                                             UNDECIDED          3.0        848               0.18
+
+
+
+S172.Q29 IN GENERAL, WHAT SORT OF PHYSICAL CONDITION WOULD YOU SAY YOU ARE IN AT THE PRESENT TIME?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         95               0.02
+1  VERY GOOD PHYSICAL CONDITION          1.0        241               0.05
+2       GOOD PHYSICAL CONDITION          2.0        643               0.14
+3       FAIR PHYSICAL CONDITION          3.0       2374               0.51
+4       POOR PHYSICAL CONDITION          4.0       1045               0.22
+5  VERY POOR PHYSICAL CONDITION          5.0        282               0.06
+
+
+
+S172.Q30A ARE YOU EVER TROUBLED BY YOUR HANDS SWEATING SO THAT THEY FEEL DAMP AND CLAMMY?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0        108               0.02
+1      YES, OFTEN          1.0       2098               0.45
+2  YES, SOMETIMES          2.0       1715               0.37
+3       NO, NEVER          3.0        759               0.16
+
+
+
+S172.Q30B HOW OFTEN ARE YOU BOTHERED BY HAVING AN UPSET STOMACH?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0        101               0.02
+1  NEARLY ALL THE TIME          1.0        497               0.11
+2         PRETTY OFTEN          2.0       1444               0.31
+3       NOT VERY OFTEN          3.0       2165               0.46
+4                NEVER          4.0        473                0.1
+
+
+
+S172.Q30C DO YOU OFTEN HAVE TROUBLE IN GETTING TO SLEEP OR STAYING ASLEEP?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0         96               0.02
+1    VERY OFTEN          1.0       1397                0.3
+2     SOMETIMES          2.0       2226               0.48
+3  ALMOST NEVER          3.0        961               0.21
+
+
+
+S172.Q30D DO YOUR HANDS EVER TREMBLE ENOUGH TO BOTHER YOU?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0        108               0.02
+1    VERY OFTEN          1.0       1059               0.23
+2     SOMETIMES          2.0       2087               0.45
+3  ALMOST NEVER          3.0       1426                0.3
+
+
+
+S172.Q30E ARE YOU EVER BOTHERED BY NERVOUSNESS?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0         94               0.02
+1    VERY OFTEN          1.0       1671               0.36
+2     SOMETIMES          2.0       2391               0.51
+3  ALMOST NEVER          3.0        524               0.11
+
+
+
+S172.Q30F ARE YOU EVER WORRIED AND UPSET?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0        121               0.03
+1  I AM HARDLY EVER WORRIED AND UPSET          1.0       1226               0.26
+2    I AM SOMETIMES WORRIED AND UPSET          2.0       2525               0.54
+3        I AM OFTEN WORRIED AND UPSET          3.0        808               0.17
+
+
+
+S172.Q30G IN GENERAL, WHAT SORT OF A TIME DO YOU HAVE IN THE ARMY?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         94               0.02
+1    I HAVE A PRETTY GOOD TIME          1.0        784               0.17
+2       IT'S ABOUT FIFTY-FIFTY          2.0       3048               0.65
+3  I HAVE A PRETTY ROTTEN TIME          3.0        754               0.16
+
+
+
+S172.Q30H IN GENERAL, HOW WOULD YOU SAY YOU FEEL MOST OF THE TIME, IN GOOD SPIRITS OR IN LOW SPIRITS?
+                                                            answer_label answer_value raw_counts relative_frequency
+0                                                              NO ANSWER          0.0         87               0.02
+1                                           I AM USUALLY IN GOOD SPIRITS          1.0       1486               0.32
+2  I AM IN GOOD SPIRITS SOME OF THE TIME IN LOW SPIRITS SOME OF THE TIME          2.0       2616               0.56
+3                                            I AM USUALLY IN LOW SPIRITS          3.0        491                0.1
+
+
+
+S172.Q31A AUSTRALIA?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0       2673               0.57
+1              A LOT          1.0        433               0.09
+2  SOME BUT NOT MANY          2.0        541               0.12
+3               NONE          3.0       1033               0.22
+
+
+
+S172.Q31B CHINA?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0       3485               0.74
+1              A LOT          1.0         69               0.01
+2  SOME BUT NOT MANY          2.0        121               0.03
+3               NONE          3.0       1005               0.21
+
+
+
+S172.Q31C ENGLAND?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0       2610               0.56
+1              A LOT          1.0        539               0.12
+2  SOME BUT NOT MANY          2.0        680               0.15
+3               NONE          3.0        851               0.18
+
+
+
+S172.Q31D FRANCE?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0       3156               0.67
+1              A LOT          1.0        130               0.03
+2  SOME BUT NOT MANY          2.0        357               0.08
+3               NONE          3.0       1037               0.22
+
+
+
+S172.Q31E ITALY?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0       2896               0.62
+1              A LOT          1.0        246               0.05
+2  SOME BUT NOT MANY          2.0        517               0.11
+3               NONE          3.0       1021               0.22
+
+
+
+S172.Q31F NEW ZEALAND?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0       3547               0.76
+1              A LOT          1.0         54               0.01
+2  SOME BUT NOT MANY          2.0         82               0.02
+3               NONE          3.0        997               0.21
+
+
+
+S172.Q32A AUSTRALIA?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0       2070               0.44
+1              A LOT          1.0       1053               0.22
+2  SOME BUT NOT MUCH          2.0       1085               0.23
+3               NONE          3.0        472                0.1
+
+
+
+S172.Q32B CANADA?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0       2844               0.61
+1              A LOT          1.0        555               0.12
+2  SOME BUT NOT MUCH          2.0        860               0.18
+3               NONE          3.0        421               0.09
+
+
+
+S172.Q32C CHINA?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0       3289                0.7
+1              A LOT          1.0        339               0.07
+2  SOME BUT NOT MUCH          2.0        216               0.05
+3               NONE          3.0        836               0.18
+
+
+
+S172.Q32D ENGLAND?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0       2179               0.47
+1              A LOT          1.0       1467               0.31
+2  SOME BUT NOT MUCH          2.0        673               0.14
+3               NONE          3.0        361               0.08
+
+
+
+S172.Q32E FRANCE?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0       2924               0.62
+1              A LOT          1.0        413               0.09
+2  SOME BUT NOT MUCH          2.0        665               0.14
+3               NONE          3.0        678               0.14
+
+
+
+S172.Q32F ITALY?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0       2881               0.62
+1              A LOT          1.0        505               0.11
+2  SOME BUT NOT MUCH          2.0        570               0.12
+3               NONE          3.0        724               0.15
+
+
+
+S172.Q32G RUSSIA?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0       3442               0.74
+1              A LOT          1.0         78               0.02
+2  SOME BUT NOT MUCH          2.0        162               0.03
+3               NONE          3.0        998               0.21
+
+
+
+S172.Q33 SO YOU THINK CHINA IS OR IS NOT DOING HER SHARE IN HELPING WIN THE WAR?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0        278               0.06
+1  DOING MORE THAN HER SHARE          1.0        249               0.05
+2            DOING HER SHARE          2.0       2093               0.45
+3        NOT DOING HER SHARE          3.0        801               0.17
+4                  UNDECIDED          4.0       1259               0.27
+
+
+
+S172.Q34 DO YOU THINK RUSSIA IS OR IS NOT DOING HER SHARE IN HELPING WIN THE WAR?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0        194               0.04
+1  DOING MORE THAN HER SHARE          1.0        806               0.17
+2            DOING HER SHARE          2.0       3427               0.73
+3        NOT DOING HER SHARE          3.0         37               0.01
+4                  UNDECIDED          4.0        216               0.05
+
+
+
+S172.Q35 DO YOU THINK THE UNITED STATES IS OR IS NOT DOING HER SHARE IN HELPING WIN THE WAR?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0         99               0.02
+1  DOING MORE THAN HER SHARE          1.0       3572               0.76
+2            DOING HER SHARE          2.0        966               0.21
+3        NOT DOING HER SHARE          3.0         15                0.0
+4                  UNDECIDED          4.0         28               0.01
+
+
+
+S172.Q36 DO YOU THINK ENGLAND IS OR IS NOT DOING HER SHARE IN HELPING WIN THE WAR?
+                answer_label answer_value raw_counts relative_frequency
+0  DOING MORE THAN HER SHARE          1.0        181               0.04
+1            DOING HER SHARE          2.0       2600               0.56
+2                  UNDECIDED          4.0        624               0.13
+3                  NO ANSWER          0.0        135               0.03
+4        NOT DOING HER SHARE          3.0       1140               0.24
+
+
+
+FORM..1FORM.
+           answer_label answer_value raw_counts relative_frequency
+0  FORM A QUESTIONNAIRE          1.0       2333                0.5
+1  FORM B QUESTIONNAIRE          2.0       2347                0.5
+
+
+
+S172.Q37 DO YOU THINK FRANCE IS OR IS NOT DOING HER SHARE IN HELPING WIN THE WAR?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0        190               0.04
+1  DOING MORE THAN HER SHARE          1.0         71               0.02
+2            DOING HER SHARE          2.0       2006               0.43
+3        NOT DOING HER SHARE          3.0       1015               0.22
+4                  UNDECIDED          4.0       1398                0.3
+
+
+
+S172.Q38A DO YOU THINK THERE WILL BE ANOTHER WAR IN THE NEXT 25 YEARS OR SO?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        170               0.04
+1          YES          1.0       1922               0.41
+2           NO          2.0        637               0.14
+3    UNDECIDED          3.0       1951               0.42
+
+
+
+S172.Q38B.1 IF YOU THINK THERE WILL BE ANOTHER WAR, WHAT COUNTRY DO YOU THINK WILL BE MOST TO BLAME FOR IT? (WRITE THE NAME OF THE COUNTRY IN THE BLANK BELOW)
+  answer_label answer_value raw_counts relative_frequency
+0    ARGENTINA          1.0         21                0.0
+1   NOT CHOSEN          2.0       4659                1.0
+
+
+
+S172.Q38B.2IF YOU THINK THERE WILL BE ANOTHER WAR, WHAT COUNTRY DO YOU THINK WILL BE MOST TO BLAME FOR IT? (WRITE THE NAME OF THE COUNTRY IN THE BLANK BELOW)
+  answer_label answer_value raw_counts relative_frequency
+0        CHINA          1.0         58               0.01
+1   NOT CHOSEN          2.0       4622               0.99
+
+
+
+S172.Q38B.3IF YOU THINK THERE WILL BE ANOTHER WAR, WHAT COUNTRY DO YOU THINK WILL BE MOST TO BLAME FOR IT? (WRITE THE NAME OF THE COUNTRY IN THE BLANK BELOW)
+   answer_label answer_value raw_counts relative_frequency
+0  ENGLAND 3663          1.0       1017               0.22
+1    NOT CHOSEN          2.0       3663               0.78
+
+
+
+S172.Q38B.4IF YOU THINK THERE WILL BE ANOTHER WAR, WHAT COUNTRY DO YOU THINK WILL BE MOST TO BLAME FOR IT? (WRITE THE NAME OF THE COUNTRY IN THE BLANK BELOW)
+  answer_label answer_value raw_counts relative_frequency
+0       FRANCE          1.0         18                0.0
+1   NOT CHOSEN          2.0       4662                1.0
+
+
+
+S172.Q38B.5IF YOU THINK THERE WILL BE ANOTHER WAR, WHAT COUNTRY DO YOU THINK WILL BE MOST TO BLAME FOR IT? (WRITE THE NAME OF THE COUNTRY IN THE BLANK BELOW)
+  answer_label answer_value raw_counts relative_frequency
+0      GERMANY          1.0        159               0.03
+1   NOT CHOSEN          2.0       4521               0.97
+
+
+
+S172.Q38B.6IF YOU THINK THERE WILL BE ANOTHER WAR, WHAT COUNTRY DO YOU THINK WILL BE MOST TO BLAME FOR IT? (WRITE THE NAME OF THE COUNTRY IN THE BLANK BELOW)
+  answer_label answer_value raw_counts relative_frequency
+0        ITALY          1.0          7                0.0
+1   NOT CHOSEN          2.0       4673                1.0
+
+
+
+S172.Q38B.7IF YOU THINK THERE WILL BE ANOTHER WAR, WHAT COUNTRY DO YOU THINK WILL BE MOST TO BLAME FOR IT? (WRITE THE NAME OF THE COUNTRY IN THE BLANK BELOW)
+  answer_label answer_value raw_counts relative_frequency
+0        JAPAN          1.0         45               0.01
+1   NOT CHOSEN          2.0       4635               0.99
+
+
+
+S172.Q38B.8IF YOU THINK THERE WILL BE ANOTHER WAR, WHAT COUNTRY DO YOU THINK WILL BE MOST TO BLAME FOR IT? (WRITE THE NAME OF THE COUNTRY IN THE BLANK BELOW)
+  answer_label answer_value raw_counts relative_frequency
+0       RUSSIA          1.0        835               0.18
+1   NOT CHOSEN          2.0       3845               0.82
+
+
+
+S172.Q38B.9IF YOU THINK THERE WILL BE ANOTHER WAR, WHAT COUNTRY DO YOU THINK WILL BE MOST TO BLAME FOR IT? (WRITE THE NAME OF THE COUNTRY IN THE BLANK BELOW)
+    answer_label answer_value raw_counts relative_frequency
+0  UNITED STATES          1.0        177               0.04
+1     NOT CHOSEN          2.0       4503               0.96
+
+
+
+S172.Q38B.10IF YOU THINK THERE WILL BE ANOTHER WAR, WHAT COUNTRY DO YOU THINK WILL BE MOST TO BLAME FOR IT? (WRITE THE NAME OF THE COUNTRY IN THE BLANK BELOW)
+  answer_label answer_value raw_counts relative_frequency
+0        OTHER          1.0         25               0.01
+1   NOT CHOSEN          2.0       4655               0.99
+
+
+
+S172.Q38B.11IF YOU THINK THERE WILL BE ANOTHER WAR, WHAT COUNTRY DO YOU THINK WILL BE MOST TO BLAME FOR IT? (WRITE THE NAME OF THE COUNTRY IN THE BLANK BELOW)
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0       2525               0.54
+1   NOT CHOSEN          2.0       2155               0.46
+
+
+
+S172.Q38C1.1 IF YOU THINK THERE WILL BE ANOTHER WAR, WHO DO YOU THINK WILL BE FIGHTING WHOM? (SHOW IN THE BLANKS BELOW THE COUNTRIES THAT WILL BE FIGHTING EACH OTHER.)
+  answer_label answer_value raw_counts relative_frequency
+0    ARGENTINA          1.0         21                0.0
+1   NOT CHOSEN          2.0       4659                1.0
+
+
+
+S172.Q38C1.2IF YOU THINK THERE WILL BE ANOTHER WAR, WHO DO YOU THINK WILL BE FIGHTING WHOM? (SHOW IN THE BLANKS BELOW THE COUNTRIES THAT WILL BE FIGHTING EACH OTHER.)
+  answer_label answer_value raw_counts relative_frequency
+0        CHINA          1.0        104               0.02
+1   NOT CHOSEN          2.0       4576               0.98
+
+
+
+S172.Q38C1.3IF YOU THINK THERE WILL BE ANOTHER WAR, WHO DO YOU THINK WILL BE FIGHTING WHOM? (SHOW IN THE BLANKS BELOW THE COUNTRIES THAT WILL BE FIGHTING EACH OTHER.)
+   answer_label answer_value raw_counts relative_frequency
+0  ENGLAND 3978          1.0        702               0.15
+1    NOT CHOSEN          2.0       3978               0.85
+
+
+
+S172.Q38C1.4IF YOU THINK THERE WILL BE ANOTHER WAR, WHO DO YOU THINK WILL BE FIGHTING WHOM? (SHOW IN THE BLANKS BELOW THE COUNTRIES THAT WILL BE FIGHTING EACH OTHER.)
+  answer_label answer_value raw_counts relative_frequency
+0       FRANCE          1.0        114               0.02
+1   NOT CHOSEN          2.0       4566               0.98
+
+
+
+S172.Q38C1.5 IF YOU THINK THERE WILL BE ANOTHER WAR, WHO DO YOU THINK WILL BE FIGHTING WHOM? (SHOW IN THE BLANKS BELOW THE COUNTRIES THAT WILL BE FIGHTING EACH OTHER.) 128
+  answer_label answer_value raw_counts relative_frequency
+0      GERMANY          1.0        128               0.03
+1   NOT CHOSEN          2.0       4552               0.97
+
+
+
+S172.Q38C1.6 IF YOU THINK THERE WILL BE ANOTHER WAR, WHO DO YOU THINK WILL BE FIGHTING WHOM? (SHOW IN THE BLANKS BELOW THE COUNTRIES THAT WILL BE FIGHTING EACH OTHER.) 24
+  answer_label answer_value raw_counts relative_frequency
+0        ITALY          1.0         24               0.01
+1   NOT CHOSEN          2.0       4656               0.99
+
+
+
+S172.Q38C1.7IF YOU THINK THERE WILL BE ANOTHER WAR, WHO DO YOU THINK WILL BE FIGHTING WHOM? (SHOW IN THE BLANKS BELOW THE COUNTRIES THAT WILL BE FIGHTING EACH OTHER.)
+  answer_label answer_value raw_counts relative_frequency
+0        JAPAN          1.0         64               0.01
+1   NOT CHOSEN          2.0       4616               0.99
+
+
+
+S172.Q38C1.8IF YOU THINK THERE WILL BE ANOTHER WAR, WHO DO YOU THINK WILL BE FIGHTING WHOM? (SHOW IN THE BLANKS BELOW THE COUNTRIES THAT WILL BE FIGHTING EACH OTHER.)
+  answer_label answer_value raw_counts relative_frequency
+0       RUSSIA          1.0        575               0.12
+1   NOT CHOSEN          2.0       4105               0.88
+
+
+
+S172.Q38C1.9IF YOU THINK THERE WILL BE ANOTHER WAR, WHO DO YOU THINK WILL BE FIGHTING WHOM? (SHOW IN THE BLANKS BELOW THE COUNTRIES THAT WILL BE FIGHTING EACH OTHER.)
+    answer_label answer_value raw_counts relative_frequency
+0  UNITED STATES          1.0        806               0.17
+1     NOT CHOSEN          2.0       3874               0.83
+
+
+
+S172.Q38C1.10IF YOU THINK THERE WILL BE ANOTHER WAR, WHO DO YOU THINK WILL BE FIGHTING WHOM? (SHOW IN THE BLANKS BELOW THE COUNTRIES THAT WILL BE FIGHTING EACH OTHER.)
+  answer_label answer_value raw_counts relative_frequency
+0        OTHER          1.0         92               0.02
+1   NOT CHOSEN          2.0       4588               0.98
+
+
+
+S172.Q38C1.11 IF YOU THINK THERE WILL BE ANOTHER WAR, WHO DO YOU THINK WILL BE FIGHTING WHOM? (SHOW IN THE BLANKS BELOW THE COUNTRIES THAT WILL BE FIGHTING EACH OTHER.)
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0       2921               0.62
+1   NOT CHOSEN          2.0       1759               0.38
+
+
+
+S172.Q38C2.1 IF YOU THINK THERE WILL BE ANOTHER WAR, WHO DO YOU THINK WILL BE FIGHTING WHOM? (SHOW IN THE BLANKS BELOW THE COUNTRIES THAT WILL BE FIGHTING EACH OTHER.)
+  answer_label answer_value raw_counts relative_frequency
+0    ARGENTINA          1.0         15                0.0
+1   NOT CHOSEN          2.0       4665                1.0
+
+
+
+S172.Q38C2.2IF YOU THINK THERE WILL BE ANOTHER WAR, WHO DO YOU THINK WILL BE FIGHTING WHOM? (SHOW IN THE BLANKS BELOW THE COUNTRIES THAT WILL BE FIGHTING EACH OTHER.)
+  answer_label answer_value raw_counts relative_frequency
+0        CHINA          1.0        102               0.02
+1   NOT CHOSEN          2.0       4578               0.98
+
+
+
+S172.Q38C2.3IF YOU THINK THERE WILL BE ANOTHER WAR, WHO DO YOU THINK WILL BE FIGHTING WHOM? (SHOW IN THE BLANKS BELOW THE COUNTRIES THAT WILL BE FIGHTING EACH OTHER.)
+   answer_label answer_value raw_counts relative_frequency
+0  ENGLAND 4182          1.0        498               0.11
+1    NOT CHOSEN          2.0       4182               0.89
+
+
+
+S172.Q38C2.4IF YOU THINK THERE WILL BE ANOTHER WAR, WHO DO YOU THINK WILL BE FIGHTING WHOM? (SHOW IN THE BLANKS BELOW THE COUNTRIES THAT WILL BE FIGHTING EACH OTHER.)
+  answer_label answer_value raw_counts relative_frequency
+0       FRANCE          1.0         82               0.02
+1   NOT CHOSEN          2.0       4598               0.98
+
+
+
+S172.Q38C2.5IF YOU THINK THERE WILL BE ANOTHER WAR, WHO DO YOU THINK WILL BE FIGHTING WHOM? (SHOW IN THE BLANKS BELOW THE COUNTRIES THAT WILL BE FIGHTING EACH OTHER.)
+  answer_label answer_value raw_counts relative_frequency
+0      GERMANY          1.0        124               0.03
+1   NOT CHOSEN          2.0       4556               0.97
+
+
+
+S172.Q38C2.6IF YOU THINK THERE WILL BE ANOTHER WAR, WHO DO YOU THINK WILL BE FIGHTING WHOM? (SHOW IN THE BLANKS BELOW THE COUNTRIES THAT WILL BE FIGHTING EACH OTHER.)
+  answer_label answer_value raw_counts relative_frequency
+0        ITALY          1.0         30               0.01
+1   NOT CHOSEN          2.0       4650               0.99
+
+
+
+S172.Q38C2.7IF YOU THINK THERE WILL BE ANOTHER WAR, WHO DO YOU THINK WILL BE FIGHTING WHOM? (SHOW IN THE BLANKS BELOW THE COUNTRIES THAT WILL BE FIGHTING EACH OTHER.)
+  answer_label answer_value raw_counts relative_frequency
+0        JAPAN          1.0         85               0.02
+1   NOT CHOSEN          2.0       4595               0.98
+
+
+
+S172.Q38C2.8IF YOU THINK THERE WILL BE ANOTHER WAR, WHO DO YOU THINK WILL BE FIGHTING WHOM? (SHOW IN THE BLANKS BELOW THE COUNTRIES THAT WILL BE FIGHTING EACH OTHER.)
+  answer_label answer_value raw_counts relative_frequency
+0       RUSSIA          1.0        777               0.17
+1   NOT CHOSEN          2.0       3903               0.83
+
+
+
+S172.Q38C2.9IF YOU THINK THERE WILL BE ANOTHER WAR, WHO DO YOU THINK WILL BE FIGHTING WHOM? (SHOW IN THE BLANKS BELOW THE COUNTRIES THAT WILL BE FIGHTING EACH OTHER.)
+    answer_label answer_value raw_counts relative_frequency
+0  UNITED STATES          1.0        526               0.11
+1     NOT CHOSEN          2.0       4154               0.89
+
+
+
+S172.Q38C2.10IF YOU THINK THERE WILL BE ANOTHER WAR, WHO DO YOU THINK WILL BE FIGHTING WHOM? (SHOW IN THE BLANKS BELOW THE COUNTRIES THAT WILL BE FIGHTING EACH OTHER.)
+  answer_label answer_value raw_counts relative_frequency
+0        OTHER          1.0        130               0.03
+1   NOT CHOSEN          2.0       4550               0.97
+
+
+
+S172.Q38C2.11IF YOU THINK THERE WILL BE ANOTHER WAR, WHO DO YOU THINK WILL BE FIGHTING WHOM? (SHOW IN THE BLANKS BELOW THE COUNTRIES THAT WILL BE FIGHTING EACH OTHER.)
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0       2992               0.64
+1   NOT CHOSEN          2.0       1688               0.36
+
+
+
+S172.Q39A WHAT OPINION DO YOU HAVE OF THE ENGLISH PEOPLE?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0        291               0.06
+1      VERY FAVORABLE          1.0        453                0.1
+2    FAIRLY FAVORABLE          2.0       1538               0.33
+3  RATHER UNFAVORABLE          3.0        932                0.2
+4    VERY UNFAVORABLE          4.0        562               0.12
+5          NO OPINION          5.0        904               0.19
+
+
+
+S172.Q40A WHAT OPINION DO YOU HAVE OF THE FRENCH PEOPLE?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0        665               0.14
+1      VERY FAVORABLE          1.0        328               0.07
+2    FAIRLY FAVORABLE          2.0       1142               0.24
+3  RATHER UNFAVORABLE          3.0        367               0.08
+4    VERY UNFAVORABLE          4.0        152               0.03
+5          NO OPINION          5.0       2026               0.43
+
+
+
+S172.Q41A WHAT OPINION DO YOU HAVE OF THE RUSSIAN PEOPLE?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0        662               0.14
+1      VERY FAVORABLE          1.0        857               0.18
+2    FAIRLY FAVORABLE          2.0       1101               0.24
+3  RATHER UNFAVORABLE          3.0        143               0.03
+4    VERY UNFAVORABLE          4.0         59               0.01
+5          NO OPINION          5.0       1858                0.4
+
+
+
+S172.Q42A WHAT OPINION DO YOU HAVE OF THE ITALIAN PEOPLE?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0        677               0.14
+1      VERY FAVORABLE          1.0         99               0.02
+2    FAIRLY FAVORABLE          2.0        496               0.11
+3  RATHER UNFAVORABLE          3.0        746               0.16
+4    VERY UNFAVORABLE          4.0        899               0.19
+5          NO OPINION          5.0       1763               0.38
+
+
+
+S172.Q43A HOW DO YOU THINK WE WILL GET ALONG WITH ENGLAND AFTER THE WAR?
+                                                            answer_label answer_value raw_counts relative_frequency
+0                                                              NO ANSWER          0.0        303               0.06
+1                                            WE WILL GET ALONG VERY WELL          1.0        416               0.09
+2             WE WILL DISAGREE ABOUT SOME THINGS BUT MANAGE TO GET ALONG          2.0       1745               0.37
+3  WE WILL HAVE SOME SERIOUS DISAGREEMENTS BUT WE WON'T FIGHT EACH OTHER          3.0       1265               0.27
+4                   WE WILL VERY LIKELY FIGHT EACH OTHER SOONER OR LATER          4.0        499               0.11
+5                                                              UNDECIDED          5.0        452                0.1
+
+
+
+S172.Q43B HOW DO YOU THINK WE WILL GET ALONG WITH FRANCE AFTER THE WAR?
+                                                            answer_label answer_value raw_counts relative_frequency
+0                                                              NO ANSWER          0.0        315               0.07
+1                                            WE WILL GET ALONG VERY WELL          1.0       1021               0.22
+2             WE WILL DISAGREE ABOUT SOME THINGS BUT MANAGE TO GET ALONG          2.0       1683               0.36
+3  WE WILL HAVE SOME SERIOUS DISAGREEMENTS BUT WE WON'T FIGHT EACH OTHER          3.0        763               0.16
+4                   WE WILL VERY LIKELY FIGHT EACH OTHER SOONER OR LATER          4.0         45               0.01
+5                                                              UNDECIDED          5.0        853               0.18
+
+
+
+S172.Q43C HOW DO YOU THINK WE WILL GET ALONG WITH RUSSIA AFTER THE WAR?
+                                                            answer_label answer_value raw_counts relative_frequency
+0                                                              NO ANSWER          0.0        314               0.07
+1                                            WE WILL GET ALONG VERY WELL          1.0        632               0.14
+2             WE WILL DISAGREE ABOUT SOME THINGS BUT MANAGE TO GET ALONG          2.0       1140               0.24
+3  WE WILL HAVE SOME SERIOUS DISAGREEMENTS BUT WE WON'T FIGHT EACH OTHER          3.0        749               0.16
+4                   WE WILL VERY LIKELY FIGHT EACH OTHER SOONER OR LATER          4.0        916                0.2
+5                                                              UNDECIDED          5.0        929                0.2
+
+
+
+S172.Q43D HOW DO YOU THINK WE WILL GET ALONG WITH CHINA AFTER THE WAR?
+                                                            answer_label answer_value raw_counts relative_frequency
+0                                               NO ANSWER SPLIT. A FORM.          0.0        332               0.07
+1                                            WE WILL GET ALONG VERY WELL          1.0       1583               0.34
+2             WE WILL DISAGREE ABOUT SOME THINGS BUT MANAGE TO GET ALONG          2.0       1217               0.26
+3  WE WILL HAVE SOME SERIOUS DISAGREEMENTS BUT WE WON'T FIGHT EACH OTHER          3.0        512               0.11
+4                   WE WILL VERY LIKELY FIGHT EACH OTHER SOONER OR LATER          4.0        145               0.03
+5                                                              UNDECIDED          5.0        891               0.19
+
+
+
+S172.Q44A.x DO YOU FEEL SATISFIED OR DISSATISFIED WITH THE WAY IN WHICH RUSSIA, ENGLAND, AND THE UNITED STATES ARE COOPERATING WITH EACH OTHER AT THE PRESENT TIME?  Q.44B. IF DISSATISFIED WHICH COUNTRY DO YOU THINK IS CHIEFLY TO BLAME?
+                              answer_label answer_value raw_counts relative_frequency
+0                                NO ANSWER          0.0        132               0.03
+1                                SATISFIED          1.0       1401                0.3
+2         DISSATISFIED AND RUSSIA TO BLAME          2.0         67               0.01
+3        DISSATISFIED AND ENGLAND TO BLAME          3.0        251               0.05
+4  DISSATISFIED AND UNITED STATES TO BLAME          4.0         31               0.01
+5               DISSATISFIED AND NO ANSWER          5.0         36               0.01
+6                                UNDECIDED          6.0        420               0.09
+7                    INAPPLICABLE (B FORM)          9.0       2342                0.5
+
+
+
+S172.Q45A.x IN A GENERAL WAY DO YOU FEEL THAT YOU HAVE SOME IDEA OF THE DUMBARTON OAKS PROPOSALS FOR AN INTERNATIONAL PEACE ORGANIZATION?  Q.45B. IF YES, DO YOU THINK THESE PROPOSALS ARE A REAL AND PRACTICAL BASIS FOR SETTING UP AN INTERNATIONAL ORGANIZATION?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0        323               0.07
+1     YES TO PART A AND YES TO PART B          1.0        387               0.08
+2                          YES AND NO          2.0         26               0.01
+3                   YES AND UNDECIDED          3.0         81               0.02
+4                   YES AND NO ANSWER          4.0         16                0.0
+5         NO AND ANY ANSWER TO PART B          5.0        524               0.11
+6  UNDECIDED AND ANY ANSWER TO PART B          6.0        977               0.21
+7               INAPPLICABLE (B FORM)          9.0       2346                0.5
+
+
+
+S172.Q44 WHILE YOU WERE OVERSEAS DID YOUR OUTFIT HAVE SUCH REGULARLY SCHEDULED MEETINGS?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0        114               0.02
+1                    YES          1.0       1212               0.26
+2                     NO          2.0        906               0.19
+3             DON'T KNOW          3.0        114               0.02
+4  INAPPLICABLE (A FORM)          9.0       2334                0.5
+
+
+
+S172.Q45 DURING THE LAST FEW MONTHS YOU WERE OVERSEAS HOW OFTEN DID YOU GO TO SUCH ORIENTATION MEETINGS?
+                           answer_label answer_value raw_counts relative_frequency
+0                             NO ANSWER          0.0        138               0.03
+1           MORE OFTEN THAN ONCE A WEEK          1.0        126               0.03
+2                           ONCE A WEEK          2.0        522               0.11
+3                 ONCE OR TWICE A MONTH          3.0        390               0.08
+4          LESS OFTEN THAN ONCE A MONTH          4.0        257               0.05
+5                            NOT AT ALL          5.0        304               0.06
+6  MY OUTFIT DID NOT HAVE SUCH MEETINGS          6.0        609               0.13
+7                 INAPPLICABLE (A FORM)          9.0       2334                0.5
+
+
+
+S172.Q46 DID THE MEN IN YOUR OUTFIT OVERSEAS USUALLY HAVE A CHANCE TO TALK AND GIVE THEIR OWN OPINIONS AT THESE MEETINGS?
+                                           answer_label answer_value raw_counts relative_frequency
+0                                             NO ANSWER          0.0        215               0.05
+1                YES, THEY USUALLY HAD A CHANCE TO TALK          1.0        974               0.21
+2  THEY HAD A CHANCE TO TALK SOMETIMES, BUT NOT USUALLY          2.0        254               0.05
+3             NO, THEY HARDLY EVER HAD A CHANCE TO TALK          3.0        235               0.05
+4                  MY OUTFIT DID NOT HAVE SUCH MEETINGS          4.0        668               0.14
+5                                 INAPPLICABLE (A FORM)          9.0       2334                0.5
+
+
+
+S172.Q47 HOW IMPORTANT DO YOU THINK IT IS TO HAVE AT LEAST AN HOUR A WEEK, WHILE YOU ARE IN THE ARMY, SET ASIDE FOR THE DISCUSSION OF SOME OF THE MAJOR PROBLEMS OF OUR COUNTRY?
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0        216               0.05
+1        IT IS VERY IMPORTANT          1.0       1370               0.29
+2      IT IS FAIRLY IMPORTANT          2.0        477                0.1
+3      IT IS NOT SO IMPORTANT          3.0        179               0.04
+4  IT IS NOT IMPORTANT AT ALL          4.0        104               0.02
+5       INAPPLICABLE (A FORM)          9.0       2334                0.5
+
+
+
+S172.Q48A THERE ARE GOOD REASONS WHY THE ARMY MAY HAVE TO SEND ME OVERSEAS AGAIN.
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0        206               0.04
+1                  AGREE          1.0        601               0.13
+2             DON'T KNOW          2.0        410               0.09
+3               DISAGREE          3.0       1129               0.24
+4  INAPPLICABLE (A FORM)          9.0       2334                0.5
+
+
+
+S172.Q48B ON THE WHOLE SOLDIERS WILL BE SATISFIED TO SETTLE BACK INTO THEIR HOMES AND JOBS AND NOT BOTHER MUCH ABOUT HOW THE GOVERNMENT IS RUN.
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0        207               0.04
+1                  AGREE          1.0        421               0.09
+2             DON'T KNOW          2.0        172               0.04
+3               DISAGREE          3.0       1546               0.33
+4  INAPPLICABLE (A FORM)          9.0       2334                0.5
+
+
+
+S172.Q48C NO MATTER WHAT ANYONE SAYS IT WON'T BE POSSIBLE TO FIND JOBS FOR EVERYONE AFTER THIS WAR.
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0        191               0.04
+1                  AGREE          1.0       1203               0.26
+2             DON'T KNOW          2.0        418               0.09
+3               DISAGREE          3.0        534               0.11
+4  INAPPLICABLE (A FORM)          9.0       2334                0.5
+
+
+
+S172.Q48D I'M SATISFIED THAT MOST COUNTRIES WILL COOPERATE AND GET ALONG WELL AFTER THE WAR SO WE CAN EXPECT A LONG PERIOD OF PEACE.
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0        210               0.04
+1                  AGREE          1.0        780               0.17
+2             DON'T KNOW          2.0        693               0.15
+3               DISAGREE          3.0        663               0.14
+4  INAPPLICABLE (A FORM)          9.0       2334                0.5
+
+
+
+S172.Q48E WHY SHOULD I BOTHER MYSELF WITH PROBLEMS IN THE UNITED STATES, ONE MAN CAN'T DO ANYTHING ABOUT WHAT THE GOVERNMENT DOES.
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0        226               0.05
+1                  AGREE          1.0        282               0.06
+2             DON'T KNOW          2.0        193               0.04
+3               DISAGREE          3.0       1645               0.35
+4  INAPPLICABLE (A FORM)          9.0       2334                0.5
+
+
+
+S172.Q48F WITH THE PLANS NOW BEING MADE IT IS NOT LIKELY THAT WE WILL HAVE A SERIOUS DEPRESSION AFTER THIS WAR.
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0        228               0.05
+1                  AGREE          1.0        709               0.15
+2             DON'T KNOW          2.0        792               0.17
+3               DISAGREE          3.0        617               0.13
+4  INAPPLICABLE (A FORM)          9.0       2334                0.5
+
+
+
+S172.Q49 DO YOU THINK THAT THE RECENT CRIMEA CONFERENCE BETWEEN ROOSEVELT, STALIN AND CHURCHILL HAS MADE ANOTHER WAR LESS LIKELY IN THE FUTURE OR HASN'T IT MADE ANY DIFFERENCE?
+                                              answer_label answer_value raw_counts relative_frequency
+0                                                NO ANSWER          0.0        372               0.08
+1      THE CRIMEA CONFERENCE HAS MADE WAR MUCH LESS LIKELY          1.0        600               0.13
+2  THE CRIMEA CONFERENCE HAS MADE WAR SOMEWHAT LESS LIKELY          2.0        882               0.19
+3         THE CRIMEA CONFERENCE HASN'T MADE ANY DIFFERENCE          3.0        490                0.1
+4                                    INAPPLICABLE (A FORM)          9.0       2336                0.5
+
+
+
+S172.V52 NEUROPSYCHIATRIC ADJUNCT SCORE - II E. DERIVED FROM Q.30A - Q.30H.
+        answer_label answer_value raw_counts relative_frequency
+0     ORIGINAL PUNCH          0.0         35               0.01
+1     ORIGINAL PUNCH          1.0        274               0.06
+2     ORIGINAL PUNCH          2.0        303               0.06
+3     ORIGINAL PUNCH          3.0        276               0.06
+4     ORIGINAL PUNCH          4.0        300               0.06
+5     ORIGINAL PUNCH          5.0        295               0.06
+6     ORIGINAL PUNCH          6.0        290               0.06
+7     ORIGINAL PUNCH          7.0        282               0.06
+8     ORIGINAL PUNCH          8.0        279               0.06
+9   ORIGINAL PUNCH X          9.0         98               0.02
+10    ORIGINAL BLANK         10.0       2248               0.48
+
+
+
+S172.V54 INTENSITY OF FEELING ABOUT GRIPES E. DERIVED FROM Q.11 - Q.22.
+           answer_label answer_value raw_counts relative_frequency
+0   ORIGINAL PUNCH OF 0          0.0         77               0.02
+1   ORIGINAL PUNCH OF 1          1.0        243               0.05
+2   ORIGINAL PUNCH OF 2          2.0        250               0.05
+3   ORIGINAL PUNCH OF 3          3.0        271               0.06
+4   ORIGINAL PUNCH OF 4          4.0        242               0.05
+5   ORIGINAL PUNCH OF 5          5.0        232               0.05
+6   ORIGINAL PUNCH OF 6          6.0        211               0.05
+7   ORIGINAL PUNCH OF 7          7.0        182               0.04
+8   ORIGINAL PUNCH OF 8          8.0        134               0.03
+9   ORIGINAL PUNCH OF 9          9.0        106               0.02
+10  ORIGINAL PUNCH OF X         10.0         47               0.01
+11  ORIGINAL PUNCH OF V         11.0         18                0.0
+12                BLANK         12.0       2667               0.57
+
+
+
+S172.V55 FIVE ITEM NEUROPSYCHIATRIC SCORE - I E. DERIVED FROM Q.30A - Q.30E.
+          answer_label answer_value raw_counts relative_frequency
+0  ORIGINAL PUNCH OF 6          1.0        342               0.07
+1  ORIGINAL PUNCH OF 7          2.0        454                0.1
+2  ORIGINAL PUNCH OF 8          3.0        614               0.13
+3  ORIGINAL PUNCH OF 9          4.0        633               0.14
+4  ORIGINAL PUNCH OF X          5.0        642               0.14
+5  ORIGINAL PUNCH OF V          6.0        672               0.14
+6                BLANK          9.0       1323               0.28
+
+
+
+S172.V56 FIVE ITEM NEUROPSYCHIATRIC SCORE - II E. DERIVED FROM Q.30A - Q.30E.
+          answer_label answer_value raw_counts relative_frequency
+0  ORIGINAL PUNCH OF 6          1.0        533               0.11
+1  ORIGINAL PUNCH OF 7          2.0        381               0.08
+2  ORIGINAL PUNCH OF 8          3.0        233               0.05
+3  ORIGINAL PUNCH OF 9          4.0        119               0.03
+4  ORIGINAL PUNCH OF X          5.0         56               0.01
+5                BLANK          9.0       3358               0.72
+
+
+
+S172.V57 STATION:
+                                               answer_label answer_value raw_counts relative_frequency
+0                                               LAKE PLACID          1.0        477                0.1
+1                                             ATLANTIC CITY          2.0        410               0.09
+2                                                 ASHEVILLE          3.0        200               0.04
+3                                                     MIAMI          4.0        692               0.15
+4                                               HOT SPRINGS          5.0        295               0.06
+5                                             SANTA BARBARA          6.0        342               0.07
+6                              CAMP BUTNER (FT. OGLETHORPE)          7.0        203               0.04
+7                                           FT. SAM HOUSTON          8.0        222               0.05
+8   ARMY AIR FORCE REDISTRIBUTION CENTER #1 (ATLANTIC CITY)          9.0        356               0.08
+9           ARMY AIR FORCE REDISTRIBUTION CENTER #2 (MIAMI)         10.0        437               0.09
+10    ARMY AIR FORCE REDISTRIBUTION CENTER #3 (SANTA MONIA)         11.0        173               0.04
+11     ARMY AIR FORCE REDISTRIBUTION CENTER #4 (SANTA ANNA)         12.0        873               0.19
+
+
+
+S172.V58 DATE:
+  answer_label answer_value raw_counts relative_frequency
+0        MARCH          3.0       1308               0.28
+1        APRIL          4.0       3221               0.69
+2          MAY          5.0        151               0.03
+
+
+

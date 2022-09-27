@@ -1,0 +1,691 @@
+S230.Q1 WHAT IS YOUR ARMY RANK OR GRADE?
+                                             answer_label answer_value raw_counts relative_frequency
+0                                               NO ANSWER          0.0         11               0.01
+1                          PRIVATE OR PRIVATE FIRST CLASS          1.0        284               0.29
+2                        CORPORAL OR TECHNICIAN 5TH GRADE          2.0        307               0.31
+3                        SERGEANT OR TECHNICIAN 4TH GRADE          3.0        243               0.25
+4                  STAFF SERGEANT OR TECHNICIAN 3RD GRADE          4.0        104                0.1
+5  TECHNICAL SERGEANT, MASTER SERGEANT, OR FIRST SERGEANT          5.0         42               0.04
+
+
+
+S230.Q2 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0         29               0.03
+1                  19          2.0         15               0.02
+2                  20          3.0         73               0.07
+3                  21          4.0         80               0.08
+4                  22          5.0         90               0.09
+5                  23          6.0         81               0.08
+6                  24          7.0         93               0.09
+7                  25          8.0         66               0.07
+8         26-29 YEARS          9.0        221               0.22
+9         30-34 YEARS         10.0        157               0.16
+10  35 YEARS AND OVER         11.0         86               0.09
+
+
+
+S230.Q3 HOW FAR DID YOU GO IN SCHOOL?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0         10               0.01
+1                  LESS THAN 8TH GRADE          1.0         54               0.05
+2                   FINISHED 8TH GRADE          2.0        102                0.1
+3  SOME HIGH SCHOOL BUT DID NOT FINISH          3.0        268               0.27
+4           GRADUATED FROM HIGH SCHOOL          4.0        390               0.39
+5                      WENT TO COLLEGE          5.0        167               0.17
+
+
+
+S230.Q4 HOW MANY MONTHS HAVE YOU BEEN OVERSEAS? (COUNT FROM THE TIME YOU SAILED FROM THE U.S.)
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         18               0.02
+1             6 MONTHS OR LESS          1.0        227               0.23
+2   OVER 6 MONTHS TO 12 MONTHS          2.0        146               0.15
+3  OVER 12 MONTHS TO 18 MONTHS          3.0        200                0.2
+4  OVER 18 MONTHS TO 24 MONTHS          4.0        149               0.15
+5  OVER 24 MONTHS TO 30 MONTHS          5.0         97                0.1
+6  OVER 30 MONTHS TO 36 MONTHS          6.0        122               0.12
+7               OVER 36 MONTHS          7.0         32               0.03
+
+
+
+S230.Q5 IN YOUR OPINION, HOW IMPORTANT IN WINNING THE WAR IS THE WORK THAT YOUR OUTFIT IS DOING?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0         15               0.02
+1        VERY IMPORTANT          1.0        358               0.36
+2      FAIRLY IMPORTANT          2.0        365               0.37
+3      NOT SO IMPORTANT          3.0        127               0.13
+4  NOT IMPORTANT AT ALL          4.0         62               0.06
+5             UNDECIDED          5.0         64               0.06
+
+
+
+S230.Q6 ON THE WHOLE, HOW IS THE MORALE OF THE MEN IN YOUR OUTFIT?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         13               0.01
+1    VERY HIGH          1.0         44               0.04
+2  FAIRLY HIGH          2.0        240               0.24
+3   JUST SO-SO          3.0        367               0.37
+4   FAIRLY LOW          4.0        148               0.15
+5     VERY LOW          5.0        179               0.18
+
+
+
+S230.Q7 ABOUT HOW MUCH LONGER DO YOU THINK THE WAR WILL LAST WITH JAPAN?
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0         21               0.02
+1            6 MONTHS OR LESS          1.0         24               0.02
+2              7 TO 11 MONTHS          2.0         87               0.09
+3                    ONE YEAR          3.0        226               0.23
+4             13 TO 17 MONTHS          4.0         72               0.07
+5             EIGHTEEN MONTHS          5.0        171               0.17
+6             19 TO 23 MONTHS          6.0         33               0.03
+7                   TWO YEARS          7.0        243               0.25
+8   OVER TWO YEARS, LONG TIME          8.0         34               0.03
+9                  DON'T KNOW          9.0         35               0.04
+10           QUALIFIED ANSWER         10.0         45               0.05
+
+
+
+S230.Q8 WHICH COMES CLOSEST TO YOUR IDEA OF HOW HARD IT IS GOING TO BE FROM NOW ON TO BEAT THE JAPS?
+                                                    answer_label answer_value raw_counts relative_frequency
+0                                                      NO ANSWER          0.0          5               0.01
+1       IT WILL BE A TOUGH JOB BUT OUR LOSSES WON'T BE TOO HEAVY          1.0        292               0.29
+2  IT WILL BE A TOUGH JOB WITH HEAVY LOSSES OF MEN AND EQUIPMENT          2.0        647               0.65
+3                                       IT WILL NOT BE VERY HARD          3.0         47               0.05
+
+
+
+S230.Q9 DO YOU EVER GET THE FEELING THAT THIS WAR IS NOT WORTH FIGHTING?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0         10               0.01
+1             VERY OFTEN          1.0         70               0.07
+2              SOMETIMES          2.0        204               0.21
+3  ONCE IN A GREAT WHILE          3.0        244               0.25
+4                  NEVER          4.0        463               0.47
+
+
+
+S230.Q10 DO YOU THINK THAT SUCH MEETINGS AS THESE ARE WORTHWHILE OR NOT?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0          4                0.0
+1   VERY MUCH WORTHWHILE          1.0        263               0.27
+2      FAIRLY WORTHWHILE          2.0        357               0.36
+3      NOT SO WORTHWHILE          3.0        173               0.17
+4  NOT WORTHWHILE AT ALL          4.0        127               0.13
+5              UNDECIDED          5.0         67               0.07
+
+
+
+S230.Q11 DOES YOUR OUTFIT HAVE MEETINGS WITH TALKS, OR TALKS AND DISCUSSIONS, ABOUT CURRENT EVENTS AND THE COURSE OF THE WAR?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0          6               0.01
+1           YES          1.0        912               0.92
+2            NO          2.0         52               0.05
+3  I DON'T KNOW          3.0         21               0.02
+
+
+
+S230.Q12 ARE YOU REQUIRED TO GO TO THESE MEETINGS, OR IS ATTENDANCE VOLUNTARY?
+                                                answer_label answer_value raw_counts relative_frequency
+0                                                  NO ANSWER          0.0          8               0.01
+1                                      WE ARE REQUIRED TO GO          1.0        896                0.9
+2  WE ARE SUPPOSED TO GO, BUT IT IS EASY TO GET OUT OF GOING          2.0         53               0.05
+3    IT IS COMPLETELY VOLUNTARY, WE CAN GO OR NOT AS WE LIKE          3.0         11               0.01
+4                         WE DON'T HAVE ORIENTATION MEETINGS          4.0         23               0.02
+
+
+
+S230.Q13 ABOUT HOW OFTEN DO YOU GO TO ORIENTATION MEETINGS?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         10               0.01
+1  MORE OFTEN THAN ONCE A WEEK          1.0         50               0.05
+2                  ONCE A WEEK          2.0        812               0.82
+3  LESS OFTEN THAN ONCE A WEEK          3.0         94               0.09
+4                   NOT AT ALL          4.0         11               0.01
+5  WE DON'T HAVE SUCH MEETINGS          5.0         14               0.01
+
+
+
+S230.Q14 WOULD YOU RATHER HAVE AN OFFICER OR AN ENLISTED MAN LEAD THESE MEETINGS?
+                                          answer_label answer_value raw_counts relative_frequency
+0                                            NO ANSWER          0.0         19               0.02
+1                       I WOULD RATHER HAVE AN OFFICER          1.0        237               0.24
+2                  I WOULD RATHER HAVE AN ENLISTED MAN          2.0        320               0.32
+3  IT MAKES NO DIFFERENCE TO ME WHO LEADS THE MEETINGS          3.0        415               0.42
+
+
+
+S230.Q15 DOES THE PERSON WHO GIVES THESE TALKS USUALLY KNOW HIS STUFF AND GET IT ACROSS TO THE MEN?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         13               0.01
+1               HE ALWAYS DOES          1.0        138               0.14
+2              HE USUALLY DOES          2.0        611               0.62
+3               HE SELDOM DOES          3.0        169               0.17
+4                HE NEVER DOES          4.0         41               0.04
+5  WE DON'T HAVE SUCH MEETINGS          5.0         19               0.02
+
+
+
+S230.Q16 HOW MANY OF THE ORIENTATION MEETINGS YOU HAVE GONE TO HAVE BEEN INTERESTING?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0          8               0.01
+1                  ALL OF THEM          1.0         99                0.1
+2                 MOST OF THEM          2.0        335               0.34
+3           ABOUT HALF OF THEM          3.0        202                0.2
+4                  FEW OF THEM          4.0        262               0.26
+5                 NONE OF THEM          5.0         69               0.07
+6  WE DON'T HAVE SUCH MEETINGS          6.0         16               0.02
+
+
+
+S230.Q18 HOW MUCH DO ORIENTATION MEETINGS HELP YOU TO UNDERSTAND THE WAR AND WHY WE ARE FIGHTING?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0          9               0.01
+1              THEY HELP A LOT          1.0        240               0.24
+2           THEY HELP SOMEWHAT          2.0        441               0.45
+3      THEY HARDLY HELP AT ALL          3.0        283               0.29
+4  WE DON'T HAVE SUCH MEETINGS          4.0         18               0.02
+
+
+
+S230.Q19 AFTER AN ORIENTATION MEETING IS OVER, DO THE MEN USUALLY TALK AMONG THEMSELVES ABOUT WHAT WAS SAID AT THE MEETING?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0          8               0.01
+1               THEY ALWAYS DO          1.0        157               0.16
+2              THEY USUALLY DO          2.0        409               0.41
+3               THEY SELDOM DO          3.0        322               0.32
+4                THEY NEVER DO          4.0         79               0.08
+5  WE DON'T HAVE SUCH MEETINGS          5.0         16               0.02
+
+
+
+S230.Q20 DO THE MEN USUALLY HAVE A CHANCE TO TALK AND GIVE THEIR OWN OPINIONS AT THESE ORIENTATION MEETINGS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         26               0.03
+1          YES          1.0        895                0.9
+2           NO          2.0         70               0.07
+
+
+
+S230.Q21 IF THE MEN HAVE A CHANCE AT THESE MEETINGS TO TALK AND GIVE THEIR OWN OPINIONS, DO YOU USUALLY TAKE PART AND GIVE YOUR OPINION?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0         15               0.02
+1                           I OFTEN DO          1.0        121               0.12
+2                       I SOMETIMES DO          2.0        385               0.39
+3                          I SELDOM DO          3.0        241               0.24
+4                           I NEVER DO          4.0        206               0.21
+5  WE DON'T HAVE A CHANCE TO TAKE PART          5.0         23               0.02
+
+
+
+S230.Q22 IF IT WERE UP TO YOU TO PLAN THESE MEETINGS, WOULD YOU RATHER HAVE THE WHOLE MEETING GIVEN OVER TO A TALK, OR HAVE A SHORTER TALK AND SOME TIME FOR DISCUSSION AND QUESTIONS BY THE MEN?
+                                                      answer_label answer_value raw_counts relative_frequency
+0                                                        NO ANSWER          0.0         17               0.02
+1                                                      JUST A TALK          1.0         85               0.09
+2            A SHORTER TALK WITH TIME FOR DISCUSSION AND QUESTIONS          2.0        645               0.65
+3                                     IT MAKES NO DIFFERENCE TO ME          3.0        114               0.12
+4  IF IT WERE UP TO ME, WE WOULD NOT HAVE ANY SUCH MEETINGS AT ALL          4.0        130               0.13
+
+
+
+S230.Q23 DO SQUADRON OR COMPANY OFFICERS GO TO THESE ORIENTATION MEETINGS?
+                        answer_label answer_value raw_counts relative_frequency
+0                          NO ANSWER          0.0         66               0.07
+1       YES, THE OFFICERS GO TO THEM          1.0        627               0.63
+2  NO, THE OFFICERS DON'T GO TO THEM          2.0        298                0.3
+
+
+
+S230.Q24A "AFTER THE WAR THE UNITED STATES SHOULD CONTROL AND DOMINATE THE WORLD?"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         26               0.03
+1        AGREE          1.0        124               0.13
+2     DISAGREE          2.0        841               0.85
+
+
+
+S230.Q24B "AFTER THE WAR THE UNITED STATES SHOULD STAY OUT OF WORLD AFFAIRS AND STICK TO THE PROBLEMS WE HAVE IN OUR OWN COUNTRY?"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         28               0.03
+1        AGREE          1.0        192               0.19
+2     DISAGREE          2.0        771               0.78
+
+
+
+S230.Q24C "AFTER THE WAR THE NATIONS OF THE WORLD SHOULD SET UP A STRONG INTERNATIONAL ORGANIZATION?"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         31               0.03
+1        AGREE          1.0        917               0.93
+2     DISAGREE          2.0         43               0.04
+
+
+
+S230.Q24D "AFTER THE WAR THE UNITED STATES SHOULD JOIN A STRONG INTERNATIONAL ORGANIZATION OF NATIONS EVEN IF IT MEANT THAT THIS ORGANIZATION WOULD HAVE SOME CONTROL OVER HOW THE UNITED STATES DEALS WITH OTHER COUNTRIES?"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         34               0.03
+1        AGREE          1.0        717               0.72
+2     DISAGREE          2.0        240               0.24
+
+
+
+S230.Q24E "AFTER THE WAR THERE SHOULD BE AN INTERNATIONALLY CONTROLLED ARMY TO POLICE THE WORLD?"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         49               0.05
+1        AGREE          1.0        678               0.68
+2     DISAGREE          2.0        264               0.27
+
+
+
+S230.Q25 HOW WOULD YOU RATE YOURSELF WITH REGARD TO A KNOWLEDGE OF WORLD EVENTS AND RECENT NEWS?
+                                      answer_label answer_value raw_counts relative_frequency
+0                                        NO ANSWER          0.0         14               0.01
+1               I HAVE A FAIRLY COMPLETE KNOWLEDGE          1.0        386               0.39
+2  I HAVE A GENERAL KNOWLEDGE OF "HEADLINE" EVENTS          2.0        554               0.56
+3                   I DO NOT KEEP UP WITH THE NEWS          3.0         37               0.04
+
+
+
+S230.Q26 IF YOU DO NOT HAVE A FAIRLY COMPLETE KNOWLEDGE OF THE NEWS, IS IT MAINLY BECAUSE . . .
+                                                         answer_label answer_value raw_counts relative_frequency
+0                                                           NO ANSWER          0.0        132               0.13
+1  I WANT TO KEEP UP BUT DON'T HAVE THE FACILITIES (NEWSPAPER, RADIO)          1.0         33               0.03
+2                      I WANT TO KEEP UP BUT JUST DON'T HAVE THE TIME          2.0        134               0.14
+3         I'M NOT PARTICULARLY INTERESTED IN KEEPING UP WITH THE NEWS          3.0        105               0.11
+4    I DO HAVE A FAIRLY COMPLETE AND UP-TO-DATE KNOWLEDGE OF THE NEWS          4.0        587               0.59
+
+
+
+S230.Q27 HAVE YOU EVER SEEN ANY OF THESE "FIGHTING FACTS" BOOKLETS?
+                                                                                                  answer_label answer_value raw_counts relative_frequency
+0                                                                                                    NO ANSWER          0.0         10               0.01
+1  YES, I HAVE SEEN THOSE USED BY THE ORIENTATION LEADER, BUT HAVE NOT HAD A CHANCE TO READ ANY OF THEM MYSELF          1.0        343               0.35
+2                                                                    YES, AND I HAVE HAD A CHANCE TO READ THEM          2.0        397                0.4
+3                                                                            NO, I HAVE NEVER SEEN ANY OF THEM          3.0        241               0.24
+
+
+
+S230.Q28 HAVE YOU YOURSELF READ ANY OF THEM?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         11               0.01
+1          YES          1.0        412               0.42
+2           NO          2.0        568               0.57
+
+
+
+S230.Q29 IF THERE WERE ENOUGH COPIES OF "FIGHTING FACTS" SO YOU COULD BORROW ONE EACH WEEK, DO YOU THINK YOU WOULD ACTUALLY TAKE THE TIME TO READ THEM YOURSELF?
+                                               answer_label answer_value raw_counts relative_frequency
+0                                                 NO ANSWER          0.0         11               0.01
+1        I'M SURE I WOULD NOT TAKE TIME TO READ ANY OF THEM          1.0         93               0.09
+2  I MIGHT TAKE TIME TO READ ONE OCCASIONALLY BUT NOT OFTEN          2.0        291               0.29
+3           I WOULD PROBABLY TAKE TIME TO READ MOST OF THEM          3.0        410               0.41
+4            I'M SURE I WOULD TAKE TIME TO READ ALL OF THEM          4.0        143               0.14
+5                                                 UNDECIDED          5.0         43               0.04
+
+
+
+S230.Q30 HOW ABOUT THE OTHER MEN IN YOUR OUTFIT - DO YOU THINK THEY WOULD TAKE THE TIME TO READ "FIGHTING FACTS" PAMPHLETS IF THERE WERE A FEW COPIES IN THE DAYROOM EACH WEEK?
+                                    answer_label answer_value raw_counts relative_frequency
+0                                      NO ANSWER          0.0         10               0.01
+1         I THINK ALL OF THE MEN WOULD READ THEM          1.0         55               0.06
+2        I THINK MOST OF THE MEN WOULD READ THEM          2.0        444               0.45
+3  I THINK ONLY A FEW OF THE MEN WOULD READ THEM          3.0        360               0.36
+4   I DON'T THINK ANY OF THE MEN WOULD READ THEM          4.0         12               0.01
+5                                     DON'T KNOW          5.0        110               0.11
+
+
+
+S230.Q31.1 BELOW IS A LIST OF 12 TITLES FOR "FIGHTING FACTS" PAMPHLETS. READ THEM OVER AND THEN CHECK THE 5 TITLES THAT YOU WOULD MOST LIKE TO READ OR HEAR DISCUSSED IN AN ORIENTATION MEETING.
+                  answer_label answer_value raw_counts relative_frequency
+0  THE STORY OF WAR PRODUCTION          1.0        180               0.18
+1                   NOT CHOSEN          2.0        811               0.82
+
+
+
+S230.Q31.2BELOW IS A LIST OF 12 TITLES FOR "FIGHTING FACTS" PAMPHLETS. READ THEM OVER AND THEN CHECK THE 5 TITLES THAT YOU WOULD MOST LIKE TO READ OR HEAR DISCUSSED IN AN ORIENTATION MEETING.
+                           answer_label answer_value raw_counts relative_frequency
+0  WHAT GI'S CAN EXPECT AFTER DISCHARGE          1.0        841               0.85
+1                            NOT CHOSEN          2.0        150               0.15
+
+
+
+S230.Q31.3BELOW IS A LIST OF 12 TITLES FOR "FIGHTING FACTS" PAMPHLETS. READ THEM OVER AND THEN CHECK THE 5 TITLES THAT YOU WOULD MOST LIKE TO READ OR HEAR DISCUSSED IN AN ORIENTATION MEETING.
+            answer_label answer_value raw_counts relative_frequency
+0  THE RED ARMY (RUSSIA)          1.0        304               0.31
+1             NOT CHOSEN          2.0        687               0.69
+
+
+
+S230.Q31.4BELOW IS A LIST OF 12 TITLES FOR "FIGHTING FACTS" PAMPHLETS. READ THEM OVER AND THEN CHECK THE 5 TITLES THAT YOU WOULD MOST LIKE TO READ OR HEAR DISCUSSED IN AN ORIENTATION MEETING.
+           answer_label answer_value raw_counts relative_frequency
+0  OUR ALLY BRITAIN 842          1.0        149               0.15
+1            NOT CHOSEN          2.0        842               0.85
+
+
+
+S230.Q31.5BELOW IS A LIST OF 12 TITLES FOR "FIGHTING FACTS" PAMPHLETS. READ THEM OVER AND THEN CHECK THE 5 TITLES THAT YOU WOULD MOST LIKE TO READ OR HEAR DISCUSSED IN AN ORIENTATION MEETING.
+             answer_label answer_value raw_counts relative_frequency
+0  CHINA'S WAR WITH JAPAN          1.0        240               0.24
+1              NOT CHOSEN          2.0        751               0.76
+
+
+
+S230.Q31.6BELOW IS A LIST OF 12 TITLES FOR "FIGHTING FACTS" PAMPHLETS. READ THEM OVER AND THEN CHECK THE 5 TITLES THAT YOU WOULD MOST LIKE TO READ OR HEAR DISCUSSED IN AN ORIENTATION MEETING.
+              answer_label answer_value raw_counts relative_frequency
+0  HOW LONG CAN JAPAN LAST          1.0        690                0.7
+1               NOT CHOSEN          2.0        301                0.3
+
+
+
+S230.Q31.7BELOW IS A LIST OF 12 TITLES FOR "FIGHTING FACTS" PAMPHLETS. READ THEM OVER AND THEN CHECK THE 5 TITLES THAT YOU WOULD MOST LIKE TO READ OR HEAR DISCUSSED IN AN ORIENTATION MEETING.
+           answer_label answer_value raw_counts relative_frequency
+0  U.S. AND WORLD TRADE          1.0        561               0.57
+1            NOT CHOSEN          2.0        430               0.43
+
+
+
+S230.Q31.8BELOW IS A LIST OF 12 TITLES FOR "FIGHTING FACTS" PAMPHLETS. READ THEM OVER AND THEN CHECK THE 5 TITLES THAT YOU WOULD MOST LIKE TO READ OR HEAR DISCUSSED IN AN ORIENTATION MEETING.
+                                         answer_label answer_value raw_counts relative_frequency
+0  FROM MIDWAY TO OKINAWA (COURSE OF THE PACIFIC WAR)          1.0        258               0.26
+1                                          NOT CHOSEN          2.0        733               0.74
+
+
+
+S230.Q31.9BELOW IS A LIST OF 12 TITLES FOR "FIGHTING FACTS" PAMPHLETS. READ THEM OVER AND THEN CHECK THE 5 TITLES THAT YOU WOULD MOST LIKE TO READ OR HEAR DISCUSSED IN AN ORIENTATION MEETING.
+                          answer_label answer_value raw_counts relative_frequency
+0  PROGRESS OF PLANS TO KEEP THE PEACE          1.0        738               0.74
+1                           NOT CHOSEN          2.0        253               0.26
+
+
+
+S230.Q31.10BELOW IS A LIST OF 12 TITLES FOR "FIGHTING FACTS" PAMPHLETS. READ THEM OVER AND THEN CHECK THE 5 TITLES THAT YOU WOULD MOST LIKE TO READ OR HEAR DISCUSSED IN AN ORIENTATION MEETING.
+             answer_label answer_value raw_counts relative_frequency
+0  THE ARMY POSTAL SYSTEM          1.0        130               0.13
+1              NOT CHOSEN          2.0        861               0.87
+
+
+
+S230.Q31.11BELOW IS A LIST OF 12 TITLES FOR "FIGHTING FACTS" PAMPHLETS. READ THEM OVER AND THEN CHECK THE 5 TITLES THAT YOU WOULD MOST LIKE TO READ OR HEAR DISCUSSED IN AN ORIENTATION MEETING.
+                 answer_label answer_value raw_counts relative_frequency
+0  THE GERMAN MILITARY CLIQUE          1.0        198                0.2
+1                  NOT CHOSEN          2.0        793                0.8
+
+
+
+S230.Q31.12BELOW IS A LIST OF 12 TITLES FOR "FIGHTING FACTS" PAMPHLETS. READ THEM OVER AND THEN CHECK THE 5 TITLES THAT YOU WOULD MOST LIKE TO READ OR HEAR DISCUSSED IN AN ORIENTATION MEETING.
+   answer_label answer_value raw_counts relative_frequency
+0  WAR MEDICINE          1.0        227               0.23
+1    NOT CHOSEN          2.0        764               0.77
+
+
+
+S230.Q31.13BELOW IS A LIST OF 12 TITLES FOR "FIGHTING FACTS" PAMPHLETS. READ THEM OVER AND THEN CHECK THE 5 TITLES THAT YOU WOULD MOST LIKE TO READ OR HEAR DISCUSSED IN AN ORIENTATION MEETING.
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0         30               0.03
+1   NOT CHOSEN          2.0        961               0.97
+
+
+
+S230.V31A NUMBER OF ITEMS CHECKED IN Q.31:
+          answer_label answer_value raw_counts relative_frequency
+0     NO ITEMS CHECKED          0.0         38               0.04
+1     ONE ITEM CHECKED          1.0         24               0.02
+2    TWO ITEMS CHECKED          2.0         23               0.02
+3  THREE ITEMS CHECKED          3.0         26               0.03
+4   FOUR ITEMS CHECKED          4.0         41               0.04
+5   FIVE ITEMS CHECKED          5.0        838               0.85
+6    SIX ITEMS CHECKED          6.0          1                0.0
+
+
+
+S230.Q32 HOW GOOD A JOB DO YOU THINK "FIGHTING FACTS" DOES IN GIVING INFORMATION WHICH IS COMPLETE AND DEPENDABLE?
+                                                           answer_label answer_value raw_counts relative_frequency
+0                                                             NO ANSWER          0.0         44               0.04
+1                                                       A VERY GOOD JOB          1.0        166               0.17
+2                                                     A FAIRLY GOOD JOB          2.0        301                0.3
+3                                                   NOT A VERY GOOD JOB          3.0         45               0.05
+4                                                 NOT A GOOD JOB AT ALL          4.0         14               0.01
+5  I DON'T KNOW ENOUGH ABOUT "FIGHTING FACTS" TO BE ABLE TO ANSWER THIS          5.0        421               0.42
+
+
+
+S230.Q33 WHEN "FIGHTING FACTS" DISCUSSES SOME SUBJECT ABOUT WHICH THERE MAY BE MORE THAN ONE POINT OF VIEW, DO YOU THINK IT GIVES "BOTH SIDES" OF THE STORY?
+                                                           answer_label answer_value raw_counts relative_frequency
+0                     YES, IT USUALLY DOES GIVE BOTH SIDES OF THE STORY          1.0        239               0.24
+1                                     I THINK IT DOES, BUT I'M NOT SURE          2.0        169               0.17
+2  I DON'T KNOW ENOUGH ABOUT "FIGHTING FACTS" TO BE ABLE TO ANSWER THIS          4.0        456               0.46
+3                                                             NO ANSWER          0.0         28               0.03
+4                              NO, IT USUALLY GIVES ONLY ONE SIDE OF IT          3.0         99                0.1
+
+
+
+S230.Q35 HAVE YOU EVER SEEN ONE OF THESE BASE OR UNIT NEWSPAPERS SINCE BEING STATIONED ON AN AIRBASE ON THIS ISLAND?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         13               0.01
+1          YES          1.0        812               0.82
+2           NO          2.0        148               0.15
+3   DON'T KNOW          3.0         18               0.02
+
+
+
+S230.Q36 DO YOU THINK A NEWSPAPER OF THIS TYPE IS WORTHWHILE OR NOT?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0         26               0.03
+1   VERY MUCH WORTHWHILE          1.0        449               0.45
+2      FAIRLY WORTHWHILE          2.0        345               0.35
+3    NOT VERY WORTHWHILE          3.0        115               0.12
+4  NOT WORTHWHILE AT ALL          4.0         56               0.06
+
+
+
+S230.Q37 IF YOU COULD HAVE YOUR CHOICE, WHICH OF THESE THREE KINDS OF NEWSPAPERS WOULD YOU PREFER?
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0                                                                                                                 NO ANSWER          0.0         43               0.04
+1                     A COMBINED NEWSPAPER FOR ALL BASES ON THE ISLAND, GIVING NEWS ABOUT MEN AND ACTIVITIES ON ALL OF THEM          1.0        418               0.42
+2                       A NEWSPAPER JUST FOR THIS BASE, GIVING NEWS ABOUT MEN AND ACTIVITIES IN UNITS THAT ARE LOCATED HERE          2.0        382               0.39
+3  A NEWSPAPER JUST FOR YOUR UNIT (SQUADRON, COMPANY, DETACHMENT), GIVING NEWS JUST ABOUT THE MEN AND ACTIVITIES IN YOUR OW          3.0        148               0.15
+
+
+
+S230.Q38 ABOUT HOW OFTEN DO YOU READ "BRIEF" MAGAZINE (THE MAGAZINE OF THE ARMY AIR FORCES IN THE PACIFIC)?
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0         41               0.04
+1      LESS THAN ONCE A MONTH          1.0        205               0.21
+2          ABOUT ONCE A MONTH          2.0        265               0.27
+3  TWO OR THREE TIMES A MONTH          3.0        238               0.24
+4                  EVERY WEEK          4.0        170               0.17
+5     HAVE NEVER READ "BRIEF"          5.0         72               0.07
+
+
+
+S230.Q39 WHAT DO YOU THINK OF "BRIEF"?
+                                            answer_label answer_value raw_counts relative_frequency
+0                                              NO ANSWER          0.0         25               0.03
+1                                      LIKE IT VERY MUCH          1.0        343               0.35
+2                                    LIKE IT FAIRLY WELL          2.0        425               0.43
+3                               DO NOT LIKE IT VERY WELL          3.0        107               0.11
+4                                  DO NOT LIKE IT AT ALL          4.0         29               0.03
+5  HAVE NEVER READ "BRIEF" SO I HAVE NO OPINION ABOUT IT          5.0         62               0.06
+
+
+
+S230.Q40 THE LAST TIME YOU WANTED TO BUY A COPY OF "BRIEF" AT YOUR PX, WERE YOU ABLE TO GET ONE?
+                              answer_label answer_value raw_counts relative_frequency
+0                                NO ANSWER          0.0         34               0.03
+1                                      YES          1.0        523               0.53
+2                                       NO          2.0        234               0.24
+3  I NEVER WANTED TO BUY "BRIEF" AT THE PX          3.0        200                0.2
+
+
+
+S230.Q41 IF YOU READ "BRIEF", HOW DO YOU USUALLY GET IT?
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0         45               0.05
+1          I BUY IT AT THE PX          1.0        487               0.49
+2  I READ SOMEONE ELSE'S COPY          2.0        305               0.31
+3              SOME OTHER WAY          3.0         85               0.09
+4        I DON'T READ "BRIEF"          4.0         69               0.07
+
+
+
+S230.Q42 WHEN YOUR PX GETS A NEW ISSUE OF "BRIEF", DOES IT USUALLY GET ENOUGH COPIES FOR EVERYONE WHO WANTS TO BUY ONE?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0         27               0.03
+1  THERE ARE USUALLY PLENTY OF COPIES          1.0        222               0.22
+2               USUALLY ALMOST ENOUGH          2.0        183               0.18
+3                     USUALLY TOO FEW          3.0        138               0.14
+4                 USUALLY FAR TOO FEW          4.0         57               0.06
+5                          DON'T KNOW          5.0        364               0.37
+
+
+
+S230.Q43 "BRIEF" MAGAZINE USUALLY HAS STORIES ABOUT BOMBING MISSIONS AND AIR COMBAT IN THE PACIFIC. SOMETIMES THERE ARE ALSO FEATURE ARTICLES ABOUT AIR FORCE GROUND TROOPS AND THEIR OPERATIONS. WHAT DO YOU THINK ABOUT THESE TWO KINDS OF STORIES?
+                                                                    answer_label answer_value raw_counts relative_frequency
+0                                                                      NO ANSWER          0.0         84               0.08
+1  SHOULD BE MORE COMBAT STORIES AND FEWER STORIES ABOUT AIR FORCE GROUND TROOPS          1.0        137               0.14
+2                                             IT'S ABOUT RIGHT THE WAY IT IS NOW          2.0        627               0.63
+3          SHOULD BE MORE ABOUT AIR FORCE GROUND TROOPS AND FEWER COMBAT STORIES          3.0        143               0.14
+
+
+
+S230.Q44 IN EVERY ISSUE OF "BRIEF" SOME ARTICLES ARE MOSTLY PICTURES, AND SOME ARE MOSTLY READING MATTER. WOULD YOU LIKE "BRIEF" TO HAVE MORE OF THESE "PICTURE STORIES" IF IT MEANT CUTTING DOWN ON THE AMOUNT OF READING MATTER?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0         77               0.08
+1  YES, MORE PICTURES AND LESS READING MATTER          1.0        247               0.25
+2          IT'S ABOUT RIGHT THE WAY IT IS NOW          2.0        581               0.59
+3  NO, FEWER PICTURES AND MORE READING MATTER          3.0         86               0.09
+
+
+
+S230.Q45 SOMETIMES "BRIEF" PRINTS DRAWINGS OR SKETCHES DRAWN BY STAFF ARTISTS INSTEAD OF USING REGULAR PHOTOGRAPHS. HOW DO YOU FEEL ABOUT USING THESE DRAWINGS FOR ILLUSTRATIONS IN "BRIEF"?
+                                    answer_label answer_value raw_counts relative_frequency
+0                                      NO ANSWER          0.0         82               0.08
+1  USE MORE DRAWINGS AND NOT SO MANY PHOTOGRAPHS          1.0         72               0.07
+2             IT'S ABOUT RIGHT THE WAY IT IS NOW          2.0        497                0.5
+3        USE FEWER DRAWINGS AND MORE PHOTOGRAPHS          3.0        340               0.34
+
+
+
+S230.Q46 SOMETIMES "BRIEF" HAS STORIES ABOUT INDIVIDUAL ENLISTED MEN AND OFFICERS AND THEIR JOBS IN AAFPOA. WHAT DO YOU THINK OF STORIES LIKE THESE?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0         82               0.08
+1   THERE SHOULD BE MORE STORIES LIKE THESE          1.0        261               0.26
+2         IT HAS ABOUT THE RIGHT NUMBER NOW          2.0        467               0.47
+3  THERE SHOULD BE FEWER STORIES LIKE THESE          3.0        181               0.18
+
+
+
+S230.Q47 WHEN YOU READ A COPY OF "BRIEF" MAGAZINE DO YOU READ THE EDITORIALS IN IT?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0         49               0.05
+1                ALWAYS          1.0        186               0.19
+2               USUALLY          2.0        349               0.35
+3             SOMETIMES          3.0        304               0.31
+4                 NEVER          4.0         49               0.05
+5  I DON'T READ "BRIEF"          5.0         54               0.05
+
+
+
+S230.Q48 WHAT DO YOU THINK OF THE EDITORIALS IN "BRIEF"?
+                           answer_label answer_value raw_counts relative_frequency
+0                             NO ANSWER          0.0         59               0.06
+1                             VERY GOOD          1.0        158               0.16
+2                           FAIRLY GOOD          2.0        538               0.54
+3                         NOT VERY GOOD          3.0         48               0.05
+4                       NOT GOOD AT ALL          4.0         15               0.02
+5  I HAVEN'T READ ENOUGH OF THEM TO SAY          5.0        173               0.17
+
+
+
+S230.Q49 DO YOU THINK THERE SHOULD BE A SPORTS SECTION IN "BRIEF"?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         50               0.05
+1                           YES          1.0        511               0.52
+2                            NO          2.0        165               0.17
+3  IT MAKES NO DIFFERENCE TO ME          3.0        265               0.27
+
+
+
+S230.Q50 IF "BRIEF" SHOULD CONTINUE TO PRINT A SECTION ABOUT SPORTS, WHICH ONE OF THE FOLLOWING TWO KINDS OF SPORTS NEWS WOULD YOU RATHER READ?
+                                  answer_label answer_value raw_counts relative_frequency
+0                                    NO ANSWER          0.0        145               0.15
+1  BIG TIME SPORTS EVENTS IN THE UNITED STATES          1.0        527               0.53
+2           ARMY SPORTS EVENTS IN THIS THEATER          2.0        319               0.32
+
+
+
+S230.Q51A WHEN YOU READ "BRIEF", HOW MANY LETTERS IN THE "APO" SECTION DO YOU READ?
+                                            answer_label answer_value raw_counts relative_frequency
+0                                              NO ANSWER          0.0         81               0.08
+1                             I USUALLY READ ALL OF THEM          1.0        243               0.25
+2                            I USUALLY READ MOST OF THEM          2.0        245               0.25
+3  I USUALLY GLANCE THROUGH BUT DO NOT READ MANY OF THEM          3.0        251               0.25
+4                      I USUALLY DO NOT READ ANY OF THEM          4.0         53               0.05
+5              I DON'T REMEMBER SEEING THE "APO" SECTION          5.0        118               0.12
+
+
+
+S230.Q51B DO YOU LIKE THE "APO" SECTION IN "BRIEF"?
+               answer_label answer_value raw_counts relative_frequency
+0                 NO ANSWER          0.0        199                0.2
+1         LIKE IT VERY MUCH          1.0        191               0.19
+2       LIKE IT FAIRLY WELL          2.0        468               0.47
+3  DO NOT LIKE IT VERY WELL          3.0        107               0.11
+4     DO NOT LIKE IT AT ALL          4.0         26               0.03
+
+
+
+S230.Q51C DO YOU THINK "BRIEF" SHOULD PRINT "GRIPE" LETTERS IN ITS "APO" SECTION?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         81               0.08
+1                           YES          1.0        609               0.61
+2                            NO          2.0        125               0.13
+3  IT MAKES NO DIFFERENCE TO ME          3.0        176               0.18
+
+
+
+S230.Q52 THERE IS ALWAYS SOME SPACE IN "BRIEF" FOR LIGHT AND HUMOROUS STUFF, SUCH AS THE FEATURES CALLED "FILE 13" AND "BUD NELSON'S COLUMN". WHAT DO YOU THINK OF THESE FEATURES?
+                 answer_label answer_value raw_counts relative_frequency
+0         LIKE THEM VERY MUCH          1.0        324               0.33
+1       LIKE THEM FAIRLY WELL          2.0        465               0.47
+2     DO NOT LIKE THEM AT ALL          4.0         24               0.02
+3                   NO ANSWER          0.0        126               0.13
+4  DO NOT LIKE THEM VERY WELL          3.0         52               0.05
+
+
+
+S230.Q55 IS THERE SOME PARTICULAR THING IN "BRIEF" THAT YOU DISLIKE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        334               0.34
+1          YES          1.0        104                0.1
+2           NO          2.0        553               0.56
+
+
+
+S230.V56 IDENTIFICATION OF AIR BASE, LOCATION AND OUTFIT:
+                                                         answer_label answer_value raw_counts relative_frequency
+0              BARKING SANDS - KAUAI - COMBAT CREW REPLACEMENT CENTER          1.0         64               0.06
+1                                  BARKING SANDS - KAUAI - BASE UNITS          2.0         23               0.02
+2                       BELLOWS - OAHU - 1934TH ENGINEERS AV. UT. CO.          3.0         38               0.04
+3                BELLOWS - OAHU - 1427TH-1428TH ORDNANCE SM. COS. AV.          4.0         38               0.04
+4                    BELLOWS - OAHU - 545TH B HEADQUARTER AB SQUADRON          5.0         32               0.03
+5                        BELLOWS - OAHU - 301ST DEPOT REPAIR SQUADRON          6.0         42               0.04
+6                       BELLOWS - OAHU - 316TH TROOP CARRIER SQUADRON          7.0         50               0.05
+7                        HICKAM - OAHU - 1932ND ENGINEERS AV. UT. CO.          8.0         48               0.05
+8                             HICKAM - OAHU - 1456TH Q.M. SV. CO. AV.          9.0         58               0.06
+9                            HICKAM - OAHU - 1245TH-1246TH MP CO. AV.         10.0         53               0.05
+10                          HICKAM - OAHU - 1704TH SIGNAL SV. CO. AV.         11.0         46               0.05
+11                    HICKAM - OAHU - 543RD B HEADQUARTER AB SQUADRON         12.0         44               0.04
+12            KIPAPA (A SUB-BASE OF WHEELER) - OAHU - 2018TH ORDNANCE         13.0         61               0.06
+13                             JOHN ROGERS - OAHU - 15TH SV. SQUADRON         14.0         48               0.05
+14                               WHEELER - OAHU - 389TH SERVICE GROUP         15.0         49               0.05
+15                   WHEELER - OAHU - 544TH B HEADQUARTER AB SQUADRON         16.0         48               0.05
+16                             WHEELER - OAHU - 88TH AIRDOME SQUADRON         17.0         45               0.05
+17                    WHEELER - OAHU - 591ST AV. MAINTENANCE SQUADRON         18.0         35               0.04
+18                              WHEELER - OAHU - DET. MEDICS AT LARGE         19.0         19               0.02
+19                       WHEELER - OAHU - 29TH AIR ENGINEERS SQUADRON         20.0         53               0.05
+20  WHEELER - OAHU - VI AIR SERVICE AREA COMMAND HEADQUARTER SQUADRON         21.0         48               0.05
+21                      WHEELER - OAHU - 1933RD ENGINEERS AV. UT. CO.         22.0         49               0.05
+
+
+

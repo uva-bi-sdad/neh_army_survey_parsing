@@ -1,0 +1,833 @@
+{
+  "S150.Q1": {
+    "0.0": "NO ANSWER",
+    "1.0": "PILOT",
+    "2.0": "CO-PILOT",
+    "3.0": "NAVIGATOR - BOMBARDIER",
+    "4.0": "RADIO OPERATOR",
+    "5.0": "ENGINEER GUNNER",
+    "6.0": "TAIL GUNNER (ARMORER)"
+  },
+  "S150.Q2": {
+    "0.0": "NO ANSWER",
+    "1.0": "NOVEMBER 1943 OR EARLIER",
+    "2.0": "DECEMBER 1943",
+    "3.0": "JANUARY 1944",
+    "4.0": "FEBRUARY 1944",
+    "5.0": "MARCH 1944",
+    "6.0": "APRIL 1944",
+    "7.0": "MAY 1944",
+    "8.0": "JUNE 1944",
+    "9.0": "JULY 1-15, 1944",
+    "10.0": "JULY 16-31, 1944",
+    "11.0": "AUGUST 1944"
+  },
+  "S150.Q3": {
+    "0.0": "NO ANSWER",
+    "1.0": "CAPTAIN",
+    "2.0": "1ST LIEUTENANT",
+    "3.0": "2ND LIEUTENANT",
+    "4.0": "FLIGHT OFFICER",
+    "5.0": "TECHNICAL SERGEANT",
+    "6.0": "STAFF SERGEANT",
+    "7.0": "SERGEANT",
+    "8.0": "MAJOR OR COLONEL",
+    "9.0": "CORPORAL OR TECHNICIAN 5TH GRADE",
+    "10.0": "PRIVATE OR PRIVATE FIRST CLASS"
+  },
+  "S150.Q4": {
+    "0.0": "NO ANSWER",
+    "1.0": "18 YEARS OR LESS",
+    "2.0": "19 YEARS",
+    "3.0": "20",
+    "4.0": "21",
+    "5.0": "22",
+    "6.0": "23",
+    "7.0": "24",
+    "8.0": "25",
+    "9.0": "26 TO 29 YEARS",
+    "10.0": "30 YEARS OR OVER"
+  },
+  "S150.Q5": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "BETTER SATISFIED THAN I WOULD BE WITH ANY OTHER COMBAT FLYING ASSIGNMENT",
+    "2.0": "AS WELL SATISFIED AS I WOULD BE WITH ANY OTHER",
+    "3.0": "WOULD BE BETTER SATISFIED IN SOME OTHER TYPE OF COMBAT FLYING ASSIGNMENT",
+    "4.0": "NO ANSWER"
+  },
+  "S150.Q6A": {
+    "1.0": "1 COMBAT MISSION COMPLETED",
+    "97.0": "NONE",
+    "98.0": "NO ANSWER",
+    "99.0": "99 COMBAT MISSIONS COMPLETED"
+  },
+  "S150.Q6B": {
+    "1.0": "1 COMBAT MISSION COMPLETED",
+    "65.0": "65 COMBAT MISSIONS COMPLETED",
+    "97.0": "NONE",
+    "98.0": "NO ANSWER"
+  },
+  "S150.Q7": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, I'M PRETTY SURE I WOULD",
+    "2.0": "YES, I THINK I WOULD, BUT I'M NOT SURE",
+    "3.0": "NO, I DON'T THINK I WOULD",
+    "4.0": "NO, I'M SURE I WOULD NOT"
+  },
+  "S150.Q8A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED",
+    "4.0": "NO ANSWER"
+  },
+  "S150.Q8B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED",
+    "4.0": "NO ANSWER"
+  },
+  "S150.Q9": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "A VERY IMPORTANT PART",
+    "2.0": "A FAIRLY IMPORTANT PART",
+    "3.0": "NOT A VERY IMPORTANT PART",
+    "4.0": "NOT IMPORTANT AT ALL",
+    "5.0": "NO ANSWER"
+  },
+  "S150.Q10": {
+    "0.0": "NO ANSWER",
+    "2.0": "I FEEL THAT THEY ARE FAIRLY WELL AWARE OF OUR NEEDS",
+    "NaN": "QUESTION 10A NOT CODED.",
+    "1.0": "I FEEL THAT THEY ARE VERY MUCH AWARE OF OUR NEEDS",
+    "3.0": "I FEEL THAT THEY DON'T KNOW VERY MUCH ABOUT OUR REAL PROBLEMS AND NEEDS"
+  },
+  "S150.Q11A": {
+    "0.0": "NO ANSWER",
+    "1.0": "1 DAY IN A ROW",
+    "2.0": "2 DAYS, \"1 OR 2 DAYS\"",
+    "3.0": "3 DAYS, \"2 OR 3 DAYS\"",
+    "4.0": "4 DAYS, \"3 OR 4 DAYS\"",
+    "5.0": "5 DAYS, \"4 OR 5 DAYS\"",
+    "6.0": "6 DAYS, \"5 OR 6 DAYS\"",
+    "7.0": "7 DAYS, \"6 OR 7 DAYS\"",
+    "8.0": "8 DAYS, \"7 OR 8 DAYS\"",
+    "9.0": "9 DAYS, \"8 OR 9 DAYS\"",
+    "10.0": "MORE THAN 9 DAYS IN A ROW"
+  },
+  "S150.Q11B": {
+    "0.0": "NO CODE OR NO DATA",
+    "2.0": "2 MISSIONS",
+    "97.0": "QUESTION MISUNDERSTOOD",
+    "98.0": "NO ANSWER",
+    "99.0": "99 MISSIONS"
+  },
+  "S150.Q12A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S150.Q12B": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S150.Q13": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, I THINK I WILL WANT TO",
+    "2.0": "YES, I MIGHT WANT TO, BUT I'M NOT SURE",
+    "3.0": "NO, I DON'T THINK I'D WANT TO",
+    "4.0": "NO, I WOULD NOT WANT TO AT ALL",
+    "5.0": "NO ANSWER"
+  },
+  "S150.Q14": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, I THINK I WILL WANT TO",
+    "2.0": "YES, I MIGHT WANT TO BUT I'M NOT SURE",
+    "3.0": "NO, I DON'T THINK I'D WANT TO"
+  },
+  "S150.Q15": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONE COMBAT MISSION",
+    "2.0": "TWO",
+    "3.0": "THREE",
+    "4.0": "FOUR",
+    "5.0": "FIVE",
+    "6.0": "SIX",
+    "7.0": "SEVEN",
+    "8.0": "EIGHT",
+    "9.0": "NINE",
+    "10.0": "TEN OR MORE COMBAT MISSIONS",
+    "11.0": "NONE"
+  },
+  "S150.Q15A": {
+    "0.0": "NO ANSWER TO ANY PART OF QUESTION 15 OR 15A",
+    "1.0": "ONE COMBAT MISSION",
+    "2.0": "TWO",
+    "3.0": "THREE",
+    "4.0": "FOUR",
+    "5.0": "FIVE",
+    "6.0": "SIX",
+    "7.0": "SEVEN",
+    "8.0": "EIGHT",
+    "9.0": "NINE",
+    "10.0": "TEN OR MORE COMBAT MISSIONS",
+    "11.0": "NONE"
+  },
+  "S150.Q16A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ONE DAY IN A ROW",
+    "2.0": "TWO",
+    "3.0": "THREE",
+    "4.0": "FOUR",
+    "5.0": "FIVE",
+    "6.0": "SIX",
+    "7.0": "SEVEN",
+    "8.0": "EIGHT",
+    "9.0": "NINE",
+    "10.0": "TEN OR MORE DAYS IN A ROW",
+    "11.0": "NO ANSWER"
+  },
+  "S150.Q16B": {
+    "1.0": "ONE MISSION",
+    "2.0": "TWO",
+    "3.0": "THREE",
+    "4.0": "FOUR",
+    "5.0": "FIVE",
+    "6.0": "SIX",
+    "7.0": "SEVEN",
+    "8.0": "EIGHT",
+    "9.0": "NINE",
+    "10.0": "TEN OR MORE MISSIONS",
+    "11.0": "NO ANSWER"
+  },
+  "S150.Q17": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, USUALLY",
+    "2.0": "YES, ONCE IN A WHILE",
+    "3.0": "NO"
+  },
+  "S150.Q18": {
+    "0.0": "NO ANSWER",
+    "1.0": "ON THE WHOLE THEY ARE LESS DIFFICULT NOW THAN THEY WERE",
+    "2.0": "THEY ARE ABOUT THE SAME AS THEY WERE",
+    "3.0": "ON THE WHOLE THEY ARE MORE DIFFICULT NOW THAN THEY WERE",
+    "4.0": "HAVEN'T BEEN FLYING LONG ENOUGH TO SAY"
+  },
+  "S150.Q19": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "PRACTICALLY NEVER HAVE FELT THIS",
+    "2.0": "HAVE FELT THIS OCCASIONALLY",
+    "3.0": "HAVE FELT THIS QUITE OFTEN",
+    "4.0": "NO ANSWER"
+  },
+  "S150.Q20": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY GOOD PHYSICAL CONDITION",
+    "2.0": "GOOD PHYSICAL CONDITION",
+    "3.0": "FAIR PHYSICAL CONDITION",
+    "4.0": "POOR PHYSICAL CONDITION",
+    "5.0": "VERY POOR PHYSICAL CONDITION"
+  },
+  "S150.Q21": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY GOOD",
+    "2.0": "GOOD",
+    "3.0": "FAIR",
+    "4.0": "POOR",
+    "5.0": "VERY POOR"
+  },
+  "S150.Q22": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY GOOD",
+    "2.0": "GOOD",
+    "3.0": "FAIR",
+    "4.0": "POOR",
+    "5.0": "VERY POOR",
+    "6.0": "DID NOT GO TO A TRAINING CENTER IN ETO",
+    "7.0": "NO ANSWER"
+  },
+  "S150.Q23A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY WELL SATISFIED",
+    "2.0": "SATISFIED",
+    "3.0": "NOT VERY WELL SATISFIED",
+    "4.0": "NOT SATISFIED AT ALL",
+    "5.0": "NO ANSWER"
+  },
+  "S150.Q23B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY WELL SATISFIED",
+    "2.0": "SATISFIED",
+    "3.0": "NOT VERY WELL SATISFIED",
+    "4.0": "NOT SATISFIED AT ALL"
+  },
+  "S150.Q24": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY IMPORTANT",
+    "2.0": "IMPORTANT",
+    "3.0": "NOT VERY IMPORTANT",
+    "4.0": "NOT IMPORTANT AT ALL",
+    "5.0": "DON'T KNOW",
+    "6.0": "NO ANSWER"
+  },
+  "S150.Q25A": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE THAN ENOUGH",
+    "2.0": "ABOUT THE RIGHT AMOUNT",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "NOT NEARLY ENOUGH",
+    "5.0": "DOES NOT APPLY TO ME"
+  },
+  "S150.Q25B": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE THAN ENOUGH",
+    "2.0": "ABOUT THE RIGHT AMOUNT",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "NOT NEARLY ENOUGH",
+    "5.0": "DOES NOT APPLY TO ME"
+  },
+  "S150.Q25C": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE THAN ENOUGH",
+    "2.0": "ABOUT THE RIGHT AMOUNT",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "NOT NEARLY ENOUGH",
+    "5.0": "DOES NOT APPLY TO ME"
+  },
+  "S150.Q25D": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE THAN ENOUGH",
+    "2.0": "ABOUT THE RIGHT AMOUNT",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "NOT NEARLY ENOUGH",
+    "5.0": "DOES NOT APPLY TO ME"
+  },
+  "S150.Q25E": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "MORE THAN ENOUGH",
+    "2.0": "ABOUT THE RIGHT AMOUNT",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "NOT NEARLY ENOUGH",
+    "5.0": "DOES NOT APPLY TO ME",
+    "6.0": "NO ANSWER"
+  },
+  "S150.Q25F": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE THAN ENOUGH",
+    "2.0": "ABOUT THE RIGHT AMOUNT",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "NOT NEARLY ENOUGH",
+    "5.0": "DOES NOT APPLY TO ME"
+  },
+  "S150.Q25G": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "MORE THAN ENOUGH",
+    "2.0": "ABOUT THE RIGHT AMOUNT",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "NOT NEARLY ENOUGH",
+    "5.0": "DOES NOT APPLY TO ME",
+    "6.0": "NO ANSWER"
+  },
+  "S150.Q26A": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE THAN ENOUGH",
+    "2.0": "ABOUT THE RIGHT AMOUNT",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "NOT NEARLY ENOUGH",
+    "5.0": "DOES NOT APPLY TO ME"
+  },
+  "S150.Q26B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "MORE THAN ENOUGH",
+    "2.0": "ABOUT THE RIGHT AMOUNT",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "NOT NEARLY ENOUGH",
+    "5.0": "DOES NOT APPLY TO ME",
+    "6.0": "NO ANSWER"
+  },
+  "S150.Q26C": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE THAN ENOUGH",
+    "2.0": "ABOUT THE RIGHT AMOUNT",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "NOT NEARLY ENOUGH",
+    "5.0": "DOES NOT APPLY TO ME"
+  },
+  "S150.Q26D": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "MORE THAN ENOUGH",
+    "2.0": "ABOUT THE RIGHT AMOUNT",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "NOT NEARLY ENOUGH",
+    "5.0": "DOES NOT APPLY TO ME",
+    "6.0": "NO ANSWER"
+  },
+  "S150.Q26E": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE THAN ENOUGH",
+    "2.0": "ABOUT THE RIGHT AMOUNT",
+    "3.0": "NOT QUITE ENOUGH",
+    "4.0": "NOT NEARLY ENOUGH",
+    "5.0": "DOES NOT APPLY TO ME"
+  },
+  "S150.Q26F": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "NO ANSWER"
+  },
+  "S150.Q27A": {
+    "1.0": "LESS THAN 100 ROUNDS",
+    "2.0": "100-499",
+    "3.0": "500-999",
+    "4.0": "1000-1999",
+    "5.0": "2000-2999",
+    "6.0": "3000-4999",
+    "7.0": "5000-6999",
+    "8.0": "7000-9999",
+    "9.0": "10,000 OR MORE ROUNDS",
+    "10.0": "NONE",
+    "11.0": "DON'T KNOW, NO ANSWER"
+  },
+  "S150.Q27B": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN 100 ROUNDS",
+    "2.0": "100-499",
+    "3.0": "500-999",
+    "4.0": "1000-1999",
+    "5.0": "2000-2999",
+    "6.0": "3000-4999",
+    "7.0": "5000-6999",
+    "8.0": "7000-9999",
+    "9.0": "10,000 OR MORE ROUNDS",
+    "10.0": "NONE"
+  },
+  "S150.Q27C": {
+    "0.0": "NO ANSWER",
+    "1.0": "1 TO 9 HOURS",
+    "2.0": "10 TO 19",
+    "3.0": "20 TO 29",
+    "4.0": "30 TO 39",
+    "5.0": "40 TO 49",
+    "6.0": "50 TO 59",
+    "7.0": "60 TO 74",
+    "8.0": "75 TO 99",
+    "9.0": "100 TO 149",
+    "10.0": "150 OR MORE HOURS",
+    "11.0": "NONE"
+  },
+  "S150.Q28A.1": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONE LEAVE OR PASS",
+    "2.0": "TWO",
+    "3.0": "THREE",
+    "4.0": "FOUR",
+    "5.0": "FIVE",
+    "6.0": "SIX",
+    "7.0": "SEVEN, EIGHT OR NINE",
+    "8.0": "TEN TO FOURTEEN",
+    "9.0": "FIFTEEN OR MORE LEAVES OR PASSES",
+    "10.0": "NONE"
+  },
+  "S150.Q28A.2": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONE FURLOUGH",
+    "2.0": "TWO",
+    "3.0": "THREE",
+    "4.0": "FOUR",
+    "5.0": "FIVE",
+    "6.0": "SIX",
+    "7.0": "SEVEN, EIGHT OR NINE",
+    "8.0": "TEN TO FOURTEEN",
+    "9.0": "FIFTEEN OR MORE FURLOUGHS",
+    "10.0": "NONE"
+  },
+  "S150.Q28B.1": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONE LEAVE OR PASS",
+    "2.0": "TWO",
+    "3.0": "THREE",
+    "4.0": "FOUR",
+    "5.0": "FIVE",
+    "6.0": "SIX",
+    "7.0": "SEVEN, EIGHT OR NINE",
+    "8.0": "TEN TO FOURTEEN",
+    "9.0": "FIFTEEN OR MORE LEAVES OR PASSES",
+    "10.0": "NONE"
+  },
+  "S150.Q28B.2": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONE FURLOUGH",
+    "2.0": "TWO",
+    "3.0": "THREE",
+    "4.0": "FOUR",
+    "5.0": "FIVE",
+    "6.0": "SIX",
+    "7.0": "SEVEN, EIGHT OR NINE",
+    "8.0": "TEN TO FOURTEEN",
+    "9.0": "FIFTEEN OR MORE FURLOUGHS",
+    "10.0": "NONE"
+  },
+  "S150.Q29": {
+    "1.0": "IT IS AS GOOD AS IT COULD BE UNDER THE CIRCUMSTANCES",
+    "2.0": "IT COULD BE SOMEWHAT BETTER",
+    "4.0": "NO ANSWER",
+    "NaN": "QUESTION 29A NOT CODED.",
+    "0.0": "NO CODE OR NO DATA",
+    "3.0": "IT COULD BE A LOT BETTER"
+  },
+  "S150.Q30A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "USUALLY KNOW A WEEK OR MORE BEFOREHAND",
+    "2.0": "USUALLY GIVEN A FEW DAYS NOTICE",
+    "3.0": "USUALLY FIND OUT ABOUT IT JUST BEFORE A LEAVE OR PASS IS GRANTED",
+    "NaN": "COL. 80 NOT USED. CARD 2",
+    "4.0": "I'M NOT SURE HOW IT WORKS",
+    "5.0": "NO ANSWER"
+  },
+  "S150.Q30B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY IMPORTANT",
+    "2.0": "IMPORTANT",
+    "3.0": "NOT VERY IMPORTANT",
+    "4.0": "NOT IMPORTANT AT ALL",
+    "5.0": "DON'T KNOW",
+    "6.0": "NO ANSWER"
+  },
+  "S150.Q31A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, VERY WELL SATISFIED",
+    "2.0": "YES, PRETTY WELL SATISFIED",
+    "3.0": "YES, NOT SO WELL SATISFIED",
+    "4.0": "YES, NOT SATISFIED AT ALL",
+    "5.0": "YES, NO ANSWER",
+    "6.0": "NO"
+  },
+  "S150.Q31B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "WOULD RATHER SPEND IT AT ONE OF THE AIR CORPS REST HOMES",
+    "2.0": "WOULD RATHER SPEND IT SOMEWHERE ELSE",
+    "3.0": "UNDECIDED",
+    "4.0": "NO ANSWER"
+  },
+  "S150.Q32": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY WELL SATISFIED",
+    "2.0": "SATISFIED",
+    "3.0": "NOT VERY WELL SATISFIED",
+    "NaN": "QUESTION 32A NOT CODED.",
+    "4.0": "NOT SATISFIED AT ALL",
+    "5.0": "NO ANSWER"
+  },
+  "S150.Q33": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "NO, WE HAVE ABOUT EVERYTHING WE NEED",
+    "2.0": "YES, FEEL IT WOULD HELP A LITTLE IF WE HAD MORE OF SOME KINDS OF EQUIPMENT",
+    "NaN": "QUESTION 33A NOT CODED.",
+    "3.0": "YES, FEEL IT WOULD HELP A LOT IF WE HAD MORE OF SOME KINDS OF EQUIPMENT",
+    "4.0": "NO ANSWER"
+  },
+  "S150.Q34A": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONE HOUR",
+    "2.0": "TWO",
+    "3.0": "THREE",
+    "4.0": "FOUR",
+    "5.0": "FIVE",
+    "6.0": "SIX",
+    "7.0": "SEVEN",
+    "8.0": "EIGHT",
+    "9.0": "MORE THAN EIGHT HOURS"
+  },
+  "S150.Q34B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ALMOST NEVER",
+    "2.0": "OCCASIONALLY",
+    "3.0": "FAIRLY OFTEN",
+    "NaN": "QUESTION 34C NOT CODED.",
+    "4.0": "VERY OFTEN",
+    "5.0": "NO ANSWER"
+  },
+  "S150.Q35": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, LESS THAN 30 COMBAT MISSIONS",
+    "2.0": "YES, 30 TO 39",
+    "3.0": "YES, 40 TO 49",
+    "4.0": "YES, 50 TO 54",
+    "5.0": "YES, 55 TO 59",
+    "6.0": "YES, 60 TO 69",
+    "7.0": "YES, 70 TO 79",
+    "8.0": "YES, 80 OR MORE COMBAT MISSIONS",
+    "9.0": "YES, NO ANSWER",
+    "10.0": "NO"
+  },
+  "S150.Q36A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ABOUT AS GOOD AS IT COULD BE UNDER THE CIRCUMSTANCES",
+    "2.0": "COULD BE IMPROVED BUT IT WOULDN'T MAKE TOO MUCH DIFFERENCE TO ME",
+    "3.0": "COULD BE IMPROVED AND IT WOULD HELP A LOT IF IT WERE",
+    "4.0": "UNCERTAIN",
+    "5.0": "NO ANSWER"
+  },
+  "S150.Q36B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ABOUT AS GOOD AS IT COULD BE UNDER THE CIRCUMSTANCES",
+    "2.0": "COULD BE IMPROVED BUT IT WOULDN'T MAKE TOO MUCH DIFFERENCE TO ME",
+    "3.0": "COULD BE IMPROVED AND IT WOULD HELP A LOT IF IT WERE",
+    "4.0": "UNCERTAIN",
+    "5.0": "NO ANSWER"
+  },
+  "S150.Q36C": {
+    "1.0": "ABOUT AS GOOD AS IT COULD BE UNDER THE CIRCUMSTANCES",
+    "2.0": "COULD BE IMPROVED BUT IT WOULDN'T MAKE TOO MUCH DIFFERENCE TO ME",
+    "3.0": "COULD BE IMPROVED AND IT WOULD HELP A LOT IF IT WERE",
+    "4.0": "UNCERTAIN",
+    "5.0": "NO ANSWER"
+  },
+  "S150.Q37": {
+    "0.0": "NO ANSWER",
+    "1.0": "A VERY GOOD JOB",
+    "2.0": "A GOOD JOB",
+    "3.0": "A FAIR JOB",
+    "4.0": "A POOR JOB",
+    "5.0": "A VERY POOR JOB"
+  },
+  "S150.Q38A": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALMOST ALWAYS",
+    "2.0": "MOST OF THE TIME",
+    "3.0": "ABOUT HALF THE TIME",
+    "4.0": "USUALLY NOT",
+    "5.0": "PRACTICALLY NEVER",
+    "6.0": "UNCERTAIN"
+  },
+  "S150.Q38B": {
+    "0.0": "NO ANSWER",
+    "1.0": "WE ARE TOLD ABOUT AS OFTEN AS IT IS POSSIBLE",
+    "2.0": "FEEL IT WOULD BE POSSIBLE TO TELL US SOMEWHAT MORE OFTEN",
+    "3.0": "FEEL IT WOULD BE POSSIBLE TO TELL US A LOT MORE OFTEN",
+    "4.0": "NO OPINION"
+  },
+  "S150.Q39A": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, I FEEL I HAVE BEEN GIVEN ENOUGH INFORMATION ABOUT THIS",
+    "2.0": "NO, I WISH I HAD MORE INFORMATION ABOUT THIS",
+    "3.0": "NO ANSWER"
+  },
+  "S150.Q39B": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I THINK THE POLICY IS ABOUT AS GOOD AS IT CAN BE UNDER THE CIRCUMSTANCES",
+    "2.0": "I THINK THE POLICY OUGHT TO BE IMPROVED",
+    "3.0": "I DON'T KNOW WHAT THE POLICY OF ASSIGNMENT IS",
+    "4.0": "NO ANSWER"
+  },
+  "S150.Q39C": {
+    "0.0": "DON'T KNOW, UNDECIDED, NO ANSWER",
+    "1.0": "INSTRUCTOR - IN THE U.S.",
+    "2.0": "INSTRUCTOR - LOCALE UNSPECIFIED OR NOT IN U.S. (MAY BE PHRASED AS \"TRAINING NEW CREWS\" OR \"HELP IN THE TRAINING PROGRAM\"",
+    "3.0": "JOB IN U.S. - UNSPECIFIED AS TO WHAT",
+    "4.0": "ATC JOB (AIR TRANSPORT COMMAND)",
+    "5.0": "FERRY COMMAND JOB",
+    "6.0": "OTHER GROUND JOB (OTHER THAN INSTRUCTOR)",
+    "7.0": "A COMBAT FLYING JOB, IN ANOTHER THEATER (SOME MAY STATE IT AS \"CONTINUE WITH PRESENT ASSIGNMENT IN ANOTHER THEATER\" OR E",
+    "8.0": "A COMBAT FLYING JOB, DOESN'T SPECIFY ANOTHER THEATER (SOME MAY STATE \"MY PRESENT ASSIGNMENT\" OR \"SAME JOB I HAVE NOW\" OR",
+    "9.0": "GO TO SCHOOL (TO GET TRAINING FOR SOME OTHER AIR FORCE JOB)",
+    "10.0": "MISCELLANEOUS AND UNCLASSIFIABLE"
+  },
+  "S150.Q40": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I HAVE HAD AS MUCH SCHOOL OR COLLEGE AS I WANT",
+    "2.0": "I WOULD LIKE TO GO BACK TO FULL-TIME SCHOOL OR COLLEGE",
+    "3.0": "I WOULD LIKE TO GO BACK TO PART-TIME SCHOOL OR COLLEGE",
+    "4.0": "NO ANSWER"
+  },
+  "S150.Q41": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "LESS THAN 8TH GRADE",
+    "2.0": "FINISHED 8TH GRADE",
+    "3.0": "SOME HIGH SCHOOL BUT DID NOT FINISH",
+    "4.0": "GRADUATED FROM HIGH SCHOOL",
+    "5.0": "SOME COLLEGE BUT DID NOT FINISH",
+    "6.0": "GRADUATED FROM COLLEGE",
+    "7.0": "GRADUATE STUDY IN COLLEGE OR UNIVERSITY",
+    "8.0": "NO ANSWER"
+  },
+  "S150.Q42": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, I WOULD WANT TO VERY MUCH",
+    "2.0": "YES, I MIGHT WANT TO BUT I'M NOT SURE",
+    "3.0": "NO, I DON'T THINK I WOULD WANT TO",
+    "4.0": "NO, I WOULD NOT WANT TO AT ALL",
+    "9.0": "INAPPLICABLE, NO ANSWER"
+  },
+  "S150.Q43": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, I WOULD WANT TO VERY MUCH",
+    "2.0": "YES, I MIGHT WANT TO BUT I'M NOT SURE",
+    "3.0": "NO, I DON'T THINK I'D WANT TO",
+    "4.0": "NO, I WOULD NOT WANT TO AT ALL",
+    "9.0": "INAPPLICABLE, NO ANSWER"
+  },
+  "S150.Q44": {
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED",
+    "9.0": "INAPPLICABLE, NO ANSWER"
+  },
+  "S150.Q44A": {
+    "1.0": "LIEUTENANT COLONEL",
+    "2.0": "MAJOR",
+    "3.0": "CAPTAIN",
+    "4.0": "1ST LIEUTENANT",
+    "5.0": "2ND LIEUTENANT",
+    "6.0": "FLIGHT OFFICER",
+    "9.0": "INAPPLICABLE, NO ANSWER"
+  },
+  "S150.Q45": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I WOULD BE WILLING TO STAY AS A NONCOM PERMANENTLY",
+    "2.0": "I WOULD BE WILLING TO STAY AS A NONCOM IF I COULD LATER BE RECOMMISSIONED",
+    "3.0": "I WOULD NOT CONSIDER STAYING AS A NONCOM",
+    "4.0": "UNDECIDED",
+    "9.0": "INAPPLICABLE, NO ANSWER"
+  },
+  "S150.Q46": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, I WOULD STILL WANT TO STAY IN THE ARMY",
+    "2.0": "I MIGHT WANT TO STAY IN THE ARMY, BUT I'M NOT SURE",
+    "3.0": "NO, I WOULD TAKE THE CIVILIAN JOB",
+    "4.0": "UNDECIDED",
+    "9.0": "INAPPLICABLE, NO ANSWER"
+  },
+  "S150.Q47": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, I WOULD WANT TO VERY MUCH",
+    "2.0": "I MIGHT WANT TO, BUT I'M NOT SURE",
+    "3.0": "NO, I WOULDN'T WANT TO",
+    "4.0": "UNDECIDED",
+    "9.0": "INAPPLICABLE, NO ANSWER"
+  },
+  "S150.Q48": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "SHE WOULD LIKE TO HAVE ME STAY",
+    "2.0": "IT WOULDN'T MATTER MUCH TO HER",
+    "3.0": "SHE WOULD NOT LIKE TO HAVE ME STAY",
+    "4.0": "I DON'T KNOW HOW SHE WOULD FEEL",
+    "5.0": "I'M NOT MARRIED",
+    "9.0": "INAPPLICABLE, NO ANSWER"
+  },
+  "S150.Q49": {
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED",
+    "9.0": "INAPPLICABLE, NO ANSWER"
+  },
+  "S150.Q50": {
+    "1.0": "I WOULD WANT TO STAY IN THE AIR CORPS EVEN IF I COULD NOT RETAIN MY FLYING STATUS",
+    "2.0": "I WOULD STAY ONLY IF I COULD KEEP MY FLYING STATUS",
+    "3.0": "I WOULD WANT TO STAY IN THE AIR CORPS, BUT NOT AS A FLYING OFFICER",
+    "4.0": "NO, I WOULDN'T WANT TO STAY IN THE AIR CORPS",
+    "9.0": "INAPPLICABLE, NO ANSWER"
+  },
+  "S150.Q51": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I WOULD WANT TO STAY EVEN IF FLYING PAY WERE CUT OUT",
+    "2.0": "I WOULD WANT TO STAY ONLY IF I COULD CONTINUE TO DRAW FLYING PAY",
+    "3.0": "I PROBABLY WOULD NOT WANT TO STAY REGARDLESS OF WHETHER OR NOT I COULD DRAW FLYING PAY",
+    "9.0": "INAPPLICABLE, NO ANSWER"
+  },
+  "S150.Q52": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "NO, I WOULDN'T CONSIDER SIGNING UP",
+    "2.0": "I MIGHT, BUT I'M NOT SURE",
+    "3.0": "YES, I WOULD PROBABLY SIGN UP",
+    "9.0": "INAPPLICABLE, NO ANSWER"
+  },
+  "S150.Q53": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED",
+    "9.0": "INAPPLICABLE, NO ANSWER"
+  },
+  "S150.Q54": {
+    "1.0": "I WOULD PROBABLY APPLY EVEN IF I COULD NOT GET A LEAVE IN THE UNITED STATES BEFORE REPORTING ON MY NEW ASSIGNMENT",
+    "2.0": "I WOULD APPLY ONLY IF I WAS SURE OF HAVING A LEAVE IN THE UNITED STATES AFTER THE WAR IS OVER",
+    "3.0": "I WOULD NOT APPLY FOR AN APPOINTMENT",
+    "9.0": "INAPPLICABLE, NO ANSWER"
+  },
+  "S150.Q55": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, I THINK I WILL WANT TO",
+    "2.0": "YES, I MIGHT WANT TO, BUT I'M NOT SURE",
+    "3.0": "NO, I DON'T THINK I'D WANT TO",
+    "4.0": "NO, I WOULD NOT WANT TO AT ALL",
+    "9.0": "INAPPLICABLE, NO ANSWER"
+  },
+  "S150.Q56": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, I WOULD WANT TO VERY MUCH",
+    "2.0": "YES, I MIGHT WANT TO BUT I'M NOT SURE",
+    "3.0": "NO, I DON'T THINK I WOULD WANT TO",
+    "4.0": "NO, I WOULD NOT WANT TO AT ALL",
+    "9.0": "INAPPLICABLE, NO ANSWER"
+  },
+  "S150.Q57": {
+    "0.0": "NO CODE OR NO DATA",
+    "NaN": "NA",
+    "1.0": "I WILL PROBABLY STAY IN THE ARMY AFTER THE WAR",
+    "2.0": "UNDER CERTAIN CONDITIONS I MIGHT CONSIDER STAYING IN THE ARMY",
+    "3.0": "I WOULDN'T CONSIDER IT UNDER ANY CONDITIONS",
+    "9.0": "INAPPLICABLE, NO ANSWER"
+  },
+  "S150.Q58": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, I THINK I WILL WANT TO",
+    "2.0": "YES, I MIGHT WANT TO BUT I'M NOT SURE",
+    "3.0": "NO, I DON'T THINK I'D WANT TO",
+    "9.0": "INAPPLICABLE, NO ANSWER"
+  },
+  "S150.Q59": {
+    "1.0": "I WOULD WANT TO STAY, WHETHER I COULD CHOOSE MY JOB OR NOT",
+    "2.0": "I MIGHT WANT TO STAY IF I COULD CHANGE MY ARMY JOB",
+    "3.0": "I WOULDN'T WANT TO STAY, NO MATTER WHAT ARMY JOB WAS OFFERED ME",
+    "9.0": "INAPPLICABLE, NO ANSWER"
+  },
+  "S150.Q60": {
+    "1.0": "I WOULD WANT TO STAY IN THE ARMY",
+    "2.0": "I WOULD WANT TO GET OUT TO LOOK FOR A JOB, BUT I MIGHT WANT TO COME BACK TO THE ARMY",
+    "3.0": "I WOULD RATHER TAKE ANY KIND OF JOB OUTSIDE THAN STAY IN THE ARMY",
+    "4.0": "I'M SURE I WILL HAVE A JOB WAITING OUTSIDE THE ARMY",
+    "9.0": "INAPPLICABLE, NO ANSWER"
+  },
+  "S150.Q61": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I WOULD WANT TO STAY IN THE ARMY REGARDLESS OF WHETHER I COULD BE AN AIR-CREW MEMBER",
+    "2.0": "I WOULD WANT TO STAY IN THE ARMY ONLY IF I COULD REMAIN AS AIR-CREW",
+    "3.0": "I PROBABLY WOULD NOT WANT TO STAY IN THE ARMY REGARDLESS OF WHETHER OR NOT I COULD BE AN AIR-CREW MEMBER",
+    "9.0": "INAPPLICABLE, NO ANSWER"
+  },
+  "S150.Q62": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "I WOULD WANT TO STAY EVEN IF FLYING PAY WERE CUT OUT",
+    "2.0": "I WOULD WANT TO STAY ONLY IF I COULD CONTINUE TO DRAW FLYING PAY",
+    "3.0": "I PROBABLY WOULD NOT WANT TO STAY REGARDLESS OF WHETHER OR NOT I COULD DRAW FLYING PAY",
+    "9.0": "INAPPLICABLE, NO ANSWER"
+  },
+  "S150.Q63": {
+    "0.0": "NO CODE OR NO DATA",
+    "NaN": "QUESTION 64 NOT CODED.",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED",
+    "9.0": "INAPPLICABLE, NO ANSWER"
+  },
+  "S150.V65": {
+    "1.0": "LIGHT BOMBER GROUPS - OFFICERS",
+    "2.0": "LIGHT BOMBER GROUPS - ENLISTED MEN",
+    "3.0": "MEDIUM BOMBER GROUPS - OFFICERS",
+    "4.0": "MEDIUM BOMBER GROUPS - ENLISTED MEN"
+  }
+}

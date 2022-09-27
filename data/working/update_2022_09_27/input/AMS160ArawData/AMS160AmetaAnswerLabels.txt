@@ -1,0 +1,333 @@
+{
+  "FORM": {
+    "1.0": "S-160A",
+    "2.0": "S-160B"
+  },
+  "S160A.Q1": {
+    "0.0": "NO ANSWER",
+    "1.0": "PRIVATE",
+    "2.0": "PRIVATE FIRST CLASS",
+    "3.0": "CORPORAL OR TECH",
+    "4.0": "SERGEANT OR TECH",
+    "5.0": "STAFF SERGEANT OR TECH",
+    "6.0": "TECHNICAL SERGEANT, MASTER SERGEANT, OR FIRST SERGEANT"
+  },
+  "S160A.Q2": {
+    "0.0": "NO ANSWER",
+    "1.0": "ENGINEERS",
+    "2.0": "FIELD ARTILLERY",
+    "3.0": "QUARTERMASTER CORPS",
+    "4.0": "INFANTRY",
+    "5.0": "MEDICAL CORPS",
+    "6.0": "ARMORED COMMAND",
+    "7.0": "SIGNAL CORPS",
+    "8.0": "COAST ARTILLERY AND ANTI-AIRCRAFT",
+    "9.0": "AIR CORPS",
+    "10.0": "TRANSPORTATION CORPS",
+    "11.0": "ORDNANCE DEPARTMENT",
+    "12.0": "CHEMICAL WARFARE SERVICE",
+    "13.0": "MILITARY POLICE",
+    "14.0": "OTHER"
+  },
+  "S160A.Q3": {
+    "0.0": "NO ANSWER",
+    "1.0": "LINE JOB IN INFANTRY CO.",
+    "2.0": "NON-LINE JOB IN INFANTRY CO.",
+    "3.0": "INFANTRY JOB - NOT IN LINE CO.",
+    "4.0": "ARMORED COMMAND LINE JOB",
+    "5.0": "TANK DESTROYERS JOB",
+    "6.0": "FIELD ARTILLERY JOB",
+    "7.0": "SOS JOB",
+    "8.0": "UNCLASSIFIED"
+  },
+  "S160A.Q4": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN 3 MONTHS",
+    "2.0": "3 MONTHS TO 6 MONTHS",
+    "3.0": "6 MONTHS TO 1 YEAR",
+    "4.0": "1 YEAR TO 2 YEARS",
+    "5.0": "OVER 2 YEARS"
+  },
+  "S160A.Q5A": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONE MONTH",
+    "2.0": "TWO MONTHS",
+    "3.0": "THREE MONTHS",
+    "4.0": "FOUR MONTHS",
+    "5.0": "FIVE MONTHS",
+    "6.0": "SIX MONTHS",
+    "7.0": "SEVEN TO EIGHT MONTHS",
+    "8.0": "NINE TO TEN MONTHS",
+    "9.0": "ELEVEN TO TWELVE MONTHS",
+    "10.0": "THIRTEEN TO EIGHTEEN MONTHS",
+    "11.0": "OVER EIGHTEEN MONTHS"
+  },
+  "S160A.Q5B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY GOOD",
+    "2.0": "GOOD",
+    "3.0": "FAIR",
+    "4.0": "POOR",
+    "5.0": "VERY POOR",
+    "6.0": "DO NOT HAVE A FIELD JACKET"
+  },
+  "S160A.Q5C": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONE MONTH",
+    "2.0": "TWO MONTHS",
+    "3.0": "THREE MONTHS",
+    "4.0": "FOUR MONTHS",
+    "5.0": "FIVE OR SIX MONTHS",
+    "6.0": "SEVEN OR EIGHT MONTHS",
+    "7.0": "NINE OR TEN MONTHS",
+    "8.0": "11 MONTHS OR MORE",
+    "9.0": "DON'T KNOW",
+    "10.0": "INDEFINITE PERIOD INDICATING A \"SHORT TIME\"",
+    "11.0": "INDEFINITE PERIOD INDICATING A \"LONG TIME\""
+  },
+  "S160A.Q6A": {
+    "1.0": "FIELD JACKET",
+    "2.0": "\"NEW\" FIELD JACKET (LONG TYPE)",
+    "4.0": "SOME OTHER KIND OF FIELD JACKET OR COAT",
+    "NaN": "QUESTION 6B NOT CODED.",
+    "0.0": "NO ANSWER",
+    "3.0": "COMBAT JACKET"
+  },
+  "S160A.Q7": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO, AND NO COLOR MENTIONED",
+    "3.0": "NO, AND SOME COLOR MENTIONED"
+  },
+  "S160A.Q8": {
+    "0.0": "NO ANSWER",
+    "1.0": "NO",
+    "2.0": "YES, AND NOTHING DESCRIBED",
+    "3.0": "YES, AND SOMETHING DESCRIBED"
+  },
+  "S160A.Q9A1": {
+    "1.0": "ITEM CHECKED",
+    "2.0": "ITEM NOT CHECKED"
+  },
+  "S160A.Q9A2": {
+    "1.0": "ITEM CHECKED",
+    "2.0": "ITEM NOT CHECKED"
+  },
+  "S160A.Q9A3": {
+    "1.0": "ITEM CHECKED",
+    "2.0": "ITEM NOT CHECKED"
+  },
+  "S160A.Q9A4": {
+    "1.0": "ITEM CHECKED",
+    "2.0": "ITEM NOT CHECKED"
+  },
+  "S160A.Q9A5": {
+    "1.0": "ITEM CHECKED",
+    "2.0": "ITEM NOT CHECKED"
+  },
+  "S160A.Q9A6": {
+    "1.0": "ITEM CHECKED",
+    "2.0": "ITEM NOT CHECKED"
+  },
+  "S160A.Q9A7": {
+    "1.0": "ITEM CHECKED",
+    "2.0": "ITEM NOT CHECKED"
+  },
+  "S160A.Q9A8": {
+    "1.0": "ITEM CHECKED",
+    "2.0": "ITEM NOT CHECKED"
+  },
+  "S160A.Q9B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NO, THIS WAS ENOUGH",
+    "2.0": "YES, NOTHING SPECIFIED",
+    "3.0": "YES, SOMETHING SPECIFIED"
+  },
+  "S160A.Q10A": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONE MONTH",
+    "2.0": "TWO MONTHS",
+    "3.0": "THREE MONTHS",
+    "4.0": "FOUR MONTHS",
+    "5.0": "FIVE MONTHS",
+    "6.0": "SIX MONTHS",
+    "7.0": "SEVEN TO TWELVE MONTHS",
+    "8.0": "THIRTEEN MONTHS AND OVER",
+    "9.0": "DON'T KNOW",
+    "10.0": "INDEFINITE PERIOD INDICATING \"SHORT TIME\"",
+    "11.0": "INDEFINITE PERIOD INDICATING \"LONG TIME\""
+  },
+  "S160A.Q10B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY GOOD",
+    "2.0": "GOOD",
+    "3.0": "FAIR",
+    "4.0": "POOR",
+    "5.0": "VERY POOR",
+    "6.0": "DO NOT HAVE A RAINCOAT"
+  },
+  "S160A.Q10C": {
+    "0.0": "NO ANSWER",
+    "NaN": "QUESTIONS 11A, 11B AND 11C NOT CODED.",
+    "1.0": "ONE MONTH",
+    "2.0": "TWO MONTHS",
+    "3.0": "THREE MONTHS",
+    "4.0": "FOUR MONTHS",
+    "5.0": "FIVE MONTHS",
+    "6.0": "SIX MONTHS",
+    "7.0": "SEVEN TO TWELVE MONTHS",
+    "8.0": "THIRTEEN MONTHS AND OVER",
+    "9.0": "DON'T KNOW",
+    "10.0": "INDEFINITE PERIOD INDICATING \"SHORT TIME\"",
+    "11.0": "INDEFINITE PERIOD INDICATING \"LONG TIME\""
+  },
+  "S160A.Q12A": {
+    "0.0": "NO ANSWER",
+    "1.0": "NO",
+    "2.0": "YES, NOTHING DESCRIBED",
+    "3.0": "YES, SOMETHING DESCRIBED"
+  },
+  "S160A.Q13": {
+    "0.0": "NO ANSWER",
+    "1.0": "WOULD RATHER WEAR THE MACKINAW",
+    "2.0": "WOULD RATHER WEAR THE OVERCOAT"
+  },
+  "S160A.Q14A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, ALMOST ALWAYS",
+    "2.0": "YES, USUALLY",
+    "3.0": "NO, OFTEN NOT WARM ENOUGH"
+  },
+  "S160A.Q14B": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT IS TOO LONG",
+    "NaN": "QUESTION 15 NOT CODED.",
+    "2.0": "IT IS TOO LONG, QUALIFIED BY COMMENT",
+    "3.0": "IT IS JUST ABOUT THE RIGHT LENGTH",
+    "4.0": "IT IS JUST ABOUT THE RIGHT LENGTH, QUALIFIED BY COMMENT",
+    "5.0": "IT IS TOO SHORT",
+    "6.0": "IT IS TOO SHORT, QUALIFIED BY COMMENT"
+  },
+  "S160A.Q16": {
+    "0.0": "NO ANSWER",
+    "1.0": "GI OVERCOAT",
+    "2.0": "GI OVERCOAT, QUALIFIED BY COMMENT",
+    "3.0": "MACKINAW",
+    "4.0": "MACKINAW, QUALIFIED BY COMMENT",
+    "5.0": "TRENCHCOAT WITH DETACHABLE LINER",
+    "6.0": "TRENCHCOAT WITH DETACHABLE LINER, QUALIFIED BY COMMENT"
+  },
+  "S160A.Q17A": {
+    "0.0": "NO ANSWER",
+    "1.0": "WEARING BOTH TOP AND BOTTOM PARTS",
+    "2.0": "WEARING TOP PART ONLY",
+    "3.0": "WEARING BOTTOM PART ONLY",
+    "4.0": "AM NOT WEARING EITHER PART"
+  },
+  "S160A.Q17B": {
+    "0.0": "NO ANSWER",
+    "1.0": "BECAUSE I DON'T WANT IT",
+    "2.0": "BECAUSE I CAN'T GET IT"
+  },
+  "S160A.Q18A": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONE",
+    "2.0": "TWO",
+    "3.0": "THREE",
+    "4.0": "FOUR"
+  },
+  "S160A.Q18B": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S160A.Q19": {
+    "0.0": "NO ANSWER",
+    "1.0": "FOLDED INTO DUFFLE BAG OR SIMILAR CONTAINER",
+    "2.0": "WRAPPED IN SHELTER HALF AND ROLLED",
+    "3.0": "IN A PACK",
+    "4.0": "FOLDED OVER CANTEEN BELT",
+    "5.0": "SOME OTHER WAY, BUT NOTHING WRITTEN IN",
+    "6.0": "SOME OTHER WAY, AND SOMETHING WRITTEN IN",
+    "7.0": "CHECKED 2 AND 3",
+    "NaN": "QUESTION 20 NOT CODED.",
+    "8.0": "CHECKED 1 AND 3",
+    "9.0": "ALL OTHER COMBINATIONS"
+  },
+  "S160A.Q21A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S160A.Q23": {
+    "1.0": "NO",
+    "2.0": "YES, MUSETTE BAG",
+    "3.0": "YES, SOMETHING ELSE SPECIFIED",
+    "4.0": "YES, NOTHING ELSE SPECIFIED",
+    "9.0": "INAPPLICABLE, NO ANSWER"
+  },
+  "S160A.Q24A": {
+    "1.0": "NO",
+    "2.0": "YES, NOTHING SPECIFIED",
+    "NaN": "QUESTION 24C NOT CODED.",
+    "3.0": "YES, SOMETHING SPECIFIED",
+    "9.0": "INAPPLICABLE, NO ANSWER"
+  },
+  "S160A.Q25A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S160A.Q27": {
+    "1.0": "NO",
+    "2.0": "YES, NOTHING SPECIFIED",
+    "3.0": "YES, SOMETHING SPECIFIED",
+    "9.0": "INAPPLICABLE, NO ANSWER"
+  },
+  "S160A.Q28A": {
+    "1.0": "NO",
+    "2.0": "YES, NOTHING SPECIFIED",
+    "NaN": "Q.28C NOT CODED.",
+    "3.0": "YES, SOMETHING SPECIFIED",
+    "9.0": "INAPPLICABLE, NO ANSWER"
+  },
+  "S160A.Q29": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, HAVE ENOUGH POCKETS",
+    "2.0": "NO, NEED MORE POCKETS"
+  },
+  "S160A.Q30": {
+    "0.0": "NO ANSWER",
+    "1.0": "I THINK THERE ARE ENOUGH POCKETS NOW",
+    "2.0": "ONE LARGE OUTSIDE CARGO POCKET ON THE LEFT SIDE OF THE PANTS",
+    "3.0": "ONE LARGE OUTSIDE CARGO POCKET ON THE RIGHT SIDE OF THE PANTS",
+    "4.0": "TWO OUTSIDE CARGO POCKETS, ONE ON EACH SIDE OF THE PANTS",
+    "5.0": "AN EXTRA POCKET ON THE FIELD JACKET, PLACE SPECIFIED",
+    "6.0": "AN EXTRA POCKET ON THE FIELD JACKET, PLACE NOT SPECIFIED",
+    "7.0": "SOME OTHER IDEA"
+  },
+  "S160A.Q31": {
+    "0.0": "NO COMMENT",
+    "1.0": "SOME COMMENT"
+  },
+  "S160A.Q32": {
+    "0.0": "NO ANSWER",
+    "1.0": "USUALLY CARRY IT ON ME",
+    "2.0": "USUALLY LEAVE IT IN A CONVENIENT VEHICLE",
+    "3.0": "HAVE IT IN STORAGE WITH THE SERVICE COMPANY",
+    "4.0": "SOMEWHERE ELSE, PLACE SPECIFIED",
+    "5.0": "SOMEWHERE ELSE, PLACE NOT SPECIFIED",
+    "6.0": "I DO NOT HAVE A GAS MASK"
+  },
+  "S160A.Q33A": {
+    "0.0": "NO ANSWER",
+    "1.0": "NO",
+    "2.0": "YES"
+  },
+  "S160A.Q33B": {
+    "0.0": "NO ANSWER",
+    "NaN": "Q.33C NOT CODED.",
+    "1.0": "NO",
+    "2.0": "YES"
+  }
+}

@@ -1,0 +1,1246 @@
+S141.Q1 WHAT IS YOUR ARMY RANK OR GRADE?
+                       answer_label answer_value raw_counts relative_frequency
+0                         NO ANSWER          0.0          3                0.0
+1                           PRIVATE          1.0        446               0.18
+2               PRIVATE FIRST CLASS          2.0        487                0.2
+3              TECHNICIAN 5TH GRADE          3.0         51               0.02
+4                          CORPORAL          4.0        498                0.2
+5              TECHNICIAN 4TH GRADE          5.0         19               0.01
+6                     BUCK SERGEANT          6.0        468               0.19
+7              TECHNICIAN 3RD GRADE          7.0          5                0.0
+8                    STAFF SERGEANT          8.0        309               0.13
+9                TECHNICAL SERGEANT          9.0        112               0.05
+10  MASTER SERGEANT OR 1ST SERGEANT         10.0         43               0.02
+
+
+
+S141.Q2 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0         61               0.02
+1   18 YEARS OR YOUNGER          1.0          2                0.0
+2              19 YEARS          2.0         60               0.02
+3              20 YEARS          3.0        199               0.08
+4              21 YEARS          4.0        192               0.08
+5              22 YEARS          5.0        256                0.1
+6              23 YEARS          6.0        282               0.12
+7              24 YEARS          7.0        226               0.09
+8              25 YEARS          8.0        145               0.06
+9      26 THRU 29 YEARS          9.0        458               0.19
+10     30 THRU 34 YEARS         10.0        349               0.14
+11   35 YEARS AND OLDER         11.0        211               0.09
+
+
+
+S141.Q3 ARE YOU:
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0          6                0.0
+1                 SINGLE          1.0       1492               0.61
+2                MARRIED          2.0        878               0.36
+3  DIVORCED OR SEPARATED          3.0         60               0.02
+4                WIDOWED          4.0          5                0.0
+
+
+
+S141.Q4 HOW FAR DID YOU GO IN SCHOOL?
+                          answer_label answer_value raw_counts relative_frequency
+0                  LESS THAN 6TH GRADE          1.0         73               0.03
+1                   FINISHED 6TH GRADE          2.0         66               0.03
+2                   FINISHED 7TH GRADE          3.0        128               0.05
+3                   FINISHED 8TH GRADE          4.0        287               0.12
+4  SOME HIGH SCHOOL BUT DID NOT FINISH          5.0        626               0.26
+5           GRADUATED FROM HIGH SCHOOL          6.0        827               0.34
+6      SOME COLLEGE BUT DID NOT FINISH          7.0        321               0.13
+7               GRADUATED FROM COLLEGE          8.0        110               0.05
+8                            NO ANSWER          9.0          3                0.0
+
+
+
+S141.Q5 HOW LONG HAVE YOU BEEN IN THE ARMY?
+                   answer_label answer_value raw_counts relative_frequency
+0              3 MONTHS OR LESS          1.0          1                0.0
+1  OVER 3 MONTHS UP TO 6 MONTHS          2.0          6                0.0
+2  OVER 6 MONTHS UP TO 9 MONTHS          3.0          6                0.0
+3    OVER 9 MONTHS UP TO 1 YEAR          4.0         23               0.01
+4     OVER 1 YEAR UP TO 2 YEARS          5.0       1240               0.51
+5    OVER 2 YEARS UP TO 3 YEARS          6.0        963               0.39
+6    OVER 3 YEARS UP TO 4 YEARS          7.0        119               0.05
+7                  OVER 4 YEARS          8.0         81               0.03
+8                     NO ANSWER          9.0          2                0.0
+
+
+
+S141.Q6 WHERE WERE YOU LIVING JUST BEFORE YOU CAME INTO THE ARMY?
+                                           answer_label answer_value raw_counts relative_frequency
+0                                             ON A FARM          1.0        339               0.14
+1                      IN THE COUNTRY BUT NOT ON A FARM          2.0        132               0.05
+2             IN A VILLAGE WITH FEWER THAN 2,500 PEOPLE          3.0        175               0.07
+3  IN A SMALL CITY WITH BETWEEN 2,500 AND 25,000 PEOPLE          4.0        526               0.22
+4      IN A CITY WITH BETWEEN 25,000 AND 100,000 PEOPLE          5.0        443               0.18
+5         IN A LARGE CITY WITH MORE THAN 100,000 PEOPLE          6.0        818               0.34
+6                                             NO ANSWER          7.0          8                0.0
+
+
+
+S141.Q7.1 IN WHAT STATE OF THE UNITED STATES DID YOU SPEND MOST OF THE LAST FIVE YEARS OF YOUR CIVILIAN LIFE BEFORE YOU CAME INTO THE ARMY? E. SECTION:
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0          8                0.0
+1                  NEW ENGLAND          1.0        232                0.1
+2              MIDDLE ATLANTIC          2.0        699               0.29
+3           EAST NORTH CENTRAL          3.0        492                0.2
+4           WEST NORTH CENTRAL          4.0        194               0.08
+5               SOUTH ATLANTIC          5.0        284               0.12
+6           EAST SOUTH CENTRAL          6.0        127               0.05
+7           WEST SOUTH CENTRAL          7.0        238                0.1
+8                     MOUNTAIN          8.0         49               0.02
+9                      PACIFIC          9.0        115               0.05
+10  U.S. - STATE NOT SPECIFIED         12.0          3                0.0
+
+
+
+S141.Q7.2IN WHAT STATE OF THE UNITED STATES DID YOU SPEND MOST OF THE LAST FIVE YEARS OF YOUR CIVILIAN LIFE BEFORE YOU CAME INTO THE ARMY? E. STATE:
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0         12                0.0
+1                  MAINE         11.0         28               0.01
+2          NEW HAMPSHIRE         12.0         19               0.01
+3                VERMONT         13.0         11                0.0
+4          MASSACHUSETTS         14.0        108               0.04
+5        RHODE ISLAND 46         15.0         20               0.01
+6            CONNECTICUT         16.0         46               0.02
+7               NEW YORK         21.0        330               0.14
+8             NEW JERSEY         22.0        116               0.05
+9           PENNSYLVANIA         23.0        253                0.1
+10                  OHIO         31.0        149               0.06
+11               INDIANA         32.0         75               0.03
+12              ILLINOIS         33.0        124               0.05
+13              MICHIGAN         34.0         86               0.04
+14          WISCONSIN 32         35.0         58               0.02
+15             MINNESOTA         41.0         32               0.01
+16                  IOWA         42.0         44               0.02
+17              MISSOURI         43.0         56               0.02
+18          NORTH DAKOTA         44.0         11                0.0
+19          SOUTH DAKOTA         45.0          7                0.0
+20              NEBRASKA         46.0         15               0.01
+21                KANSAS         47.0         29               0.01
+22              DELAWARE         51.0          4                0.0
+23            MARYLAND 9         52.0         28               0.01
+24  DISTRICT OF COLUMBIA         53.0          9                0.0
+25              VIRGINIA         54.0         54               0.02
+26         WEST VIRGINIA         55.0         42               0.02
+27        NORTH CAROLINA         56.0         57               0.02
+28        SOUTH CAROLINA         57.0         23               0.01
+29               GEORGIA         58.0         49               0.02
+30               FLORIDA         59.0         18               0.01
+31              KENTUCKY         61.0         31               0.01
+32             TENNESSEE         62.0         52               0.02
+33               ALABAMA         63.0         29               0.01
+34           MISSISSIPPI         64.0         14               0.01
+35              ARKANSAS         71.0         32               0.01
+36             LOUISIANA         72.0         31               0.01
+37              OKLAHOMA         73.0         36               0.01
+38                 TEXAS         74.0        139               0.06
+39               MONTANA         81.0         11                0.0
+40                 IDAHO         82.0          3                0.0
+41               WYOMING         83.0          3                0.0
+42              COLORADO         84.0         13               0.01
+43            NEW MEXICO         85.0          7                0.0
+44               ARIZONA         86.0          4                0.0
+45                  UTAH         87.0          8                0.0
+46            WASHINGTON         91.0         20               0.01
+47                OREGON         92.0         21               0.01
+48            CALIFORNIA         93.0         74               0.03
+
+
+
+S141.Q8A WERE YOU LIVING IN THE STATE YOU NAMED ABOVE JUST BEFORE YOU CAME INTO THE ARMY?
+  answer_label answer_value raw_counts relative_frequency
+0          YES          1.0       2274               0.93
+1           NO          2.0        153               0.06
+2    NO ANSWER          3.0         14               0.01
+
+
+
+S141.Q8B IF NOT, WHAT STATE WERE YOU LIVING IN JUST BEFORE YOU CAME INTO THE ARMY? E. SECTION:
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         23               0.01
+1                  NEW ENGLAND          1.0        233                0.1
+2              MIDDLE ATLANTIC          2.0        682               0.28
+3           EAST NORTH CENTRAL          3.0        485                0.2
+4           WEST NORTH CENTRAL          4.0        180               0.07
+5               SOUTH ATLANTIC          5.0        298               0.12
+6           EAST SOUTH CENTRAL          6.0        131               0.05
+7           WEST SOUTH CENTRAL          7.0        229               0.09
+8                     MOUNTAIN          8.0         50               0.02
+9                      PACIFIC          9.0        128               0.05
+10          FOREIGN - NOT U.S.         11.0          1                0.0
+11  U.S. - STATE NOT SPECIFIED         12.0          1                0.0
+
+
+
+S141.Q9.1 WHAT STATE IN THE UNITED STATES DO YOU THINK YOU WILL LIVE IN RIGHT AFTER YOU GET OUT OF THE ARMY? E. STATE:
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0        233                0.1
+1                  NEW ENGLAND          1.0        216               0.09
+2              MIDDLE ATLANTIC          2.0        624               0.26
+3           EAST NORTH CENTRAL          3.0        442               0.18
+4           WEST NORTH CENTRAL          4.0        164               0.07
+5               SOUTH ATLANTIC          5.0        263               0.11
+6           EAST SOUTH CENTRAL          6.0        112               0.05
+7           WEST SOUTH CENTRAL          7.0        194               0.08
+8                     MOUNTAIN          8.0         49               0.02
+9                      PACIFIC          9.0        143               0.06
+10  U.S. - STATE NOT SPECIFIED         12.0          1                0.0
+
+
+
+S141.Q9.2WHAT STATE IN THE UNITED STATES DO YOU THINK YOU WILL LIVE IN RIGHT AFTER YOU GET OUT OF THE ARMY? E. STATE:
+            answer_label answer_value raw_counts relative_frequency
+0     NO CODE OR NO DATA          0.0          2                0.0
+1   SAME STATE AS IN Q.7          1.0       2021               0.83
+2  SAME STATE AS IN Q.8B          2.0         47               0.02
+3       SOME OTHER STATE          3.0        130               0.05
+4              UNDECIDED          4.0        219               0.09
+5              NO ANSWER          5.0         22               0.01
+
+
+
+S141.Q10 ABOUT HOW MUCH LONGER DO YOU THINK THE WAR WILL LAST WITH GERMANY?
+                                        answer_label answer_value raw_counts relative_frequency
+0                   DON'T KNOW, UNDECIDED, NO ANSWER          0.0         55               0.02
+1                                            1 MONTH          1.0         93               0.04
+2                                           2 MONTHS          2.0        373               0.15
+3                                           3 MONTHS          3.0        587               0.24
+4                                           4 MONTHS          4.0        402               0.16
+5                                           5 MONTHS          5.0        163               0.07
+6                                           6 MONTHS          6.0        475               0.19
+7         OVER 6 MONTHS UP TO AND INCLUDING 9 MONTHS          7.0        148               0.06
+8        OVER 9 MONTHS UP TO AND INCLUDING 11 MONTHS          8.0         29               0.01
+9                                             1 YEAR          9.0         89               0.04
+10  OVER 1 YEAR UP TO AND INCLUDING 1 YEAR 11 MONTHS         10.0         20               0.01
+11                                           2 YEARS         11.0          4                0.0
+12                                      OVER 2 YEARS         12.0          3                0.0
+
+
+
+S141.Q11 ABOUT HOW MUCH LONGER DO YOU THINK THE WAR WILL LAST WITH JAPAN?
+                                        answer_label answer_value raw_counts relative_frequency
+0                   DON'T KNOW, UNDECIDED, NO ANSWER          0.0         70               0.03
+1                                            1 MONTH          1.0          1                0.0
+2                                           2 MONTHS          2.0         12                0.0
+3                                           3 MONTHS          3.0         23               0.01
+4                                           4 MONTHS          4.0         42               0.02
+5                                           5 MONTHS          5.0         35               0.01
+6                                           6 MONTHS          6.0        242                0.1
+7         OVER 6 MONTHS UP TO AND INCLUDING 9 MONTHS          7.0        377               0.15
+8        OVER 9 MONTHS UP TO AND INCLUDING 11 MONTHS          8.0        146               0.06
+9                                             1 YEAR          9.0        828               0.34
+10  OVER 1 YEAR UP TO AND INCLUDING 1 YEAR 11 MONTHS         10.0        486                0.2
+11                                           2 YEARS         11.0        152               0.06
+12                                      OVER 2 YEARS         12.0         27               0.01
+
+
+
+S141.Q12 ABOUT HOW MUCH LONGER DO YOU THINK IT WILL BE BEFORE YOU CAN GET OUT OF THE ARMY?
+                               answer_label answer_value raw_counts relative_frequency
+0                        NO CODE OR NO DATA          0.0          1                0.0
+1                          6 MONTHS OR LESS          1.0        173               0.07
+2   MORE THAN 6 MONTHS BUT LESS THAN 1 YEAR          2.0        163               0.07
+3                                    1 YEAR          3.0        504               0.21
+4   MORE THAN 1 YEAR, BUT LESS THAN 2 YEARS          4.0        733                0.3
+5                                   2 YEARS          5.0        497                0.2
+6   MORE THAN 2 YEARS BUT LESS THAN 3 YEARS          6.0        114               0.05
+7                                   3 YEARS          7.0         90               0.04
+8                         MORE THAN 3 YEARS          8.0         30               0.01
+9         DON'T KNOW, UNDECIDED, INDEFINITE          9.0         95               0.04
+10                          NOT GETTING OUT         10.0          5                0.0
+11                                NO ANSWER         11.0         36               0.01
+
+
+
+S141.Q13.x WHAT KIND OF BUSINESS OR INDUSTRY DID YOU WORK IN JUST BEFORE YOU CAME INTO THE ARMY?  Q.14. WHAT WAS YOUR JOB IN THIS BUSINESS OR INDUSTRY? JUST WHAT DID YOU DO?
+                                                                                      answer_label answer_value raw_counts relative_frequency
+0                                                                                        NO ANSWER          0.0         16               0.01
+1                PROFESSIONAL (DOCTORS, DENTISTS, LAWYERS, ACCOUNTANTS, ENGINEERS, TEACHERS, ETC.)          1.0         53               0.02
+2   SEMI-PROFESSIONALS (AVIATORS, COMMERCIAL ARTISTS DRAFTSMEN, PHOTOGRAPHERS, ENTERTAINERS, ETC.)          2.0         54               0.02
+3                           SERVICE OCCUPATIONS (COOKS, WAITERS, BARBERS, GUARDS, POLICEMEN, ETC.)          3.0         80               0.03
+4                                                                                      AGRICULTURE          4.0        234                0.1
+5                           SKILLED OCCUPATIONS (TOOLMAKERS, CARPENTERS, PLUMBERS, PAINTERS, ETC.)          5.0        600               0.25
+6                        SEMI-SKILLED OCCUPATIONS (MOST FACTORY, MACHINE OPERATORS, TRUCK DRIVERS)          6.0        560               0.23
+7           UNSKILLED OCCUPATIONS (LABORERS, INCLUDING FACTORY WORKERS WHOSE JOB IS NOT SPECIFIED)          7.0        166               0.07
+8                                   MANAGERS AND OFFICIALS (HIGHER TYPE WITH SUPERVISORY CAPACITY)          8.0         61               0.02
+9                                           MERCHANTS, SHOPKEEPERS, TRADESMEN, ETC. (OWN BUSINESS)          9.0         44               0.02
+10                                                                                        CLERICAL         10.0        265               0.11
+11                                        SALES PERSONS (INCLUDING MANAGERS OF SMALL CHAIN STORES)         11.0        192               0.08
+12                                                MISCELLANEOUS UNCLASSIFIABLE (INCLUDES STUDENTS)         12.0        116               0.05
+
+
+
+S141.Q19 HAVE YOU EVER DONE ANY KIND OF WORK BEFORE LIKE WHAT YOU PLAN TO DO AFTER THE WAR?
+                                             answer_label answer_value raw_counts relative_frequency
+0                                               NO ANSWER          0.0         63               0.03
+1  YES, I DID THAT KIND OF WORK BEFORE I ENTERED THE ARMY          1.0       1652               0.68
+2       YES, I HAVE LEARNED THAT KIND OF WORK IN THE ARMY          2.0        401               0.16
+3             NO, I HAVE NEVER DONE THAT KIND OF WORK YET          3.0        325               0.13
+
+
+
+S141.Q20 HOW SURE DO YOU FEEL THAT AFTER THE WAR YOU WILL DO THE KIND OF WORK YOU DESCRIBED IN THE LAST QUESTION?
+                                   answer_label answer_value raw_counts relative_frequency
+0                                     NO ANSWER          0.0         36               0.01
+1                        I'M ALMOST SURE I WILL          1.0       1267               0.52
+2  I PROBABLY WILL, BUT I MAY DO SOMETHING ELSE          2.0        770               0.32
+3     I'M REALLY NOT AT ALL SURE WHAT I WILL DO          3.0        368               0.15
+
+
+
+S141.Q21 DO YOU EXPECT TO WORK FOR YOURSELF OR FOR SOMEONE ELSE RIGHT AFTER YOU LEAVE THE ARMY?
+                                                       answer_label answer_value raw_counts relative_frequency
+0                                                         NO ANSWER          0.0          8                0.0
+1                                       I EXPECT TO WORK FOR MYSELF          1.0        587               0.24
+2  I EXPECT TO WORK FOR THE GOVERNMENT (FEDERAL, STATE, CITY, ETC.)          2.0        221               0.09
+3             I EXPECT TO WORK FOR A RELATIVE (FATHER, UNCLE, ETC.)          3.0        130               0.05
+4  I EXPECT TO WORK FOR SOME OTHER EMPLOYER (COMPANY, PERSON, ETC.)          4.0       1076               0.44
+5                                  I PLAN TO GO TO FULL-TIME SCHOOL          5.0        134               0.05
+6                                        I PLAN TO STAY IN THE ARMY          6.0         20               0.01
+7                                   I DON'T HAVE ANY DEFINITE PLANS          7.0        265               0.11
+
+
+
+S141.Q22 DO YOU THINK YOU ACTUALLY WILL GO BACK TO WORK FOR THE SAME EMPLOYER (COMPANY, PERSON, ETC.) YOU WORKED FOR BEFORE YOU CAME INTO THE ARMY?
+                                      answer_label answer_value raw_counts relative_frequency
+0                                        NO ANSWER          0.0         41               0.02
+1                       YES, I'M QUITE SURE I WILL          1.0        617               0.25
+2                          I MAY, BUT I'M NOT SURE          2.0        681               0.28
+3                         NO, I DON'T THINK I WILL          3.0        823               0.34
+4  I WORKED FOR MYSELF BEFORE I CAME INTO THE ARMY          4.0        179               0.07
+5    I WAS NOT WORKING BEFORE I CAME INTO THE ARMY          5.0        100               0.04
+
+
+
+S141.Q23 NO MATTER WHO YOU WORK FOR AFTER THE WAR, DO YOU THINK YOU WILL BE DOING THE SAME TYPE OF WORK YOU ARE DOING NOW IN THE ARMY?
+                                                            answer_label answer_value raw_counts relative_frequency
+0                                                              NO ANSWER          0.0         25               0.01
+1     NO, I'LL GET INTO A DIFFERENT LINE OF WORK FROM WHAT I'M DOING NOW          1.0       1457                0.6
+2           I MIGHT STAY IN THE SAME LINE OF WORK, BUT PROBABLY WILL NOT          2.0        419               0.17
+3               I MIGHT STAY IN THE SAME LINE OF WORK, AND PROBABLY WILL          3.0        260               0.11
+4  YES, I'M ALMOST SURE I'LL STAY IN THE SAME LINE OF WORK I'M DOING NOW          4.0        280               0.11
+
+
+
+S141.Q24 ARE THERE ANY CONDITIONS YOU CAN THINK OF UNDER WHICH YOU MIGHT CONSIDER STAYING IN THE ARMY AFTER THE WAR?
+                                                    answer_label answer_value raw_counts relative_frequency
+0                                                      NO ANSWER          0.0         31               0.01
+1                 I WILL PROBABLY STAY IN THE ARMY AFTER THE WAR          1.0         24               0.01
+2  UNDER CERTAIN CONDITIONS I MIGHT CONSIDER STAYING IN THE ARMY          2.0        610               0.25
+3                     I WOULDN'T CONSIDER IT UNDER ANY CONDITION          3.0       1776               0.73
+
+
+
+S141.Q25 IF CIVILIAN JOBS ARE HARD TO GET AFTER THE WAR, DO YOU THINK YOU MIGHT WANT TO STAY IN THE ARMY?
+                                                                           answer_label answer_value raw_counts relative_frequency
+0                                                                             NO ANSWER          0.0         23               0.01
+1                                                      I WOULD WANT TO STAY IN THE ARMY          1.0         86               0.04
+2  I WOULD WANT TO GET OUT TO LOOK FOR A JOB, BUT I MIGHT WANT TO COME BACK TO THE ARMY          2.0        440               0.18
+3                     I WOULD RATHER TAKE ANY KIND OF JOB OUTSIDE THAN STAY IN THE ARMY          3.0        829               0.34
+4                                   I'M SURE I WILL HAVE A JOB WAITING OUTSIDE THE ARMY          4.0       1063               0.44
+
+
+
+S141.Q26 HAVE YOU BEEN PLANNING TO TRY TO GET AN AVIATION JOB AFTER THE WAR, EITHER WITH AN AIRPLANE PLANT, AN AIRLINE COMPANY, OR WITH THE ARMY AIR FORCES?
+                                                       answer_label answer_value raw_counts relative_frequency
+0                                                         NO ANSWER          0.0         46               0.02
+1           NO, I HAVE PLANS FOR SOMETHING ELSE OUTSIDE OF AVIATION          1.0       1395               0.57
+2  NO, I HAVE NOT PLANNED MUCH OF ANYTHING AS YET FOR AFTER THE WAR          2.0        578               0.24
+3    YES, I HAVE BEEN PLANNING TO GET AN AVIATION JOB AFTER THE WAR          3.0        422               0.17
+
+
+
+S141.Q27 IF YOU DO HAVE SUCH PLANS FOR AN AVIATION JOB, WHICH WOULD YOU RATHER WORK FOR?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0        721                0.3
+1  THE ARMY AIR FORCES (AS AN ENLISTED MAN)          1.0        172               0.07
+2                         AN AIRPLANE PLANT          2.0        477                0.2
+3                        AN AIRLINE COMPANY          3.0       1071               0.44
+
+
+
+S141.Q28 IF AFTER THE WAR AN AIRPLANE PLANT OR AN AIRPLANE COMPANY OFFERED YOU WORK SOMEWHERE IN THE UNITED STATES OF THE SAME KIND YOU ARE NOW DOING IN THE ARMY, WOULD YOU TAKE IT?
+                              answer_label answer_value raw_counts relative_frequency
+0                                NO ANSWER          0.0        118               0.05
+1                  NO, I WOULD NOT TAKE IT          1.0        713               0.29
+2  I MIGHT TAKE IT, BUT PROBABLY WOULD NOT          2.0        670               0.27
+3      I MIGHT TAKE IT, AND PROBABLY WOULD          3.0        517               0.21
+4                     YES, I WOULD TAKE IT          4.0        423               0.17
+
+
+
+S141.Q29 IF THE COMMERCIAL AVIATION JOB, MENTIONED IN THE LAST QUESTION ABOVE, REQUIRED YOU TO WORK AND LIVE SOMEWHERE OUTSIDE THE UNITED STATES, WOULD YOU TAKE IT?
+                              answer_label answer_value raw_counts relative_frequency
+0                                NO ANSWER          0.0        152               0.06
+1                  NO, I WOULD NOT TAKE IT          1.0       1265               0.52
+2  I MIGHT TAKE IT, BUT PROBABLY WOULD NOT          2.0        517               0.21
+3      I MIGHT TAKE IT, AND PROBABLY WOULD          3.0        283               0.12
+4                     YES, I WOULD TAKE IT          4.0        224               0.09
+
+
+
+S141.Q30 IF AFTER THE WAR THE ARMY AIR FORCES OFFERED YOU AN ENLISTED MEN'S JOB DOING THE SAME TYPE OF WORK YOU ARE DOING NOW, WOULD YOU TAKE IT?
+                              answer_label answer_value raw_counts relative_frequency
+0                                NO ANSWER          0.0         74               0.03
+1                  NO, I WOULD NOT TAKE IT          1.0       1713                0.7
+2  I MIGHT TAKE IT, BUT PROBABLY WOULD NOT          2.0        436               0.18
+3      I MIGHT TAKE IT, AND PROBABLY WOULD          3.0        139               0.06
+4                     YES, I WOULD TAKE IT          4.0         79               0.03
+
+
+
+S141.Q31 HOW MANY MEN WITH YOUR EXPERIENCE AND JOB TRAINING DO YOU THINK THE AIRPLANE PLANTS AND AIRLINE COMPANIES WILL HAVE JOBS FOR AFTER THE WAR?
+                                                                       answer_label answer_value raw_counts relative_frequency
+0                                                                         NO ANSWER          0.0        126               0.05
+1  THEY PROBABLY WON'T NEED ANY WORKERS WITH MY PARTICULAR EXPERIENCE AFTER THE WAR          1.0        741                0.3
+2                                 THEY WILL NEED SOME WORKERS LIKE ME, BUT NOT MANY          2.0        940               0.39
+3       THEY WILL NEED A LOT OF WORKERS WITH MY EXPERIENCE, BUT NOT ALL THE WORKERS          3.0        537               0.22
+4                               THEY WILL NEED ALL THE WORKERS LIKE ME THEY CAN GET          4.0         97               0.04
+
+
+
+S141.Q32 HOW ABOUT THE ARMY AIR FORCES? HOW MANY MEN WITH YOUR EXPERIENCE AND JOB TRAINING DO YOU THINK THEY WILL HAVE JOBS FOR AFTER THE WAR?
+                                                                       answer_label answer_value raw_counts relative_frequency
+0                                                                         NO ANSWER          0.0        118               0.05
+1  THEY PROBABLY WON'T NEED ANY WORKERS WITH MY PARTICULAR EXPERIENCE AFTER THE WAR          1.0        458               0.19
+2                                 THEY WILL NEED SOME WORKERS LIKE ME, BUT NOT MANY          2.0       1150               0.47
+3                   THEY WILL NEED A LOT OF WORKERS WITH MY EXPERIENCE, BUT NOT ALL          3.0        597               0.24
+4                               THEY WILL NEED ALL THE WORKERS LIKE ME THEY CAN GET          4.0        118               0.05
+
+
+
+S141.Q33 DO YOU THINK IT WOULD REALLY BE OF HELP TO YOU AFTER THE WAR TO TALK TO SOMEONE IN THE ARMY WHO COULD GIVE YOU EXPERT ADVICE AND INFORMATION ABOUT GOING BACK TO SCHOOL OR GETTING A CIVILIAN JOB?
+                                      answer_label answer_value raw_counts relative_frequency
+0                                        NO ANSWER          0.0         34               0.01
+1     I DON'T THINK IT WOULD BE OF ANY HELP AT ALL          1.0        591               0.24
+2  I THINK IT WOULD BE A LITTLE HELP, BUT NOT MUCH          2.0        552               0.23
+3          I THINK IT WOULD BE QUITE A BIT OF HELP          3.0       1196               0.49
+4       I DON'T THINK I COULD GET ALONG WITHOUT IT          4.0         68               0.03
+
+
+
+S141.Q34 DO YOU WORRY ABOUT WHETHER YOU WILL BE OUT OF A JOB FOR A LONG TIME AFTER THE WAR?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         17               0.01
+1  WORRY A GREAT DEAL ABOUT IT          1.0        243                0.1
+2  WORRY ABOUT IT FAIRLY OFTEN          2.0        582               0.24
+3   HARDLY EVER WORRY ABOUT IT          3.0        687               0.28
+4         NEVER WORRY ABOUT IT          4.0        912               0.37
+
+
+
+S141.Q35 CONSIDERING EVERYTHING, DO YOU THINK THE ARMY DOES ALL IT CAN TO PROVIDE INTERESTING THINGS FOR YOU TO DO IN YOUR OFF-DUTY TIME?
+                                    answer_label answer_value raw_counts relative_frequency
+0                             NO CODE OR NO DATA          0.0          1                0.0
+1                        YES, IT DOES ALL IT CAN          1.0       1209                0.5
+2            DOES QUITE A BIT, BUT COULD DO MORE          2.0        823               0.34
+3  DOESN'T DO NEARLY ENOUGH, COULD DO A LOT MORE          3.0        349               0.14
+4                                      NO ANSWER          4.0         59               0.02
+
+
+
+S141.Q36 HOW IMPORTANT IS IT TO YOU TO HAVE THINGS TO READ IN YOUR LEISURE TIME?
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0         35               0.01
+1   IT IS OF GREAT IMPORTANCE          1.0       1325               0.54
+2  IT IS OF MEDIUM IMPORTANCE          2.0        831               0.34
+3  IT IS OF LITTLE IMPORTANCE          3.0        250                0.1
+
+
+
+S141.Q37A HOW SATISFACTORY IS THE SUPPLY OF READING MATTER YOU ARE NOW GETTING?
+                                          answer_label answer_value raw_counts relative_frequency
+0                                            NO ANSWER          0.0         36               0.01
+1   I'M GETTING ABOUT ALL OF THE THINGS I WANT TO READ          1.0       1720                0.7
+2  I'M GETTING ABOUT HALF OF THE THINGS I WANT TO READ          2.0        447               0.18
+3    I'M GETTING VERY FEW OF THE THINGS I WANT TO READ          3.0        238                0.1
+
+
+
+S141.Q38A DID YOU WRITE A LETTER OR LETTERS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        185               0.08
+1          YES          1.0       1821               0.75
+2           NO          2.0        435               0.18
+
+
+
+S141.Q38B DID YOU READ OR LOOK THROUGH A MAGAZINE OR MAGAZINES?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        300               0.12
+1          YES          1.0       1671               0.68
+2           NO          2.0        470               0.19
+
+
+
+S141.Q38C DID YOU GO INTO THE TOWN OR VILLAGE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        372               0.15
+1          YES          1.0        567               0.23
+2           NO          2.0       1502               0.62
+
+
+
+S141.Q38D DID YOU SEE A MOVIE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        285               0.12
+1          YES          1.0       1009               0.41
+2           NO          2.0       1147               0.47
+
+
+
+S141.Q38E DID YOU PLAY CARDS, SHOOT DICE OR SIMILAR GAMES?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        350               0.14
+1          YES          1.0        397               0.16
+2           NO          2.0       1694               0.69
+
+
+
+S141.Q38F DID YOU LISTEN TO THE RADIO?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        205               0.08
+1          YES          1.0       1765               0.72
+2           NO          2.0        471               0.19
+
+
+
+S141.Q38G DID YOU READ A BOOK?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        373               0.15
+1          YES          1.0        727                0.3
+2           NO          2.0       1341               0.55
+
+
+
+S141.Q38H DID YOU DRINK BEER OR LIQUOR?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        316               0.13
+1          YES          1.0        663               0.27
+2           NO          2.0       1462                0.6
+
+
+
+S141.Q38I DID YOU PLAY POOL OR PING-PONG?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1                 YES          1.0        437               0.18
+2                  NO          2.0       1615               0.66
+3           NO ANSWER          3.0        388               0.16
+
+
+
+S141.Q38J DID YOU TAKE PART IN ANY OTHER SPORTS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        337               0.14
+1          YES          1.0        610               0.25
+2           NO          2.0       1494               0.61
+
+
+
+S141.Q38K DID YOU SPEND SOME TIME WITH A GIRL?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        269               0.11
+1          YES          1.0        531               0.22
+2           NO          2.0       1641               0.67
+
+
+
+S141.Q38L DID YOU TAKE PART IN GROUP SINGING?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        398               0.16
+1          YES          1.0        115               0.05
+2           NO          2.0       1928               0.79
+
+
+
+S141.Q38M DID YOU CATCH UP ON YOUR SLEEP?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        263               0.11
+1          YES          1.0       1236               0.51
+2           NO          2.0        942               0.39
+
+
+
+S141.Q39A DID YOU TAKE AN ACTIVE PART IN ANY DRAMATIC SHOW OR VAUDEVILLE ENTERTAINMENT?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        244                0.1
+1          YES          1.0         85               0.03
+2           NO          2.0       2112               0.87
+
+
+
+S141.Q39B DID YOU DO ANY SORT OF ARTCRAFT OR HANDCRAFT (FOR EXAMPLE, MAKING TOYS OR GADGETS; CARTOONING, ETC.)?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        252                0.1
+1          YES          1.0        278               0.11
+2           NO          2.0       1911               0.78
+
+
+
+S141.Q39C DID YOU TAKE AN ACTIVE PART IN BALL GAMES OR OTHER OUTDOOR GAMES?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        155               0.06
+1          YES          1.0       1065               0.44
+2           NO          2.0       1221                0.5
+
+
+
+S141.Q39D DID YOU PLAY ANY MUSICAL INSTRUMENT?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        265               0.11
+1          YES          1.0        181               0.07
+2           NO          2.0       1995               0.82
+
+
+
+S141.Q39E DID YOU PREPARE A LESSON FOR ANY CORRESPONDENCE OR STUDY COURSE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        256                0.1
+1          YES          1.0        119               0.05
+2           NO          2.0       2066               0.85
+
+
+
+S141.Q40 HOW GOOD A JOB DO YOU THINK THE ARMY IS DOING IN KEEPING THE SOLDIERS AT THIS STATION UP-DO-DATE ON THE NEWS OF THE DAY?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         17               0.01
+1    VERY GOOD JOB          1.0       1054               0.43
+2  FAIRLY GOOD JOB          2.0        973                0.4
+3  PRETTY POOR JOB          3.0        189               0.08
+4    VERY POOR JOB          4.0        107               0.04
+5        UNDECIDED          5.0        101               0.04
+
+
+
+S141.Q41 HOW IMPORTANT IS IT TO YOU PERSONALLY TO BE ABLE TO GET THE NEWS OF THE DAY WHILE YOU ARE AT THIS STATION?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0         32               0.01
+1     IT IS ABSOLUTELY NECESSARY          1.0        368               0.15
+2      IT IS OF GREAT IMPORTANCE          2.0       1350               0.55
+3     IT IS OF MEDIUM IMPORTANCE          3.0        560               0.23
+4     IT IS OF LITTLE IMPORTANCE          4.0         96               0.04
+5  IT IS OF NO IMPORTANCE AT ALL          5.0         35               0.01
+
+
+
+S141.Q42 HOW WOULD YOU RATE YOURSELF WITH REGARD TO A KNOWLEDGE OF WORLD EVENTS AND RECENT NEWS?
+                                      answer_label answer_value raw_counts relative_frequency
+0                                        NO ANSWER          0.0         42               0.02
+1  HAVE A FAIRLY COMPLETE AND UP-TO-DATE KNOWLEDGE          1.0        794               0.33
+2    HAVE A GENERAL KNOWLEDGE OF "HEADLINE" EVENTS          2.0       1375               0.56
+3                     DO NOT KEEP UP WITH THE NEWS          3.0        230               0.09
+
+
+
+S141.Q43.1 IF YOU DO NOT HAVE A FAIRLY COMPLETE AND UP-TO-DATE KNOWLEDGE OF THE NEWS, IS IT MAINLY BECAUSE . . .?
+                                                    answer_label answer_value raw_counts relative_frequency
+0  YOU WANT TO BUT DON'T HAVE THE FACILITIES (NEWSPAPERS, RADIO)          1.0        417               0.17
+1                                                     NOT CHOSEN          2.0       2024               0.83
+
+
+
+S141.Q43.2IF YOU DO NOT HAVE A FAIRLY COMPLETE AND UP-TO-DATE KNOWLEDGE OF THE NEWS, IS IT MAINLY BECAUSE . . .?
+                          answer_label answer_value raw_counts relative_frequency
+0  YOU WANT TO BUT DON'T HAVE THE TIME          1.0        567               0.23
+1                           NOT CHOSEN          2.0       1874               0.77
+
+
+
+S141.Q43.3IF YOU DO NOT HAVE A FAIRLY COMPLETE AND UP-TO-DATE KNOWLEDGE OF THE NEWS, IS IT MAINLY BECAUSE . . .?
+                               answer_label answer_value raw_counts relative_frequency
+0  YOU ARE JUST NOT PARTICULARLY INTERESTED          1.0        195               0.08
+1                                NOT CHOSEN          2.0       2246               0.92
+
+
+
+S141.Q43.4 IF YOU DO NOT HAVE A FAIRLY COMPLETE AND UP-TO-DATE KNOWLEDGE OF THE NEWS, IS IT MAINLY BECAUSE . . .?
+                                           answer_label answer_value raw_counts relative_frequency
+0  I DO HAVE A FAIRLY COMPLETE AND UP-TO-DATE KNOWLEDGE          1.0       1069               0.44
+1                                            NOT CHOSEN          2.0       1372               0.56
+
+
+
+S141.Q43.5IF YOU DO NOT HAVE A FAIRLY COMPLETE AND UP-TO-DATE KNOWLEDGE OF THE NEWS, IS IT MAINLY BECAUSE . . .?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0        211               0.09
+1   NOT CHOSEN          2.0       2230               0.91
+
+
+
+S141.Q44 HOW CLEAR AN IDEA DO YOU HAVE OF WHY WE ARE FIGHTING THIS WAR?
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0         24               0.01
+1    I HAVE A VERY CLEAR IDEA          1.0       1469                0.6
+2  I HAVE A FAIRLY CLEAR IDEA          2.0        774               0.32
+3           I AM NOT SO CLEAR          3.0        117               0.05
+4       I AM NOT AT ALL CLEAR          4.0         57               0.02
+
+
+
+S141.Q45 HOW IMPORTANT IS IT TO YOU PERSONALLY TO HAVE A CLEAR UNDERSTANDING OF WHY WE ARE FIGHTING THIS WAR?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0         34               0.01
+1     IT IS ABSOLUTELY NECESSARY          1.0       1116               0.46
+2      IT IS OF GREAT IMPORTANCE          2.0       1017               0.42
+3     IT IS OF MEDIUM IMPORTANCE          3.0        183               0.07
+4     IT IS OF LITTLE IMPORTANCE          4.0         49               0.02
+5  IT IS OF NO IMPORTANCE AT ALL          5.0         42               0.02
+
+
+
+S141.Q46 ABOUT HOW OFTEN HAS YOUR OUTFIT HAD TALKS AND DISCUSSIONS ON WHY WE ARE FIGHTING THIS WAR?
+                                                           answer_label answer_value raw_counts relative_frequency
+0                                                    NO CODE OR NO DATA          0.0          1                0.0
+1                                              TWO OR MORE TIMES A WEEK          1.0        195               0.08
+2                                                     ABOUT ONCE A WEEK          2.0        710               0.29
+3                                            TWO OR THREE TIMES A MONTH          3.0        232                0.1
+4                                                    ABOUT ONCE A MONTH          4.0        303               0.12
+5                                                LESS THAN ONCE A MONTH          5.0        404               0.17
+6  WE HAVE NEVER HAD ANY TALKS OR DISCUSSIONS ABOUT WHY WE ARE FIGHTING          6.0        521               0.21
+7                                                             NO ANSWER          7.0         75               0.03
+
+
+
+S141.Q47 ABOUT HOW OFTEN WOULD YOU LIKE TO HAVE TALKS AND DISCUSSIONS ON WHY WE ARE FIGHTING THIS WAR?
+                                                               answer_label answer_value raw_counts relative_frequency
+0                                                                 NO ANSWER          0.0         57               0.02
+1                                                  TWO OR MORE TIMES A WEEK          1.0        195               0.08
+2                                                         ABOUT ONCE A WEEK          2.0        757               0.31
+3                                                TWO OR THREE TIMES A MONTH          3.0        275               0.11
+4                                                        ABOUT ONCE A MONTH          4.0        570               0.23
+5                                                    LESS THAN ONCE A MONTH          5.0        237                0.1
+6  I WOULD NOT LIKE TO HAVE ANY TALKS OR DISCUSSIONS ON WHY WE ARE FIGHTING          6.0        350               0.14
+
+
+
+S141.Q48 DO YOU PERSONALLY THINK THAT YOU GET ANYTHING OUT OF THESE TALKS AND DISCUSSIONS?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0         80               0.03
+1         YES, I GET A LOT OUT OF THEM          1.0        574               0.24
+2     YES, I GET SOMETHING OUT OF THEM          2.0        906               0.37
+3     NO, I DON'T GET MUCH OUT OF THEM          3.0        309               0.13
+4                            UNDECIDED          4.0        190               0.08
+5  WE DO NOT HAVE TALKS OR DISCUSSIONS          5.0        382               0.16
+
+
+
+S141.Q49.1 WHAT SUBJECTS DO YOU CONSIDER THE MOST IMPORTANT TO DISCUSS AT MEETINGS OF THIS KIND. (CHECK THE TWO OR THREE SUBJECTS YOU WOULD MOST LIKE TO HEAR ABOUT OR DISCUSS)
+                                                answer_label answer_value raw_counts relative_frequency
+0  THE BACKGROUND OF THE WAR AND THE EVENTS LEADING UP TO IT          1.0        636               0.26
+1                                                 NOT CHOSEN          2.0       1805               0.74
+
+
+
+S141.Q49.2WHAT SUBJECTS DO YOU CONSIDER THE MOST IMPORTANT TO DISCUSS AT MEETINGS OF THIS KIND. (CHECK THE TWO OR THREE SUBJECTS YOU WOULD MOST LIKE TO HEAR ABOUT OR DISCUSS)
+                            answer_label answer_value raw_counts relative_frequency
+0  THE NEWS OF THE DAY AND WHAT IT MEANS          1.0       1175               0.48
+1                             NOT CHOSEN          2.0       1266               0.52
+
+
+
+S141.Q49.3WHAT SUBJECTS DO YOU CONSIDER THE MOST IMPORTANT TO DISCUSS AT MEETINGS OF THIS KIND. (CHECK THE TWO OR THREE SUBJECTS YOU WOULD MOST LIKE TO HEAR ABOUT OR DISCUSS)
+                                        answer_label answer_value raw_counts relative_frequency
+0  WHAT WE CAN DO TO MAKE OUR OUTFIT A BETTER OUTFIT          1.0        304               0.12
+1                                         NOT CHOSEN          2.0       2137               0.88
+
+
+
+S141.Q49.4WHAT SUBJECTS DO YOU CONSIDER THE MOST IMPORTANT TO DISCUSS AT MEETINGS OF THIS KIND. (CHECK THE TWO OR THREE SUBJECTS YOU WOULD MOST LIKE TO HEAR ABOUT OR DISCUSS)
+                                                  answer_label answer_value raw_counts relative_frequency
+0  WHAT THINGS WILL BE LIKE IN THE UNITED STATES AFTER THE WAR          1.0       1119               0.46
+1                                                   NOT CHOSEN          2.0       1322               0.54
+
+
+
+S141.Q49.5WHAT SUBJECTS DO YOU CONSIDER THE MOST IMPORTANT TO DISCUSS AT MEETINGS OF THIS KIND. (CHECK THE TWO OR THREE SUBJECTS YOU WOULD MOST LIKE TO HEAR ABOUT OR DISCUSS)
+                                                           answer_label answer_value raw_counts relative_frequency
+0  WHAT OUR ALLIES ARE LIKE AND WHAT THINGS ARE LIKE IN THEIR COUNTRIES          1.0        236                0.1
+1                                                            NOT CHOSEN          2.0       2205                0.9
+
+
+
+S141.Q49.6WHAT SUBJECTS DO YOU CONSIDER THE MOST IMPORTANT TO DISCUSS AT MEETINGS OF THIS KIND. (CHECK THE TWO OR THREE SUBJECTS YOU WOULD MOST LIKE TO HEAR ABOUT OR DISCUSS)
+                                     answer_label answer_value raw_counts relative_frequency
+0  THE SYSTEMS OF GOVERNMENT THAT OUR ALLIES HAVE          1.0        122               0.05
+1                                      NOT CHOSEN          2.0       2319               0.95
+
+
+
+S141.Q49.7WHAT SUBJECTS DO YOU CONSIDER THE MOST IMPORTANT TO DISCUSS AT MEETINGS OF THIS KIND. (CHECK THE TWO OR THREE SUBJECTS YOU WOULD MOST LIKE TO HEAR ABOUT OR DISCUSS)
+                           answer_label answer_value raw_counts relative_frequency
+0  WHAT WE ARE FIGHTING FOR IN THIS WAR          1.0        414               0.17
+1                            NOT CHOSEN          2.0       2027               0.83
+
+
+
+S141.Q49.8WHAT SUBJECTS DO YOU CONSIDER THE MOST IMPORTANT TO DISCUSS AT MEETINGS OF THIS KIND. (CHECK THE TWO OR THREE SUBJECTS YOU WOULD MOST LIKE TO HEAR ABOUT OR DISCUSS)
+                                                      answer_label answer_value raw_counts relative_frequency
+0  WHAT OUR ENEMIES ARE LIKE AND HOW THINGS ARE IN THEIR COUNTRIES          1.0        267               0.11
+1                                                       NOT CHOSEN          2.0       2174               0.89
+
+
+
+S141.Q49.9WHAT SUBJECTS DO YOU CONSIDER THE MOST IMPORTANT TO DISCUSS AT MEETINGS OF THIS KIND. (CHECK THE TWO OR THREE SUBJECTS YOU WOULD MOST LIKE TO HEAR ABOUT OR DISCUSS)
+                                      answer_label answer_value raw_counts relative_frequency
+0  THE SYSTEMS OF GOVERNMENT THAT OUR ENEMIES HAVE          1.0         94               0.04
+1                                       NOT CHOSEN          2.0       2347               0.96
+
+
+
+S141.Q49.10WHAT SUBJECTS DO YOU CONSIDER THE MOST IMPORTANT TO DISCUSS AT MEETINGS OF THIS KIND. (CHECK THE TWO OR THREE SUBJECTS YOU WOULD MOST LIKE TO HEAR ABOUT OR DISCUSS)
+                                                                                             answer_label answer_value raw_counts relative_frequency
+0  THE PROBLEMS THE UNITED STATES WILL HAVE AFTER THE WAR, AND THE PLANS THAT ARE BEING MADE TO MEET THEM          1.0       1492               0.61
+1                                                                                              NOT CHOSEN          2.0        949               0.39
+
+
+
+S141.Q49.11WHAT SUBJECTS DO YOU CONSIDER THE MOST IMPORTANT TO DISCUSS AT MEETINGS OF THIS KIND. (CHECK THE TWO OR THREE SUBJECTS YOU WOULD MOST LIKE TO HEAR ABOUT OR DISCUSS)
+     answer_label answer_value raw_counts relative_frequency
+0  SOMETHING ELSE          1.0         92               0.04
+1      NOT CHOSEN          2.0       2349               0.96
+
+
+
+S141.Q49.12WHAT SUBJECTS DO YOU CONSIDER THE MOST IMPORTANT TO DISCUSS AT MEETINGS OF THIS KIND. (CHECK THE TWO OR THREE SUBJECTS YOU WOULD MOST LIKE TO HEAR ABOUT OR DISCUSS)
+                                            answer_label answer_value raw_counts relative_frequency
+0  I WOULDN'T LIKE TO HEAR ABOUT OR DISCUSS ANY SUBJECTS          1.0       2019               0.83
+1                                             NOT CHOSEN          2.0        422               0.17
+
+
+
+S141.Q49.13WHAT SUBJECTS DO YOU CONSIDER THE MOST IMPORTANT TO DISCUSS AT MEETINGS OF THIS KIND. (CHECK THE TWO OR THREE SUBJECTS YOU WOULD MOST LIKE TO HEAR ABOUT OR DISCUSS)
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0        114               0.05
+1   NOT CHOSEN          2.0       2327               0.95
+
+
+
+S141.Q50 WHEN YOU GET INTO BULL SESSIONS WITH OTHER MEN IN YOUR COMPANY, HOW OFTEN DO YOU GET ON THE SUBJECT OF WHY WE ARE FIGHTING THIS WAR?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         27               0.01
+1       VERY OFTEN          1.0        513               0.21
+2  ONCE IN A WHILE          2.0       1013               0.41
+3   NOT VERY OFTEN          3.0        709               0.29
+4            NEVER          4.0        179               0.07
+
+
+
+S141.Q51 WHICH OF THE FOLLOWING COUNTRIES IS AT WAR AGAINST THE AXIS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        383               0.16
+1    ARGENTINA          1.0        258               0.11
+2       SWEDEN          2.0        186               0.08
+3       BRAZIL          3.0       1241               0.51
+4       TURKEY          4.0        373               0.15
+
+
+
+S141.Q52 GENERAL TITO IS . . .?
+                            answer_label answer_value raw_counts relative_frequency
+0                              NO ANSWER          0.0        181               0.07
+1              A RUSSIAN MILITARY LEADER          1.0        321               0.13
+2  LEADER OF THE GREEK GUERILLA FIGHTERS          2.0        222               0.09
+3       LEADER OF THE CHINESE COMMUNISTS          3.0        350               0.14
+4        LEADER OF THE YUGOSLAV PATRIOTS          4.0       1367               0.56
+
+
+
+S141.Q53 WHICH OF THESE GOVERNMENTS IS MOST SYMPATHETIC TO HITLER?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0        144               0.06
+1  THE GOVERNMENT OF SWITZERLAND          1.0        342               0.14
+2        THE GOVERNMENT OF SPAIN          2.0       1710                0.7
+3       THE GOVERNMENT OF MEXICO          3.0         64               0.03
+4       THE GOVERNMENT OF BRAZIL          4.0        181               0.07
+
+
+
+S141.Q54 HOW MANY "UNITED NATIONS" ARE THERE AT WAR WITH THE NAZIS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        101               0.04
+1        THREE          1.0        235                0.1
+2         FOUR          2.0        379               0.16
+3       TWELVE          3.0        602               0.25
+4  OVER THIRTY          4.0       1124               0.46
+
+
+
+S141.Q55 THE "ATLANTIC CHARTER" IS . . .?
+                                                  answer_label answer_value raw_counts relative_frequency
+0                                                    NO ANSWER          0.0        181               0.07
+1  A STATEMENT OF THE WAR AND PEACE AIMS OF THE UNITED NATIONS          1.0       1041               0.43
+2         AN AGREEMENT ABOUT WHO IS TO RULE THE ATLANTIC OCEAN          2.0        192               0.08
+3      A NAVAL AGREEMENT FOR THE DEFENSE OF THE ATLANTIC OCEAN          3.0        742                0.3
+4                         THE LAW ON WHICH LEASE-LEND IS BASED          4.0        285               0.12
+
+
+
+S141.Q56 AT THE MOSCOW CONFERENCE IT WAS DECIDED THAT AFTER THE WAR NAZIS WHO WERE RESPONSIBLE FOR ATROCITIES WILL BE . . .?
+                                                     answer_label answer_value raw_counts relative_frequency
+0                                                       NO ANSWER          0.0        122               0.05
+1                                   PUNISHED BY THE GERMAN PEOPLE          1.0         66               0.03
+2                                       PUNISHED BY THE AMERICANS          2.0        103               0.04
+3  PUNISHED BY THE COUNTRIES IN WHICH THEY COMMITTED THEIR CRIMES          3.0       1344               0.55
+4                            PUNISHED BY THE INTERNATIONAL POLICE          4.0        806               0.33
+
+
+
+S141.Q57A "AFTER THE WAR THE UNITED STATES SHOULD CONTROL AND DOMINATE THE WORLD."
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         76               0.03
+1        AGREE          1.0        382               0.16
+2     DISAGREE          2.0       1982               0.81
+3    UNDECIDED          3.0          1                0.0
+
+
+
+S141.Q57B "THE NAZIS PROBABLY DO NOT TREAT THE PEOPLE THEY CONQUER AS BADLY AS AMERICAN NEWSPAPER AND RADIO STORIES SAY."
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1               AGREE          1.0        724                0.3
+2            DISAGREE          2.0       1617               0.66
+3           UNDECIDED          3.0          8                0.0
+4           NO ANSWER          4.0         91               0.04
+
+
+
+S141.Q57C "BEFORE THE WAR, HITLER AND THE NAZI GOVERNMENT DID A LOT OF GOOD FOR THE GERMAN PEOPLE."
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1               AGREE          1.0        610               0.25
+2            DISAGREE          2.0       1716                0.7
+3           UNDECIDED          3.0         26               0.01
+4           NO ANSWER          4.0         88               0.04
+
+
+
+S141.Q57D "IN THE LONG RUN WE PROBABLY WOULD HAVE BEEN BETTER OFF JUST TO DEFEND OUR OWN SHORES AND POSSESSIONS INSTEAD OF GOING OVER TO FIGHT THE GERMANS AND JAPS ON FOREIGN SOIL."
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         90               0.04
+1        AGREE          1.0        149               0.06
+2     DISAGREE          2.0       2198                0.9
+3    UNDECIDED          3.0          4                0.0
+
+
+
+S141.Q57E "IF IT'S A NEWS REPORT SENT OUT BY THE ARMY THEN YOU KNOW IT MUST BE THE TRUTH."
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        102               0.04
+1        AGREE          1.0       1293               0.53
+2     DISAGREE          2.0       1024               0.42
+3    UNDECIDED          3.0         22               0.01
+
+
+
+S141.Q57F "THE ARMY TRIES TO HIDE THE REALLY BAD NEWS FROM THE SOLDIERS."
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        103               0.04
+1        AGREE          1.0        874               0.36
+2     DISAGREE          2.0       1431               0.59
+3    UNDECIDED          3.0         33               0.01
+
+
+
+S141.Q57G "YOU CAN COUNT ON THE ARMY TO PRINT ALL THE IMPORTANT NEWS, EVEN IF IT IS UNFAVORABLE TO THE ARMY."
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        115               0.05
+1        AGREE          1.0       1032               0.42
+2     DISAGREE          2.0       1275               0.52
+3    UNDECIDED          3.0         19               0.01
+
+
+
+S141.Q58 DID YOU GO TO ANY SORT OF SCHOOL OR TAKE ANY EDUCATIONAL COURSES BY MAIL IN THE LAST 12 MONTHS OF YOUR CIVILIAN LIFE?
+                                                                   answer_label answer_value raw_counts relative_frequency
+0                                                                     NO ANSWER          0.0        164               0.07
+1  NO, I FINISHED ALL MY SCHOOL WORK MORE THAN A YEAR BEFORE I ENTERED THE ARMY          1.0       1660               0.68
+2                                                 YES, WENT TO FULL-TIME SCHOOL          2.0        215               0.09
+3                                                 YES, WENT TO PART-TIME SCHOOL          3.0        293               0.12
+4                                              YES, TOOK CORRESPONDENCE COURSES          4.0        109               0.04
+
+
+
+S141.Q59 DO YOU FEEL THAT YOU HAVE AS MUCH SCHOOL OR COLLEGE AS YOU WANT, OR WOULD YOU LIKE TO GO BACK TO SCHOOL OR COLLEGE AFTER THE WAR?
+                                             answer_label answer_value raw_counts relative_frequency
+0                                      NO CODE OR NO DATA          0.0          1                0.0
+1          I HAVE HAD AS MUCH SCHOOL OR COLLEGE AS I WANT          1.0        887               0.36
+2  I WOULD LIKE TO GO BACK TO FULL-TIME SCHOOL OR COLLEGE          2.0        388               0.16
+3  I WOULD LIKE TO GO BACK TO PART-TIME SCHOOL OR COLLEGE          3.0       1053               0.43
+4                                               NO ANSWER          4.0        112               0.05
+
+
+
+S141.Q60 REGARDLESS OF WHAT YOU WOULD LIKE TO DO, DO YOU THINK YOU WILL ACTUALLY GO BACK TO SCHOOL OR COLLEGE AFTER THE WAR?
+                                            answer_label answer_value raw_counts relative_frequency
+0                                              NO ANSWER          0.0         77               0.03
+1                    YES, TO FULL-TIME SCHOOL OR COLLEGE          1.0        163               0.07
+2                    YES, TO PART-TIME SCHOOL OR COLLEGE          2.0        390               0.16
+3  NO, I DON'T THINK I WILL GO BACK TO SCHOOL OR COLLEGE          3.0       1201               0.49
+4                                              UNDECIDED          4.0        610               0.25
+
+
+
+S141.Q61 HAVE YOU EVER HEARD ABOUT OR SEEN ANY NOTICE OF CORRESPONDENCE COURSES OR SELF-TEACHING COURSES OFFERED TO ENLISTED MEN BY THE ARMY (U.S. ARMED FORCES INSTITUTE)?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         43               0.02
+1          YES          1.0       2006               0.82
+2           NO          2.0        244                0.1
+3   DON'T KNOW          3.0        148               0.06
+
+
+
+S141.Q62 HAVE YOU EVER TAKEN A CORRESPONDENCE COURSE IN ANY SUBJECT SINCE YOU ENTERED THE ARMY?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         43               0.02
+1          YES          1.0        230               0.09
+2           NO          2.0       2168               0.89
+
+
+
+S141.Q63 HAVE YOU EVER TAKEN A SELF-TEACHING COURSE IN ANY SUBJECT SINCE YOU ENTERED THE ARMY?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         49               0.02
+1          YES          1.0        208               0.09
+2           NO          2.0       2184               0.89
+
+
+
+S141.Q64 IF YOU HAVE TAKEN ANY CORRESPONDENCE OR SELF-TEACHING COURSE OR COURSES WHILE IN THE ARMY, ARE YOU STILL TAKING THEM?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        497                0.2
+1          YES          1.0        135               0.06
+2           NO          2.0       1809               0.74
+
+
+
+S141.Q65 IF YOU COULD GET THE SUBJECT YOU WANT TO STUDY, WOULD YOU TAKE A CORRESPONDENCE COURSE OR SELF-TEACHING COURSE NOW? (THE FIRST COURSE YOU TAKE COSTS YOU $2.00 AND ALL THE OTHERS YOU TAKE ARE FREE.)
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0         78               0.03
+1  I'M TAKING ONE NOW          1.0        113               0.05
+2                 YES          2.0        615               0.25
+3                  NO          3.0        919               0.38
+4           UNDECIDED          4.0        716               0.29
+
+
+
+S141.Q66 IF A CLASS WERE SET UP HERE IN CAMP TO TEACH SOME SUBJECT YOU WERE INTERESTED IN, DO YOU THINK YOU WOULD JOIN THIS CLASS AND GO REGULARLY?
+                        answer_label answer_value raw_counts relative_frequency
+0                          NO ANSWER          0.0         49               0.02
+1  I ALREADY GO TO A CLASS LIKE THIS          1.0         20               0.01
+2                                YES          2.0       1345               0.55
+3                                 NO          3.0        505               0.21
+4                          UNDECIDED          4.0        522               0.21
+
+
+
+S141.Q68 IF YOU HAVE ANY IDEA OF CONTINUING YOUR SCHOOLWORK OR VOCATIONAL TRAINING, EITHER NOW OR LATER, WOULD YOU LIKE TO GET FURTHER INFORMATION OR ADVICE ABOUT THE OPPORTUNITIES FOR DOING SO?
+                                                           answer_label answer_value raw_counts relative_frequency
+0                                                    NO CODE OR NO DATA          0.0          1                0.0
+1  I WILL PROBABLY NOT TAKE ANY MORE SCHOOL WORK OR VOCATIONAL TRAINING          1.0        808               0.33
+2                           I UNDERSTAND ENOUGH NOW FOR MY OWN PURPOSES          2.0        443               0.18
+3                            I WOULD LIKE FURTHER INFORMATION OR ADVICE          3.0       1010               0.41
+4                                                             NO ANSWER          4.0        179               0.07
+
+
+
+S141.Q70 DO YOU FEEL PROUD OF THE SQUADRON OR UNIT YOU ARE IN NOW?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1     YES, VERY PROUD          1.0        691               0.28
+2   YES, FAIRLY PROUD          2.0        809               0.33
+3       NO, NOT PROUD          3.0        561               0.23
+4           UNDECIDED          4.0        337               0.14
+5           NO ANSWER          5.0         42               0.02
+
+
+
+S141.Q71 DO YOU USUALLY FEEL THAT WHAT YOU ARE DOING IN THE ARMY IS WORTHWHILE OR NOT?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0         34               0.01
+1  I USUALLY FEEL IT IS NOT WORTHWHILE          1.0        446               0.18
+2      I USUALLY FEEL IT IS WORTHWHILE          2.0       1712                0.7
+3                            UNDECIDED          3.0        249                0.1
+
+
+
+S141.Q72 HOW DO YOU USUALLY FEEL ABOUT THE ARMY FOOD YOU ARE GETTING?
+                                      answer_label answer_value raw_counts relative_frequency
+0                                        NO ANSWER          0.0         54               0.02
+1    IT IS USUALLY GOOD QUALITY, AND WELL PREPARED          1.0        571               0.23
+2  IT IS USUALLY GOOD QUALITY, BUT POORLY PREPARED          2.0       1516               0.62
+3    IT IS USUALLY POOR QUALITY, BUT WELL PREPARED          3.0        101               0.04
+4  IT IS USUALLY POOR QUALITY, AND POORLY PREPARED          4.0        199               0.08
+
+
+
+S141.Q73 HOW MANY OF YOUR OFFICERS ARE THE KIND THAT ALWAYS TRY TO LOOK OUT FOR THE WELFARE OF ENLISTED MEN?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         45               0.02
+1         NONE          1.0        236                0.1
+2          FEW          2.0       1254               0.51
+3   ABOUT HALF          3.0        327               0.13
+4         MOST          4.0        346               0.14
+5          ALL          5.0        121               0.05
+6   DON'T KNOW          6.0        112               0.05
+
+
+
+S141.Q74 HOW MANY OF YOUR NON-COMS SEEM TO "KNOW THEIR STUFF"?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         47               0.02
+1         NONE          1.0         97               0.04
+2          FEW          2.0        783               0.32
+3   ABOUT HALF          3.0        500                0.2
+4         MOST          4.0        778               0.32
+5          ALL          5.0        176               0.07
+6   DON'T KNOW          6.0         60               0.02
+
+
+
+S141.Q75 HOW ABOUT YOUR OFFICERS? HOW MANY OF THEM SEEM TO "KNOW THEIR STUFF"?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1                NONE          1.0        105               0.04
+2                 FEW          2.0        946               0.39
+3          ABOUT HALF          3.0        475               0.19
+4                MOST          4.0        560               0.23
+5                 ALL          5.0        190               0.08
+6          DON'T KNOW          6.0        119               0.05
+7           NO ANSWER          7.0         45               0.02
+
+
+
+S141.Q76 ON THE WHOLE, HOW IS THE MORALE OF THE MEN IN YOUR SQUADRON OR UNIT?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         46               0.02
+1    VERY HIGH          1.0        115               0.05
+2  FAIRLY HIGH          2.0        559               0.23
+3   JUST SO-SO          3.0        917               0.38
+4   FAIRLY LOW          4.0        410               0.17
+5     VERY LOW          5.0        394               0.16
+
+
+
+S141.Q77 HOW MANY MONTHS HAVE YOU BEEN STATIONED AT THIS PLACE?
+                                    answer_label answer_value raw_counts relative_frequency
+0                                      NO ANSWER          0.0         72               0.03
+1                   UP TO AND INCLUDING 3 MONTHS          1.0        223               0.09
+2     OVER 3 MONTHS UP TO AND INCLUDING 6 MONTHS          2.0        362               0.15
+3     OVER 6 MONTHS UP TO AND INCLUDING 9 MONTHS          3.0        385               0.16
+4    OVER 9 MONTHS UP TO AND INCLUDING 12 MONTHS          4.0        265               0.11
+5   OVER 12 MONTHS UP TO AND INCLUDING 15 MONTHS          5.0        505               0.21
+6   OVER 15 MONTHS UP TO AND INCLUDING 18 MONTHS          6.0        275               0.11
+7   OVER 18 MONTHS UP TO AND INCLUDING 21 MONTHS          7.0        107               0.04
+8   OVER 21 MONTHS UP TO AND INCLUDING 24 MONTHS          8.0        131               0.05
+9   OVER 24 MONTHS UP TO AND INCLUDING 30 MONTHS          9.0         87               0.04
+10  OVER 30 MONTHS UP TO AND INCLUDING 36 MONTHS         10.0         24               0.01
+11                                OVER 36 MONTHS         11.0          5                0.0
+
+
+
+S141.Q78 HOW IMPORTANT A PART DO YOU THINK THE AIR TRANSPORT COMMAND WILL PLAY IN WINNING THE WAR?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0         48               0.02
+1      A VERY IMPORTANT PART          1.0       1978               0.81
+2    A FAIRLY IMPORTANT PART          2.0        378               0.15
+3  NOT A VERY IMPORTANT PART          3.0         28               0.01
+4       NOT IMPORTANT AT ALL          4.0          9                0.0
+
+
+
+S141.Q79 WHEN PROMOTIONS ARE MADE IN YOUR OUTFIT, HOW OFTEN DO THEY GO TO THE MAN WHO DESERVES THEM MOST?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0        108               0.04
+1      RARELY OR NEVER          1.0        446               0.18
+2            SOMETIMES          2.0        748               0.31
+3  ABOUT HALF THE TIME          3.0        580               0.24
+4              USUALLY          4.0        498                0.2
+5               ALWAYS          5.0         61               0.02
+
+
+
+S141.Q80 DO YOU FEEL THAT YOU HAVE BEEN GIVEN YOUR FAIR SHARE OF TIME OFF FROM YOUR WORK SINCE YOU HAVE BEEN IN THIS CAMP?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         57               0.02
+1          YES          1.0       1675               0.69
+2           NO          2.0        534               0.22
+3    UNDECIDED          3.0        175               0.07
+
+
+
+S141.Q81.1 SINCE YOU HAVE BEEN IN THIS AREA, HAVE YOU HAD ANY KIND OF FURLOUGH?
+                                                             answer_label answer_value raw_counts relative_frequency
+0  NO, I HAVE NOT HAD ANY KIND OF FURLOUGH SINCE I HAVE BEEN IN THIS AREA          1.0        977                0.4
+1                                                              NOT CHOSEN          2.0       1464                0.6
+
+
+
+S141.Q81.2SINCE YOU HAVE BEEN IN THIS AREA, HAVE YOU HAD ANY KIND OF FURLOUGH?
+                            answer_label answer_value raw_counts relative_frequency
+0  EMERGENCY FURLOUGH BACK TO THE STATES          1.0        137               0.06
+1                             NOT CHOSEN          2.0       2304               0.94
+
+
+
+S141.Q81.3SINCE YOU HAVE BEEN IN THIS AREA, HAVE YOU HAD ANY KIND OF FURLOUGH?
+                          answer_label answer_value raw_counts relative_frequency
+0  REGULAR FURLOUGH BACK TO THE STATES          1.0        829               0.34
+1                           NOT CHOSEN          2.0       1612               0.66
+
+
+
+S141.Q81.4SINCE YOU HAVE BEEN IN THIS AREA, HAVE YOU HAD ANY KIND OF FURLOUGH?
+                                answer_label answer_value raw_counts relative_frequency
+0  FURLOUGH FOR THIS AREA - A LOCAL FURLOUGH          1.0        491                0.2
+1                                 NOT CHOSEN          2.0       1950                0.8
+
+
+
+S141.Q81.5SINCE YOU HAVE BEEN IN THIS AREA, HAVE YOU HAD ANY KIND OF FURLOUGH?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0         86               0.04
+1   NOT CHOSEN          2.0       2355               0.96
+
+
+
+S141.Q82 IN YOUR OPINION, HOW LONG CAN A MAN STAY AT THIS POST WITHOUT A FURLOUGH AND STILL DO HIS JOB WELL?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0         62               0.03
+1   NO MORE THAN 6 MONTHS          1.0       1188               0.49
+2     NO MORE THAN 1 YEAR          2.0        936               0.38
+3  NO MORE THAN 18 MONTHS          3.0        102               0.04
+4    NO MORE THAN 2 YEARS          4.0         13               0.01
+5    NO MORE THAN 3 YEARS          5.0          3                0.0
+6       MORE THAN 3 YEARS          6.0         11                0.0
+7               UNDECIDED          7.0        126               0.05
+
+
+
+S141.V83 THIS CODE WAS ASSIGNED TO MEN (ON THE BASIS OF INFORMATION GIVEN THROUGHOUT THE SCHEDULE) TO BEST DETERMINE WHICH FIELD OF AVIATION THEY PLAN TO ENTER AFTER THE WAR.
+                                                                                           answer_label answer_value raw_counts relative_frequency
+0                                                                LIKELIEST FIRST CHOICE IS NOT AVIATION          0.0       2182               0.89
+1                  GENERAL; UNSPECIFIED FIELD OR EMPLOYER, OR UNDECIDED BETWEEN VARIOUS AVIATION FIELDS          1.0         23               0.01
+2                                                                       COMMERCIAL AIRLINES OR AIRPORTS          2.0        143               0.06
+3                                                                      COMMERCIAL AVIATION CONSTRUCTION          3.0         40               0.02
+4                                                                                     MILITARY AVIATION          4.0         10                0.0
+5                                                                                ATC OR AAF AS CIVILIAN          5.0          6                0.0
+6  CAA OR OTHER GOVERNMENT (WEATHER MEN INTERESTED IN CAA, ALSO WEATHER BUREAU) (RADIO, FLIGHT TRAFFIC)          6.0         26               0.01
+7                                           EDUCATIONAL OR VOCATIONAL TRAINING PREPARATORY FOR AVIATION          7.0         11                0.0
+
+
+
+S141.V84 STATION IDENTIFICATION:
+                   answer_label answer_value raw_counts relative_frequency
+0                       ICELAND          1.0        451               0.18
+1           GOOSE BAY, LABRADOR          2.0        408               0.17
+2          GANDER, NEWFOUNDLAND          3.0        515               0.21
+3           PRESQUE ISLE, MAINE          4.0        566               0.23
+4  GRENIER FIELD, NEW HAMPSHIRE          5.0        501               0.21
+
+
+

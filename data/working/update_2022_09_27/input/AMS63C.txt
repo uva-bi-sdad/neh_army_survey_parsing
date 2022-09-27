@@ -1,0 +1,2135 @@
+FORMFORM
+  answer_label answer_value raw_counts relative_frequency
+0        S-63C          3.0       3167                1.0
+
+
+
+S63C.Q1 WHAT IS YOUR ARMY RANK OR GRADE?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0         14                0.0
+1                                 PRIVATE          1.0       1344               0.42
+2                     PRIVATE FIRST CLASS          2.0        763               0.24
+3        TECHNICIAN 5TH GRADE OR CORPORAL          3.0        505               0.16
+4        TECHNICIAN 4TH GRADE OR SERGEANT          4.0        317                0.1
+5  TECHNICIAN 3RD GRADE OR STAFF SERGEANT          5.0        154               0.05
+6                      TECHNICAL SERGEANT          6.0         39               0.01
+7       MASTER SERGEANT OR FIRST SERGEANT          7.0         31               0.01
+
+
+
+S63C.Q2 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0         97               0.03
+1   18 YEARS OR YOUNGER          1.0        198               0.06
+2              19 YEARS          2.0        348               0.11
+3                    20          3.0        392               0.12
+4                    21          4.0        298               0.09
+5                    22          5.0        256               0.08
+6                    23          6.0        187               0.06
+7                    24          7.0        186               0.06
+8                    25          8.0        152               0.05
+9           26-29 YEARS          9.0        476               0.15
+10          30-34 YEARS         10.0        361               0.11
+11    35 YEARS AND OVER         11.0        216               0.07
+
+
+
+S63C.Q3 HOW FAR DID YOU GO IN SCHOOL?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0         24               0.01
+1                  LESS THAN 6TH GRADE          1.0        102               0.03
+2                   FINISHED 6TH GRADE          2.0         89               0.03
+3                   FINISHED 7TH GRADE          3.0        177               0.06
+4                   FINISHED 8TH GRADE          4.0        395               0.12
+5  SOME HIGH SCHOOL BUT DID NOT FINISH          5.0        876               0.28
+6           GRADUATED FROM HIGH SCHOOL          6.0       1036               0.33
+7      SOME COLLEGE BUT DID NOT FINISH          7.0        382               0.12
+8               GRADUATED FROM COLLEGE          8.0         86               0.03
+
+
+
+S63C.Q4 IN WHAT STATE OF THE UNITED STATES DID YOU SPEND MOST OF THE LAST FIVE YEARS OF YOUR CIVILIAN LIFE BEFORE YOU CAME INTO THE ARMY? E. SECTION:
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0        299               0.09
+1                  NEW ENGLAND          1.0        214               0.07
+2              MIDDLE ATLANTIC          2.0        667               0.21
+3           EAST NORTH CENTRAL          3.0        582               0.18
+4           WEST NORTH CENTRAL          4.0        372               0.12
+5               SOUTH ATLANTIC          5.0        282               0.09
+6           EAST SOUTH CENTRAL          6.0        177               0.06
+7           WEST SOUTH CENTRAL          7.0        301                0.1
+8                     MOUNTAIN          8.0         78               0.02
+9                      PACIFIC          9.0        183               0.06
+10   FOREIGN - U.S. POSSESSION         10.0          1                0.0
+11  U.S. - STATE NOT SPECIFIED         12.0         11                0.0
+
+
+
+S63C.Q5 WHERE WERE YOU LIVING MOST OF THE LAST FIVE YEARS OF YOUR CIVILIAN LIFE BEFORE YOU CAME INTO THE ARMY?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                NO CODE OR NO DATA          0.0          4                0.0
+1                       ON A FARM OR IN THE COUNTRY          1.0        606               0.19
+2         IN A SMALL TOWN (FEWER THAN 2,500 PEOPLE)          2.0        355               0.11
+3  IN A TOWN (WITH BETWEEN 2,500 AND 25,000 PEOPLE)          3.0        599               0.19
+4     IN A CITY (BETWEEN 25,000 AND 100,000 PEOPLE)          4.0        610               0.19
+5        IN A LARGE CITY (MORE THAN 100,000 PEOPLE)          5.0        977               0.31
+6                                         NO ANSWER          6.0         16               0.01
+
+
+
+S63C.Q6.x ARE YOU SINGLE, MARRIED, DIVORCED OR SEPARATED, OR WIDOWED? F. IF MARRIED:  Q.7. WERE YOU MARRIED BEFORE OR AFTER ENTERING THE ARMY?
+                       answer_label answer_value raw_counts relative_frequency
+0                         NO ANSWER          0.0         15                0.0
+1                            SINGLE          1.0       2053               0.65
+2             DIVORCED OR SEPARATED          2.0         80               0.03
+3                           WIDOWED          3.0          7                0.0
+4  MARRIED BEFORE ENTERING THE ARMY          4.0        764               0.24
+5   MARRIED AFTER ENTERING THE ARMY          5.0        248               0.08
+
+
+
+S63C.Q8 HOW MANY CHILDREN DO YOU HAVE?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         35               0.01
+1               HAVE ONE CHILD          1.0        286               0.09
+2            HAVE TWO CHILDREN          2.0         60               0.02
+3  HAVE THREE OR MORE CHILDREN          3.0         26               0.01
+4             HAVE NO CHILDREN          4.0        712               0.22
+5              I'M NOT MARRIED          5.0       2048               0.65
+
+
+
+S63C.Q9 IS YOUR WIFE NOW EXPECTING A BABY?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         58               0.02
+1              YES          1.0        163               0.05
+2               NO          2.0        868               0.27
+3  I'M NOT MARRIED          3.0       2078               0.66
+
+
+
+S63C.Q10 HOW DID YOU COME INTO THE ARMY?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         29               0.01
+1                I WAS DRAFTED          1.0       2425               0.77
+2                I VOLUNTEERED          2.0        674               0.21
+3  I WAS IN THE NATIONAL GUARD          3.0         39               0.01
+
+
+
+S63C.Q11 HOW LONG HAVE YOU BEEN IN THE ARMY? E. IF YOU HAVE BEEN IN THE ARMY BEFORE, THEN WERE OUT FOR A WHILE, JUST CHECK THE LENGTH OF TIME SINCE YOU ENTERED THIS LAST TIME. IF YOU WERE IN THE NATIONAL GUARD, CHECK THE LENGTH OF TIME SINCE YOUR OUTFIT CAME INTO
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         17               0.01
+1              3 MONTHS OR LESS          1.0        260               0.08
+2  OVER 3 MONTHS UP TO 6 MONTHS          2.0        774               0.24
+3  OVER 6 MONTHS UP TO 9 MONTHS          3.0        826               0.26
+4    OVER 9 MONTHS UP TO 1 YEAR          4.0        471               0.15
+5     OVER 1 YEAR UP TO 2 YEARS          5.0        547               0.17
+6                  OVER 2 YEARS          6.0        272               0.09
+
+
+
+S63C.Q12 HAS THE ARMY CLASSIFIED YOU AS A LIMITED SERVICE MAN?
+                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                  NO ANSWER          0.0         34               0.01
+1                         YES, THE ARMY HAS CLASSIFIED ME AS LIMITED SERVICE          1.0        335               0.11
+2                      NO, THE ARMY HAS NOT CLASSIFIED ME AS LIMITED SERVICE          2.0       2469               0.78
+3  I DON'T KNOW WHETHER THE ARMY HAS CLASSIFIED ME AS LIMITED SERVICE OR NOT          3.0        329                0.1
+
+
+
+S63C.Q14 WHAT KIND OF WORK WOULD YOU LIKE TO DO AFTER THE WAR?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0         60               0.02
+1  SAME AS I DID BEFORE ENTERING THE ARMY          1.0       1688               0.53
+2                 SOME OTHER KIND OF WORK          2.0        705               0.22
+3                               UNDECIDED          3.0        714               0.23
+
+
+
+S63C.Q15 HOW MANY YEARS WAS IT BETWEEN THE TIME YOU LEFT FULL-TIME SCHOOL AND THE TIME YOU CAME INTO THE ARMY?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0         36               0.01
+1                            1 YEAR OR LESS          1.0        267               0.08
+2                 OVER 1 YEAR UP TO 2 YEARS          2.0        371               0.12
+3                OVER 2 YEARS UP TO 3 YEARS          3.0        347               0.11
+4                OVER 3 YEARS UP TO 4 YEARS          4.0        309                0.1
+5                OVER 4 YEARS UP TO 5 YEARS          5.0        310                0.1
+6                              OVER 5 YEARS          6.0       1312               0.41
+7  I CAME INTO THE ARMY RIGHT OUT OF SCHOOL          7.0        215               0.07
+
+
+
+S63C.Q16A IF YOU COULD DO WHAT YOU WANTED, WOULD YOU LIKE TO GO BACK TO FULL-TIME SCHOOL OR COLLEGE AFTER THE WAR?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         66               0.02
+1          YES          1.0       1245               0.39
+2           NO          2.0       1322               0.42
+3    UNDECIDED          3.0        534               0.17
+
+
+
+S63C.Q17A REGARDLESS OF WHAT YOU WANT TO DO, DO YOU THINK YOU WILL ACTUALLY GO BACK TO FULL-TIME SCHOOL OR COLLEGE AFTER THE WAR?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         60               0.02
+1          YES          1.0        299               0.09
+2           NO          2.0       2259               0.71
+3    UNDECIDED          3.0        549               0.17
+
+
+
+S63C.Q19 HOW LONG HAVE YOU BEEN IN THE CAMP WHERE YOU ARE NOW STATIONED?
+                   answer_label answer_value raw_counts relative_frequency
+0            NO CODE OR NO DATA          0.0          4                0.0
+1              3 MONTHS OR LESS          1.0        932               0.29
+2  OVER 3 MONTHS UP TO 6 MONTHS          2.0       1033               0.33
+3  OVER 6 MONTHS UP TO 9 MONTHS          3.0        670               0.21
+4    OVER 9 MONTHS UP TO 1 YEAR          4.0        209               0.07
+5                   OVER 1 YEAR          5.0        312                0.1
+6                     NO ANSWER          6.0          7                0.0
+
+
+
+S63C.Q20 WHAT BRANCH OF THE ARMY ARE YOU IN NOW?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0         21               0.01
+1                           ENGINEERS          1.0        196               0.06
+2                     FIELD ARTILLERY          2.0        249               0.08
+3                 QUARTERMASTER CORPS          3.0        222               0.07
+4                            INFANTRY          4.0        451               0.14
+5                  MEDICAL DEPARTMENT          5.0        357               0.11
+6                       ARMORED FORCE          6.0        156               0.05
+7                        SIGNAL CORPS          7.0        122               0.04
+8   COAST ARTILLERY AND ANTI-AIRCRAFT          8.0        247               0.08
+9                           AIR CORPS          9.0        730               0.23
+10               TRANSPORTATION CORPS         10.0         23               0.01
+11                ORDNANCE DEPARTMENT         11.0        187               0.06
+12           CHEMICAL WARFARE SERVICE         12.0         31               0.01
+13                    MILITARY POLICE         13.0        114               0.04
+14                            CAVALRY         14.0         35               0.01
+15                            FINANCE         15.0          2                0.0
+16                              OTHER         16.0         24               0.01
+
+
+
+S63C.Q21 IF YOU HAD A CHOICE WHICH ONE OF THESE BRANCHES OF THE ARMY WOULD YOU LIKE TO BE IN?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0         81               0.03
+1                           ENGINEERS          1.0        167               0.05
+2                     FIELD ARTILLERY          2.0         96               0.03
+3                 QUARTERMASTER CORPS          3.0        274               0.09
+4                            INFANTRY          4.0         82               0.03
+5                  MEDICAL DEPARTMENT          5.0        133               0.04
+6                       ARMORED FORCE          6.0         71               0.02
+7                        SIGNAL CORPS          7.0        117               0.04
+8   COAST ARTILLERY AND ANTI-AIRCRAFT          8.0        169               0.05
+9                           AIR CORPS          9.0       1429               0.45
+10               TRANSPORTATION CORPS         10.0        130               0.04
+11                ORDNANCE DEPARTMENT         11.0        241               0.08
+12           CHEMICAL WARFARE SERVICE         12.0         30               0.01
+13                    MILITARY POLICE         13.0        135               0.04
+14                            CAVALRY         14.0          5                0.0
+15                            FINANCE         15.0          2                0.0
+16                              OTHER         16.0          5                0.0
+
+
+
+S63C.Q22 ABOUT HOW OFTEN DO YOU GO TO ANY TOWN OR CITY SINCE YOU'VE BEEN IN THIS CAMP?
+                        answer_label answer_value raw_counts relative_frequency
+0                          NO ANSWER          0.0         16               0.01
+1            ONCE EVERY 2 OR 3 WEEKS          1.0        714               0.23
+2                        ONCE A WEEK          2.0        759               0.24
+3                       TWICE A WEEK          3.0        453               0.14
+4         THREE OR MORE TIMES A WEEK          4.0        321                0.1
+5             LESS THAN ONCE A MONTH          5.0        262               0.08
+6                       ONCE A MONTH          6.0        312                0.1
+7                              NEVER          7.0        164               0.05
+8  I LIVE OFF POST IN A TOWN OR CITY          8.0        166               0.05
+
+
+
+S63C.Q23 DO YOU FEEL PROUD OF YOUR COMPANY (BATTERY, SQUADRON, TROOP)?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0         30               0.01
+1    YES, VERY PROUD          1.0       1272                0.4
+2  YES, FAIRLY PROUD          2.0        989               0.31
+3      NO, NOT PROUD          3.0        534               0.17
+4          UNDECIDED          4.0        342               0.11
+
+
+
+S63C.Q24 HOW INTERESTED ARE YOU IN YOUR ARMY JOB?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0         39               0.01
+1   VERY MUCH INTERESTED          1.0       1639               0.52
+2  A LITTLE BUT NOT MUCH          2.0       1065               0.34
+3  NOT INTERESTED AT ALL          3.0        424               0.13
+
+
+
+S63C.Q25 WOULD YOU CHANGE TO SOME OTHER ARMY JOB IF GIVEN A CHANCE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         24               0.01
+1          YES          1.0       1973               0.62
+2           NO          2.0        853               0.27
+3    UNDECIDED          3.0        317                0.1
+
+
+
+S63C.Q26 DO YOU USUALLY FEEL THAT WHAT YOU ARE DOING IN THE ARMY IS WORTHWHILE OR NOT?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0         28               0.01
+1      I USUALLY FEEL IT IS WORTHWHILE          1.0       1968               0.62
+2  I USUALLY FEEL IT IS NOT WORTHWHILE          2.0        805               0.25
+3                            UNDECIDED          3.0        366               0.12
+
+
+
+S63C.Q27 DO YOU THINK YOU CAN MAKE GOOD IN THE ARMY?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0         27               0.01
+1  I FEEL PRETTY SURE I CAN MAKE GOOD          1.0       2143               0.68
+2    I AM NOT SO SURE I CAN MAKE GOOD          2.0        734               0.23
+3                           UNDECIDED          3.0        263               0.08
+
+
+
+S63C.Q28 IN GENERAL, WHAT SORT OF A TIME DO YOU HAVE IN THE ARMY?
+                  answer_label answer_value raw_counts relative_frequency
+0           NO CODE OR NO DATA          0.0          6                0.0
+1    I HAVE A PRETTY GOOD TIME          1.0        882               0.28
+2       IT'S ABOUT FIFTY-FIFTY          2.0       1757               0.55
+3  I HAVE A PRETTY ROTTEN TIME          3.0        504               0.16
+4                    NO ANSWER          4.0         18               0.01
+
+
+
+S63C.Q29 IN GENERAL, HOW WOULD YOU SAY YOU FEEL MOST OF THE TIME, IN GOOD SPIRITS OR IN LOW SPIRITS?
+                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                  NO ANSWER          0.0         17               0.01
+1                                               I AM USUALLY IN GOOD SPIRITS          1.0       1059               0.33
+2  I AM IN GOOD SPIRITS SOME OF THE TIME AND IN LOW SPIRITS SOME OF THE TIME          2.0       1701               0.54
+3                                                I AM USUALLY IN LOW SPIRITS          3.0        390               0.12
+
+
+
+S63C.Q30 ARE YOU EVER WORRIED AND UPSET?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0         20               0.01
+1  I AM HARDLY EVER WORRIED AND UPSET          1.0       1112               0.35
+2    I AM SOMETIMES WORRIED AND UPSET          2.0       1511               0.48
+3        I AM OFTEN WORRIED AND UPSET          3.0        524               0.17
+
+
+
+S63C.Q31 IF IT WERE UP TO YOU, WHAT KIND OF OUTFIT WOULD YOU RATHER BE IN?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                         NO ANSWER          0.0         85               0.03
+1                       IN A COMBAT OUTFIT OVERSEAS          1.0       1430               0.45
+2                   IN A NON-COMBAT OUTFIT OVERSEAS          2.0        458               0.14
+3  IN AN OUTFIT THAT WILL STAY IN THE UNITED STATES          3.0       1194               0.38
+
+
+
+S63C.Q32 IF IT WERE UP TO YOU TO CHOOSE, DO YOU THINK YOU COULD DO MORE FOR YOUR COUNTRY AS A SOLDIER OR AS A WORKER IN A WAR JOB?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         30               0.01
+1     AS A SOLDIER          1.0       1191               0.38
+2  AS A WAR WORKER          2.0       1585                0.5
+3        UNDECIDED          3.0        361               0.11
+
+
+
+S63C.Q33 DO YOU HAVE TROUBLE FINDING INTERESTING THINGS TO DO IN YOUR OFF-DUTY FREE TIME?
+       answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER          0.0         52               0.02
+1  MOST OF THE TIME          1.0        857               0.27
+2  MUCH OF THE TIME          2.0        487               0.15
+3    NOT VERY OFTEN          3.0       1189               0.38
+4             NEVER          4.0        582               0.18
+
+
+
+S63C.Q34 DURING THE PAST WEEK DID YOUR OUTFIT HAVE ANY SPORTS OR ATHLETIC GAMES AS PART OF YOUR REGULAR TRAINING DURING DUTY HOURS? DO NOT INCLUDE CALISTHENICS AND EXERCISES.
+                                                    answer_label answer_value raw_counts relative_frequency
+0                                                      NO ANSWER          0.0         32               0.01
+1                                                      YES, ONCE          1.0        490               0.15
+2                                                     YES, TWICE          2.0        191               0.06
+3                                       YES, THREE OR FOUR TIMES          3.0        160               0.05
+4                                          YES, ALMOST EVERY DAY          4.0        230               0.07
+5  NO, NO SPORTS OR ATHLETIC GAMES DURING TRAINING OR DUTY HOURS          5.0       1839               0.58
+6                                                     DON'T KNOW          6.0        225               0.07
+
+
+
+S63C.Q35 DURING THE PAST WEEK ABOUT HOW MUCH DUTY TIME OR TRAINING TIME DID YOU SPEND TAKING PART IN SPORTS OR ATHLETIC GAMES?
+                                                    answer_label answer_value raw_counts relative_frequency
+0                                                      NO ANSWER          0.0         25               0.01
+1                                              LESS THAN AN HOUR          1.0        108               0.03
+2                                                 ABOUT ONE HOUR          2.0        162               0.05
+3                                                ABOUT TWO HOURS          3.0        221               0.07
+4                                      ABOUT THREE OR FOUR HOURS          4.0        170               0.05
+5                                        ABOUT FIVE OR SIX HOURS          5.0         82               0.03
+6                                      ABOUT SEVEN OR MORE HOURS          6.0         52               0.02
+7                                                    NONE AT ALL          7.0       1811               0.57
+8  I WAS OFF REGULAR DUTY OR TRAINING ONE OR MORE DAYS LAST WEEK          8.0        464               0.15
+9                                               I DON'T REMEMBER          9.0         72               0.02
+
+
+
+S63C.Q36 DURING THE PAST WEEK ON HOW MANY DAYS DID YOU TAKE PART IN ANY SPORTS OR ATHLETIC GAMES DURING YOUR OFF-DUTY FREE TIME?
+                                                   answer_label answer_value raw_counts relative_frequency
+0                                                     NO ANSWER          0.0         28               0.01
+1                                                       ONE DAY          1.0        517               0.16
+2                                                      TWO DAYS          2.0        288               0.09
+3                                            THREE OR FOUR DAYS          3.0        187               0.06
+4                                              ALMOST EVERY DAY          4.0        145               0.05
+5                                                    NOT AT ALL          5.0       1655               0.52
+6  I WAS AWAY FROM MY REGULAR OUTFIT ONE OR MORE DAYS LAST WEEK          6.0        347               0.11
+
+
+
+S63C.Q37 DURING THE PAST WEEK HOW MUCH OF YOUR OFF-DUTY FREE TIME DID YOU SPEND TAKING PART IN SPORTS OR ATHLETIC GAMES?
+                                                   answer_label answer_value raw_counts relative_frequency
+0                                                     NO ANSWER          0.0         35               0.01
+1                                             LESS THAN AN HOUR          1.0         86               0.03
+2                                                ABOUT ONE HOUR          2.0        200               0.06
+3                                               ABOUT TWO HOURS          3.0        297               0.09
+4                                     ABOUT THREE OR FOUR HOURS          4.0        278               0.09
+5                                       ABOUT FIVE OR SIX HOURS          5.0        118               0.04
+6                                     ABOUT SEVEN OR MORE HOURS          6.0         84               0.03
+7                                                   NONE AT ALL          7.0       1626               0.51
+8  I WAS AWAY FROM MY REGULAR OUTFIT ONE OR MORE DAYS LAST WEEK          8.0        350               0.11
+9                                              I DON'T REMEMBER          9.0         93               0.03
+
+
+
+S63C.Q38A.x IS THERE A REGULAR PROGRAM OF OFF-DUTY SPORTS OR ATHLETIC GAMES IN WHICH THE MEN IN YOUR OUTFIT CAN TAKE PART DURING THEIR FREE TIME? F. IF "YES", ASK:  Q.38B. DO YOU YOURSELF USUALLY TAKE PART IN THIS REGULAR PROGRAM OF OFF-DUTY SPORTS OR ATHLETIC GAMES
+                                                                            answer_label answer_value raw_counts relative_frequency
+0                                                                              NO ANSWER          0.0         17               0.01
+1                                         YES, OFF-DUTY PROGRAM - YES, USUALLY TAKE PART          1.0        546               0.17
+2                                   YES, OFF-DUTY PROGRAM - NO, DO NOT USUALLY TAKE PART          2.0        704               0.22
+3                                              YES, OFF-DUTY PROGRAM, NO ANSWER TO Q.38B          3.0         16               0.01
+4  NO, THERE IS NO OFF-DUTY ATHLETIC PROGRAM IN WHICH THE MEN IN MY OUTFIT CAN TAKE PART          4.0       1530               0.48
+5                                    DON'T KNOW IF THERE IS AN OFF-DUTY ATHLETIC PROGRAM          5.0        354               0.11
+
+
+
+S63C.Q39A1 TENNIS?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0        232               0.07
+1           A LOT          1.0        551               0.17
+2        A LITTLE          2.0       1105               0.35
+3      NOT AT ALL          3.0        302                0.1
+4  NEVER TRIED IT          4.0        977               0.31
+
+
+
+S63C.Q39A2 GOLF?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0        250               0.08
+1           A LOT          1.0        508               0.16
+2        A LITTLE          2.0        726               0.23
+3      NOT AT ALL          3.0        344               0.11
+4  NEVER TRIED IT          4.0       1339               0.42
+
+
+
+S63C.Q39A3 TOUCH FOOTBALL?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0        245               0.08
+1           A LOT          1.0        974               0.31
+2        A LITTLE          2.0       1246               0.39
+3      NOT AT ALL          3.0        366               0.12
+4  NEVER TRIED IT          4.0        336               0.11
+
+
+
+S63C.Q39A4 REGULAR FOOTBALL?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0        211               0.07
+1           A LOT          1.0       1346               0.43
+2        A LITTLE          2.0        867               0.27
+3      NOT AT ALL          3.0        406               0.13
+4  NEVER TRIED IT          4.0        337               0.11
+
+
+
+S63C.Q39A5 BADMINTON?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0        271               0.09
+1           A LOT          1.0        320                0.1
+2        A LITTLE          2.0        690               0.22
+3      NOT AT ALL          3.0        354               0.11
+4  NEVER TRIED IT          4.0       1532               0.48
+
+
+
+S63C.Q39A6 HANDBALL?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0        178               0.06
+1           A LOT          1.0        870               0.27
+2        A LITTLE          2.0       1218               0.38
+3      NOT AT ALL          3.0        317                0.1
+4  NEVER TRIED IT          4.0        584               0.18
+
+
+
+S63C.Q39B1 VOLLEYBALL?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0        228               0.07
+1           A LOT          1.0        978               0.31
+2        A LITTLE          2.0       1304               0.41
+3      NOT AT ALL          3.0        371               0.12
+4  NEVER TRIED IT          4.0        286               0.09
+
+
+
+S63C.Q39B2 PING PONG (TABLE TENNIS)?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0        235               0.07
+1           A LOT          1.0        936                0.3
+2        A LITTLE          2.0       1397               0.44
+3      NOT AT ALL          3.0        390               0.12
+4  NEVER TRIED IT          4.0        209               0.07
+
+
+
+S63C.Q39B3 BASEBALL?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0        181               0.06
+1           A LOT          1.0       1662               0.52
+2        A LITTLE          2.0        982               0.31
+3      NOT AT ALL          3.0        291               0.09
+4  NEVER TRIED IT          4.0         51               0.02
+
+
+
+S63C.Q39B4 SOFTBALL?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0        199               0.06
+1           A LOT          1.0       1671               0.53
+2        A LITTLE          2.0       1030               0.33
+3      NOT AT ALL          3.0        203               0.06
+4  NEVER TRIED IT          4.0         64               0.02
+
+
+
+S63C.Q39B5 BOXING?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0        211               0.07
+1           A LOT          1.0        553               0.17
+2        A LITTLE          2.0       1279                0.4
+3      NOT AT ALL          3.0        723               0.23
+4  NEVER TRIED IT          4.0        401               0.13
+
+
+
+S63C.Q39B6 WRESTLING?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0        234               0.07
+1           A LOT          1.0        391               0.12
+2        A LITTLE          2.0       1123               0.35
+3      NOT AT ALL          3.0        904               0.29
+4  NEVER TRIED IT          4.0        515               0.16
+
+
+
+S63C.Q39C1 SOCCER?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0        280               0.09
+1           A LOT          1.0        341               0.11
+2        A LITTLE          2.0        765               0.24
+3      NOT AT ALL          3.0        465               0.15
+4  NEVER TRIED IT          4.0       1316               0.42
+
+
+
+S63C.Q39C2 TRACK (RACES, JUMPING, ETC.)?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0        252               0.08
+1           A LOT          1.0        556               0.18
+2        A LITTLE          2.0       1149               0.36
+3      NOT AT ALL          3.0        710               0.22
+4  NEVER TRIED IT          4.0        500               0.16
+
+
+
+S63C.Q39C3 BASKETBALL?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0        227               0.07
+1           A LOT          1.0       1238               0.39
+2        A LITTLE          2.0       1066               0.34
+3      NOT AT ALL          3.0        381               0.12
+4  NEVER TRIED IT          4.0        255               0.08
+
+
+
+S63C.Q39C4 HORSESHOE PITCHING?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0        204               0.06
+1           A LOT          1.0        875               0.28
+2        A LITTLE          2.0       1611               0.51
+3      NOT AT ALL          3.0        368               0.12
+4  NEVER TRIED IT          4.0        109               0.03
+
+
+
+S63C.Q39C5 SWIMMING AND DIVING?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0        167               0.05
+1           A LOT          1.0       1914                0.6
+2        A LITTLE          2.0        778               0.25
+3      NOT AT ALL          3.0        158               0.05
+4  NEVER TRIED IT          4.0        150               0.05
+
+
+
+S63C.Q39C6 BOWLING?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0        189               0.06
+1           A LOT          1.0       1565               0.49
+2        A LITTLE          2.0        839               0.26
+3      NOT AT ALL          3.0        154               0.05
+4  NEVER TRIED IT          4.0        420               0.13
+
+
+
+S63C.Q40.1 WHAT ONE SPORT FROM THE LISTS IN QUESTIONS 39A, 39B, 39C DO YOU LIKE BEST TO TAKE PART IN?
+  answer_label answer_value raw_counts relative_frequency
+0       TENNIS          1.0        116               0.04
+1   NOT CHOSEN          2.0       3051               0.96
+
+
+
+S63C.Q40.2WHAT ONE SPORT FROM THE LISTS IN QUESTIONS 39A, 39B, 39C DO YOU LIKE BEST TO TAKE PART IN?
+  answer_label answer_value raw_counts relative_frequency
+0         GOLF          1.0        135               0.04
+1   NOT CHOSEN          2.0       3032               0.96
+
+
+
+S63C.Q40.3WHAT ONE SPORT FROM THE LISTS IN QUESTIONS 39A, 39B, 39C DO YOU LIKE BEST TO TAKE PART IN?
+     answer_label answer_value raw_counts relative_frequency
+0  TOUCH FOOTBALL          1.0         22               0.01
+1      NOT CHOSEN          2.0       3145               0.99
+
+
+
+S63C.Q40.4WHAT ONE SPORT FROM THE LISTS IN QUESTIONS 39A, 39B, 39C DO YOU LIKE BEST TO TAKE PART IN?
+       answer_label answer_value raw_counts relative_frequency
+0  REGULAR FOOTBALL          1.0        369               0.12
+1        NOT CHOSEN          2.0       2798               0.88
+
+
+
+S63C.Q40.5WHAT ONE SPORT FROM THE LISTS IN QUESTIONS 39A, 39B, 39C DO YOU LIKE BEST TO TAKE PART IN?
+  answer_label answer_value raw_counts relative_frequency
+0    BADMINTON          1.0          8                0.0
+1   NOT CHOSEN          2.0       3159                1.0
+
+
+
+S63C.Q40.6WHAT ONE SPORT FROM THE LISTS IN QUESTIONS 39A, 39B, 39C DO YOU LIKE BEST TO TAKE PART IN?
+  answer_label answer_value raw_counts relative_frequency
+0     HANDBALL          1.0         51               0.02
+1   NOT CHOSEN          2.0       3116               0.98
+
+
+
+S63C.Q40.7WHAT ONE SPORT FROM THE LISTS IN QUESTIONS 39A, 39B, 39C DO YOU LIKE BEST TO TAKE PART IN?
+  answer_label answer_value raw_counts relative_frequency
+0  VOLLEY BALL          1.0         73               0.02
+1   NOT CHOSEN          2.0       3094               0.98
+
+
+
+S63C.Q40.8WHAT ONE SPORT FROM THE LISTS IN QUESTIONS 39A, 39B, 39C DO YOU LIKE BEST TO TAKE PART IN?
+  answer_label answer_value raw_counts relative_frequency
+0    PING PONG          1.0         36               0.01
+1   NOT CHOSEN          2.0       3131               0.99
+
+
+
+S63C.Q40.9WHAT ONE SPORT FROM THE LISTS IN QUESTIONS 39A, 39B, 39C DO YOU LIKE BEST TO TAKE PART IN?
+  answer_label answer_value raw_counts relative_frequency
+0     BASEBALL          1.0        591               0.19
+1   NOT CHOSEN          2.0       2576               0.81
+
+
+
+S63C.Q40.10WHAT ONE SPORT FROM THE LISTS IN QUESTIONS 39A, 39B, 39C DO YOU LIKE BEST TO TAKE PART IN?
+  answer_label answer_value raw_counts relative_frequency
+0     SOFTBALL          1.0        217               0.07
+1   NOT CHOSEN          2.0       2950               0.93
+
+
+
+S63C.Q40.11WHAT ONE SPORT FROM THE LISTS IN QUESTIONS 39A, 39B, 39C DO YOU LIKE BEST TO TAKE PART IN?
+  answer_label answer_value raw_counts relative_frequency
+0       BOXING          1.0         97               0.03
+1   NOT CHOSEN          2.0       3070               0.97
+
+
+
+S63C.Q40.12WHAT ONE SPORT FROM THE LISTS IN QUESTIONS 39A, 39B, 39C DO YOU LIKE BEST TO TAKE PART IN?
+  answer_label answer_value raw_counts relative_frequency
+0    WRESTLING          1.0         37               0.01
+1   NOT CHOSEN          2.0       3130               0.99
+
+
+
+S63C.Q40.13WHAT ONE SPORT FROM THE LISTS IN QUESTIONS 39A, 39B, 39C DO YOU LIKE BEST TO TAKE PART IN?
+  answer_label answer_value raw_counts relative_frequency
+0       SOCCER          1.0         21               0.01
+1   NOT CHOSEN          2.0       3146               0.99
+
+
+
+FORM..1FORM.
+  answer_label answer_value raw_counts relative_frequency
+0        S-63C          3.0       3167                1.0
+
+
+
+S63C.Q40.14 WHAT ONE SPORT FROM THE LISTS IN QUESTIONS 39A, 39B, 39C DO YOU LIKE BEST TO TAKE PART IN?
+  answer_label answer_value raw_counts relative_frequency
+0        TRACK          1.0         42               0.01
+1   NOT CHOSEN          2.0       3125               0.99
+
+
+
+S63C.Q40.15WHAT ONE SPORT FROM THE LISTS IN QUESTIONS 39A, 39B, 39C DO YOU LIKE BEST TO TAKE PART IN?
+  answer_label answer_value raw_counts relative_frequency
+0   BASKETBALL          1.0        281               0.09
+1   NOT CHOSEN          2.0       2886               0.91
+
+
+
+S63C.Q40.16WHAT ONE SPORT FROM THE LISTS IN QUESTIONS 39A, 39B, 39C DO YOU LIKE BEST TO TAKE PART IN?
+         answer_label answer_value raw_counts relative_frequency
+0  HORSESHOE PITCHING          1.0         67               0.02
+1          NOT CHOSEN          2.0       3100               0.98
+
+
+
+S63C.Q40.17WHAT ONE SPORT FROM THE LISTS IN QUESTIONS 39A, 39B, 39C DO YOU LIKE BEST TO TAKE PART IN?
+          answer_label answer_value raw_counts relative_frequency
+0  SWIMMING AND DIVING          1.0        640                0.2
+1           NOT CHOSEN          2.0       2527                0.8
+
+
+
+S63C.Q40.18WHAT ONE SPORT FROM THE LISTS IN QUESTIONS 39A, 39B, 39C DO YOU LIKE BEST TO TAKE PART IN?
+  answer_label answer_value raw_counts relative_frequency
+0      BOWLING          1.0        327                0.1
+1   NOT CHOSEN          2.0       2840                0.9
+
+
+
+S63C.Q40.19WHAT ONE SPORT FROM THE LISTS IN QUESTIONS 39A, 39B, 39C DO YOU LIKE BEST TO TAKE PART IN?
+  answer_label answer_value raw_counts relative_frequency
+0        OTHER          1.0         34               0.01
+1   NOT CHOSEN          2.0       3133               0.99
+
+
+
+S63C.Q40.20WHAT ONE SPORT FROM THE LISTS IN QUESTIONS 39A, 39B, 39C DO YOU LIKE BEST TO TAKE PART IN?
+                                                  answer_label answer_value raw_counts relative_frequency
+0  I DON'T LIKE TO TAKE PART IN ANY OF THE SPORTS IN THE LISTS          1.0         41               0.01
+1                                                   NOT CHOSEN          2.0       3126               0.99
+
+
+
+S63C.Q40.21WHAT ONE SPORT FROM THE LISTS IN QUESTIONS 39A, 39B, 39C DO YOU LIKE BEST TO TAKE PART IN?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0        134               0.04
+1   NOT CHOSEN          2.0       3033               0.96
+
+
+
+S63C.Q41 DO YOU HAVE TIME IN THIS CAMP TO TAKE PART IN THE SPORT YOU NAMED IN QUESTION 40?
+                        answer_label answer_value raw_counts relative_frequency
+0                 NO CODE OR NO DATA          0.0          4                0.0
+1                                YES          1.0       1508               0.48
+2                                 NO          2.0       1468               0.46
+3  I DIDN'T NAME A SPORT IN QUESTION          3.0        138               0.04
+4                          NO ANSWER          4.0         49               0.02
+
+
+
+S63C.Q42 IS THERE A PLACE IN THIS CAMP WHERE YOU CAN TAKE PART IN THE SPORT YOU NAMED IN QUESTION 40?
+                        answer_label answer_value raw_counts relative_frequency
+0                          NO ANSWER          0.0         52               0.02
+1              THERE IS A GOOD PLACE          1.0       1025               0.32
+2      THERE IS A PLACE THAT WILL DO          2.0       1007               0.32
+3                  THERE IS NO PLACE          3.0        944                0.3
+4  I DIDN'T NAME A SPORT IN QUESTION          4.0        139               0.04
+
+
+
+S63C.Q43 DO YOU HAVE THE EQUIPMENT YOU NEED TO TAKE PART IN THE SPORT YOU NAMED IN QUESTION 40 - EITHER YOUR OWN EQUIPMENT OR EQUIPMENT YOU CAN GET WHEN YOU WANT IT?
+                        answer_label answer_value raw_counts relative_frequency
+0                          NO ANSWER          0.0         56               0.02
+1                                YES          1.0       1987               0.63
+2                                 NO          2.0        985               0.31
+3  I DIDN'T NAME A SPORT IN QUESTION          3.0        139               0.04
+
+
+
+S63C.Q45 HOW WELL SATISFIED ARE YOU WITH THE CHANCE YOU HAVE AT THIS CAMP TO TAKE PART IN THE SPORT YOU NAMED IN QUESTION 40?
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0        112               0.04
+1    I AM VERY WELL SATISFIED          1.0        566               0.18
+2  I AM PRETTY WELL SATISFIED          2.0        744               0.23
+3  I AM SOMEWHAT DISSATISFIED          3.0        889               0.28
+4      I AM VERY DISSATISFIED          4.0        856               0.27
+
+
+
+S63C.Q46.1 WHAT THREE SPORTS DO YOU THINK ARE THE MOST HELP IN KEEPING A SOLDIER IN FIRST CLASS FIGHTING CONDITION?
+  answer_label answer_value raw_counts relative_frequency
+0     BASEBALL          1.0       1275                0.4
+1   NOT CHOSEN          2.0       1892                0.6
+
+
+
+S63C.Q46.2WHAT THREE SPORTS DO YOU THINK ARE THE MOST HELP IN KEEPING A SOLDIER IN FIRST CLASS FIGHTING CONDITION?
+  answer_label answer_value raw_counts relative_frequency
+0   BASKETBALL          1.0        671               0.21
+1   NOT CHOSEN          2.0       2496               0.79
+
+
+
+S63C.Q46.3WHAT THREE SPORTS DO YOU THINK ARE THE MOST HELP IN KEEPING A SOLDIER IN FIRST CLASS FIGHTING CONDITION?
+  answer_label answer_value raw_counts relative_frequency
+0    BADMINTON          1.0          8                0.0
+1   NOT CHOSEN          2.0       3159                1.0
+
+
+
+S63C.Q46.4WHAT THREE SPORTS DO YOU THINK ARE THE MOST HELP IN KEEPING A SOLDIER IN FIRST CLASS FIGHTING CONDITION?
+  answer_label answer_value raw_counts relative_frequency
+0       BOXING          1.0       1261                0.4
+1   NOT CHOSEN          2.0       1906                0.6
+
+
+
+S63C.Q46.5WHAT THREE SPORTS DO YOU THINK ARE THE MOST HELP IN KEEPING A SOLDIER IN FIRST CLASS FIGHTING CONDITION?
+  answer_label answer_value raw_counts relative_frequency
+0      BOWLING          1.0        221               0.07
+1   NOT CHOSEN          2.0       2946               0.93
+
+
+
+S63C.Q46.6WHAT THREE SPORTS DO YOU THINK ARE THE MOST HELP IN KEEPING A SOLDIER IN FIRST CLASS FIGHTING CONDITION?
+  answer_label answer_value raw_counts relative_frequency
+0    PING PONG          1.0         33               0.01
+1   NOT CHOSEN          2.0       3134               0.99
+
+
+
+S63C.Q46.7WHAT THREE SPORTS DO YOU THINK ARE THE MOST HELP IN KEEPING A SOLDIER IN FIRST CLASS FIGHTING CONDITION?
+  answer_label answer_value raw_counts relative_frequency
+0     SOFTBALL          1.0        273               0.09
+1   NOT CHOSEN          2.0       2894               0.91
+
+
+
+S63C.Q46.8WHAT THREE SPORTS DO YOU THINK ARE THE MOST HELP IN KEEPING A SOLDIER IN FIRST CLASS FIGHTING CONDITION?
+  answer_label answer_value raw_counts relative_frequency
+0       SOCCER          1.0         99               0.03
+1   NOT CHOSEN          2.0       3068               0.97
+
+
+
+S63C.Q46.9WHAT THREE SPORTS DO YOU THINK ARE THE MOST HELP IN KEEPING A SOLDIER IN FIRST CLASS FIGHTING CONDITION?
+  answer_label answer_value raw_counts relative_frequency
+0         GOLF          1.0         63               0.02
+1   NOT CHOSEN          2.0       3104               0.98
+
+
+
+S63C.Q46.10WHAT THREE SPORTS DO YOU THINK ARE THE MOST HELP IN KEEPING A SOLDIER IN FIRST CLASS FIGHTING CONDITION?
+          answer_label answer_value raw_counts relative_frequency
+0  SWIMMING AND DIVING          1.0       1485               0.47
+1           NOT CHOSEN          2.0       1682               0.53
+
+
+
+S63C.Q46.11WHAT THREE SPORTS DO YOU THINK ARE THE MOST HELP IN KEEPING A SOLDIER IN FIRST CLASS FIGHTING CONDITION?
+                            answer_label answer_value raw_counts relative_frequency
+0  REGULAR FOOTBALL (OR JUST "FOOTBALL")          1.0       1344               0.42
+1                             NOT CHOSEN          2.0       1823               0.58
+
+
+
+S63C.Q46.12WHAT THREE SPORTS DO YOU THINK ARE THE MOST HELP IN KEEPING A SOLDIER IN FIRST CLASS FIGHTING CONDITION?
+     answer_label answer_value raw_counts relative_frequency
+0  TOUCH FOOTBALL          1.0         49               0.02
+1      NOT CHOSEN          2.0       3118               0.98
+
+
+
+S63C.Q46.13WHAT THREE SPORTS DO YOU THINK ARE THE MOST HELP IN KEEPING A SOLDIER IN FIRST CLASS FIGHTING CONDITION?
+  answer_label answer_value raw_counts relative_frequency
+0     HANDBALL          1.0        114               0.04
+1   NOT CHOSEN          2.0       3053               0.96
+
+
+
+S63C.Q46.14WHAT THREE SPORTS DO YOU THINK ARE THE MOST HELP IN KEEPING A SOLDIER IN FIRST CLASS FIGHTING CONDITION?
+         answer_label answer_value raw_counts relative_frequency
+0  HORSESHOE PITCHING          1.0         13                0.0
+1          NOT CHOSEN          2.0       3154                1.0
+
+
+
+S63C.Q46.15WHAT THREE SPORTS DO YOU THINK ARE THE MOST HELP IN KEEPING A SOLDIER IN FIRST CLASS FIGHTING CONDITION?
+  answer_label answer_value raw_counts relative_frequency
+0       TENNIS          1.0        214               0.07
+1   NOT CHOSEN          2.0       2953               0.93
+
+
+
+S63C.Q46.16WHAT THREE SPORTS DO YOU THINK ARE THE MOST HELP IN KEEPING A SOLDIER IN FIRST CLASS FIGHTING CONDITION?
+  answer_label answer_value raw_counts relative_frequency
+0        TRACK          1.0        858               0.27
+1   NOT CHOSEN          2.0       2309               0.73
+
+
+
+S63C.Q46.17WHAT THREE SPORTS DO YOU THINK ARE THE MOST HELP IN KEEPING A SOLDIER IN FIRST CLASS FIGHTING CONDITION?
+  answer_label answer_value raw_counts relative_frequency
+0   VOLLEYBALL          1.0        201               0.06
+1   NOT CHOSEN          2.0       2966               0.94
+
+
+
+S63C.Q46.18WHAT THREE SPORTS DO YOU THINK ARE THE MOST HELP IN KEEPING A SOLDIER IN FIRST CLASS FIGHTING CONDITION?
+  answer_label answer_value raw_counts relative_frequency
+0    WRESTLING          1.0        600               0.19
+1   NOT CHOSEN          2.0       2567               0.81
+
+
+
+S63C.Q46.19WHAT THREE SPORTS DO YOU THINK ARE THE MOST HELP IN KEEPING A SOLDIER IN FIRST CLASS FIGHTING CONDITION?
+  answer_label answer_value raw_counts relative_frequency
+0        OTHER          1.0        128               0.04
+1   NOT CHOSEN          2.0       3039               0.96
+
+
+
+S63C.Q46.20WHAT THREE SPORTS DO YOU THINK ARE THE MOST HELP IN KEEPING A SOLDIER IN FIRST CLASS FIGHTING CONDITION?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0        158               0.05
+1   NOT CHOSEN          2.0       3009               0.95
+
+
+
+S63C.Q47A1 TENNIS?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0        212               0.07
+1         A LOT          1.0        762               0.24
+2      A LITTLE          2.0       1477               0.47
+3    NOT AT ALL          3.0        578               0.18
+4  NEVER SAW IT          4.0        138               0.04
+
+
+
+S63C.Q47A2 GOLF?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0        228               0.07
+1         A LOT          1.0        552               0.17
+2      A LITTLE          2.0       1072               0.34
+3    NOT AT ALL          3.0        986               0.31
+4  NEVER SAW IT          4.0        329                0.1
+
+
+
+S63C.Q47A3 TOUCH FOOTBALL?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0        211               0.07
+1         A LOT          1.0        898               0.28
+2      A LITTLE          2.0       1433               0.45
+3    NOT AT ALL          3.0        476               0.15
+4  NEVER SAW IT          4.0        149               0.05
+
+
+
+S63C.Q47A4 REGULAR FOOTBALL?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0        157               0.05
+1         A LOT          1.0       2469               0.78
+2      A LITTLE          2.0        407               0.13
+3    NOT AT ALL          3.0         98               0.03
+4  NEVER SAW IT          4.0         36               0.01
+
+
+
+S63C.Q47A5 BADMINTON?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0        248               0.08
+1         A LOT          1.0        279               0.09
+2      A LITTLE          2.0        859               0.27
+3    NOT AT ALL          3.0        692               0.22
+4  NEVER SAW IT          4.0       1089               0.34
+
+
+
+S63C.Q47A6 HANDBALL?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0        187               0.06
+1         A LOT          1.0        759               0.24
+2      A LITTLE          2.0       1349               0.43
+3    NOT AT ALL          3.0        557               0.18
+4  NEVER SAW IT          4.0        315                0.1
+
+
+
+S63C.Q47B1 VOLLEYBALL?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0        221               0.07
+1         A LOT          1.0        808               0.26
+2      A LITTLE          2.0       1477               0.47
+3    NOT AT ALL          3.0        560               0.18
+4  NEVER SAW IT          4.0        101               0.03
+
+
+
+S63C.Q47B2 PING PONG (TABLE TENNIS)?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0        222               0.07
+1         A LOT          1.0        867               0.27
+2      A LITTLE          2.0       1460               0.46
+3    NOT AT ALL          3.0        575               0.18
+4  NEVER SAW IT          4.0         43               0.01
+
+
+
+S63C.Q47B3 BASEBALL?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0        118               0.04
+1         A LOT          1.0       2448               0.77
+2      A LITTLE          2.0        493               0.16
+3    NOT AT ALL          3.0        104               0.03
+4  NEVER SAW IT          4.0          4                0.0
+
+
+
+S63C.Q47B4 SOFTBALL?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0        180               0.06
+1         A LOT          1.0       1970               0.62
+2      A LITTLE          2.0        870               0.27
+3    NOT AT ALL          3.0        140               0.04
+4  NEVER SAW IT          4.0          7                0.0
+
+
+
+S63C.Q47B5 BOXING?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0        134               0.04
+1         A LOT          1.0       2380               0.75
+2      A LITTLE          2.0        498               0.16
+3    NOT AT ALL          3.0        116               0.04
+4  NEVER SAW IT          4.0         39               0.01
+
+
+
+S63C.Q47B6 WRESTLING?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0        169               0.05
+1         A LOT          1.0       1783               0.56
+2      A LITTLE          2.0        815               0.26
+3    NOT AT ALL          3.0        289               0.09
+4  NEVER SAW IT          4.0        111               0.04
+
+
+
+S63C.Q47C1 SOCCER?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0        257               0.08
+1         A LOT          1.0        541               0.17
+2      A LITTLE          2.0        934               0.29
+3    NOT AT ALL          3.0        490               0.15
+4  NEVER SAW IT          4.0        945                0.3
+
+
+
+S63C.Q47C2 TRACK (RACES, JUMPING, ETC.)?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0        236               0.07
+1         A LOT          1.0       1259                0.4
+2      A LITTLE          2.0       1152               0.36
+3    NOT AT ALL          3.0        344               0.11
+4  NEVER SAW IT          4.0        176               0.06
+
+
+
+S63C.Q47C3 BASKETBALL?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0        194               0.06
+1         A LOT          1.0       2015               0.64
+2      A LITTLE          2.0        786               0.25
+3    NOT AT ALL          3.0        157               0.05
+4  NEVER SAW IT          4.0         15                0.0
+
+
+
+S63C.Q47C4 HORSESHOE PITCHING?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0        205               0.06
+1         A LOT          1.0        807               0.25
+2      A LITTLE          2.0       1504               0.47
+3    NOT AT ALL          3.0        615               0.19
+4  NEVER SAW IT          4.0         36               0.01
+
+
+
+S63C.Q47C5 SWIMMING AND DIVING?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0        148               0.05
+1         A LOT          1.0       2237               0.71
+2      A LITTLE          2.0        682               0.22
+3    NOT AT ALL          3.0         86               0.03
+4  NEVER SAW IT          4.0         14                0.0
+
+
+
+S63C.Q47C6 BOWLING?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0        186               0.06
+1         A LOT          1.0       1585                0.5
+2      A LITTLE          2.0       1117               0.35
+3    NOT AT ALL          3.0        217               0.07
+4  NEVER SAW IT          4.0         62               0.02
+
+
+
+S63C.Q48.1 WHAT THREE SPORTS FROM THE LISTS IN QUESTIONS 47A, 47B, 47C DO YOU LIKE BEST TO WATCH, WHEN GOOD PLAYERS PLAY THEM?
+  answer_label answer_value raw_counts relative_frequency
+0     BASEBALL          1.0       1709               0.54
+1   NOT CHOSEN          2.0       1458               0.46
+
+
+
+S63C.Q48.2WHAT THREE SPORTS FROM THE LISTS IN QUESTIONS 47A, 47B, 47C DO YOU LIKE BEST TO WATCH, WHEN GOOD PLAYERS PLAY THEM?
+  answer_label answer_value raw_counts relative_frequency
+0   BASKETBALL          1.0       1171               0.37
+1   NOT CHOSEN          2.0       1996               0.63
+
+
+
+S63C.Q48.3WHAT THREE SPORTS FROM THE LISTS IN QUESTIONS 47A, 47B, 47C DO YOU LIKE BEST TO WATCH, WHEN GOOD PLAYERS PLAY THEM?
+  answer_label answer_value raw_counts relative_frequency
+0    BADMINTON          1.0         12                0.0
+1   NOT CHOSEN          2.0       3155                1.0
+
+
+
+S63C.Q48.4WHAT THREE SPORTS FROM THE LISTS IN QUESTIONS 47A, 47B, 47C DO YOU LIKE BEST TO WATCH, WHEN GOOD PLAYERS PLAY THEM?
+  answer_label answer_value raw_counts relative_frequency
+0       BOXING          1.0       1101               0.35
+1   NOT CHOSEN          2.0       2066               0.65
+
+
+
+S63C.Q48.5WHAT THREE SPORTS FROM THE LISTS IN QUESTIONS 47A, 47B, 47C DO YOU LIKE BEST TO WATCH, WHEN GOOD PLAYERS PLAY THEM?
+  answer_label answer_value raw_counts relative_frequency
+0      BOWLING          1.0        560               0.18
+1   NOT CHOSEN          2.0       2607               0.82
+
+
+
+S63C.Q48.6WHAT THREE SPORTS FROM THE LISTS IN QUESTIONS 47A, 47B, 47C DO YOU LIKE BEST TO WATCH, WHEN GOOD PLAYERS PLAY THEM?
+  answer_label answer_value raw_counts relative_frequency
+0    PING PONG          1.0         66               0.02
+1   NOT CHOSEN          2.0       3101               0.98
+
+
+
+S63C.Q48.7WHAT THREE SPORTS FROM THE LISTS IN QUESTIONS 47A, 47B, 47C DO YOU LIKE BEST TO WATCH, WHEN GOOD PLAYERS PLAY THEM?
+  answer_label answer_value raw_counts relative_frequency
+0     SOFTBALL          1.0        223               0.07
+1   NOT CHOSEN          2.0       2944               0.93
+
+
+
+S63C.Q48.8WHAT THREE SPORTS FROM THE LISTS IN QUESTIONS 47A, 47B, 47C DO YOU LIKE BEST TO WATCH, WHEN GOOD PLAYERS PLAY THEM?
+  answer_label answer_value raw_counts relative_frequency
+0       SOCCER          1.0         93               0.03
+1   NOT CHOSEN          2.0       3074               0.97
+
+
+
+S63C.Q48.9WHAT THREE SPORTS FROM THE LISTS IN QUESTIONS 47A, 47B, 47C DO YOU LIKE BEST TO WATCH, WHEN GOOD PLAYERS PLAY THEM?
+  answer_label answer_value raw_counts relative_frequency
+0         GOLF          1.0        128               0.04
+1   NOT CHOSEN          2.0       3039               0.96
+
+
+
+S63C.Q48.10WHAT THREE SPORTS FROM THE LISTS IN QUESTIONS 47A, 47B, 47C DO YOU LIKE BEST TO WATCH, WHEN GOOD PLAYERS PLAY THEM?
+          answer_label answer_value raw_counts relative_frequency
+0  SWIMMING AND DIVING          1.0        952                0.3
+1           NOT CHOSEN          2.0       2215                0.7
+
+
+
+S63C.Q48.11WHAT THREE SPORTS FROM THE LISTS IN QUESTIONS 47A, 47B, 47C DO YOU LIKE BEST TO WATCH, WHEN GOOD PLAYERS PLAY THEM?
+                            answer_label answer_value raw_counts relative_frequency
+0  REGULAR FOOTBALL (OR JUST "FOOTBALL")          1.0       1657               0.52
+1                             NOT CHOSEN          2.0       1510               0.48
+
+
+
+S63C.Q48.12WHAT THREE SPORTS FROM THE LISTS IN QUESTIONS 47A, 47B, 47C DO YOU LIKE BEST TO WATCH, WHEN GOOD PLAYERS PLAY THEM?
+     answer_label answer_value raw_counts relative_frequency
+0  TOUCH FOOTBALL          1.0         15                0.0
+1      NOT CHOSEN          2.0       3152                1.0
+
+
+
+S63C.Q48.13WHAT THREE SPORTS FROM THE LISTS IN QUESTIONS 47A, 47B, 47C DO YOU LIKE BEST TO WATCH, WHEN GOOD PLAYERS PLAY THEM?
+  answer_label answer_value raw_counts relative_frequency
+0     HANDBALL          1.0         61               0.02
+1   NOT CHOSEN          2.0       3106               0.98
+
+
+
+S63C.Q48.14WHAT THREE SPORTS FROM THE LISTS IN QUESTIONS 47A, 47B, 47C DO YOU LIKE BEST TO WATCH, WHEN GOOD PLAYERS PLAY THEM?
+         answer_label answer_value raw_counts relative_frequency
+0  HORSESHOE PITCHING          1.0        154               0.05
+1          NOT CHOSEN          2.0       3013               0.95
+
+
+
+S63C.Q48.15WHAT THREE SPORTS FROM THE LISTS IN QUESTIONS 47A, 47B, 47C DO YOU LIKE BEST TO WATCH, WHEN GOOD PLAYERS PLAY THEM?
+  answer_label answer_value raw_counts relative_frequency
+0       TENNIS          1.0        163               0.05
+1   NOT CHOSEN          2.0       3004               0.95
+
+
+
+S63C.Q48.16WHAT THREE SPORTS FROM THE LISTS IN QUESTIONS 47A, 47B, 47C DO YOU LIKE BEST TO WATCH, WHEN GOOD PLAYERS PLAY THEM?
+  answer_label answer_value raw_counts relative_frequency
+0        TRACK          1.0        334               0.11
+1   NOT CHOSEN          2.0       2833               0.89
+
+
+
+S63C.Q48.17WHAT THREE SPORTS FROM THE LISTS IN QUESTIONS 47A, 47B, 47C DO YOU LIKE BEST TO WATCH, WHEN GOOD PLAYERS PLAY THEM?
+  answer_label answer_value raw_counts relative_frequency
+0   VOLLEYBALL          1.0         70               0.02
+1   NOT CHOSEN          2.0       3097               0.98
+
+
+
+S63C.Q48.18WHAT THREE SPORTS FROM THE LISTS IN QUESTIONS 47A, 47B, 47C DO YOU LIKE BEST TO WATCH, WHEN GOOD PLAYERS PLAY THEM?
+  answer_label answer_value raw_counts relative_frequency
+0    WRESTLING          1.0        315                0.1
+1   NOT CHOSEN          2.0       2852                0.9
+
+
+
+S63C.Q48.19WHAT THREE SPORTS FROM THE LISTS IN QUESTIONS 47A, 47B, 47C DO YOU LIKE BEST TO WATCH, WHEN GOOD PLAYERS PLAY THEM?
+  answer_label answer_value raw_counts relative_frequency
+0        OTHER          1.0         56               0.02
+1   NOT CHOSEN          2.0       3111               0.98
+
+
+
+S63C.Q48.20WHAT THREE SPORTS FROM THE LISTS IN QUESTIONS 47A, 47B, 47C DO YOU LIKE BEST TO WATCH, WHEN GOOD PLAYERS PLAY THEM?
+                                           answer_label answer_value raw_counts relative_frequency
+0  I DON'T LIKE TO WATCH ANY OF THE SPORTS IN THE LISTS          1.0         24               0.01
+1                                            NOT CHOSEN          2.0       3143               0.99
+
+
+
+S63C.Q48.21WHAT THREE SPORTS FROM THE LISTS IN QUESTIONS 47A, 47B, 47C DO YOU LIKE BEST TO WATCH, WHEN GOOD PLAYERS PLAY THEM?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0        172               0.05
+1   NOT CHOSEN          2.0       2995               0.95
+
+
+
+FORM..2FORM.
+  answer_label answer_value raw_counts relative_frequency
+0        S-63C          3.0       3167                1.0
+
+
+
+S63C.Q49A.x ARE THERE ANY REGULAR OUTFIT TEAMS OR POST TEAMS IN YOUR CAMP THAT PLAY ANY OF THE SPORTS YOU NAMED IN QUESTION 48? F. IF "YES", ASK:  Q.49B. DO THESE REGULAR OUTFIT TEAMS OR POST TEAMS PLAY OFTEN ENOUGH TO SUIT YOU?
+                                   answer_label answer_value raw_counts relative_frequency
+0                                     NO ANSWER          0.0         63               0.02
+1           YES, TEAMS - YES, PLAY OFTEN ENOUGH          1.0       1216               0.38
+2     YES, TEAMS - NO, DO NOT PLAY OFTEN ENOUGH          2.0        792               0.25
+3                YES, TEAMS, NO ANSWER TO Q.49B          3.0         24               0.01
+4        YES TO PART A, NO SUCH TEAMS TO PART B          4.0        826               0.26
+5  NO, AS FAR AS I KNOW THERE ARE NO SUCH TEAMS          5.0         94               0.03
+6        DON'T KNOW IF THERE ARE ANY SUCH TEAMS          6.0        102               0.03
+7         I DID NOT NAME ANY SPORTS IN QUESTION          7.0         50               0.02
+
+
+
+S63C.Q49C DO YOU HAVE A CHANCE TO WATCH THESE REGULAR OUTFIT TEAMS OR POST TEAMS PLAY ANY OF THE SPORTS YOU NAMED IN QUESTION 48?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0         65               0.02
+1          YES, ALMOST EVERY TIME THEY PLAY          1.0        397               0.13
+2                            YES, SOMETIMES          2.0       1189               0.38
+3                       NO, SELDOM OR NEVER          3.0        732               0.23
+4  AS FAR AS I KNOW THERE ARE NO SUCH TEAMS          4.0        744               0.23
+5     I DID NOT NAME ANY SPORTS IN QUESTION          5.0         40               0.01
+
+
+
+S63C.Q50 DO YOU PLAY ON ANY REGULAR OUTFIT TEAMS OR POST TEAMS IN YOUR CAMP?
+                                                            answer_label answer_value raw_counts relative_frequency
+0                                                              NO ANSWER          0.0         53               0.02
+1                                                                    YES          1.0        304                0.1
+2                                                                     NO          2.0       2249               0.71
+3  AS FAR AS I KNOW THERE ARE NO REGULAR OUTFIT TEAMS OR POST TEAMS HERE          3.0        561               0.18
+
+
+
+S63C.Q51A DO YOU THINK THERE ARE TOO MANY, ABOUT THE RIGHT NUMBER, OR NOT ENOUGH REGULAR OUTFIT TEAMS AND POST TEAMS IN YOUR CAMP?
+                                answer_label answer_value raw_counts relative_frequency
+0                                  NO ANSWER          0.0        136               0.04
+1                   THERE ARE TOO MANY TEAMS          1.0         30               0.01
+2  THERE ARE ABOUT THE RIGHT NUMBER OF TEAMS          2.0        728               0.23
+3                 THERE ARE NOT ENOUGH TEAMS          3.0       1606               0.51
+4                                  UNDECIDED          4.0        667               0.21
+
+
+
+S63C.Q52 DOES YOUR OUTFIT HAVE ENOUGH ATHLETIC EQUIPMENT FOR THE SPORTS YOU WANT TO PLAY?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         72               0.02
+1           YES, WE HAVE ENOUGH          1.0       1246               0.39
+2      NO, WE DON'T HAVE ENOUGH          2.0        658               0.21
+3  NO, WE DON'T HAVE ANY AT ALL          3.0        222               0.07
+4  I'M NOT INTERESTED IN SPORTS          4.0         87               0.03
+5                    DON'T KNOW          5.0        882               0.28
+
+
+
+S63C.Q53 DO YOU THINK THE ATHLETIC EQUIPMENT YOUR OUTFIT NOW HAS IS GOOD, FAIR, OR POOR?
+                                   answer_label answer_value raw_counts relative_frequency
+0                                     NO ANSWER          0.0         63               0.02
+1                   I THINK IT'S GOOD EQUIPMENT          1.0       1008               0.32
+2                   I THINK IT'S FAIR EQUIPMENT          2.0       1196               0.38
+3                   I THINK IT'S POOR EQUIPMENT          3.0        275               0.09
+4                                    DON'T KNOW          4.0        462               0.15
+5  SO FAR AS I KNOW WE DON'T HAVE ANY EQUIPMENT          5.0        163               0.05
+
+
+
+S63C.Q54A "THERE OUGHT TO BE ENOUGH TEAMS IN EACH COMPANY SO THAT EVERYONE WHO WANTS TO COULD HAVE A CHANCE TO PLAY?"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         98               0.03
+1        AGREE          1.0       2882               0.91
+2     DISAGREE          2.0        143               0.05
+3   DON'T KNOW          3.0         44               0.01
+
+
+
+S63C.Q54B "MOST OUTFITS HAVE TOO MANY SPORTS AND ATHLETIC GAMES WHICH BREAK INTO THE MEN'S FREE TIME?"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        122               0.04
+1        AGREE          1.0        589               0.19
+2     DISAGREE          2.0       2202                0.7
+3   DON'T KNOW          3.0        254               0.08
+
+
+
+S63C.Q54C "PERSONALLY I'D RATHER DO OTHER THINGS THAN TAKE PART IN SPORTS AND ATHLETIC GAMES DURING MY OFF-DUTY FREE TIME?"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        133               0.04
+1        AGREE          1.0       1427               0.45
+2     DISAGREE          2.0       1415               0.45
+3   DON'T KNOW          3.0        192               0.06
+
+
+
+S63C.Q54D "COMPANY ATHLETIC TEAMS ARE A BIG HELP IN BUILDING UP A SPIRIT OF LOYALTY TO THE OUTFIT?"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        134               0.04
+1        AGREE          1.0       2753               0.87
+2     DISAGREE          2.0        160               0.05
+3   DON'T KNOW          3.0        120               0.04
+
+
+
+S63C.Q54E "A MAN FORGETS HIS TROUBLES IF HE CAN TAKE PART IN SOME SPORT OR ATHLETIC GAME?"
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          6                0.0
+1               AGREE          1.0       2612               0.82
+2            DISAGREE          2.0        310                0.1
+3          DON'T KNOW          3.0        110               0.03
+4           NO ANSWER          4.0        129               0.04
+
+
+
+S63C.Q54F "NO MATTER HOW WORN OUT A MAN IS, HE FORGETS IT WHEN HE IS PLAYING SOME SPORT OR ATHLETIC GAME?"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        117               0.04
+1        AGREE          1.0       1796               0.57
+2     DISAGREE          2.0       1068               0.34
+3   DON'T KNOW          3.0        186               0.06
+
+
+
+S63C.Q54G "SPORTS AND ATHLETIC GAMES ARE A BIG HELP IN GETTING MEN READY FOR COMBAT?"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        130               0.04
+1        AGREE          1.0       2851                0.9
+2     DISAGREE          2.0        107               0.03
+3   DON'T KNOW          3.0         79               0.02
+
+
+
+S63C.Q54H "SPORTS AND ATHLETIC GAMES MAY BE FUN BUT THEY HAVE VERY LITTLE TO DO WITH WINNING THE WAR?"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        131               0.04
+1        AGREE          1.0        470               0.15
+2     DISAGREE          2.0       2431               0.77
+3   DON'T KNOW          3.0        135               0.04
+
+
+
+S63C.Q54I "MOST MEN ARE BETTER SATISFIED WITH ARMY LIFE IF THEY HAVE A CHANCE TO TAKE PART IN SPORTS?"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        126               0.04
+1        AGREE          1.0       2535                0.8
+2     DISAGREE          2.0        329                0.1
+3   DON'T KNOW          3.0        177               0.06
+
+
+
+S63C.Q55 HOW IMPORTANT IS IT TO YOU PERSONALLY TO HAVE A CHANCE TO TAKE PART IN SPORTS OR ATHLETIC GAMES WHILE IN THE ARMY?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0         70               0.02
+1     IT IS ABSOLUTELY NECESSARY          1.0        322                0.1
+2      IT IS OF GREAT IMPORTANCE          2.0        940                0.3
+3     IT IS OF MEDIUM IMPORTANCE          3.0        971               0.31
+4     IT IS OF LITTLE IMPORTANCE          4.0        564               0.18
+5  IT IS OF NO IMPORTANCE AT ALL          5.0        300               0.09
+
+
+
+S63C.Q56 HOW IMPORTANT IS IT TO YOU PERSONALLY TO HAVE A CHANCE TO WATCH SPORTS OR ATHLETIC GAMES WHILE IN THE ARMY?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0         73               0.02
+1     IT IS ABSOLUTELY NECESSARY          1.0        233               0.07
+2      IT IS OF GREAT IMPORTANCE          2.0        914               0.29
+3     IT IS OF MEDIUM IMPORTANCE          3.0       1159               0.37
+4     IT IS OF LITTLE IMPORTANCE          4.0        531               0.17
+5  IT IS OF NO IMPORTANCE AT ALL          5.0        257               0.08
+
+
+
+S63C.Q57 IN THE LAST FIVE YEARS BEFORE YOU ENTERED THE ARMY HOW MUCH DID YOU TAKE PART IN SPORTS OR ATHLETIC GAMES?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0         60               0.02
+1  A GREAT DEAL          1.0        996               0.31
+2   QUITE A BIT          2.0       1076               0.34
+3   NOT SO MUCH          3.0        601               0.19
+4   VERY LITTLE          4.0        434               0.14
+
+
+
+S63C.Q58 HOW MANY REGULAR ATHLETIC TEAMS DID YOU PLAY ON DURING THE LAST FIVE YEARS BEFORE YOU ENTERED THE ARMY?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0         70               0.02
+1                 ONE          1.0        419               0.13
+2                 TWO          2.0        570               0.18
+3               THREE          3.0        401               0.13
+4     MORE THAN THREE          4.0        656               0.21
+5                NONE          5.0       1051               0.33
+
+
+
+S63C.Q60A.1 THE ARMY BUYS A LOT OF SMALL GAMES TO BE USED IN SERVICE CLUBS, DAY ROOMS, "REC" HALLS, ETC. THEY WANT TO KNOW WHAT SMALL INDOOR GAMES SOLDIERS LIKE. WHAT TWO GAMES DO YOU LIKE BEST TO PLAY?
+  answer_label answer_value raw_counts relative_frequency
+0        BINGO          1.0        494               0.16
+1   NOT CHOSEN          2.0       2673               0.84
+
+
+
+S63C.Q60A.2THE ARMY BUYS A LOT OF SMALL GAMES TO BE USED IN SERVICE CLUBS, DAY ROOMS, "REC" HALLS, ETC. THEY WANT TO KNOW WHAT SMALL INDOOR GAMES SOLDIERS LIKE. WHAT TWO GAMES DO YOU LIKE BEST TO PLAY?
+  answer_label answer_value raw_counts relative_frequency
+0     CHECKERS          1.0       1452               0.46
+1   NOT CHOSEN          2.0       1715               0.54
+
+
+
+S63C.Q60A.3THE ARMY BUYS A LOT OF SMALL GAMES TO BE USED IN SERVICE CLUBS, DAY ROOMS, "REC" HALLS, ETC. THEY WANT TO KNOW WHAT SMALL INDOOR GAMES SOLDIERS LIKE. WHAT TWO GAMES DO YOU LIKE BEST TO PLAY?
+  answer_label answer_value raw_counts relative_frequency
+0        CHESS          1.0        277               0.09
+1   NOT CHOSEN          2.0       2890               0.91
+
+
+
+S63C.Q60A.4THE ARMY BUYS A LOT OF SMALL GAMES TO BE USED IN SERVICE CLUBS, DAY ROOMS, "REC" HALLS, ETC. THEY WANT TO KNOW WHAT SMALL INDOOR GAMES SOLDIERS LIKE. WHAT TWO GAMES DO YOU LIKE BEST TO PLAY?
+       answer_label answer_value raw_counts relative_frequency
+0  CHINESE CHECKERS          1.0        461               0.15
+1        NOT CHOSEN          2.0       2706               0.85
+
+
+
+S63C.Q60A.5THE ARMY BUYS A LOT OF SMALL GAMES TO BE USED IN SERVICE CLUBS, DAY ROOMS, "REC" HALLS, ETC. THEY WANT TO KNOW WHAT SMALL INDOOR GAMES SOLDIERS LIKE. WHAT TWO GAMES DO YOU LIKE BEST TO PLAY?
+  answer_label answer_value raw_counts relative_frequency
+0     CRIBBAGE          1.0        286               0.09
+1   NOT CHOSEN          2.0       2881               0.91
+
+
+
+S63C.Q60A.6THE ARMY BUYS A LOT OF SMALL GAMES TO BE USED IN SERVICE CLUBS, DAY ROOMS, "REC" HALLS, ETC. THEY WANT TO KNOW WHAT SMALL INDOOR GAMES SOLDIERS LIKE. WHAT TWO GAMES DO YOU LIKE BEST TO PLAY?
+  answer_label answer_value raw_counts relative_frequency
+0        DARTS          1.0        686               0.22
+1   NOT CHOSEN          2.0       2481               0.78
+
+
+
+S63C.Q60A.7THE ARMY BUYS A LOT OF SMALL GAMES TO BE USED IN SERVICE CLUBS, DAY ROOMS, "REC" HALLS, ETC. THEY WANT TO KNOW WHAT SMALL INDOOR GAMES SOLDIERS LIKE. WHAT TWO GAMES DO YOU LIKE BEST TO PLAY?
+  answer_label answer_value raw_counts relative_frequency
+0     DOMINOES          1.0        406               0.13
+1   NOT CHOSEN          2.0       2761               0.87
+
+
+
+S63C.Q60A.8THE ARMY BUYS A LOT OF SMALL GAMES TO BE USED IN SERVICE CLUBS, DAY ROOMS, "REC" HALLS, ETC. THEY WANT TO KNOW WHAT SMALL INDOOR GAMES SOLDIERS LIKE. WHAT TWO GAMES DO YOU LIKE BEST TO PLAY?
+  answer_label answer_value raw_counts relative_frequency
+0     MONOPOLY          1.0        479               0.15
+1   NOT CHOSEN          2.0       2688               0.85
+
+
+
+S63C.Q60A.9THE ARMY BUYS A LOT OF SMALL GAMES TO BE USED IN SERVICE CLUBS, DAY ROOMS, "REC" HALLS, ETC. THEY WANT TO KNOW WHAT SMALL INDOOR GAMES SOLDIERS LIKE. WHAT TWO GAMES DO YOU LIKE BEST TO PLAY?
+        answer_label answer_value raw_counts relative_frequency
+0  TWO OR MORE GAMES          1.0        174               0.05
+1         NOT CHOSEN          2.0       2993               0.95
+
+
+
+S63C.Q60A.10THE ARMY BUYS A LOT OF SMALL GAMES TO BE USED IN SERVICE CLUBS, DAY ROOMS, "REC" HALLS, ETC. THEY WANT TO KNOW WHAT SMALL INDOOR GAMES SOLDIERS LIKE. WHAT TWO GAMES DO YOU LIKE BEST TO PLAY?
+  answer_label answer_value raw_counts relative_frequency
+0        OTHER          1.0        128               0.04
+1   NOT CHOSEN          2.0       3039               0.96
+
+
+
+S63C.Q60A.11THE ARMY BUYS A LOT OF SMALL GAMES TO BE USED IN SERVICE CLUBS, DAY ROOMS, "REC" HALLS, ETC. THEY WANT TO KNOW WHAT SMALL INDOOR GAMES SOLDIERS LIKE. WHAT TWO GAMES DO YOU LIKE BEST TO PLAY?
+                                  answer_label answer_value raw_counts relative_frequency
+0  I DON'T LIKE TO PLAY ANY OF THE ABOVE GAMES          1.0        418               0.13
+1                                   NOT CHOSEN          2.0       2749               0.87
+
+
+
+S63C.Q60A.12 THE ARMY BUYS A LOT OF SMALL GAMES TO BE USED IN SERVICE CLUBS, DAY ROOMS, "REC" HALLS, ETC. THEY WANT TO KNOW WHAT SMALL INDOOR GAMES SOLDIERS LIKE. WHAT TWO GAMES DO YOU LIKE BEST TO PLAY?  82 X. QUESTION 60B NOT CODED.
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0         82               0.03
+1   NOT CHOSEN          2.0       3085               0.97
+
+
+
+S63C.Q61 DURING THE PAST MONTH, ABOUT HOW OFTEN DID YOU GO TO A SERVICE CLUB HERE IN CAMP? (INCLUDE ANY TIMES YOU "JUST DROPPED IN" AS WELL AS THE TIMES YOU STAYED LONGER.)
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0         52               0.02
+1                                   ONLY ONCE          1.0        341               0.11
+2                                   EVERY DAY          2.0        106               0.03
+3                        MORE THAN ONCE A DAY          3.0         51               0.02
+4                        ONCE OR TWICE A WEEK          4.0        692               0.22
+5                  THREE OR FOUR TIMES A WEEK          5.0        350               0.11
+6                    FIVE OR SIX TIMES A WEEK          6.0        149               0.05
+7       ABOUT TWO OR THREE TIMES IN THE MONTH          7.0        669               0.21
+8                                  NOT AT ALL          8.0        618                0.2
+9  THERE IS NO SERVICE CLUB HERE IN THIS CAMP          9.0        139               0.04
+
+
+
+S63C.Q62.1 WHICH OF THE FOLLOWING THINGS HAVE YOU DONE AT THE SERVICE CLUB DURING THE PAST MONTH?
+    answer_label answer_value raw_counts relative_frequency
+0  WROTE LETTERS          1.0       1270                0.4
+1     NOT CHOSEN          2.0       1897                0.6
+
+
+
+S63C.Q62.2WHICH OF THE FOLLOWING THINGS HAVE YOU DONE AT THE SERVICE CLUB DURING THE PAST MONTH?
+   answer_label answer_value raw_counts relative_frequency
+0  PLAYED BINGO          1.0        131               0.04
+1    NOT CHOSEN          2.0       3036               0.96
+
+
+
+S63C.Q62.3WHICH OF THE FOLLOWING THINGS HAVE YOU DONE AT THE SERVICE CLUB DURING THE PAST MONTH?
+                                 answer_label answer_value raw_counts relative_frequency
+0  PLAYED CARDS OR OTHER "SITTING DOWN" GAMES          1.0        234               0.07
+1                                  NOT CHOSEN          2.0       2933               0.93
+
+
+
+S63C.Q62.4WHICH OF THE FOLLOWING THINGS HAVE YOU DONE AT THE SERVICE CLUB DURING THE PAST MONTH?
+                                    answer_label answer_value raw_counts relative_frequency
+0  PLAYED PING-PONG OR OTHER "STANDING UP" GAMES          1.0        505               0.16
+1                                     NOT CHOSEN          2.0       2662               0.84
+
+
+
+S63C.Q62.5WHICH OF THE FOLLOWING THINGS HAVE YOU DONE AT THE SERVICE CLUB DURING THE PAST MONTH?
+                                     answer_label answer_value raw_counts relative_frequency
+0  ATE OR DRANK AT THE SODA FOUNTAIN OR SNACK BAR          1.0       1671               0.53
+1                                      NOT CHOSEN          2.0       1496               0.47
+
+
+
+S63C.Q62.6WHICH OF THE FOLLOWING THINGS HAVE YOU DONE AT THE SERVICE CLUB DURING THE PAST MONTH?
+                                 answer_label answer_value raw_counts relative_frequency
+0  ALL FIVE ITEMS CHECKED ABOVE (COLS. 42-46)          1.0         15                0.0
+1                                  NOT CHOSEN          2.0       3152                1.0
+
+
+
+S63C.Q62.7WHICH OF THE FOLLOWING THINGS HAVE YOU DONE AT THE SERVICE CLUB DURING THE PAST MONTH?
+           answer_label answer_value raw_counts relative_frequency
+0  ATE IN THE CAFETERIA          1.0       1193               0.38
+1            NOT CHOSEN          2.0       1974               0.62
+
+
+
+S63C.Q62.8WHICH OF THE FOLLOWING THINGS HAVE YOU DONE AT THE SERVICE CLUB DURING THE PAST MONTH?
+            answer_label answer_value raw_counts relative_frequency
+0  LISTENED TO THE RADIO          1.0        798               0.25
+1             NOT CHOSEN          2.0       2369               0.75
+
+
+
+S63C.Q62.9WHICH OF THE FOLLOWING THINGS HAVE YOU DONE AT THE SERVICE CLUB DURING THE PAST MONTH?
+                     answer_label answer_value raw_counts relative_frequency
+0  LISTENED TO PHONOGRAPH RECORDS          1.0        649                0.2
+1                      NOT CHOSEN          2.0       2518                0.8
+
+
+
+S63C.Q62.10WHICH OF THE FOLLOWING THINGS HAVE YOU DONE AT THE SERVICE CLUB DURING THE PAST MONTH?
+                    answer_label answer_value raw_counts relative_frequency
+0  GOT A BOOK OUT OF THE LIBRARY          1.0        310                0.1
+1                     NOT CHOSEN          2.0       2857                0.9
+
+
+
+S63C.Q62.11WHICH OF THE FOLLOWING THINGS HAVE YOU DONE AT THE SERVICE CLUB DURING THE PAST MONTH?
+  answer_label answer_value raw_counts relative_frequency
+0  READ A BOOK          1.0        393               0.12
+1   NOT CHOSEN          2.0       2774               0.88
+
+
+
+S63C.Q62.12WHICH OF THE FOLLOWING THINGS HAVE YOU DONE AT THE SERVICE CLUB DURING THE PAST MONTH?
+                                 answer_label answer_value raw_counts relative_frequency
+0  ALL FIVE ITEMS CHECKED ABOVE (COLS. 48-52)          1.0         88               0.03
+1                                  NOT CHOSEN          2.0       3079               0.97
+
+
+
+S63C.Q62.13WHICH OF THE FOLLOWING THINGS HAVE YOU DONE AT THE SERVICE CLUB DURING THE PAST MONTH?
+                      answer_label answer_value raw_counts relative_frequency
+0  PLAYED OR LISTENED TO THE PIANO          1.0        684               0.22
+1                       NOT CHOSEN          2.0       2483               0.78
+
+
+
+S63C.Q62.14WHICH OF THE FOLLOWING THINGS HAVE YOU DONE AT THE SERVICE CLUB DURING THE PAST MONTH?
+                   answer_label answer_value raw_counts relative_frequency
+0  READ A MAGAZINE OR NEWSPAPER          1.0        887               0.28
+1                    NOT CHOSEN          2.0       2280               0.72
+
+
+
+S63C.Q62.15WHICH OF THE FOLLOWING THINGS HAVE YOU DONE AT THE SERVICE CLUB DURING THE PAST MONTH?
+      answer_label answer_value raw_counts relative_frequency
+0  HEARD A CONCERT          1.0        210               0.07
+1       NOT CHOSEN          2.0       2957               0.93
+
+
+
+S63C.Q62.16WHICH OF THE FOLLOWING THINGS HAVE YOU DONE AT THE SERVICE CLUB DURING THE PAST MONTH?
+  answer_label answer_value raw_counts relative_frequency
+0       DANCED          1.0        618                0.2
+1   NOT CHOSEN          2.0       2549                0.8
+
+
+
+S63C.Q62.17WHICH OF THE FOLLOWING THINGS HAVE YOU DONE AT THE SERVICE CLUB DURING THE PAST MONTH?
+               answer_label answer_value raw_counts relative_frequency
+0  MET FRIENDS OR RELATIVES          1.0        598               0.19
+1                NOT CHOSEN          2.0       2569               0.81
+
+
+
+S63C.Q62.18WHICH OF THE FOLLOWING THINGS HAVE YOU DONE AT THE SERVICE CLUB DURING THE PAST MONTH?
+                                 answer_label answer_value raw_counts relative_frequency
+0  ALL FIVE ITEMS CHECKED ABOVE (COLS. 54-58)          1.0         44               0.01
+1                                  NOT CHOSEN          2.0       3123               0.99
+
+
+
+S63C.Q62.19WHICH OF THE FOLLOWING THINGS HAVE YOU DONE AT THE SERVICE CLUB DURING THE PAST MONTH?
+                 answer_label answer_value raw_counts relative_frequency
+0  TOOK PART IN GROUP SINGING          1.0        340               0.11
+1                  NOT CHOSEN          2.0       2827               0.89
+
+
+
+S63C.Q62.20WHICH OF THE FOLLOWING THINGS HAVE YOU DONE AT THE SERVICE CLUB DURING THE PAST MONTH?
+           answer_label answer_value raw_counts relative_frequency
+0  SAW A SHOW OR STUNTS          1.0        486               0.15
+1            NOT CHOSEN          2.0       2681               0.85
+
+
+
+S63C.Q62.21WHICH OF THE FOLLOWING THINGS HAVE YOU DONE AT THE SERVICE CLUB DURING THE PAST MONTH?
+  answer_label answer_value raw_counts relative_frequency
+0  SAW A MOVIE          1.0        466               0.15
+1   NOT CHOSEN          2.0       2701               0.85
+
+
+
+S63C.Q62.22WHICH OF THE FOLLOWING THINGS HAVE YOU DONE AT THE SERVICE CLUB DURING THE PAST MONTH?
+       answer_label answer_value raw_counts relative_frequency
+0  MADE PHONE CALLS          1.0        611               0.19
+1        NOT CHOSEN          2.0       2556               0.81
+
+
+
+S63C.Q62.23WHICH OF THE FOLLOWING THINGS HAVE YOU DONE AT THE SERVICE CLUB DURING THE PAST MONTH?
+                       answer_label answer_value raw_counts relative_frequency
+0  JUST SAT AROUND AND TOOK IT EASY          1.0       1119               0.35
+1                        NOT CHOSEN          2.0       2048               0.65
+
+
+
+S63C.Q62.24WHICH OF THE FOLLOWING THINGS HAVE YOU DONE AT THE SERVICE CLUB DURING THE PAST MONTH?
+     answer_label answer_value raw_counts relative_frequency
+0  SOMETHING ELSE          1.0         74               0.02
+1      NOT CHOSEN          2.0       3093               0.98
+
+
+
+S63C.Q62.25WHICH OF THE FOLLOWING THINGS HAVE YOU DONE AT THE SERVICE CLUB DURING THE PAST MONTH?
+                               answer_label answer_value raw_counts relative_frequency
+0  ALL SIX ITEMS CHECKED ABOVE (COLS 60-65)          1.0          6                0.0
+1                                NOT CHOSEN          2.0       3161                1.0
+
+
+
+S63C.Q62.26WHICH OF THE FOLLOWING THINGS HAVE YOU DONE AT THE SERVICE CLUB DURING THE PAST MONTH?
+                                             answer_label answer_value raw_counts relative_frequency
+0  I DID NOT GO TO THE SERVICE CLUB DURING THE PAST MONTH          1.0        643                0.2
+1                                              NOT CHOSEN          2.0       2524                0.8
+
+
+
+S63C.Q62.27WHICH OF THE FOLLOWING THINGS HAVE YOU DONE AT THE SERVICE CLUB DURING THE PAST MONTH?
+                                 answer_label answer_value raw_counts relative_frequency
+0  THERE IS NO SERVICE CLUB HERE IN THIS CAMP          1.0        138               0.04
+1                                  NOT CHOSEN          2.0       3029               0.96
+
+
+
+S63C.Q62.28WHICH OF THE FOLLOWING THINGS HAVE YOU DONE AT THE SERVICE CLUB DURING THE PAST MONTH?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0         52               0.02
+1   NOT CHOSEN          2.0       3115               0.98
+
+
+
+S63C.Q64 DOES THE SERVICE CLUB YOU USUALLY GO TO IN THIS CAMP HAVE A CAFETERIA RIGHT IN THE SAME BUILDING?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0         72               0.02
+1                                         YES          1.0       2473               0.78
+2                                          NO          2.0        162               0.05
+3                I NEVER GO TO A SERVICE CLUB          3.0        318                0.1
+4  THERE IS NO SERVICE CLUB HERE IN THIS CAMP          4.0        142               0.04
+
+
+
+S63C.Q65 ABOUT HOW OFTEN DID YOU EAT A MEAL AT THE SERVICE CLUB CAFETERIA DURING THE PAST MONTH?
+                                           answer_label answer_value raw_counts relative_frequency
+0                                             NO ANSWER          0.0         55               0.02
+1                                             ONLY ONCE          1.0        448               0.14
+2                                             EVERY DAY          2.0         34               0.01
+3                              MORE THAN ONCE EVERY DAY          3.0         14                0.0
+4                                  ONCE OR TWICE A WEEK          4.0        414               0.13
+5                            THREE OR FOUR TIMES A WEEK          5.0        110               0.03
+6                              FIVE OR SIX TIMES A WEEK          6.0         35               0.01
+7                 ABOUT TWO OR THREE TIMES IN THE MONTH          7.0        599               0.19
+8                                            NOT AT ALL          8.0       1268                0.4
+9  THERE IS NO SERVICE CLUB CAFETERIA HERE IN THIS CAMP          9.0        190               0.06
+
+
+
+S63C.Q66 WHAT DO YOU THINK OF THE FOOD AT THE SERVICE CLUB CAFETERIA?
+                                           answer_label answer_value raw_counts relative_frequency
+0                                             NO ANSWER          0.0         64               0.02
+1                                       IT IS VERY GOOD          1.0        959                0.3
+2                                     IT IS PRETTY GOOD          2.0        972               0.31
+3                                     IT IS NOT SO GOOD          3.0         91               0.03
+4                                             IT IS BAD          4.0         16               0.01
+5                  I NEVER EAT THERE, SO I CAN'T ANSWER          5.0        868               0.27
+6  THERE IS NO SERVICE CLUB CAFETERIA HERE IN THIS CAMP          6.0        197               0.06
+
+
+
+S63C.Q67 IN YOUR OPINION ARE THE PRICES OF FOOD AT THE SERVICE CLUB CAFETERIA HIGHER, ABOUT THE SAME, OR LOWER THAN PRICES FOR THE SAME KIND OF FOOD IN TOWNS NEAR YOUR CAMP?
+                                           answer_label answer_value raw_counts relative_frequency
+0                                             NO ANSWER          0.0        102               0.03
+1                    PRICES ARE HIGHER THAN TOWN PRICES          1.0        110               0.03
+2              PRICES ARE ABOUT THE SAME AS TOWN PRICES          2.0        875               0.28
+3                     PRICES ARE LOWER THAN TOWN PRICES          3.0       1122               0.35
+4  THERE IS NO SERVICE CLUB CAFETERIA HERE IN THIS CAMP          4.0        202               0.06
+5                                            NO OPINION          5.0        756               0.24
+
+
+
+S63C.Q68 WHAT DO YOU THINK OF THE SERVICE AT THE SERVICE CLUB CAFETERIA?
+                                           answer_label answer_value raw_counts relative_frequency
+0                                             NO ANSWER          0.0         66               0.02
+1                                       IT IS VERY GOOD          1.0        668               0.21
+2                                     IT IS PRETTY GOOD          2.0        996               0.31
+3                                     IT IS NOT SO GOOD          3.0        301                0.1
+4                                             IT IS BAD          4.0        166               0.05
+5                  I NEVER EAT THERE, SO I CAN'T ANSWER          5.0        773               0.24
+6  THERE IS NO SERVICE CLUB CAFETERIA HERE IN THIS CAMP          6.0        197               0.06
+
+
+
+S63C.Q69 ABOUT HOW OFTEN DID YOU BUY DRINKS OR ICE CREAM AT THE SERVICE CLUB SODA FOUNTAIN DURING THE PAST MONTH?
+                                              answer_label answer_value raw_counts relative_frequency
+0                                                NO ANSWER          0.0         62               0.02
+1                                                ONLY ONCE          1.0        322                0.1
+2                                                EVERY DAY          2.0        100               0.03
+3                                 MORE THAN ONCE EVERY DAY          3.0         41               0.01
+4                                     ONCE OR TWICE A WEEK          4.0        567               0.18
+5                               THREE OR FOUR TIMES A WEEK          5.0        308                0.1
+6                                 FIVE OR SIX TIMES A WEEK          6.0        157               0.05
+7                    ABOUT TWO OR THREE TIMES IN THE MONTH          7.0        600               0.19
+8                                               NOT AT ALL          8.0        390               0.12
+9            THE SERVICE CLUB DOESN'T HAVE A SODA FOUNTAIN          9.0         67               0.02
+10              THERE IS NO SERVICE CLUB HERE IN THIS CAMP         10.0        132               0.04
+11  I DID NOT GO TO THE SERVICE CLUB DURING THE PAST MONTH         11.0        421               0.13
+
+
+
+S63C.Q70 HOW OFTEN DOES YOUR SERVICE CLUB PUT ON REGULAR DANCES THAT THE MEN IN YOUR OUTFIT CAN GO TO?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0         69               0.02
+1               ONCE EVERY TWO OR THREE WEEKS          1.0        205               0.06
+2                                 ONCE A WEEK          2.0        786               0.25
+3                    TWO OR MORE TIMES A WEEK          3.0        477               0.15
+4                      LESS THAN ONCE A MONTH          4.0        117               0.04
+5                                ONCE A MONTH          5.0        127               0.04
+6                                  NOT AT ALL          6.0        191               0.06
+7  THERE IS NO SERVICE CLUB HERE IN THIS CAMP          7.0        137               0.04
+8                                  DON'T KNOW          8.0       1058               0.33
+
+
+
+S63C.Q71 CONSIDERING EVERYTHING, HOW OFTEN DO YOU THINK YOUR SERVICE CLUB SHOULD HAVE DANCES THAT THE MEN IN YOUR OUTFIT COULD GO TO?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0         76               0.02
+1               ONCE EVERY TWO OR THREE WEEKS          1.0        199               0.06
+2                                 ONCE A WEEK          2.0        960                0.3
+3                    TWO OR MORE TIMES A WEEK          3.0       1161               0.37
+4                      LESS THAN ONCE A MONTH          4.0          9                0.0
+5                                ONCE A MONTH          5.0        100               0.03
+6                                  NOT AT ALL          6.0         50               0.02
+7  THERE IS NO SERVICE CLUB HERE IN THIS CAMP          7.0        137               0.04
+8                                   UNDECIDED          8.0        475               0.15
+
+
+
+S63C.Q73 HOW IMPORTANT IS IT TO YOU PERSONALLY TO HAVE A SERVICE CLUB IN CAMP TO GO TO DURING YOUR OFF-DUTY FREE TIME IN THE ARMY?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0        132               0.04
+1     IT IS ABSOLUTELY NECESSARY          1.0        444               0.14
+2      IT IS OF GREAT IMPORTANCE          2.0        968               0.31
+3     IT IS OF MEDIUM IMPORTANCE          3.0        799               0.25
+4     IT IS OF LITTLE IMPORTANCE          4.0        507               0.16
+5  IT IS OF NO IMPORTANCE AT ALL          5.0        317                0.1
+
+
+
+FORM..3FORM.
+  answer_label answer_value raw_counts relative_frequency
+0        S-63C          3.0       3167                1.0
+
+
+
+S63C.Q76 IS THERE A USO CLUB IN A TOWN OR CITY NEAR YOUR CAMP?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         45               0.01
+1          YES          1.0       2965               0.94
+2           NO          2.0         19               0.01
+3   DON'T KNOW          3.0        138               0.04
+
+
+
+S63C.Q77 SINCE YOU HAVE BEEN IN THIS CAMP, ABOUT HOW OFTEN DO YOU GO TO A USO CLUB IN A TOWN OR CITY NEAR YOUR CAMP?
+                                          answer_label answer_value raw_counts relative_frequency
+0                                            NO ANSWER          0.0         48               0.02
+1                        ONCE EVERY TWO OR THREE WEEKS          1.0        514               0.16
+2                                          ONCE A WEEK          2.0        501               0.16
+3                                         TWICE A WEEK          3.0        190               0.06
+4                           THREE OR MORE TIMES A WEEK          4.0         90               0.03
+5                               LESS THAN ONCE A MONTH          5.0        556               0.18
+6                                         ONCE A MONTH          6.0        424               0.13
+7                                                NEVER          7.0        836               0.26
+8  THERE IS NO USO CLUB IN A TOWN OR CITY NEAR MY CAMP          8.0          8                0.0
+
+
+
+S63C.Q78 ABOUT HOW MANY MILES IS IT FROM YOUR OUTFIT TO THE NEAREST USO CLUB?
+                                           answer_label answer_value raw_counts relative_frequency
+0                                             NO ANSWER          0.0         49               0.02
+1                                       2 MILES OR LESS          1.0        315                0.1
+2                            OVER 2 MILES UP TO 5 MILES          2.0        392               0.12
+3                           OVER 5 MILES UP TO 10 MILES          3.0       1160               0.37
+4                          OVER 10 MILES UP TO 15 MILES          4.0        616               0.19
+5                          OVER 15 MILES UP TO 20 MILES          5.0        264               0.08
+6                          OVER 20 MILES UP TO 25 MILES          6.0         67               0.02
+7                          OVER 25 MILES UP TO 50 MILES          7.0        119               0.04
+8                                         OVER 50 MILES          8.0         18               0.01
+9   THERE IS NO USO CLUB IN A TOWN OR CITY NEAR MY CAMP          9.0          6                0.0
+10                                           DON'T KNOW         10.0        161               0.05
+
+
+
+S63C.Q79 ABOUT HOW LONG DOES IT USUALLY TAKE YOU TO GET FROM YOUR OUTFIT TO THE NEAREST USO CLUB ON WEEKDAYS? E. COUNT THE TIME YOU SPEND WAITING FOR BUS OR TRAIN.
+               answer_label answer_value raw_counts relative_frequency
+0                 NO ANSWER          0.0         89               0.03
+1          ABOUT 15 MINUTES          1.0        302                0.1
+2          ABOUT 30 MINUTES          2.0        862               0.27
+3             ABOUT AN HOUR          3.0        906               0.29
+4  ABOUT AN HOUR AND A HALF          4.0        328                0.1
+5           ABOUT TWO HOURS          5.0        146               0.05
+6       MORE THAN TWO HOURS          6.0         84               0.03
+7                DON'T KNOW          7.0        450               0.14
+
+
+
+S63C.Q80 NOW, ABOUT HOW LONG DOES IT USUALLY TAKE YOU TO GET FROM YOUR OUTFIT TO THE NEAREST USO CLUB ON WEEKENDS AND PAYDAYS? E. COUNT THE TIME YOU SPEND WAITING FOR BUS OR TRAIN.
+               answer_label answer_value raw_counts relative_frequency
+0                 NO ANSWER          0.0         90               0.03
+1          ABOUT 15 MINUTES          1.0        219               0.07
+2          ABOUT 30 MINUTES          2.0        510               0.16
+3             ABOUT AN HOUR          3.0        722               0.23
+4  ABOUT AN HOUR AND A HALF          4.0        424               0.13
+5           ABOUT TWO HOURS          5.0        367               0.12
+6       MORE THAN TWO HOURS          6.0        371               0.12
+7                DON'T KNOW          7.0        464               0.15
+
+
+
+S63C.Q82 HOW IMPORTANT IS IT TO YOU PERSONALLY TO HAVE A USO CLUB OR SOME OTHER CLUB FOR SOLDIERS IN A TOWN OR CITY WHERE YOU CAN GO DURING YOUR OFF-DUTY FREE TIME IN THE ARMY?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0        120               0.04
+1     IT IS ABSOLUTELY NECESSARY          1.0        499               0.16
+2      IT IS OF GREAT IMPORTANCE          2.0       1012               0.32
+3     IT IS OF MEDIUM IMPORTANCE          3.0        738               0.23
+4     IT IS OF LITTLE IMPORTANCE          4.0        478               0.15
+5  IT IS OF NO IMPORTANCE AT ALL          5.0        320                0.1
+
+
+
+S63C.Q83A "THE PEOPLE WHO WORK IN USO CLUBS ARE JUST INTERESTED IN THEIR JOBS AND DON'T CARE ABOUT US?"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        234               0.07
+1        AGREE          1.0        440               0.14
+2     DISAGREE          2.0       2193               0.69
+3   DON'T KNOW          3.0        300               0.09
+
+
+
+S63C.Q83B "THE USO PEOPLE REALLY MAKE A FELLOW FEEL AT HOME?"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        240               0.08
+1        AGREE          1.0       2231                0.7
+2     DISAGREE          2.0        379               0.12
+3   DON'T KNOW          3.0        317                0.1
+
+
+
+S63C.Q83C "THE PEOPLE WHO WORK IN USO CLUBS ARE FINE PEOPLE AND DO A GOOD JOB?"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        265               0.08
+1        AGREE          1.0       2395               0.76
+2     DISAGREE          2.0        229               0.07
+3   DON'T KNOW          3.0        278               0.09
+
+
+
+S63C.Q83D "THE USO PEOPLE ARE ALWAYS TRYING TO GET US TO DO SOMETHING, WHEN ALL WE WANT TO DO IS TAKE IT EASY?"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        261               0.08
+1        AGREE          1.0        603               0.19
+2     DISAGREE          2.0       1954               0.62
+3   DON'T KNOW          3.0        349               0.11
+
+
+
+S63C.Q83E "THE USO PEOPLE PUT IN A LOT OF TIME AND EFFORT TO GIVE US A GOOD TIME?"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        267               0.08
+1        AGREE          1.0       2436               0.77
+2     DISAGREE          2.0        219               0.07
+3   DON'T KNOW          3.0        245               0.08
+
+
+
+S63C.Q83F "THE PEOPLE WHO WORK IN USO CLUBS DON'T MANAGE THEM VERY WELL?"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        277               0.09
+1        AGREE          1.0        320                0.1
+2     DISAGREE          2.0       2215                0.7
+3   DON'T KNOW          3.0        355               0.11
+
+
+
+S63C.Q83G "THE USO PEOPLE ARE TOO GOODY-GOODY TO SUIT ME?"
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        306                0.1
+1        AGREE          1.0        463               0.15
+2     DISAGREE          2.0       2023               0.64
+3   DON'T KNOW          3.0        375               0.12
+
+
+
+S63C.Q86A WHAT A MAN SHOULD KNOW AT RECEPTION CENTER?
+    answer_label answer_value raw_counts relative_frequency
+0      NO ANSWER          0.0        164               0.05
+1      IMPORTANT          1.0       2172               0.69
+2  NOT IMPORTANT          2.0        606               0.19
+3     DON'T KNOW          3.0        225               0.07
+
+
+
+S63C.Q86B WHAT ARMY LIFE IS LIKE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        139               0.04
+1        AGREE          1.0       2590               0.82
+2     DISAGREE          2.0        326                0.1
+3   DON'T KNOW          3.0        112               0.04
+
+
+
+S63C.Q86C HOW THE ARMY IS ORGANIZED?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        157               0.05
+1        AGREE          1.0       2595               0.82
+2     DISAGREE          2.0        281               0.09
+3   DON'T KNOW          3.0        134               0.04
+
+
+
+S63C.Q86D WHAT THE WAR IS ALL ABOUT?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        158               0.05
+1        AGREE          1.0       2712               0.86
+2     DISAGREE          2.0        197               0.06
+3   DON'T KNOW          3.0        100               0.03
+
+
+
+S63C.Q86E KINDS OF JOBS AND DUTIES IN THE ARMY?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        144               0.05
+1        AGREE          1.0       2716               0.86
+2     DISAGREE          2.0        227               0.07
+3   DON'T KNOW          3.0         80               0.03
+
+
+
+S63C.Q86F SEX HYGIENE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        157               0.05
+1        AGREE          1.0       2772               0.88
+2     DISAGREE          2.0        146               0.05
+3   DON'T KNOW          3.0         92               0.03
+
+
+
+S63C.Q86G PHYSICAL CONDITIONING?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        156               0.05
+1        AGREE          1.0       2807               0.89
+2     DISAGREE          2.0        124               0.04
+3   DON'T KNOW          3.0         80               0.03
+
+
+
+S63C.Q86H CLOSE ORDER DRILL?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        174               0.05
+1        AGREE          1.0       1839               0.58
+2     DISAGREE          2.0        906               0.29
+3   DON'T KNOW          3.0        248               0.08
+
+
+
+S63C.Q86I EXTENDED ORDER DRILL?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        188               0.06
+1        AGREE          1.0       1772               0.56
+2     DISAGREE          2.0        919               0.29
+3   DON'T KNOW          3.0        288               0.09
+
+
+
+S63C.Q86J CUSTOMS AND COURTESIES AND INSIGNIA?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        179               0.06
+1        AGREE          1.0       2401               0.76
+2     DISAGREE          2.0        419               0.13
+3   DON'T KNOW          3.0        168               0.05
+
+
+
+S63C.V87 CAMP IDENTIFICATION
+                      answer_label answer_value raw_counts relative_frequency
+0                   CAMP ADAIR, OR          1.0         93               0.03
+1              CAMP ALAMOGORDO, NM          2.0         84               0.03
+2                CAMP BARKELEY, TX          3.0        142               0.04
+3                CAMP BLANDING, FL          4.0        159               0.05
+4                   FORT BRADY, MI          5.0         73               0.02
+5               CAMP CLAIBORNE, LA          6.0         43               0.01
+6                  FORT DEVENS, MA          7.0         72               0.02
+7                   DREW FIELD, FL          8.0        129               0.04
+8                 CAMP EDWARDS, MA          9.0        107               0.03
+9              ELLINGTON FIELD, TX         10.0         51               0.02
+10                CAMP FORREST, TN         11.0         86               0.03
+11                 GOWEN FIELD, ID         12.0         65               0.02
+12                   CAMP HAAN, CA         13.0        114               0.04
+13              HAMILTON FIELD, CA         14.0         90               0.03
+14                FORT JACKSON, SC         15.0        150               0.05
+15          JEFFERSON BARRACKS, MO         16.0         91               0.03
+16                   FORT KNOX, KY         17.0        167               0.05
+17           FORT LEONARD WOOD, MO         18.0        156               0.05
+18                  FORT LEWIS, WA         19.0         92               0.03
+19                 LOWRY FIELD, CO         20.0        111               0.04
+20                 MARCH FIELD, CA         21.0         95               0.03
+21                  CAMP MAXEY, TX         22.0        127               0.04
+22                 CAMP MCCAIN, MS         23.0         84               0.03
+23                   FORT MEAD, SD         24.0         67               0.02
+24  MUNICIPAL AIRPORT, MEMPHIS, TN         25.0         27               0.01
+25  ARMY AIR BASE, NEW ORLEANS, LA         26.0         51               0.02
+26               CAMP PHILLIPS, KS         27.0        114               0.04
+27                   CAMP POLK, LA         28.0        133               0.04
+28                CAMP ROBERTS, CA         29.0        117               0.04
+29                 CAMP SHELBY, MS         30.0         88               0.03
+30              SHEPPARD FIELD, TX         31.0        126               0.04
+31               FORT SHERIDAN, IL         32.0         63               0.02
+
+
+

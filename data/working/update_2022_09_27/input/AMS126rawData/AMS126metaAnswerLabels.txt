@@ -1,0 +1,778 @@
+{
+  "S126.Q1": {
+    "0.0": "NO ANSWER",
+    "1.0": "18-19 YEARS",
+    "2.0": "20-24",
+    "3.0": "25-29",
+    "4.0": "30-34",
+    "5.0": "35 YEARS AND OVER"
+  },
+  "S126.Q2": {
+    "0.0": "NO ANSWER",
+    "1.0": "GRADE OR GRAMMAR SCHOOL",
+    "NaN": "QUESTIONS 3 AND 4 TO BE CODED TOGETHER.",
+    "2.0": "SOME HIGH SCHOOL BUT DID NOT FINISH",
+    "3.0": "GRADUATED FROM HIGH SCHOOL",
+    "4.0": "SOME COLLEGE BUT DID NOT FINISH",
+    "5.0": "GRADUATED FROM COLLEGE"
+  },
+  "S126.Q3.x": {
+    "0.0": "NO ANSWER",
+    "1.0": "SINGLE",
+    "2.0": "DIVORCED OR SEPARATED",
+    "3.0": "WIDOWED",
+    "4.0": "MARRIED BEFORE ENTERING THE ARMY",
+    "5.0": "MARRIED AFTER ENTERING THE ARMY"
+  },
+  "S126.Q5": {
+    "0.0": "NO ANSWER",
+    "1.0": "ON A FARM OR IN THE COUNTRY",
+    "2.0": "IN A SMALL TOWN (FEWER THAN 2,500 PEOPLE)",
+    "3.0": "IN A TOWN (WITH BETWEEN 2,500 AND 25,000 PEOPLE)",
+    "4.0": "IN A CITY (BETWEEN 25,000 AND 100,000 PEOPLE)",
+    "5.0": "IN A LARGE CITY (MORE THAN 100,000 PEOPLE)"
+  },
+  "S126.Q6": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONE STATE",
+    "2.0": "TWO STATES",
+    "3.0": "THREE STATES",
+    "4.0": "FOUR STATES",
+    "5.0": "FIVE OR MORE STATES"
+  },
+  "S126.Q7": {
+    "0.0": "NO ANSWER",
+    "1.0": "3 MONTHS OR LESS",
+    "2.0": "OVER 3 MONTHS UP TO 6 MONTHS",
+    "3.0": "OVER 6 MONTHS UP TO 1 YEAR",
+    "4.0": "OVER 1 YEAR UP TO 2 YEARS",
+    "5.0": "OVER 2 YEARS"
+  },
+  "S126.Q8": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S126.Q9": {
+    "0.0": "NO ANSWER",
+    "1.0": "ENGINEERS",
+    "2.0": "FIELD ARTILLERY",
+    "3.0": "QUARTERMASTER CORPS",
+    "4.0": "INFANTRY",
+    "5.0": "MEDICAL DEPARTMENT",
+    "6.0": "ARMORED COMMAND",
+    "7.0": "SIGNAL CORPS",
+    "8.0": "COAST ARTILLERY AND ANTI-AIRCRAFT",
+    "9.0": "AIR CORPS",
+    "10.0": "TRANSPORTATION CORPS",
+    "11.0": "ORDNANCE DEPARTMENT",
+    "12.0": "CHEMICAL WARFARE SERVICE",
+    "13.0": "MILITARY POLICE"
+  },
+  "S126.Q10": {
+    "0.0": "NO ANSWER",
+    "1.0": "CHOOSES SAME BRANCH: INFANTRY",
+    "2.0": "CHOOSES SAME BRANCH: OTHER FIELD FORCES",
+    "3.0": "CHOOSES SAME BRANCH: SERVICES OF SUPPLY",
+    "4.0": "CHOOSES SAME BRANCH: AIR CORPS",
+    "5.0": "CHOOSES DIFFERENT BRANCH: FIELD FORCES, CHOOSES AIR CORPS",
+    "6.0": "CHOOSES DIFFERENT BRANCH: FIELD FORCES CHOOSES SERVICES OF SUPPLY",
+    "7.0": "CHOOSES DIFFERENT BRANCH: SERVICES OF SUPPLY CHOOSES AIR CORPS",
+    "8.0": "OTHER COMBINATIONS"
+  },
+  "S126.Q11": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONE",
+    "2.0": "TWO",
+    "3.0": "THREE OR MORE",
+    "4.0": "NONE"
+  },
+  "S126.Q12": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONE",
+    "2.0": "TWO",
+    "3.0": "THREE OR MORE",
+    "4.0": "NONE"
+  },
+  "S126.Q13": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONE",
+    "2.0": "TWO",
+    "3.0": "THREE",
+    "4.0": "FOUR",
+    "5.0": "FIVE",
+    "6.0": "SIX OR MORE",
+    "7.0": "NONE"
+  },
+  "S126.Q14": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "I NEVER HAD A JOB"
+  },
+  "S126.Q15": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONCE A WEEK, OR MORE",
+    "2.0": "TWO OR THREE TIMES A MONTH",
+    "3.0": "ABOUT ONCE A MONTH",
+    "4.0": "SEVERAL TIMES A YEAR",
+    "5.0": "ALMOST NEVER"
+  },
+  "S126.Q16": {
+    "0.0": "NO ANSWER",
+    "1.0": "I HAVE A PRETTY GOOD TIME",
+    "2.0": "IT'S ABOUT FIFTY-FIFTY",
+    "3.0": "I HAVE A PRETTY ROTTEN TIME"
+  },
+  "S126.Q17": {
+    "0.0": "NO ANSWER",
+    "1.0": "I FEEL VERY SURE I CAN MAKE GOOD",
+    "2.0": "I THINK I CAN MAKE GOOD, BUT I'M NOT SURE",
+    "3.0": "I DON'T THINK I CAN MAKE GOOD",
+    "4.0": "UNDECIDED"
+  },
+  "S126.Q18": {
+    "0.0": "NO ANSWER",
+    "1.0": "I AM USUALLY IN GOOD SPIRITS",
+    "2.0": "I AM IN GOOD SPIRITS SOME OF THE TIME AND IN LOW SPIRITS SOME OF THE TIME",
+    "3.0": "I AM USUALLY IN LOW SPIRITS"
+  },
+  "S126.Q19": {
+    "0.0": "NO ANSWER",
+    "1.0": "I AM HARDLY EVER WORRIED AND UPSET",
+    "2.0": "I AM SOMETIMES WORRIED AND UPSET",
+    "3.0": "I AM OFTEN WORRIED AND UPSET"
+  },
+  "S126.Q20": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ALMOST NEVER"
+  },
+  "S126.Q21": {
+    "0.0": "NO ANSWER",
+    "1.0": "WORRY A GREAT DEAL",
+    "2.0": "WORRY QUITE A BIT",
+    "3.0": "DON'T WORRY VERY MUCH",
+    "4.0": "DON'T WORRY AT ALL"
+  },
+  "S126.Q22": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "I THINK SO, BUT I'M NOT SURE",
+    "3.0": "NO",
+    "4.0": "UNDECIDED"
+  },
+  "S126.Q23": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "I THINK SO, BUT I'M NOT SURE",
+    "3.0": "NO",
+    "4.0": "UNDECIDED"
+  },
+  "S126.Q24": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT WOULD MAKE A GREAT DEAL OF DIFFERENCE TO ME",
+    "2.0": "IT WOULD MAKE QUITE A BIT OF DIFFERENCE TO ME",
+    "3.0": "IT WOULD NOT MAKE SO MUCH DIFFERENCE TO ME",
+    "4.0": "IT WOULD NOT MAKE ANY DIFFERENCE TO ME"
+  },
+  "S126.Q25": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ONLY ONCE IN A GREAT WHILE",
+    "4.0": "NEVER"
+  },
+  "S126.Q26": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "I THINK SO, BUT I'M NOT SURE",
+    "3.0": "NO",
+    "4.0": "UNDECIDED"
+  },
+  "S126.Q27": {
+    "0.0": "NO ANSWER",
+    "1.0": "IN A COMBAT OUTFIT OVERSEAS",
+    "2.0": "IN A NON-COMBAT OUTFIT OVERSEAS",
+    "3.0": "IN AN OUTFIT THAT WILL STAY IN THE UNITED STATES"
+  },
+  "S126.Q28": {
+    "0.0": "NO ANSWER",
+    "1.0": "AS A SOLDIER",
+    "2.0": "AS A WAR WORKER",
+    "3.0": "UNDECIDED"
+  },
+  "S126.Q29": {
+    "0.0": "NO ANSWER",
+    "1.0": "WOULD CHOOSE TO BE A SOLDIER",
+    "2.0": "WOULD CHOOSE TO BE A CIVILIAN",
+    "3.0": "UNDECIDED"
+  },
+  "S126.Q30": {
+    "0.0": "NO ANSWER",
+    "1.0": "PUNISH THE LEADERS, BUT NOT THE ORDINARY GERMAN",
+    "2.0": "MAKE THE ORDINARY GERMAN PEOPLE SUFFER PLENTY",
+    "3.0": "WIPE OUT THE WHOLE GERMAN NATION"
+  },
+  "S126.Q31": {
+    "0.0": "NO ANSWER",
+    "1.0": "PUNISH THE LEADERS, BUT NOT THE ORDINARY JAPANESE",
+    "2.0": "MAKE THE ORDINARY JAPANESE PEOPLE SUFFER PLENTY",
+    "3.0": "WIPE OUT THE WHOLE JAPANESE NATION"
+  },
+  "S126.Q32A": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL"
+  },
+  "S126.Q32B": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL"
+  },
+  "S126.Q32C": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL"
+  },
+  "S126.Q32D": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL"
+  },
+  "S126.Q32E": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL"
+  },
+  "S126.Q32F": {
+    "0.0": "NO ANSWER",
+    "1.0": "A LOT",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL"
+  },
+  "S126.V32G": {
+    "0.0": "NO ANSWER",
+    "2.0": "ONE \"B\" SPORT AND ONE \"X\" SPORT",
+    "NaN": "SPORTS ARE CLASSIFIED AS \"BLOOD SPORTS\" \\(B\\) OR \"OTHER SPORTS\" \\(X\\). \"BLOOD SPORTS\" INCLUDE: \\(FOOTBALL, BOXING, BASKE",
+    "1.0": "ONE \"B\" SPORT",
+    "3.0": "ONE \"B\" SPORT AND TWO OR MORE \"X\" SPORTS",
+    "4.0": "TWO OR MORE \"B\" SPORTS AND ONE \"X\" SPORT",
+    "5.0": "TWO OR MORE \"B\" SPORTS AND TWO OR MORE \"X\" SPORTS",
+    "6.0": "TWO OR MORE \"B\" SPORTS AND NO \"X\" SPORTS",
+    "7.0": "NO \"B\" SPORT AND ONE \"X\" SPORT",
+    "8.0": "NO \"B\" SPORT AND TWO OR MORE \"X\" SPORTS",
+    "9.0": "NO SPORTS (LITTLE AND NOT AT ALL IN COMBINATION QUESTIONS 32A-32F)"
+  },
+  "S126.Q33": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED"
+  },
+  "S126.Q34": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ALMOST NEVER"
+  },
+  "S126.Q35": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED"
+  },
+  "S126.Q36": {
+    "0.0": "NO ANSWER",
+    "1.0": "REALLY LIKED FIGHTING",
+    "2.0": "DIDN'T PARTICULARLY LIKE OR DISLIKE IT",
+    "3.0": "DIDN'T LIKE FIGHTING AT ALL"
+  },
+  "S126.Q37": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT IS VERY GOOD",
+    "2.0": "IT IS FAIRLY GOOD",
+    "3.0": "IT IS VERY POOR",
+    "4.0": "IT IS POOR",
+    "5.0": "DON'T KNOW"
+  },
+  "S126.Q38": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO",
+    "3.0": "UNDECIDED"
+  },
+  "S126.Q39": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, OFTEN",
+    "2.0": "YES, SOMETIMES",
+    "3.0": "NO, NEVER"
+  },
+  "S126.Q40": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, OFTEN",
+    "2.0": "YES, SOMETIMES",
+    "3.0": "NO, NEVER"
+  },
+  "S126.Q41": {
+    "0.0": "NO ANSWER",
+    "1.0": "NEARLY ALL THE TIME",
+    "2.0": "PRETTY OFTEN",
+    "3.0": "NOT VERY OFTEN",
+    "4.0": "NEVER"
+  },
+  "S126.Q42": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, MANY TIMES",
+    "2.0": "YES, A FEW TIMES",
+    "3.0": "NO, NEVER"
+  },
+  "S126.Q43": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, OFTEN",
+    "2.0": "YES, A FEW TIMES",
+    "3.0": "NO, NEVER"
+  },
+  "S126.Q44": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, SEVERAL TIMES",
+    "2.0": "YES, A FEW TIMES",
+    "3.0": "NEVER HAD ANY"
+  },
+  "S126.Q45": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, OFTEN",
+    "2.0": "YES, A FEW TIMES",
+    "3.0": "NO, NEVER"
+  },
+  "S126.Q46": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, OFTEN",
+    "2.0": "YES, SOMETIMES",
+    "3.0": "NO, NEVER"
+  },
+  "S126.Q47": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, MANY TIMES",
+    "2.0": "YES, A FEW TIMES",
+    "3.0": "NO, NEVER"
+  },
+  "S126.Q48": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ALMOST NEVER"
+  },
+  "S126.Q49": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, OFTEN",
+    "2.0": "YES, SOMETIMES",
+    "3.0": "NO, NEVER"
+  },
+  "S126.Q50": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, OFTEN",
+    "2.0": "YES, SOMETIMES",
+    "3.0": "NO, NEVER"
+  },
+  "S126.Q51": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, OFTEN",
+    "2.0": "YES, SOMETIMES",
+    "3.0": "NO, NEVER"
+  },
+  "S126.Q52": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGE MENTIONED",
+    "2.0": "I STILL BITE MY FINGERNAILS",
+    "3.0": "DON'T KNOW HOW OLD I WAS",
+    "4.0": "NEVER DID BITE MY FINGERNAILS"
+  },
+  "S126.Q53": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, OFTEN",
+    "2.0": "YES, SOMETIMES",
+    "3.0": "NO, NEVER"
+  },
+  "S126.Q54": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY HIGH GRADES",
+    "2.0": "HIGH GRADES",
+    "3.0": "MEDIUM GRADES",
+    "4.0": "LOW GRADES",
+    "5.0": "VERY LOW GRADES"
+  },
+  "S126.Q55": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "REALLY WANTED VERY MUCH TO GO",
+    "2.0": "DIDN'T CARE VERY MUCH WHETHER I WENT TO SCHOOL OR NOT",
+    "3.0": "DID NOT AT ALL WANT TO GO",
+    "4.0": "NO ANSWER"
+  },
+  "S126.Q56": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY OFTEN",
+    "2.0": "SEVERAL TIMES",
+    "3.0": "ONLY ONCE OR TWICE IN ALL THE TIME I WAS IN SCHOOL",
+    "4.0": "NEVER"
+  },
+  "S126.Q57": {
+    "0.0": "NO ANSWER",
+    "1.0": "I USUALLY WENT AROUND BY MYSELF",
+    "2.0": "I USUALLY WENT AROUND WITH JUST ONE OR TWO OTHERS",
+    "3.0": "I USUALLY WENT AROUND WITH A BUNCH OF OTHERS"
+  },
+  "S126.Q58": {
+    "0.0": "NO ANSWER",
+    "1.0": "USUALLY LIKED BETTER TO BE BY MYSELF",
+    "2.0": "USUALLY LIKED BETTER TO BE WITH OTHER PEOPLE",
+    "3.0": "UNDECIDED"
+  },
+  "S126.Q59": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALMOST ALL OF THEM LIKE ME",
+    "2.0": "MOST OF THEM LIKE ME",
+    "3.0": "A FEW OF THEM LIKE ME",
+    "4.0": "ALMOST NONE OF THEM LIKE ME"
+  },
+  "S126.Q60": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY OFTEN",
+    "2.0": "PRETTY OFTEN",
+    "3.0": "NOT SO OFTEN",
+    "4.0": "HARDLY EVER"
+  },
+  "S126.Q61": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY OFTEN FEEL THAT WAY",
+    "2.0": "SOMETIMES FEEL THAT WAY",
+    "3.0": "ALMOST NEVER FEEL THAT WAY"
+  },
+  "S126.Q62": {
+    "0.0": "NO ANSWER",
+    "1.0": "I WORRY A LOT",
+    "2.0": "I WORRY A LITTLE",
+    "3.0": "I DON'T WORRY AT ALL"
+  },
+  "S126.Q63": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ALMOST NEVER"
+  },
+  "S126.Q64": {
+    "0.0": "NO ANSWER",
+    "1.0": "WORRY ABOUT IT VERY OFTEN",
+    "2.0": "WORRY ABOUT IT SOMETIMES",
+    "3.0": "ALMOST NEVER WORRY ABOUT IT"
+  },
+  "S126.Q65": {
+    "0.0": "NO ANSWER",
+    "1.0": "WORRY A GREAT DEAL ABOUT IT",
+    "2.0": "WORRY ABOUT IT FAIRLY OFTEN",
+    "3.0": "HARDLY EVER WORRY ABOUT IT",
+    "4.0": "NEVER WORRY ABOUT IT"
+  },
+  "S126.Q66": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ALMOST NEVER"
+  },
+  "S126.Q67": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ALMOST NEVER"
+  },
+  "S126.Q68": {
+    "0.0": "NO ANSWER",
+    "1.0": "BOTHERS ME A GREAT DEAL",
+    "2.0": "BOTHERS ME SOME",
+    "3.0": "BOTHERS ME VERY LITTLE",
+    "4.0": "DOESN'T BOTHER ME AT ALL"
+  },
+  "S126.Q69": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ALMOST NEVER"
+  },
+  "S126.Q70": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ALMOST NEVER"
+  },
+  "S126.Q71": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ALMOST NEVER"
+  },
+  "S126.Q72": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY OFTEN",
+    "2.0": "SOMETIMES",
+    "3.0": "ALMOST NEVER"
+  },
+  "S126.Q73": {
+    "0.0": "NO ANSWER",
+    "1.0": "I FEEL THAT WAY NEARLY ALL OF THE TIME",
+    "2.0": "I FEEL THAT WAY FAIRLY OFTEN",
+    "3.0": "I FEEL THAT WAY ONLY ONCE IN A WHILE",
+    "4.0": "I ALMOST NEVER FEEL THAT WAY"
+  },
+  "S126.Q74A": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL"
+  },
+  "S126.Q74B": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL"
+  },
+  "S126.Q74C": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL"
+  },
+  "S126.Q74D": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL"
+  },
+  "S126.Q74E": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH",
+    "2.0": "A LITTLE",
+    "3.0": "NOT AT ALL"
+  },
+  "S126.V74F": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "1-2",
+    "2.0": "3-4",
+    "3.0": "5-6",
+    "4.0": "7-8",
+    "5.0": "9-10",
+    "6.0": "11-12",
+    "7.0": "13 AND OVER",
+    "8.0": "NONE"
+  },
+  "S126.V74G": {
+    "1.0": "1-2",
+    "2.0": "3-4",
+    "3.0": "5-9",
+    "4.0": "10-14",
+    "5.0": "15-19",
+    "6.0": "NONE"
+  },
+  "S126.Q75": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO, SEPARATION",
+    "3.0": "NO, DEATH OF FATHER",
+    "4.0": "NO, DEATH OF MOTHER",
+    "5.0": "NO, DIVORCE",
+    "6.0": "NO, DEATH BOTH PARENTS",
+    "7.0": "NO, SOME OTHER REASON",
+    "8.0": "NO, NO ANSWER"
+  },
+  "S126.Q76": {
+    "0.0": "NO ANSWER",
+    "1.0": "STRICTER THAN OTHER PARENTS",
+    "2.0": "ABOUT AS STRICT AS OTHER PARENTS",
+    "3.0": "NOT AS STRICT AS OTHER PARENTS"
+  },
+  "S126.Q77": {
+    "0.0": "NO ANSWER",
+    "1.0": "TOO OFTEN",
+    "2.0": "ABOUT THE RIGHT NUMBER OF TIMES",
+    "3.0": "NOT OFTEN ENOUGH"
+  },
+  "S126.Q78": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALWAYS DESERVED IT",
+    "2.0": "DESERVED IT MOST OF THE TIME",
+    "3.0": "DESERVED IT ABOUT HALF OF THE TIME",
+    "4.0": "OFTEN DID NOT DESERVE IT",
+    "5.0": "HARDLY EVER DESERVED IT"
+  },
+  "S126.Q79": {
+    "0.0": "NO ANSWER",
+    "1.0": "HARDER THAN OTHERS",
+    "2.0": "ABOUT THE SAME AS OTHERS",
+    "3.0": "EASIER THAN OTHERS"
+  },
+  "S126.Q80A": {
+    "0.0": "NO ANSWER",
+    "1.0": "AN OLDER BROTHER OR SISTER WAS THE FAVORITE",
+    "2.0": "A YOUNGER BROTHER OR SISTER WAS THE FAVORITE",
+    "3.0": "I THINK I WAS THE FAVORITE",
+    "4.0": "THERE WERE NO FAVORITES",
+    "5.0": "I WAS THE ONLY CHILD IN MY FAMILY"
+  },
+  "S126.Q80B": {
+    "0.0": "NO ANSWER",
+    "1.0": "AN OLDER BROTHER OR SISTER WAS THE FAVORITE",
+    "2.0": "A YOUNGER BROTHER OR SISTER WAS THE FAVORITE",
+    "3.0": "I THINK I WAS THE FAVORITE",
+    "4.0": "THERE WERE NO FAVORITES",
+    "5.0": "I WAS THE ONLY CHILD IN MY FAMILY"
+  },
+  "S126.Q81": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN 15 YEARS OLD",
+    "2.0": "15 TO 17 YEARS",
+    "3.0": "18 TO 21 YEARS",
+    "4.0": "22 TO 26 YEARS",
+    "5.0": "OVER 26 YEARS OLD",
+    "6.0": "NEVER LIVED AWAY BEFORE I CAME INTO THE ARMY"
+  },
+  "S126.Q82": {
+    "0.0": "NO ANSWER",
+    "1.0": "A YEAR OR MORE",
+    "2.0": "ONE MONTH TO 1 YEAR",
+    "3.0": "OVER 1 WEEK, BUT LESS THAN A MONTH",
+    "4.0": "ONLY A FEW DAYS",
+    "5.0": "LESS THAN 48 HOURS",
+    "6.0": "NEVER AWAY AT ALL"
+  },
+  "S126.Q83": {
+    "0.0": "NO ANSWER",
+    "1.0": "A YEAR OR MORE",
+    "2.0": "ONE MONTH TO 1 YEAR",
+    "3.0": "OVER 1 WEEK, BUT LESS THAN A MONTH",
+    "4.0": "ONLY A FEW DAYS",
+    "5.0": "LESS THAN 48 HOURS",
+    "6.0": "NEVER AWAY AT ALL"
+  },
+  "S126.Q84": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN 15 YEARS OLD",
+    "2.0": "15-16 YEARS",
+    "3.0": "17-18 YEARS",
+    "4.0": "19-20 YEARS",
+    "5.0": "21-22 YEARS",
+    "6.0": "OVER 22 YEARS",
+    "7.0": "NEVER WENT WITH GIRLS ON DATES",
+    "8.0": "NEVER WENT WITH GIRLS EXCEPT ON DOUBLE-DATES OR IN A GROUP OF OTHERS"
+  },
+  "S126.Q85": {
+    "0.0": "NO ANSWER",
+    "1.0": "MORE OFTEN THAN MOST OTHER FELLOWS I KNEW",
+    "2.0": "ABOUT THE SAME AS MOST OTHER FELLOWS I KNEW",
+    "3.0": "NOT AS OFTEN AS MOST OTHER FELLOWS I KNEW"
+  },
+  "S126.Q86": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN 18 YEARS OLD",
+    "2.0": "18-20 YEARS",
+    "3.0": "21-23 YEARS",
+    "4.0": "24-26 YEARS",
+    "5.0": "OVER 26 YEARS",
+    "6.0": "NEVER WENT STEADY WITH ANY ONE GIRL"
+  },
+  "S126.Q87": {
+    "0.0": "NO ANSWER",
+    "1.0": "HAD A BETTER TIME WITH THOSE OLDER THAN MYSELF",
+    "2.0": "HAD A BETTER TIME WITH THOSE OF THE SAME AGE AS MYSELF",
+    "3.0": "HAD A BETTER TIME WITH THOSE YOUNGER THAN MYSELF",
+    "4.0": "UNDECIDED"
+  },
+  "S126.Q88": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, OFTEN",
+    "2.0": "YES, SOMETIMES",
+    "3.0": "NO, NEVER",
+    "4.0": "NO ANSWER"
+  },
+  "S126.Q89": {
+    "0.0": "NO ANSWER",
+    "1.0": "I WAS VERY HEALTHY AS A CHILD",
+    "2.0": "I WAS FAIRLY HEALTHY AS A CHILD",
+    "3.0": "I WAS RATHER SICKLY AS A CHILD",
+    "4.0": "DON'T KNOW"
+  },
+  "S126.Q90A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S126.Q90B": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN 4 YEARS OLD",
+    "2.0": "4-9 YEARS",
+    "3.0": "10-16 YEARS",
+    "4.0": "OVER 16",
+    "5.0": "I STILL WET THE BED"
+  },
+  "S126.Q91": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, OFTEN",
+    "2.0": "YES, SOMETIMES",
+    "3.0": "NO, NEVER"
+  },
+  "S126.Q92": {
+    "0.0": "NO ANSWER",
+    "2.0": "NO",
+    "NaN": "QUESTION 93 NOT CODED.",
+    "1.0": "YES",
+    "3.0": "DON'T KNOW"
+  },
+  "S126.Q94": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, MUCH OF IT IS NOT NEEDED",
+    "2.0": "YES, SOME OF IT IS NOT NEEDED",
+    "3.0": "NO, ALL IS NEEDED",
+    "4.0": "UNDECIDED"
+  },
+  "S126.Q95": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALWAYS TELL ME ENOUGH",
+    "NaN": "QUESTION 96 NOT CODED.",
+    "2.0": "USUALLY TELL ME ENOUGH",
+    "3.0": "OFTEN DO NOT TELL ME ENOUGH",
+    "4.0": "ALMOST NEVER TELL ME ENOUGH",
+    "5.0": "UNDECIDED"
+  },
+  "S126.Q97": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ONE",
+    "2.0": "TWO",
+    "3.0": "THREE",
+    "4.0": "FOUR",
+    "5.0": "FIVE",
+    "6.0": "SIX",
+    "7.0": "SEVEN",
+    "8.0": "EIGHT",
+    "9.0": "NINE",
+    "10.0": "TEN",
+    "11.0": "ELEVEN",
+    "12.0": "NONE"
+  },
+  "S126.V98": {
+    "1.0": "NORMAL MEN",
+    "2.0": "PSYCHONEUROTIC MEN"
+  },
+  "S126.V99": {
+    "1.0": "96TH STATION HOSPITAL: PSYCHONEUROTIC AND CPS - WHITE",
+    "2.0": "96TH STATION HOSPITAL: PSYCHONEUROTIC AND CPS - NEGRO",
+    "3.0": "312TH GENERAL HOSPITAL: COMBAT CASES - \"FAILURES TO BE SENT TO ZONE OF INTERIOR\"",
+    "4.0": "312TH GENERAL HOSPITAL: COMBAT CASES - UNDER TREATMENT",
+    "5.0": "312TH GENERAL HOSPITAL: NO COMBAT - EARLY TREATMENT",
+    "6.0": "312TH GENERAL HOSPITAL: NO COMBAT - LATE TREATMENT IN TRAINING COMPANY",
+    "7.0": "NORMAL MEN"
+  }
+}

@@ -1,0 +1,1268 @@
+S91.Q1 WHAT IS YOUR RANK OR GRADE?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                     PRIVATE          1.0        102                0.2
+1                         PRIVATE FIRST CLASS          2.0        202                0.4
+2                STAFF SERGEANT OR TECHNICIAN          5.0         25               0.05
+3  TECHNICAL SGT., MASTER SGT., OR FIRST SGT.          6.0          5               0.01
+4                                   NO ANSWER          0.0         13               0.03
+5                      CORPORAL OR TECHNICIAN          3.0         82               0.16
+6                      SERGEANT OR TECHNICIAN          4.0         77               0.15
+
+
+
+S91.Q2 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0         20               0.04
+1   18 YEARS OR YOUNGER          1.0          2                0.0
+2              19 YEARS          2.0          8               0.02
+3              20 YEARS          3.0         18               0.04
+4              21 YEARS          4.0         59               0.12
+5              22 YEARS          5.0         54               0.11
+6              23 YEARS          6.0         62               0.12
+7              24 YEARS          7.0         55               0.11
+8              25 YEARS          8.0         57               0.11
+9      26 THRU 29 YEARS          9.0        111               0.22
+10     30 THRU 34 YEARS         10.0         54               0.11
+11    35 YEARS AND OVER         11.0          6               0.01
+
+
+
+S91.Q3 ARE YOU ...?
+                      answer_label answer_value raw_counts relative_frequency
+0                        NO ANSWER          0.0         11               0.02
+1                           SINGLE          1.0        417               0.82
+2      MARRIED BEFORE JOINING ARMY          2.0         45               0.09
+3       MARRIED AFTER JOINING ARMY          3.0         28               0.06
+4  WIDOWED, DIVORCED, OR SEPARATED          4.0          5               0.01
+
+
+
+S91.Q4 HOW MANY CHILDREN DO YOU HAVE?
+               answer_label answer_value raw_counts relative_frequency
+0                 NO ANSWER          0.0         22               0.04
+1           I'M NOT MARRIED          1.0        370               0.73
+2          HAVE NO CHILDREN          2.0         78               0.15
+3            HAVE ONE CHILD          3.0         30               0.06
+4  HAVE MORE THAN ONE CHILD          4.0          6               0.01
+
+
+
+S91.Q5 CHECK THE ANSWER THAT TELLS BEST HOW FAR YOU WENT IN SCHOOL:
+                                 answer_label answer_value raw_counts relative_frequency
+0                 DID NOT FINISH GRADE SCHOOL          1.0         72               0.14
+1                       FINISHED GRADE SCHOOL          2.0        118               0.23
+2  HAD SOME HIGH SCHOOL, BUT DID NOT GRADUATE          3.0        189               0.37
+3                  GRADUATED FROM HIGH SCHOOL          4.0         98               0.19
+4      HAD SOME COLLEGE, BUT DID NOT GRADUATE          5.0         13               0.03
+5                      GRADUATED FROM COLLEGE          6.0          4               0.01
+6                                   NO ANSWER          7.0         12               0.02
+
+
+
+S91.Q6 HOW LONG HAVE YOU BEEN IN THE ARMY? E. FOR NATIONAL GUARD TROOPS THIS MEANS ACTIVE SERVICE.
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0          8               0.02
+1                      SIX MONTHS OR LESS          1.0          3               0.01
+2  MORE THAN 6 MONTHS BUT NOT OVER 1 YEAR          2.0         37               0.07
+3   MORE THAN 1 YEAR BUT NOT OVER 2 YEARS          3.0        203                0.4
+4                       MORE THAN 2 YEARS          4.0        255                0.5
+
+
+
+S91.Q7 HOW DID YOU COME INTO THE ARMY?
+                  answer_label answer_value raw_counts relative_frequency
+0           NO CODE OR NO DATA          0.0          1                0.0
+1                I WAS DRAFTED          1.0        266               0.53
+2                I VOLUNTEERED          2.0        228               0.45
+3  I WAS IN THE NATIONAL GUARD          3.0          3               0.01
+4                    NO ANSWER          4.0          8               0.02
+
+
+
+S91.Q8 WHAT MONTH AND YEAR DID YOU JOIN THIS DIVISION?
+                       answer_label answer_value raw_counts relative_frequency
+0                         NO ANSWER          0.0         31               0.06
+1       OCTOBER 31, 1942 OR EARLIER          1.0        285               0.56
+2  NOVEMBER 1, 1942 TO MAY 10, 1943          2.0        100                0.2
+3      MAY 11, 1943 TO JULY 9, 1943          3.0         72               0.14
+4  JULY 10, 1943 TO AUGUST 31, 1943          4.0         18               0.04
+
+
+
+S91.Q9 ON THE WHOLE HOW DO YOU FEEL ABOUT THE ARMY?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         12               0.02
+1     I LIKE THE ARMY VERY MUCH          1.0         59               0.12
+2         I LIKE IT FAIRLY WELL          2.0        276               0.55
+3           I RATHER DISLIKE IT          3.0        106               0.21
+4  I DISLIKE THE ARMY VERY MUCH          4.0         53                0.1
+
+
+
+S91.Q10 ON THE WHOLE, HOW IS THE MORALE OF THE MEN IN YOUR COMPANY?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1           VERY HIGH          1.0         37               0.07
+2         FAIRLY HIGH          2.0        101                0.2
+3          JUST SO-SO          3.0        186               0.37
+4          FAIRLY LOW          4.0         70               0.14
+5            VERY LOW          5.0        101                0.2
+6           NO ANSWER          6.0         10               0.02
+
+
+
+S91.Q11 ON THE WHOLE, DO YOU THINK THE ARMY IS GIVING YOU A CHANCE TO SHOW WHAT YOU CAN DO?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0          8               0.02
+1    A VERY GOOD CHANCE          1.0        108               0.21
+2  A FAIRLY GOOD CHANCE          2.0        162               0.32
+3  NOT MUCH OF A CHANCE          3.0        109               0.22
+4      NO CHANCE AT ALL          4.0         66               0.13
+5             UNDECIDED          5.0         53                0.1
+
+
+
+S91.Q12 DO YOU FEEL PROUD OF YOUR COMPANY?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0          3               0.01
+1    YES, VERY PROUD          1.0        315               0.62
+2  YES, FAIRLY PROUD          2.0        123               0.24
+3      NO, NOT PROUD          3.0         37               0.07
+4          UNDECIDED          4.0         28               0.06
+
+
+
+S91.Q13 HOW WELL HAVE YOU BEEN ABLE TO FIT YOURSELF INTO ARMY LIFE?
+                                     answer_label answer_value raw_counts relative_frequency
+0                                       NO ANSWER          0.0          4               0.01
+1                          VERY WELL ON THE WHOLE          1.0        152                0.3
+2                        PRETTY WELL ON THE WHOLE          2.0        204                0.4
+3                             FIT IN MORE OR LESS          3.0         59               0.12
+4                           NOT WELL ON THE WHOLE          4.0         29               0.06
+5  HAVEN'T BEEN ABLE TO FIT INTO ARMY LIFE AT ALL          5.0         32               0.06
+6                                      NO OPINION          6.0         26               0.05
+
+
+
+S91.Q14 WHEN YOU ARE ON YOUR JOB HOW ENTHUSIASTIC DO YOU USUALLY FEEL ABOUT WHAT YOU ARE DOING?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0          5               0.01
+1          VERY ENTHUSIASTIC          1.0        165               0.33
+2        FAIRLY ENTHUSIASTIC          2.0        220               0.43
+3      NOT VERY ENTHUSIASTIC          3.0         77               0.15
+4  HAVE NO ENTHUSIASM AT ALL          4.0         39               0.08
+
+
+
+S91.Q15 WHICH OF THE FOLLOWING WOULD YOU SAY BEST APPLIES TO YOUR JOB?
+                                                  answer_label answer_value raw_counts relative_frequency
+0                                                    NO ANSWER          0.0          6               0.01
+1                                   TIME ALWAYS PASSES QUICKLY          1.0         55               0.11
+2                         TIME PASSES QUICKLY MOST OF THE TIME          2.0        124               0.25
+3  ENJOY WORKING PART OF THE TIME, BUT IT DRAGS AT OTHER TIMES          3.0        227               0.45
+4                                  TIME DRAGS MOST OF THE TIME          4.0         60               0.12
+5                                            TIME ALWAYS DRAGS          5.0         34               0.07
+
+
+
+S91.Q16 IN GENERAL, HOW WOULD YOU SAY YOU FEEL MOST OF THE TIME, IN GOOD SPIRITS OR IN LOW SPIRITS?
+                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                  NO ANSWER          0.0          2                0.0
+1                                               I AM USUALLY IN GOOD SPIRITS          1.0        132               0.26
+2  I AM IN GOOD SPIRITS SOME OF THE TIME AND IN LOW SPIRITS SOME OF THE TIME          2.0        313               0.62
+3                                                I AM USUALLY IN LOW SPIRITS          3.0         59               0.12
+
+
+
+S91.Q17 DO YOU FEEL THAT YOU REALLY BELONG IN YOUR COMPANY AND ARE AN IMPORTANT PART OF IT?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0          8               0.02
+1    VERY MUCH SO          1.0        177               0.35
+2  FAIRLY MUCH SO          2.0        195               0.39
+3   NOT VERY MUCH          3.0         93               0.18
+4      NOT AT ALL          4.0         33               0.07
+
+
+
+S91.Q18A WHAT SORT OF TEAMWORK AND CO-OPERATION DO THE MEN IN YOUR COMPANY HAVE ON THE JOB?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0          1                0.0
+1        VERY GOOD          1.0        192               0.38
+2      FAIRLY GOOD          2.0        252                0.5
+3    NOT VERY GOOD          3.0         50                0.1
+4  NOT GOOD AT ALL          4.0         11               0.02
+
+
+
+S91.Q18B WHAT SORT OF TEAMWORK DID THE MEN IN YOUR COMPANY SHOW IN ACTUAL BATTLE?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0          8               0.02
+1        VERY GOOD          1.0        296               0.58
+2      FAIRLY GOOD          2.0        158               0.31
+3    NOT VERY GOOD          3.0         30               0.06
+4  NOT GOOD AT ALL          4.0         14               0.03
+
+
+
+S91.Q19 WOULD YOU SAY THAT MOST OF THE MEN IN YOUR COMPANY USUALLY PUT ALL THAT THEY HAVE INTO THEIR REGULAR DUTIES, OR DO THEY USUALLY WORK JUST HARD ENOUGH TO GET BY?
+                                              answer_label answer_value raw_counts relative_frequency
+0                                                NO ANSWER          0.0         11               0.02
+1   MOST OF THE MEN USUALLY PUT ALL THAT THEY HAVE INTO IT          1.0        166               0.33
+2  MOST OF THE MEN USUALLY WORK JUST HARD ENOUGH TO GET BY          2.0        272               0.54
+3                                                UNDECIDED          3.0         57               0.11
+
+
+
+S91.Q20 HOW ABOUT YOURSELF - WOULD YOU HONESTLY SAY THAT YOU USUALLY PUT ALL YOU HAVE INTO YOUR REGULAR DUTIES, OR DO YOU USUALLY WORK JUST HARD ENOUGH TO GET BY?
+                                answer_label answer_value raw_counts relative_frequency
+0                                  NO ANSWER          0.0         14               0.03
+1           I USUALLY PUT ALL I HAVE INTO IT          1.0        255                0.5
+2  I USUALLY WORK JUST HARD ENOUGH TO GET BY          2.0        199               0.39
+3                                  UNDECIDED          3.0         38               0.08
+
+
+
+S91.Q21 HOW SATISFIED ARE YOU ABOUT BEING IN YOUR PRESENT ARMY JOB INSTEAD OF SOME OTHER ARMY JOB?
+                           answer_label answer_value raw_counts relative_frequency
+0                             NO ANSWER          0.0         11               0.02
+1                        VERY SATISFIED          1.0         45               0.09
+2                             SATISFIED          2.0        125               0.25
+3  IT DOESN'T MAKE ANY DIFFERENCE TO ME          3.0         95               0.19
+4                          DISSATISFIED          4.0        133               0.26
+5                     VERY DISSATISFIED          5.0         97               0.19
+
+
+
+S91.Q22 HOW DO YOU FEEL ABOUT THE IMPORTANCE OF THE RIFLEMAN'S JOB IN MODERN BATTLE?
+                                                  answer_label answer_value raw_counts relative_frequency
+0                                                    NO ANSWER          0.0         11               0.02
+1             MORE IMPORTANT THAN MOST ANY OTHER SOLDIER'S JOB          1.0        201                0.4
+2                   IMPORTANT, BUT NO MORE SO THAN MANY OTHERS          2.0        282               0.56
+3  NOT VERY IMPORTANT COMPARED WITH WHAT OTHER SOLDIERS CAN DO          3.0         12               0.02
+
+
+
+S91.Q23 WOULD YOU CONSIDER THAT YOU WERE DOING A MORE IMPORTANT JOB IN HELPING WIN THE WAR IF YOU WERE A GUNNER IN A B-27 BOMBER INSTEAD OF AN INFANTRYMAN?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         13               0.03
+1          YES          1.0        111               0.22
+2           NO          2.0        274               0.54
+3    UNDECIDED          3.0        108               0.21
+
+
+
+S91.Q24 WOULD YOU CONSIDER THAT YOU WERE DOING A MORE IMPORTANT JOB IN WINNING THE WAR IF YOU WERE DRIVING A QUARTERMASTER TRUCK INSTEAD OF YOUR PRESENT ARMY JOB?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         13               0.03
+1          YES          1.0         77               0.15
+2           NO          2.0        336               0.66
+3    UNDECIDED          3.0         80               0.16
+
+
+
+S91.Q25 WOULD YOU CONSIDER THAT YOU WERE DOING A MORE IMPORTANT JOB IN WINNING THE WAR IF YOU WERE DRIVING A TANK INSTEAD OF YOUR PRESENT ARMY JOB?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         14               0.03
+1          YES          1.0         45               0.09
+2           NO          2.0        374               0.74
+3    UNDECIDED          3.0         73               0.14
+
+
+
+S91.Q26 WOULD YOU CONSIDER THAT YOU WERE DOING A MORE IMPORTANT JOB IN WINNING THE WAR IF YOU WERE A CLERK IN HEADQUARTERS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          8               0.02
+1          YES          1.0         29               0.06
+2           NO          2.0        409               0.81
+3    UNDECIDED          3.0         60               0.12
+
+
+
+S91.Q27 WOULD YOU CONSIDER THAT YOU WERE DOING A MORE IMPORTANT JOB IN WINNING THE WAR IF YOU WERE A COMBAT ENGINEER INSTEAD OF YOUR PRESENT ARMY JOB?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1                 YES          1.0         64               0.13
+2                  NO          2.0        332               0.66
+3           UNDECIDED          3.0         98               0.19
+4           NO ANSWER          4.0         11               0.02
+
+
+
+S91.Q28 HOW IMPORTANT A PART DO YOU THINK YOUR COMPANY WILL PLAY IN WINNING THE WAR?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0         18               0.04
+1      A VERY IMPORTANT PART          1.0        256               0.51
+2    A FAIRLY IMPORTANT PART          2.0        183               0.36
+3  NOT A VERY IMPORTANT PART          3.0         36               0.07
+4       NOT IMPORTANT AT ALL          4.0         13               0.03
+
+
+
+S91.Q29 DO YOU USUALLY FEEL THAT WHAT YOU ARE DOING IN THE ARMY IS WORTHWHILE OR NOT?
+                          answer_label answer_value raw_counts relative_frequency
+0                   NO CODE OR NO DATA          0.0          1                0.0
+1  I USUALLY FEEL IT IS NOT WORTHWHILE          1.0         76               0.15
+2      I USUALLY FEEL IT IS WORTHWHILE          2.0        350               0.69
+3                            UNDECIDED          3.0         68               0.13
+4                            NO ANSWER          4.0         11               0.02
+
+
+
+S91.Q30 WHEN YOU WERE FIGHTING IN A PARTICULAR BATTLE, DID YOU EVER HAVE THE FEELING THAT IT WASN'T WORTH THE COST?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0          9               0.02
+1  YES, ALMOST ALWAYS          1.0         51                0.1
+2      YES, SOMETIMES          2.0        288               0.57
+3           NO, NEVER          3.0        120               0.24
+4           UNDECIDED          4.0         38               0.08
+
+
+
+S91.Q31 DO YOU THINK THE ARMY TRIED HARD ENOUGH TO GET MAIL REGULARLY TO YOU AT THE BATTLE FRONT?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         10               0.02
+1          YES          1.0        331               0.65
+2           NO          2.0        121               0.24
+3    UNDECIDED          3.0         44               0.09
+
+
+
+S91.Q32 DO YOU THINK THE ARMY TRIED HARD ENOUGH TO GET GOOD FOOD TO YOU AT THE BATTLE FRONT?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1                 YES          1.0        248               0.49
+2                  NO          2.0        199               0.39
+3           UNDECIDED          3.0         52                0.1
+4           NO ANSWER          4.0          6               0.01
+
+
+
+S91.Q33 HOW DID YOU FEEL ABOUT THE DIVISION NEWS SHEET WHICH YOU GOT AT THE BATTLE FRONT?
+                                      answer_label answer_value raw_counts relative_frequency
+0                                        NO ANSWER          0.0         54               0.11
+1                                       I LIKED IT          1.0        334               0.66
+2  I LIKED IT, BUT THINK IT COULD HAVE BEEN BETTER          2.0         99                0.2
+3                                I DID NOT LIKE IT          3.0         19               0.04
+
+
+
+S91.Q34 WHILE YOU WERE AT THE BATTLE FRONT, DID YOUR LEADERS EXPLAIN THE WHOLE BATTLE SO YOU COULD SEE JUST HOW YOUR COMPANY'S PART FITTED INTO THE CAMPAIGN AS A WHOLE?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0          8               0.02
+1                       AS MUCH AS THEY COULD          1.0        162               0.32
+2      THEY COULD HAVE GIVEN US A LITTLE MORE          2.0        132               0.26
+3  THEY COULD HAVE GIVEN US A GREAT DEAL MORE          3.0        204                0.4
+
+
+
+S91.Q35 WOULD YOU HAVE LIKED TO HAVE A BETTER PICTURE OF HOW YOUR COMPANY'S PART FITTED INTO THE CAMPAIGN AS A WHOLE?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0          9               0.02
+1                     YES          1.0        380               0.75
+2  IT MAKES NO DIFFERENCE          2.0         91               0.18
+3                      NO          3.0         26               0.05
+
+
+
+S91.Q36 WHEN YOU WERE IN COMBAT HOW WELL DID YOU FEEL THAT HEADQUARTERS UNDERSTOOD YOUR PROBLEMS AND NEEDS?
+                                                               answer_label answer_value raw_counts relative_frequency
+0                                                                 NO ANSWER          0.0         17               0.03
+1                             I FELT THEY WERE VERY MUCH AWARE OF OUR NEEDS          1.0        161               0.32
+2                      I FELT THAT THEY WERE FAIRLY WELL AWARE OF OUR NEEDS          2.0        227               0.45
+3  I FELT THAT THEY DID NOT KNOW VERY MUCH ABOUT OUR REAL PROBLEMS OR NEEDS          3.0        101                0.2
+
+
+
+S91.Q37 WHILE YOU WERE IN COMBAT, DID YOU FEEL THAT THE TROOPS TO THE REAR, IN GENERAL, WERE DOING AS MUCH AS THEY COULD, UNDER THE CIRCUMSTANCES, FOR THE MEN WHO WERE DOING THE FIGHTING?
+                        answer_label answer_value raw_counts relative_frequency
+0                          NO ANSWER          0.0         27               0.05
+1              AS MUCH AS THEY COULD          1.0        258               0.51
+2      COULD HAVE DONE SOMEWHAT MORE          2.0        136               0.27
+3  COULD HAVE DONE A GREAT DEAL MORE          3.0         85               0.17
+
+
+
+S91.Q38 HOW DO YOU FEEL ABOUT THE JOB SPECIAL SERVICE DID FOR THE MEN WHEN THEY CAME OUT OF BATTLE?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0         38               0.08
+1    USUALLY VERY GOOD          1.0        162               0.32
+2  USUALLY PRETTY GOOD          2.0        215               0.42
+3   USUALLY PRETTY BAD          3.0         49                0.1
+4     USUALLY VERY BAD          4.0         42               0.08
+
+
+
+S91.Q39A DID YOU EVER HAVE ANY CONTACT WITH GERMAN PRISONERS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         13               0.03
+1          YES          1.0        430               0.85
+2           NO          2.0         63               0.12
+
+
+
+S91.Q39B HOW DID SEEING GERMAN PRISONERS MAKE YOU FEEL ABOUT THE GERMANS?
+                                                                               answer_label answer_value raw_counts relative_frequency
+0                                                                                 NO ANSWER          0.0         20               0.04
+1                                                     I FELT ALL THE MORE LIKE KILLING THEM          1.0         85               0.17
+2  I FELT THAT THEY ARE MEN JUST LIKE US AND IT IS TOO BAD THAT WE HAVE TO BE FIGHTING THEM          2.0        257               0.51
+3                                              I DIDN'T HAVE ANY FEELING ONE WAY OR ANOTHER          3.0         81               0.16
+4                                                                        SOME OTHER FEELING          4.0         63               0.12
+
+
+
+S91.Q40 HOW ABOUT ATROCITIES? DID YOU PERSONALLY EVER SEE WITH YOUR OWN EYES A CASE OF GERMANS USING METHODS OF FIGHTING OR TREATING PRISONERS WHICH YOU WOULD CALL DIRTY OR INHUMAN?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         38               0.08
+1           NO          1.0        395               0.78
+2          YES          2.0         73               0.14
+
+
+
+S91.Q41 HOW ABOUT STORIES YOU HAVE HEARD FROM OTHERS? DID YOU HEAR ANY TRUE CASES OF GERMANS USING METHODS OF FIGHTING OR TREATING PRISONERS WHICH YOU WOULD CALL DIRTY OR INHUMAN?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         47               0.09
+1           NO          1.0        341               0.67
+2          YES          2.0        118               0.23
+
+
+
+S91.Q42 DID YOU SEE ANY OF YOUR BEST FRIENDS GET KILLED IN COMBAT?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         20               0.04
+1           NO          1.0        124               0.25
+2          YES          2.0        362               0.72
+
+
+
+S91.Q42A WHAT WAS YOUR IMMEDIATE REACTION? (IF THIS HAPPENED MORE THAN ONCE, TELL ABOUT THE FIRST TIME.)
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0                                                                                                        NO CODE OR NO DATA          0.0          1                0.0
+1   ANGER, HATRED, DESIRE FOR REVENGE: ONE THAT GOT HIM, REVENGE, LOST TEMPER, SORROW FOLLOWED BY ANGER, SORRY AND REVENGE,          1.0        116               0.23
+2                                      FEAR, HOPELESSNESS, LOST FEELING: SHOCK FOLLOWED BY FEAR, HOPELESSNESS, LOST FEELING          2.0         31               0.06
+3   SHOCK, BUT NEITHER FEAR NOR ANGER: SURPRISE OR SHOCK, FOLLOWED BY MATTER-OF-FACTNESS, STUNNED BUT IT PASSED, SURPRISED,          3.0         24               0.05
+4             EXPRESSED FACT THAT HAD NO FEELING: NO FEELING, NO TIME FOR THAT IN COMBAT, I'D SEEN TOO MUCH OF THAT ALREADY          4.0         24               0.05
+5                                                                                       SORROW: FELT BAD, FELT SORROW, HURT          5.0         23               0.05
+6                                                                   INCREASED THOUGHTS OF OWN CHANCES, BECAME MORE CAUTIOUS          6.0         14               0.03
+7  MISCELLANEOUS: FACTUAL ACCOUNT GIVEN, NO EMOTION RECORDED - DESCRIBES WHAT ACTION HE TOOK HIMSELF, REPRESSION - DIDN'T W          7.0         77               0.15
+8                                                                                                                  FATALISM          8.0          3               0.01
+9                                                                                          NO ANSWER TO Q.42A OR NO TO Q.42          9.0        193               0.38
+
+
+
+S91.Q43 WHICH MAIN BATTLES WERE YOU IN?
+                                                                                                              answer_label answer_value raw_counts relative_frequency
+0                                                                                                                NO ANSWER          0.0         48               0.09
+1  TUNISIAN CAMPAIGN - ANY OF THE FOLLOWING: TEBORBA, ORAN, EL GUETTAR, GAFSA, MATEUR, ST. CLOUD, MEDZ EL BAB, CASABLANCA,          1.0         61               0.12
+2                                                         SICILIAN CAMPAIGN - ANY OF THE FOLLOWING: GELA, TROINA, RANDASSO          2.0        102                0.2
+3                                                                                               BOTH TUNISIAN AND SICILIAN          3.0        295               0.58
+
+
+
+S91.Q44 DID YOU RECEIVE ANY OF THE FOLLOWING DECORATIONS?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0         95               0.19
+1                       YES, PURPLE HEART          1.0         75               0.15
+2                        YES, SILVER STAR          2.0         59               0.12
+3  YES, BOTH SILVER STAR AND PURPLE HEART          3.0         31               0.06
+4                             NO, NEITHER          4.0        246               0.49
+
+
+
+S91.Q45 HOW DO YOU FEEL ABOUT THE SILVER STAR?
+                                         answer_label answer_value raw_counts relative_frequency
+0                                           NO ANSWER          0.0         36               0.07
+1    ALL MEN I KNOW WHO GOT THEM REALLY DESERVED THEM          1.0        215               0.42
+2  A FEW MEN I KNOW WHO GOT THEM DID NOT DESERVE THEM          2.0        198               0.39
+3   MANY MEN I KNOW WHO GOT THEM DID NOT DESERVE THEM          3.0         57               0.11
+
+
+
+S91.Q46 DO YOU KNOW ANY MEN WHO DESERVED SILVER STARS BUT DID NOT GET THEM?
+                                                  answer_label answer_value raw_counts relative_frequency
+0                                                    NO ANSWER          0.0         46               0.09
+1   MANY MEN I KNOW DESERVED SILVER STARS BUT DID NOT GET THEM          1.0        140               0.28
+2  A FEW MEN I KNOW DESERVED SILVER STARS BUT DID NOT GET THEM          2.0        249               0.49
+3      NOBODY I KNOW DESERVED A SILVER STAR BUT DID NOT GET IT          3.0         71               0.14
+
+
+
+S91.Q47 DO YOU THINK YOU WERE IN TOUGH ENOUGH PHYSICAL CONDITION AT THE TIME YOU WENT INTO YOUR FIRST BATTLE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         12               0.02
+1          YES          1.0        374               0.74
+2           NO          2.0         83               0.16
+3    UNDECIDED          3.0         37               0.07
+
+
+
+S91.Q48 IS THERE ANY TYPE OF TRAINING YOU THINK NEW TROOPS SHOULD BE GETTING MORE OF BEFORE BEING SENT INTO YOUR OUTFIT AS REPLACEMENTS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         45               0.09
+1           NO          1.0        148               0.29
+2          YES          2.0        313               0.62
+
+
+
+S91.Q49 IS THERE ANY TYPE OF TRAINING WHICH YOU THINK NEW TROOPS GET TOO MUCH OF BECAUSE IT DOES NOT HELP IN BATTLE?
+                        answer_label answer_value raw_counts relative_frequency
+0                          NO ANSWER          0.0         39               0.08
+1  NO, THEY NEED EVERYTHING THEY GET          1.0        300               0.59
+2                                YES          2.0        167               0.33
+
+
+
+S91.Q50 WOULD YOU SAY THAT THE MORE YOU EXPERIENCED DIVE BOMBING THE LESS FRIGHTENING IT BECAME, OR THE MORE FRIGHTENING?
+                                      answer_label answer_value raw_counts relative_frequency
+0                                        NO ANSWER          0.0         16               0.03
+1  IT BECAME MORE FRIGHTENING THE MORE I SAW OF IT          1.0        205               0.41
+2  IT BECAME LESS FRIGHTENING THE MORE I SAW OF IT          2.0        173               0.34
+3                         IT WAS NEVER FRIGHTENING          3.0         15               0.03
+4               IT STAYED FRIGHTENING ALL THE TIME          4.0         97               0.19
+
+
+
+S91.Q51 WHAT ABOUT LAND MINES?
+                                          answer_label answer_value raw_counts relative_frequency
+0                                            NO ANSWER          0.0         21               0.04
+1  THEY BECAME MORE FRIGHTENING THE MORE I SAW OF THEM          1.0        191               0.38
+2  THEY BECAME LESS FRIGHTENING THE MORE I SAW OF THEM          2.0        115               0.23
+3                          THEY WERE NEVER FRIGHTENING          3.0         58               0.11
+4                 THEY STAYED FRIGHTENING ALL THE TIME          4.0        121               0.24
+
+
+
+S91.Q52 HOW ABOUT 88-MM. FIRE?
+                                      answer_label answer_value raw_counts relative_frequency
+0                                        NO ANSWER          0.0         15               0.03
+1  IT BECAME MORE FRIGHTENING THE MORE I SAW OF IT          1.0        207               0.41
+2  IT BECAME LESS FRIGHTENING THE MORE I SAW OF IT          2.0        145               0.29
+3                         IT WAS NEVER FRIGHTENING          3.0         11               0.02
+4               IT STAYED FRIGHTENING ALL THE TIME          4.0        128               0.25
+
+
+
+S91.Q53 HOW ABOUT MACHINE-GUN FIRE?
+                                      answer_label answer_value raw_counts relative_frequency
+0                                        NO ANSWER          0.0         16               0.03
+1  IT BECAME MORE FRIGHTENING THE MORE I SAW OF IT          1.0        174               0.34
+2  IT BECAME LESS FRIGHTENING THE MORE I SAW OF IT          2.0        173               0.34
+3                         IT WAS NEVER FRIGHTENING          3.0         36               0.07
+4               IT STAYED FRIGHTENING ALL THE TIME          4.0        107               0.21
+
+
+
+S91.Q54 HOW ABOUT MORTAR FIRE?
+                                      answer_label answer_value raw_counts relative_frequency
+0                               NO CODE OR NO DATA          0.0          1                0.0
+1  IT BECAME MORE FRIGHTENING THE MORE I SAW OF IT          1.0        265               0.52
+2  IT BECAME LESS FRIGHTENING THE MORE I SAW OF IT          2.0         86               0.17
+3                         IT WAS NEVER FRIGHTENING          3.0         11               0.02
+4               IT STAYED FRIGHTENING ALL THE TIME          4.0        128               0.25
+5                                        NO ANSWER          5.0         15               0.03
+
+
+
+S91.Q55 IN GENERAL WOULD YOU SAY THAT BATTLE FIGHTING BECAME MORE FRIGHTENING OR LESS FRIGHTENING THE MORE YOU SAW OF IT?
+                                   answer_label answer_value raw_counts relative_frequency
+0                                     NO ANSWER          0.0         17               0.03
+1  IT WAS MORE FRIGHTENING THE MORE I SAW OF IT          1.0        280               0.55
+2  IT WAS LESS FRIGHTENING THE MORE I SAW OF IT          2.0        146               0.29
+3                      IT WAS NEVER FRIGHTENING          3.0          4               0.01
+4            IT STAYED FRIGHTENING ALL THE TIME          4.0         59               0.12
+
+
+
+S91.Q56 HOW OFTEN DID YOU GET INTO FIGHTS WHEN YOU WERE A KID?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0          3               0.01
+1    VERY OFTEN          1.0        112               0.22
+2     SOMETIMES          2.0        223               0.44
+3  ALMOST NEVER          3.0        168               0.33
+
+
+
+S91.Q57 WERE YOU A GOOD FIGHTER AS A KID?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         10               0.02
+1          YES          1.0        192               0.38
+2           NO          2.0        144               0.28
+3    UNDECIDED          3.0        160               0.32
+
+
+
+S91.Q58 HOW DID YOU FEEL ABOUT FIGHTING AS A KID?
+                                answer_label answer_value raw_counts relative_frequency
+0                                  NO ANSWER          0.0          6               0.01
+1                      REALLY LIKED FIGHTING          1.0         64               0.13
+2  DIDN'T PARTICULARLY LIKE IT OR DISLIKE IT          2.0        232               0.46
+3                DIDN'T LIKE FIGHTING AT ALL          3.0        204                0.4
+
+
+
+S91.Q59 AS A CHILD HOW DID YOU FEEL ABOUT GOING TO SCHOOL?
+                                            answer_label answer_value raw_counts relative_frequency
+0                                              NO ANSWER          0.0         12               0.02
+1                          REALLY WANTED VERY MUCH TO GO          1.0        257               0.51
+2  DIDN'T CARE VERY MUCH WHETHER I WENT TO SCHOOL OR NOT          2.0        203                0.4
+3                              DID NOT AT ALL WANT TO GO          3.0         34               0.07
+
+
+
+S91.Q60 BEFORE YOU CAME INTO THE ARMY DID YOU USUALLY GO AROUND WITH A BUNCH OF OTHERS OR BY YOURSELF?
+                                        answer_label answer_value raw_counts relative_frequency
+0                                          NO ANSWER          0.0         11               0.02
+1                    I USUALLY WENT AROUND BY MYSELF          1.0         73               0.14
+2  I USUALLY WENT AROUND WITH JUST ONE OR TWO OTHERS          2.0        279               0.55
+3       I USUALLY WENT AROUND WITH A BUNCH OF OTHERS          3.0        143               0.28
+
+
+
+S91.Q61A BEING LEFT ALONE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         55               0.11
+1    VERY MUCH          1.0         55               0.11
+2     A LITTLE          2.0        211               0.42
+3   NOT AT ALL          3.0        185               0.37
+
+
+
+S91.Q61B BEING ON HIGH PLACES?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         60               0.12
+1    VERY MUCH          1.0         93               0.18
+2     A LITTLE          2.0        151                0.3
+3   NOT AT ALL          3.0        202                0.4
+
+
+
+S91.Q61C WALKING BY A GRAVEYARD AT NIGHT?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         51                0.1
+1    VERY MUCH          1.0        101                0.2
+2     A LITTLE          2.0        169               0.33
+3   NOT AT ALL          3.0        185               0.37
+
+
+
+S91.Q61D BEING SHUT UP IN A ROOM OR CLOSET?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1           VERY MUCH          1.0         66               0.13
+2            A LITTLE          2.0        137               0.27
+3          NOT AT ALL          3.0        240               0.47
+4           NO ANSWER          4.0         62               0.12
+
+
+
+S91.Q61E BEING ALONE IN THE DARK?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         59               0.12
+1    VERY MUCH          1.0         88               0.17
+2     A LITTLE          2.0        203                0.4
+3   NOT AT ALL          3.0        156               0.31
+
+
+
+S91.Q61F THUNDERSTORMS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         58               0.11
+1    VERY MUCH          1.0         74               0.15
+2     A LITTLE          2.0        152                0.3
+3   NOT AT ALL          3.0        222               0.44
+
+
+
+S91.Q61G STRANGERS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         64               0.13
+1    VERY MUCH          1.0         36               0.07
+2     A LITTLE          2.0        127               0.25
+3   NOT AT ALL          3.0        279               0.55
+
+
+
+S91.Q61H FALLING?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         66               0.13
+1    VERY MUCH          1.0         88               0.17
+2     A LITTLE          2.0        159               0.31
+3   NOT AT ALL          3.0        193               0.38
+
+
+
+S91.Q61I SNAKES?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         55               0.11
+1    VERY MUCH          1.0        202                0.4
+2     A LITTLE          2.0        146               0.29
+3   NOT AT ALL          3.0        103                0.2
+
+
+
+S91.Q61J GETTING BAWLED OUT?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         59               0.12
+1    VERY MUCH          1.0        144               0.28
+2     A LITTLE          2.0        173               0.34
+3   NOT AT ALL          3.0        130               0.26
+
+
+
+S91.Q61K SHARP KNIVES?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         67               0.13
+1    VERY MUCH          1.0        123               0.24
+2     A LITTLE          2.0        134               0.26
+3   NOT AT ALL          3.0        182               0.36
+
+
+
+S91.Q61L BEING PUNISHED?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         72               0.14
+1    VERY MUCH          1.0        120               0.24
+2     A LITTLE          2.0        185               0.37
+3   NOT AT ALL          3.0        129               0.25
+
+
+
+S91.Q61M LARGE ANIMALS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         72               0.14
+1    VERY MUCH          1.0         64               0.13
+2     A LITTLE          2.0        156               0.31
+3   NOT AT ALL          3.0        214               0.42
+
+
+
+S91.Q61N BEING LAUGHED AT BY OTHER BOYS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         67               0.13
+1    VERY MUCH          1.0         94               0.19
+2     A LITTLE          2.0        158               0.31
+3   NOT AT ALL          3.0        187               0.37
+
+
+
+S91.Q61O FAMILY QUARRELS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         76               0.15
+1    VERY MUCH          1.0         82               0.16
+2     A LITTLE          2.0        145               0.29
+3   NOT AT ALL          3.0        203                0.4
+
+
+
+S91.Q61P BEING CALLED ON TO RECITE IN CLASS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         63               0.12
+1    VERY MUCH          1.0        101                0.2
+2     A LITTLE          2.0        188               0.37
+3   NOT AT ALL          3.0        154                0.3
+
+
+
+S91.Q61Q BEING WITH GIRLS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         80               0.16
+1    VERY MUCH          1.0         39               0.08
+2     A LITTLE          2.0        113               0.22
+3   NOT AT ALL          3.0        274               0.54
+
+
+
+S91.Q61R GETTING A BAD REPORT CARD FROM SCHOOL?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         73               0.14
+1    VERY MUCH          1.0        133               0.26
+2     A LITTLE          2.0        161               0.32
+3   NOT AT ALL          3.0        139               0.27
+
+
+
+S91.Q61S THE DEVIL?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         84               0.17
+1    VERY MUCH          1.0         94               0.19
+2     A LITTLE          2.0        101                0.2
+3   NOT AT ALL          3.0        227               0.45
+
+
+
+S91.Q61T THOUGHTS OF DEATH?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         74               0.15
+1    VERY MUCH          1.0        139               0.27
+2     A LITTLE          2.0        150                0.3
+3   NOT AT ALL          3.0        143               0.28
+
+
+
+S91.V61U NUMBER OF "VERY MUCH" ANSWERS CHECKED TO Q.61.
+                      answer_label answer_value raw_counts relative_frequency
+0               NO CODE OR NO DATA          0.0          1                0.0
+1     1 "VERY MUCH" ANSWER CHECKED          1.0         56               0.11
+2                                2          2.0         60               0.12
+3                                3          3.0         39               0.08
+4                                4          4.0         52                0.1
+5                                5          5.0         43               0.08
+6                           6 OR 7          6.0         60               0.12
+7                           8 OR 9          7.0         34               0.07
+8                         10 OR 11          8.0         26               0.05
+9                         12 OR 13          9.0          6               0.01
+10                      14 OR MORE         10.0         13               0.03
+11  NO "VERY MUCH" ANSWERS CHECKED         11.0        116               0.23
+
+
+
+S91.V61V NUMBER OF ITEMS TO WHICH THERE IS NO ANSWER (OR ITEM DOUBLE CHECKED) TO Q.61?
+                   answer_label answer_value raw_counts relative_frequency
+0            EVERY ITEM CHECKED          0.0        334               0.66
+1           1 NO ANSWER CHECKED          1.0         61               0.12
+2                             2          2.0         19               0.04
+3                             3          3.0         14               0.03
+4                             4          4.0          4               0.01
+5                             5          5.0          1                0.0
+6                        6 OR 7          6.0          5               0.01
+7                        8 OR 9          7.0          4               0.01
+8                      10 OR 11          8.0          4               0.01
+9                      12 OR 13          9.0          5               0.01
+10                     14 TO 19         10.0         43               0.08
+11  NO ANSWER TO WHOLE QUESTION         11.0         12               0.02
+
+
+
+S91.Q62 BEFORE GOING INTO COMBAT WERE YOU EVER A.W.O.L.?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         10               0.02
+1           NO          1.0        414               0.82
+2          YES          2.0         82               0.16
+
+
+
+S91.Q63 AFTER ENTERING THE ARMY, BUT BEFORE YOU WENT INTO COMBAT, WERE YOU EVER PUNISHED FOR BREAKING RULES OR REGULATIONS?
+        answer_label answer_value raw_counts relative_frequency
+0              NEVER          1.0        324               0.64
+1      ONCE OR TWICE          2.0        149               0.29
+2      SEVERAL TIMES          3.0         16               0.03
+3  QUITE A FEW TIMES          4.0          5               0.01
+4          NO ANSWER          5.0         12               0.02
+
+
+
+S91.Q64 AFTER YOU WENT INTO COMBAT, WERE YOU EVER PUNISHED FOR BREAKING RULES OR REGULATIONS?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0         10               0.02
+1              NEVER          1.0        442               0.87
+2      ONCE OR TWICE          2.0         49                0.1
+3      SEVERAL TIMES          3.0          4               0.01
+4  QUITE A FEW TIMES          4.0          1                0.0
+
+
+
+S91.Q65 WHICH OF THE FOLLOWING STATEMENTS BEST TELLS THE WAY YOU WOULD FEEL ABOUT GOING BACK INTO ACTUAL BATTLE?
+                                                            answer_label answer_value raw_counts relative_frequency
+0                                                              NO ANSWER          0.0         14               0.03
+1                    I WANT VERY MUCH TO GET INTO IT AS SOON AS POSSIBLE          1.0          3               0.01
+2                                              I AM READY TO GO ANY TIME          2.0         25               0.05
+3           I HOPE I WON'T HAVE TO GO, BUT IF I DO, THINK I WILL DO O.K.          3.0        136               0.27
+4   I HOPE I WON'T HAVE TO GO, BECAUSE I DON'T THINK I WILL DO VERY WELL          4.0        117               0.23
+5                NONE OF THE ABOVE, HAVE DONE MY SHARE, LET OTHERS FIGHT          5.0         81               0.16
+6                       NONE OF THE ABOVE, NEED A REST OR FURLOUGH FIRST          6.0         12               0.02
+7              NONE OF THE ABOVE, COULDN'T STAND IT, AFRAID, NERVES SHOT          7.0         61               0.12
+8                                  NONE OF THE ABOVE, PHYSICAL CONDITION          8.0         16               0.03
+9                                                   QUALIFIED ACCEPTANCE          9.0         15               0.03
+10                                               REFUSAL (MISCELLANEOUS)         10.0         12               0.02
+11                                                            ALL OTHERS         11.0         14               0.03
+
+
+
+S91.Q66 ARE YOU EVER WORRIED AND UPSET?
+                         answer_label answer_value raw_counts relative_frequency
+0                  NO CODE OR NO DATA          0.0          1                0.0
+1  I AM HARDLY EVER WORRIED AND UPSET          1.0        108               0.21
+2    I AM SOMETIMES WORRIED AND UPSET          2.0        276               0.55
+3        I AM OFTEN WORRIED AND UPSET          3.0        113               0.22
+4                           NO ANSWER          4.0          8               0.02
+
+
+
+S91.Q67 IN GENERAL, WHAT SORT OF A TIME DO YOU HAVE IN THE ARMY?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         10               0.02
+1    I HAVE A PRETTY GOOD TIME          1.0         97               0.19
+2       IT'S ABOUT FIFTY-FIFTY          2.0        317               0.63
+3  I HAVE A PRETTY ROTTEN TIME          3.0         82               0.16
+
+
+
+S91.Q68 HAVE LETTERS FROM HOME EVER CONTAINED NEWS THAT WORRIED YOU?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1          YES, OFTEN          1.0         48               0.09
+2      YES, SOMETIMES          2.0        234               0.46
+3                  NO          3.0        216               0.43
+4           NO ANSWER          4.0          7               0.01
+
+
+
+S91.Q69 HOW WOULD YOU FEEL ABOUT NEWS OF SICKNESS OR TROUBLE IN THE FAMILY?
+                                                                               answer_label answer_value raw_counts relative_frequency
+0                                                                        NO CODE OR NO DATA          0.0          1                0.0
+1                                                  I WOULD WANT TO HEAR ABOUT IT RIGHT AWAY          1.0        296               0.58
+2  I WOULD RATHER THEY WOULD WAIT UNTIL THE SICKNESS OR TROUBLE IS OVER BEFORE THEY TELL ME          2.0        108               0.21
+3                       I WOULD RATHER THEY WOULDN'T MENTION THE SICKNESS OR TROUBLE AT ALL          3.0         91               0.18
+4                                                                                 NO ANSWER          4.0         10               0.02
+
+
+
+S91.Q70 DO YOU THINK THAT THE EQUIPMENT OF THE AMERICAN ARMY IS BETTER OR WORSE THAN THE EQUIPMENT OF THE GERMAN ARMY?
+                                                 answer_label answer_value raw_counts relative_frequency
+0                                                   NO ANSWER          0.0         13               0.03
+1                              ALL OF OUR EQUIPMENT IS BETTER          1.0        158               0.31
+2                             MOST OF OUR EQUIPMENT IS BETTER          2.0        255                0.5
+3  OUR EQUIPMENT IS ABOUT THE SAME AS THAT OF THE GERMAN ARMY          3.0         54               0.11
+4                              MOST OF OUR EQUIPMENT IS WORSE          4.0         14               0.03
+5                                                  DON'T KNOW          6.0         12               0.02
+
+
+
+S91.Q71 IF YOU THINK SOME GERMAN WEAPONS ARE BETTER THAN OURS WHAT ARE THEY?
+                               answer_label answer_value raw_counts relative_frequency
+0    NO GERMAN WEAPONS ARE BETTER THAN OURS          1.0        209               0.41
+1  SOME GERMAN WEAPONS ARE BETTER THAN OURS          2.0        236               0.47
+2                                 NO ANSWER          3.0         61               0.12
+
+
+
+S91.Q72 IF YOU WERE GIVEN A SQUAD OF MEN AND TOLD TO TAKE CHARGE OF THEM ALL BY YOURSELF IN A COMBAT MISSION UNDER ENEMY FIRE, HOW WELL DO YOU THINK YOU WOULD DO?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1           VERY WELL          1.0        114               0.23
+2         FAIRLY WELL          2.0        279               0.55
+3       NOT VERY WELL          3.0         92               0.18
+4           NO ANSWER          4.0         20               0.04
+
+
+
+S91.Q73 HOW MANY OF THE NON-COMS IN YOUR OUTFIT ARE THE KIND YOU WOULD WANT TO SERVE UNDER IN COMBAT?
+             answer_label answer_value raw_counts relative_frequency
+0      NO CODE OR NO DATA          0.0          1                0.0
+1         ALL OF THEM ARE          1.0         46               0.09
+2        MOST OF THEM ARE          2.0        202                0.4
+3  ABOUT HALF OF THEM ARE          3.0        130               0.26
+4         FEW OF THEM ARE          4.0        102                0.2
+5        NONE OF THEM ARE          5.0         11               0.02
+6               NO ANSWER          6.0         14               0.03
+
+
+
+S91.Q74 HOW MANY OF THE OFFICERS IN YOUR COMPANY ARE THE KIND YOU WOULD WANT TO SERVE UNDER IN COMBAT?
+             answer_label answer_value raw_counts relative_frequency
+0      NO CODE OR NO DATA          0.0          1                0.0
+1         ALL OF THEM ARE          1.0         64               0.13
+2        MOST OF THEM ARE          2.0        177               0.35
+3  ABOUT HALF OF THEM ARE          3.0         94               0.19
+4         FEW OF THEM ARE          4.0        137               0.27
+5        NONE OF THEM ARE          5.0         14               0.03
+6               NO ANSWER          6.0         19               0.04
+
+
+
+S91.Q75 HOW MANY OF YOUR COMPANY OFFICERS ARE THE KIND WHO ARE WILLING TO GO THROUGH ANYTHING THEY ASK THEIR MEN TO GO THROUGH?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0         23               0.05
+1         ALL OF THEM ARE          1.0         74               0.15
+2        MOST OF THEM ARE          2.0        173               0.34
+3  ABOUT HALF OF THEM ARE          3.0         76               0.15
+4         FEW OF THEM ARE          4.0        148               0.29
+5        NONE OF THEM ARE          5.0         12               0.02
+
+
+
+S91.Q76 HOW MANY OF YOUR OFFICERS TAKE A PERSONAL INTEREST IN THEIR MEN?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0         23               0.05
+1         ALL OF THEM DO          1.0         59               0.12
+2        MOST OF THEM DO          2.0        190               0.38
+3  ABOUT HALF OF THEM DO          3.0         70               0.14
+4         FEW OF THEM DO          4.0        146               0.29
+5        NONE OF THEM DO          5.0         18               0.04
+
+
+
+S91.Q77 DO YOU EVER FEEL THAT YOU ARE NOT AS GOOD A SOLDIER AS MOST OF THE OTHER MEN IN YOUR OUTFIT?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0         30               0.06
+1  I FEEL THAT WAY NEARLY ALL OF THE TIME          1.0         43               0.08
+2            I FEEL THAT WAY FAIRLY OFTEN          2.0         65               0.13
+3    I FEEL THAT WAY ONLY ONCE IN A WHILE          3.0        152                0.3
+4            I ALMOST NEVER FEEL THAT WAY          4.0        216               0.43
+
+
+
+S91.Q78 DO YOU EVER GET THE FEELING THAT THIS WAR IS NOT WORTH FIGHTING?
+                 answer_label answer_value raw_counts relative_frequency
+0          NO CODE OR NO DATA          0.0          1                0.0
+1                  VERY OFTEN          1.0         39               0.08
+2                   SOMETIMES          2.0        148               0.29
+3  ONLY ONCE IN A GREAT WHILE          3.0        110               0.22
+4                       NEVER          4.0        182               0.36
+5                   NO ANSWER          5.0         26               0.05
+
+
+
+S91.Q79 DO YOU THINK THERE WILL BE ANOTHER WAR IN THE NEXT 25 YEARS OR SO?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1                 YES          1.0        221               0.44
+2                  NO          2.0         65               0.13
+3           UNDECIDED          3.0        192               0.38
+4           NO ANSWER          4.0         27               0.05
+
+
+
+S91.Q80 AFTER THE WAR IS OVER, DO YOU THINK THE UNITED STATES WILL BE A BETTER PLACE OR A WORSE PLACE TO LIVE IN THAN IT WAS BEFORE THE WAR?
+                               answer_label answer_value raw_counts relative_frequency
+0                        NO CODE OR NO DATA          0.0          1                0.0
+1   WORSE AFTER THE WAR THAN BEFORE THE WAR          1.0        112               0.22
+2      SAME AFTER THE WAR AS BEFORE THE WAR          2.0         72               0.14
+3  BETTER AFTER THE WAR THAN BEFORE THE WAR          3.0         96               0.19
+4                                 UNDECIDED          4.0        204                0.4
+5                                 NO ANSWER          5.0         21               0.04
+
+
+
+S91.Q81 ABOUT HOW MUCH LONGER FROM NOW DO YOU GUESS THE WAR WILL LAST WITH GERMANY?
+                                                                                 answer_label answer_value raw_counts relative_frequency
+0   LESS THAN A YEAR, OR JUST 1943, OR A TIME NAMED BETWEEN DECEMBER, 1943 AND NOVEMBER, 1944          1.0        303                0.6
+1                                                                 ONE YEAR (OR DECEMBER 1944)          2.0         81               0.16
+2                                                             OVER ONE YEAR BUT LESS THAN TWO          3.0         29               0.06
+3                                                                                   TWO YEARS          4.0          6               0.01
+4                                                          OVER TWO YEARS BUT LESS THAN THREE          5.0          2                0.0
+5                                                                                 THREE YEARS          6.0          2                0.0
+6                                                                            OVER THREE YEARS          7.0          1                0.0
+7                                   INDEFINITE ANSWER INDICATING A SHORT TIME E.G. "NOT LONG"          8.0         21               0.04
+8                     INDEFINITE ANSWER INDICATING A LONG TIME E.G. "WILL LAST SEVERAL YEARS"          9.0          6               0.01
+9             INDEFINITE ANSWER WITH NO INDICATION OF TIME, E.G. "WILL LAST UNTIL WE STOP IT"         10.0         10               0.02
+10                                                                    DON'T KNOW OR UNDECIDED         11.0         11               0.02
+11                                                                                  NO ANSWER         12.0         34               0.07
+
+
+
+S91.Q82 WHICH COMES CLOSEST TO YOUR IDEA OF HOW HARD IT IS GOING TO BE TO BEAT THE GERMANS?
+                                                     answer_label answer_value raw_counts relative_frequency
+0                                                       NO ANSWER          0.0         24               0.05
+1                                        IT WILL NOT BE VERY HARD          1.0         26               0.05
+2            IT WILL BE A TOUGH JOB BUT OUR LOSSES WON'T BE HEAVY          2.0         83               0.16
+3  IT WILL BE A TOUGH JOB, WITH HEAVY LOSSES OF MEN AND EQUIPMENT          3.0        373               0.74
+
+
+
+S91.Q83 DO YOU FEEL THAT YOU HAVE BEEN GIVEN YOUR FAIR SHARE OF PASSES AND FURLOUGHS?
+                                                 answer_label answer_value raw_counts relative_frequency
+0                                          NO CODE OR NO DATA          0.0          1                0.0
+1  YES, I HAVE HAD MY FAIR SHARE OF BOTH FURLOUGHS AND PASSES          1.0         56               0.11
+2    I HAVE HAD MY FAIR SHARE OF PASSES, BUT NOT OF FURLOUGHS          2.0        160               0.32
+3    I HAVE HAD MY FAIR SHARE OF FURLOUGHS, BUT NOT OF PASSES          3.0          5               0.01
+4  I HAVE NOT HAD MY FAIR SHARE OF EITHER FURLOUGHS OR PASSES          4.0        266               0.53
+5                                                   NO ANSWER          5.0         18               0.04
+
+
+
+S91.Q84 WHEN YOU HAVE GONE TO YOUR OFFICERS WITH PERSONAL PROBLEMS ABOUT ALLOTMENTS, PAY, INSURANCE OR THE LIKE, HOW HELPFUL WERE THEY?
+                                                         answer_label answer_value raw_counts relative_frequency
+0                                                  NO CODE OR NO DATA          0.0          1                0.0
+1           THEY TRIED THEIR BEST TO HELP AND KNEW HOW TO GO ABOUT IT          1.0        323               0.64
+2         THEY MAY HAVE KNOWN WHAT TO DO, BUT DIDN'T TRY MUCH TO HELP          2.0         43               0.08
+3           THEY TRIED TO HELP, BUT DIDN'T SEEM TO KNOW MUCH ABOUT IT          3.0         58               0.11
+4  THEY DIDN'T TRY MUCH TO HELP AND DIDN'T SEEM TO KNOW MUCH ABOUT IT          4.0         10               0.02
+5                                                           NO ANSWER          5.0         71               0.14
+
+
+
+S91.Q85 DO YOU THINK A SOLDIER WITH ABILITY HAS A GOOD CHANCE FOR PROMOTION IN THE ARMY?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0         14               0.03
+1    A VERY GOOD CHANCE          1.0        178               0.35
+2  A FAIRLY GOOD CHANCE          2.0        211               0.42
+3  NOT MUCH OF A CHANCE          3.0         56               0.11
+4      NO CHANCE AT ALL          4.0         21               0.04
+5             UNDECIDED          5.0         26               0.05
+
+
+
+S91.Q86 DURING COMBAT, HOW DID YOU FEEL ABOUT NEW REPLACEMENTS WHO CAME IN AS NON-COMS?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0         13               0.03
+1       THIS DID NOT HAPPEN IN MY COMPANY          1.0         79               0.16
+2                   I THOUGHT IT WAS O.K.          2.0         54               0.11
+3  I DID NOT CARE MUCH ONE WAY OR ANOTHER          3.0         65               0.13
+4                    I THOUGHT IT WAS BAD          4.0        295               0.58
+
+
+
+S91.Q87A TACTICAL AIR FORCE?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1                GOOD          1.0        367               0.73
+2                POOR          2.0         48               0.09
+3          NO OPINION          3.0         53                0.1
+4           NO ANSWER          4.0         37               0.07
+
+
+
+S91.Q87B MEDICAL TROOPS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         47               0.09
+1         GOOD          1.0        368               0.73
+2         POOR          2.0         52                0.1
+3   NO OPINION          3.0         39               0.08
+
+
+
+S91.Q87C QUARTERMASTER TROOPS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         67               0.13
+1         GOOD          1.0        225               0.44
+2         POOR          2.0        102                0.2
+3   NO OPINION          3.0        112               0.22
+
+
+
+S91.Q87D ORDNANCE TROOPS?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1                GOOD          1.0        241               0.48
+2                POOR          2.0         68               0.13
+3          NO OPINION          3.0        132               0.26
+4           NO ANSWER          4.0         64               0.13
+
+
+
+S91.Q87E ENGINEER TROOPS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         43               0.08
+1         GOOD          1.0        440               0.87
+2         POOR          2.0          4               0.01
+3   NO OPINION          3.0         19               0.04
+
+
+
+S91.Q87F ARTILLERY?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         25               0.05
+1         GOOD          1.0        467               0.92
+2         POOR          2.0          3               0.01
+3   NO OPINION          3.0         11               0.02
+
+
+
+S91.Q87G TANKS?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1                GOOD          1.0        248               0.49
+2                POOR          2.0        134               0.26
+3          NO OPINION          3.0         78               0.15
+4           NO ANSWER          4.0         45               0.09
+
+
+
+S91.Q88 DID SUPPLIES YOU MUCH WANTED OR NEEDED AT THE FRONT EVER FAIL TO REACH YOU?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0         22               0.04
+1  WE OFTEN DID NOT GET WHAT WE NEEDED          2.0        183               0.36
+2        WE USUALLY GOT WHAT WE NEEDED          1.0        260               0.51
+3         WE SELDOM GOT WHAT WE NEEDED          3.0         41               0.08
+
+
+
+S91.Q89A.x HAVE YOU LISTENED TO RADIO BROADCASTS FROM BERLIN? F. IF "YES," ASK:  Q.89B. HOW DID YOU FEEL ABOUT THE RADIO PROPAGANDA?
+                                                                    answer_label answer_value raw_counts relative_frequency
+0                                                                      NO ANSWER          0.0         28               0.06
+1                                                       YES, LISTEN; MOSTLY LIES          1.0        150                0.3
+2  YES, LISTEN; MOSTLY LIES, BUT MAYBE A LITTLE MORE TRUTH THAN WE CARE TO ADMIT          2.0        111               0.22
+3                                  YES, LISTEN; A LOT OF TRUTH IN WHAT THEY SAID          3.0          3               0.01
+4                                               YES, LISTEN; NO ANSWER TO PART B          4.0          4               0.01
+5                                                              NO, DO NOT LISTEN          5.0        210               0.42
+
+
+
+S91.Q90 DO YOU THINK YOU HAVE BEEN GIVEN ENOUGH TRAINING AND EXPERIENCE SO THAT YOU COULD DO A GOOD JOB OF TAKING CHARGE OF A GROUP OF MEN ON YOUR OWN IN COMBAT?
+                                                answer_label answer_value raw_counts relative_frequency
+0                                                  NO ANSWER          0.0         37               0.07
+1             HAVE BEEN GIVEN ENOUGH TRAINING AND EXPERIENCE          1.0        371               0.73
+2   HAVE NOT BEEN GIVEN QUITE ENOUGH TRAINING AND EXPERIENCE          2.0         78               0.15
+3  HAVE NOT BEEN GIVEN NEARLY ENOUGH TRAINING AND EXPERIENCE          3.0         20               0.04
+
+
+
+S91.Q91 IF YOUR SQUAD OR PLATOON WERE TO GET SEPARATED FROM YOUR OFFICERS IN COMBAT HOW GOOD A JOB DO YOU THINK THE MEN WOULD BE ABLE TO DO IN GOING AHEAD AND CARRYING OUT THEIR MISSION?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0         29               0.06
+1                      A VERY GOOD JOB          1.0        186               0.37
+2                    A FAIRLY GOOD JOB          2.0        251                0.5
+3  DON'T THINK THEY WOULD DO VERY GOOD          3.0         40               0.08
+
+
+
+S91.Q92 HOW OFTEN DOES IT HAPPEN THAT YOU ARE ORDERED TO DO THINGS WITHOUT KNOWING THE REASON WHY?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         26               0.05
+1   VERY OFTEN          1.0        175               0.35
+2        OFTEN          2.0         97               0.19
+3    SOMETIMES          3.0        139               0.27
+4  HARDLY EVER          4.0         52                0.1
+5        NEVER          5.0         17               0.03
+
+
+
+S91.Q93 IF YOU ARE ORDERED TO DO SOMETHING AND NOT TOLD THE REASON WHY, HOW DO YOU FEEL?
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0                                                                                                                 NO ANSWER          0.0         29               0.06
+1                                                                                                  I OBEY CHEERFULLY ALWAYS          1.0         65               0.13
+2                                                                                                  I OBEY BUT NEVER LIKE IT          2.0        188               0.37
+3  I OBEY CHEERFULLY, PROVIDED I FEEL THERE IS A GOOD PURPOSE IN NOT TELLING US THE REASON WHY - OTHERWISE I OBEY BUT DON'T          3.0        212               0.42
+4                                                                                     I TRY TO GET OUT OF DOING IT IF I CAN          4.0         12               0.02
+
+
+
+S91.Q94 WHAT WOULD YOU LIKE TO SEE HAPPEN TO THE GERMANS AFTER THE WAR?
+                                      answer_label answer_value raw_counts relative_frequency
+0                                        NO ANSWER          0.0         33               0.07
+1  PUNISH THE LEADERS, BUT NOT THE ORDINARY GERMAN          1.0        354                0.7
+2    MAKE THE ORDINARY GERMAN PEOPLE SUFFER PLENTY          2.0         26               0.05
+3                 WIPE OUT THE WHOLE GERMAN NATION          3.0         93               0.18
+
+
+
+S91.Q95 WHAT WOULD YOU LIKE TO SEE HAPPEN TO THE JAPANESE AFTER THE WAR?
+                                        answer_label answer_value raw_counts relative_frequency
+0                                          NO ANSWER          0.0         34               0.07
+1  PUNISH THE LEADERS, BUT NOT THE ORDINARY JAPANESE          1.0        115               0.23
+2    MAKE THE ORDINARY JAPANESE PEOPLE SUFFER PLENTY          2.0         34               0.07
+3                 WIPE OUT THE WHOLE JAPANESE NATION          3.0        323               0.64
+
+
+
+S91.Q96 AFTER THE ALLIES WIN THE WAR, HOW DO YOU THINK THE UNITED STATES WILL COME OUT AT THE PEACE CONFERENCE?
+                                                         answer_label answer_value raw_counts relative_frequency
+0                                                  NO CODE OR NO DATA          0.0          1                0.0
+1         EVERYTHING WILL COME OUT THE WAY THE UNITED STATES WANTS IT          1.0         51                0.1
+2  MOST OF THE THINGS WILL BE DONE THE WAY THE UNITED STATES WANTS IT          2.0        170               0.34
+3   ONLY A FEW THINGS WILL BE DONE THE WAY THE UNITED STATES WANTS IT          3.0        103                0.2
+4             NOTHING WILL BE DONE THE WAY THE UNITED STATES WANTS IT          4.0         11               0.02
+5                                                           UNDECIDED          5.0        141               0.28
+6                                                           NO ANSWER          6.0         29               0.06
+
+
+
+S91.V97 PERSONAL ADJUSTMENT SCALE E. DERIVED FROM Q.16, Q.66, Q.67; FURTHER DOCUMENTATION UNAVAILABLE.
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0         75               0.15
+1          SCORE OF 1          1.0        116               0.23
+2          SCORE OF 2          2.0        206               0.41
+3          SCORE OF 3          3.0        109               0.22
+
+
+

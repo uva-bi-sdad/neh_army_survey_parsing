@@ -1,0 +1,1244 @@
+FORMFORM
+            answer_label answer_value raw_counts relative_frequency
+0  S-157E - ENLISTED MEN          1.0       8874                1.0
+
+
+
+S157E.Q1 WHAT IS YOUR ARMY RANK OR GRADE?
+                       answer_label answer_value raw_counts relative_frequency
+0                         NO ANSWER          0.0         38                0.0
+1                           PRIVATE          1.0       1534               0.17
+2               PRIVATE FIRST CLASS          2.0       1612               0.18
+3              TECHNICIAN 5TH GRADE          3.0        662               0.07
+4                          CORPORAL          4.0       1414               0.16
+5              TECHNICIAN 4TH GRADE          5.0        370               0.04
+6                     BUCK SERGEANT          6.0       1093               0.12
+7              TECHNICIAN 3RD GRADE          7.0         39                0.0
+8                    STAFF SERGEANT          8.0       1065               0.12
+9                TECHNICAL SERGEANT          9.0        779               0.09
+10  MASTER SERGEANT OR 1ST SERGEANT         10.0        268               0.03
+
+
+
+S157E.Q2 HOW LONG HAVE YOU HELD YOUR PRESENT RANK?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0        197               0.02
+1                1 MONTH OR LESS          1.0        543               0.06
+2    OVER 1 MONTH UP TO 2 MONTHS          2.0        426               0.05
+3   OVER 2 MONTHS UP TO 3 MONTHS          3.0        488               0.05
+4   OVER 3 MONTHS UP TO 4 MONTHS          4.0        372               0.04
+5   OVER 4 MONTHS UP TO 5 MONTHS          5.0        287               0.03
+6   OVER 5 MONTHS UP TO 6 MONTHS          6.0        381               0.04
+7   OVER 6 MONTHS UP TO 9 MONTHS          7.0        799               0.09
+8     OVER 9 MONTHS UP TO 1 YEAR          8.0       1138               0.13
+9    OVER 1 YEAR UP TO 18 MONTHS          9.0       1663               0.19
+10  OVER 18 MONTHS UP TO 2 YEARS         10.0       1333               0.15
+11                  OVER 2 YEARS         11.0       1247               0.14
+
+
+
+S157E.Q3 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0         60               0.01
+1   18 YEARS OR YOUNGER          1.0        120               0.01
+2                    19          2.0        391               0.04
+3                    20          3.0        386               0.04
+4                    21          4.0        453               0.05
+5                    22          5.0        559               0.06
+6                    23          6.0        668               0.08
+7                    24          7.0        820               0.09
+8                    25          8.0        821               0.09
+9           26-29 YEARS          9.0       2288               0.26
+10          30-34 YEARS         10.0       1393               0.16
+11   35 YEARS AND OLDER         11.0        915                0.1
+
+
+
+S157E.Q4 ARE YOU:
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0         13                0.0
+1                 SINGLE          1.0       4874               0.55
+2                MARRIED          2.0       3725               0.42
+3  DIVORCED OR SEPARATED          3.0        234               0.03
+4                WIDOWED          4.0         28                0.0
+
+
+
+S157E.Q5 HOW MANY CHILDREN DO YOU HAVE?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         76               0.01
+1               HAVE ONE CHILD          1.0       1169               0.13
+2            HAVE TWO CHILDREN          2.0        341               0.04
+3  HAVE THREE OR MORE CHILDREN          3.0        138               0.02
+4             HAVE NO CHILDREN          4.0       2285               0.26
+5              I'M NOT MARRIED          5.0       4865               0.55
+
+
+
+S157E.Q6 IS YOUR WIFE LIVING AT OR NEAR THIS ARMY POST?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         45               0.01
+1              YES          1.0       1695               0.19
+2               NO          2.0       2185               0.25
+3  I'M NOT MARRIED          3.0       4949               0.56
+
+
+
+S157E.Q7 HOW FAR DID YOU GO IN SCHOOL?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0         25                0.0
+1                  LESS THAN 6TH GRADE          1.0        202               0.02
+2                   FINISHED 6TH GRADE          2.0        199               0.02
+3                   FINISHED 7TH GRADE          3.0        378               0.04
+4                   FINISHED 8TH GRADE          4.0       1090               0.12
+5  SOME HIGH SCHOOL BUT DID NOT FINISH          5.0       2390               0.27
+6           GRADUATED FROM HIGH SCHOOL          6.0       2961               0.33
+7      SOME COLLEGE BUT DID NOT FINISH          7.0       1339               0.15
+8               GRADUATED FROM COLLEGE          8.0        290               0.03
+
+
+
+S157E.Q8 HOW DID YOU COME INTO THE ARMY?
+                                   answer_label answer_value raw_counts relative_frequency
+0                                     NO ANSWER          0.0         67               0.01
+1                                 I WAS DRAFTED          1.0       5641               0.64
+2              I VOLUNTEERED AFTER PEARL HARBOR          2.0       1085               0.12
+3             I VOLUNTEERED BEFORE PEARL HARBOR          3.0       1470               0.17
+4                   I WAS IN THE NATIONAL GUARD          4.0        345               0.04
+5  I WAS IN THE E.R.C. (ENLISTED RESERVE CORPS)          5.0        266               0.03
+
+
+
+S157E.Q9 HOW LONG HAVE YOU BEEN IN THE ARMY? E. IF YOU HAVE BEEN IN THE ARMY BEFORE, THEN WERE OUT FOR A WHILE, JUST CHECK THE LENGTH OF TIME SINCE YOU ENTERED THIS LAST TIME. IF YOU WERE IN THE NATIONAL GUARD, CHECK THE LENGTH OF TIME SINCE YOUR OUTFIT CAME INTO
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0         34                0.0
+1            6 MONTHS OR LESS          1.0        165               0.02
+2  OVER 6 MONTHS UP TO 1 YEAR          2.0        900                0.1
+3   OVER 1 YEAR UP TO 2 YEARS          3.0       1857               0.21
+4  OVER 2 YEARS UP TO 3 YEARS          4.0       2827               0.32
+5  OVER 3 YEARS UP TO 5 YEARS          5.0       2593               0.29
+6                OVER 5 YEARS          6.0        498               0.06
+
+
+
+S157E.Q10 WHAT BRANCH OF THE ARMY ARE YOU IN NOW?
+                                                            answer_label answer_value raw_counts relative_frequency
+0                                                              NO ANSWER          0.0          2                0.0
+1                                                             FLYING JOB          1.0       1069               0.12
+2                             GROUND CREW - "LINE" JOB WORKING ON PLANES          2.0       1410               0.16
+3                                                       OTHER GROUND JOB          3.0        603               0.07
+4   MAN APPARENTLY IN AIR FORCE, BUT HAS NOT CHECKED CODES 01, 02, OR 03          4.0          6                0.0
+5                                                              ENGINEERS          5.0       1468               0.17
+6                                                        FIELD ARTILLERY          6.0        299               0.03
+7                                                    QUARTERMASTER CORPS          7.0       1296               0.15
+8                                                               INFANTRY          8.0       1954               0.22
+9                                                     MEDICAL DEPARTMENT          9.0        218               0.02
+10                                                         ARMORED FORCE         10.0         54               0.01
+11                                                          SIGNAL CORPS         11.0        149               0.02
+12                                                  TRANSPORTATION CORPS         12.0         55               0.01
+13                                                         ANTI-AIRCRAFT         13.0          3                0.0
+14                                                       COAST ARTILLERY         14.0          3                0.0
+15                                                  ORDINANCE DEPARTMENT         15.0         13                0.0
+16                                              CHEMICAL WARFARE SERVICE         16.0          2                0.0
+17                                                       MILITARY POLICE         17.0        110               0.01
+18                                                        TANK DESTROYER         18.0          3                0.0
+19                                                                 OTHER         19.0         88               0.01
+20                                                                  DEML         20.0         69               0.01
+
+
+
+S157E.Q11 HAVE YOU EVER SERVED IN THE ARMY OUTSIDE THE UNITED STATES IN THIS WAR?
+  answer_label answer_value raw_counts relative_frequency
+0          YES          1.0       4802               0.54
+1           NO          2.0       4072               0.46
+
+
+
+S157E.Q12 HOW LONG WERE YOU OVERSEAS IN THIS WAR?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         20                0.0
+1              6 MONTHS OR LESS          1.0        167               0.02
+2    OVER 6 MONTHS UP TO 1 YEAR          2.0        869                0.1
+3   OVER 1 YEAR UP TO 18 MONTHS          3.0        817               0.09
+4  OVER 18 MONTHS UP TO 2 YEARS          4.0       1084               0.12
+5    OVER 2 YEARS UP TO 3 YEARS          5.0       1685               0.19
+6                  OVER 3 YEARS          6.0        161               0.02
+7                  INAPPLICABLE          9.0       4071               0.46
+
+
+
+S157E.Q13 HAVE YOU BEEN IN ACTUAL COMBAT OR UNDER ENEMY FIRE IN THIS WAR?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0         32                0.0
+1           YES          1.0       2948               0.33
+2            NO          2.0       1823               0.21
+3  INAPPLICABLE          9.0       4071               0.46
+
+
+
+S157E.Q14 DO YOU HOLD ANY BATTLE OR CAMPAIGN STARS (OR CLUSTERS)?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0         62               0.01
+1           YES          1.0       3072               0.35
+2            NO          2.0       1669               0.19
+3  INAPPLICABLE          9.0       4071               0.46
+
+
+
+S157E.Q15 HAVE YOU RECEIVED OR BEEN RECOMMENDED FOR THE PURPLE HEART IN THIS WAR?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0        149               0.02
+1           YES          1.0        445               0.05
+2            NO          2.0       4209               0.47
+3  INAPPLICABLE          9.0       4071               0.46
+
+
+
+S157E.Q16 FROM WHAT OVERSEAS AREA OR THEATER WERE YOU SHIPPED BACK TO THE U.S.?
+                                      answer_label answer_value raw_counts relative_frequency
+0                                        NO ANSWER          0.0         85               0.01
+1   NATOUSA (ITALY, NORTH AFRICA, SOUTHERN FRANCE)          1.0       1181               0.13
+2             ETO (BRITISH ISLES, NORTHERN FRANCE)          2.0        445               0.05
+3                                        CARIBBEAN          3.0        515               0.06
+4                                    SOUTH PACIFIC          4.0        262               0.03
+5                                SOUTHWEST PACIFIC          5.0        699               0.08
+6                                  CENTRAL PACIFIC          6.0         62               0.01
+7                                ALASKA, ALEUTIANS          7.0       1265               0.14
+8                                CHINA-BURMA-INDIA          8.0        113               0.01
+9                               SOME OTHER THEATER          9.0          2                0.0
+10                                  NORTH AMERICAN         10.0        140               0.02
+11                                     MIDDLE EAST         11.0         34                0.0
+12                                    INAPPLICABLE         99.0       4071               0.46
+
+
+
+S157E.Q17.1 CHECK ALL THE IMPORTANT REASONS WHY YOU WERE SENT BACK TO THE U.S. IF SOME OTHER IMPORTANT REASON, WHAT?
+                                                                   answer_label answer_value raw_counts relative_frequency
+0                                                                     NO ANSWER          0.0         32                0.0
+1                                                      LIMITED ASSIGNMENT (PLA)          1.0        204               0.02
+2                                                                   NERVOUSNESS          2.0         56               0.01
+3                                                 SOME OTHER PHYSICAL CONDITION          3.0         76               0.01
+4                                                           AS HOSPITAL PATIENT          4.0        263               0.03
+5                                                  COMPLETED A TOUR OF MISSIONS          5.0        484               0.05
+6                                                                 ROTATION PLAN          6.0       1757                0.2
+7                                                      CAME BACK WITH MY OUTFIT          7.0        856                0.1
+8                               SOME OTHER IMPORTANT REASON, COMMENT WRITTEN IN          8.0        245               0.03
+9                            SOME OTHER IMPORTANT REASON, NO COMMENT WRITTEN IN          9.0          9                0.0
+10                                                                    AIR CADET         10.0         90               0.01
+11                                                 CODE 04 WITH ANY OTHER CHECK         11.0         43                0.0
+12                               CODES 06 AND 05 (WITH NO OTHERS BEING CHECKED)         12.0         45               0.01
+13  CODE 06 AND/OR 05 WITH 01 (WITH OR WITHOUT ANY ADDITIONAL CHECKS EXCEPT 04)         13.0         40                0.0
+14                      CODE 06 AND/OR 05 WITH ANY OTHER CHECKS EXCEPT 01 OR 04         14.0        129               0.01
+15                            CODE 01 WITH ANY OTHER CHECKS EXCEPT 04, 05 OR 06         15.0         53               0.01
+16                        CODE 07 WITH ANY OTHER CHECKS EXCEPT 01, 04, 05 OR 06         16.0         12                0.0
+17                                   SOME OTHER COMBINATION OF CHECKS NOT ABOVE         17.0          5                0.0
+18                                  INAPPLICABLE OR CODED BELOW Q.17 CONTINUED.         99.0       4475                0.5
+
+
+
+S157E.Q17.2CHECK ALL THE IMPORTANT REASONS WHY YOU WERE SENT BACK TO THE U.S. IF SOME OTHER IMPORTANT REASON, WHAT?
+                        answer_label answer_value raw_counts relative_frequency
+0  NERVOUSNESS AND ANY OTHER IN LIST          1.0        403               0.05
+1                         NOT CHOSEN          2.0       8471               0.95
+
+
+
+S157E.Q18 WHEN DID YOU LAND IN THE U.S.? GIVE THE MONTH IN WHICH YOU ACTUALLY ARRIVED BACK IN THE U.S.
+                                  answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER OR JUST 1943 OR 1944          0.0         55               0.01
+1                            PRIOR TO MAY 1943          1.0        237               0.03
+2                        MAY THRU OCTOBER 1943          2.0        560               0.06
+3   NOVEMBER 1943, DECEMBER 1943, JANUARY 1944          3.0        439               0.05
+4                  FEBRUARY, MARCH, APRIL 1944          4.0        886                0.1
+5                                     MAY 1944          5.0        553               0.06
+6                                    JUNE 1944          6.0        425               0.05
+7                                    JULY 1944          7.0        513               0.06
+8                                  AUGUST 1944          8.0        512               0.06
+9                               SEPTEMBER 1944          9.0        444               0.05
+10                       OCTOBER 1944 OR LATER         10.0        179               0.02
+11                                INAPPLICABLE         99.0       4071               0.46
+
+
+
+S157E.Q19 HOW GOOD A JOB DO YOU THINK THE ARMY DID IN PLACING YOU IN YOUR PRESENT JOB?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0         53               0.01
+1          VERY GOOD JOB OF PLACING ME          1.0        863                0.1
+2        FAIRLY GOOD JOB OF PLACING ME          2.0       1445               0.16
+3        RATHER POOR JOB OF PLACING ME          3.0        696               0.08
+4          VERY POOR JOB OF PLACING ME          4.0        926                0.1
+5  I DON'T HAVE A JOB AT THIS POST YET          5.0        820               0.09
+6                         INAPPLICABLE          9.0       4071               0.46
+
+
+
+S157E.Q20 CHECK ALL THE CHIEF REASONS YOU WERE GIVEN BY THE ARMY FOR BEING PLACED IN YOUR PRESENT JOB: IF SOME OTHER REASON, WHAT?
+                                                                 answer_label answer_value raw_counts relative_frequency
+0                                                                   NO ANSWER          0.0         91               0.01
+1                         BECAUSE I WAS DOING THE SAME JOB BEFORE IN THE ARMY          1.0        404               0.05
+2                                   BECAUSE MY ARMY TRAINING FITTED ME FOR IT          2.0        845                0.1
+3                               BECAUSE MY CIVILIAN TRAINING FITTED ME FOR IT          3.0        182               0.02
+4                                            BECAUSE OF MY PHYSICAL CONDITION          4.0        286               0.03
+5   BECAUSE THE ARMY NEEDS MEN IN THIS JOB AND NOT IN THE JOB I WAS IN BEFORE          5.0        418               0.05
+6                                                   I WASN'T GIVEN ANY REASON          6.0       1254               0.14
+7                                         I DON'T HAVE A JOB AT THIS POST YET          7.0        711               0.08
+8                                       SOME OTHER REASON, COMMENT WRITTEN IN          8.0         99               0.01
+9                                    SOME OTHER REASON, NO COMMENT WRITTEN IN          9.0          6                0.0
+10                                                    CODES 01 AND 02 CHECKED         10.0        158               0.02
+11                     CODES 01 OR 02 WITH 03 CHECKED (COULD BE TRIPLE CHECK)         11.0        122               0.01
+12                      CODES 01 OR 02 OR 03 WITH 04 (ALL 4 COULD BE CHECKED)         12.0        124               0.01
+13                      CODES 01 OR 02 OR 03 WITH 05 (ALL 4 COULD BE CHECKED)         13.0         61               0.01
+14                                                    CODE 04 WITH 05 CHECKED         14.0          9                0.0
+15                                               ALL OTHER COMBINATION CHECKS         15.0         32                0.0
+16                                                               INAPPLICABLE         99.0       4072               0.46
+
+
+
+S157E.Q21 NOW CHECK ALL OF THE FOLLOWING THINGS THAT ARE TRUE ABOUT YOUR PRESENT ARMY JOB:
+                                                     answer_label answer_value raw_counts relative_frequency
+0                                                       NO ANSWER          0.0        123               0.01
+1                                   I DID WORK LIKE THIS OVERSEAS          1.0       1031               0.12
+2         I DID WORK LIKE THIS IN THE ARMY BEFORE I WENT OVERSEAS          2.0        302               0.03
+3                           I DID WORK LIKE THIS IN CIVILIAN LIFE          3.0        155               0.02
+4  I NEVER DID WORK LIKE THIS UNTIL AFTER I CAME BACK TO THE U.S.          4.0       1567               0.18
+5                             I DON'T HAVE A JOB AT THIS POST YET          5.0        868                0.1
+6                                           CODES 1 AND 2 CHECKED          6.0        496               0.06
+7                                       CODES 1 OR 2 CHECKED WITH          7.0        261               0.03
+8                                                    INAPPLICABLE          9.0       4071               0.46
+
+
+
+S157E.Q22 WHEN DID YOU ARRIVE AT THE ARMY POST WHERE YOU WERE SUPPOSED TO GET YOUR FIRST REGULAR JOB AFTER COMING BACK FROM OVERSEAS?
+                                  answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER OR JUST 1943 OR 1944          0.0        247               0.03
+1                            PRIOR TO MAY 1943          1.0        136               0.02
+2                        MAY THRU OCTOBER 1943          2.0        315               0.04
+3   NOVEMBER 1943, DECEMBER 1943, JANUARY 1944          3.0        364               0.04
+4                  FEBRUARY, MARCH, APRIL 1944          4.0        594               0.07
+5                                     MAY 1944          5.0        328               0.04
+6                                    JUNE 1944          6.0        356               0.04
+7                                    JULY 1944          7.0        437               0.05
+8                                  AUGUST 1944          8.0        448               0.05
+9                               SEPTEMBER 1944          9.0        649               0.07
+10                       OCTOBER 1944 OR LATER         10.0        929                0.1
+11                                INAPPLICABLE         99.0       4071               0.46
+
+
+
+S157E.Q23 WHAT BRANCH OF THE ARMY WERE YOU IN OVERSEAS JUST BEFORE YOU CAME BACK TO THE U.S.?
+                                                                  answer_label answer_value raw_counts relative_frequency
+0                                                                    NO ANSWER          0.0         25                0.0
+1                                                                   FLYING JOB          1.0        730               0.08
+2                                   GROUND CREW - "LINE" JOB WORKING ON PLANES          2.0        474               0.05
+3                                                             OTHER GROUND JOB          3.0        244               0.03
+4         MAN APPARENTLY IN AIR FORCE, BUT HAS NOT CHECKED CODES 01, 02, OR 03          4.0         18                0.0
+5                                                                    ENGINEERS          5.0        637               0.07
+6                                                              FIELD ARTILLERY          6.0         77               0.01
+7                                                          QUARTERMASTER CORPS          7.0        499               0.06
+8                                                                     INFANTRY          8.0       1225               0.14
+9                                                           MEDICAL DEPARTMENT          9.0         89               0.01
+10                                                               ARMORED FORCE         10.0         30                0.0
+11                                                                SIGNAL CORPS         11.0         49               0.01
+12                                                        TRANSPORTATION CORPS         12.0         81               0.01
+13                                                               ANTI-AIRCRAFT         13.0        167               0.02
+14                                                             COAST ARTILLERY         14.0         87               0.01
+15                                                         ORDNANCE DEPARTMENT         15.0         87               0.01
+16                                                    CHEMICAL WARFARE SERVICE         16.0         12                0.0
+17                                                             MILITARY POLICE         17.0         65               0.01
+18                                                              TANK DESTROYER         18.0         13                0.0
+19                                                                       OTHER         19.0         94               0.01
+20       MORE THAN ONE CHECKED, ONE OF WHICH IS SAME AS BRANCH CHECKED IN Q.10         20.0         58               0.01
+21  MORE THAN ONE CHECKED, NEITHER OF WHICH IS THE SAME BRANCH CHECKED IN Q.10         21.0         38                0.0
+22                                                                INAPPLICABLE         99.0       4075               0.46
+
+
+
+S157E.Q24 HOW DO YOU FEEL ABOUT THE FACT THAT YOU WERE ASSIGNED OR REASSIGNED TO THE ARM OR BRANCH OF SERVICE YOU ARE NOW IN?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0        126               0.01
+1    VERY WELL SATISFIED          1.0       1315               0.15
+2  FAIRLY WELL SATISFIED          2.0       1212               0.14
+3  SOMEWHAT DISSATISFIED          3.0        985               0.11
+4      VERY DISSATISFIED          4.0       1165               0.13
+5           INAPPLICABLE          9.0       4071               0.46
+
+
+
+S157E.Q25.1 CHECK ANY OF THE FOLLOWING TRAINING COURSES YOU HAVE HAD SINCE YOU CAME BACK FROM OVERSEAS: IF SOME OTHER TRAINING COURSE, WHAT?
+                     answer_label answer_value raw_counts relative_frequency
+0  STRAIGHT BASIC TRAINING COURSE          1.0        720               0.08
+1                      NOT CHOSEN          2.0       8154               0.92
+
+
+
+S157E.Q25.2CHECK ANY OF THE FOLLOWING TRAINING COURSES YOU HAVE HAD SINCE YOU CAME BACK FROM OVERSEAS: IF SOME OTHER TRAINING COURSE, WHAT?
+                                          answer_label answer_value raw_counts relative_frequency
+0  REFRESHER TRAINING COURSE OR CONDENSED BASIC COURSE          1.0       1308               0.15
+1                                           NOT CHOSEN          2.0       7566               0.85
+
+
+
+S157E.Q25.3CHECK ANY OF THE FOLLOWING TRAINING COURSES YOU HAVE HAD SINCE YOU CAME BACK FROM OVERSEAS: IF SOME OTHER TRAINING COURSE, WHAT?
+   answer_label answer_value raw_counts relative_frequency
+0  CADRE SCHOOL          1.0        454               0.05
+1    NOT CHOSEN          2.0       8420               0.95
+
+
+
+S157E.Q25.4CHECK ANY OF THE FOLLOWING TRAINING COURSES YOU HAVE HAD SINCE YOU CAME BACK FROM OVERSEAS: IF SOME OTHER TRAINING COURSE, WHAT?
+          answer_label answer_value raw_counts relative_frequency
+0  SPECIALISTS, SCHOOL          1.0        785               0.09
+1           NOT CHOSEN          2.0       8089               0.91
+
+
+
+S157E.Q25.5CHECK ANY OF THE FOLLOWING TRAINING COURSES YOU HAVE HAD SINCE YOU CAME BACK FROM OVERSEAS: IF SOME OTHER TRAINING COURSE, WHAT?
+                 answer_label answer_value raw_counts relative_frequency
+0  SOME OTHER TRAINING COURSE          1.0        227               0.03
+1                  NOT CHOSEN          2.0       8647               0.97
+
+
+
+S157E.Q25.6CHECK ANY OF THE FOLLOWING TRAINING COURSES YOU HAVE HAD SINCE YOU CAME BACK FROM OVERSEAS: IF SOME OTHER TRAINING COURSE, WHAT?
+                                             answer_label answer_value raw_counts relative_frequency
+0  HAVE HAD NO TRAINING COURSES SINCE COMING BACK TO U.S.          1.0       1852               0.21
+1                                              NOT CHOSEN          2.0       7022               0.79
+
+
+
+S157E.Q25.7CHECK ANY OF THE FOLLOWING TRAINING COURSES YOU HAVE HAD SINCE YOU CAME BACK FROM OVERSEAS: IF SOME OTHER TRAINING COURSE, WHAT?
+        answer_label answer_value raw_counts relative_frequency
+0  2 "OTHER" COURSES          1.0          1                0.0
+1         NOT CHOSEN          2.0       8873                1.0
+
+
+
+S157E.Q25.8CHECK ANY OF THE FOLLOWING TRAINING COURSES YOU HAVE HAD SINCE YOU CAME BACK FROM OVERSEAS: IF SOME OTHER TRAINING COURSE, WHAT?
+       answer_label answer_value raw_counts relative_frequency
+0  3 "OTHER COURSES          1.0          1                0.0
+1        NOT CHOSEN          2.0       8873                1.0
+
+
+
+S157E.Q25.9CHECK ANY OF THE FOLLOWING TRAINING COURSES YOU HAVE HAD SINCE YOU CAME BACK FROM OVERSEAS: IF SOME OTHER TRAINING COURSE, WHAT?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0        123               0.01
+1   NOT CHOSEN          2.0       8751               0.99
+
+
+
+S157E.Q25.10CHECK ANY OF THE FOLLOWING TRAINING COURSES YOU HAVE HAD SINCE YOU CAME BACK FROM OVERSEAS: IF SOME OTHER TRAINING COURSE, WHAT?
+   answer_label answer_value raw_counts relative_frequency
+0  INAPPLICABLE          1.0       4071               0.46
+1    NOT CHOSEN          2.0       4803               0.54
+
+
+
+S157E.Q26.1 NOW CHECK ANY OF THE FOLLOWING TRAINING COURSES YOU HAVE HAD SINCE YOU CAME BACK FROM OVERSEAS THAT YOU THINK WERE NOT NECESSARY: IF SOME OTHER COURSE, WHAT?
+                     answer_label answer_value raw_counts relative_frequency
+0  STRAIGHT BASIC TRAINING COURSE          1.0        648               0.07
+1                      NOT CHOSEN          2.0       8226               0.93
+
+
+
+S157E.Q26.2NOW CHECK ANY OF THE FOLLOWING TRAINING COURSES YOU HAVE HAD SINCE YOU CAME BACK FROM OVERSEAS THAT YOU THINK WERE NOT NECESSARY: IF SOME OTHER COURSE, WHAT?
+                                          answer_label answer_value raw_counts relative_frequency
+0  REFRESHER TRAINING COURSE OR CONDENSED BASIC COURSE          1.0        681               0.08
+1                                           NOT CHOSEN          2.0       8193               0.92
+
+
+
+S157E.Q26.3NOW CHECK ANY OF THE FOLLOWING TRAINING COURSES YOU HAVE HAD SINCE YOU CAME BACK FROM OVERSEAS THAT YOU THINK WERE NOT NECESSARY: IF SOME OTHER COURSE, WHAT?
+   answer_label answer_value raw_counts relative_frequency
+0  CADRE SCHOOL          1.0        180               0.02
+1    NOT CHOSEN          2.0       8694               0.98
+
+
+
+S157E.Q26.4NOW CHECK ANY OF THE FOLLOWING TRAINING COURSES YOU HAVE HAD SINCE YOU CAME BACK FROM OVERSEAS THAT YOU THINK WERE NOT NECESSARY: IF SOME OTHER COURSE, WHAT?
+          answer_label answer_value raw_counts relative_frequency
+0  SPECIALISTS, SCHOOL          1.0        219               0.02
+1           NOT CHOSEN          2.0       8655               0.98
+
+
+
+S157E.Q26.5NOW CHECK ANY OF THE FOLLOWING TRAINING COURSES YOU HAVE HAD SINCE YOU CAME BACK FROM OVERSEAS THAT YOU THINK WERE NOT NECESSARY: IF SOME OTHER COURSE, WHAT?
+                 answer_label answer_value raw_counts relative_frequency
+0  SOME OTHER TRAINING COURSE          1.0        107               0.01
+1                  NOT CHOSEN          2.0       8767               0.99
+
+
+
+S157E.Q26.6NOW CHECK ANY OF THE FOLLOWING TRAINING COURSES YOU HAVE HAD SINCE YOU CAME BACK FROM OVERSEAS THAT YOU THINK WERE NOT NECESSARY: IF SOME OTHER COURSE, WHAT?
+                                                                     answer_label answer_value raw_counts relative_frequency
+0  ALL TRAINING COURSES I HAVE HAD SINCE COMING BACK TO THE U.S. SEEMED NECESSARY          1.0        767               0.09
+1                                                                      NOT CHOSEN          2.0       8107               0.91
+
+
+
+S157E.Q26.7NOW CHECK ANY OF THE FOLLOWING TRAINING COURSES YOU HAVE HAD SINCE YOU CAME BACK FROM OVERSEAS THAT YOU THINK WERE NOT NECESSARY: IF SOME OTHER COURSE, WHAT?
+                                             answer_label answer_value raw_counts relative_frequency
+0  HAVE HAD NO TRAINING COURSES SINCE COMING BACK TO U.S.          1.0       1827               0.21
+1                                              NOT CHOSEN          2.0       7047               0.79
+
+
+
+S157E.Q26.8NOW CHECK ANY OF THE FOLLOWING TRAINING COURSES YOU HAVE HAD SINCE YOU CAME BACK FROM OVERSEAS THAT YOU THINK WERE NOT NECESSARY: IF SOME OTHER COURSE, WHAT?
+        answer_label answer_value raw_counts relative_frequency
+0  3 "OTHER" COURSES          1.0          1                0.0
+1         NOT CHOSEN          2.0       8873                1.0
+
+
+
+S157E.Q26.9NOW CHECK ANY OF THE FOLLOWING TRAINING COURSES YOU HAVE HAD SINCE YOU CAME BACK FROM OVERSEAS THAT YOU THINK WERE NOT NECESSARY: IF SOME OTHER COURSE, WHAT?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0        620               0.07
+1   NOT CHOSEN          2.0       8254               0.93
+
+
+
+S157E.Q26.10NOW CHECK ANY OF THE FOLLOWING TRAINING COURSES YOU HAVE HAD SINCE YOU CAME BACK FROM OVERSEAS THAT YOU THINK WERE NOT NECESSARY: IF SOME OTHER COURSE, WHAT?
+   answer_label answer_value raw_counts relative_frequency
+0  INAPPLICABLE          1.0       4071               0.46
+1    NOT CHOSEN          2.0       4803               0.54
+
+
+
+S157E.Q27 WERE YOU EVER TOLD OFFICIALLY YOU WOULD BE ASSIGNED TO DUTY AT A STATION NEAR YOUR HOME? IF YES, WHERE WERE YOU WHEN YOU WERE TOLD THIS?
+                                     answer_label answer_value raw_counts relative_frequency
+0                                       NO ANSWER          0.0         76               0.01
+1                        YES, SOME PLACE OVERSEAS          1.0        420               0.05
+2                 YES, SOME PLACE IN THIS COUNTRY          2.0       1310               0.15
+3    YES, OVERSEAS AND SOME PLACE IN THIS COUNTRY          3.0         84               0.01
+4                                YES, ON THE BOAT          4.0          4                0.0
+5  YES, SOME OTHER PLACE OR COMBINATION OF PLACES          5.0         42                0.0
+6                            YES, WITH NO COMMENT          6.0        192               0.02
+7                                              NO          7.0       2675                0.3
+8                                    INAPPLICABLE          9.0       4071               0.46
+
+
+
+S157E.Q28A HOW DO YOU FEEL ABOUT SERVING OVERSEAS AGAIN?
+                                                                           answer_label answer_value raw_counts relative_frequency
+0                                                                             NO ANSWER          0.0         47               0.01
+1                                      I WANT TO GET OVERSEAS AGAIN AS SOON AS POSSIBLE          1.0        327               0.04
+2                                                   I'M READY TO GO WHENEVER I'M NEEDED          2.0        915                0.1
+3  I'D LIKE TO STAY IN THE U.S. FOR A FEW MONTHS, BUT THEN I'LL BE READY TO GO ANYWHERE          3.0        416               0.05
+4                                                     I DON'T WANT TO GO OVERSEAS AGAIN          4.0       3013               0.34
+5                     CODE 1, 2 OR 3 CHECKED WITH 4, BUT A TYPE A COMMENT IS WRITTEN IN          5.0          9                0.0
+6                            NO ANSWER TO CHECK LIST BUT A TYPE A COMMENT IS WRITTEN IN          6.0         32                0.0
+7                       CODE 1, 2 OR 3 CHECKED WITH 4, BUT TYPE B COMMENT IS WRITTEN IN          7.0          9                0.0
+8                            NO ANSWER TO CHECK LIST BUT A TYPE B COMMENT IS WRITTEN IN          8.0         35                0.0
+9                                                                          INAPPLICABLE          9.0       4071               0.46
+
+
+
+S157E.Q28B.1 WHAT ARE THE REASONS FOR YOUR ANSWER? E. TYPE A (CODES "1", "2", "3", "5" OR "6" CHECKED
+                                                                                                                answer_label answer_value raw_counts relative_frequency
+0    I WANT TO GET INTO THIS FIGHT; I'VE BEEN IN THE STATES LONG ENOUGH; I WANT TO SOLDIER (REPEATS CODE "1" CATEGORY Q.28A)          1.0         55               0.01
+1   I COULD BE OF MORE USE (TO THE ARMY) OVER THERE; WOULD HAVE BETTER CHANCE OF DOING MY SHARE OR WHAT I WAS TRAINED FOR AN          2.0        187               0.02
+2   WANT TO GET AWAY FROM ALL THIS GARRISON SOLDIERING; WANT TO GET AWAY FROM MY PRESENT OUTFIT; TOO G.I. HERE IN THE STATES          3.0        290               0.03
+3   IT'S MY PATRIOTIC DUTY; BECAUSE I'M A SOLDIER; I'M READY TO SERVE WHEN AND WHERE THE ARMY NEEDS ME; AS LONG AS I'M IN TH          4.0        232               0.03
+4        WILLING TO GO LATER - AFTER ZI SOLDIERS (U.S. COMMANDOS) HAVE GONE OVER; PLENTY AVAILABLE WHO HAVEN'T BEEN OVER YET          5.0        157               0.02
+5   WILLING TO GO LATER - BUT WANT MORE TIME IN THE STATES BECAUSE; - (ANY REASON EXCEPT CODE "05" ABOVE) (E.G. - AFTER MORE          6.0        139               0.02
+6   WILLING TO GO BUT NOT ABLE TO GO BECAUSE; - (E.G. - NOT PHYSICALLY OR MENTALLY ABLE TO TAKE IT; CLASSIFIED AS PHYSICALLY          7.0         49               0.01
+7             WILLING (READY) TO GO - BUT WOULD RATHER NOT GO AT ALL; IF THE ARMY SAYS GO, YOU GO WHETHER YOU WANT TO OR NOT          8.0         73               0.01
+8          WILLING TO GO - IF I DON'T GO OVER, I'LL NEVER GET OUT OF THIS ARMY; ZI MEN HAVE LOW SCORE ON DEMOBILIZATION PLAN          9.0          5                0.0
+9                                                                           ANSWER IS OF TYPE, "I DON'T WANT TO GO OVERSEAS"         10.0         26                0.0
+10                                                                        ALL OTHER COMMENTS INDICATING MAN IS WILLING TO GO         11.0        131               0.01
+11                                                                                                     NO COMMENT WRITTEN IN         12.0        355               0.04
+12                                                                                               NO ANSWER TO Q.28A OR Q.28B         13.0         47               0.01
+13                                                                           INAPPLICABLE (MEN WHO HAVE NOT SERVED OVERSEAS)         14.0       4071               0.46
+14                              INAPPLICABLE (ALL OTHER RESPONSES TO Q.28A) E. TYPE B (CODES "4", "7" OR "8" CHECKED Q.28A):         15.0       3057               0.34
+
+
+
+S157E.Q28B.2S157EQ28B. WHAT ARE THE REASONS FOR YOUR ANSWER? E. TYPE A (CODES "1", "2", "3", "5" OR "6" CHECKED Q.28A):
+                                                                                                                answer_label answer_value raw_counts relative_frequency
+0   HAVE DONE MY SHARE (NOT COMBINED WITH CODE "02" BELOW); WAS OVER THERE LONG ENOUGH; FED UP WITH SOLDIERING; WANT TO STAY          1.0        409               0.05
+1   AGGRESSION VS Z.I. SOLDIERS: THERE ARE PLENTY WHO HAVEN'T BEEN OVERSEAS; LET THEM HAVE SOME OF THE GLORY AND FIND OUT WH          2.0        763               0.09
+2                    PHYSICALLY UNFIT; TOO OLD; LIMITED SERVICE; DISQUALIFIED FOR OVERSEAS DUTY (D.P.O., P.L.A., N.F.P.O.R.)          3.0        617               0.07
+3                MENTALLY UNFIT; NERVOUSNESS; TROUBLE SLEEPING (STOMACH TROUBLE IS LIKELY TO BE MENTAL RATHER THAN PHYSICAL)          4.0        216               0.02
+4   WILLING TO GO LATER - AFTER Z.I. SOLDIERS (U.S. COMMANDOS) HAVE GONE OVER; PLENTY OF Z.I. AVAILABLE WHO HAVEN'T BEEN OVE          5.0        170               0.02
+5                       COULDN'T TAKE IT; IT'S NO GOOD; TOO TOUGH; DANGEROUS; (NO MENTION OF CODES "01", "03" OR "04" ABOVE)          6.0        217               0.02
+6                                                                                                    HOME AND FAMILY REASONS          7.0        168               0.02
+7   BECAUSE I WANT OR EXPECT TO BE DISCHARGED FROM THE ARMY (SOON); WILL BE AWAY TOO LONG IF I GO NOW; WILL BE STUCK IN ARMY          8.0         28                0.0
+8   AGGRESSION VS ARMY, OFFICERS, CIVILIANS - BECAUSE OF THE WAY I'VE BEEN TREATED (E.G. - BECAUSE OF THE WAY I'VE BEEN TREA          9.0         86               0.01
+9    COMMENT IS INCONSISTENT WITH CHECK IN Q.28A; WILLING TO GO LATER BUT WANT MORE TIME IN THE STATES BECAUSE - (ANY REASON         10.0         57               0.01
+10                                                            ALL OTHER COMMENTS INDICATING MAN DOES NOT WANT TO GO OVERSEAS         11.0        122               0.01
+11                                                                                                     NO COMMENT WRITTEN IN         12.0        204               0.02
+12                                                                                               NO ANSWER TO Q.28A OR Q.28B         13.0         47               0.01
+13                                                                           INAPPLICABLE (MEN WHO HAVE NOT SERVED OVERSEAS)         14.0       4071               0.46
+14                                                                               INAPPLICABLE (ALL OTHER RESPONSES TO Q.28A)         15.0       1699               0.19
+
+
+
+S157E.Q29 REGARDLESS OF WHAT YOU WANT TO DO, DO YOU THINK YOU ACTUALLY WILL BE SENT TO SOME OVERSEAS THEATER AGAIN?
+                                   answer_label answer_value raw_counts relative_frequency
+0                                     NO ANSWER          0.0         71               0.01
+1        I AM VERY SURE I'LL BE SENT OVER AGAIN          1.0        372               0.04
+2      I AM FAIRLY SURE I'LL BE SENT OVER AGAIN          2.0        663               0.07
+3             THE CHANCES ARE ABOUT FIFTY-FIFTY          3.0       1617               0.18
+4  I AM FAIRLY SURE I'LL NOT BE SENT OVER AGAIN          4.0        733               0.08
+5    I AM VERY SURE I'LL NOT BE SENT OVER AGAIN          5.0        338               0.04
+6                                     UNDECIDED          6.0       1009               0.11
+7                                  INAPPLICABLE          9.0       4071               0.46
+
+
+
+S157E.Q30 KNOWING WHAT YOU DO NOW, HOW DO YOU FEEL ABOUT HAVING COME BACK TO THE U.S.?
+                                                                                    answer_label answer_value raw_counts relative_frequency
+0                                                                                      NO ANSWER          0.0        152               0.02
+1                                                                      I WISH I HADN'T COME BACK          1.0        573               0.06
+2  I WOULD RATHER HAVE COME BACK JUST FOR A FURLOUGH AND THEN RETURNED TO MY OLD OUTFIT OVERSEAS          2.0        815               0.09
+3                                                                          I AM GLAD I CAME BACK          3.0       3109               0.35
+4                                                                                 SOMETHING ELSE          4.0        154               0.02
+5                                                                                   INAPPLICABLE          9.0       4071               0.46
+
+
+
+S157E.Q31A HOW DO YOU FEEL ABOUT SERVING OVERSEAS?
+                                                                           answer_label answer_value raw_counts relative_frequency
+0                                            I WANT TO GET OVERSEAS AS SOON AS POSSIBLE          1.0        485               0.05
+1                                                   I'M READY TO GO WHENEVER I'M NEEDED          2.0       2219               0.25
+2  I'D LIKE TO STAY IN THE U.S. FOR A FEW MONTHS, BUT THEN I'LL BE READY TO GO ANYWHERE          3.0        242               0.03
+3                                                           I DON'T WANT TO GO OVERSEAS          4.0        979               0.11
+4                       CODE 1, 2 OR 3 CHECKED WITH 4, BUT TYPE A COMMENT IS WRITTEN IN          5.0          3                0.0
+5                        NO ANSWER TO THE CHECK LIST BUT A TYPE A COMMENT IS WRITTEN IN          6.0          4                0.0
+6                     CODE 1, 2 OR 3 CHECKED WITH 4, BUT A TYPE B COMMENT IS WRITTEN IN          7.0          2                0.0
+7                        NO ANSWER TO THE CHECK LIST BUT A TYPE B COMMENT IS WRITTEN IN          8.0         16                0.0
+8                                                               INAPPLICABLE, NO ANSWER          9.0       4924               0.55
+
+
+
+S157E.Q31B.1 WHAT ARE THE REASONS FOR YOUR ANSWER? E. TYPE A (CODES "1", "2", "3", "5" OR "6" CHECKED Q.31A):
+                                                                                                                answer_label answer_value raw_counts relative_frequency
+0    I WANT TO GET INTO THIS FIGHT; I'VE BEEN IN THE STATES LONG ENOUGH; I WANT TO SOLDIER (REPEATS CODE "1" CATEGORY Q.31A)          1.0        212               0.02
+1   I COULD BE OF MORE USE (TO THE ARMY) OVER THERE; WOULD HAVE BETTER CHANCE OF DOING MY SHARE OR WHAT I WAS TRAINED FOR AN          2.0        453               0.05
+2   WANT TO GET AWAY FROM ALL THIS GARRISON SOLDIERING; WANT TO GET AWAY FROM MY PRESENT OUTFIT; TOO G.I. HERE IN THE STATES          3.0         99               0.01
+3   IT'S MY PATRIOTIC DUTY; BECAUSE I'M A SOLDIER; I'M READY TO SERVE WHEN AND WHERE THE ARMY NEEDS ME; AS LONG AS I'M IN TH          4.0        753               0.08
+4      WILLING TO GO LATER - AFTER Z.I. SOLDIERS (U.S. COMMANDOS) HAVE GONE OVER; PLENTY AVAILABLE WHO HAVEN'T BEEN OVER YET          5.0          4                0.0
+5   WILLING TO GO LATER - BUT WANT MORE TIME IN THE STATES BECAUSE; - (ANY REASON EXCEPT CODE "05" ABOVE) (E.G. - AFTER MORE          6.0        225               0.03
+6   WILLING TO GO BUT NOT ABLE TO GO BECAUSE; - (E.G. - NOT PHYSICALLY OR MENTALLY ABLE TO TAKE IT; CLASSIFIED AS PHYSICALLY          7.0        107               0.01
+7             WILLING (READY) TO GO - BUT WOULD RATHER NOT GO AT ALL; IF THE ARMY SAYS GO, YOU GO WHETHER YOU WANT TO OR NOT          8.0        176               0.02
+8        WILLING TO GO - IF I DON'T GO OVER, I'LL NEVER GET OUT OF THIS ARMY; Z.I. MEN HAVE LOW SCORE ON DEMOBILIZATION PLAN          9.0         46               0.01
+9                                                                           ANSWER IS OF TYPE, "I DON'T WANT TO GO OVERSEAS"         10.0         34                0.0
+10                                                                        ALL OTHER COMMENTS INDICATING MAN IS WILLING TO GO         11.0         82               0.01
+11                                                                                                     NO COMMENT WRITTEN IN         12.0        762               0.09
+12                                                            INAPPLICABLE (OVERSEAS RETURNEES), NO ANSWER TO Q.31A OR Q.31B         13.0       4924               0.55
+13                              INAPPLICABLE (ALL OTHER RESPONSES TO Q.31A) E. TYPE B (CODES "4", "7" OR "8" CHECKED Q.31A):         14.0        997               0.11
+
+
+
+S157E.Q31B.2S157EQ31B. WHAT ARE THE REASONS FOR YOUR ANSWER? E. TYPE A (CODES "1", "2", "3", "5" OR "6" CHECKED Q.31A):
+                                                                                                                answer_label answer_value raw_counts relative_frequency
+0   HAVE DONE MY SHARE (NOT COMBINED WITH CODE "02" BELOW); WAS OVER THERE LONG ENOUGH; FED UP WITH SOLDIERING; WANT TO STAY          1.0         10                0.0
+1   AGGRESSION VS Z.I. SOLDIERS: THERE ARE PLENTY WHO HAVEN'T BEEN OVERSEAS; LET THEM HAVE SOME OF THE GLORY AND FIND OUT WH          2.0          7                0.0
+2                    PHYSICALLY UNFIT; TOO OLD; LIMITED SERVICE; DISQUALIFIED FOR OVERSEAS DUTY (D.P.O., P.L.A., N.F.P.O.R.)          3.0        368               0.04
+3                MENTALLY UNFIT; NERVOUSNESS; TROUBLE SLEEPING (STOMACH TROUBLE IS LIKELY TO BE MENTAL RATHER THAN PHYSICAL)          4.0         34                0.0
+4   WILLING TO GO LATER - AFTER Z.I. SOLDIERS (U.S. COMMANDOS) HAVE GONE OVER; PLENTY OF Z.I. AVAILABLE WHO HAVEN'T BEEN OVE          5.0          1                0.0
+5                       COULDN'T TAKE IT; IT'S NO GOOD; TOO TOUGH; DANGEROUS; (NO MENTION OF CODES "01", "03" OR "04" ABOVE)          6.0         57               0.01
+6                                                                                                    HOME AND FAMILY REASONS          7.0        231               0.03
+7   BECAUSE I WANT OR EXPECT TO BE DISCHARGED FROM THE ARMY (SOON); WILL BE AWAY TOO LONG IF I GO NOW; WILL BE STUCK IN ARMY          8.0         51               0.01
+8   AGGRESSION VS ARMY, OFFICERS, CIVILIANS - BECAUSE OF THE WAY I'VE BEEN TREATED (E.G. - BECAUSE OF THE WAY I'VE BEEN TREA          9.0         10                0.0
+9    COMMENT IS INCONSISTENT WITH CHECK IN Q.31A; WILLING TO GO LATER BUT WANT MORE TIME IN THE STATES BECAUSE - (ANY REASON         10.0         28                0.0
+10                                                            ALL OTHER COMMENTS INDICATING MAN DOES NOT WANT TO GO OVERSEAS         11.0        113               0.01
+11                                                                                                     NO COMMENT WRITTEN IN         12.0         87               0.01
+12                                                            INAPPLICABLE (OVERSEAS RETURNEES), NO ANSWER TO Q.31A OR Q.31B         13.0       4924               0.55
+13                                                                               INAPPLICABLE (ALL OTHER RESPONSES TO Q.31A)         14.0       2953               0.33
+
+
+
+S157E.Q32 REGARDLESS OF WHAT YOU WANT TO DO, DO YOU THINK YOU ACTUALLY WILL BE SENT TO SOME OVERSEAS THEATER?
+                                                 answer_label answer_value raw_counts relative_frequency
+0        I AM VERY SURE I'LL BE SENT TO SOME OVERSEAS THEATER          1.0        877                0.1
+1      I AM FAIRLY SURE I'LL BE SENT TO SOME OVERSEAS THEATER          2.0        918                0.1
+2                           THE CHANCES ARE ABOUT FIFTY-FIFTY          3.0        946               0.11
+3  I AM FAIRLY SURE I'LL NOT BE SENT TO SOME OVERSEAS THEATER          4.0        507               0.06
+4    I AM VERY SURE I'LL NOT BE SENT TO SOME OVERSEAS THEATER          5.0        179               0.02
+5                                                   UNDECIDED          6.0        498               0.06
+6                                     INAPPLICABLE, NO ANSWER          9.0       4949               0.56
+
+
+
+S157E.Q33 IN THE OUTFIT YOU ARE NOW WITH, ARE YOU ASSIGNED, ATTACHED, OR A CASUAL?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0        176               0.02
+1    I AM ASSIGNED          1.0       6196                0.7
+2    I AM ATTACHED          2.0       1216               0.14
+3    I AM A CASUAL          3.0        588               0.07
+4     I DON'T KNOW          4.0        689               0.08
+5  1 AND 3 CHECKED          5.0          1                0.0
+6  2 AND 3 CHECKED          6.0          8                0.0
+
+
+
+FORM..1FORM.
+            answer_label answer_value raw_counts relative_frequency
+0  S-157E - ENLISTED MEN          1.0       8874                1.0
+
+
+
+S157E.Q34A WHAT IS THE JOB YOU ARE NOW DOING IN YOUR PRESENT OUTFIT?
+                                                               answer_label answer_value raw_counts relative_frequency
+0                                                                 NO ANSWER          0.0        161               0.02
+1                                   I AM TAKING TRAINING OR GOING TO SCHOOL          1.0       1531               0.17
+2   I AM WORKING ON THE JOB WHICH THE ARMY HAS CLASSIFIED OR TRAINED ME FOR          2.0       4536               0.51
+3                                    I AM WORKING ON SOME OTHER REGULAR JOB          3.0       1118               0.13
+4                                                             I AM A CASUAL          4.0        338               0.04
+5                                         I AM NOT WORKING ON A REGULAR JOB          5.0        627               0.07
+6                                                         04 AND 05 CHECKED          6.0         51               0.01
+7                                           ANY COMBINATION OF 01, 02 OR 03          7.0        336               0.04
+8                                   ANY COMBINATION OF 04 WITH 01, 02 OR 03          8.0         53               0.01
+9                                       ANY COMBINATION OF 05 WITH 01 OR 02          9.0         97               0.01
+10                                                  01 OR 02 WITH 04 AND 05         10.0         26                0.0
+
+
+
+S157E.Q34B IF YOU ARE NOT WORKING ON A REGULAR JOB NOW OR ARE A CASUAL, WHEN DID YOU LEAVE YOUR LAST REGULAR ARMY JOB?
+                                  answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER OR JUST 1943 OR 1944          0.0       7217               0.81
+1                                PRIOR TO 1943          1.0         45               0.01
+2                        MAY THRU OCTOBER 1943          2.0        104               0.01
+3   NOVEMBER 1943, DECEMBER 1943, JANUARY 1944          3.0         90               0.01
+4                  FEBRUARY, MARCH, APRIL 1944          4.0        240               0.03
+5                                     MAY 1944          5.0        164               0.02
+6                                    JUNE 1944          6.0        147               0.02
+7                                    JULY 1944          7.0        217               0.02
+8                                  AUGUST 1944          8.0        195               0.02
+9                               SEPTEMBER 1944          9.0        253               0.03
+10                       OCTOBER 1944 OR LATER         10.0        202               0.02
+
+
+
+S157E.Q35 HOW DO YOU FEEL ABOUT THE IMPORTANCE OF THE WORK YOU ARE DOING RIGHT NOW AS COMPARED WITH OTHER JOBS YOU MIGHT BE DOING IN THE ARMY?
+                                                 answer_label answer_value raw_counts relative_frequency
+0                                                   NO ANSWER          0.0        235               0.03
+1              IT IS AS IMPORTANT AS ANY OTHER JOB I COULD DO          1.0       4534               0.51
+2  IT IS FAIRLY IMPORTANT, BUT I COULD DO MORE IMPORTANT WORK          2.0       2362               0.27
+3                            IT HARDLY SEEMS IMPORTANT AT ALL          3.0       1743                0.2
+
+
+
+S157E.Q36 DOES THE ARMY JOB YOU NOW HAVE GIVE YOU A CHANCE TO USE YOUR SKILL AND EXPERIENCE?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0        170               0.02
+1    A VERY GOOD CHANCE          1.0       2334               0.26
+2  A FAIRLY GOOD CHANCE          2.0       2065               0.23
+3  NOT MUCH OF A CHANCE          3.0       1469               0.17
+4      NO CHANCE AT ALL          4.0       2315               0.26
+5             UNDECIDED          5.0        521               0.06
+
+
+
+S157E.Q37 WOULD YOU CHANGE TO SOME OTHER ARMY JOB IF GIVEN A CHANCE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        142               0.02
+1          YES          1.0       4867               0.55
+2           NO          2.0       2471               0.28
+3    UNDECIDED          3.0       1394               0.16
+
+
+
+S157E.Q38 HOW DO YOU FEEL ABOUT THE AMOUNT OF WORK YOU HAVE TO DO?
+                                                            answer_label answer_value raw_counts relative_frequency
+0                                                              NO ANSWER          0.0        247               0.03
+1                     I HAVE TOO MUCH TO DO, BUT MOST OF IT IS NECESSARY          1.0       1360               0.15
+2                   I HAVE TOO MUCH TO DO AND A LOT OF IT IS UNNECESSARY          2.0       2508               0.28
+3                            I HAVE ABOUT THE RIGHT AMOUNT OF WORK TO DO          3.0       3673               0.41
+4               I AM NOT KEPT VERY BUSY, BUT I DON'T MIND SITTING AROUND          4.0        338               0.04
+5  I DON'T HAVE ENOUGH TO DO, AND IT GETS PRETTY TIRESOME SITTING AROUND          5.0        748               0.08
+
+
+
+S157E.Q39 HOW DO YOU FEEL ABOUT YOUR PRESENT CHANCES FOR PROMOTION?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0        224               0.03
+1    VERY WELL SATISFIED          1.0       1067               0.12
+2  FAIRLY WELL SATISFIED          2.0       1394               0.16
+3  SOMEWHAT DISSATISFIED          3.0       1506               0.17
+4      VERY DISSATISFIED          4.0       3523                0.4
+5              UNDECIDED          5.0       1160               0.13
+
+
+
+S157E.Q40 FROM WHAT YOU HAVE SEEN OR HEARD, DO RETURNEES GET JOBS THAT MAKE USE OF THEIR OVERSEAS EXPERIENCE?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0         98               0.01
+1         ALL OF THEM DO          1.0        101               0.01
+2        MOST OF THEM DO          2.0       1735                0.2
+3  ABOUT HALF OF THEM DO          3.0       1534               0.17
+4         FEW OF THEM DO          4.0       3716               0.42
+5        NONE OF THEM DO          5.0        526               0.06
+6             DON'T KNOW          6.0       1164               0.13
+
+
+
+S157E.Q41 DO YOU THINK TRAINING HERE IN THE U.S. IS NOW MAKING USE OF WHAT HAS BEEN LEARNED FROM OVERSEAS EXPERIENCE?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0        124               0.01
+1          YES, MOST OF THE TRAINING DOES          1.0       2361               0.27
+2          YES, SOME OF THE TRAINING DOES          2.0       3410               0.38
+3  NO, NOT VERY MUCH OF THE TRAINING DOES          3.0       1750                0.2
+4           NO, NONE OF THE TRAINING DOES          4.0        432               0.05
+5                              DON'T KNOW          5.0        797               0.09
+
+
+
+S157E.Q43 HOW LONG HAVE YOU BEEN IN YOUR PRESENT COMPANY (BATTERY, SQUADRON)?
+                                    answer_label answer_value raw_counts relative_frequency
+0                                      NO ANSWER          0.0        113               0.01
+1                              ONE MONTH OR LESS          1.0       1447               0.16
+2                  OVER ONE MONTH UP TO 2 MONTHS          2.0       1218               0.14
+3                   OVER 2 MONTHS UP TO 3 MONTHS          3.0       1282               0.14
+4                   OVER 3 MONTHS UP TO 6 MONTHS          4.0       1642               0.19
+5                     OVER 6 MONTHS UP TO 1 YEAR          5.0       1964               0.22
+6                                    OVER 1 YEAR          6.0       1002               0.11
+7  I AM NOT NOW IN A COMPANY (BATTERY, SQUADRON)          7.0        206               0.02
+
+
+
+S157E.Q44 IN GENERAL WOULD YOU SAY THAT YOUR PRESENT OUTFIT HAS GOTTEN A SQUARE DEAL IN THE ARMY?
+                                        answer_label answer_value raw_counts relative_frequency
+0                                          NO ANSWER          0.0        199               0.02
+1                           YES, IN MOST WAYS IT HAS          1.0       2296               0.26
+2                 IN SOME WAYS YES, IN OTHER WAYS NO          2.0       2974               0.34
+3   NO, ON THE WHOLE IT HAS NOT GOTTEN A SQUARE DEAL          3.0       1249               0.14
+4  I HAVEN'T BEEN IN THIS OUTFIT LONG ENOUGH TO KNOW          4.0       2156               0.24
+
+
+
+S157E.Q45A HAS THE C.O. OF YOUR COMPANY (BATTERY, SQUADRON) SERVED OVERSEAS IN THIS WAR?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         72               0.01
+1          YES          1.0       2545               0.29
+2           NO          2.0       4088               0.46
+3   DON'T KNOW          3.0       2169               0.24
+
+
+
+S157E.Q45B ABOUT HOW MANY OF THE NONCOMS IN THE PERMANENT CADRE OF YOUR COMPANY (BATTERY, SQUADRON) HAVE SERVED OVERSEAS IN THIS WAR?
+                                          answer_label answer_value raw_counts relative_frequency
+0                                            NO ANSWER          0.0        142               0.02
+1  ALMOST ALL OF THEM HAVE SERVED OVERSEAS IN THIS WAR          1.0       1105               0.12
+2                     ABOUT THREE-FOURTHS OF THEM HAVE          2.0        886                0.1
+3                              ABOUT HALF OF THEM HAVE          3.0       1605               0.18
+4                        ABOUT ONE-FOURTH OF THEM HAVE          4.0       1717               0.19
+5                             ALMOST NONE OF THEM HAVE          5.0       2189               0.25
+6    I HAVEN'T BEEN IN THIS OUTFIT LONG ENOUGH TO KNOW          6.0       1230               0.14
+
+
+
+S157E.Q45C ABOUT HOW MANY OF THE OTHER ENLISTED MEN IN YOUR COMPANY (BATTERY, SQUADRON) HAVE SERVED OVERSEAS IN THIS WAR?
+                                          answer_label answer_value raw_counts relative_frequency
+0                                            NO ANSWER          0.0        298               0.03
+1  ALMOST ALL OF THEM HAVE SERVED OVERSEAS IN THIS WAR          1.0       1089               0.12
+2                     ABOUT THREE-FOURTHS OF THEM HAVE          2.0        717               0.08
+3                              ABOUT HALF OF THEM HAVE          3.0       1252               0.14
+4                        ABOUT ONE-FOURTH OF THEM HAVE          4.0       1793                0.2
+5                             ALMOST NONE OF THEM HAVE          5.0       2658                0.3
+6    I HAVEN'T BEEN IN THIS OUTFIT LONG ENOUGH TO KNOW          6.0       1067               0.12
+
+
+
+S157E.Q46 HOW MANY OF YOUR PRESENT OFFICERS ARE THE KIND THAT ALWAYS TRY TO LOOK OUT FOR THE WELFARE OF ENLISTED MEN?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        103               0.01
+1         NONE          1.0       1134               0.13
+2          FEW          2.0       3064               0.35
+3   ABOUT HALF          3.0       1126               0.13
+4         MOST          4.0       1519               0.17
+5          ALL          5.0        650               0.07
+6   DON'T KNOW          6.0       1278               0.14
+
+
+
+S157E.Q47 DO YOU FEEL YOU REALLY BELONG IN YOUR COMPANY (BATTERY, SQUADRON) AND ARE AN IMPORTANT PART OF IT?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0        183               0.02
+1    VERY MUCH SO          1.0       1995               0.22
+2  FAIRLY MUCH SO          2.0       2821               0.32
+3   NOT VERY MUCH          3.0       1986               0.22
+4      NOT AT ALL          4.0       1889               0.21
+
+
+
+S157E.Q48 IN GENERAL DO YOU THINK THAT THE ENLISTED MEN IN YOUR PRESENT COMPANY (BATTERY OR SQUADRON) GET A SQUARE DEAL FROM THEIR OFFICERS?
+                                        answer_label answer_value raw_counts relative_frequency
+0                                          NO ANSWER          0.0        107               0.01
+1                          YES, IN MOST WAYS THEY DO          1.0       2982               0.34
+2               IN SOME WAYS, YES, IN OTHER WAYS, NO          2.0       3597               0.41
+3     NO, ON THE WHOLE THEY DO NOT GET A SQUARE DEAL          3.0       1394               0.16
+4  I HAVEN'T BEEN IN THIS OUTFIT LONG ENOUGH TO KNOW          4.0        794               0.09
+
+
+
+S157E.Q49 WHAT DO YOU THINK OF THE MILITARY CONTROL AND DISCIPLINE AT THIS POST?
+                                     answer_label answer_value raw_counts relative_frequency
+0                                       NO ANSWER          0.0        123               0.01
+1     IT'S TOO STRICT BUT MOST OF IT IS NECESSARY          1.0        854                0.1
+2  IT'S TOO STRICT AND A LOT OF IT IS UNNECESSARY          2.0       4597               0.52
+3                                IT'S ABOUT RIGHT          3.0       2979               0.34
+4                          IT'S NOT STRICT ENOUGH          4.0        321               0.04
+
+
+
+S157E.Q50 FROM WHAT YOU HAVE SEEN OR HEARD, DO YOU FEEL M.P.'S TREAT RETURNEES BETTER OR WORSE THAN MEN WHO HAVEN'T BEEN OVERSEAS?
+                                                              answer_label answer_value raw_counts relative_frequency
+0                                                                NO ANSWER          0.0        313               0.04
+1                                            M.P.'S TREAT RETURNEES BETTER          1.0       1102               0.12
+2  M.P.'S TREAT RETURNEES AND MEN WHO HAVEN'T BEEN OVERSEAS ABOUT THE SAME          2.0       5903               0.67
+3                                             M.P.'S TREAT RETURNEES WORSE          3.0       1556               0.18
+
+
+
+S157E.Q51 HOW ARE THE PASSES IN YOUR OUTFIT?
+                                    answer_label answer_value raw_counts relative_frequency
+0                                      NO ANSWER          0.0        160               0.02
+1               TOUGHER TO GET THAN IS NECESSARY          1.0       2557               0.29
+2  TOUGH, BUT THERE ARE SOME GOOD REASONS FOR IT          2.0        737               0.08
+3                                    ABOUT RIGHT          3.0       5420               0.61
+
+
+
+S157E.Q52 WHO HAVE THE BETTER JOBS IN YOUR OUTFIT - ENLISTED MEN WHO HAVE BEEN OVERSEAS OR THOSE WHO HAVEN'T?
+                                        answer_label answer_value raw_counts relative_frequency
+0                                          NO ANSWER          0.0        207               0.02
+1                ENLISTED MEN WHO HAVE BEEN OVERSEAS          1.0        930                0.1
+2             ENLISTED MEN WHO HAVEN'T BEEN OVERSEAS          2.0       2257               0.25
+3                        THERE ISN'T MUCH DIFFERENCE          3.0       4397                0.5
+4  I HAVEN'T BEEN IN THIS OUTFIT LONG ENOUGH TO KNOW          4.0       1083               0.12
+
+
+
+S157E.Q53 IN GENERAL, WOULD YOU RATHER HAVE OFFICERS WHO HAVE SERVED OVERSEAS OR OFFICERS WHO HAVEN'T BEEN OVERSEAS?
+                                           answer_label answer_value raw_counts relative_frequency
+0                                             NO ANSWER          0.0         90               0.01
+1   WOULD RATHER HAVE OFFICERS WHO HAVE SERVED OVERSEAS          1.0       6273               0.71
+2  WOULD RATHER HAVE OFFICERS WHO HAVEN'T BEEN OVERSEAS          2.0        181               0.02
+3                        WOULD RATHER HAVE SOME OF BOTH          3.0       1201               0.14
+4            IT DOESN'T MATTER TO ME ONE WAY OR ANOTHER          4.0       1129               0.13
+
+
+
+S157E.Q54 IN GENERAL, WOULD YOU RATHER HAVE NONCOMS WHO HAVE SERVED OVERSEAS OR NONCOMS WHO HAVEN'T BEEN OVERSEAS?
+                                          answer_label answer_value raw_counts relative_frequency
+0                                            NO ANSWER          0.0         99               0.01
+1   WOULD RATHER HAVE NONCOMS WHO HAVE SERVED OVERSEAS          1.0       6002               0.68
+2  WOULD RATHER HAVE NONCOMS WHO HAVEN'T BEEN OVERSEAS          2.0        310               0.03
+3                       WOULD RATHER HAVE SOME OF BOTH          3.0       1375               0.15
+4           IT DOESN'T MATTER TO ME ONE WAY OR ANOTHER          4.0       1088               0.12
+
+
+
+S157E.Q55 IF IT WERE UP TO YOU, WOULD YOU RATHER BE IN A COMPANY MADE UP MOSTLY OF OVERSEAS MEN, OR WOULD YOU PREFER BEING IN A COMPANY MADE UP MOSTLY OF MEN WHO HAVEN'T BEEN OVERSEAS?
+                                                                   answer_label answer_value raw_counts relative_frequency
+0                                                                     NO ANSWER          0.0        100               0.01
+1                   WOULD RATHER BE IN A COMPANY MADE UP MOSTLY OF OVERSEAS MEN          1.0       4432                0.5
+2  WOULD RATHER BE IN A COMPANY MADE UP MOSTLY OF MEN WHO HAVEN'T BEEN OVERSEAS          2.0        892                0.1
+3                                                WOULD RATHER HAVE SOME OF BOTH          3.0       2237               0.25
+4                                    IT DOESN'T MATTER TO ME ONE WAY OR ANOTHER          4.0       1213               0.14
+
+
+
+S157E.Q56 FROM WHAT YOU'VE SEEN AND HEARD, DO MEN WHO HAVEN'T BEEN OVERSEAS APPRECIATE WHAT RETURNEES HAVE DONE AND BEEN THROUGH OVERSEAS?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0        191               0.02
+1         ALL OF THEM DO          1.0       1136               0.13
+2        MOST OF THEM DO          2.0       3505               0.39
+3  ABOUT HALF OF THEM DO          3.0       1155               0.13
+4         FEW OF THEM DO          4.0       2465               0.28
+5        NONE OF THEM DO          5.0        422               0.05
+
+
+
+S157E.Q57 FROM WHAT YOU HAVE SEEN OR HEARD, HOW WELL DO RETURNEES AND ENLISTED MEN WHO HAVE NOT BEEN OVERSEAS GET ALONG TOGETHER?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0        103               0.01
+1        VERY WELL          1.0       3389               0.38
+2      FAIRLY WELL          2.0       4219               0.48
+3    NOT VERY WELL          3.0        746               0.08
+4  NOT WELL AT ALL          4.0        226               0.03
+5       DON'T KNOW          5.0        191               0.02
+
+
+
+S157E.Q58 CONSIDERING THEIR RESPONSIBILITIES, HOW DO YOU FEEL ABOUT THE PRIVILEGES THAT OFFICERS GET COMPARED WITH ENLISTED MEN?
+                                           answer_label answer_value raw_counts relative_frequency
+0                                             NO ANSWER          0.0        245               0.03
+1    FAR TOO MANY PRIVILEGES COMPARED WITH ENLISTED MEN          1.0       3910               0.44
+2  A FEW TOO MANY PRIVILEGES COMPARED WITH ENLISTED MEN          2.0       2502               0.28
+3                  ABOUT THE RIGHT NUMBER OF PRIVILEGES          3.0       2028               0.23
+4                                    TOO FEW PRIVILEGES          4.0        189               0.02
+
+
+
+S157E.Q59A IF YOU HAD A FURLOUGH COMING UP, HOW WOULD YOU TRAVEL?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        170               0.02
+1      BY AUTO          1.0        615               0.07
+2       BY BUS          2.0        658               0.07
+3     BY TRAIN          3.0       6756               0.76
+4     BY PLANE          4.0        454               0.05
+5        OTHER          5.0        221               0.02
+
+
+
+S157E.Q59B ABOUT HOW LONG WOULD IT TAKE TO REACH THE PLACE WHERE YOU WOULD SPEND YOUR FURLOUGH?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                         NO ANSWER          0.0        210               0.02
+1                                   2 HOURS OR LESS          1.0        101               0.01
+2                        OVER 2 HOURS UP TO 4 HOURS          2.0        193               0.02
+3                        OVER 4 HOURS UP TO 6 HOURS          3.0        316               0.04
+4                       OVER 6 HOURS UP TO 12 HOURS          4.0        817               0.09
+5                      OVER 12 HOURS UP TO 18 HOURS          5.0        659               0.07
+6         OVER 18 HOURS UP TO 1 DAY (OVER 24 HOURS)          6.0        938               0.11
+7    OVER 1 DAY UP TO 1 1/2 DAYS (OVER 24-36 HOURS)          7.0       1667               0.19
+8   OVER 1 1/2 DAYS UP TO 2 DAYS (OVER 36-48 HOURS)          8.0       1219               0.14
+9       OVER 2 DAYS UP TO 3 DAYS (OVER 48-72 HOURS)          9.0       1571               0.18
+10      OVER 3 DAYS UP TO 4 DAYS (OVER 72-96 HOURS)         10.0        849                0.1
+11                      OVER 4 DAYS (OVER 96 HOURS)         11.0        334               0.04
+
+
+
+S157E.Q60 CONSIDERING THE NEEDS OF THE ARMY, WOULD YOU SAY YOU HAVE BEEN ASSIGNED AS CLOSE TO HOME AS IS POSSIBLE?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0        184               0.02
+1                          YES          1.0       1873               0.21
+2                           NO          2.0       4897               0.55
+3  I'VE NEVER THOUGHT ABOUT IT          3.0       1920               0.22
+
+
+
+S157E.Q61 WOULD YOU BE WILLING TO TAKE AN ARMY JOB YOU DISLIKE, IF BY DOING THAT YOU COULD GET STATIONED NEAR YOUR HOME?
+                       answer_label answer_value raw_counts relative_frequency
+0                         NO ANSWER          0.0        105               0.01
+1                               YES          1.0       3847               0.43
+2                                NO          2.0       2787               0.31
+3                      I'M NOT SURE          3.0       1503               0.17
+4  I AM ALREADY STATIONED NEAR HOME          4.0        632               0.07
+
+
+
+S157E.Q62 HOW DO YOU FEEL ABOUT WHAT YOU'VE DONE IN THIS WAR?
+                                                              answer_label answer_value raw_counts relative_frequency
+0                                                                NO ANSWER          0.0        206               0.02
+1  I FEEL I'VE ALREADY DONE MY SHARE AS A SOLDIER AND SHOULD BE DISCHARGED          1.0       2963               0.33
+2              I FEEL I'VE ALREADY DONE MY SHARE, BUT I'M READY TO DO MORE          2.0       3507                0.4
+3                                      I DON'T FEEL I'VE DONE MY SHARE YET          3.0       2198               0.25
+
+
+
+S157E.Q63 DO YOU EVER GET THE FEELING THAT THIS WAR IS NOT WORTH FIGHTING?
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0        123               0.01
+1                  VERY OFTEN          1.0        867                0.1
+2                   SOMETIMES          2.0       2187               0.25
+3  ONLY ONCE IN A GREAT WHILE          3.0       1817                0.2
+4                       NEVER          4.0       3880               0.44
+
+
+
+S157E.Q64 IN GENERAL DO YOU THINK THE ARMY HAS TRIED ITS BEST TO SEE THAT MEN GET AS SQUARE A DEAL AS POSSIBLE?
+                            answer_label answer_value raw_counts relative_frequency
+0                              NO ANSWER          0.0        125               0.01
+1             YES, IT HAS TRIED ITS BEST          1.0       2394               0.27
+2  IT HAS TRIED SOME BUT NOT HARD ENOUGH          2.0       5298                0.6
+3             IT HAS HARDLY TRIED AT ALL          3.0       1057               0.12
+
+
+
+S157E.Q65 IN GENERAL, DO YOU FEEL YOU YOURSELF HAVE GOTTEN A SQUARE DEAL FROM THE ARMY?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                         NO ANSWER          0.0         84               0.01
+1                          YES, IN MOST WAYS I HAVE          1.0       2737               0.31
+2              IN SOME WAYS, YES, IN OTHER WAYS, NO          2.0       4382               0.49
+3  NO, ON THE WHOLE I HAVE NOT GOTTEN A SQUARE DEAL          3.0       1671               0.19
+
+
+
+S157E.Q66 THE WAR DEPARTMENT HAS ANNOUNCED A PLAN FOR LETTING SOME MEN OUT OF THE ARMY AFTER GERMANY HAS BEEN DEFEATED. DO YOU THINK THE PLAN IS A FAIR ONE?
+                          answer_label answer_value raw_counts relative_frequency
+0                   NO CODE OR NO DATA          0.0          3                0.0
+1                                  YES          1.0       5155               0.58
+2                                   NO          2.0        865                0.1
+3  I DON'T KNOW ENOUGH ABOUT IT TO SAY          3.0       2737               0.31
+4                            NO ANSWER          4.0        114               0.01
+
+
+
+S157E.Q67 IN GENERAL, WHAT SORT OF PHYSICAL CONDITION WOULD YOU SAY YOU ARE IN AT THE PRESENT TIME?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         97               0.01
+1  VERY GOOD PHYSICAL CONDITION          1.0       1073               0.12
+2       GOOD PHYSICAL CONDITION          2.0       1849               0.21
+3       FAIR PHYSICAL CONDITION          3.0       3483               0.39
+4       POOR PHYSICAL CONDITION          4.0       1801                0.2
+5  VERY POOR PHYSICAL CONDITION          5.0        571               0.06
+
+
+
+S157E.Q68A AS FAR AS YOU KNOW, ARE YOU NOW CLASSIFIED BY THE ARMY AS PHYSICALLY FIT FOR OVERSEAS DUTY?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0         79               0.01
+1           YES          1.0       5271               0.59
+2            NO          2.0       2014               0.23
+3  I DON'T KNOW          3.0       1510               0.17
+
+
+
+S157E.Q68B IN YOUR OWN OPINION, ARE YOU PHYSICALLY FIT FOR OVERSEAS DUTY?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        100               0.01
+1          YES          1.0       3615               0.41
+2           NO          2.0       3933               0.44
+3    UNDECIDED          3.0       1226               0.14
+
+
+
+S157E.Q69A ARE YOU EVER TROUBLED BY YOUR HANDS SWEATING SO THAT THEY FEEL DAMP AND CLAMMY?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0        148               0.02
+1      YES, OFTEN          1.0       2821               0.32
+2  YES, SOMETIMES          2.0       3532                0.4
+3       NO, NEVER          3.0       2373               0.27
+
+
+
+S157E.Q69B HOW OFTEN ARE YOU BOTHERED BY HAVING AN UPSET STOMACH?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0        106               0.01
+1  NEARLY ALL THE TIME          1.0        792               0.09
+2         PRETTY OFTEN          2.0       2457               0.28
+3       NOT VERY OFTEN          3.0       4231               0.48
+4                NEVER          4.0       1288               0.15
+
+
+
+S157E.Q69C DO YOU OFTEN HAVE TROUBLE IN GETTING TO SLEEP OR STAYING ASLEEP?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0        114               0.01
+1    VERY OFTEN          1.0       2292               0.26
+2     SOMETIMES          2.0       3572                0.4
+3  ALMOST NEVER          3.0       2896               0.33
+
+
+
+S157E.Q69D DO YOUR HANDS EVER TREMBLE ENOUGH TO BOTHER YOU?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0        143               0.02
+1      YES, OFTEN          1.0       1561               0.18
+2  YES, SOMETIMES          2.0       3153               0.36
+3       NO, NEVER          3.0       4017               0.45
+
+
+
+S157E.Q69E ARE YOU EVER BOTHERED BY NERVOUSNESS?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0        110               0.01
+1      YES, OFTEN          1.0       2590               0.29
+2  YES, SOMETIMES          2.0       4224               0.48
+3       NO, NEVER          3.0       1950               0.22
+
+
+
+S157E.Q69F ARE YOU EVER WORRIED AND UPSET?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0        117               0.01
+1  I AM HARDLY EVER WORRIED AND UPSET          1.0       2367               0.27
+2    I AM SOMETIMES WORRIED AND UPSET          2.0       4399                0.5
+3        I AM OFTEN WORRIED AND UPSET          3.0       1991               0.22
+
+
+
+S157E.Q69G IN GENERAL, WHAT SORT OF A TIME DO YOU HAVE IN THE ARMY?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0        105               0.01
+1    I HAVE A PRETTY GOOD TIME          1.0       1491               0.17
+2       IT'S ABOUT FIFTY-FIFTY          2.0       5273               0.59
+3  I HAVE A PRETTY ROTTEN TIME          3.0       2005               0.23
+
+
+
+S157E.Q69H IN GENERAL, HOW WOULD YOU SAY YOU FEEL MOST OF THE TIME, IN GOOD SPIRITS OR IN LOW SPIRITS?
+                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                  NO ANSWER          0.0         97               0.01
+1  I AM IN GOOD SPIRITS SOME OF THE TIME AND IN LOW SPIRITS SOME OF THE TIME          2.0       4568               0.51
+2                                               I AM USUALLY IN GOOD SPIRITS          1.0       2719               0.31
+3                                                I AM USUALLY IN LOW SPIRITS          3.0       1490               0.17
+
+
+
+S157E.V76 NEUROPSYCHIATRIC (FIVE ITEMS) SCORE
+           answer_label answer_value raw_counts relative_frequency
+0    NO CODE OR NO DATA          0.0          3                0.0
+1   ORIGINAL SCORE OF 0          1.0        540               0.06
+2   ORIGINAL SCORE OF 1          2.0        643               0.07
+3   ORIGINAL SCORE OF 2          3.0        816               0.09
+4   ORIGINAL SCORE OF 3          4.0        919                0.1
+5   ORIGINAL SCORE OF 4          5.0        973               0.11
+6   ORIGINAL SCORE OF 5          6.0       1126               0.13
+7   ORIGINAL SCORE OF 6          7.0        987               0.11
+8   ORIGINAL SCORE OF 7          8.0        972               0.11
+9   ORIGINAL SCORE OF 8          9.0        926                0.1
+10  ORIGINAL SCORE OF 9         10.0        621               0.07
+11  ORIGINAL SCORE OF X         11.0        348               0.04
+
+
+
+S157E.V77 IDENTIFICATION OF BRANCH OF SERVICE BY TYPE OF TROOP:
+                                 answer_label answer_value raw_counts relative_frequency
+0                         ENGINEERS - CASUALS          1.0        288               0.03
+1                              ENGINEERS - ZI          2.0        487               0.05
+2                     ENGINEERS - NON-CASUALS          3.0        810               0.09
+3                     QUARTERMASTER - CASUALS          4.0         79               0.01
+4                 QUARTERMASTER - NON-CASUALS          5.0        916                0.1
+5                          QUARTERMASTER - ZI          6.0        451               0.05
+6       AIR CORPS - GROUP A - OVERSEAS FLYERS          7.0        730               0.08
+7   AIR CORPS - GROUP B - OVERSEAS NON-FLYERS          8.0        777               0.09
+8             AIR CORPS - GROUP C - ZI FLYERS          9.0        572               0.06
+9         AIR CORPS - GROUP D - ZI NON-FLYERS         10.0       1010               0.11
+10                         INFANTRY - CASUALS         11.0        636               0.07
+11                              INFANTRY - ZI         12.0       1165               0.13
+12                     INFANTRY - NON-CASUALS         13.0        953               0.11
+
+
+
+S157E.V78 FORCE IDENTIFICATION:
+               answer_label answer_value raw_counts relative_frequency
+0       ARMY SERVICE FORCES          1.0       3350               0.38
+1        ARMY GROUND FORCES          2.0       2435               0.27
+2        AAF - COMBAT CREWS          3.0       1258               0.14
+3        AAF - GROUND CREWS          4.0       1377               0.16
+4  AAF - NO INDICATION WHAT          5.0        454               0.05
+
+
+
+S157E.V79 CAMP IDENTIFICATION:
+                                 answer_label answer_value raw_counts relative_frequency
+0                      FORT BELVOIR, VIRGINIA          1.0        611               0.07
+1                   CAMP CLAIBORNE, LOUISIANA          2.0        536               0.06
+2                      FORT LEWIS, WASHINGTON          3.0        534               0.06
+3                          CAMP LEE, VIRGINIA          4.0        674               0.08
+4             FORT FRANCIS E. WARREN, WYOMING          5.0        660               0.07
+5                  FORT DEVENS, MASSACHUSETTS          6.0        302               0.03
+6                       FORT BENNING, GEORGIA          7.0        853                0.1
+7                  CAMP CROFT, SOUTH CAROLINA          8.0        429               0.05
+8                      CAMP BLANDING, FLORIDA          9.0        426               0.05
+9                    CAMP ROBERTS, CALIFORNIA         10.0        430               0.05
+10                    EPHRATA AAB, WASHINGTON         11.0        213               0.02
+11                SANTA MARIA AAF, CALIFORNIA         12.0        153               0.02
+12  VAN NUYS METROPOLITAN AIRPORT, CALIFORNIA         13.0        141               0.02
+13                        DOVER AAF, DELAWARE         14.0        241               0.03
+14                      ARDMORE AAF, OKLAHOMA         15.0        401               0.05
+15               RAPID CITY AAB, SOUTH DAKOTA         16.0        453               0.05
+16                         BIGGS FIELD, TEXAS         17.0        452               0.05
+17        DYERSBURG AAB, DYERSBURG, TENNESSEE         18.0        466               0.05
+18                 SANTA ROSA AAF, CALIFORNIA         19.0         79               0.01
+19                    ONTARIO AAF, CALIFORNIA         20.0        100               0.01
+20               DAVIS-MONTHAN FIELD, ARIZONA         21.0        390               0.04
+21             FORT GEORGE G. MEADE, MARYLAND         22.0         33                0.0
+22                           CAMP HOOD, TEXAS         23.0        297               0.03
+
+
+

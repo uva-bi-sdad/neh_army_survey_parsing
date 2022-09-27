@@ -1,0 +1,531 @@
+S196.Q1 WHAT IS YOUR ARMY RANK OR GRADE?
+                      answer_label answer_value raw_counts relative_frequency
+0               NO CODE OR NO DATA          0.0          1                0.0
+1     PRIVATE OR PRIVATE 1ST CLASS          1.0       1666               0.53
+2  CORPORAL (TECHNICIAN 5TH GRADE)          2.0        842               0.27
+3             SERGEANT (ANY GRADE)          3.0        602               0.19
+4                        NO ANSWER          4.0          4                0.0
+
+
+
+S196.Q2 HOW FAR DID YOU GO IN SCHOOL?
+                             answer_label answer_value raw_counts relative_frequency
+0                     LESS THAN 5TH GRADE          1.0        174               0.06
+1               FINISHED 5TH OR 6TH GRADE          2.0        417               0.13
+2               FINISHED 7TH OR 8TH GRADE          3.0        757               0.24
+3  SOME HIGH SCHOOL, BUT DID NOT GRADUATE          4.0       1010               0.32
+4              GRADUATED FROM HIGH SCHOOL          5.0        543               0.17
+5        SOME COLLEGE, BUT DID NOT FINISH          6.0        192               0.06
+6                  GRADUATED FROM COLLEGE          7.0         22               0.01
+
+
+
+S196.Q3 IN WHAT PART OF THE STATES DID YOU SPEND MOST OF YOUR LIFE BEFORE COMING INTO THE ARMY?
+    answer_label answer_value raw_counts relative_frequency
+0      NO ANSWER          0.0          2                0.0
+1     NORTH EAST          1.0        607               0.19
+2  BORDER STATES          2.0        423               0.14
+3          SOUTH          3.0       1500               0.48
+4       MID-WEST          4.0        488               0.16
+5           WEST          5.0         95               0.03
+
+
+
+S196.Q4 HOW DO YOU USUALLY GET YOUR CLOTHES WASHED OR CLEANED?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0        134               0.04
+1           USUALLY DO IT MYSELF          1.0       1838               0.59
+2  USUALLY GIVE IT TO GI LAUNDRY          2.0        514               0.17
+3   USUALLY GIVE IT TO CIVILIANS          3.0        567               0.18
+4           CIVILIANS AND MYSELF          4.0         32               0.01
+5                          OTHER          5.0         30               0.01
+
+
+
+S196.Q5 DO YOU HAVE ENOUGH CLOTHING TO KEEP YOU WARM AND DRY?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1                  NO          2.0       1613               0.52
+2                 YES          1.0       1245                0.4
+3           NO ANSWER          3.0        256               0.08
+
+
+
+S196.Q8 ON THE WHOLE, HOW SATISFIED DO YOU FEEL ABOUT THE FOOD YOU GET?
+            answer_label answer_value raw_counts relative_frequency
+0     NO CODE OR NO DATA          0.0          2                0.0
+1         VERY SATISFIED          1.0        173               0.06
+2       FAIRLY SATISFIED          2.0       1111               0.36
+3  SOMEWHAT DISSATISFIED          3.0        904               0.29
+4      VERY DISSATISFIED          4.0        855               0.27
+5              NO ANSWER          5.0         70               0.02
+
+
+
+S196.Q10 IN GENERAL, WOULD YOU SAY YOU USUALLY GET ALL YOU WANT TO EAT OR NOT?
+                      answer_label answer_value raw_counts relative_frequency
+0                        NO ANSWER          0.0        105               0.03
+1    USUALLY GET ALL I WANT TO EAT          1.0       1214               0.39
+2  USUALLY DON'T GET ENOUGH TO EAT          2.0       1796               0.58
+
+
+
+S196.Q11 THE LAST TIME YOU WERE ON THE JOB WHAT SHIFT DID YOU WORK?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         97               0.03
+1  NIGHT SHIFT          1.0       1744               0.56
+2    DAY SHIFT          2.0       1274               0.41
+
+
+
+S196.Q12 ON YOUR LAST WORK SHIFT, WHAT SORT OF MEALS DID YOU GET WHILE ON THE JOB?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0         95               0.03
+1  SANDWICH LUNCH          1.0        949                0.3
+2       HOT LUNCH          2.0       1736               0.56
+3        K RATION          3.0        152               0.05
+4        C RATION          4.0        116               0.04
+5           OTHER          5.0         38               0.01
+6            NONE          6.0         29               0.01
+
+
+
+S196.Q13 ON THE WHOLE, HOW SATISFIED DO YOU FEEL ABOUT THE RECREATION AND ENTERTAINMENT THAT IS PROVIDED FOR MEN AT YOUR CAMP OR POST?
+            answer_label answer_value raw_counts relative_frequency
+0         VERY SATISFIED          1.0        414               0.13
+1       FAIRLY SATISFIED          2.0       1092               0.35
+2      VERY DISSATISFIED          4.0        921                0.3
+3              NO ANSWER          0.0        101               0.03
+4  SOMEWHAT DISSATISFIED          3.0        587               0.19
+
+
+
+S196.Q15 ON THE WHOLE, HOW SATISFIED DO YOU FEEL ABOUT THE RECREATION AND ENTERTAINMENT YOU CAN FIND IN TOWN, WHEN YOU GO THERE ON A PASS?
+            answer_label answer_value raw_counts relative_frequency
+0         VERY SATISFIED          1.0        397               0.13
+1       FAIRLY SATISFIED          2.0       1115               0.36
+2      VERY DISSATISFIED          4.0        819               0.26
+3              NO ANSWER          0.0        219               0.07
+4  SOMEWHAT DISSATISFIED          3.0        565               0.18
+
+
+
+S196.Q17 ON THE WHOLE, HOW SATISFIED DO YOU FEEL ABOUT THE BILLET YOU NOW LIVE IN?
+            answer_label answer_value raw_counts relative_frequency
+0     NO CODE OR NO DATA          0.0          1                0.0
+1         VERY SATISFIED          1.0        867               0.28
+2       FAIRLY SATISFIED          2.0       1347               0.43
+3  SOMEWHAT DISSATISFIED          3.0        378               0.12
+4      VERY DISSATISFIED          4.0        415               0.13
+5              NO ANSWER          5.0        107               0.03
+
+
+
+S196.Q18 ON THE WHOLE, HOW DO YOU FEEL ABOUT THE SET UP OR ARRANGEMENTS FOR TAKING BATHS OR SHOWERS IN YOUR OUTFIT?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0         59               0.02
+1         VERY SATISFIED          1.0        590               0.19
+2       FAIRLY SATISFIED          2.0        701               0.23
+3  SOMEWHAT DISSATISFIED          3.0        449               0.14
+4      VERY DISSATISFIED          4.0       1316               0.42
+
+
+
+S196.Q19 ON THE WHOLE, HOW SATISFIED DO YOU FEEL ABOUT THE WAY PASSES ARE HANDLED IN YOUR OUTFIT?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0         95               0.03
+1         VERY SATISFIED          1.0        739               0.24
+2       FAIRLY SATISFIED          2.0        829               0.27
+3  SOMEWHAT DISSATISFIED          3.0        493               0.16
+4      VERY DISSATISFIED          4.0        959               0.31
+
+
+
+S196.Q20 HOW MANY TIMES HAVE YOU HAD A PASS DURING THE PAST TWO WEEKS?
+       answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER          0.0        260               0.08
+1            1 TIME          1.0        605               0.19
+2                 2          2.0        397               0.13
+3            2 TO 4          3.0        217               0.07
+4            3 TO 5          4.0         98               0.03
+5            4 TO 6          5.0         54               0.02
+6            5 TO 7          6.0         25               0.01
+7            6 TO 8          7.0         18               0.01
+8                 8          8.0          8                0.0
+9   9 OR MORE TIMES          9.0         15                0.0
+10             NONE         10.0       1418               0.46
+
+
+
+S196.Q21 ON THE WHOLE, HOW SATISFIED DO YOU FEEL ABOUT THE MEDICAL ATTENTION YOU GET IN YOUR OUTFIT?
+            answer_label answer_value raw_counts relative_frequency
+0     NO CODE OR NO DATA          0.0          1                0.0
+1         VERY SATISFIED          1.0        427               0.14
+2       FAIRLY SATISFIED          2.0        821               0.26
+3  SOMEWHAT DISSATISFIED          3.0        567               0.18
+4      VERY DISSATISFIED          4.0       1164               0.37
+5              NO ANSWER          5.0        135               0.04
+
+
+
+S196.Q22 ON THE WHOLE, HOW SATISFIED DO YOU FEEL ABOUT THE TRANSPORTATION YOU GET BACK AND FORTH FROM WORK?
+                               answer_label answer_value raw_counts relative_frequency
+0                            VERY SATISFIED          1.0        434               0.14
+1                          FAIRLY SATISFIED          2.0        719               0.23
+2  DON'T NEED TRANSPORTATION TO GET TO WORK          5.0        566               0.18
+3                                 NO ANSWER          6.0         79               0.03
+4                        NO CODE OR NO DATA          0.0         17               0.01
+5                     SOMEWHAT DISSATISFIED          3.0        491               0.16
+6                         VERY DISSATISFIED          4.0        809               0.26
+
+
+
+S196.Q24 HOW SATISFIED ARE YOU ABOUT BEING IN YOUR PRESENT ARMY JOB?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0         96               0.03
+1         VERY SATISFIED          1.0        863               0.28
+2       FAIRLY SATISFIED          2.0       1098               0.35
+3  SOMEWHAT DISSATISFIED          3.0        427               0.14
+4      VERY DISSATISFIED          4.0        631                0.2
+
+
+
+S196.Q25 ON THE WHOLE, DO YOU THINK THE ARMY IS GIVING YOU A CHANCE TO SHOW WHAT YOU CAN DO?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0         64               0.02
+1    A VERY GOOD CHANCE          1.0        446               0.14
+2  A FAIRLY GOOD CHANCE          2.0        674               0.22
+3  NOT MUCH OF A CHANCE          3.0        900               0.29
+4      NO CHANCE AT ALL          4.0        753               0.24
+5             UNDECIDED          5.0        278               0.09
+
+
+
+S196.Q26 HOW WELL DO THE MEN IN YOUR OUTFIT WORK TOGETHER ON THE JOB?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          5                0.0
+1           VERY WELL          1.0       2018               0.65
+2         FAIRLY WELL          2.0        816               0.26
+3       NOT VERY WELL          3.0        148               0.05
+4     NOT WELL AT ALL          4.0         86               0.03
+5           NO ANSWER          5.0         42               0.01
+
+
+
+S196.Q29 HAVE YOU EVER BEEN IN ANY BRANCH OF SERVICE OTHER THAN THE ONE YOU ARE NOW IN?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1                  NO          2.0       2143               0.69
+2                 YES          1.0        901               0.29
+3           NO ANSWER          3.0         70               0.02
+
+
+
+S196.Q31 WOULD YOU HONESTLY SAY THAT YOU USUALLY PUT ALL YOU HAVE INTO YOUR REGULAR ARMY DUTIES, OR DO YOU USUALLY WORK JUST HARD ENOUGH TO GET BY?
+                                answer_label answer_value raw_counts relative_frequency
+0                         NO CODE OR NO DATA          0.0          2                0.0
+1           I USUALLY PUT ALL I HAVE INTO IT          1.0       2134               0.69
+2      I USUALLY WORK HARD BUT COULD DO MORE          2.0        725               0.23
+3  I USUALLY WORK JUST HARD ENOUGH TO GET BY          3.0        200               0.06
+4                                  NO ANSWER          4.0         54               0.02
+
+
+
+S196.Q32 ON THE WHOLE, ARE YOU TOLD TOO MUCH, OR TOO LITTLE ABOUT HOW TO DO YOUR JOB?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0        110               0.04
+1            TOO MUCH          1.0       1250                0.4
+2  ABOUT RIGHT AMOUNT          2.0       1452               0.47
+3          TOO LITTLE          3.0        303                0.1
+
+
+
+S196.Q33 HAVE ANY PROMISES BEEN MADE TO YOU DURING THE LAST FEW MONTHS OR SO WHICH HAVE NOT BEEN KEPT?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0        239               0.08
+1        NO, NEVER          1.0       1278               0.41
+2   YES, SOMETIMES          2.0       1095               0.35
+3  YES, FREQUENTLY          3.0        503               0.16
+
+
+
+S196.Q34 IF YOU HAVE A GOOD IDEA ON HOW TO IMPROVE SOME PART OF THE WORK YOUR OUTFIT IS DOING, IS IT USUALLY POSSIBLE FOR YOU TO TELL SOMEONE WHO CAN PUT YOUR IDEA INTO USE?
+                                                   answer_label answer_value raw_counts relative_frequency
+0                                                     NO ANSWER          0.0        329               0.11
+1  IT IS USUALLY EASY TO TELL SOMEONE WHO CAN PUT IDEA INTO USE          1.0       1223               0.39
+2  IT IS USUALLY HARD TO TELL SOMEONE WHO CAN PUT IDEA INTO USE          2.0       1563                0.5
+
+
+
+S196.Q35 HOW OFTEN ARE GOOD SUGGESTIONS WHICH COME FROM THE MEN PUT INTO USE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        143               0.05
+1       ALWAYS          1.0        403               0.13
+2      USUALLY          2.0        710               0.23
+3       RARELY          3.0        826               0.27
+4        NEVER          4.0        664               0.21
+5   DON'T KNOW          5.0        369               0.12
+
+
+
+S196.Q36 DO YOU KNOW IF RECORDS ARE NOW KEPT BY THE PORT ON THE AMOUNT OF TONNAGE OR SUPPLIES THAT IS LOADED OR UNLOADED BY DIFFERENT OUTFITS?
+                      answer_label answer_value raw_counts relative_frequency
+0               NO CODE OR NO DATA          0.0          3                0.0
+1  I DON'T KNOW IF THEY ARE OR NOT          1.0       1321               0.42
+2      YES, THESE RECORDS ARE KEPT          2.0       1632               0.52
+3   NO, THESE RECORDS ARE NOT KEPT          3.0         69               0.02
+4                        NO ANSWER          4.0         90               0.03
+
+
+
+S196.Q37 DO YOU KNOW HOW YOUR OUTFIT COMPARES WITH OTHERS IN THE AMOUNT OF TONNAGE PUT OUT?
+                                              answer_label answer_value raw_counts relative_frequency
+0                                                NO ANSWER          0.0        106               0.03
+1                                        NO, I DO NOT KNOW          1.0       1001               0.32
+2  MY OUTFIT PUTS OUT MORE TONNAGE THAN MOST OF THE OTHERS          2.0       1541               0.49
+3              MY OUTFIT PUTS OUT ABOUT THE SAME AS OTHERS          3.0        444               0.14
+4  MY OUTFIT PUTS OUT LESS TONNAGE THAN MOST OF THE OTHERS          4.0         23               0.01
+
+
+
+S196.Q38 DO YOU THINK MEN WORK BETTER IF THEY ARE TOLD THE AMOUNT OF TONNAGE OF GOODS LOADED AND UNLOADED?
+                    answer_label answer_value raw_counts relative_frequency
+0             NO CODE OR NO DATA          0.0          9                0.0
+1     I THINK IT HELPS VERY MUCH          1.0       1646               0.53
+2          I THINK IT HELPS SOME          2.0       1009               0.32
+3  I DON'T THINK IT HELPS AT ALL          3.0        346               0.11
+4                      NO ANSWER          4.0        105               0.03
+
+
+
+S196.Q39 USUALLY ABOUT HOW LONG IS YOUR PRESENT WORK DAY? (DO NOT COUNT THE TIME IT TAKES TO GET TO WORK AND BACK - ONLY COUNT THE TIME YOU ARE SUPPOSED TO BE AT YOUR JOB)
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0         81               0.03
+1         7 HOURS          1.0         33               0.01
+2         8 HOURS          2.0        212               0.07
+3         9 HOURS          3.0        211               0.07
+4        10 HOURS          4.0       1520               0.49
+5        11 HOURS          5.0        152               0.05
+6        12 HOURS          6.0        751               0.24
+7        13 HOURS          7.0        101               0.03
+8           OTHER          8.0         31               0.01
+9   UNDER 7 HOURS          9.0          8                0.0
+10  OVER 13 HOURS         10.0         15                0.0
+
+
+
+S196.Q40 ON THE AVERAGE, HOW MANY OF THE HOURS YOU ARE ON THE JOB EACH DAY DO YOU ACTUALLY SPEND WORKING AND HOW MANY HOURS DO YOU SPEND WAITING AROUND BECAUSE THERE ISN'T ANY WORK TO DO? E. RESPONSES REFLECT ONLY "WAITING AROUND" HOURS.
+                        answer_label answer_value raw_counts relative_frequency
+0                          NO ANSWER          0.0        411               0.13
+1            1/2 HOUR WAITING AROUND          1.0        187               0.06
+2              1 HOUR WAITING AROUND          2.0        575               0.18
+3         1 1/2 HOURS WAITING AROUND          3.0        123               0.04
+4             2 HOURS WAITING AROUND          4.0        456               0.15
+5         2 1/2 HOURS WAITING AROUND          5.0         44               0.01
+6             3 HOURS WAITING AROUND          6.0        151               0.05
+7         3 1/2 HOURS WAITING AROUND          7.0         17               0.01
+8             4 HOURS WAITING AROUND          8.0        142               0.05
+9         4 1/2 HOURS WAITING AROUND          9.0        129               0.04
+10           NO HOURS WAITING AROUND         10.0        556               0.18
+11  INTERPRETED QUESTION INCORRECTLY         11.0        324                0.1
+
+
+
+S196.Q41 DO TOO MANY OF THE THINGS YOU HAVE TO DO ON THE JOB SEEM UNNECESSARY?
+                                answer_label answer_value raw_counts relative_frequency
+0                                  NO ANSWER          0.0        171               0.05
+1  YES, TOO MANY OF THEM DO SEEM UNNECESSARY          1.0       1851               0.59
+2  NO, NOT TOO MANY OF THEM SEEM UNNECESSARY          2.0       1093               0.35
+
+
+
+S196.Q42 WHEN YOU ARE WORKING DO YOU GET TIME OFF FOR REGULAR REST BREAKS? (DO NOT INCLUDE LUNCH PERIOD)
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        180               0.06
+1          YES          1.0        717               0.23
+2           NO          2.0       2218               0.71
+
+
+
+S196.Q43 WHEN THE GROUP OF MEN YOU WORK WITH DOES AN EXTRA GOOD JOB DO THEY USUALLY GET PRAISE OR CREDIT FOR IT?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        108               0.03
+1       ALWAYS          1.0        333               0.11
+2      USUALLY          2.0        910               0.29
+3       RARELY          3.0        884               0.28
+4        NEVER          4.0        880               0.28
+
+
+
+S196.Q44 ON THE WHOLE, HOW GOOD A JOB IS DONE BY THOSE IN AUTHORITY IN PLANNING YOUR WORK?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0        179               0.06
+1        VERY GOOD          1.0        520               0.17
+2      FAIRLY GOOD          2.0       1205               0.39
+3      NOT SO GOOD          3.0        808               0.26
+4  NOT GOOD AT ALL          4.0        403               0.13
+
+
+
+S196.Q45 DO YOU THINK EVERYTHING POSSIBLE IS BEING DONE TO PREVENT WASTE OF GOODS IN THE STOCK PILES AT THE DOCKS?
+                            answer_label answer_value raw_counts relative_frequency
+0                              NO ANSWER          0.0        260               0.08
+1               A LOT MORE COULD BE DONE          1.0        783               0.25
+2                SOME MORE COULD BE DONE          2.0        900               0.29
+3  EVERYTHING POSSIBLE IS BEING DONE NOW          3.0       1172               0.38
+
+
+
+S196.Q46 DO YOU FEEL THAT THE AMOUNT OF GOODS LOST THROUGH PILFERING IS SERIOUS ENOUGH TO WORRY ABOUT?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        292               0.09
+1          YES          1.0       1518               0.49
+2           NO          2.0       1305               0.42
+
+
+
+S196.Q47 DO YOU FEEL THAT ABOUT EVERYTHING POSSIBLE IS DONE TO LOOK AFTER THE WELFARE OF THE MEN WHILE THEY ARE ON THE JOB?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        187               0.06
+1          YES          1.0        646               0.21
+2           NO          2.0       1594               0.51
+3    UNDECIDED          3.0        688               0.22
+
+
+
+S196.Q48 CONSIDERING EVERYTHING (ABOUT YOUR JOB AND YOUR OFF-DUTY TIME AS WELL) WOULD YOU SAY YOU ARE BETTER OFF NOW OR WORSE OFF NOW THAN YOU WERE A MONTH OR SO AGO?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0        154               0.05
+1  I AM BETTER OFF NOW          1.0        719               0.23
+2   I AM WORSE OFF NOW          2.0        680               0.22
+3       ABOUT THE SAME          3.0       1562                0.5
+
+
+
+S196.Q49 DO YOU FEEL PROUD OF YOUR COMPANY?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0        123               0.04
+1     YES, VERY PROUD          1.0       1119               0.36
+2   YES, FAIRLY PROUD          2.0        834               0.27
+3  NO, NOT VERY PROUD          3.0        773               0.25
+4           UNDECIDED          4.0        266               0.09
+
+
+
+S196.Q50 ON THE WHOLE, HOW IS THE MORALE OF THE MEN IN YOUR COMPANY?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        131               0.04
+1    VERY HIGH          1.0        363               0.12
+2  FAIRLY HIGH          2.0        592               0.19
+3   JUST SO-SO          3.0        839               0.27
+4   FAIRLY LOW          4.0        386               0.12
+5     VERY LOW          5.0        804               0.26
+
+
+
+S196.Q51 DO YOU FEEL THAT YOU REALLY BELONG IN YOUR COMPANY AND ARE AN IMPORTANT PART OF IT?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0        146               0.05
+1    VERY MUCH SO          1.0       1273               0.41
+2  FAIRLY MUCH SO          2.0        787               0.25
+3   NOT VERY MUCH          3.0        530               0.17
+4      NOT AT ALL          4.0        379               0.12
+
+
+
+S196.Q52 DO YOU FEEL THAT THE MOST DESERVING MEN USUALLY GET THE "BREAKS" IN YOUR OUTFIT?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0        159               0.05
+1               ALWAYS          1.0        222               0.07
+2              USUALLY          2.0        477               0.15
+3  ABOUT HALF THE TIME          3.0        830               0.27
+4               RARELY          4.0        603               0.19
+5                NEVER          5.0        824               0.26
+
+
+
+S196.Q53 IN YOUR OUTFIT, WHEN A MAN BREAKS A RULE OR DISOBEYS AN ORDER DOES HE USUALLY GET THE PUNISHMENT YOU THINK HE HAS COMING TO HIM?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0        175               0.06
+1   HE GETS TOO MUCH PUNISHMENT          1.0       1342               0.43
+2  HE GETS ABOUT WHAT HE SHOULD          2.0       1396               0.45
+3  HE GET TOO LITTLE PUNISHMENT          3.0        202               0.06
+
+
+
+S196.Q54 IN YOUR PRESENT OUTFIT HAVE YOU EVER BEEN GIVEN PUNISHMENT OR RESTRICTION FOR SOMETHING WHICH YOU FEEL YOU DID NOT DESERVE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        204               0.07
+1          YES          1.0       1236                0.4
+2           NO          2.0       1675               0.54
+
+
+
+S196.Q55 DO TOO MANY OF THE THINGS YOU HAVE TO DO WHILE OFF THE JOB SEEM UNNECESSARY?
+                                answer_label answer_value raw_counts relative_frequency
+0                                  NO ANSWER          0.0        192               0.06
+1  YES, TOO MANY OF THEM DO SEEM UNNECESSARY          1.0       2028               0.65
+2  NO, NOT TOO MANY OF THEM SEEM UNNECESSARY          2.0        895               0.29
+
+
+
+S196.Q57 WHAT SORT OF OPINION DO YOU HAVE OF THE ENGLISH PEOPLE?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0        202               0.06
+1      VERY FAVORABLE          1.0       1698               0.55
+2    FAIRLY FAVORABLE          2.0        942                0.3
+3  RATHER UNFAVORABLE          3.0        157               0.05
+4    VERY UNFAVORABLE          4.0        116               0.04
+
+
+
+S196.Q58 WHAT SORT OF OPINION DO YOU HAVE OF THE FRENCH PEOPLE?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1      VERY FAVORABLE          1.0        389               0.12
+2    FAIRLY FAVORABLE          2.0       1225               0.39
+3  RATHER UNFAVORABLE          3.0        617                0.2
+4    VERY UNFAVORABLE          4.0        613                0.2
+5           NO ANSWER          5.0        269               0.09
+
+
+
+S196.Q59 HOW DO YOU FEEL ABOUT THE WAY GERMAN PRISONERS OF WAR ARE TREATED?
+              answer_label answer_value raw_counts relative_frequency
+0                NO ANSWER          0.0        211               0.07
+1      TREATED ABOUT RIGHT          2.0        410               0.13
+2         TREATED TOO WELL          1.0       2452               0.79
+3  NOT TREATED WELL ENOUGH          3.0         42               0.01
+
+
+
+S196.V62 LOCATION OF CROSS-SECTION COMPANIES:
+                        answer_label answer_value raw_counts relative_frequency
+0   LE HAVRE CROSS-SECTION COMPANIES          1.0        996               0.32
+1      ROUEN CROSS-SECTION COMPANIES          2.0        676               0.22
+2  CHERBOURG CROSS-SECTION COMPANIES          3.0       1443               0.46
+
+
+
+S196.V63 HIGH MORALE CODE: E. A MAN IS CONSIDERED TO HAVE "HIGH JOB MORALE" IF HE CHECKS CODE 1 IN Q.31; 1 OR 2 IN Q.24; 1, 2 OR 3 IN Q.50.
+               answer_label answer_value raw_counts relative_frequency
+0  MEN WITH HIGH JOB MORALE          1.0        981               0.31
+1                ALL OTHERS          2.0       2134               0.69
+
+
+
+S196.V64 WHITE OR NEGRO COMPANY:
+    answer_label answer_value raw_counts relative_frequency
+0  WHITE COMPANY          1.0        505               0.16
+1  NEGRO COMPANY          2.0       2610               0.84
+
+
+
+S196.V65 PORT LOCATION:
+  answer_label answer_value raw_counts relative_frequency
+0     LE HAVRE          1.0        996               0.32
+1        ROUEN          2.0        676               0.22
+2    CHERBOURG          3.0       1443               0.46
+
+
+

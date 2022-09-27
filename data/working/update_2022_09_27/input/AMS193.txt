@@ -1,0 +1,839 @@
+S193.Q1 WHAT IS YOUR ARMY RANK OR GRADE?
+                                                          answer_label answer_value raw_counts relative_frequency
+0                                                            NO ANSWER          0.0         28               0.02
+1                                       PRIVATE OR PRIVATE FIRST CLASS          1.0        700               0.55
+2                                     TECHNICIAN 5TH GRADE OR CORPORAL          2.0        229               0.18
+3                                TECHNICIAN 4TH GRADE OR BUCK SERGEANT          3.0        191               0.15
+4  FIRST THREE GRADES - STAFF SERGEANT, TECHNICIAN 3RD GRADE OR HIGHER          4.0        132                0.1
+
+
+
+S193.Q2 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0         34               0.03
+1            18 YEARS          1.0          7               0.01
+2                  19          2.0         50               0.04
+3                  20          3.0         85               0.07
+4                  21          4.0         87               0.07
+5                  22          5.0        118               0.09
+6                  23          6.0        100               0.08
+7                  24          7.0         95               0.07
+8                  25          8.0         84               0.07
+9               26-29          9.0        242               0.19
+10              30-34         10.0        219               0.17
+11  35 YEARS AND OVER         11.0        159               0.12
+
+
+
+S193.Q3 HOW FAR DID YOU GO IN SCHOOL?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0         15               0.01
+1                  LESS THAN 6TH GRADE          1.0         57               0.04
+2                   FINISHED 6TH GRADE          2.0         46               0.04
+3                   FINISHED 7TH GRADE          3.0         81               0.06
+4                   FINISHED 8TH GRADE          4.0        211               0.16
+5  SOME HIGH SCHOOL BUT DID NOT FINISH          5.0        387                0.3
+6           GRADUATED FROM HIGH SCHOOL          6.0        308               0.24
+7      SOME COLLEGE BUT DID NOT FINISH          7.0        146               0.11
+8               GRADUATED FROM COLLEGE          8.0         29               0.02
+
+
+
+S193.Q4 HOW LONG HAVE YOU BEEN OVERSEAS (COUNT FROM THE TIME YOU LEFT THE STATES)?
+                      answer_label answer_value raw_counts relative_frequency
+0                        NO ANSWER          0.0         16               0.01
+1                 6 MONTHS OR LESS          1.0        245               0.19
+2   OVER 6 MONTHS, UP TO 12 MONTHS          2.0        413               0.32
+3  OVER 12 MONTHS, UP TO 18 MONTHS          3.0        226               0.18
+4    OVER 18 MONTHS, UP TO 2 YEARS          4.0        185               0.14
+5      OVER 2 YEARS, UP TO 3 YEARS          5.0        148               0.12
+6                     OVER 3 YEARS          6.0         47               0.04
+
+
+
+S193.Q5 WHAT BRANCH OF THE ARMY WERE YOU IN WHEN YOU CAME TO THE HOSPITAL?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0         20               0.02
+1                  ENGINEERS          1.0        102               0.08
+2            FIELD ARTILLERY          2.0         60               0.05
+3        QUARTERMASTER CORPS          3.0         65               0.05
+4                   INFANTRY          4.0        391               0.31
+5         MEDICAL DEPARTMENT          5.0         75               0.06
+6               SIGNAL CORPS          6.0         62               0.05
+7            COAST ARTILLERY          7.0         22               0.02
+8              ANTI-AIRCRAFT          8.0         79               0.06
+9                  AIR CORPS          9.0        117               0.09
+10      TRANSPORTATION CORPS         10.0         35               0.03
+11       ORDNANCE DEPARTMENT         11.0         40               0.03
+12  CHEMICAL WARFARE SERVICE         12.0          5                0.0
+13           MILITARY POLICE         13.0         27               0.02
+14                     OTHER         14.0         83               0.06
+15                   MARINES         15.0         89               0.07
+16              NAVY, C.B.'S         16.0          8               0.01
+
+
+
+S193.Q6 ARE YOU STILL ASSIGNED TO YOUR OLD OUTFIT, OR ARE YOU NOW ASSIGNED TO THE HOSPITAL DETACHMENT OF PATIENTS?
+                                  answer_label answer_value raw_counts relative_frequency
+0                                    NO ANSWER          0.0         27               0.02
+1                 STILL ASSIGNED TO OLD OUTFIT          1.0        702               0.55
+2  ASSIGNED TO HOSPITAL DETACHMENT OF PATIENTS          2.0        206               0.16
+3             I DON'T KNOW WHERE I AM ASSIGNED          3.0        345               0.27
+
+
+
+S193.Q7 DO YOU FEEL PROUD OF THE COMPANY (BATTERY, SQUADRON, TROOP) YOU WERE IN WHEN YOU ENTERED THE HOSPITAL?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0         25               0.02
+1    YES, VERY PROUD          1.0        590               0.46
+2  YES, FAIRLY PROUD          2.0        305               0.24
+3      NO, NOT PROUD          3.0        208               0.16
+4          UNDECIDED          4.0        152               0.12
+
+
+
+S193.Q8 ARE YOU EVER WORRIED OR UPSET?
+                        answer_label answer_value raw_counts relative_frequency
+0                          NO ANSWER          0.0          9               0.01
+1       I AM OFTEN WORRIED AND UPSET          1.0        388                0.3
+2   I AM SOMETIMES WORRIED AND UPSET          2.0        553               0.43
+3  I AM HARDLY EVER WORRIED OR UPSET          3.0        330               0.26
+
+
+
+S193.Q9 IN GENERAL, WHAT SORT OF TIME DO YOU HAVE IN THE ARMY?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         14               0.01
+1    I HAVE A PRETTY GOOD TIME          1.0        200               0.16
+2       IT'S ABOUT FIFTY-FIFTY          2.0        720               0.56
+3  I HAVE A PRETTY ROTTEN TIME          3.0        346               0.27
+
+
+
+S193.Q10 ON THE WHOLE, HOW DO YOU FEEL ABOUT THE ARMY?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         19               0.01
+1     I LIKE THE ARMY VERY MUCH          1.0        103               0.08
+2         I LIKE IT FAIRLY WELL          2.0        532               0.42
+3           I RATHER DISLIKE IT          3.0        390                0.3
+4  I DISLIKE THE ARMY VERY MUCH          4.0        236               0.18
+
+
+
+S193.Q11A IN GENERAL, DO YOU THINK THE ARMY HAS TRIED ITS BEST TO SEE THAT MEN GET AS SQUARE A DEAL AS POSSIBLE?
+                            answer_label answer_value raw_counts relative_frequency
+0                              NO ANSWER          0.0         11               0.01
+1             YES, IT HAS TRIED ITS BEST          1.0        327               0.26
+2  IT HAS TRIED SOME BUT NOT HARD ENOUGH          2.0        738               0.58
+3             IT HAS HARDLY TRIED AT ALL          3.0        204               0.16
+
+
+
+S193.Q11B IN GENERAL, DO YOU FEEL YOU YOURSELF HAVE GOTTEN A SQUARE DEAL FROM THE ARMY?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                         NO ANSWER          0.0          9               0.01
+1                          YES, IN MOST WAYS I HAVE          1.0        356               0.28
+2              IN SOME WAYS, YES, IN OTHER WAYS, NO          2.0        676               0.53
+3  NO, ON THE WHOLE I HAVE NOT GOTTEN A SQUARE DEAL          3.0        239               0.19
+
+
+
+S193.Q12 DO YOU EVER GET THE FEELING THAT THIS WAR IS NOT WORTH FIGHTING?
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0         27               0.02
+1                  VERY OFTEN          1.0        110               0.09
+2                   SOMETIMES          2.0        292               0.23
+3  ONLY ONCE IN A GREAT WHILE          3.0        280               0.22
+4                       NEVER          4.0        571               0.45
+
+
+
+S193.Q13 HOW DO YOU FEEL ABOUT WHAT YOU'VE DONE IN THIS WAR?
+                                                             answer_label answer_value raw_counts relative_frequency
+0                                                               NO ANSWER          0.0         41               0.03
+1  I FEEL I'VE ALREADY DONE MY SHARE AS A SOLDIER AND SHOULD BE SENT HOME          1.0        427               0.33
+2           I FEEL I'VE ALREADY DONE MY SHARE, BUT I'M WILLING TO DO MORE          2.0        516                0.4
+3                                I DON'T FEEL THAT I'VE DONE MY SHARE YET          3.0        296               0.23
+
+
+
+S193.Q14 IF IT HAD BEEN UP TO YOU TO CHOOSE, DO YOU THINK YOU COULD DO MORE FOR YOUR COUNTRY AS A SOLDIER OR AS A CIVILIAN WORKER IN A WAR JOB?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         21               0.02
+1     AS A SOLDIER          1.0        256                0.2
+2  AS A WAR WORKER          2.0        707               0.55
+3        UNDECIDED          3.0        296               0.23
+
+
+
+S193.Q15 IF THE JAPANESE WERE TO OFFER TO STOP FIGHTING NOW AND TO GIVE UP ALL THE COUNTRIES AND TERRITORY THEY HAVE TAKEN OVER, WHAT DO YOU THINK WE SHOULD DO?
+                                                                       answer_label answer_value raw_counts relative_frequency
+0                                                                         NO ANSWER          0.0         26               0.02
+1                                  WE SHOULD ACCEPT THE OFFER AND STOP FIGHTING NOW          1.0        146               0.11
+2       WE SHOULD CONSIDER THE OFFER AND TRY TO WORK OUT SOME PEACE TERMS WITH THEM          2.0        333               0.26
+3  WE SHOULD TURN DOWN THE OFFER AND KEEP ON FIGHTING UNTIL THEY GIVE UP COMPLETELY          3.0        626               0.49
+4                                                                         UNDECIDED          4.0        149               0.12
+
+
+
+S193.Q16 WHY ARE YOU IN THE HOSPITAL?
+                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                  NO ANSWER          0.0         53               0.04
+1                                         GUNSHOT WOUNDS, SHRAPNEL, GRENADES          1.0        341               0.27
+2         FRACTURE, AMPUTATIONS, BROKEN LEG, BROKEN ARM, STRAINED BACK, ETC.          2.0        219               0.17
+3            OTHER SURGICAL - APPENDICITIS, RUPTURE, HERNIA OPERATIONS, ETC.          3.0        119               0.09
+4                                   STOMACH TROUBLE, ULCERS, DYSENTERY, ETC.          4.0         96               0.08
+5  OTHER MEDICAL - PNEUMONIA, FEVER, ASTHMA, CHEST PAINS, LUNG TROUBLE, ETC.          5.0        282               0.22
+6                        NERVOUSNESS, DIZZY SPELLS, HEADACHES, FATIGUE, ETC.          6.0        113               0.09
+7                                                          BURNS (ALL TYPES)          7.0         23               0.02
+8                               UNCLASSIFIABLE (FOR OBSERVATION, DON'T KNOW)          8.0         23               0.02
+9                                                              MISCELLANEOUS          9.0         11               0.01
+
+
+
+S193.Q17 IF YOU ARE WOUNDED (OR INJURED), WAS YOUR WOUND OR INJURY CAUSED BY ENEMY ACTION?
+                                                          answer_label answer_value raw_counts relative_frequency
+0                                                            NO ANSWER          0.0          8               0.01
+1  YES, MY PRESENT WOUND OR INJURY WAS DIRECTLY CAUSED BY ENEMY ACTION          1.0        331               0.26
+2                                NO, IT WAS NOT CAUSED BY ENEMY ACTION          2.0        329               0.26
+3                                    I AM SICK, NOT WOUNDED OR INJURED          3.0        612               0.48
+
+
+
+S193.Q18 WHAT ISLAND WERE YOU ON WHEN YOU WERE INJURED OR TAKEN SICK?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                         NO ANSWER          0.0        129                0.1
+1    HAWAIIAN ISLANDS (HOSPITALIZED ON SAME ISLAND)          1.0        454               0.35
+2   HAWAIIAN ISLANDS (HOSPITALIZED ON OTHER ISLAND)          2.0         51               0.04
+3               PHILLIPINE ISLANDS (LEYTE, MONDORO)          3.0        419               0.33
+4                  MARIANNAS ISLANDS (SAIPAN, GUAM)          4.0        121               0.09
+5                  CAROLINE ISLANDS (PALAU, ULITHI)          5.0         18               0.01
+6            MARSHALL ISLANDS (ENIWETOK, KWAJALEIN)          6.0         14               0.01
+7                          GILBERT ISLANDS (TARAWA)          7.0          7               0.01
+8                    NEW HEBRIDES (ESPIRITU SANTOS)          8.0          2                0.0
+9                     SOLOMON ISLANDS (GUADALCANAL)          9.0          8               0.01
+10                                            OTHER         10.0         57               0.04
+
+
+
+S193.Q19 HOW MUCH TIME HAVE YOU SPENT IN THIS HOSPITAL WITH YOUR PRESENT INJURY OR ILLNESS?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0         13               0.01
+1                10 DAYS OR LESS          1.0        457               0.36
+2    OVER 10 DAYS, UP TO 20 DAYS          2.0        267               0.21
+3  OVER 20 DAYS, UP TO ONE MONTH          3.0        204               0.16
+4   OVER 1 MONTH, UP TO 2 MONTHS          4.0        214               0.17
+5  OVER 2 MONTHS, UP TO 3 MONTHS          5.0         74               0.06
+6  OVER 3 MONTHS, UP TO 4 MONTHS          6.0         25               0.02
+7  OVER 4 MONTHS, UP TO 5 MONTHS          7.0         13               0.01
+8  OVER 5 MONTHS, UP TO 6 MONTHS          8.0          7               0.01
+9                  OVER 6 MONTHS          9.0          6                0.0
+
+
+
+S193.Q20 HOW MUCH TIME DID YOU SPEND IN OTHER HOSPITALS OR HOSPITAL SHIPS WITH YOUR PRESENT INJURY OR ILLNESS?
+                                                         answer_label answer_value raw_counts relative_frequency
+0                                                           NO ANSWER          0.0         42               0.03
+1   I HAVE NOT BEEN IN ANY OTHER HOSPITAL WITH THIS INJURY OR ILLNESS          1.0        482               0.38
+2                                                     10 DAYS OR LESS          2.0        292               0.23
+3                                         OVER 10 DAYS, UP TO 20 DAYS          3.0        164               0.13
+4                                         OVER 20 DAYS, UP TO 1 MONTH          4.0        115               0.09
+5                                        OVER 1 MONTH, UP TO 2 MONTHS          5.0         93               0.07
+6                                       OVER 2 MONTHS, UP TO 3 MONTHS          6.0         40               0.03
+7                                       OVER 3 MONTHS, UP TO 4 MONTHS          7.0         20               0.02
+8                                       OVER 4 MONTHS, UP TO 5 MONTHS          8.0         12               0.01
+9                                       OVER 5 MONTHS, UP TO 6 MONTHS          9.0          6                0.0
+10                                                      OVER 6 MONTHS         10.0         14               0.01
+
+
+
+S193.Q21 HOW MUCH OF THE TIME DURING THE DAY ARE YOU SUPPOSED TO SPEND IN BED?
+                                                                         answer_label answer_value raw_counts relative_frequency
+0                                                                           NO ANSWER          0.0         14               0.01
+1                               I DO NOT HAVE TO SPEND ANY TIME IN BED DURING THE DAY          1.0        478               0.37
+2                       I AM ALLOWED TO BE OUT OF BED MOST OF THE TIME DURING THE DAY          2.0        349               0.27
+3  I AM SUPPOSED TO SPEND MOST OF MY TIME IN BED, BUT I AM ALLOWED TO GET UP A LITTLE          3.0        259                0.2
+4                                               I HAVE TO SPEND ALL OF MY TIME IN BED          4.0        180               0.14
+
+
+
+S193.Q22 HOW MANY OF THE DOCTORS YOU HAVE SEEN IN THIS HOSPITAL DO YOU THINK ARE REALLY GOOD DOCTORS?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0         57               0.04
+1         ALL OF THEM          1.0        482               0.38
+2        MOST OF THEM          2.0        437               0.34
+3  ABOUT HALF OF THEM          3.0         90               0.07
+4       A FEW OF THEM          4.0        186               0.15
+5        NONE OF THEM          5.0         28               0.02
+
+
+
+S193.Q23 DO YOU THINK THE DOCTORS AT THIS HOSPITAL TAKE YOUR CASE SERIOUSLY ENOUGH?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         30               0.02
+1          YES          1.0        831               0.65
+2           NO          2.0        196               0.15
+3    UNDECIDED          3.0        223               0.17
+
+
+
+S193.Q24 HAVE THE DOCTORS TOLD YOU AS MUCH ABOUT YOUR CASE AS YOU COULD REASONABLY EXPECT THEM TO TELL YOU UNDER THE CIRCUMSTANCES?
+                                                             answer_label answer_value raw_counts relative_frequency
+0                                                               NO ANSWER          0.0         18               0.01
+1                     THEY HAVE TOLD ME PRACTICALLY NOTHING ABOUT MY CASE          1.0        321               0.25
+2                                THEY HAVE TOLD ME A LITTLE, BUT NOT MUCH          2.0        372               0.29
+3  THEY HAVE TOLD ME AS MUCH AS I COULD REASONABLY EXPECT THEM TO TELL ME          3.0        569               0.44
+
+
+
+S193.Q25 ARE THE DOCTORS WILLING TO TALK WITH YOU ABOUT YOUR CASE AND LET YOU ASK QUESTIONS ABOUT IT?
+                                                  answer_label answer_value raw_counts relative_frequency
+0                                                    NO ANSWER          0.0         83               0.06
+1  THEY LET ME ASK, AND THEY TRY TO ANSWER AS WELL AS THEY CAN          1.0        852               0.67
+2          THEY LET ME ASK, BUT THEY DON'T GIVE ME ANY ANSWERS          2.0        292               0.23
+3                         THEY WON'T EVEN LET ME ASK QUESTIONS          3.0         53               0.04
+
+
+
+S193.Q26 IS THERE ONE PARTICULAR DOCTOR IN THIS HOSPITAL WHO IS IN CHARGE OF YOUR CASE?
+                      answer_label answer_value raw_counts relative_frequency
+0                        NO ANSWER          0.0         13               0.01
+1                    YES, THERE IS          1.0        829               0.65
+2                  NO, THERE ISN'T          2.0        246               0.19
+3  I DON'T KNOW IF THERE IS OR NOT          3.0        192               0.15
+
+
+
+S193.Q27 DO YOU THINK THAT THE PARTICULAR DOCTOR IN CHARGE OF YOUR CASE IS REALLY COMPETENT?
+                                         answer_label answer_value raw_counts relative_frequency
+0                                           NO ANSWER          0.0         63               0.05
+1                            I'M SURE HE IS COMPETENT          1.0        610               0.48
+2           I THINK HE IS COMPETENT, BUT I'M NOT SURE          2.0        310               0.24
+3          I DON'T THINK HE'S AS GOOD AS HE SHOULD BE          3.0         51               0.04
+4  THERE IS NO PARTICULAR DOCTOR IN CHARGE OF MY CASE          4.0        246               0.19
+
+
+
+S193.Q28A HOW WELL DO YOU LIKE THE DOCTOR IN CHARGE OF YOUR CASE?
+                                         answer_label answer_value raw_counts relative_frequency
+0                                           NO ANSWER          0.0         75               0.06
+1                                I LIKE HIM VERY MUCH          1.0        484               0.38
+2                              I LIKE HIM FAIRLY WELL          2.0        408               0.32
+3                       I DON'T PARTICULARLY LIKE HIM          3.0         67               0.05
+4  THERE IS NO PARTICULAR DOCTOR IN CHARGE OF MY CASE          4.0        246               0.19
+
+
+
+S193.Q28B.1 WHY DO YOU FEEL THE WAY YOU DO?
+                                    answer_label answer_value raw_counts relative_frequency
+0  VERY CAPABLE, KNOWS HIS BUSINESS, GOOD DOCTOR          1.0        141               0.11
+1                                     NOT CHOSEN          2.0       1139               0.89
+
+
+
+S193.Q28B.2WHY DO YOU FEEL THE WAY YOU DO?
+                               answer_label answer_value raw_counts relative_frequency
+0  ACTS HUMAN, VERY CHEERFUL, VERY FRIENDLY          1.0        121               0.09
+1                                NOT CHOSEN          2.0       1159               0.91
+
+
+
+S193.Q28B.3WHY DO YOU FEEL THE WAY YOU DO?
+                                        answer_label answer_value raw_counts relative_frequency
+0  TELLS ME ABOUT MY CASE, VERY EASY TO TALK TO 1229          1.0         51               0.04
+1                                         NOT CHOSEN          2.0       1229               0.96
+
+
+
+S193.Q28B.4WHY DO YOU FEEL THE WAY YOU DO?
+                                               answer_label answer_value raw_counts relative_frequency
+0  HAS PERSONAL INTEREST IN MY CASE, DOES ALL HE CAN FOR ME          1.0        133                0.1
+1                                                NOT CHOSEN          2.0       1147                0.9
+
+
+
+S193.Q28B.5WHY DO YOU FEEL THE WAY YOU DO?
+              answer_label answer_value raw_counts relative_frequency
+0  OTHER POSITIVE COMMENTS          1.0         26               0.02
+1               NOT CHOSEN          2.0       1254               0.98
+
+
+
+S193.Q28B.6WHY DO YOU FEEL THE WAY YOU DO?
+                               answer_label answer_value raw_counts relative_frequency
+0  NOT A GOOD DOCTOR, GIVES POOR TREATMENTS          1.0         17               0.01
+1                                NOT CHOSEN          2.0       1263               0.99
+
+
+
+S193.Q28B.7WHY DO YOU FEEL THE WAY YOU DO?
+                           answer_label answer_value raw_counts relative_frequency
+0  TOO CURT, NEVER SMILES, NOT FRIENDLY          1.0         21               0.02
+1                            NOT CHOSEN          2.0       1259               0.98
+
+
+
+S193.Q28B.8WHY DO YOU FEEL THE WAY YOU DO?
+                      answer_label answer_value raw_counts relative_frequency
+0  DOESN'T GIVE ME ANY INFORMATION          1.0         20               0.02
+1                       NOT CHOSEN          2.0       1260               0.98
+
+
+
+S193.Q28B.9WHY DO YOU FEEL THE WAY YOU DO?
+                                  answer_label answer_value raw_counts relative_frequency
+0  DOESN'T TAKE A PERSONAL INTEREST IN MY CASE          1.0         32               0.02
+1                                   NOT CHOSEN          2.0       1248               0.98
+
+
+
+S193.Q28B.10WHY DO YOU FEEL THE WAY YOU DO?
+              answer_label answer_value raw_counts relative_frequency
+0  OTHER NEGATIVE COMMENTS          1.0         25               0.02
+1               NOT CHOSEN          2.0       1255               0.98
+
+
+
+S193.Q28B.11WHY DO YOU FEEL THE WAY YOU DO?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0        814               0.64
+1   NOT CHOSEN          2.0        466               0.36
+
+
+
+S193.Q29 DO YOU THINK YOU ARE AS COMFORTABLE IN THIS HOSPITAL AS YOU WOULD BE IN AN ARMY HOSPITAL ON THE MAINLAND?
+                                                          answer_label answer_value raw_counts relative_frequency
+0                                                            NO ANSWER          0.0         22               0.02
+1                                   YES, I AM JUST AS COMFORTABLE HERE          1.0        474               0.37
+2  NO, I WOULD BE MORE COMFORTABLE IN AN ARMY HOSPITAL ON THE MAINLAND          2.0        542               0.42
+3                                                            UNDECIDED          3.0        242               0.19
+
+
+
+S193.Q30 WHERE DO YOU THINK PATIENTS WOULD GET THE BEST MEDICAL TREATMENT - AT THIS HOSPITAL OR AT ARMY HOSPITALS ON THE MAINLAND?
+                        answer_label answer_value raw_counts relative_frequency
+0                          NO ANSWER          0.0         63               0.05
+1                   AT THIS HOSPITAL          1.0         77               0.06
+2  AT ARMY HOSPITALS ON THE MAINLAND          2.0        641                0.5
+3                      NO DIFFERENCE          3.0        499               0.39
+
+
+
+S193.Q31 WHERE DO YOU THINK PATIENTS WOULD GET THE BEST MEDICAL TREATMENT - AT THIS HOSPITAL OR AT A CIVILIAN HOSPITAL ON THE MAINLAND?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0         91               0.07
+1                        AT THIS HOSPITAL          1.0        453               0.35
+2  AT A CIVILIAN HOSPITAL ON THE MAINLAND          2.0        413               0.32
+3                           NO DIFFERENCE          3.0        323               0.25
+
+
+
+S193.Q32.1 YOU PROBABLY KNOW THAT HOSPITALS OUT HERE SEND SOME OF THEIR PATIENTS BACK TO HOSPITALS ON THE MAINLAND. WHAT DO YOU THINK IS THE MAIN REASON WHY THESE PATIENTS ARE SENT BACK INSTEAD OF BEING KEPT IN HOSPITALS OVER HERE?
+                                                                           answer_label answer_value raw_counts relative_frequency
+0  MAKE ROOM FOR MORE PATIENTS HERE, HOSPITALS ARE CROWDED, BATTLE CASUALTIES COMING IN          1.0        201               0.16
+1                                                                            NOT CHOSEN          2.0       1079               0.84
+
+
+
+S193.Q32.2YOU PROBABLY KNOW THAT HOSPITALS OUT HERE SEND SOME OF THEIR PATIENTS BACK TO HOSPITALS ON THE MAINLAND. WHAT DO YOU THINK IS THE MAIN REASON WHY THESE PATIENTS ARE SENT BACK INSTEAD OF BEING KEPT IN HOSPITALS OVER HERE?
+                                           answer_label answer_value raw_counts relative_frequency
+0  INJURY WILL TAKE A LONG TIME TO HEAL, SERIOUS INJURY          1.0        212               0.17
+1                                            NOT CHOSEN          2.0       1068               0.83
+
+
+
+S193.Q32.3YOU PROBABLY KNOW THAT HOSPITALS OUT HERE SEND SOME OF THEIR PATIENTS BACK TO HOSPITALS ON THE MAINLAND. WHAT DO YOU THINK IS THE MAIN REASON WHY THESE PATIENTS ARE SENT BACK INSTEAD OF BEING KEPT IN HOSPITALS OVER HERE?
+                   answer_label answer_value raw_counts relative_frequency
+0  HOSPITALIZATION OVER 90 DAYS          1.0          6                0.0
+1                    NOT CHOSEN          2.0       1274                1.0
+
+
+
+S193.Q32.4YOU PROBABLY KNOW THAT HOSPITALS OUT HERE SEND SOME OF THEIR PATIENTS BACK TO HOSPITALS ON THE MAINLAND. WHAT DO YOU THINK IS THE MAIN REASON WHY THESE PATIENTS ARE SENT BACK INSTEAD OF BEING KEPT IN HOSPITALS OVER HERE?
+                                                               answer_label answer_value raw_counts relative_frequency
+0  CASES THAT WILL BE DISCHARGED, AREN'T IN CONDITION FOR THE ARMY ANY MORE          1.0        204               0.16
+1                                                                NOT CHOSEN          2.0       1076               0.84
+
+
+
+S193.Q32.5YOU PROBABLY KNOW THAT HOSPITALS OUT HERE SEND SOME OF THEIR PATIENTS BACK TO HOSPITALS ON THE MAINLAND. WHAT DO YOU THINK IS THE MAIN REASON WHY THESE PATIENTS ARE SENT BACK INSTEAD OF BEING KEPT IN HOSPITALS OVER HERE?
+                                                       answer_label answer_value raw_counts relative_frequency
+0  BETTER CLIMATIC CONDITIONS, TAKES LONGER TO HEAL IN THIS CLIMATE          1.0        271               0.21
+1                                                        NOT CHOSEN          2.0       1009               0.79
+
+
+
+S193.Q32.6YOU PROBABLY KNOW THAT HOSPITALS OUT HERE SEND SOME OF THEIR PATIENTS BACK TO HOSPITALS ON THE MAINLAND. WHAT DO YOU THINK IS THE MAIN REASON WHY THESE PATIENTS ARE SENT BACK INSTEAD OF BEING KEPT IN HOSPITALS OVER HERE?
+                                                     answer_label answer_value raw_counts relative_frequency
+0  BETTER TREATMENT IN STATES, BETTER HOSPITALS, BETTER EQUIPMENT          1.0        255                0.2
+1                                                      NOT CHOSEN          2.0       1025                0.8
+
+
+
+S193.Q32.7YOU PROBABLY KNOW THAT HOSPITALS OUT HERE SEND SOME OF THEIR PATIENTS BACK TO HOSPITALS ON THE MAINLAND. WHAT DO YOU THINK IS THE MAIN REASON WHY THESE PATIENTS ARE SENT BACK INSTEAD OF BEING KEPT IN HOSPITALS OVER HERE?
+                                                                  answer_label answer_value raw_counts relative_frequency
+0  NEED SPECIALIZED CARE, TREATMENT CAN'T BE GIVEN HERE, FOR FURTHER TREATMENT          1.0        126                0.1
+1                                                                   NOT CHOSEN          2.0       1154                0.9
+
+
+
+S193.Q32.8YOU PROBABLY KNOW THAT HOSPITALS OUT HERE SEND SOME OF THEIR PATIENTS BACK TO HOSPITALS ON THE MAINLAND. WHAT DO YOU THINK IS THE MAIN REASON WHY THESE PATIENTS ARE SENT BACK INSTEAD OF BEING KEPT IN HOSPITALS OVER HERE?
+                                                                                    answer_label answer_value raw_counts relative_frequency
+0  MORALE BOOSTER FOR INJURED, PSYCHOLOGICALLY BETTER FOR PATIENTS, RECOVERY FASTER IF NEAR HOME          1.0        126                0.1
+1                                                                                     NOT CHOSEN          2.0       1154                0.9
+
+
+
+S193.Q32.9YOU PROBABLY KNOW THAT HOSPITALS OUT HERE SEND SOME OF THEIR PATIENTS BACK TO HOSPITALS ON THE MAINLAND. WHAT DO YOU THINK IS THE MAIN REASON WHY THESE PATIENTS ARE SENT BACK INSTEAD OF BEING KEPT IN HOSPITALS OVER HERE?
+  answer_label answer_value raw_counts relative_frequency
+0   DON'T KNOW          1.0         49               0.04
+1   NOT CHOSEN          2.0       1231               0.96
+
+
+
+S193.Q32.10YOU PROBABLY KNOW THAT HOSPITALS OUT HERE SEND SOME OF THEIR PATIENTS BACK TO HOSPITALS ON THE MAINLAND. WHAT DO YOU THINK IS THE MAIN REASON WHY THESE PATIENTS ARE SENT BACK INSTEAD OF BEING KEPT IN HOSPITALS OVER HERE?
+       answer_label answer_value raw_counts relative_frequency
+0  FAVORITISM, LUCK          1.0         18               0.01
+1        NOT CHOSEN          2.0       1262               0.99
+
+
+
+S193.Q32.11YOU PROBABLY KNOW THAT HOSPITALS OUT HERE SEND SOME OF THEIR PATIENTS BACK TO HOSPITALS ON THE MAINLAND. WHAT DO YOU THINK IS THE MAIN REASON WHY THESE PATIENTS ARE SENT BACK INSTEAD OF BEING KEPT IN HOSPITALS OVER HERE?
+    answer_label answer_value raw_counts relative_frequency
+0  MISCELLANEOUS          1.0         46               0.04
+1     NOT CHOSEN          2.0       1234               0.96
+
+
+
+S193.Q32.12YOU PROBABLY KNOW THAT HOSPITALS OUT HERE SEND SOME OF THEIR PATIENTS BACK TO HOSPITALS ON THE MAINLAND. WHAT DO YOU THINK IS THE MAIN REASON WHY THESE PATIENTS ARE SENT BACK INSTEAD OF BEING KEPT IN HOSPITALS OVER HERE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0        164               0.13
+1   NOT CHOSEN          2.0       1116               0.87
+
+
+
+S193.Q33A DO YOU THINK THAT THE DOCTORS IN CHARGE OF YOUR CASE SHOULD RECOMMEND SENDING YOU TO A HOSPITAL ON THE MAINLAND?
+                                                                                      answer_label answer_value raw_counts relative_frequency
+0                                                                                        NO ANSWER          0.0        119               0.09
+1  NO, I THOUGHT SO WHEN I FIRST CAME TO THE HOSPITAL, BUT I DON'T THINK I SHOULD BE SENT BACK NOW          2.0        108               0.08
+2                                 YES, I THINK I SHOULD BE SENT BACK TO A HOSPITAL ON THE MAINLAND          1.0        642                0.5
+3                     NO, I NEVER THOUGHT THAT I SHOULD BE SENT BACK TO A HOSPITAL ON THE MAINLAND          3.0        411               0.32
+
+
+
+S193.Q34 DO YOU THINK THAT YOU WILL BE SENT BACK TO A HOSPITAL ON THE MAINLAND?
+                                                 answer_label answer_value raw_counts relative_frequency
+0                                                   NO ANSWER          0.0        100               0.08
+1     I THINK THERE IS A GOOD CHANCE THAT I WILL BE SENT BACK          1.0        235               0.18
+2     I THINK THERE IS A FAIR CHANCE THAT I WILL BE SENT BACK          2.0        268               0.21
+3  I DON'T THINK THERE IS ANY CHANCE THAT I WILL BE SENT BACK          3.0        677               0.53
+
+
+
+S193.Q35 DO YOU THINK THAT YOU SHOULD GET A MEDICAL DISCHARGE FROM THE ARMY WHEN YOU ARE RELEASED FROM THE HOSPITAL?
+                                                  answer_label answer_value raw_counts relative_frequency
+0                                                    NO ANSWER          0.0        127                0.1
+1           YES, I THINK THAT I SHOULD GET A MEDICAL DISCHARGE          1.0        434               0.34
+2  NO, I DON'T THINK MY INJURY (OR SICKNESS) IS SERIOUS ENOUGH          2.0        719               0.56
+
+
+
+S193.Q36 DO YOU THINK THAT YOU WILL GET A MEDICAL DISCHARGE FROM THE ARMY WHEN YOU ARE RELEASED FROM THE HOSPITAL?
+                                                            answer_label answer_value raw_counts relative_frequency
+0                                                              NO ANSWER          0.0         99               0.08
+1     I THINK THERE IS A GOOD CHANCE THAT I WILL GET A MEDICAL DISCHARGE          1.0        114               0.09
+2     I THINK THERE IS A FAIR CHANCE THAT I WILL GET A MEDICAL DISCHARGE          2.0        247               0.19
+3  I DON'T THINK THERE IS ANY CHANCE THAT I WILL GET A MEDICAL DISCHARGE          3.0        820               0.64
+
+
+
+S193.Q37 IF YOU ARE RETURNED TO DUTY WHEN YOU ARE RELEASED FROM THE HOSPITAL, DO YOU THINK YOU WILL BE PUT ON GENERAL DUTY OR ON "SPECIAL ASSIGNMENT" (LIMITED ASSIGNMENT DUTY)?
+                                   answer_label answer_value raw_counts relative_frequency
+0                                     NO ANSWER          0.0         46               0.04
+1          I'LL PROBABLY BE PUT ON GENERAL DUTY          1.0        439               0.34
+2  I'LL PROBABLY BE PUT ON "SPECIAL ASSIGNMENT"          2.0        208               0.16
+3                                I HAVE NO IDEA          3.0        587               0.46
+
+
+
+S193.Q38 IF YOU ARE RETURNED TO DUTY WHEN YOU ARE RELEASED FROM THE HOSPITAL, DO YOU THINK YOU WILL BE SENT BACK TO YOUR OLD OUTFIT OR BE ASSIGNED TO SOME OTHER OUTFIT?
+                                     answer_label answer_value raw_counts relative_frequency
+0                                       NO ANSWER          0.0         32               0.02
+1     I'LL PROBABLY BE SENT BACK TO MY OLD OUTFIT          1.0        595               0.46
+2  I'LL PROBABLY BE ASSIGNED TO SOME OTHER OUTFIT          2.0        236               0.18
+3                                  I HAVE NO IDEA          3.0        417               0.33
+
+
+
+S193.Q39 IF YOU ARE ABLE TO HANDLE YOUR OLD JOB WHEN YOU GET OUT OF THE HOSPITAL, WOULD YOU RATHER GO BACK TO YOUR OLD OUTFIT OR BE ASSIGNED TO SOME OTHER OUTFIT?
+                                                                          answer_label answer_value raw_counts relative_frequency
+0                                                                            NO ANSWER          0.0         90               0.07
+1                                         I WANT VERY MUCH TO GO BACK TO MY OLD OUTFIT          1.0        676               0.53
+2          I WOULD RATHER GO BACK TO MY OLD OUTFIT, BUT IT IS NOT VERY IMPORTANT TO ME          2.0        235               0.18
+3  I WOULD RATHER BE ASSIGNED TO SOME OTHER OUTFIT, BUT IT IS NOT VERY IMPORTANT TO ME          3.0        114               0.09
+4                                 I WANT VERY MUCH TO BE ASSIGNED TO SOME OTHER OUTFIT          4.0        165               0.13
+
+
+
+S193.Q40 IN GENERAL, HOW DO YOU FEEL ABOUT THE LENGTH OF TIME MEN ARE USUALLY KEPT IN ARMY HOSPITALS?
+                                                               answer_label answer_value raw_counts relative_frequency
+0                                                                 NO ANSWER          0.0        102               0.08
+1                        PATIENTS ARE USUALLY KEPT IN THE HOSPITAL TOO LONG          1.0        216               0.17
+2  PATIENTS ARE USUALLY KEPT IN THE HOSPITAL ABOUT THE RIGHT LENGTH OF TIME          2.0        777               0.61
+3                 PATIENTS ARE USUALLY NOT KEPT IN THE HOSPITAL LONG ENOUGH          3.0        185               0.14
+
+
+
+S193.Q41 ABOUT HOW LONG DO YOU THINK IT WILL BE BEFORE YOU ARE IN CONDITION TO LEAVE THE HOSPITAL?
+                       answer_label answer_value raw_counts relative_frequency
+0                         NO ANSWER          0.0         29               0.02
+1                    A WEEK OR LESS          1.0        161               0.13
+2                      2 OR 3 WEEKS          2.0        114               0.09
+3                     A MONTH OR SO          3.0        109               0.09
+4                     2 OR 3 MONTHS          4.0         65               0.05
+5                     OVER 3 MONTHS          5.0         76               0.06
+6     I AM WELL ENOUGH TO LEAVE NOW          6.0         65               0.05
+7  I DON'T KNOW HOW LONG IT WILL BE          7.0        661               0.52
+
+
+
+S193.Q42A HOW WOULD YOU RATE THE JOB BEING DONE BY THE NURSES IN YOUR WARD?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0         37               0.03
+1        SUPERIOR          1.0        348               0.27
+2       EXCELLENT          2.0        435               0.34
+3    SATISFACTORY          3.0        404               0.32
+4  UNSATISFACTORY          4.0         56               0.04
+
+
+
+S193.Q43A HOW WOULD YOU RATE THE JOB BEING DONE BY THE WARD MEN (ENLISTED MEN) IN YOUR WARD?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0         33               0.03
+1        SUPERIOR          1.0        269               0.21
+2       EXCELLENT          2.0        435               0.34
+3    SATISFACTORY          3.0        477               0.37
+4  UNSATISFACTORY          4.0         66               0.05
+
+
+
+S193.Q44A IF IT WERE UP TO YOU, WOULD YOU HAVE NURSES IN HOSPITALS LIKE THIS OR WOULD YOU HAVE ALL THE WORK DONE BY TRAINED ENLISTED MEN?
+                        answer_label answer_value raw_counts relative_frequency
+0                          NO ANSWER          0.0         43               0.03
+1  HAVE BOTH NURSES AND ENLISTED MEN          1.0       1099               0.86
+2             HAVE ONLY ENLISTED MEN          2.0        138               0.11
+
+
+
+S193.Q45 DOES TIME SEEM TO PASS QUICKLY IN THE HOSPITAL?
+                                     answer_label answer_value raw_counts relative_frequency
+0                                       NO ANSWER          0.0         41               0.03
+1       TIME GOES BY VERY QUICKLY IN THE HOSPITAL          1.0        191               0.15
+2  IT GOES BY ABOUT AS FAST HERE AS ANYWHERE ELSE          2.0        533               0.42
+3                        TIME GOES BY VERY SLOWLY          3.0        515                0.4
+
+
+
+S193.Q46 WHAT PART OF THE DAY SEEMS TO PASS LEAST QUICKLY?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         96               0.08
+1      MORNING          1.0        352               0.28
+2    AFTERNOON          2.0        461               0.36
+3      EVENING          3.0        371               0.29
+
+
+
+S193.Q47 ARE PATIENTS IN THIS HOSPITAL PROVIDED WITH INTERESTING THINGS TO DO TO HELP PASS THE TIME?
+                                                  answer_label answer_value raw_counts relative_frequency
+0                                                    NO ANSWER          0.0         74               0.06
+1            YES, THERE ARE PLENTY OF INTERESTING THINGS TO DO          1.0        512                0.4
+2      THERE ARE SOME INTERESTING THINGS TO DO, BUT NOT ENOUGH          2.0        580               0.45
+3  NO, PATIENTS ARE NOT PROVIDED WITH INTERESTING THINGS TO DO          3.0        114               0.09
+
+
+
+S193.Q48.1 WHILE YOU ARE HERE AT THIS HOSPITAL, DO YOU THINK THAT YOU SHOULD BE PROVIDED WITH MORE OF ANY OF THESE THINGS? (CHECK ANY THAT YOU THINK PATIENTS DEFINITELY NEED MORE OF.)
+                                                         answer_label answer_value raw_counts relative_frequency
+0  MORE HANDICRAFT FACILITIES (LEATHERWORKING, LIGHT CARPENTRY, ETC.)          1.0        199               0.16
+1                                                          NOT CHOSEN          2.0       1081               0.84
+
+
+
+S193.Q48.2WHILE YOU ARE HERE AT THIS HOSPITAL, DO YOU THINK THAT YOU SHOULD BE PROVIDED WITH MORE OF ANY OF THESE THINGS? (CHECK ANY THAT YOU THINK PATIENTS DEFINITELY NEED MORE OF.)
+  answer_label answer_value raw_counts relative_frequency
+0   MORE BOOKS          1.0        201               0.16
+1   NOT CHOSEN          2.0       1079               0.84
+
+
+
+S193.Q48.3WHILE YOU ARE HERE AT THIS HOSPITAL, DO YOU THINK THAT YOU SHOULD BE PROVIDED WITH MORE OF ANY OF THESE THINGS? (CHECK ANY THAT YOU THINK PATIENTS DEFINITELY NEED MORE OF.)
+  answer_label answer_value raw_counts relative_frequency
+0  MORE RADIOS          1.0        276               0.22
+1   NOT CHOSEN          2.0       1004               0.78
+
+
+
+S193.Q48.4WHILE YOU ARE HERE AT THIS HOSPITAL, DO YOU THINK THAT YOU SHOULD BE PROVIDED WITH MORE OF ANY OF THESE THINGS? (CHECK ANY THAT YOU THINK PATIENTS DEFINITELY NEED MORE OF.)
+                    answer_label answer_value raw_counts relative_frequency
+0  MORE MAGAZINES AND NEWSPAPERS          1.0        266               0.21
+1                     NOT CHOSEN          2.0       1014               0.79
+
+
+
+S193.Q48.5WHILE YOU ARE HERE AT THIS HOSPITAL, DO YOU THINK THAT YOU SHOULD BE PROVIDED WITH MORE OF ANY OF THESE THINGS? (CHECK ANY THAT YOU THINK PATIENTS DEFINITELY NEED MORE OF.)
+                                  answer_label answer_value raw_counts relative_frequency
+0  MORE TABLE GAMES (CHECKERS, MONOPOLY, ETC.)          1.0         83               0.06
+1                                   NOT CHOSEN          2.0       1197               0.94
+
+
+
+S193.Q48.6WHILE YOU ARE HERE AT THIS HOSPITAL, DO YOU THINK THAT YOU SHOULD BE PROVIDED WITH MORE OF ANY OF THESE THINGS? (CHECK ANY THAT YOU THINK PATIENTS DEFINITELY NEED MORE OF.)
+  answer_label answer_value raw_counts relative_frequency
+0  MORE MOVIES          1.0        328               0.26
+1   NOT CHOSEN          2.0        952               0.74
+
+
+
+S193.Q48.7WHILE YOU ARE HERE AT THIS HOSPITAL, DO YOU THINK THAT YOU SHOULD BE PROVIDED WITH MORE OF ANY OF THESE THINGS? (CHECK ANY THAT YOU THINK PATIENTS DEFINITELY NEED MORE OF.)
+                                            answer_label answer_value raw_counts relative_frequency
+0  MORE LIGHT GAMES (HORSESHOES, PING-PONG, DARTS, ETC.)          1.0         98               0.08
+1                                             NOT CHOSEN          2.0       1182               0.92
+
+
+
+S193.Q48.8WHILE YOU ARE HERE AT THIS HOSPITAL, DO YOU THINK THAT YOU SHOULD BE PROVIDED WITH MORE OF ANY OF THESE THINGS? (CHECK ANY THAT YOU THINK PATIENTS DEFINITELY NEED MORE OF.)
+                                   answer_label answer_value raw_counts relative_frequency
+0  EDUCATIONAL CLASSES IN NON-MILITARY SUBJECTS          1.0        229               0.18
+1                                    NOT CHOSEN          2.0       1051               0.82
+
+
+
+S193.Q48.9WHILE YOU ARE HERE AT THIS HOSPITAL, DO YOU THINK THAT YOU SHOULD BE PROVIDED WITH MORE OF ANY OF THESE THINGS? (CHECK ANY THAT YOU THINK PATIENTS DEFINITELY NEED MORE OF.)
+                            answer_label answer_value raw_counts relative_frequency
+0  TRAINING CLASSES IN MILITARY SUBJECTS          1.0         40               0.03
+1                             NOT CHOSEN          2.0       1240               0.97
+
+
+
+S193.Q48.10WHILE YOU ARE HERE AT THIS HOSPITAL, DO YOU THINK THAT YOU SHOULD BE PROVIDED WITH MORE OF ANY OF THESE THINGS? (CHECK ANY THAT YOU THINK PATIENTS DEFINITELY NEED MORE OF.)
+  answer_label answer_value raw_counts relative_frequency
+0        OTHER          1.0         43               0.03
+1   NOT CHOSEN          2.0       1237               0.97
+
+
+
+S193.Q48.11WHILE YOU ARE HERE AT THIS HOSPITAL, DO YOU THINK THAT YOU SHOULD BE PROVIDED WITH MORE OF ANY OF THESE THINGS? (CHECK ANY THAT YOU THINK PATIENTS DEFINITELY NEED MORE OF.)
+           answer_label answer_value raw_counts relative_frequency
+0  NONE OF THESE THINGS          1.0        132                0.1
+1            NOT CHOSEN          2.0       1148                0.9
+
+
+
+S193.Q48.12WHILE YOU ARE HERE AT THIS HOSPITAL, DO YOU THINK THAT YOU SHOULD BE PROVIDED WITH MORE OF ANY OF THESE THINGS? (CHECK ANY THAT YOU THINK PATIENTS DEFINITELY NEED MORE OF.)
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0        181               0.14
+1   NOT CHOSEN          2.0       1099               0.86
+
+
+
+S193.Q49 HOW WOULD YOU RATE THE JOB BEING DONE BY THE GRAY LADIES IN THIS HOSPITAL?
+                                answer_label answer_value raw_counts relative_frequency
+0                                  NO ANSWER          0.0        184               0.14
+1                                   SUPERIOR          1.0        256                0.2
+2                                  EXCELLENT          2.0        313               0.24
+3                               SATISFACTORY          3.0        274               0.21
+4                             UNSATISFACTORY          4.0         23               0.02
+5  THERE ARE NO GRAY LADIES IN THIS HOSPITAL          5.0        230               0.18
+
+
+
+S193.Q50 HOW WOULD YOU RATE THE JOB BEING DONE BY THE RED CROSS IN THIS HOSPITAL?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0         73               0.06
+1        SUPERIOR          1.0        289               0.23
+2       EXCELLENT          2.0        430               0.34
+3    SATISFACTORY          3.0        427               0.33
+4  UNSATISFACTORY          4.0         61               0.05
+
+
+
+S193.Q51 SINCE YOU HAVE BEEN IN THE HOSPITAL, HAVE YOU EVER GONE OUT ON PASS?
+                                                                         answer_label answer_value raw_counts relative_frequency
+0                                                                           NO ANSWER          0.0         77               0.06
+1                                                            YES, I HAVE GONE ON PASS          1.0        188               0.15
+2  NO, THE DOCTORS IN CHARGE OF MY CASE HAVEN'T GIVEN ME PERMISSION TO GO ON PASS YET          2.0        649               0.51
+3                                    NO, I HAVEN'T GONE ON PASS FOR SOME OTHER REASON          3.0        366               0.29
+
+
+
+S193.Q52 HOW GOOD ARE THE MEALS IN THE PATIENTS MESS HALL?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0         34               0.03
+1                                    SUPERIOR          1.0         81               0.06
+2                                   EXCELLENT          2.0        211               0.16
+3                                SATISFACTORY          3.0        465               0.36
+4                              UNSATISFACTORY          4.0        116               0.09
+5  I HAVE NOT EATEN IN THE PATIENTS MESS HALL          5.0        373               0.29
+
+
+
+S193.Q53 HOW ABOUT THE MEALS SERVED ON TRAYS IN THE WARDS?
+                                          answer_label answer_value raw_counts relative_frequency
+0                                            NO ANSWER          0.0         34               0.03
+1                                             SUPERIOR          1.0         88               0.07
+2                                            EXCELLENT          2.0        263               0.21
+3                                         SATISFACTORY          3.0        537               0.42
+4                                       UNSATISFACTORY          4.0        127                0.1
+5  I HAVE NOT EATEN MEALS SERVED ON TRAYS IN THE WARDS          5.0        231               0.18
+
+
+
+S193.Q54 WHAT WAS THE LAST MONTH FOR WHICH YOU WERE PAID? REMEMBER THAT THE ARMY PAYS MEN AT THE END OF A MONTH FOR TIME PUT IN DURING THE MONTH JUST ENDED. FOR EXAMPLE, PAY RECEIVED ABOUT THE FIRST OF DECEMBER WOULD BE FOR MONEY EARNED IN NOVEMBER.
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0         56               0.04
+1   DECEMBER 1944          1.0        527               0.41
+2        NOVEMBER          2.0        248               0.19
+3         OCTOBER          3.0        220               0.17
+4       SEPTEMBER          4.0         91               0.07
+5          AUGUST          5.0        115               0.09
+6            JULY          6.0         12               0.01
+7  JUNE OR BEFORE          7.0         11               0.01
+
+
+
+S193.Q55 SINCE YOU HAVE BEEN IN THE HOSPITAL, HAVE YOU HAD ANY TROUBLE BECAUSE YOUR SERVICE RECORD AND OTHER PAPERS WERE DELAYED IN REACHING THE HOSPITAL OR WERE NOT IN PROPER ORDER?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0        114               0.09
+1  NO, I HAVEN'T HAD ANY TROUBLE          1.0       1054               0.82
+2        YES, I HAVE HAD TROUBLE          2.0        112               0.09
+
+
+
+S193.V57 HOSPITAL AND LOCATION
+                 answer_label answer_value raw_counts relative_frequency
+0     GENERAL HOSPITAL - OAHU          1.0         53               0.04
+1     GENERAL HOSPITAL - OAHU          2.0         90               0.07
+2     GENERAL HOSPITAL - OAHU          3.0         69               0.05
+3     GENERAL HOSPITAL - OAHU          4.0         46               0.04
+4     GENERAL HOSPITAL - OAHU          5.0        270               0.21
+5     GENERAL HOSPITAL - OAHU          6.0        255                0.2
+6     STATION HOSPITAL - OAHU          7.0        121               0.09
+7     STATION HOSPITAL - MAUI          8.0         80               0.06
+8   STATION HOSPITAL - HAWAII          9.0         29               0.02
+9   STATION HOSPITAL - HAWAII         10.0         54               0.04
+10  GENERAL HOSPITAL - SAIPAN         11.0        108               0.08
+11  STATION HOSPITAL - SAIPAN         12.0        105               0.08
+
+
+
+S193.V59 TYPE OF PATIENTS
+                answer_label answer_value raw_counts relative_frequency
+0         NO CODE OR NO DATA          0.0          1                0.0
+1   BATTLE CASUALTIES - ARMY          1.0        323               0.25
+2      OTHER SURGICAL - ARMY          2.0        377               0.29
+3             MEDICAL - ARMY          3.0        391               0.31
+4           OPEN-WARD - ARMY          4.0         91               0.07
+5  NAVAL AND MARINE PATIENTS          5.0         97               0.08
+
+
+

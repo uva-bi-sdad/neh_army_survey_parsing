@@ -1,0 +1,805 @@
+FORMFORM:
+  answer_label answer_value raw_counts relative_frequency
+0       S-195A          1.0        296                1.0
+
+
+
+S195A.Q1 WHAT IS YOUR ARMY RANK OR GRADE?
+                                               answer_label answer_value raw_counts relative_frequency
+0                                                 NO ANSWER          0.0          3               0.01
+1                                                   PRIVATE          1.0         66               0.22
+2                                       PRIVATE FIRST CLASS          2.0         72               0.24
+3  NONCOM (CORPORAL OR ANY GRADE OF SERGEANT OR TECHNICIAN)          3.0        152               0.51
+4                                  SOME OTHER RANK OR GRADE          4.0          3               0.01
+
+
+
+S195A.Q2 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0          4               0.01
+1  19 YEARS OR YOUNGER          1.0          4               0.01
+2       20 TO 24 YEARS          2.0         57               0.19
+3       25 TO 29 YEARS          3.0         97               0.33
+4       30 TO 34 YEARS          4.0         54               0.18
+5    35 YEARS OR OLDER          5.0         80               0.27
+
+
+
+S195A.Q3 HOW FAR DID YOU GO IN SCHOOL?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0          6               0.02
+1                  LESS THAN 6TH GRADE          1.0          8               0.03
+2                   FINISHED 6TH GRADE          2.0         10               0.03
+3                   FINISHED 7TH GRADE          3.0         10               0.03
+4                   FINISHED 8TH GRADE          4.0         30                0.1
+5  SOME HIGH SCHOOL BUT DID NOT FINISH          5.0         67               0.23
+6           GRADUATED FROM HIGH SCHOOL          6.0         78               0.26
+7      SOME COLLEGE BUT DID NOT FINISH          7.0         66               0.22
+8               GRADUATED FROM COLLEGE          8.0         21               0.07
+
+
+
+S195A.Q4A DO YOU CONSIDER YOUR OWN PRESENT JOB OR DUTY IN THE ARMY AN IMPORTANT ONE IN THE WAR EFFORT?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0          6               0.02
+1        VERY IMPORTANT          1.0         74               0.25
+2      PRETTY IMPORTANT          2.0         71               0.24
+3      NOT SO IMPORTANT          3.0         73               0.25
+4  NOT IMPORTANT AT ALL          4.0         59                0.2
+5             UNDECIDED          5.0         13               0.04
+
+
+
+S195A.Q4B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0          8               0.03
+1    VERY STRONGLY          1.0        179                0.6
+2  FAIRLY STRONGLY          2.0         96               0.32
+3     NOT STRONGLY          3.0         13               0.04
+
+
+
+S195A.Q5A AFTER THE WAR, DO YOU THINK THE UNITED STATES COULD OR COULD NOT HAVE AN ARMY SUFFICIENT FOR THE COUNTRY'S NEEDS BY TAKING VOLUNTEERS ONLY?
+               answer_label answer_value raw_counts relative_frequency
+0                 NO ANSWER          0.0          4               0.01
+1     YES, I THINK IT COULD          1.0        124               0.42
+2  NO, I THINK IT COULD NOT          2.0        143               0.48
+3                 UNDECIDED          3.0         25               0.08
+
+
+
+S195A.Q5B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0          5               0.02
+1    VERY STRONGLY          1.0        197               0.67
+2  FAIRLY STRONGLY          2.0         76               0.26
+3     NOT STRONGLY          3.0         18               0.06
+
+
+
+S195A.Q6A DO YOU AGREE OR DISAGREE WITH THIS STATEMENT: "THE BEST WAY TO PROTECT THE UNITED STATES AGAINST ANOTHER WAR IS TO MAKE HER SO STRONG MILITARILY THAT NO ONE WOULD DARE TO ATTACK HER."
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          2               0.01
+1        AGREE          1.0        204               0.69
+2     DISAGREE          2.0         58                0.2
+3    UNDECIDED          3.0         32               0.11
+
+
+
+S195A.Q6B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0          8               0.03
+1    VERY STRONGLY          1.0        216               0.73
+2  FAIRLY STRONGLY          2.0         55               0.19
+3     NOT STRONGLY          3.0         17               0.06
+
+
+
+S195A.Q7A DO YOU AGREE OR DISAGREE WITH THIS STATEMENT: "AFTER THE WAR, IT WILL BE NECESSARY FOR THE NATIONAL SAFETY OF THE UNITED STATES TO HAVE A LARGE ARMY."
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          5               0.02
+1        AGREE          1.0        194               0.66
+2     DISAGREE          2.0         73               0.25
+3    UNDECIDED          3.0         24               0.08
+
+
+
+S195A.Q7B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0          9               0.03
+1    VERY STRONGLY          1.0        200               0.68
+2  FAIRLY STRONGLY          2.0         71               0.24
+3     NOT STRONGLY          3.0         16               0.05
+
+
+
+S195A.Q8A AFTER THE WAR, DO YOU THINK THE UNITED STATES SHOULD DRAFT ALL YOUNG MEN FOR A CERTAIN AMOUNT OF ARMY TRAINING OR SHOULD WE GO BACK TO THE REGULAR ARMY SYSTEM OF VOLUNTEERS ONLY?
+                                           answer_label answer_value raw_counts relative_frequency
+0                                             NO ANSWER          0.0          1                0.0
+1  DRAFT ALL YOUNG MEN FOR A CERTAIN AMOUNT OF TRAINING          1.0        209               0.71
+2                     GO BACK TO TAKING VOLUNTEERS ONLY          2.0         72               0.24
+3                                             UNDECIDED          3.0         14               0.05
+
+
+
+S195A.Q8B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0          3               0.01
+1    VERY STRONGLY          1.0        239               0.81
+2  FAIRLY STRONGLY          2.0         50               0.17
+3     NOT STRONGLY          3.0          4               0.01
+
+
+
+S195A.Q9A IF YOU HAD A SON, WOULD YOU WANT HIM TO HAVE A CERTAIN AMOUNT OF ARMY TRAINING DURING PEACETIME, AFTER THIS WAR, OR NOT?
+                                     answer_label answer_value raw_counts relative_frequency
+0                                       NO ANSWER          0.0          2               0.01
+1     YES, I WOULD WANT HIM TO HAVE ARMY TRAINING          1.0        219               0.74
+2  NO, I WOULD NOT WANT HIM TO HAVE ARMY TRAINING          2.0         52               0.18
+3                                       UNDECIDED          3.0         23               0.08
+
+
+
+S195A.Q9B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0          5               0.02
+1    VERY STRONGLY          1.0        218               0.74
+2  FAIRLY STRONGLY          2.0         57               0.19
+3     NOT STRONGLY          3.0         16               0.05
+
+
+
+S195A.Q10A AFTER THE WAR, DO YOU THINK ALL YOUNG MEN IN THE UNITED STATES SHOULD BE MADE TO TAKE A CERTAIN AMOUNT OF MILITARY TRAINING OR NOT?
+                                            answer_label answer_value raw_counts relative_frequency
+0     YES, THEY SHOULD BE MADE TO TAKE MILITARY TRAINING          1.0        219               0.74
+1  NO, THEY SHOULD NOT BE MADE TO TAKE MILITARY TRAINING          2.0         58                0.2
+2                                              UNDECIDED          3.0         19               0.06
+
+
+
+S195A.Q10B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0          5               0.02
+1    VERY STRONGLY          1.0        219               0.74
+2  FAIRLY STRONGLY          2.0         59                0.2
+3     NOT STRONGLY          3.0         13               0.04
+
+
+
+S195A.Q11A DO YOU AGREE OR DISAGREE WITH THE STATEMENT: "EVEN IF ALL OTHER COUNTRIES AGREE NOT TO HAVE LARGE ARMIES, THE UNITED STATES SHOULD STILL DRAFT ALL YOUNG MEN FOR MILITARY TRAINING."
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          6               0.02
+1        AGREE          1.0        180               0.61
+2     DISAGREE          2.0         83               0.28
+3    UNDECIDED          3.0         27               0.09
+
+
+
+S195A.Q11B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         11               0.04
+1    VERY STRONGLY          1.0        203               0.69
+2  FAIRLY STRONGLY          2.0         55               0.19
+3     NOT STRONGLY          3.0         27               0.09
+
+
+
+S195A.Q12 HOW INTERESTED WOULD YOU BE IN HAVING DISCUSSIONS ON THE KIND OF ARMY THE UNITED STATES WILL NEED AFTER THE WAR?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          7               0.02
+1    VERY MUCH          1.0        151               0.51
+2  PRETTY MUCH          2.0         74               0.25
+3  NOT SO MUCH          3.0         36               0.12
+4   NOT AT ALL          4.0         28               0.09
+
+
+
+S195A.Q13A ON THE WHOLE, DO YOU THINK THE ARMY IS GIVING YOU A CHANCE TO SHOW WHAT YOU CAN DO?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0          6               0.02
+1    A VERY GOOD CHANCE          1.0         50               0.17
+2  A FAIRLY GOOD CHANCE          2.0         83               0.28
+3  NOT MUCH OF A CHANCE          3.0         93               0.31
+4      NO CHANCE AT ALL          4.0         56               0.19
+5             UNDECIDED          5.0          8               0.03
+
+
+
+S195A.Q13B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0          8               0.03
+1    VERY STRONGLY          1.0        189               0.64
+2  FAIRLY STRONGLY          2.0         89                0.3
+3     NOT STRONGLY          3.0         10               0.03
+
+
+
+S195A.Q14A DO YOU FEEL THAT EVERYTHING POSSIBLE HAS BEEN DONE TO PLACE YOU IN THE ARMY JOB WHERE YOU BEST FIT?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          6               0.02
+1          YES          1.0         98               0.33
+2           NO          2.0        172               0.58
+3    UNDECIDED          3.0         20               0.07
+
+
+
+S195A.Q14B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0          5               0.02
+1    VERY STRONGLY          1.0        227               0.77
+2  FAIRLY STRONGLY          2.0         51               0.17
+3     NOT STRONGLY          3.0         13               0.04
+
+
+
+S195A.Q15A DO YOUR OFFICERS GIVE YOU A GOOD CHANCE TO ASK QUESTIONS AS TO THE REASON WHY THINGS ARE DONE THE WAY THEY ARE?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0          8               0.03
+1         YES, ALWAYS          1.0         57               0.19
+2        YES, USUALLY          2.0         93               0.31
+3           UNDECIDED          3.0         16               0.05
+4  NO, NOT VERY OFTEN          4.0         77               0.26
+5    NO, ALMOST NEVER          5.0         45               0.15
+
+
+
+S195A.Q15B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         10               0.03
+1    VERY STRONGLY          1.0        191               0.65
+2  FAIRLY STRONGLY          2.0         78               0.26
+3     NOT STRONGLY          3.0         17               0.06
+
+
+
+S195A.Q16A HOW OFTEN DOES IT HAPPEN THAT YOU ARE CALLED DOWN OR PUNISHED FOR SOMETHING YOU DIDN'T DO?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          7               0.02
+1   VERY OFTEN          1.0         10               0.03
+2        OFTEN          2.0         11               0.04
+3    SOMETIMES          3.0         60                0.2
+4  HARDLY EVER          4.0        102               0.34
+5        NEVER          5.0        106               0.36
+
+
+
+S195A.Q16B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         11               0.04
+1    VERY STRONGLY          1.0        189               0.64
+2  FAIRLY STRONGLY          2.0         66               0.22
+3     NOT STRONGLY          3.0         30                0.1
+
+
+
+S195A.Q17A HOW MANY OF YOUR OFFICERS TAKE A PERSONAL INTEREST IN THEIR MEN?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0          8               0.03
+1         ALL OF THEM DO          1.0         28               0.09
+2        MOST OF THEM DO          2.0         68               0.23
+3  ABOUT HALF OF THEM DO          3.0         45               0.15
+4         FEW OF THEM DO          4.0        120               0.41
+5        NONE OF THEM DO          5.0         27               0.09
+
+
+
+S195A.Q17B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0          8               0.03
+1    VERY STRONGLY          1.0        216               0.73
+2  FAIRLY STRONGLY          2.0         61               0.21
+3     NOT STRONGLY          3.0         11               0.04
+
+
+
+S195A.Q18A DO YOU THINK THAT YOUR OFFICERS GENERALLY DO WHAT THEY CAN TO HELP YOU?
+               answer_label answer_value raw_counts relative_frequency
+0                 NO ANSWER          0.0          9               0.03
+1         YES, ALL THE TIME          1.0         32               0.11
+2     YES, MOST OF THE TIME          2.0        124               0.42
+3     NO, THEY OFTEN DO NOT          3.0        104               0.35
+4  NO, THEY ALMOST NEVER DO          4.0         27               0.09
+
+
+
+S195A.Q18B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0          9               0.03
+1    VERY STRONGLY          1.0        182               0.61
+2  FAIRLY STRONGLY          2.0         98               0.33
+3     NOT STRONGLY          3.0          7               0.02
+
+
+
+S195A.Q19A WOULD YOU CHANGE TO SOME OTHER ARMY JOB IF GIVEN A CHANCE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          8               0.03
+1          YES          1.0        160               0.54
+2           NO          2.0         90                0.3
+3    UNDECIDED          3.0         38               0.13
+
+
+
+S195A.Q19B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         10               0.03
+1    VERY STRONGLY          1.0        225               0.76
+2  FAIRLY STRONGLY          2.0         44               0.15
+3     NOT STRONGLY          3.0         17               0.06
+
+
+
+S195A.Q20A HOW INTERESTED ARE YOU IN YOUR ARMY JOB?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0          8               0.03
+1   VERY MUCH INTERESTED          1.0        129               0.44
+2  A LITTLE BUT NOT MUCH          2.0        106               0.36
+3  NOT INTERESTED AT ALL          3.0         53               0.18
+
+
+
+S195A.Q20B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0          8               0.03
+1    VERY STRONGLY          1.0        204               0.69
+2  FAIRLY STRONGLY          2.0         71               0.24
+3     NOT STRONGLY          3.0         13               0.04
+
+
+
+S195A.Q21A HOW WELL DO YOU FEEL THAT YOUR OFFICERS UNDERSTAND YOUR PROBLEMS AND NEEDS?
+                                                 answer_label answer_value raw_counts relative_frequency
+0                                                   NO ANSWER          0.0         12               0.04
+1           THEY ARE VERY MUCH AWARE OF MY PROBLEMS AND NEEDS          1.0         40               0.14
+2         THEY ARE FAIRLY WELL AWARE OF MY PROBLEMS AND NEEDS          2.0        107               0.36
+3  THEY DO NOT KNOW VERY MUCH ABOUT MY REAL PROBLEMS OR NEEDS          3.0        137               0.46
+
+
+
+S195A.Q21B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         14               0.05
+1    VERY STRONGLY          1.0        202               0.68
+2  FAIRLY STRONGLY          2.0         69               0.23
+3     NOT STRONGLY          3.0         11               0.04
+
+
+
+S195A.Q22A DO YOU FEEL THAT YOUR OFFICERS RECOGNIZE YOUR ABILITIES AND WHAT YOU ARE ABLE TO DO?
+                            answer_label answer_value raw_counts relative_frequency
+0                              NO ANSWER          0.0          8               0.03
+1                  YES, I'M SURE THEY DO          1.0         79               0.27
+2  YES, I THINK THEY DO BUT I'M NOT SURE          2.0         93               0.31
+3              NO, I DON'T THINK THEY DO          3.0        101               0.34
+4                              UNDECIDED          4.0         15               0.05
+
+
+
+S195A.Q22B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0          8               0.03
+1    VERY STRONGLY          1.0        194               0.66
+2  FAIRLY STRONGLY          2.0         76               0.26
+3     NOT STRONGLY          3.0         18               0.06
+
+
+
+S195A.Q23A IN GENERAL, HOW GOOD WOULD YOU SAY YOUR OFFICERS ARE?
+    answer_label answer_value raw_counts relative_frequency
+0      NO ANSWER          0.0         10               0.03
+1      VERY GOOD          1.0         64               0.22
+2    FAIRLY GOOD          2.0         77               0.26
+3  ABOUT AVERAGE          3.0         93               0.31
+4    PRETTY POOR          4.0         33               0.11
+5      VERY POOR          5.0         19               0.06
+
+
+
+S195A.Q23B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         11               0.04
+1    VERY STRONGLY          1.0        207                0.7
+2  FAIRLY STRONGLY          2.0         70               0.24
+3     NOT STRONGLY          3.0          8               0.03
+
+
+
+S195A.Q24A HOW SATISFIED ARE YOU ABOUT BEING IN YOUR PRESENT ARMY JOB INSTEAD OF SOME OTHER ARMY JOB?
+                            answer_label answer_value raw_counts relative_frequency
+0                              NO ANSWER          0.0          9               0.03
+1                         VERY SATISFIED          1.0         66               0.22
+2                              SATISFIED          2.0         84               0.28
+3  IT DOES NOT MAKE ANY DIFFERENCE TO ME          3.0         48               0.16
+4                           DISSATISFIED          4.0         65               0.22
+5                      VERY DISSATISFIED          5.0         24               0.08
+
+
+
+S195A.Q24B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         11               0.04
+1    VERY STRONGLY          1.0        188               0.64
+2  FAIRLY STRONGLY          2.0         85               0.29
+3     NOT STRONGLY          3.0         12               0.04
+
+
+
+S195A.Q25A DO YOU USUALLY FEEL THAT WHAT YOU ARE DOING IN THE ARMY IS WORTHWHILE OR NOT?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0          9               0.03
+1  I USUALLY FEEL IT IS NOT WORTHWHILE          1.0         90                0.3
+2      I USUALLY FEEL IT IS WORTHWHILE          2.0        169               0.57
+3                            UNDECIDED          3.0         28               0.09
+
+
+
+S195A.Q25B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         10               0.03
+1    VERY STRONGLY          1.0        192               0.65
+2  FAIRLY STRONGLY          2.0         80               0.27
+3     NOT STRONGLY          3.0         14               0.05
+
+
+
+S195A.Q26A HOW MANY OF YOUR OFFICERS USE THEIR RANK IN WAYS THAT SEEM UNNECESSARY TO YOU?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0          7               0.02
+1  ALMOST ALL OF THEM DO          1.0         19               0.06
+2        MOST OF THEM DO          2.0         40               0.14
+3        SOME OF THEM DO          3.0        101               0.34
+4  ONLY A FEW OF THEM DO          4.0         91               0.31
+5        NONE OF THEM DO          5.0         38               0.13
+
+
+
+S195A.Q26B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0          7               0.02
+1    VERY STRONGLY          1.0        176               0.59
+2  FAIRLY STRONGLY          2.0         88                0.3
+3     NOT STRONGLY          3.0         25               0.08
+
+
+
+S195A.Q27A WHEN YOU DO A PARTICULARLY GOOD JOB DO YOU USUALLY GET RECOGNITION OR PRAISE FOR IT FROM YOUR OFFICERS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          9               0.03
+1       ALWAYS          1.0         22               0.07
+2      USUALLY          2.0         99               0.33
+3       RARELY          3.0        129               0.44
+4        NEVER          4.0         37               0.12
+
+
+
+S195A.Q27B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0          8               0.03
+1    VERY STRONGLY          1.0        194               0.66
+2  FAIRLY STRONGLY          2.0         79               0.27
+3     NOT STRONGLY          3.0         15               0.05
+
+
+
+S195A.Q28A HOW MANY OF THE OFFICERS IN YOUR COMPANY (BATTERY, SQUADRON, TROOP) ARE THE KIND YOU WOULD WANT TO SERVE UNDER IN COMBAT?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0          9               0.03
+1         ALL OF THEM ARE          1.0         18               0.06
+2        MOST OF THEM ARE          2.0         56               0.19
+3  ABOUT HALF OF THEM ARE          3.0         57               0.19
+4         FEW OF THEM ARE          4.0         90                0.3
+5        NONE OF THEM ARE          5.0         66               0.22
+
+
+
+S195A.Q28B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0          9               0.03
+1    VERY STRONGLY          1.0        217               0.73
+2  FAIRLY STRONGLY          2.0         63               0.21
+3     NOT STRONGLY          3.0          7               0.02
+
+
+
+S195A.Q29A HOW MUCH DO YOU PERSONALLY LIKE YOUR OFFICERS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          7               0.02
+1    VERY MUCH          1.0         51               0.17
+2  PRETTY MUCH          2.0        148                0.5
+3  NOT SO MUCH          3.0         75               0.25
+4   NOT AT ALL          4.0         15               0.05
+
+
+
+S195A.Q29B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0          8               0.03
+1    VERY STRONGLY          1.0        154               0.52
+2  FAIRLY STRONGLY          2.0        121               0.41
+3     NOT STRONGLY          3.0         13               0.04
+
+
+
+S195A.Q30A WHEN YOUR OFFICERS GIVE YOU SOMETHING TO DO, DO THEY TELL YOU ENOUGH ABOUT IT SO THAT YOU CAN DO A GOOD JOB?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0          7               0.02
+1        ALWAYS TELL ME ENOUGH          1.0         59                0.2
+2       USUALLY TELL ME ENOUGH          2.0        132               0.45
+3  OFTEN DO NOT TELL ME ENOUGH          3.0         68               0.23
+4  ALMOST NEVER TELL ME ENOUGH          4.0         21               0.07
+5                    UNDECIDED          5.0          9               0.03
+
+
+
+S195A.Q30B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0          7               0.02
+1    VERY STRONGLY          1.0        188               0.64
+2  FAIRLY STRONGLY          2.0         94               0.32
+3     NOT STRONGLY          3.0          7               0.02
+
+
+
+S195A.Q31A HOW MANY OF YOUR COMPANY OFFICERS ARE THE KIND WHO ARE WILLING TO GO THROUGH ANYTHING THEY ASK THEIR MEN TO GO THROUGH?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0          9               0.03
+1         ALL OF THEM ARE          1.0         33               0.11
+2        MOST OF THEM ARE          2.0         86               0.29
+3  ABOUT HALF OF THEM ARE          3.0         52               0.18
+4         FEW OF THEM ARE          4.0         93               0.31
+5        NONE OF THEM ARE          5.0         23               0.08
+
+
+
+S195A.Q31B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         12               0.04
+1    VERY STRONGLY          1.0        190               0.64
+2  FAIRLY STRONGLY          2.0         85               0.29
+3     NOT STRONGLY          3.0          9               0.03
+
+
+
+S195A.Q32A HOW DO YOU FEEL ABOUT THE OFFICERS THAT HAVE BEEN PICKED FOR YOUR OUTFIT?
+                                          answer_label answer_value raw_counts relative_frequency
+0                                            NO ANSWER          0.0         12               0.04
+1   THEY ARE THE BEST ONES THAT COULD HAVE BEEN PICKED          1.0         26               0.09
+2  THEY ARE AS GOOD AS ANY THAT COULD HAVE BEEN PICKED          2.0        103               0.35
+3          SOMEWHAT BETTER ONES COULD HAVE BEEN PICKED          3.0         80               0.27
+4              MUCH BETTER ONES COULD HAVE BEEN PICKED          4.0         55               0.19
+5                                            UNDECIDED          5.0         20               0.07
+
+
+
+S195A.Q32B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         13               0.04
+1    VERY STRONGLY          1.0        196               0.66
+2  FAIRLY STRONGLY          2.0         75               0.25
+3     NOT STRONGLY          3.0         12               0.04
+
+
+
+S195A.Q33A CAN YOU COUNT ON YOUR OFFICERS TO BACK YOU UP IN YOUR DUTIES?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0         14               0.05
+1                YES, ALWAYS          1.0         64               0.22
+2               YES, USUALLY          2.0        147                0.5
+3  NO, YOU CAN'T COUNT ON IT          3.0         71               0.24
+
+
+
+S195A.Q33B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         12               0.04
+1    VERY STRONGLY          1.0        182               0.61
+2  FAIRLY STRONGLY          2.0         89                0.3
+3     NOT STRONGLY          3.0         13               0.04
+
+
+
+S195A.Q34A WOULD YOU HONESTLY SAY THAT YOU USUALLY PUT ALL YOU HAVE INTO YOUR ARMY DUTIES, OR DO YOU USUALLY WORK JUST HARD ENOUGH TO GET BY?
+                                answer_label answer_value raw_counts relative_frequency
+0                                  NO ANSWER          0.0         11               0.04
+1           I USUALLY PUT ALL I HAVE INTO IT          1.0        195               0.66
+2  I USUALLY WORK JUST HARD ENOUGH TO GET BY          2.0         76               0.26
+3                                  UNDECIDED          3.0         14               0.05
+
+
+
+S195A.Q34B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         11               0.04
+1    VERY STRONGLY          1.0        219               0.74
+2  FAIRLY STRONGLY          2.0         57               0.19
+3     NOT STRONGLY          3.0          9               0.03
+
+
+
+S195A.Q35A "I HAVE A ROTTEN TIME IN THE ARMY."
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0         10               0.03
+1     STRONGLY AGREE          1.0         47               0.16
+2              AGREE          2.0         60                0.2
+3          UNDECIDED          3.0         53               0.18
+4           DISAGREE          4.0         94               0.32
+5  STRONGLY DISAGREE          5.0         32               0.11
+
+
+
+S195A.Q35B "ARMY LIFE IS BETTER THAN I EXPECTED."
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0         13               0.04
+1     STRONGLY AGREE          1.0         20               0.07
+2              AGREE          2.0         88                0.3
+3          UNDECIDED          3.0         48               0.16
+4           DISAGREE          4.0         89                0.3
+5  STRONGLY DISAGREE          5.0         38               0.13
+
+
+
+S195A.Q35C "I FEEL SURE I CAN MAKE GOOD IN THE ARMY."
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0         10               0.03
+1     STRONGLY AGREE          1.0         39               0.13
+2              AGREE          2.0         74               0.25
+3          UNDECIDED          3.0         63               0.21
+4           DISAGREE          4.0         66               0.22
+5  STRONGLY DISAGREE          5.0         44               0.15
+
+
+
+S195A.Q35D "ON THE WHOLE, MY MORALE IS HIGH."
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0         10               0.03
+1     STRONGLY AGREE          1.0         30                0.1
+2              AGREE          2.0         76               0.26
+3          UNDECIDED          3.0         48               0.16
+4           DISAGREE          4.0         91               0.31
+5  STRONGLY DISAGREE          5.0         41               0.14
+
+
+
+S195A.Q35E "IN GENERAL, THE ARMY IS POORLY RUN."
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0          8               0.03
+1     STRONGLY AGREE          1.0         52               0.18
+2              AGREE          2.0         69               0.23
+3          UNDECIDED          3.0         65               0.22
+4           DISAGREE          4.0         86               0.29
+5  STRONGLY DISAGREE          5.0         16               0.05
+
+
+
+S195A.Q35F "THE ARMY MAKES A MAN OUT OF YOU."
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0          9               0.03
+1     STRONGLY AGREE          1.0         36               0.12
+2              AGREE          2.0         48               0.16
+3          UNDECIDED          3.0         50               0.17
+4           DISAGREE          4.0         95               0.32
+5  STRONGLY DISAGREE          5.0         58                0.2
+
+
+
+S195A.Q35G "I GET A KICK OUT OF GIVING A SNAPPY SALUTE."
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0         16               0.05
+1     STRONGLY AGREE          1.0         76               0.26
+2              AGREE          2.0        101               0.34
+3          UNDECIDED          3.0         29                0.1
+4           DISAGREE          4.0         47               0.16
+5  STRONGLY DISAGREE          5.0         27               0.09
+
+
+
+FORM..1FORM:
+  answer_label answer_value raw_counts relative_frequency
+0       S-195A          1.0        296                1.0
+
+
+
+S195A.Q35H "I AM WORRIED AND UPSET."
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0         18               0.06
+1     STRONGLY AGREE          1.0         57               0.19
+2              AGREE          2.0         59                0.2
+3          UNDECIDED          3.0         42               0.14
+4           DISAGREE          4.0         93               0.31
+5  STRONGLY DISAGREE          5.0         27               0.09
+
+
+
+S195A.Q35I "I FEEL HOMESICK."
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0         17               0.06
+1     STRONGLY AGREE          1.0         43               0.15
+2              AGREE          2.0         49               0.17
+3          UNDECIDED          3.0         43               0.15
+4           DISAGREE          4.0        102               0.34
+5  STRONGLY DISAGREE          5.0         42               0.14
+
+
+
+S195A.Q35J "I HARDLY EVER FEEL LONESOME."
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0         18               0.06
+1     STRONGLY AGREE          1.0         23               0.08
+2              AGREE          2.0         62               0.21
+3          UNDECIDED          3.0         31                0.1
+4           DISAGREE          4.0        120               0.41
+5  STRONGLY DISAGREE          5.0         42               0.14
+
+
+
+S195A.Q35K "I THINK I AM A GOOD SOLDIER."
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0         17               0.06
+1     STRONGLY AGREE          1.0         47               0.16
+2              AGREE          2.0        102               0.34
+3          UNDECIDED          3.0         75               0.25
+4           DISAGREE          4.0         38               0.13
+5  STRONGLY DISAGREE          5.0         17               0.06
+
+
+
+S195A.Q35L "WHEN I GET AN IMPORTANT JOB TO DO, I WORRY ABOUT WHETHER I WILL DO ALL RIGHT OR NOT."
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0         19               0.06
+1     STRONGLY AGREE          1.0         79               0.27
+2              AGREE          2.0        100               0.34
+3          UNDECIDED          3.0         21               0.07
+4           DISAGREE          4.0         54               0.18
+5  STRONGLY DISAGREE          5.0         23               0.08
+
+
+
+S195A.Q35M "ON THE WHOLE, I AM POORLY ADJUSTED TO ARMY LIFE."
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0         18               0.06
+1     STRONGLY AGREE          1.0         62               0.21
+2              AGREE          2.0         50               0.17
+3          UNDECIDED          3.0         47               0.16
+4           DISAGREE          4.0         96               0.32
+5  STRONGLY DISAGREE          5.0         23               0.08
+
+
+
+S195A.Q36A HOW DO YOU FEEL ABOUT THE IMPORTANCE OF THE WORK YOU ARE DOING RIGHT NOW AS COMPARED WITH OTHER JOBS YOU MIGHT BE DOING IN THE ARMY?
+                                                 answer_label answer_value raw_counts relative_frequency
+0                                                   NO ANSWER          0.0         10               0.03
+1              IT IS AS IMPORTANT AS ANY OTHER JOB I COULD DO          1.0        120               0.41
+2  IT IS FAIRLY IMPORTANT, BUT I COULD DO MORE IMPORTANT WORK          2.0        115               0.39
+3                            IT HARDLY SEEMS IMPORTANT AT ALL          3.0         51               0.17
+
+
+
+S195A.Q36B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         11               0.04
+1    VERY STRONGLY          1.0        217               0.73
+2  FAIRLY STRONGLY          2.0         63               0.21
+3     NOT STRONGLY          3.0          5               0.02
+
+
+
+S195A.Q37A WHICH OF THE FOLLOWING WOULD YOU SAY BEST APPLIES TO YOUR JOB?
+                                                  answer_label answer_value raw_counts relative_frequency
+0                                                    NO ANSWER          0.0          9               0.03
+1                                   TIME ALWAYS PASSES QUICKLY          1.0         68               0.23
+2                         TIME PASSES QUICKLY MOST OF THE TIME          2.0         78               0.26
+3  ENJOY WORKING PART OF THE TIME, BUT IT DRAGS AT OTHER TIMES          3.0         82               0.28
+4                                  TIME DRAGS MOST OF THE TIME          4.0         28               0.09
+5                                            TIME ALWAYS DRAGS          5.0         31                0.1
+
+
+
+S195A.Q37B HOW STRONGLY DO YOU FEEL ABOUT THIS?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         11               0.04
+1  FAIRLY STRONGLY          2.0         66               0.22
+2    VERY STRONGLY          1.0        213               0.72
+3     NOT STRONGLY          3.0          6               0.02
+
+
+

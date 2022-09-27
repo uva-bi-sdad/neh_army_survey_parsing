@@ -1,0 +1,586 @@
+FORMFORM
+  answer_label answer_value raw_counts relative_frequency
+0       S-192B          2.0        312                1.0
+
+
+
+S192B.Q1 WHAT IS YOUR PRESENT RANK?
+        answer_label answer_value raw_counts relative_frequency
+0  SECOND LIEUTENANT          1.0        213               0.68
+1   FIRST LIEUTENANT          2.0         88               0.28
+2            CAPTAIN          3.0         11               0.04
+
+
+
+S192B.Q2 DO YOU THINK A NURSE WITH ABILITY HAS A GOOD CHANCE FOR PROMOTION IN THE ARMY?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0          3               0.01
+1    A VERY GOOD CHANCE          1.0         10               0.03
+2  A FAIRLY GOOD CHANCE          2.0        144               0.46
+3  NOT MUCH OF A CHANCE          3.0        132               0.42
+4      NO CHANCE AT ALL          4.0         13               0.04
+5             UNDECIDED          5.0         10               0.03
+
+
+
+S192B.Q3 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0          4               0.01
+1           22 YEARS          1.0         11               0.04
+2                 23          2.0         14               0.04
+3                 24          3.0         34               0.11
+4                 25          4.0         37               0.12
+5        26-29 YEARS          5.0         92               0.29
+6        30-34 YEARS          6.0         68               0.22
+7  35 YEARS AND OVER          7.0         52               0.17
+
+
+
+S192B.Q4 HOW FAR DID YOU GO IN SCHOOL?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0          1                0.0
+1                   FINISHED 6TH GRADE          2.0          1                0.0
+2                   FINISHED 8TH GRADE          4.0          1                0.0
+3  SOME HIGH SCHOOL BUT DID NOT FINISH          5.0          4               0.01
+4           GRADUATED FROM HIGH SCHOOL          6.0        175               0.56
+5      SOME COLLEGE BUT DID NOT FINISH          7.0         96               0.31
+6               GRADUATED FROM COLLEGE          8.0         34               0.11
+
+
+
+S192B.Q5 ARE YOU:
+            answer_label answer_value raw_counts relative_frequency
+0                 SINGLE          1.0        275               0.88
+1                MARRIED          2.0         27               0.09
+2  DIVORCED OR SEPARATED          3.0          6               0.02
+3                WIDOWED          4.0          4               0.01
+
+
+
+S192B.Q6 WERE YOU MARRIED BEFORE OR AFTER ENTERING THE ARMY?
+                       answer_label answer_value raw_counts relative_frequency
+0  MARRIED BEFORE ENTERING THE ARMY          1.0          7               0.02
+1   MARRIED AFTER ENTERING THE ARMY          2.0         20               0.06
+2                   I'M NOT MARRIED          3.0        285               0.91
+
+
+
+S192B.Q7 HOW MANY CHILDREN DO YOU HAVE?
+       answer_label answer_value raw_counts relative_frequency
+0    HAVE ONE CHILD          1.0          3               0.01
+1  HAVE NO CHILDREN          4.0         34               0.11
+2   I'M NOT MARRIED          5.0        275               0.88
+
+
+
+S192B.Q8A DO YOU APPROVE OR DISAPPROVE OF THIS POLICY?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0          4               0.01
+1     I APPROVE OF THIS POLICY          1.0         62                0.2
+2  I DISAPPROVE OF THIS POLICY          2.0        246               0.79
+
+
+
+S192B.Q8B IF THE PRESENT POLICY PROHIBITING MARRIAGE WERE TO BE CHANGED TO PERMIT A NURSE TO MARRY WHILE IN THE INDIA- BURMA THEATER DO YOU THINK YOU WOULD GET MARRIED DURING THE TIME YOU ARE GOING TO BE OVER HERE?
+                              answer_label answer_value raw_counts relative_frequency
+0  YES, I'M SURE I'D GET MARRIED OVER HERE          1.0         27               0.09
+1    NO, I WOULD NOT GET MARRIED OVER HERE          2.0        148               0.47
+2                I MIGHT, BUT I'M NOT SURE          3.0        110               0.35
+3                     I AM ALREADY MARRIED          4.0         27               0.09
+
+
+
+S192B.Q9 HOW LONG HAVE YOU BEEN IN THE ARMY?
+                   answer_label answer_value raw_counts relative_frequency
+0              6 MONTHS OR LESS          1.0          2               0.01
+1  OVER 6 MONTHS UP TO 9 MONTHS          2.0         27               0.09
+2    OVER 9 MONTHS UP TO 1 YEAR          3.0          6               0.02
+3     OVER 1 YEAR UP TO 2 YEARS          4.0         49               0.16
+4    OVER 2 YEARS UP TO 3 YEARS          5.0        205               0.66
+5                  OVER 3 YEARS          6.0         23               0.07
+
+
+
+S192B.Q10 HOW LONG HAVE YOU BEEN IN THE INDIA-BURMA THEATER?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0          1                0.0
+1              3 MONTHS OR LESS          1.0          9               0.03
+2  OVER 3 MONTHS UP TO 6 MONTHS          2.0        118               0.38
+3  OVER 6 MONTHS UP TO 9 MONTHS          3.0         18               0.06
+4    OVER 9 MONTHS UP TO 1 YEAR          4.0         16               0.05
+5   OVER 1 YEAR UP TO 18 MONTHS          5.0         21               0.07
+6  OVER 18 MONTHS UP TO 2 YEARS          6.0        111               0.36
+7                  OVER 2 YEARS          7.0         18               0.06
+
+
+
+S192B.Q11 HOW LONG HAVE YOU BEEN STATIONED AT THIS PARTICULAR PLACE?
+                   answer_label answer_value raw_counts relative_frequency
+0              3 MONTHS OR LESS          1.0         38               0.12
+1  OVER 3 MONTHS UP TO 6 MONTHS          2.0        142               0.46
+2  OVER 6 MONTHS UP TO 9 MONTHS          3.0         21               0.07
+3    OVER 9 MONTHS UP TO 1 YEAR          4.0         19               0.06
+4   OVER 1 YEAR UP TO 18 MONTHS          5.0         17               0.05
+5  OVER 18 MONTHS UP TO 2 YEARS          6.0         72               0.23
+6                  OVER 2 YEARS          7.0          3               0.01
+
+
+
+S192B.Q12 IN GENERAL, HOW WELL DO YOU THINK THE ARMY IS RUN?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0          2               0.01
+1    IT IS RUN VERY WELL          1.0         62                0.2
+2  IT IS RUN PRETTY WELL          2.0        168               0.54
+3  IT IS NOT RUN SO WELL          3.0         28               0.09
+4  IT IS RUN VERY POORLY          4.0         13               0.04
+5              UNDECIDED          5.0         39               0.12
+
+
+
+S192B.Q13 IN YOUR OPINION, HOW IMPORTANT IS THE JOB OF THE ARMY NURSE CORPS IN WINNING THE WAR?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0          2               0.01
+1        VERY IMPORTANT          1.0        184               0.59
+2      PRETTY IMPORTANT          2.0         77               0.25
+3      NOT SO IMPORTANT          3.0         38               0.12
+4  NOT IMPORTANT AT ALL          4.0         11               0.04
+
+
+
+S192B.Q14 WHAT IS YOUR MAIN ARMY JOB NOW?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0          5               0.02
+1   ADMINISTRATIVE WORK          1.0         23               0.07
+2  GENERAL NURSING WORK          2.0        269               0.86
+3        DIETICIAN WORK          3.0          9               0.03
+4    PHYSIOTHERAPY WORK          4.0          6               0.02
+
+
+
+S192B.Q15 DO YOU FEEL PROUD OF YOUR PRESENT JOB OR DUTY?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0          1                0.0
+1    YES, VERY PROUD          1.0        116               0.37
+2  YES, FAIRLY PROUD          2.0        126                0.4
+3      NO, NOT PROUD          3.0         49               0.16
+4          UNDECIDED          4.0         20               0.06
+
+
+
+S192B.Q16 HOW INTERESTED ARE YOU IN YOUR ARMY JOB?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0          5               0.02
+1   VERY MUCH INTERESTED          1.0        244               0.78
+2  A LITTLE BUT NOT MUCH          2.0         52               0.17
+3  NOT INTERESTED AT ALL          3.0         11               0.04
+
+
+
+S192B.Q17 HOW MUCH OF YOUR DUTY TIME IS USED IN DOING THINGS THAT DO NOT SEEM IMPORTANT TO YOU?
+          answer_label answer_value raw_counts relative_frequency
+0          A LOT OF IT          1.0         71               0.23
+1           SOME OF IT          2.0        135               0.43
+2  ONLY A LITTLE OF IT          3.0         63                0.2
+3           NONE OF IT          4.0         43               0.14
+
+
+
+S192B.Q18 DO YOU CONSIDER YOUR OWN PRESENT JOB OR DUTY IN THE ARMY AN IMPORTANT ONE IN THE WAR EFFORT?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0          1                0.0
+1        VERY IMPORTANT          1.0        102               0.33
+2      PRETTY IMPORTANT          2.0        122               0.39
+3      NOT SO IMPORTANT          3.0         55               0.18
+4  NOT IMPORTANT AT ALL          4.0         24               0.08
+5             UNDECIDED          5.0          8               0.03
+
+
+
+S192B.Q19 DO YOU THINK THE COMMANDING OFFICER OF YOUR HOSPITAL UNIT CONSIDERS YOUR JOB AN IMPORTANT ONE IN THE WAR EFFORT?
+                                              answer_label answer_value raw_counts relative_frequency
+0                                                NO ANSWER          0.0          2               0.01
+1                           YES, HE CONSIDERS IT IMPORTANT          1.0        177               0.57
+2                    NO, HE DOES NOT CONSIDER IT IMPORTANT          2.0          7               0.02
+3  I HAVE NO IDEA WHETHER OR NOT HE CONSIDERS IT IMPORTANT          3.0        126                0.4
+
+
+
+S192B.Q20 DO YOU USUALLY FEEL THAT WHAT YOU ARE DOING IN THE ARMY IS WORTHWHILE OR NOT?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0          3               0.01
+1      I USUALLY FEEL IT IS WORTHWHILE          1.0        231               0.74
+2  I USUALLY FEEL IT IS NOT WORTHWHILE          2.0         50               0.16
+3                            UNDECIDED          3.0         28               0.09
+
+
+
+S192B.Q21 DO YOU THINK YOU ARE MAKING GOOD IN THE ARMY?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0         10               0.03
+1  I FEEL PRETTY SURE I AM MAKING GOOD          1.0        133               0.43
+2    I AM NOT SO SURE I AM MAKING GOOD          2.0         96               0.31
+3                            UNDECIDED          3.0         73               0.23
+
+
+
+S192B.Q22 IN GENERAL, WHAT SORT OF A TIME DO YOU HAVE IN THE ARMY?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0          6               0.02
+1    I HAVE A PRETTY GOOD TIME          1.0        182               0.58
+2       IT'S ABOUT FIFTY-FIFTY          2.0        118               0.38
+3  I HAVE A PRETTY ROTTEN TIME          3.0          6               0.02
+
+
+
+S192B.Q23 DO YOU EVER FEEL THAT YOU ARE NOT AS GOOD A NURSE AS MOST OF THE OTHER NURSES IN YOUR HOSPITAL UNIT?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0          6               0.02
+1  I FEEL THAT WAY NEARLY ALL OF THE TIME          1.0          2               0.01
+2            I FEEL THAT WAY FAIRLY OFTEN          2.0         11               0.04
+3    I FEEL THAT WAY ONLY ONCE IN A WHILE          3.0         94                0.3
+4            I ALMOST NEVER FEEL THAT WAY          4.0        199               0.64
+
+
+
+S192B.Q24 IN GENERAL, WOULD YOU SAY YOU ARE WELL ADJUSTED OR POORLY ADJUSTED TO ARMY LIFE?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0          1                0.0
+1    I AM VERY WELL ADJUSTED          1.0        183               0.59
+2  I AM FAIRLY WELL ADJUSTED          2.0        121               0.39
+3  I AM NOT SO WELL ADJUSTED          3.0          5               0.02
+4  I AM VERY POORLY ADJUSTED          4.0          2               0.01
+
+
+
+S192B.Q25 DO YOU FEEL PROUD OF YOUR HOSPITAL UNIT?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0          3               0.01
+1    YES, VERY PROUD          1.0        155                0.5
+2  YES, FAIRLY PROUD          2.0         78               0.25
+3      NO, NOT PROUD          3.0         43               0.14
+4          UNDECIDED          4.0         33               0.11
+
+
+
+S192B.Q26 DO YOU CONSIDER THE JOB YOUR HOSPITAL UNIT IS DOING AN IMPORTANT ONE IN THE WAR EFFORT?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0          1                0.0
+1        VERY IMPORTANT          1.0        167               0.54
+2      PRETTY IMPORTANT          2.0         84               0.27
+3      NOT SO IMPORTANT          3.0         41               0.13
+4  NOT IMPORTANT AT ALL          4.0         11               0.04
+5             UNDECIDED          5.0          8               0.03
+
+
+
+S192B.Q27 IN DOING YOUR JOB, HOW MUCH SUPERVISION DO YOU GET FROM YOUR NURSE SUPERVISOR?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0         13               0.04
+1    TOO MUCH SUPERVISION          1.0         59               0.19
+2  ABOUT THE RIGHT AMOUNT          2.0        214               0.69
+3  TOO LITTLE SUPERVISION          3.0         26               0.08
+
+
+
+S192B.Q28 DO YOU FEEL THAT THE CHIEF NURSE WHO IS IN CHARGE OF YOUR WORK REALLY KNOWS HER STUFF?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0          9               0.03
+1           YES          1.0        131               0.42
+2            NO          2.0         84               0.27
+3  I DON'T KNOW          3.0         88               0.28
+
+
+
+S192B.Q29 DO YOU FEEL THAT YOUR CHIEF NURSE HAS AN INTEREST IN YOUR PERSONAL PROBLEMS AND WELFARE?
+                        answer_label answer_value raw_counts relative_frequency
+0                          NO ANSWER          0.0         10               0.03
+1   SHE HAS A GREAT DEAL OF INTEREST          1.0        109               0.35
+2  SHE HAS A FAIR AMOUNT OF INTEREST          2.0        116               0.37
+3     SHE DOESN'T HAVE MUCH INTEREST          3.0         50               0.16
+4         SHE HAS NO INTEREST AT ALL          4.0         27               0.09
+
+
+
+S192B.Q30 IF YOU NEEDED ADVICE ON A PERSONAL PROBLEM, WOULD YOU FEEL FREE TO GO TO THE CHIEF NURSE AND DISCUSS IT?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          7               0.02
+1          YES          1.0        153               0.49
+2           NO          2.0        152               0.49
+
+
+
+S192B.Q31 IN YOUR HOSPITAL UNIT DO THE MOST DESERVING NURSES USUALLY GET THE BREAKS?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0         10               0.03
+1           ALMOST ALWAYS          1.0         11               0.04
+2        MOST OF THE TIME          2.0         61                0.2
+3  ABOUT HALF OF THE TIME          3.0        135               0.43
+4           PRETTY SELDOM          4.0         59               0.19
+5            ALMOST NEVER          5.0         36               0.12
+
+
+
+S192B.Q32A HOW ABOUT THE MESS FOR THE NURSES AT YOUR HOSPITAL UNIT? IS IT AS GOOD AS IT COULD BE UNDER PRESENT CIRCUMSTANCES?
+                     answer_label answer_value raw_counts relative_frequency
+0     YES, AS GOOD AS IT COULD BE          1.0        205               0.66
+1  NO, NOT AS GOOD AS IT COULD BE          2.0         70               0.22
+2                       UNDECIDED          3.0         37               0.12
+
+
+
+S192B.Q32B CONSIDERING EVERYTHING HOW GOOD IS THE MAIL SERVICE YOUR HOSPITAL IS GETTING?
+  answer_label answer_value raw_counts relative_frequency
+0    VERY GOOD          1.0        113               0.36
+1  PRETTY GOOD          2.0        160               0.51
+2  NOT SO GOOD          3.0         25               0.08
+3         POOR          4.0         14               0.04
+
+
+
+S192B.Q33 DO YOU THINK YOUR HOSPITAL UNIT HAS TOO MANY NURSES, ABOUT THE RIGHT AMOUNT, OR TOO FEW NURSES TO ACCOMPLISH ITS MISSION SUCCESSFULLY?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0          3               0.01
+1         TOO MANY NURSES          1.0         41               0.13
+2  ABOUT THE RIGHT AMOUNT          2.0        253               0.81
+3          TOO FEW NURSES          3.0         15               0.05
+
+
+
+S192B.Q34 IN GENERAL DO THE NURSES IN YOUR HOSPITAL UNIT HAVE TOO MUCH OFF-DUTY FREE TIME, ABOUT THE RIGHT AMOUNT, OR TOO LITTLE OFF-DUTY FREE TIME?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0          2               0.01
+1                TOO MUCH          1.0          3               0.01
+2  ABOUT THE RIGHT AMOUNT          2.0        248               0.79
+3              TOO LITTLE          3.0         59               0.19
+
+
+
+S192B.Q35 SINCE YOU HAVE BEEN WITH THIS HOSPITAL UNIT HAVE YOU BEEN ABLE TO FIND INTERESTING THINGS TO DO ON YOUR OFF-DUTY FREE TIME?
+                                                 answer_label answer_value raw_counts relative_frequency
+0                                                   NO ANSWER          0.0          1                0.0
+1  I CAN FIND INTERESTING THINGS TO DO ABOUT HALF OF THE TIME          2.0         76               0.24
+2                 I CAN USUALLY FIND INTERESTING THINGS TO DO          1.0        217                0.7
+3             I CAN VERY SELDOM FIND INTERESTING THINGS TO DO          3.0         18               0.06
+
+
+
+S192B.Q37 DO THE NURSES IN YOUR HOSPITAL UNIT COOPERATE, AND WORK WELL TOGETHER?
+       answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER          0.0          3               0.01
+1   ALL OF THE TIME          1.0         48               0.15
+2  MOST OF THE TIME          2.0        212               0.68
+3      OFTEN DO NOT          3.0         35               0.11
+4   ALMOST NEVER DO          4.0          1                0.0
+5         UNDECIDED          5.0         13               0.04
+
+
+
+S192B.Q38 HOW MANY OF THE NURSES IN YOUR HOSPITAL UNIT WOULD YOU SAY ARE GOOD ALL-AROUND NURSES?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         13               0.04
+1                       ALL ARE          1.0         18               0.06
+2                      MOST ARE          2.0        220               0.71
+3  ABOUT HALF ARE, HALF ARE NOT          3.0         54               0.17
+4                ONLY A FEW ARE          4.0          7               0.02
+
+
+
+S192B.Q39 DO YOU LIKE TO WORK WITH THE OTHER NURSES IN YOUR HOSPITAL UNIT?
+              answer_label answer_value raw_counts relative_frequency
+0                NO ANSWER          0.0          2               0.01
+1        WITH MOST OF THEM          1.0        256               0.82
+2  WITH ABOUT HALF OF THEM          2.0         37               0.12
+3  WITH ONLY A FEW OF THEM          3.0         10               0.03
+4                UNDECIDED          4.0          7               0.02
+
+
+
+S192B.Q40A WOULD YOU SAY THAT MOST OF THE NURSES IN YOUR HOSPITAL UNIT USUALLY PUT ALL THEY HAVE INTO THEIR ARMY DUTIES, OR DO THEY USUALLY WORK JUST HARD ENOUGH TO GET BY?
+                                                 answer_label answer_value raw_counts relative_frequency
+0                                                   NO ANSWER          0.0          6               0.02
+1        MOST OF THE NURSES USUALLY PUT ALL THEY HAVE INTO IT          1.0        173               0.55
+2  MOST OF THE NURSES USUALLY WORK JUST HARD ENOUGH TO GET BY          2.0         80               0.26
+3                                                   UNDECIDED          3.0         53               0.17
+
+
+
+S192B.Q40B HOW ABOUT YOU YOURSELF - WOULD YOU HONESTLY SAY THAT YOU USUALLY PUT ALL YOU HAVE INTO YOUR ARMY NURSING DUTIES, OR DO YOU USUALLY WORK JUST HARD ENOUGH TO GET BY?
+                                answer_label answer_value raw_counts relative_frequency
+0                                  NO ANSWER          0.0          5               0.02
+1           I USUALLY PUT ALL I HAVE INTO IT          1.0        250                0.8
+2  I USUALLY WORK JUST HARD ENOUGH TO GET BY          2.0         35               0.11
+3                                  UNDECIDED          3.0         22               0.07
+
+
+
+S192B.Q41 IN GENERAL, HOW WOULD YOU SAY YOU FEEL MOST OF THE TIME, IN GOOD SPIRITS OR IN LOW SPIRITS?
+                                                                answer_label answer_value raw_counts relative_frequency
+0                                               I AM USUALLY IN GOOD SPIRITS          1.0        204               0.65
+1  I AM IN GOOD SPIRITS SOME OF THE TIME AND IN LOW SPIRITS SOME OF THE TIME          2.0        103               0.33
+2                                                I AM USUALLY IN LOW SPIRITS          3.0          5               0.02
+
+
+
+S192B.Q42 ARE YOU EVER WORRIED AND UPSET?
+                         answer_label answer_value raw_counts relative_frequency
+0  I AM HARDLY EVER WORRIED AND UPSET          1.0        143               0.46
+1    I AM SOMETIMES WORRIED AND UPSET          2.0        157                0.5
+2        I AM OFTEN WORRIED AND UPSET          3.0         12               0.04
+
+
+
+S192B.Q43 IF IT WERE UP TO YOU, WHAT KIND OF AN ARMY HOSPITAL UNIT WOULD YOU RATHER BE IN?
+                                        answer_label answer_value raw_counts relative_frequency
+0                                          NO ANSWER          0.0          8               0.03
+1           IN A HOSPITAL UNIT NEAR A FIGHTING FRONT          1.0        219                0.7
+2   IN A HOSPITAL UNIT IN A NON-COMBAT AREA OVERSEAS          2.0         36               0.12
+3  IN A HOSPITAL UNIT STATIONED IN THE UNITED STATES          3.0         49               0.16
+
+
+
+S192B.Q44 IF IT WERE UP TO YOU TO CHOOSE, DO YOU THINK YOU COULD DO MORE FOR YOUR COUNTRY AS A NURSE IN THE ARMY, OR AS A NURSE IN A CIVILIAN HOSPITAL IN THE UNITED STATES, OR AS A WORKER IN A WAR JOB?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0          9               0.03
+1             NURSE IN THE ARMY          1.0        230               0.74
+2  NURSE IN A CIVILIAN HOSPITAL          2.0         68               0.22
+3         A WORKER IN A WAR JOB          3.0          5               0.02
+
+
+
+S192B.Q45 WHEN YOU GET A VERY IMPORTANT JOB TO DO, DO YOU WORRY ABOUT WHETHER YOU WILL DO ALL RIGHT OR NOT?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0          5               0.02
+1         I WORRY A LOT          1.0         55               0.18
+2      I WORRY A LITTLE          2.0        189               0.61
+3  I DON'T WORRY AT ALL          3.0         63                0.2
+
+
+
+S192B.Q46 SUPPOSE YOU WERE WORKING AT YOUR REGULAR JOB AND A DIRECTOR OF NURSES YOU HAD NEVER SEEN BEFORE CAME UP AND ASKED YOU QUESTIONS ABOUT WHAT YOU WERE DOING. DO YOU THINK YOU WOULD MAKE A GOOD IMPRESSION ON HER?
+                                                      answer_label answer_value raw_counts relative_frequency
+0                                                        NO ANSWER          0.0          3               0.01
+1            I'M PRETTY SURE I WOULD MAKE A GOOD IMPRESSION ON HER          1.0         97               0.31
+2  I'M NOT SURE, BUT I THINK I WOULD MAKE A GOOD IMPRESSION ON HER          2.0        204               0.65
+3         I DON'T THINK I WOULD MAKE SUCH A GOOD IMPRESSION ON HER          3.0          8               0.03
+
+
+
+S192B.Q47 DO TOO MANY OF THE ARMY RULES AND REGULATIONS SEEM USELESS TO YOU?
+                                      answer_label answer_value raw_counts relative_frequency
+0                                        NO ANSWER          0.0          3               0.01
+1                       YES, TOO MANY SEEM USELESS          1.0        109               0.35
+2  NO, I USED TO THINK SO BUT I DON'T THINK SO NOW          2.0         88               0.28
+3                           NO, I NEVER THOUGHT SO          3.0         69               0.22
+4                                        UNDECIDED          4.0         43               0.14
+
+
+
+S192B.Q48 HOW IMPORTANT IS IT TO YOU PERSONALLY TO MAKE A GOOD RECORD IN THE ARMY?
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0          3               0.01
+1        IT IS VERY IMPORTANT          1.0        192               0.62
+2      IT IS PRETTY IMPORTANT          2.0         82               0.26
+3      IT IS NOT SO IMPORTANT          3.0         29               0.09
+4  IT IS NOT IMPORTANT AT ALL          4.0          6               0.02
+
+
+
+S192B.Q49 HOW WOULD YOU RATE YOUR GENERAL PHYSICAL CONDITION DURING THE PAST MONTH?
+                                 answer_label answer_value raw_counts relative_frequency
+0    MY PHYSICAL CONDITION HAS BEEN VERY GOOD          1.0        218                0.7
+1  MY PHYSICAL CONDITION HAS BEEN PRETTY GOOD          2.0         70               0.22
+2  MY PHYSICAL CONDITION HAS NOT BEEN SO GOOD          3.0         23               0.07
+3    MY PHYSICAL CONDITION HAS BEEN VERY POOR          4.0          1                0.0
+
+
+
+S192B.Q50A FINANCIAL MATTERS?
+                    answer_label answer_value raw_counts relative_frequency
+0         I WORRY ABOUT IT A LOT          1.0          4               0.01
+1      I WORRY ABOUT IT SOMEWHAT          2.0         55               0.18
+2  I DON'T WORRY ABOUT IT AT ALL          3.0        253               0.81
+
+
+
+S192B.Q50B MY HEALTH?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0          1                0.0
+1         I WORRY ABOUT IT A LOT          1.0          8               0.03
+2      I WORRY ABOUT IT SOMEWHAT          2.0         82               0.26
+3  I DON'T WORRY ABOUT IT AT ALL          3.0        221               0.71
+
+
+
+S192B.Q50C THE PROGRESS OF THE WAR?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0          4               0.01
+1         I WORRY ABOUT IT A LOT          1.0         62                0.2
+2      I WORRY ABOUT IT SOMEWHAT          2.0        199               0.64
+3  I DON'T WORRY ABOUT IT AT ALL          3.0         47               0.15
+
+
+
+S192B.Q50D MY SOCIAL LIFE
+                    answer_label answer_value raw_counts relative_frequency
+0         I WORRY ABOUT IT A LOT          1.0          5               0.02
+1      I WORRY ABOUT IT SOMEWHAT          2.0         45               0.14
+2  I DON'T WORRY ABOUT IT AT ALL          3.0        262               0.84
+
+
+
+S192B.Q50E MATTERS CONCERNING MY FAMILY AND FRIENDS BACK HOME?
+                    answer_label answer_value raw_counts relative_frequency
+0         I WORRY ABOUT IT A LOT          1.0         49               0.16
+1      I WORRY ABOUT IT SOMEWHAT          2.0        163               0.52
+2  I DON'T WORRY ABOUT IT AT ALL          3.0        100               0.32
+
+
+
+S192B.Q50F THE WAY I AM GETTING ALONG IN THE ARMY?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0          1                0.0
+1         I WORRY ABOUT IT A LOT          1.0         13               0.04
+2      I WORRY ABOUT IT SOMEWHAT          2.0         82               0.26
+3  I DON'T WORRY ABOUT IT AT ALL          3.0        216               0.69
+
+
+
+S192B.Q50G NOT KNOWING WHAT IS GOING TO HAPPEN TO ME NEXT IN MY ARMY CAREER?
+                    answer_label answer_value raw_counts relative_frequency
+0         I WORRY ABOUT IT A LOT          1.0         10               0.03
+1      I WORRY ABOUT IT SOMEWHAT          2.0         88               0.28
+2  I DON'T WORRY ABOUT IT AT ALL          3.0        214               0.69
+
+
+
+S192B.Q50H PURELY PERSONAL MATTERS NOT INCLUDED IN ANY OF THE ABOVE?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0         11               0.04
+1      I WORRY ABOUT IT SOMEWHAT          2.0        124                0.4
+2         I WORRY ABOUT IT A LOT          1.0         28               0.09
+3  I DON'T WORRY ABOUT IT AT ALL          3.0        149               0.48
+
+
+
+S192B.Q52 UP TO NOW, HAS THE WAR MADE THINGS BETTER OR WORSE FOR YOUR FAMILY AND FRIENDS BACK HOME (SUCH THINGS AS JOBS, PAY, AND LIVING CONDITIONS)?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0          2               0.01
+1                   THINGS ARE A LOT BETTER          1.0         16               0.05
+2  THINGS ARE A LITTLE BETTER, BUT NOT MUCH          2.0         40               0.13
+3                    THINGS ARE A LOT WORSE          3.0          7               0.02
+4                 THINGS ARE A LITTLE WORSE          4.0         49               0.16
+5                I DON'T SEE ANY DIFFERENCE          5.0        166               0.53
+6                                DON'T KNOW          6.0         32                0.1
+
+
+
+S192B.V54 IDENTIFICATION OF HOSPITALS:
+                                                                                             answer_label answer_value raw_counts relative_frequency
+0  142ND GENERAL HOSPITAL - WHICH HAD ONE OF THE LARGEST CONCENTRATIONS OF NURSE PERSONNEL IN THE THEATER          1.0         99               0.32
+1    20TH GENERAL HOSPITAL - ALSO HAD ONE OF THE LARGEST CONCENTRATIONS OF NURSE PERSONNEL IN THE THEATER          2.0        110               0.35
+2                                                                69TH GENERAL HOSPITAL - A SMALL HOSPITAL          3.0         29               0.09
+3                                                                                14TH EVACUATION HOSPITAL          4.0         24               0.08
+4                                                                                48TH EVACUATION HOSPITAL          5.0         50               0.16
+
+
+

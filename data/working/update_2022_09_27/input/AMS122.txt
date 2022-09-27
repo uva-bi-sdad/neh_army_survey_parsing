@@ -1,0 +1,270 @@
+S122.Q1 HOW LONG HAVE YOU BEEN STATIONED IN THE BRITISH ISLES?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1  LESS THAN 6 MONTHS          1.0       1571               0.48
+2  6 MONTHS TO A YEAR          2.0        940               0.29
+3   1 YEAR TO 2 YEARS          3.0        680               0.21
+4        OVER 2 YEARS          4.0         60               0.02
+5           NO ANSWER          5.0          9                0.0
+
+
+
+S122.Q2 ARE YOU:
+            answer_label answer_value raw_counts relative_frequency
+0     NO CODE OR NO DATA          0.0          1                0.0
+1                 SINGLE          1.0       2302               0.71
+2                MARRIED          2.0        875               0.27
+3                WIDOWED          3.0         13                0.0
+4  DIVORCED OR SEPARATED          4.0         62               0.02
+5              NO ANSWER          5.0          8                0.0
+
+
+
+S122.Q3 CHECK THE ANSWER THAT TELLS BEST HOW FAR YOU WENT IN SCHOOL.
+                                answer_label answer_value raw_counts relative_frequency
+0                DID NOT FINISH GRADE SCHOOL          1.0        285               0.09
+1                      FINISHED GRADE SCHOOL          2.0        472               0.14
+2  HAD SOME HIGH SCHOOL BUT DID NOT GRADUATE          3.0       1114               0.34
+3                 GRADUATED FROM HIGH SCHOOL          4.0        995               0.31
+4      HAD SOME COLLEGE BUT DID NOT GRADUATE          5.0        289               0.09
+5                     GRADUATED FROM COLLEGE          6.0         86               0.03
+6                                  NO ANSWER          7.0         20               0.01
+
+
+
+S122.Q4 WHAT SORT OF OPINION DO YOU HAVE OF THE ENGLISH PEOPLE?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1      VERY FAVORABLE          1.0        672               0.21
+2    FAIRLY FAVORABLE          2.0       2010               0.62
+3  RATHER UNFAVORABLE          3.0        395               0.12
+4    VERY UNFAVORABLE          4.0        152               0.05
+5           NO ANSWER          5.0         31               0.01
+
+
+
+S122.Q5A HAS YOUR OPINION OF THE ENGLISH PEOPLE CHANGED FROM WHAT IT WAS BEFORE YOU CAME TO ENGLAND?
+                              answer_label answer_value raw_counts relative_frequency
+0                       NO CODE OR NO DATA          0.0          1                0.0
+1            IT IS MUCH HIGHER THAN IT WAS          1.0        348               0.11
+2        IT IS SOMEWHAT HIGHER THAN IT WAS          2.0        674               0.21
+3  IT HAS NOT CHANGED ONE WAY OR THE OTHER          3.0       1213               0.37
+4            IT IS A BIT LOWER THAN IT WAS          4.0        725               0.22
+5             IT IS MUCH LOWER THAN IT WAS          5.0        251               0.08
+6                                NO ANSWER          6.0         49               0.02
+
+
+
+S122.Q5B IF IT HAS CHANGED WHAT DO YOU THINK CAUSED IT TO CHANGE?
+                                                           answer_label answer_value raw_counts relative_frequency
+0                                                   CLOSER ACQUAINTANCE          1.0        438               0.13
+1                 FAVORABLE COMMENTS ON FRIENDLINESS, HOSPITALITY, ETC.          2.0        115               0.04
+2   ATTITUDE TOWARD AMERICAN SOLDIERS OR TREATMENT OF AMERICAN SOLDIERS          3.0        159               0.05
+3                        CONDESCENDING, CONCEITED, SMUG, SNOOTY OR ETC.          4.0         41               0.01
+4                                              THEIR STANDARD OF LIVING          5.0        163               0.05
+5                      UNFAVORABLE COMMENTS ON MORALS OF ENGLISH PEOPLE          6.0         40               0.01
+6                                  THEIR SYSTEM OF CLASS DISCRIMINATION          7.0         23               0.01
+7                                      ENGLISH PEOPLE'S PART IN THE WAR          8.0         77               0.02
+8                                                      NO ANSWER TO Q5B          9.0       1927               0.59
+9                       AMERICAN SOLDIERS, CONDUCT OF AMERICAN SOLDIERS         10.0         49               0.02
+10                                                        MISCELLANEOUS         11.0        153               0.05
+11                                "THE WAR" WITHOUT FURTHER EXPLANATION         12.0         76               0.02
+
+
+
+S122.Q6 GENERALLY SPEAKING, WHAT SORT OF OPINION DO YOU THINK MOST ENGLISH PEOPLE HAVE OF AMERICAN SOLDIERS?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1      VERY FAVORABLE          1.0        382               0.12
+2    FAIRLY FAVORABLE          2.0       1741               0.53
+3  RATHER UNFAVORABLE          3.0        846               0.26
+4    VERY UNFAVORABLE          4.0        254               0.08
+5           NO ANSWER          5.0         37               0.01
+
+
+
+S122.Q7 WHAT SORT OF OPINION DID YOU HAVE OF ENGLISH PEOPLE BEFORE YOU CAME TO ENGLAND?
+         answer_label answer_value raw_counts relative_frequency
+0      VERY FAVORABLE          1.0        825               0.25
+1    FAIRLY FAVORABLE          2.0       1730               0.53
+2  RATHER UNFAVORABLE          3.0        492               0.15
+3    VERY UNFAVORABLE          4.0        146               0.04
+4           NO ANSWER          5.0         68               0.02
+
+
+
+S122.Q8A HOW MANY ENGLISH FAMILIES HAVE YOU GOTTEN TO KNOW?
+            answer_label answer_value raw_counts relative_frequency
+0     NO CODE OR NO DATA          0.0          1                0.0
+1                   NONE          1.0        801               0.25
+2             ONE OR TWO          2.0        784               0.24
+3                SEVERAL          3.0       1280               0.39
+4  A FAIRLY LARGE NUMBER          4.0        374               0.11
+5              NO ANSWER          5.0         21               0.01
+
+
+
+S122.Q8B HOW MANY ENGLISH MEN IN THE ARMED FORCES?
+            answer_label answer_value raw_counts relative_frequency
+0     NO CODE OR NO DATA          0.0          1                0.0
+1                   NONE          1.0        948               0.29
+2             ONE OR TWO          2.0        775               0.24
+3                SEVERAL          3.0       1139               0.35
+4  A FAIRLY LARGE NUMBER          4.0        367               0.11
+5              NO ANSWER          5.0         31               0.01
+
+
+
+S122.Q8C HOW MANY ENGLISH GIRLS IN THE ARMED FORCES?
+            answer_label answer_value raw_counts relative_frequency
+0     NO CODE OR NO DATA          0.0          1                0.0
+1                   NONE          1.0       1133               0.35
+2             ONE OR TWO          2.0        822               0.25
+3                SEVERAL          3.0        937               0.29
+4  A FAIRLY LARGE NUMBER          4.0        329                0.1
+5              NO ANSWER          5.0         39               0.01
+
+
+
+S122.Q8D HOW MANY ENGLISH CIVILIAN GIRLS?
+            answer_label answer_value raw_counts relative_frequency
+0                   NONE          1.0        629               0.19
+1             ONE OR TWO          2.0        816               0.25
+2                SEVERAL          3.0       1349               0.41
+3  A FAIRLY LARGE NUMBER          4.0        441               0.14
+4              NO ANSWER          5.0         26               0.01
+
+
+
+S122.Q8E HOW MANY ENGLISH CIVILIANS (OLDER MEN AND WOMEN)?
+            answer_label answer_value raw_counts relative_frequency
+0     NO CODE OR NO DATA          0.0          1                0.0
+1                   NONE          1.0        710               0.22
+2             ONE OR TWO          2.0        742               0.23
+3                SEVERAL          3.0       1436               0.44
+4  A FAIRLY LARGE NUMBER          4.0        340                0.1
+5              NO ANSWER          5.0         32               0.01
+
+
+
+S122.Q9A IN GENERAL, WHAT IS YOUR OPINION OF THE ENGLISH FAMILIES YOU HAVE MET?
+                                        answer_label answer_value raw_counts relative_frequency
+0                                    HAVEN'T MET ANY          1.0        982                0.3
+1  THEY ARE PRETTY MUCH THE SAME AS FAMILIES AT HOME          2.0       1525               0.47
+2      THEY ARE VERY DIFFERENT FROM FAMILIES AT HOME          3.0        684               0.21
+3                                          NO ANSWER          4.0         70               0.02
+
+
+
+S122.Q9B WHAT IS YOUR OPINION OF THE ENGLISH SOLDIERS YOU HAVE MET?
+                                                        answer_label answer_value raw_counts relative_frequency
+0                                                    HAVEN'T MET ANY          1.0        662                0.2
+1                                THEY ARE PRETTY MUCH THE SAME, ETC.          2.0       1614               0.49
+2        NO COMMENTS WRITTEN IN AND "THEY'RE VERY DIFFERENT" CHECKED          3.0        387               0.12
+3              RESERVED, SOBER, SERIOUS, MATURE, LESS BOASTFUL, ETC.          4.0        128               0.04
+4                 MORE MILITARY, MORE STRICTLY OR EASILY DISCIPLINED          5.0        122               0.04
+5                                      UNFRIENDLY, SUPERIOR ATTITUDE          6.0         66               0.02
+6   JEALOUS OF AMERICAN SOLDIERS, OR ENVIOUS, OR DISLIKING AMERICANS          7.0         54               0.02
+7                         COCKY, SELF-CENTERED, BRAGGING, EGOCENTRIC          8.0         35               0.01
+8                               NO ANSWER AT ALL BY CHECK OR COMMENT          9.0         73               0.02
+9                                                 FAVORABLE COMMENTS         10.0         12                0.0
+10                                                     MISCELLANEOUS         11.0        108               0.03
+
+
+
+S122.Q9C WHAT IS YOUR OPINION OF THE ENGLISH GIRLS YOU HAVE MET?
+                                                                    answer_label answer_value raw_counts relative_frequency
+0                                                                HAVEN'T MET ANY          1.0        493               0.15
+1                                                  THEY ARE PRETTY MUCH THE SAME          2.0       1428               0.44
+2                                                          NO COMMENT WRITTEN IN          3.0        546               0.17
+3                                                      SERIOUS, RESERVED, MATURE          4.0         83               0.03
+4                                   UNFRIENDLY, CONDESCENDING, SUPERIOR ATTITUDE          5.0         51               0.02
+5                                                           IMMORAL, PROMISCUOUS          6.0        204               0.06
+6                                                  FRIENDLY, SOCIABLE, CONGENIAL          7.0         70               0.02
+7               LESS INTELLIGENT, LESS EDUCATED, IGNORANT, SLOW IN UNDERSTANDING          8.0         72               0.02
+8                                           NO ANSWER AT ALL BY CHECK OR COMMENT          9.0         68               0.02
+9                                                                   SHY, BASHFUL         10.0         20               0.01
+10                                                                 MISCELLANEOUS         11.0        169               0.05
+11  IMMATURE, EASILY LED, UNSOPHISTICATED, DEPENDENT, "BELIEVE ANYTHING YOU SAY"         12.0         57               0.02
+
+
+
+S122.Q9D WHAT IS YOUR OPINION OF THE OLDER ENGLISH WOMEN YOU HAVE MET?
+                                           answer_label answer_value raw_counts relative_frequency
+0                                    NO CODE OR NO DATA          0.0          5                0.0
+1                                       HAVEN'T MET ANY          1.0        971                0.3
+2  THEY ARE PRETTY MUCH THE SAME AS OLDER WOMEN AT HOME          2.0       1672               0.51
+3      THEY ARE VERY DIFFERENT FROM OLDER WOMEN AT HOME          3.0        525               0.16
+4                                             NO ANSWER          5.0         88               0.03
+
+
+
+S122.Q9E WHAT IS YOUR OPINION OF THE ENGLISH WORKING MEN YOU HAVE MET?
+                                                     answer_label answer_value raw_counts relative_frequency
+0                                              NO CODE OR NO DATA          0.0          6                0.0
+1                                                 HAVEN'T MET ANY          1.0        883               0.27
+2  THEY ARE PRETTY MUCH LIKE THE WORKING MEN IN THE UNITED STATES          2.0       1427               0.44
+3          THEY ARE VERY DIFFERENT FROM WORKING MEN IN THE STATES          3.0        837               0.26
+4                                                       NO ANSWER          4.0        108               0.03
+
+
+
+S122.Q10 HOW DID YOU FIRST MEET MOST OF THE ENGLISH PEOPLE YOU KNOW?
+                                                              answer_label answer_value raw_counts relative_frequency
+0         USUALLY JUST GOT ACQUAINTED WITH THEM MYSELF ON A CHANCE MEETING          1.0       1983               0.61
+1                  MET MOST OF THEM THROUGH A FRIEND WHO ALREADY KNEW THEM          2.0        533               0.16
+2  MET MOST OF THEM BY INVITATION THROUGH ONE OF THE SERVICE ORGANIZATIONS          3.0        149               0.05
+3                                                           SOME OTHER WAY          4.0        258               0.08
+4                                                                NO ANSWER          5.0        338                0.1
+
+
+
+S122.Q11 WHERE DID YOU FIRST MEET MOST OF THE ENGLISH PEOPLE YOU KNOW?
+                                 answer_label answer_value raw_counts relative_frequency
+0                   JUST MET THEM AROUND TOWN          1.0        958               0.29
+1             MET MOST OF THEM AT THEIR HOMES          2.0        361               0.11
+2                  MET MOST OF THEM AT DANCES          3.0        508               0.16
+3  MET MOST OF THEM AT AN EATING PLACE OR PUB          4.0        979                0.3
+4                            SOME OTHER PLACE          5.0        130               0.04
+5                                   NO ANSWER          6.0        325                0.1
+
+
+
+S122.Q12 AS A WHOLE WHAT SORT OF A JOB DO YOU THINK THE ENGLISH PEOPLE HAVE BEEN DOING TOWARD THE WAR EFFORT?
+    answer_label answer_value raw_counts relative_frequency
+0      VERY GOOD          1.0       1979               0.61
+1    FAIRLY GOOD          2.0       1048               0.32
+2  NOT VERY GOOD          3.0        169               0.05
+3      NO ANSWER          4.0         65               0.02
+
+
+
+S122.Q13 IN GENERAL, HOW WELL DO YOU THINK THE BRITISH SOLDIER STACKS UP AS A FIGHTING MAN?
+      answer_label answer_value raw_counts relative_frequency
+0        VERY WELL          1.0       1610               0.49
+1      FAIRLY WELL          2.0       1329               0.41
+2    NOT VERY WELL          3.0        145               0.04
+3  NOT WELL AT ALL          4.0         63               0.02
+4        NO ANSWER          5.0        114               0.03
+
+
+
+S122.Q14 HOW IMPORTANT DO YOU THINK IT IS TO THE FUTURE WELL-BEING OF THE UNITED STATES THAT AMERICAN SOLDIERS GET ALONG WELL WITH THE ENGLISH PEOPLE?
+           answer_label answer_value raw_counts relative_frequency
+0    NO CODE OR NO DATA          0.0          1                0.0
+1  NOT IMPORTANT AT ALL          1.0        404               0.12
+2    SOMEWHAT IMPORTANT          2.0        816               0.25
+3       QUITE IMPORTANT          3.0        749               0.23
+4        VERY IMPORTANT          4.0       1220               0.37
+5             NO ANSWER          5.0         71               0.02
+
+
+
+S122.Q15 IF YOU HAVE ANY FURTHER REMARKS TO MAKE ON THIS SUBJECT, PLEASE WRITE THEM BELOW:
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0         14                0.0
+1            COMMENTS          1.0        638                0.2
+2         NO COMMENTS          2.0       2609                0.8
+
+
+

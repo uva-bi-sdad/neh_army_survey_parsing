@@ -1,0 +1,823 @@
+{
+  "FORM": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "S-76 P: ENLISTED MEN IN OPERATING UNITS",
+    "2.0": "S-76 P: ENLISTED MEN IN HEADQUARTERS PLATOONS",
+    "3.0": "S-76 P: ENLISTED MEN UNASSIGNED TO SQUADS",
+    "NaN": "THE FOLLOWING PARAGRAPH HAS BEEN EXTRACTED FROM THE ORIGINAL DOCUMENTATION, AND IS INCLUDED HERE TO INDICATE THAT AT THE",
+    "4.0": "S-76 N: PLATOON NON-COMMISSIONED OFFICERS IN OPERATING UNITS",
+    "5.0": "S-76 0: OFFICERS"
+  },
+  "S76.Qi1A": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW",
+    "3.0": "DISAGREE"
+  },
+  "S76.Qi1B": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW",
+    "3.0": "DISAGREE"
+  },
+  "S76.Qi1C": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW",
+    "3.0": "DISAGREE"
+  },
+  "S76.Qi1D": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW",
+    "3.0": "DISAGREE"
+  },
+  "S76.Qi1E": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW",
+    "3.0": "DISAGREE"
+  },
+  "S76.Qi1F": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW",
+    "3.0": "DISAGREE"
+  },
+  "S76.Qi1G": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW",
+    "3.0": "DISAGREE"
+  },
+  "S76.Qi1H": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW",
+    "3.0": "DISAGREE"
+  },
+  "S76.Qi1I": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW",
+    "3.0": "DISAGREE"
+  },
+  "S76.Qi1J": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW",
+    "3.0": "DISAGREE"
+  },
+  "S76.Qi1K": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW",
+    "3.0": "DISAGREE"
+  },
+  "S76.Qi1L": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW",
+    "3.0": "DISAGREE"
+  },
+  "S76.Qi1M": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW",
+    "3.0": "DISAGREE"
+  },
+  "S76.Qi1N": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW",
+    "3.0": "DISAGREE"
+  },
+  "S76.Qi1O": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW",
+    "3.0": "DISAGREE"
+  },
+  "S76.Qi2A": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW",
+    "3.0": "DISAGREE"
+  },
+  "S76.Qi2B": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW",
+    "3.0": "DISAGREE"
+  },
+  "S76.Qi2C": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW",
+    "3.0": "DISAGREE"
+  },
+  "S76.Qi2D": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW",
+    "3.0": "DISAGREE"
+  },
+  "S76.Qi2E": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW",
+    "3.0": "DISAGREE"
+  },
+  "S76.Qi2F": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW",
+    "3.0": "DISAGREE"
+  },
+  "S76.Qi2G": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW",
+    "3.0": "DISAGREE"
+  },
+  "S76.Qi2H": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW",
+    "3.0": "DISAGREE"
+  },
+  "S76.Qi2I": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW",
+    "3.0": "DISAGREE"
+  },
+  "S76.Qi2J": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW",
+    "3.0": "DISAGREE"
+  },
+  "S76.Qi2K": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW",
+    "3.0": "DISAGREE"
+  },
+  "S76.Qi2L": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW",
+    "3.0": "DISAGREE"
+  },
+  "S76.Qi2M": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW",
+    "3.0": "DISAGREE"
+  },
+  "S76.Qi2N": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW",
+    "3.0": "DISAGREE"
+  },
+  "S76.Qi2O": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW",
+    "3.0": "DISAGREE"
+  },
+  "S76.Qi2P": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW",
+    "3.0": "DISAGREE"
+  },
+  "S76.Qi2Q": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW",
+    "3.0": "DISAGREE"
+  },
+  "S76.Qi2R": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DON'T KNOW",
+    "3.0": "DISAGREE"
+  },
+  "S76.Qii1A": {
+    "0.0": "NO ANSWER",
+    "1.0": "GET IN THE GAME",
+    "2.0": "LOOK THE OTHER WAY AND LEAVE THE MEN ALONE",
+    "3.0": "BREAK UP THE GAME, BUT DO NOTHING TO THE MEN",
+    "4.0": "BREAK UP THE GAME, AND PUNISH THE MEN YOURSELF",
+    "5.0": "BREAK UP THE GAME, AND REPORT THE MEN TO THE C.O."
+  },
+  "S76.Qii1B": {
+    "0.0": "NO ANSWER",
+    "1.0": "CALL THE WHOLE DETAIL BACK TO POLICE THE AREA OVER AGAIN",
+    "2.0": "CALL ONE MAN BACK TO PICK THEM UP",
+    "3.0": "PICK THEM UP YOURSELF",
+    "4.0": "KICK THEM UNDER THE BARRACKS WHERE NOBODY WILL SEE THEM"
+  },
+  "S76.Qii1C": {
+    "0.0": "NO ANSWER",
+    "1.0": "LET IT GO AND NOT REPORT THAT HE MISSED BED CHECK",
+    "2.0": "GIVE HIM SOME MINOR PUNISHMENT LIKE DOUBLE-TIMING AROUND THE COMPANY AREA, BUT NOT REPORT HIM",
+    "3.0": "REPORT TO THE FIRST SERGEANT IN THE MORNING THAT THE MAN MISSED BED CHECK"
+  },
+  "S76.Qii1D": {
+    "0.0": "NO ANSWER",
+    "1.0": "LET HIM DO WHAT HE WANTED WITH IT AND SAY NOTHING",
+    "2.0": "WARN HIM TO BE CAREFUL AND NOT TO DO IT AGAIN",
+    "3.0": "GIVE HIM EXTRA FATIGUE DUTY FOR BREAKING THE RULES",
+    "4.0": "REPORT HIM TO THE COMPANY COMMANDER OR FIRST SERGEANT"
+  },
+  "S76.Qii1E": {
+    "0.0": "NO ANSWER",
+    "1.0": "BUILD THE BRIDGE THE WAY THE MAN SUGGESTS AND TELL THE C.O. THE NEXT DAY",
+    "2.0": "TELL THE MEN HE HAS A GOOD IDEA BUT YOU HAVE TO FOLLOW THE C.O.'S ORDERS"
+  },
+  "S76.Qii1F": {
+    "0.0": "NO ANSWER",
+    "1.0": "FIGURE IT OUT THE BEST YOU COULD AND HAVE THE MEN DO IT THAT WAY",
+    "2.0": "TELL THE MEN YOU ARE NOT QUITE SURE HOW TO DO IT AND ASK THEM IF THEY HAVE ANY GOOD IDEAS"
+  },
+  "S76.Qii1G": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "LEAVE HIM ALONE AND SAY NOTHING ABOUT IT",
+    "2.0": "TURN HIM OVER TO THE M.P.,S",
+    "3.0": "TAKE HIM BACK TO CAMP, AND REPORT HIM TO THE C.O.",
+    "4.0": "TAKE HIM BACK TO CAMP, AND PUNISH HIM YOURSELF",
+    "5.0": "TAKE HIM BACK TO CAMP, AND NOT SAY ANYTHING ABOUT IT",
+    "6.0": "NO ANSWER"
+  },
+  "S76.Qii1H": {
+    "0.0": "NO ANSWER",
+    "1.0": "PUNISH THE WHOLE PLATOON",
+    "2.0": "LET IT GO UNTIL YOU ACTUALLY CATCH SOMEONE DOING IT"
+  },
+  "S76.Qii1I": {
+    "0.0": "NO ANSWER",
+    "1.0": "REPORT BACK THAT YOU GOT THE JOB DONE AHEAD OF TIME AND THAT THE DETAIL IS AVAILABLE FOR OTHER DUTY",
+    "2.0": "FIND OTHER WORK FOR THE MEN TO DO",
+    "3.0": "LET THE MEN TAKE OFF OR TAKE IT EASY FOR THE REST OF THE AFTERNOON"
+  },
+  "S76.Qii1J": {
+    "0.0": "NO ANSWER",
+    "1.0": "ASK THE C.O. YOURSELF IF IT WAS ALL RIGHT TO MAKE AN EXCEPTION IN THIS CASE",
+    "2.0": "GIVE THE MAN PERMISSION TO SEE THE C.O. AND LET HIM DO HIS OWN ARGUING",
+    "3.0": "TELL THE MAN THAT THE C.O. WAS NOT GOING TO ISSUE ANY PASSES, SO HE WAS JUST OUT OF LUCK"
+  },
+  "S76.Qiii1A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S76.Qiii1B": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S76.Qiii1C": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S76.Qiii1D": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S76.Qiii1E": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S76.Qiii1F": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S76.Qiii1G": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S76.Qiii1H": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S76.Qiii1I": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S76.Qiii1J": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S76.Qiii1K": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY GOOD",
+    "2.0": "FAIRLY GOOD",
+    "3.0": "ABOUT AVERAGE",
+    "4.0": "PRETTY POOR",
+    "5.0": "VERY POOR",
+    "6.0": "NO ANSWER"
+  },
+  "S76.Qiii2A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S76.Qiii2B": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S76.Qiii2C": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S76.Qiii2D": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S76.Qiii2E": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S76.Qiii2F": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S76.Qiii2G": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S76.Qiii2H": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S76.Qiii2I": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S76.Qiii2J": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S76.Qiii2K": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "VERY GOOD",
+    "2.0": "FAIRLY GOOD",
+    "3.0": "ABOUT AVERAGE",
+    "4.0": "PRETTY POOR",
+    "5.0": "VERY POOR",
+    "6.0": "NO ANSWER"
+  },
+  "S76.Qiii3A": {
+    "0.0": "NO ANSWER",
+    "1.0": "MOST",
+    "2.0": "ABOUT HALF",
+    "3.0": "FEW"
+  },
+  "S76.Qiii3B": {
+    "0.0": "NO ANSWER",
+    "1.0": "MOST",
+    "2.0": "ABOUT HALF",
+    "3.0": "FEW"
+  },
+  "S76.Qiii3C": {
+    "0.0": "NO ANSWER",
+    "1.0": "MOST",
+    "2.0": "ABOUT HALF",
+    "3.0": "FEW"
+  },
+  "S76.Qiii3D": {
+    "0.0": "NO ANSWER",
+    "1.0": "MOST",
+    "2.0": "ABOUT HALF",
+    "3.0": "FEW"
+  },
+  "S76.Qiii3E": {
+    "0.0": "NO ANSWER",
+    "2.0": "ABOUT HALF",
+    "NaN": "COL. 80 NOT USED. CARD 2",
+    "1.0": "MOST",
+    "3.0": "FEW"
+  },
+  "FORM..1": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "S-76 P: ENLISTED MEN IN OPERATING UNITS",
+    "2.0": "S-76 P: ENLISTED MEN IN HEADQUARTERS PLATOONS",
+    "3.0": "S-76 P: ENLISTED MEN UNASSIGNED TO SQUADS",
+    "4.0": "S-76 N: PLATOON NON-COMMISSIONED OFFICERS IN OPERATING UNITS",
+    "5.0": "S-76 0: OFFICERS"
+  },
+  "S76.Qiii3F": {
+    "0.0": "NO ANSWER",
+    "1.0": "MOST",
+    "2.0": "ABOUT HALF",
+    "3.0": "FEW"
+  },
+  "S76.Qiii3G": {
+    "0.0": "NO ANSWER",
+    "1.0": "MOST",
+    "2.0": "ABOUT HALF",
+    "3.0": "FEW"
+  },
+  "S76.Qiii3H": {
+    "0.0": "NO ANSWER",
+    "1.0": "MOST",
+    "2.0": "ABOUT HALF",
+    "3.0": "FEW"
+  },
+  "S76.Qiii3I": {
+    "0.0": "NO ANSWER",
+    "1.0": "MOST",
+    "2.0": "ABOUT HALF",
+    "3.0": "FEW"
+  },
+  "S76.Qiii3J": {
+    "0.0": "NO ANSWER",
+    "1.0": "MOST",
+    "2.0": "ABOUT HALF",
+    "3.0": "FEW"
+  },
+  "S76.Qiii3K": {
+    "0.0": "NO ANSWER",
+    "1.0": "MOST",
+    "2.0": "ABOUT HALF",
+    "3.0": "FEW"
+  },
+  "S76.Qiii3L": {
+    "0.0": "NO ANSWER",
+    "1.0": "MOST",
+    "2.0": "ABOUT HALF",
+    "3.0": "FEW"
+  },
+  "S76.Qiii3M": {
+    "0.0": "NO ANSWER",
+    "1.0": "MOST",
+    "2.0": "ABOUT HALF",
+    "3.0": "FEW"
+  },
+  "S76.Qiii3N": {
+    "0.0": "NO ANSWER",
+    "1.0": "MOST",
+    "2.0": "ABOUT HALF",
+    "3.0": "FEW"
+  },
+  "S76.Qiii3O": {
+    "0.0": "NO ANSWER",
+    "1.0": "MOST",
+    "2.0": "ABOUT HALF",
+    "3.0": "FEW"
+  },
+  "S76.Qiiii1": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT WILL NOT BE VERY HARD",
+    "2.0": "IT WILL BE A TOUGH JOB BUT OUR LOSSES WON'T BE TOO HEAVY",
+    "3.0": "IT WILL BE A TOUGH JOB, WITH HEAVY LOSSES OF MEN AND EQUIPMENT"
+  },
+  "S76.Qiiii2": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT WILL NOT BE VERY HARD",
+    "2.0": "IT WILL BE A TOUGH JOB BUT OUR LOSSES WON'T BE TOO HEAVY",
+    "3.0": "IT WILL BE A TOUGH JOB, WITH HEAVY LOSSES OF MEN AND EQUIPMENT"
+  },
+  "S76.Qiiii3": {
+    "0.0": "NO ANSWER",
+    "1.0": "DOING ALL IT POSSIBLY CAN",
+    "2.0": "DOING ALL IT CAN IN MOST THINGS",
+    "3.0": "COULD DO QUITE A BIT MORE",
+    "4.0": "COULD DO A WHOLE LOT MORE"
+  },
+  "S76.Qiiii4": {
+    "0.0": "NO ANSWER",
+    "1.0": "BETTER FOR ME AFTER THE WAR THAN BEFORE THE WAR",
+    "2.0": "SAME FOR ME AFTER THE WAR AS BEFORE THE WAR",
+    "3.0": "WORSE FOR ME AFTER THE WAR THAN BEFORE THE WAR",
+    "4.0": "UNDECIDED"
+  },
+  "S76.Qiiii5": {
+    "0.0": "NO ANSWER",
+    "1.0": "WILL COOPERATE",
+    "2.0": "WILL NOT",
+    "3.0": "DON'T KNOW"
+  },
+  "S76.Qiiii6": {
+    "0.0": "NO ANSWER",
+    "1.0": "WILL COOPERATE",
+    "2.0": "WILL NOT",
+    "3.0": "DON'T KNOW"
+  },
+  "S76.Qiiii7": {
+    "0.0": "NO ANSWER",
+    "1.0": "WILL COOPERATE",
+    "2.0": "WILL NOT",
+    "3.0": "DON'T KNOW"
+  },
+  "S76.Qiiii8A": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S76.Qiiii8B": {
+    "0.0": "NO ANSWER",
+    "1.0": "AGREE",
+    "2.0": "DISAGREE"
+  },
+  "S76.Qiiii9": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, THEY SHOULD BE MADE TO TAKE MILITARY TRAINING",
+    "2.0": "NO, THEY SHOULD NOT BE MADE TO TAKE MILITARY TRAINING",
+    "3.0": "UNDECIDED"
+  },
+  "S76.Qiiii10": {
+    "1.0": "FROM 1 TO 3 MONTHS",
+    "2.0": "FROM 3 TO 6 MONTHS",
+    "3.0": "FROM 6 MONTHS TO 1 YEAR",
+    "4.0": "FROM 1 TO 2 YEARS",
+    "5.0": "2 YEARS OR MORE",
+    "6.0": "UNDECIDED",
+    "9.0": "INAPPLICABLE, THEY SHOULD NOT BE MADE TO TAKE MILITARY TRAINING AT ALL"
+  },
+  "S76.Qiiii11": {
+    "1.0": "BEFORE 18 YEARS OF AGE",
+    "2.0": "BETWEEN 18 YEARS AND 24 YEARS",
+    "3.0": "BETWEEN 25 YEARS AND 30 YEARS",
+    "4.0": "UNDECIDED",
+    "5.0": "NO ANSWER",
+    "9.0": "INAPPLICABLE, THEY SHOULD NOT BE MADE TO TAKE MILITARY TRAINING AT ALL"
+  },
+  "S76.Qiiii12": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY MUCH INTERESTED",
+    "2.0": "A LITTLE BUT NOT MUCH",
+    "3.0": "NOT INTERESTED AT ALL"
+  },
+  "S76.Qiiii13": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALL ARE",
+    "2.0": "MOST ARE",
+    "3.0": "ABOUT HALF ARE, HALF ARE NOT",
+    "4.0": "ONLY A FEW ARE",
+    "5.0": "ALMOST NONE ARE"
+  },
+  "S76.Qiiii14": {
+    "0.0": "NO ANSWER",
+    "1.0": "MOST OF THE MEN USUALLY PUT ALL THEY HAVE INTO IT",
+    "2.0": "MOST OF THE MEN USUALLY WORK JUST HARD ENOUGH TO GET BY",
+    "3.0": "UNDECIDED"
+  },
+  "S76.Qiiii15": {
+    "0.0": "NO ANSWER",
+    "1.0": "I USUALLY PUT ALL I HAVE INTO IT",
+    "2.0": "I USUALLY WORK JUST HARD ENOUGH TO GET BY",
+    "3.0": "UNDECIDED"
+  },
+  "S76.Qiiii16": {
+    "0.0": "NO ANSWER",
+    "1.0": "NO, I NEVER THOUGHT SO",
+    "2.0": "NO, I USED TO THINK SO, BUT DON'T NOW",
+    "3.0": "YES, TOO MANY SEEM USELESS",
+    "4.0": "UNDECIDED"
+  },
+  "S76.Qiiii17": {
+    "0.0": "NO ANSWER",
+    "1.0": "I FEEL THAT WAY NEARLY ALL OF THE TIME",
+    "2.0": "I FEEL THAT WAY FAIRLY OFTEN",
+    "3.0": "I FEEL THAT WAY ONLY ONCE IN A WHILE",
+    "4.0": "I ALMOST NEVER FEEL THAT WAY"
+  },
+  "S76.Qiiii18": {
+    "0.0": "NO ANSWER",
+    "1.0": "A VERY GOOD CHANCE",
+    "2.0": "A FAIRLY GOOD CHANCE",
+    "3.0": "NOT MUCH OF A CHANCE",
+    "4.0": "NO CHANCE AT ALL",
+    "5.0": "UNDECIDED"
+  },
+  "S76.Qiiii19": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, VERY PROUD",
+    "2.0": "YES, FAIRLY PROUD",
+    "3.0": "NO, NOT PROUD",
+    "4.0": "UNDECIDED"
+  },
+  "S76.Qiiii20": {
+    "0.0": "NO ANSWER",
+    "1.0": "I USUALLY FEEL IT IS NOT WORTHWHILE",
+    "2.0": "I USUALLY FEEL IT IS WORTHWHILE",
+    "3.0": "UNDECIDED"
+  },
+  "S76.Qiiii21": {
+    "0.0": "NO ANSWER",
+    "1.0": "I HAVE A PRETTY GOOD TIME",
+    "2.0": "IT'S ABOUT FIFTY-FIFTY",
+    "3.0": "I HAVE A PRETTY ROTTEN TIME"
+  },
+  "S76.Qiiii22": {
+    "0.0": "NO ANSWER",
+    "1.0": "I AM USUALLY IN GOOD SPIRITS",
+    "2.0": "I AM IN GOOD SPIRITS SOME OF THE TIME AND IN LOW SPIRITS SOME OF THE TIME",
+    "3.0": "I AM USUALLY IN LOW SPIRITS"
+  },
+  "S76.Qiiii23": {
+    "0.0": "NO ANSWER",
+    "1.0": "I AM HARDLY EVER WORRIED AND UPSET",
+    "2.0": "I AM SOMETIMES WORRIED AND UPSET",
+    "3.0": "I AM OFTEN WORRIED AND UPSET"
+  },
+  "S76.Qiiii24": {
+    "0.0": "NO ANSWER",
+    "1.0": "IN A COMBAT OUTFIT OVERSEAS",
+    "2.0": "IN A NON-COMBAT OUTFIT OVERSEAS",
+    "3.0": "IN AN OUTFIT THAT WILL STAY IN THE UNITED STATES"
+  },
+  "S76.Qiiii25": {
+    "0.0": "NO ANSWER",
+    "1.0": "AS A SOLDIER",
+    "2.0": "AS A WAR WORKER",
+    "3.0": "UNDECIDED"
+  },
+  "S76.Qiiii26": {
+    "0.0": "NO ANSWER",
+    "1.0": "I THINK I WOULD DO ALL RIGHT",
+    "2.0": "I THINK I WOULD HAVE TROUBLE AT FIRST, BUT AFTER A WHILE I WOULD BE O.K.",
+    "3.0": "I DON'T THINK I WOULD DO VERY WELL",
+    "4.0": "I HAVEN'T ANY IDEA HOW I WOULD DO"
+  },
+  "S76.Qiiii27": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALL OF THEM DO",
+    "2.0": "MOST OF THEM DO",
+    "3.0": "ABOUT HALF OF THEM DO",
+    "4.0": "FEW OF THEM DO",
+    "5.0": "NONE OF THEM DO"
+  },
+  "S76.Qiiii28": {
+    "0.0": "NO ANSWER",
+    "1.0": "BOTHERS ME A GREAT DEAL",
+    "2.0": "BOTHERS ME QUITE A BIT",
+    "3.0": "DOESN'T BOTHER ME MUCH",
+    "4.0": "DOESN'T BOTHER ME AT ALL"
+  },
+  "S76.Qiiii29": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALL OF THEM ARE",
+    "2.0": "MOST OF THEM ARE",
+    "3.0": "ABOUT HALF OF THEM ARE",
+    "4.0": "FEW OF THEM ARE",
+    "5.0": "NONE OF THEM ARE"
+  },
+  "S76.Qiiii30": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONE WHO KNEW HIS STUFF THOROUGHLY BUT WHO WAS DISLIKED BY HIS MEN",
+    "2.0": "ONE WHO DID NOT KNOW HIS STUFF SO WELL, BUT WHO WAS LIKED BY HIS MEN"
+  },
+  "S76.Qiiii31A": {
+    "0.0": "NO ANSWER",
+    "1.0": "THE ABILITY TO TEACH THINGS CLEARLY TO THE MEN UNDER HIM",
+    "2.0": "THE ABILITY TO KNOW WHEN AND HOW TO DISCIPLINE THE MEN",
+    "3.0": "THE ABILITY TO HELP AND ADVISE THE MEN UNDER HIM",
+    "4.0": "THE ABILITY TO CARRY OUT ORDERS PROMPTLY AND ACCURATELY",
+    "5.0": "THE ABILITY TO GAIN THE PERSONAL LIKING OF THE MEN UNDER HIM"
+  },
+  "S76.Qiiii31B": {
+    "0.0": "NO ANSWER",
+    "1.0": "THE ABILITY TO TEACH THINGS CLEARLY TO THE MEN UNDER HIM",
+    "2.0": "THE ABILITY TO KNOW WHEN AND HOW TO DISCIPLINE THE MEN",
+    "3.0": "THE ABILITY TO HELP AND ADVISE THE MEN UNDER HIM",
+    "4.0": "THE ABILITY TO CARRY OUT ORDERS PROMPTLY AND ACCURATELY",
+    "5.0": "THE ABILITY TO GAIN THE PERSONAL LIKING OF THE MEN UNDER HIM"
+  },
+  "S76.Qv1": {
+    "0.0": "NO ANSWER",
+    "1.0": "19 YEARS OR YOUNGER",
+    "2.0": "20 TO 24 YEARS",
+    "3.0": "25 TO 29 YEARS",
+    "4.0": "30 TO 34 YEARS",
+    "5.0": "35 YEARS OR OVER"
+  },
+  "S76.Qv2": {
+    "0.0": "NO ANSWER",
+    "1.0": "SINGLE",
+    "2.0": "MARRIED",
+    "3.0": "DIVORCED OR SEPARATED",
+    "4.0": "WIDOWED"
+  },
+  "S76.Qv3": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "LESS THAN 6TH GRADE",
+    "2.0": "FINISHED 6TH GRADE",
+    "3.0": "FINISHED 7TH GRADE",
+    "4.0": "FINISHED 8TH GRADE",
+    "5.0": "SOME HIGH SCHOOL BUT DID NOT FINISH",
+    "6.0": "GRADUATED FROM HIGH SCHOOL",
+    "7.0": "SOME COLLEGE BUT DID NOT FINISH",
+    "8.0": "GRADUATED FROM COLLEGE",
+    "9.0": "NO ANSWER"
+  },
+  "S76.Qv4": {
+    "0.0": "NO ANSWER SPLIT. OFFICER FORM.",
+    "1.0": "ON A FARM OR IN THE COUNTRY",
+    "2.0": "IN A SMALL TOWN (FEWER THAN 2,500 PEOPLE)",
+    "3.0": "IN A TOWN (WITH BETWEEN 2,500 AND 25,000 PEOPLE)",
+    "4.0": "IN A CITY (BETWEEN 25,000 AND 100,000 PEOPLE)",
+    "5.0": "IN A LARGE CITY (MORE THAN 100,000 PEOPLE)"
+  },
+  "S76.Qv5.1": {
+    "1.0": "SECOND LIEUTENANT",
+    "2.0": "FIRST LIEUTENANT",
+    "3.0": "CAPTAIN",
+    "4.0": "MAJOR",
+    "9.0": "INAPPLICABLE (PRIVATE AND NCO FORMS) SPLIT. NON-COMMISSIONED OFFICER AND PRIVATE FORMS."
+  },
+  "S76.Qv5.2": {
+    "1.0": "PRIVATE",
+    "2.0": "PRIVATE FIRST CLASS",
+    "3.0": "TECHNICIAN 5TH GRADE CORPORAL",
+    "4.0": "TECHNICIAN 4TH GRADE SERGEANT",
+    "5.0": "TECHNICIAN 3RD GRADE STAFF SERGEANT",
+    "6.0": "TECHNICAL SERGEANT",
+    "7.0": "MASTER SERGEANT OR FIRST SERGEANT",
+    "8.0": "OTHER, NO ANSWER",
+    "9.0": "INAPPLICABLE (OFFICER'S FORM) SPLIT. NON-COMMISSIONED OFFICER AND PRIVATE FORMS."
+  },
+  "S76.Qv6.1": {
+    "0.0": "NO ANSWER",
+    "1.0": "I WAS DRAFTED",
+    "2.0": "I VOLUNTEERED",
+    "3.0": "I WAS IN THE NATIONAL GUARD",
+    "9.0": "INAPPLICABLE (OFFICERS FORM) SPLIT. OFFICER FORM."
+  },
+  "S76.Qv6.2": {
+    "1.0": "COMPANY OR BATTERY COMMANDER",
+    "2.0": "EXECUTIVE OFFICER",
+    "3.0": "PLATOON OFFICER",
+    "4.0": "MOTOR OR TRANSPORTATION OFFICER",
+    "5.0": "COMMUNICATIONS OFFICER",
+    "6.0": "RECONNAISSANCE OFFICER",
+    "9.0": "INAPPLICABLE (NCO AND PRIVATE FORMS) SPLIT. NCO AND PRIVATE FORMS."
+  },
+  "S76.Qv7.1": {
+    "1.0": "3 MONTHS OR LESS",
+    "2.0": "OVER 3 MONTHS TO 6 MONTHS",
+    "3.0": "OVER 6 MONTHS TO 9 MONTHS",
+    "4.0": "OVER 9 MONTHS TO 1 YEAR",
+    "5.0": "OVER 1 YEAR TO 2 YEARS",
+    "6.0": "OVER 2 YEARS",
+    "7.0": "NO ANSWER",
+    "9.0": "INAPPLICABLE (OFFICER FORM) SPLIT. OFFICER FORM."
+  },
+  "S76.Qv7.2": {
+    "1.0": "3 MONTHS OR LESS",
+    "NaN": "DATA FOR THE FEW REMAINING QUESTIONS FOR EACH FORM IRRETRIEVABLE BECAUSE OF INSUFFICIENT DOCUMENTATION CONCERNING THE SA",
+    "2.0": "OVER 3 MONTHS TO 6 MONTHS",
+    "3.0": "OVER 6 MONTHS TO 1 YEAR",
+    "4.0": "OVER 1 YEAR",
+    "9.0": "INAPPLICABLE (NCO AND PRIVATE FORMS)"
+  },
+  "S76.Vv8": {
+    "1.0": "373 REGIMENT, COMPANY A",
+    "2.0": "373 REGIMENT, COMPANY B",
+    "3.0": "373 REGIMENT, COMPANY C",
+    "4.0": "373 REGIMENT, COMPANY D",
+    "5.0": "373 REGIMENT, COMPANY E",
+    "6.0": "373 REGIMENT, COMPANY F",
+    "7.0": "393 REGIMENT, COMPANY A",
+    "8.0": "393 REGIMENT, COMPANY B",
+    "9.0": "393 REGIMENT, COMPANY C",
+    "10.0": "393 REGIMENT, COMPANY D",
+    "11.0": "393 REGIMENT, COMPANY E",
+    "12.0": "393 REGIMENT, COMPANY F",
+    "99.0": "INAPPLICABLE (ALL OTHER CASES)"
+  },
+  "S76.Vv9": {
+    "1.0": "373 REGIMENT",
+    "9.0": "INAPPLICABLE (ALL OTHER CASE)",
+    "NaN": "REGIMENT \\(AND/OR COMPANY\\) FOR ALL OTHER GROUPS NOT CODED OR IDENTIFIED, DATA TRANSFERRED AS IS \\(V.10\\).",
+    "2.0": "393 REGIMENT"
+  },
+  "S76.Vv10": {
+    "1.0": "PLATOON NCO'S IN OPERATING UNITS",
+    "2.0": "ENLISTED MEN IN HEADQUARTERS PLATOONS",
+    "3.0": "ENLISTED MEN UNASSIGNED TO SQUADS",
+    "9.0": "INAPPLICABLE (ALL OTHER CASES)"
+  }
+}

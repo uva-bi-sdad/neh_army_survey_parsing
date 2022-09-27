@@ -1,0 +1,783 @@
+{
+  "FORM": {
+    "1.0": "S-160A",
+    "2.0": "S-160X"
+  },
+  "S160B.Q1": {
+    "0.0": "NO ANSWER",
+    "1.0": "PRIVATE",
+    "2.0": "PRIVATE FIRST CLASS",
+    "3.0": "CORPORAL OR TECH",
+    "4.0": "SERGEANT OR TECH",
+    "5.0": "STAFF SERGEANT OR TECH",
+    "6.0": "TECHNICAL SERGEANT, MASTER SERGEANT, OR FIRST SERGEANT"
+  },
+  "S160B.Q2": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ENGINEERS",
+    "2.0": "FIELD ARTILLERY",
+    "3.0": "QUARTERMASTER CORPS",
+    "4.0": "INFANTRY",
+    "5.0": "MEDICAL CORPS",
+    "6.0": "ARMORED COMMAND",
+    "7.0": "SIGNAL CORPS",
+    "8.0": "COAST ARTILLERY AND ANTI-AIRCRAFT",
+    "9.0": "AIR CORPS",
+    "10.0": "TRANSPORTATION CORPS",
+    "11.0": "ORDNANCE DEPARTMENT",
+    "12.0": "CHEMICAL WARFARE SERVICE",
+    "13.0": "MILITARY POLICE",
+    "14.0": "OTHER",
+    "15.0": "NO ANSWER"
+  },
+  "S160B.Q3": {
+    "0.0": "NO ANSWER",
+    "1.0": "LINE JOB IN INFANTRY CO.",
+    "2.0": "NON-LINE JOB IN INFANTRY CO.",
+    "3.0": "INFANTRY JOB - NOT IN LINE CO.",
+    "4.0": "ARMORED COMMAND JOB",
+    "5.0": "TANK DESTROYERS JOB",
+    "6.0": "FIELD ARTILLERY JOB",
+    "7.0": "SOS JOB",
+    "8.0": "UNCLASSIFIED"
+  },
+  "S160B.Q4": {
+    "0.0": "NO ANSWER",
+    "1.0": "LESS THAN 3 MONTHS",
+    "2.0": "3 MONTHS TO 6 MONTHS",
+    "3.0": "6 MONTHS TO 1 YEAR",
+    "4.0": "1 YEAR TO 2 YEARS",
+    "5.0": "OVER 2 YEARS"
+  },
+  "S160B.Q5": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "YES, ALWAYS ENOUGH",
+    "2.0": "YES, USUALLY ENOUGH",
+    "3.0": "NO, USUALLY NOT ENOUGH",
+    "4.0": "NO ANSWER"
+  },
+  "S160B.Q6": {
+    "0.0": "NO ANSWER",
+    "1.0": "BREAKFAST",
+    "2.0": "DINNER",
+    "3.0": "SUPPER"
+  },
+  "S160B.Q7A.1": {
+    "1.0": "CHOPPED HAM AND EGGS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7A.2": {
+    "1.0": "CHEESE",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7A.3": {
+    "1.0": "CHEESE AND BACON",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7A.4": {
+    "1.0": "BEEF AND PORK LOAF, MEAT",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7A.5": {
+    "1.0": "PORK AND EGG YOLK",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7A.6": {
+    "1.0": "PORK LOAF - WITH CARROTS AND APPLE FLAKES",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7A.7": {
+    "1.0": "CRACKERS, BISCUITS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7A.8": {
+    "1.0": "CHEWING GUM",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7A.9": {
+    "1.0": "SUGAR",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7A.10": {
+    "1.0": "MISCELLANEOUS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7A.11": {
+    "1.0": "CANNED STUFF",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7A.12": {
+    "1.0": "COFFEE",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7A.13": {
+    "1.0": "LEMON JUICE",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7A.14": {
+    "1.0": "ORANGE JUICE",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7A.15": {
+    "1.0": "BOUILLON",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7A.16": {
+    "1.0": "CARAMELS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7A.17": {
+    "1.0": "D-RATION CHOCOLATE BAR",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7A.18": {
+    "1.0": "SWEET CHOCOLATE BAR",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7A.19": {
+    "1.0": "MALT-DEXTROSE TABLETS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7A.20": {
+    "1.0": "OTHER CANDY",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7A.21": {
+    "1.0": "OTHER ITEMS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7A.22": {
+    "1.0": "FRUIT BAR",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7A.23": {
+    "1.0": "NO ANSWER",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7B.1": {
+    "1.0": "CHOPPED HAM AND EGGS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7B.2": {
+    "1.0": "CHEESE",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7B.3": {
+    "1.0": "CHEESE AND BACON",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7B.4": {
+    "1.0": "BEEF AND PORK LOAF, MEAT",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7B.5": {
+    "1.0": "PORK AND EGG YOLK",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7B.6": {
+    "1.0": "PORK LOAF - WITH CARROTS AND APPLE FLAKES",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7B.7": {
+    "1.0": "CRACKERS, BISCUITS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7B.8": {
+    "1.0": "CHEWING GUM",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7B.9": {
+    "1.0": "SUGAR",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7B.10": {
+    "1.0": "MISCELLANEOUS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7B.11": {
+    "1.0": "CANNED STUFF",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7B.12": {
+    "1.0": "COFFEE",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7B.13": {
+    "1.0": "LEMON JUICE",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7B.14": {
+    "1.0": "ORANGE JUICE",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7B.15": {
+    "1.0": "BOUILLON",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7B.16": {
+    "1.0": "CARAMELS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7B.17": {
+    "1.0": "D-RATION CHOCOLATE BAR",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7B.18": {
+    "1.0": "SWEET CHOCOLATE BAR",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7B.19": {
+    "1.0": "MALT-DEXTROSE TABLETS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7B.20": {
+    "1.0": "OTHER CANDY",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7B.21": {
+    "1.0": "OTHER ITEMS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7B.22": {
+    "1.0": "FRUIT BAR",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7B.23": {
+    "1.0": "NO ANSWER",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7C.1": {
+    "1.0": "MORE COFFEE",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7C.2": {
+    "1.0": "COCOA OR CHOCOLATE",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7C.3": {
+    "1.0": "MORE AND/OR BETTER CRACKERS OR COOKIES",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7C.4": {
+    "1.0": "JAM, BUTTER, SPREADS, ETC.",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7C.5": {
+    "1.0": "SMALL HEATING UNIT OR SELF-HEATING FOODS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7C.6": {
+    "1.0": "FRUIT",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7C.7": {
+    "1.0": "OTHER MEATS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7C.8": {
+    "1.0": "OTHER MISCELLANEOUS, NOT NOW IN THE RATION",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7C.9": {
+    "1.0": "OTHER ITEMS, NOW IN THE RATION",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q7C.10": {
+    "1.0": "NO ANSWER",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q8A": {
+    "0.0": "NO ANSWER",
+    "1.0": "COCOA",
+    "2.0": "BOUILLON",
+    "3.0": "COFFEE",
+    "4.0": "SOMETHING ELSE, NOTHING SPECIFIED",
+    "5.0": "SOMETHING ELSE, SOMETHING SPECIFIED"
+  },
+  "S160B.Q8B": {
+    "0.0": "NO ANSWER",
+    "1.0": "COCOA",
+    "2.0": "BOUILLON",
+    "3.0": "COFFEE",
+    "4.0": "LEMON JUICE",
+    "5.0": "ORANGE JUICE",
+    "6.0": "SOMETHING ELSE"
+  },
+  "S160B.Q8C": {
+    "0.0": "NO ANSWER",
+    "1.0": "COCOA",
+    "2.0": "BOUILLON",
+    "3.0": "COFFEE",
+    "4.0": "LEMON JUICE",
+    "5.0": "ORANGE JUICE",
+    "6.0": "SOMETHING ELSE"
+  },
+  "S160B.Q9A1": {
+    "0.0": "NO ANSWER",
+    "1.0": "USE ALL OF IT",
+    "2.0": "USE ONLY PART OF IT",
+    "3.0": "DO NOT USE ANY OF IT"
+  },
+  "S160B.Q9A2": {
+    "0.0": "NO ANSWER",
+    "1.0": "USE ALL OF IT",
+    "2.0": "USE ONLY PART OF IT",
+    "3.0": "DO NOT USE ANY OF IT"
+  },
+  "S160B.Q9A3": {
+    "0.0": "NO ANSWER",
+    "1.0": "USE ALL OF IT",
+    "2.0": "USE ONLY PART OF IT",
+    "3.0": "DO NOT USE ANY OF IT"
+  },
+  "S160B.Q9A4": {
+    "0.0": "NO ANSWER",
+    "1.0": "USE ALL OF IT",
+    "2.0": "USE ONLY PART OF IT",
+    "3.0": "DO NOT USE ANY OF IT"
+  },
+  "S160B.Q9A5": {
+    "0.0": "NO ANSWER",
+    "1.0": "USE ALL OF IT",
+    "2.0": "USE ONLY PART OF IT",
+    "3.0": "DO NOT USE ANY OF IT"
+  },
+  "FORM..1": {
+    "1.0": "S-160A",
+    "2.0": "S-160X"
+  },
+  "S160B.Q9B1": {
+    "0.0": "NO ANSWER",
+    "1.0": "USE ALL OF IT",
+    "2.0": "USE ONLY PART OF IT",
+    "3.0": "DO NOT USE ANY OF IT"
+  },
+  "S160B.Q9B2": {
+    "0.0": "NO ANSWER",
+    "1.0": "USE ALL OF IT",
+    "2.0": "USE ONLY PART OF IT",
+    "3.0": "DO NOT USE ANY OF IT"
+  },
+  "S160B.Q9B3": {
+    "0.0": "NO ANSWER",
+    "1.0": "USE ALL OF IT",
+    "2.0": "USE ONLY PART OF IT",
+    "3.0": "DO NOT USE ANY OF IT"
+  },
+  "S160B.Q9B4": {
+    "0.0": "NO ANSWER",
+    "1.0": "USE ALL OF IT",
+    "2.0": "USE ONLY PART OF IT",
+    "3.0": "DO NOT USE ANY OF IT"
+  },
+  "S160B.Q9B5": {
+    "0.0": "NO ANSWER",
+    "1.0": "USE ALL OF IT",
+    "2.0": "USE ONLY PART OF IT",
+    "3.0": "DO NOT USE ANY OF IT"
+  },
+  "S160B.Q9B6": {
+    "0.0": "NO ANSWER",
+    "1.0": "USE ALL OF IT",
+    "2.0": "USE ONLY PART OF IT",
+    "3.0": "DO NOT USE ANY OF IT"
+  },
+  "S160B.Q9B7": {
+    "0.0": "NO ANSWER",
+    "1.0": "USE ALL OF IT",
+    "2.0": "USE ONLY PART OF IT",
+    "3.0": "DO NOT USE ANY OF IT"
+  },
+  "S160B.Q9C1": {
+    "0.0": "NO ANSWER",
+    "1.0": "USE ALL OF IT",
+    "2.0": "USE ONLY PART OF IT",
+    "3.0": "DO NOT USE ANY OF IT"
+  },
+  "S160B.Q9C2": {
+    "0.0": "NO ANSWER",
+    "1.0": "USE ALL OF IT",
+    "2.0": "USE ONLY PART OF IT",
+    "3.0": "DO NOT USE ANY OF IT"
+  },
+  "S160B.Q9C3": {
+    "0.0": "NO ANSWER",
+    "1.0": "USE ALL OF IT",
+    "2.0": "USE ONLY PART OF IT",
+    "3.0": "DO NOT USE ANY OF IT"
+  },
+  "S160B.Q9C4": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "USE ALL OF IT",
+    "2.0": "USE ONLY PART OF IT",
+    "3.0": "DO NOT USE ANY OF IT",
+    "4.0": "NO ANSWER"
+  },
+  "S160B.Q10": {
+    "0.0": "NO CODE OR NO DATA",
+    "1.0": "ANY COMMENT",
+    "2.0": "NO ANSWER"
+  },
+  "S160B.Q11A.1": {
+    "1.0": "STEW",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q11A.2": {
+    "1.0": "HASH",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q11A.3": {
+    "1.0": "MEAT",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q11A.4": {
+    "1.0": "CORNED BEEF",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q11A.5": {
+    "1.0": "BISCUITS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q11A.6": {
+    "1.0": "BEANS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q11A.7": {
+    "1.0": "ALL OF IT",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q11A.8": {
+    "1.0": "NONE OF IT",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q11A.9": {
+    "1.0": "MISCELLANEOUS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q11A.10": {
+    "1.0": "NO ANSWER",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q11B.1": {
+    "1.0": "MEAT AND BEANS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q11B.2": {
+    "1.0": "SPAGHETTI AND MEAT",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q11B.3": {
+    "1.0": "BEEF STEW",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q11B.4": {
+    "1.0": "CHOCOLATE",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q11B.5": {
+    "1.0": "COFFEE",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q11B.6": {
+    "1.0": "HAM AND EGGS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q11B.7": {
+    "1.0": "HASH",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q11B.8": {
+    "1.0": "NONE OF IT",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q11B.9": {
+    "1.0": "MISCELLANEOUS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q11B.10": {
+    "1.0": "NO ANSWER",
+    "NaN": "QUESTION 11C NOT CODED.",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q11D": {
+    "1.0": "NO",
+    "2.0": "YES, NOTHING SPECIFIED",
+    "4.0": "NO ANSWER",
+    "NaN": "QUESTION 11E NOT CODED.",
+    "0.0": "NO CODE OR NO DATA",
+    "3.0": "YES, SOMETHING SPECIFIED"
+  },
+  "S160B.Q12A.1": {
+    "1.0": "CORNED BEEF",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q12A.2": {
+    "1.0": "MEAT",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q12A.3": {
+    "1.0": "BEANS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q12A.4": {
+    "1.0": "CANDY",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q12A.5": {
+    "1.0": "HASH",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q12A.6": {
+    "1.0": "BISCUITS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q12A.7": {
+    "1.0": "CHEESE",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q12A.8": {
+    "1.0": "CIGARETTES",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q12A.9": {
+    "1.0": "FRUIT BARS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q12A.10": {
+    "1.0": "STEW",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q12A.11": {
+    "1.0": "OTHER MISCELLANEOUS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q12A.12": {
+    "1.0": "NO ANSWER",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q12B.1": {
+    "1.0": "BACON, SAUSAGE, PORK, HAM, HAMBURGER",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q12B.2": {
+    "1.0": "CANNED FRUITS, PINEAPPLE",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q12B.3": {
+    "1.0": "CANNED CHICKEN",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q12B.4": {
+    "1.0": "ROAST BEEF",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q12B.5": {
+    "1.0": "EGGS, HAM AND EGGS OR PORK AND EGGS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q12B.6": {
+    "1.0": "RICE PUDDING",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q12B.7": {
+    "1.0": "COFFEE, BEVERAGE, CHOCOLATE",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q12B.8": {
+    "1.0": "CANDY, JAM, PRESERVES, JELLY, DESSERTS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q12B.9": {
+    "1.0": "VEGETABLES, BEANS, TOMATOES, CORN, CANNED STUFF",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q12B.10": {
+    "1.0": "ALL O.K. (GOOD), SATISFACTORY",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q12B.11": {
+    "1.0": "HOT SOUP, CORNED BEEF (HASH), BREAKFAST CEREAL, STEW, CIGARETTES, CHEESE, JUICE, BUTTER, PEANUTS, MEAT BALLS, CRACKERS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q12B.12": {
+    "1.0": "NO ANSWER",
+    "NaN": "QUESTIONS 12C AND 12D NOT CODED.",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q13A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES",
+    "2.0": "NO"
+  },
+  "S160B.Q13B": {
+    "0.0": "NO ANSWER",
+    "1.0": "I THINK THEY MAKE IMPURE WATER COMPLETELY SAFE FOR DRINKING",
+    "2.0": "I THINK THEY ARE OK EXCEPT WITH VERY IMPURE OR STAGNANT WATER SUPPLY",
+    "3.0": "I DON'T HAVE MUCH FAITH IN THEM"
+  },
+  "S160B.Q14": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, ALWAYS",
+    "2.0": "YES, USUALLY",
+    "3.0": "NO, OFTEN CANNOT GET THEM"
+  },
+  "S160B.Q15A": {
+    "0.0": "NO ANSWER",
+    "1.0": "IT HAS BEEN O.K.",
+    "2.0": "IT HAS GIVEN SOME TROUBLE, NOTHING WRITTEN IN",
+    "3.0": "IT HAS GIVEN SOME TROUBLE, SOMETHING WRITTEN IN"
+  },
+  "S160B.Q15B.1": {
+    "1.0": "CHAIN",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q15B.2": {
+    "1.0": "CAP",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q15B.3": {
+    "1.0": "CORK",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q15B.4": {
+    "1.0": "RUST AND CORROSION ON MOUTH OF FLASK",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q15B.5": {
+    "1.0": "CUP",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q15B.6": {
+    "1.0": "COVER 384",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q15B.7": {
+    "1.0": "PART THAT HOOKS ON BELT",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q15B.8": {
+    "1.0": "OTHER MISCELLANEOUS",
+    "2.0": "NOT CHOSEN"
+  },
+  "S160B.Q15B.9": {
+    "1.0": "NO ANSWER",
+    "NaN": "COLS. 79-80 NOT USED. CARD 3",
+    "2.0": "NOT CHOSEN"
+  },
+  "FORM..2": {
+    "1.0": "S-160A",
+    "NaN": "QUESTION 15C NOT CODED.",
+    "2.0": "S-160X"
+  },
+  "S160B.Q16": {
+    "0.0": "NO ANSWER",
+    "1.0": "NO",
+    "2.0": "YES, NOTHING WRITTEN IN",
+    "3.0": "YES, SOMETHING WRITTEN IN"
+  },
+  "S160B.Q17": {
+    "0.0": "NO ANSWER",
+    "1.0": "ISSUE SHOES AND LEGGINS",
+    "2.0": "ISSUE SHOES, WITHOUT LEGGINS",
+    "3.0": "LOW LEATHER BOOT (\"COMBAT BOOT\")",
+    "4.0": "SOMETHING ELSE"
+  },
+  "S160B.Q18A": {
+    "0.0": "NO ANSWER",
+    "2.0": "THERE IS SOME NEED FOR THEM, BUT I COULD DO WITHOUT THEM PRETTY WELL",
+    "NaN": "QUESTION 18B NOT CODED.",
+    "1.0": "IT IS ABSOLUTELY NECESSARY TO WEAR THEM",
+    "3.0": "THERE IS NO REAL NEED FOR WEARING THEM"
+  },
+  "S160B.Q19A": {
+    "0.0": "NO ANSWER",
+    "1.0": "VERY SATISFACTORY",
+    "2.0": "FAIRLY SATISFACTORY",
+    "3.0": "NOT VERY SATISFACTORY",
+    "4.0": "NOT SATISFACTORY AT ALL",
+    "5.0": "DO NOT HAVE ISSUE SHOES"
+  },
+  "S160B.Q19B": {
+    "0.0": "NO ANSWER",
+    "1.0": "ONE MONTH",
+    "2.0": "TWO MONTHS",
+    "3.0": "THREE MONTHS",
+    "4.0": "FOUR MONTHS",
+    "5.0": "FIVE MONTHS",
+    "6.0": "SIX MONTHS",
+    "7.0": "SEVEN OR EIGHT MONTHS",
+    "8.0": "NINE OR TEN MONTHS",
+    "9.0": "ELEVEN OR TWELVE MONTHS",
+    "10.0": "OVER TWELVE MONTHS"
+  },
+  "S160B.Q19C": {
+    "0.0": "NO ANSWER",
+    "NaN": "QUESTION 19D NOT CODED.",
+    "1.0": "ONE MONTH",
+    "2.0": "TWO MONTHS",
+    "3.0": "THREE MONTHS",
+    "4.0": "FOUR MONTHS",
+    "5.0": "FIVE MONTHS",
+    "6.0": "SIX MONTHS",
+    "7.0": "SEVEN-TWELVE MONTHS",
+    "8.0": "OVER 12 MONTHS",
+    "9.0": "INDEFINITE PERIOD INDICATING \"SHORT TIME\"",
+    "10.0": "INDEFINITE PERIOD INDICATING \"LONG TIME\"",
+    "11.0": "DON'T KNOW"
+  },
+  "S160B.Q20A": {
+    "0.0": "NO ANSWER",
+    "1.0": "YES, SEVERAL TIMES",
+    "2.0": "YES, A FEW TIMES",
+    "3.0": "NO, NEVER"
+  },
+  "S160B.Q20B": {
+    "0.0": "NO ANSWER",
+    "2.0": "IT IS FAIR",
+    "NaN": "QUESTION 20C NOT CODED.",
+    "1.0": "IT IS VERY GOOD",
+    "3.0": "IT IS POOR"
+  },
+  "S160B.Q21A": {
+    "0.0": "NO ANSWER",
+    "2.0": "IT HAS GIVEN SOME TROUBLE, NOTHING WRITTEN IN",
+    "NaN": "QUESTION 21B NOT CODED.",
+    "1.0": "IT IS O.K.",
+    "3.0": "IT HAS GIVEN SOME TROUBLE, SOMETHING WRITTEN IN"
+  },
+  "S160B.Q22": {
+    "0.0": "NO ANSWER",
+    "1.0": "ALMOST ALWAYS",
+    "2.0": "USUALLY",
+    "3.0": "NOT VERY OFTEN",
+    "4.0": "ALMOST NEVER"
+  },
+  "S160B.Q23": {
+    "0.0": "NO ANSWER",
+    "1.0": "NO",
+    "2.0": "YES"
+  },
+  "S160B.Q24": {
+    "0.0": "NO COMMENT",
+    "1.0": "ANY COMMENT"
+  },
+  "S160B.Q25": {
+    "0.0": "NO ANSWER",
+    "1.0": "USUALLY CARRY IT ON ME",
+    "2.0": "USUALLY LEAVE IT IN A CONVENIENT VEHICLE",
+    "3.0": "HAVE IT IN STORAGE WITH THE SERVICE COMPANY",
+    "4.0": "SOMEWHERE ELSE, PLACE SPECIFIED",
+    "5.0": "SOMEWHERE ELSE, PLACE NOT SPECIFIED",
+    "6.0": "I DO NOT HAVE A GAS MASK"
+  },
+  "S160B.Q26A": {
+    "0.0": "NO ANSWER",
+    "1.0": "NO",
+    "2.0": "YES"
+  },
+  "S160B.Q26B": {
+    "0.0": "NO ANSWER",
+    "1.0": "NO",
+    "2.0": "YES"
+  }
+}

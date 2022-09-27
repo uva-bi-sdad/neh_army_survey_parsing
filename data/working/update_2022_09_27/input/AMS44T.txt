@@ -1,0 +1,1752 @@
+FORMFORM
+            answer_label answer_value raw_counts relative_frequency
+0  S-044T - TOTAL SAMPLE          1.0       4451                1.0
+
+
+
+S44T.Q1 WHAT IS YOUR RANK OR GRADE?
+                                          answer_label answer_value raw_counts relative_frequency
+0                                   NO CODE OR NO DATA          0.0         10                0.0
+1                       PRIVATE OR PRIVATE FIRST CLASS          1.0       2859               0.64
+2                     CORPORAL OR TECHNICIAN 5TH GRADE          2.0        727               0.16
+3  SERGEANT (ANY GRADE) OR TECHNICIAN 3RD OR 4TH GRADE          3.0        834               0.19
+4                                            NO ANSWER          4.0         21                0.0
+
+
+
+S44T.Q2 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+          answer_label answer_value raw_counts relative_frequency
+0   NO CODE OR NO DATA          0.0          9                0.0
+1  19 YEARS OR YOUNGER          1.0        198               0.04
+2             20 YEARS          2.0        342               0.08
+3       21 TO 24 YEARS          3.0       1747               0.39
+4       25 TO 27 YEARS          4.0        841               0.19
+5       28 TO 29 YEARS          5.0        372               0.08
+6       30 TO 34 YEARS          6.0        573               0.13
+7       35 TO 37 YEARS          7.0        257               0.06
+8    38 YEARS OR OLDER          8.0        104               0.02
+9            NO ANSWER          9.0          8                0.0
+
+
+
+S44T.Q3 ARE YOU:
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          9                0.0
+1              SINGLE          1.0       2943               0.66
+2             MARRIED          2.0       1281               0.29
+3            DIVORCED          3.0        101               0.02
+4           SEPARATED          4.0         48               0.01
+5             WIDOWED          5.0         10                0.0
+6           NO ANSWER          6.0         59               0.01
+
+
+
+S44T.Q4 IN WHAT STATE OF THE UNITED STATES DID YOU SPEND MOST OF THE LAST FIVE YEARS OF YOUR CIVILIAN LIFE? E. SECTION:
+                                                                                                                answer_label answer_value raw_counts relative_frequency
+0                                       NEW ENGLAND: CONNECTICUT, MAINE, MASSACHUSETTS, NEW HAMPSHIRE, RHODE ISLAND, VERMONT          1.0        291               0.07
+1                                                                        MIDDLE ATLANTIC: NEW JERSEY, NEW YORK, PENNSYLVANIA          2.0       1103               0.25
+2                                                           EAST NORTH CENTRAL: ILLINOIS, INDIANA, MICHIGAN, OHIO, WISCONSIN          3.0        859               0.19
+3                                WEST NORTH CENTRAL: IOWA, KANSAS, MINNESOTA, MISSOURI, NEBRASKA, NORTH DAKOTA, SOUTH DAKOTA          4.0        299               0.07
+4   SOUTH ATLANTIC: DELAWARE, DISTRICT OF COLUMBIA, FLORIDA, GEORGIA, MARYLAND, NORTH CAROLINA, SOUTH CAROLINA, VIRGINIA, WE          5.0        498               0.11
+5                                                              EAST SOUTH CENTRAL: ALABAMA, KENTUCKY, MISSISSIPPI, TENNESSEE          6.0        344               0.08
+6                                                                   WEST SOUTH CENTRAL: ARKANSAS, LOUISIANA, OKLAHOMA, TEXAS          7.0        267               0.06
+7                                             MOUNTAIN: ARIZONA, COLORADO, IDAHO, MONTANA, NEVADA, NEW MEXICO, UTAH, WYOMING          8.0        120               0.03
+8                                                                                    PACIFIC: CALIFORNIA, OREGON, WASHINGTON          9.0        248               0.06
+9                                                                                                  FOREIGN - U.S. POSSESSION         10.0          4                0.0
+10                                                                                                        FOREIGN - NOT U.S.         11.0          2                0.0
+11                                                                                                U.S. - STATE NOT SPECIFIED         12.0         18                0.0
+12                                                                                                                 NO ANSWER         13.0        398               0.09
+
+
+
+S44T.Q5 HOW DID YOU COME INTO THE ARMY?
+                  answer_label answer_value raw_counts relative_frequency
+0           NO CODE OR NO DATA          0.0         11                0.0
+1                I WAS DRAFTED          1.0       3219               0.72
+2                I VOLUNTEERED          2.0       1110               0.25
+3  I WAS IN THE NATIONAL GUARD          3.0        101               0.02
+4                    NO ANSWER          4.0         10                0.0
+
+
+
+S44T.Q6 HOW LONG HAVE YOU BEEN IN THE ARMY? E. IF YOU HAVE SERVED PREVIOUSLY IN THE ARMY, CHECK THE LENGTH OF TIME SINCE YOU ENTERED THIS LAST TIME. IF YOU WERE A NATIONAL GUARDSMAN, GIVE THE LENGTH OF TIME SINCE YOUR OUTFIT ENTERED THE ARMY.
+                   answer_label answer_value raw_counts relative_frequency
+0            NO CODE OR NO DATA          0.0         10                0.0
+1              3 MONTHS OR LESS          1.0        246               0.06
+2  OVER 3 MONTHS UP TO 6 MONTHS          2.0       1229               0.28
+3    OVER 6 MONTHS UP TO 1 YEAR          3.0       1485               0.33
+4     OVER 1 YEAR UP TO 2 YEARS          4.0        819               0.18
+5                  OVER 2 YEARS          5.0        657               0.15
+6                     NO ANSWER          6.0          5                0.0
+
+
+
+S44T.Q7 WHERE WERE YOU LIVING BEFORE YOU ENTERED THE ARMY?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                NO CODE OR NO DATA          0.0         10                0.0
+1                       ON A FARM OR IN THE COUNTRY          1.0        962               0.22
+2         IN A SMALL TOWN (FEWER THAN 2,500 PEOPLE)          2.0        502               0.11
+3  IN A TOWN (WITH BETWEEN 2,500 AND 25,000 PEOPLE)          3.0        853               0.19
+4     IN A CITY (BETWEEN 25,000 AND 100,000 PEOPLE)          4.0        736               0.17
+5        IN A LARGE CITY (MORE THAN 100,000 PEOPLE)          5.0       1383               0.31
+6                                         NO ANSWER          6.0          5                0.0
+
+
+
+S44T.Q8 HOW FAR DID YOU GO IN SCHOOL?
+                      answer_label answer_value raw_counts relative_frequency
+0               NO CODE OR NO DATA          0.0         11                0.0
+1              LESS THAN 6TH GRADE          1.0        153               0.03
+2               FINISHED 6TH GRADE          2.0        156               0.04
+3               FINISHED 7TH GRADE          3.0        289               0.06
+4               FINISHED 8TH GRADE          4.0        745               0.17
+5                 SOME HIGH SCHOOL          5.0       1265               0.28
+6       GRADUATED FROM HIGH SCHOOL          6.0       1232               0.28
+7  SOME COLLEGE BUT DID NOT FINISH          7.0        453                0.1
+8           GRADUATED FROM COLLEGE          8.0        140               0.03
+9                        NO ANSWER          9.0          7                0.0
+
+
+
+S44T.Q9 ARE YOU LIMITED SERVICE?
+                   answer_label answer_value raw_counts relative_frequency
+0            NO CODE OR NO DATA          0.0         13                0.0
+1     YES, I AM LIMITED SERVICE          1.0        755               0.17
+2  NO, I AM NOT LIMITED SERVICE          2.0       3139               0.71
+3                    DON'T KNOW          3.0        492               0.11
+4                     NO ANSWER          4.0         52               0.01
+
+
+
+S44T.Q10 WHAT BRANCH OF THE ARMY ARE YOU IN?
+                         answer_label answer_value raw_counts relative_frequency
+0                  NO CODE OR NO DATA          0.0          9                0.0
+1                           ENGINEERS          1.0        387               0.09
+2                     FIELD ARTILLERY          2.0        333               0.07
+3                 QUARTERMASTER CORPS          3.0        403               0.09
+4                            INFANTRY          4.0        313               0.07
+5                  MEDICAL DEPARTMENT          5.0        351               0.08
+6                       ARMORED FORCE          6.0        356               0.08
+7                        SIGNAL CORPS          7.0        470               0.11
+8   COAST ARTILLERY AND ANTI-AIRCRAFT          8.0        456                0.1
+9                           AIR CORPS          9.0        397               0.09
+10                ORDNANCE DEPARTMENT         11.0        345               0.08
+11           CHEMICAL WARFARE SERVICE         12.0        221               0.05
+12                    MILITARY POLICE         13.0        410               0.09
+
+
+
+S44T.Q11.1 WHAT OTHER BRANCHES HAVE YOU EVER BEEN IN?
+  answer_label answer_value raw_counts relative_frequency
+0    ENGINEERS          1.0         61               0.01
+1   NOT CHOSEN          2.0       4390               0.99
+
+
+
+S44T.Q11.2WHAT OTHER BRANCHES HAVE YOU EVER BEEN IN?
+      answer_label answer_value raw_counts relative_frequency
+0  FIELD ARTILLERY          1.0        131               0.03
+1       NOT CHOSEN          2.0       4320               0.97
+
+
+
+S44T.Q11.3WHAT OTHER BRANCHES HAVE YOU EVER BEEN IN?
+          answer_label answer_value raw_counts relative_frequency
+0  QUARTERMASTER CORPS          1.0        153               0.03
+1           NOT CHOSEN          2.0       4298               0.97
+
+
+
+S44T.Q11.4WHAT OTHER BRANCHES HAVE YOU EVER BEEN IN?
+  answer_label answer_value raw_counts relative_frequency
+0     INFANTRY          1.0        477               0.11
+1   NOT CHOSEN          2.0       3974               0.89
+
+
+
+S44T.Q11.5WHAT OTHER BRANCHES HAVE YOU EVER BEEN IN?
+         answer_label answer_value raw_counts relative_frequency
+0  MEDICAL DEPARTMENT          1.0         37               0.01
+1          NOT CHOSEN          2.0       4414               0.99
+
+
+
+S44T.Q11.6WHAT OTHER BRANCHES HAVE YOU EVER BEEN IN?
+    answer_label answer_value raw_counts relative_frequency
+0  ARMORED FORCE          1.0         32               0.01
+1     NOT CHOSEN          2.0       4419               0.99
+
+
+
+S44T.Q11.7WHAT OTHER BRANCHES HAVE YOU EVER BEEN IN?
+   answer_label answer_value raw_counts relative_frequency
+0  SIGNAL CORPS          1.0         29               0.01
+1    NOT CHOSEN          2.0       4422               0.99
+
+
+
+S44T.Q11.8WHAT OTHER BRANCHES HAVE YOU EVER BEEN IN?
+                        answer_label answer_value raw_counts relative_frequency
+0  COAST ARTILLERY AND ANTI-AIRCRAFT          1.0         86               0.02
+1                         NOT CHOSEN          2.0       4365               0.98
+
+
+
+S44T.Q11.9WHAT OTHER BRANCHES HAVE YOU EVER BEEN IN?
+  answer_label answer_value raw_counts relative_frequency
+0    AIR CORPS          1.0         43               0.01
+1   NOT CHOSEN          2.0       4408               0.99
+
+
+
+S44T.Q11.10WHAT OTHER BRANCHES HAVE YOU EVER BEEN IN?
+           answer_label answer_value raw_counts relative_frequency
+0  TRANSPORTATION CORPS          1.0         16                0.0
+1            NOT CHOSEN          2.0       4435                1.0
+
+
+
+S44T.Q11.11WHAT OTHER BRANCHES HAVE YOU EVER BEEN IN?
+          answer_label answer_value raw_counts relative_frequency
+0  ORDNANCE DEPARTMENT          1.0         33               0.01
+1           NOT CHOSEN          2.0       4418               0.99
+
+
+
+S44T.Q11.12WHAT OTHER BRANCHES HAVE YOU EVER BEEN IN?
+               answer_label answer_value raw_counts relative_frequency
+0  CHEMICAL WARFARE SERVICE          1.0         22                0.0
+1                NOT CHOSEN          2.0       4429                1.0
+
+
+
+S44T.Q11.13WHAT OTHER BRANCHES HAVE YOU EVER BEEN IN?
+      answer_label answer_value raw_counts relative_frequency
+0  MILITARY POLICE          1.0         29               0.01
+1       NOT CHOSEN          2.0       4422               0.99
+
+
+
+S44T.Q11.14WHAT OTHER BRANCHES HAVE YOU EVER BEEN IN?
+  answer_label answer_value raw_counts relative_frequency
+0        OTHER          1.0        135               0.03
+1   NOT CHOSEN          2.0       4316               0.97
+
+
+
+S44T.Q11.15WHAT OTHER BRANCHES HAVE YOU EVER BEEN IN?
+                  answer_label answer_value raw_counts relative_frequency
+0  I HAVEN'T BEEN IN ANY OTHER          1.0       3162               0.71
+1                   NOT CHOSEN          2.0       1289               0.29
+
+
+
+S44T.Q11.16WHAT OTHER BRANCHES HAVE YOU EVER BEEN IN?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0        189               0.04
+1   NOT CHOSEN          2.0       4262               0.96
+
+
+
+S44T.Q12 WHICH PART OF THE ARMY IS YOUR OUTFIT IN?
+                                                         answer_label answer_value raw_counts relative_frequency
+0                                                  NO CODE OR NO DATA          0.0         10                0.0
+1                                         ARMY GROUND FORCES (A.G.F.)          1.0       2180               0.49
+2                                            ARMY AIR FORCES (A.A.F.)          2.0        586               0.13
+3  ARMY SERVICE FORCES (A.S.F. - FORMERLY SERVICES OF SUPPLY, S.O.S.)          3.0        793               0.18
+4                                                     DEFENSE COMMAND          4.0        360               0.08
+5                                                          DON'T KNOW          5.0        410               0.09
+6                                                           NO ANSWER          6.0        112               0.03
+
+
+
+S44T.Q13 HOW MUCH DO YOU KNOW ABOUT THE DUTIES AND JOBS OF THE ARMY SERVICE FORCES (A.S.F.) FORMERLY KNOWN AS SERVICES OF SUPPLY (S.O.S.)?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0         10                0.0
+1        A GREAT DEAL          1.0        155               0.03
+2       A FAIR AMOUNT          2.0       1822               0.41
+3         VERY LITTLE          3.0       1954               0.44
+4   NEVER HEARD OF IT          4.0        449                0.1
+5           NO ANSWER          5.0         61               0.01
+
+
+
+S44T.Q14.1 ARE THERE ANY BRANCHES OF THE ARMY WHOSE WORK HAS NOT BEEN FULLY EXPLAINED TO YOU IN BOOKS, LECTURES OR MOVIES?
+  answer_label answer_value raw_counts relative_frequency
+0    ENGINEERS          1.0       1135               0.25
+1   NOT CHOSEN          2.0       3316               0.75
+
+
+
+S44T.Q14.2ARE THERE ANY BRANCHES OF THE ARMY WHOSE WORK HAS NOT BEEN FULLY EXPLAINED TO YOU IN BOOKS, LECTURES OR MOVIES?
+      answer_label answer_value raw_counts relative_frequency
+0  FIELD ARTILLERY          1.0       1095               0.25
+1       NOT CHOSEN          2.0       3356               0.75
+
+
+
+S44T.Q14.3ARE THERE ANY BRANCHES OF THE ARMY WHOSE WORK HAS NOT BEEN FULLY EXPLAINED TO YOU IN BOOKS, LECTURES OR MOVIES?
+          answer_label answer_value raw_counts relative_frequency
+0  QUARTERMASTER CORPS          1.0       1072               0.24
+1           NOT CHOSEN          2.0       3379               0.76
+
+
+
+S44T.Q14.4ARE THERE ANY BRANCHES OF THE ARMY WHOSE WORK HAS NOT BEEN FULLY EXPLAINED TO YOU IN BOOKS, LECTURES OR MOVIES?
+  answer_label answer_value raw_counts relative_frequency
+0     INFANTRY          1.0        605               0.14
+1   NOT CHOSEN          2.0       3846               0.86
+
+
+
+S44T.Q14.5ARE THERE ANY BRANCHES OF THE ARMY WHOSE WORK HAS NOT BEEN FULLY EXPLAINED TO YOU IN BOOKS, LECTURES OR MOVIES?
+         answer_label answer_value raw_counts relative_frequency
+0  MEDICAL DEPARTMENT          1.0        652               0.15
+1          NOT CHOSEN          2.0       3799               0.85
+
+
+
+S44T.Q14.6ARE THERE ANY BRANCHES OF THE ARMY WHOSE WORK HAS NOT BEEN FULLY EXPLAINED TO YOU IN BOOKS, LECTURES OR MOVIES?
+    answer_label answer_value raw_counts relative_frequency
+0  ARMORED FORCE          1.0       1169               0.26
+1     NOT CHOSEN          2.0       3282               0.74
+
+
+
+S44T.Q14.7ARE THERE ANY BRANCHES OF THE ARMY WHOSE WORK HAS NOT BEEN FULLY EXPLAINED TO YOU IN BOOKS, LECTURES OR MOVIES?
+   answer_label answer_value raw_counts relative_frequency
+0  SIGNAL CORPS          1.0       1211               0.27
+1    NOT CHOSEN          2.0       3240               0.73
+
+
+
+S44T.Q14.8ARE THERE ANY BRANCHES OF THE ARMY WHOSE WORK HAS NOT BEEN FULLY EXPLAINED TO YOU IN BOOKS, LECTURES OR MOVIES?
+                        answer_label answer_value raw_counts relative_frequency
+0  COAST ARTILLERY AND ANTI-AIRCRAFT          1.0       1476               0.33
+1                         NOT CHOSEN          2.0       2975               0.67
+
+
+
+S44T.Q14.9ARE THERE ANY BRANCHES OF THE ARMY WHOSE WORK HAS NOT BEEN FULLY EXPLAINED TO YOU IN BOOKS, LECTURES OR MOVIES?
+  answer_label answer_value raw_counts relative_frequency
+0    AIR CORPS          1.0       1136               0.26
+1   NOT CHOSEN          2.0       3315               0.74
+
+
+
+S44T.Q14.10ARE THERE ANY BRANCHES OF THE ARMY WHOSE WORK HAS NOT BEEN FULLY EXPLAINED TO YOU IN BOOKS, LECTURES OR MOVIES?
+           answer_label answer_value raw_counts relative_frequency
+0  TRANSPORTATION CORPS          1.0       1278               0.29
+1            NOT CHOSEN          2.0       3173               0.71
+
+
+
+S44T.Q14.11ARE THERE ANY BRANCHES OF THE ARMY WHOSE WORK HAS NOT BEEN FULLY EXPLAINED TO YOU IN BOOKS, LECTURES OR MOVIES?
+          answer_label answer_value raw_counts relative_frequency
+0  ORDNANCE DEPARTMENT          1.0       1220               0.27
+1           NOT CHOSEN          2.0       3231               0.73
+
+
+
+S44T.Q14.12ARE THERE ANY BRANCHES OF THE ARMY WHOSE WORK HAS NOT BEEN FULLY EXPLAINED TO YOU IN BOOKS, LECTURES OR MOVIES?
+               answer_label answer_value raw_counts relative_frequency
+0  CHEMICAL WARFARE SERVICE          1.0        822               0.18
+1                NOT CHOSEN          2.0       3629               0.82
+
+
+
+S44T.Q14.13ARE THERE ANY BRANCHES OF THE ARMY WHOSE WORK HAS NOT BEEN FULLY EXPLAINED TO YOU IN BOOKS, LECTURES OR MOVIES?
+      answer_label answer_value raw_counts relative_frequency
+0  MILITARY POLICE          1.0       1057               0.24
+1       NOT CHOSEN          2.0       3394               0.76
+
+
+
+S44T.Q14.14ARE THERE ANY BRANCHES OF THE ARMY WHOSE WORK HAS NOT BEEN FULLY EXPLAINED TO YOU IN BOOKS, LECTURES OR MOVIES?
+                          answer_label answer_value raw_counts relative_frequency
+0  ALL HAVE BEEN FULLY EXPLAINED TO ME          1.0       1287               0.29
+1                           NOT CHOSEN          2.0       3164               0.71
+
+
+
+S44T.Q14.15ARE THERE ANY BRANCHES OF THE ARMY WHOSE WORK HAS NOT BEEN FULLY EXPLAINED TO YOU IN BOOKS, LECTURES OR MOVIES?
+               answer_label answer_value raw_counts relative_frequency
+0  NONE HAVE BEEN EXPLAINED          1.0        141               0.03
+1                NOT CHOSEN          2.0       4310               0.97
+
+
+
+S44T.Q14.16ARE THERE ANY BRANCHES OF THE ARMY WHOSE WORK HAS NOT BEEN FULLY EXPLAINED TO YOU IN BOOKS, LECTURES OR MOVIES?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0        368               0.08
+1   NOT CHOSEN          2.0       4083               0.92
+
+
+
+S44T.V16C SOURCE OF INFORMATION CODED IN V.16D:
+                                                                      answer_label answer_value raw_counts relative_frequency
+0                                                               NO CODE OR NO DATA          0.0         10                0.0
+1                        "YES" CHECKED IN Q.16A (SO THAT Q.15 IS CODED IN COL. 57)          1.0       4026                0.9
+2  "NO" CHECKED IN Q.16A AND NO ANSWER IN Q.16B (SO THAT Q.15 IS CODED IN COL. 57)          2.0         24               0.01
+3  "NO" CHECKED IN Q.16A AND Q.16B IS ANSWERED (SO THAT Q.16B IS CODED IN COL. 57)          3.0        356               0.08
+4                                             NO ANSWER TO EITHER Q.15 AND/OR Q.16          4.0         35               0.01
+
+
+
+S44T.Q16D OCCUPATION CODE:
+                             answer_label answer_value raw_counts relative_frequency
+0                      NO CODE OR NO DATA          0.0         10                0.0
+1                              COMBAT JOB          1.0        911                0.2
+2    NON-COMBAT, PROFESSIONAL OR CLERICAL          2.0       1008               0.23
+3                      NON-COMBAT SKILLED          3.0       1189               0.27
+4  NON-COMBAT, SEMI-SKILLED AND UNSKILLED          4.0        942               0.21
+5                                   BASIC          5.0         65               0.01
+6                    COMBAT AND TECHNICAL          6.0         78               0.02
+7                            UNCLASSIFIED          7.0         31               0.01
+8                               NO ANSWER          8.0        217               0.05
+
+
+
+S44T.Q17A.x WERE YOU EVER GIVEN A CHANCE TO ASK FOR THE KIND OF ARMY JOB YOU WANTED?  Q.17B. IF YOU HAD A CHANCE TO ASK FOR THE KIND OF ARMY JOB YOU WANTED, DID YOU GET THE ONE YOU WANTED?
+                                      answer_label answer_value raw_counts relative_frequency
+0                               NO CODE OR NO DATA          0.0         10                0.0
+1                   YES, I GOT THE ONE I ASKED FOR          1.0       1311               0.29
+2            NO, I DID NOT GET THE ONE I ASKED FOR          2.0       1039               0.23
+3  YES TO PART (A) AND A STATEMENT "DIDN'T CHOOSE"          3.0         14                0.0
+4        YES TO PART (A) AND NO ANSWER TO PART (B)          4.0         69               0.02
+5                                   NO TO PART (A)          5.0       1034               0.23
+6               NO TO PART (A) AND YES TO PART (B)          6.0         96               0.02
+7                NO TO PART (A) AND NO TO PART (B)          7.0        842               0.19
+8              NO ANSWER TO EITHER PART (A) OR (B)          8.0         36               0.01
+
+
+
+S44T.Q18 DO YOU FEEL THAT EVERYTHING POSSIBLE HAS BEEN DONE TO PLACE YOU IN THE ARMY JOB WHERE YOU BEST FIT?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0         10                0.0
+1                 YES          1.0       1671               0.38
+2                  NO          2.0       1735               0.39
+3           UNDECIDED          3.0        980               0.22
+4           NO ANSWER          4.0         55               0.01
+
+
+
+S44T.Q19 DO YOU THINK YOUR ABILITY AND EXPERIENCE FIT YOU BETTER FOR SOME OTHER JOB OR DUTY?
+                                 answer_label answer_value raw_counts relative_frequency
+0                          NO CODE OR NO DATA          0.0         11                0.0
+1  YES, I WOULD FIT BETTER IN A DIFFERENT JOB          1.0       2155               0.48
+2     NO, I AM BEST FITTED FOR MY PRESENT JOB          2.0       2106               0.47
+3                                   NO ANSWER          3.0        179               0.04
+
+
+
+S44T.Q20 IF YOU HAD A CHOICE, WHICH ONE OF THESE BRANCHES OF THE ARMY WOULD YOU LIKE TO BE IN?
+                         answer_label answer_value raw_counts relative_frequency
+0                  NO CODE OR NO DATA          0.0         38               0.01
+1                           ENGINEERS          1.0        215               0.05
+2                     FIELD ARTILLERY          2.0        143               0.03
+3                 QUARTERMASTER CORPS          3.0        376               0.08
+4                            INFANTRY          4.0        114               0.03
+5                  MEDICAL DEPARTMENT          5.0        193               0.04
+6                       ARMORED FORCE          6.0        165               0.04
+7                        SIGNAL CORPS          7.0        317               0.07
+8   COAST ARTILLERY AND ANTI-AIRCRAFT          8.0        250               0.06
+9                           AIR CORPS          9.0       1530               0.34
+10               TRANSPORTATION CORPS         10.0        203               0.05
+11                ORDNANCE DEPARTMENT         11.0        333               0.07
+12           CHEMICAL WARFARE SERVICE         12.0         87               0.02
+13                    MILITARY POLICE         13.0        268               0.06
+14                          NO ANSWER         14.0        219               0.05
+
+
+
+S44T.Q20A.1 WHY WOULD YOU CHOOSE THIS BRANCH? E. PERSONAL MOTIVATION:
+                                                                                                           answer_label answer_value raw_counts relative_frequency
+0  FITTED FOR THE WORK: PREVIOUS TRAINING, EXPERIENCE AND EDUCATION; KNOW MOST ABOUT IT (EMPHASIS ON PREVIOUS TRAINING)          1.0       1328                0.3
+1                                                                                                            NOT CHOSEN          2.0       3123                0.7
+
+
+
+S44T.Q20A.2WHY WOULD YOU CHOOSE THIS BRANCH? E. PERSONAL MOTIVATION:
+                                                                                            answer_label answer_value raw_counts relative_frequency
+0  USEFUL IN PEACE TIME OR IN CIVILIAN LIFE; CHANCE TO LEARN SOMETHING (EMPHASIS ON TRAINING FOR FUTURE)          1.0        363               0.08
+1                                                                                             NOT CHOSEN          2.0       4088               0.92
+
+
+
+S44T.Q20A.3WHY WOULD YOU CHOOSE THIS BRANCH? E. PERSONAL MOTIVATION:
+                                                                                          answer_label answer_value raw_counts relative_frequency
+0  CHANCE FOR ADVANCEMENT; CHANCE FOR PROMOTION (AS A PERSONAL AIM; NOT FOR DOING MOST FOR WAR EFFORT)          1.0        151               0.03
+1                                                                                           NOT CHOSEN          2.0       4300               0.97
+
+
+
+S44T.Q20A.4WHY WOULD YOU CHOOSE THIS BRANCH? E. PERSONAL MOTIVATION:
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0  LIKES THE WORK; OR CONNECTED DUTIES; DESIRABLE WORK; INTERESTED IN WORK OR EQUIPMENT; LIKES CERTAIN JOB IN THIS BRANCH (          1.0       1661               0.37
+1                                                                                                                NOT CHOSEN          2.0       2790               0.63
+
+
+
+S44T.Q20A.5WHY WOULD YOU CHOOSE THIS BRANCH? E. PERSONAL MOTIVATION:
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0  CHANCE TO SEE ACTION; HAS EXCITEMENT; GETS INTO COMBAT OR FIGHTING (EMPHASIS ON PERSONAL AIMS; NO IMPLICATION OF BEING B          1.0        156               0.04
+1                                                                                                                NOT CHOSEN          2.0       4295               0.96
+
+
+
+S44T.Q20A.6WHY WOULD YOU CHOOSE THIS BRANCH? E. PERSONAL MOTIVATION:
+                                                answer_label answer_value raw_counts relative_frequency
+0  IT IS MOST HIGHLY THOUGHT OF; OTHERS RECOMMENDED IT TO ME          1.0         20                0.0
+1                                                 NOT CHOSEN          2.0       4431                1.0
+
+
+
+S44T.Q20A.7WHY WOULD YOU CHOOSE THIS BRANCH? E. PERSONAL MOTIVATION:
+                    answer_label answer_value raw_counts relative_frequency
+0  IT IS SAFEST; LEAST DANGEROUS          1.0         10                0.0
+1                     NOT CHOSEN          2.0       4441                1.0
+
+
+
+S44T.Q20A.8WHY WOULD YOU CHOOSE THIS BRANCH? E. PERSONAL MOTIVATION:
+                         answer_label answer_value raw_counts relative_frequency
+0  EASIEST WORK; SOFTEST; "GOLDBRICK"          1.0         17                0.0
+1                          NOT CHOSEN          2.0       4434                1.0
+
+
+
+S44T.Q20A.9WHY WOULD YOU CHOOSE THIS BRANCH? E. PERSONAL MOTIVATION:
+                                                                                           answer_label answer_value raw_counts relative_frequency
+0  INDIVIDUAL'S PHYSICAL CAPACITY; "I AM IN LIMITED SERVICE"; "I DON'T HAVE STRENGTH TO DO COMBAT WORK"          1.0         93               0.02
+1                                                                                            NOT CHOSEN          2.0       4358               0.98
+
+
+
+S44T.Q20A.11WHY WOULD YOU CHOOSE THIS BRANCH? E. PERSONAL MOTIVATION:
+                                                                      answer_label answer_value raw_counts relative_frequency
+0  IMPORTANT (IN THE ARMY OR IN WINNING THE WAR); TOUGHEST JOB (NO MENTION OF "I")          1.0        183               0.04
+1                                                                       NOT CHOSEN          2.0       4268               0.96
+
+
+
+S44T.Q20A.12WHY WOULD YOU CHOOSE THIS BRANCH? E. PERSONAL MOTIVATION:
+                                                                                                   answer_label answer_value raw_counts relative_frequency
+0  IT IS BEST, OR HIGHEST, SERVICE (WITHOUT GIVING ANY REASON, SUCH AS "IMPORTANT" OR "MOST HIGHLY THOUGHT OF")          1.0        107               0.02
+1                                                                               NOT CHOSEN E. OTHER MOTIVATION:          2.0       4344               0.98
+
+
+
+S44T.Q20A.13WHY WOULD YOU CHOOSE THIS BRANCH? E. OTHER MOTIVATION:
+                                                                                                          answer_label answer_value raw_counts relative_frequency
+0  I AM IN IT AND LIKE IT; I DON'T KNOW ABOUT THE OTHERS; I'M IN IT AND IT'S AS GOOD AS ANY (EMPHASIS ON "I AM IN IT")          1.0         90               0.02
+1                                                                                                           NOT CHOSEN          2.0       4361               0.98
+
+
+
+S44T.Q20A.14WHY WOULD YOU CHOOSE THIS BRANCH? E. OTHER MOTIVATION:
+                                     answer_label answer_value raw_counts relative_frequency
+0  HIGH QUALITY PERSONNEL; BEST PEOPLE GO INTO IT          1.0        259               0.06
+1                                      NOT CHOSEN          2.0       4192               0.94
+
+
+
+S44T.Q20A.15WHY WOULD YOU CHOOSE THIS BRANCH? E. OTHER MOTIVATION:
+                           answer_label answer_value raw_counts relative_frequency
+0  EFFICIENCY; LIKES WAY THINGS ARE RUN          1.0         11                0.0
+1                            NOT CHOSEN          2.0       4440                1.0
+
+
+
+S44T.Q20A.16WHY WOULD YOU CHOOSE THIS BRANCH? E. GENERAL:
+                           answer_label answer_value raw_counts relative_frequency
+0  UNINTELLIGIBLE OR IRRELEVANT COMMENT          1.0         18                0.0
+1                            NOT CHOSEN          2.0       4433                1.0
+
+
+
+FORM..1FORM.
+             answer_label answer_value raw_counts relative_frequency
+0   S-044T - TOTAL SAMPLE          1.0        446                0.1
+1  S-044X - CROSS SECTION          2.0        445                0.1
+2       S-044I - INFANTRY          3.0        445                0.1
+
+
+
+S44T.Q20A.17WHY WOULD YOU CHOOSE THIS BRANCH? E. GENERAL:
+            answer_label answer_value raw_counts relative_frequency
+0  DON'T KNOW; UNDECIDED          1.0       4451                1.0
+
+
+
+S44T.Q20A.18WHY WOULD YOU CHOOSE THIS BRANCH? E. GENERAL:
+     answer_label answer_value raw_counts relative_frequency
+0  OTHER COMMENTS          1.0         24               0.01
+1      NOT CHOSEN          2.0       4427               0.99
+
+
+
+S44T.Q21 WOULD YOU CHANGE TO SOME OTHER ARMY JOB IF GIVEN A CHANCE?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0       4451                1.0
+
+
+
+S44T.Q22 WHAT WOULD YOU SAY WAS MORE IMPORTANT TO YOU PERSONALLY - THE PARTICULAR KIND OF JOB YOU GET TO DO, OR THE BRANCH OF THE ARMY YOU GET INTO?
+                        answer_label answer_value raw_counts relative_frequency
+0                 NO CODE OR NO DATA          0.0         14                0.0
+1              THE KIND OF JOB I GET          1.0       2403               0.54
+2  THE BRANCH OF THE ARMY I GET INTO          2.0       1223               0.27
+3             IT MAKES NO DIFFERENCE          3.0        705               0.16
+4         BOTH ARE EQUALLY IMPORTANT          4.0        106               0.02
+
+
+
+S44T.Q23 HAVE YOU LEARNED ANY SKILLS IN THE ARMY WHICH WILL HELP YOU GET A GOOD JOB WHEN YOU GET OUT?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0         11                0.0
+1                 YES          1.0       1811               0.41
+2                  NO          2.0        710               0.16
+3          DON'T KNOW          3.0        229               0.05
+4           NO ANSWER          4.0       1407               0.32
+
+
+
+S44T.Q24 DOES THE KIND OF ARMY JOB YOU ARE NOW DOING OFFER A GOOD CHANCE FOR PROMOTION?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0         10                0.0
+1                 YES          1.0       1366               0.31
+2                  NO          2.0       2674                0.6
+3          DON'T KNOW          3.0        366               0.08
+4           NO ANSWER          4.0         35               0.01
+
+
+
+S44T.Q25 HOW WELL TRAINED ARE YOU FOR YOUR MAIN ARMY JOB OR DUTY?
+          answer_label answer_value raw_counts relative_frequency
+0   NO CODE OR NO DATA          0.0         10                0.0
+1    VERY WELL TRAINED          1.0       1922               0.43
+2  FAIRLY WELL TRAINED          2.0       1808               0.41
+3       POORLY TRAINED          3.0        674               0.15
+4            NO ANSWER          4.0         37               0.01
+
+
+
+S44T.Q26 HOW INTERESTED ARE YOU IN YOUR ARMY JOB?
+            answer_label answer_value raw_counts relative_frequency
+0     NO CODE OR NO DATA          0.0         10                0.0
+1   VERY MUCH INTERESTED          1.0       1388               0.31
+2  A LITTLE BUT NOT MUCH          2.0       2529               0.57
+3  NOT INTERESTED AT ALL          3.0        467                0.1
+4              NO ANSWER          4.0         57               0.01
+
+
+
+S44T.Q27 DO YOU USUALLY FEEL THAT WHAT YOU ARE DOING IN THE ARMY IS WORTHWHILE OR NOT?
+                          answer_label answer_value raw_counts relative_frequency
+0                   NO CODE OR NO DATA          0.0         11                0.0
+1  I USUALLY FEEL IT IS NOT WORTHWHILE          1.0       2613               0.59
+2      I USUALLY FEEL IT IS WORTHWHILE          2.0       1352                0.3
+3                            UNDECIDED          3.0        423                0.1
+4                            NO ANSWER          4.0         52               0.01
+
+
+
+S44T.Q28 HOW SATISFIED ARE YOU ABOUT BEING IN YOUR PRESENT ARMY JOB INSTEAD OF SOME OTHER JOB?
+                            answer_label answer_value raw_counts relative_frequency
+0                     NO CODE OR NO DATA          0.0         10                0.0
+1                         VERY SATISFIED          1.0        753               0.17
+2                              SATISFIED          2.0       3111                0.7
+3  IT DOES NOT MAKE ANY DIFFERENCE TO ME          3.0        542               0.12
+4                           DISSATISFIED          4.0         35               0.01
+
+
+
+S44T.Q29 ON THE WHOLE, DO YOU THINK THE ARMY IS GIVING YOU A CHANCE TO SHOW WHAT YOU CAN DO?
+           answer_label answer_value raw_counts relative_frequency
+0    NO CODE OR NO DATA          0.0         10                0.0
+1    A VERY GOOD CHANCE          1.0        754               0.17
+2  A FAIRLY GOOD CHANCE          2.0       1625               0.37
+3  NOT MUCH OF A CHANCE          3.0        545               0.12
+4      NO CHANCE AT ALL          4.0       1076               0.24
+5             UNDECIDED          5.0        397               0.09
+6             NO ANSWER          6.0         44               0.01
+
+
+
+S44T.Q30 HOW DO YOU FEEL MOST OF THE TIME, SATISFIED AND IN GOOD SPIRITS OR DISSATISFIED AND IN LOW SPIRITS?
+                                   answer_label answer_value raw_counts relative_frequency
+0                            NO CODE OR NO DATA          0.0         10                0.0
+1                 SATISFIED AND IN GOOD SPIRITS          1.0        927               0.21
+2  I AM UP HALF THE TIME AND DOWN HALF THE TIME          2.0       1581               0.36
+3               DISSATISFIED AND IN LOW SPIRITS          3.0       1243               0.28
+4                                     NO ANSWER          4.0        473               0.11
+
+
+
+S44T.Q31 DO YOU THINK YOU CAN MAKE GOOD IN THE ARMY?
+                         answer_label answer_value raw_counts relative_frequency
+0                  NO CODE OR NO DATA          0.0         10                0.0
+1  I FEEL PRETTY SURE I CAN MAKE GOOD          1.0       1508               0.34
+2    I AM NOT SO SURE I CAN MAKE GOOD          2.0       2318               0.52
+3                           UNDECIDED          3.0        566               0.13
+4                           NO ANSWER          4.0         49               0.01
+
+
+
+S44T.Q32 IN GENERAL, WHAT SORT OF A TIME DO YOU HAVE IN THE ARMY?
+                  answer_label answer_value raw_counts relative_frequency
+0           NO CODE OR NO DATA          0.0         10                0.0
+1    I HAVE A PRETTY GOOD TIME          1.0       3086               0.69
+2      IT IS ABOUT FIFTY-FIFTY          2.0        846               0.19
+3  I HAVE A PRETTY ROTTEN TIME          3.0        460                0.1
+4                    NO ANSWER          4.0         49               0.01
+
+
+
+S44T.Q33 ARE YOU EVER WORRIED AND UPSET?
+                         answer_label answer_value raw_counts relative_frequency
+0                  NO CODE OR NO DATA          0.0         10                0.0
+1  I AM HARDLY EVER WORRIED AND UPSET          1.0       1510               0.34
+2                      I AM SOMETIMES          2.0       2360               0.53
+3        I AM OFTEN WORRIED AND UPSET          3.0        530               0.12
+4                           NO ANSWER          4.0         41               0.01
+
+
+
+S44T.Q34 IF IT WERE UP TO YOU, WHAT KIND OF OUTFIT WOULD YOU RATHER BE IN?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                NO CODE OR NO DATA          0.0         10                0.0
+1                       IN A COMBAT OUTFIT OVERSEAS          1.0       1283               0.29
+2                   IN A NON-COMBAT OUTFIT OVERSEAS          2.0       2461               0.55
+3  IN AN OUTFIT THAT WILL STAY IN THE UNITED STATES          3.0        656               0.15
+4                                         NO ANSWER          4.0         41               0.01
+
+
+
+S44T.Q35 SUPPOSE YOUR OUTFIT WENT OVERSEAS, WOULD YOU RATHER HAVE AN ACTUAL FIGHTING JOB OR HAVE SOME OTHER JOB?
+                                 answer_label answer_value raw_counts relative_frequency
+0                          NO CODE OR NO DATA          0.0         10                0.0
+1  I WOULD RATHER HAVE AN ACTUAL FIGHTING JOB          1.0       1982               0.45
+2          I WOULD RATHER HAVE SOME OTHER JOB          2.0        665               0.15
+3                                   UNDECIDED          3.0       1649               0.37
+4                                   NO ANSWER          4.0        145               0.03
+
+
+
+S44T.Q36 WHICH OF THE FOLLOWING STATEMENTS BEST TELLS THE WAY YOU FEEL ABOUT GETTING INTO THE FIGHTING?
+                                              answer_label answer_value raw_counts relative_frequency
+0                                       NO CODE OR NO DATA          0.0         10                0.0
+1  OTHER COMMENTS INDICATING THAT MAN DOES NOT WISH COMBAT         10.0       2221                0.5
+2                                                ALL OTHER         11.0         41               0.01
+
+
+
+S44T.Q37 IF IT WERE UP TO YOU TO CHOOSE, DO YOU THINK YOU COULD DO MORE FOR YOUR COUNTRY AS A SOLDIER OR AS A WORKER IN A WAR JOB?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0        198               0.04
+1        AS A SOLDIER          1.0       1092               0.25
+2     AS A WAR WORKER          2.0       1282               0.29
+3           UNDECIDED          3.0       1303               0.29
+4           NO ANSWER          4.0        394               0.09
+
+
+
+S44T.Q38A WHICH OF THESE TWO GROUPS DO YOU THINK SHOULD BE DRAFTED FIRST?
+                                          answer_label answer_value raw_counts relative_frequency
+0                                   NO CODE OR NO DATA          0.0         10                0.0
+1  MARRIED MEN WITH CHILDREN, NOT MAKING WAR MATERIALS          1.0       1784                0.4
+2                      SINGLE MEN MAKING WAR MATERIALS          2.0       2005               0.45
+3                                            NO ANSWER          3.0        596               0.13
+
+
+
+S44T.Q38B WHICH OF THESE TWO GROUPS DO YOU THINK SHOULD BE DRAFTED FIRST?
+                      answer_label answer_value raw_counts relative_frequency
+0               NO CODE OR NO DATA          0.0         10                0.0
+1  SINGLE MEN MAKING WAR MATERIALS          1.0       1609               0.36
+2      SINGLE MEN WORKING ON FARMS          2.0       2702               0.61
+3                        NO ANSWER          3.0        130               0.03
+
+
+
+S44T.Q38C WHICH OF THESE TWO GROUPS DO YOU THINK SHOULD BE DRAFTED FIRST?
+                                          answer_label answer_value raw_counts relative_frequency
+0                                   NO CODE OR NO DATA          0.0         12                0.0
+1  MARRIED MEN WITH CHILDREN, NOT MAKING WAR MATERIALS          1.0       2607               0.59
+2                          SINGLE MEN WORKING ON FARMS          2.0       1570               0.35
+3                                            NO ANSWER          3.0        262               0.06
+
+
+
+S44T.Q39 GRANTING THAT BOTH OF THESE THINGS ARE IMPORTANT, WHICH ONE IS MOST IMPORTANT TO DO RIGHT NOW - INCREASE THE SIZE OF OUR ARMED FORCES, OR INCREASE THE NUMBER OF FARM AND WAR WORKERS?
+                              answer_label answer_value raw_counts relative_frequency
+0                       NO CODE OR NO DATA          0.0         11                0.0
+1            INCREASE SIZE OF ARMED FORCES          1.0       2189               0.49
+2  INCREASE NUMBER OF FARM AND WAR WORKERS          2.0       2102               0.47
+3                                NO ANSWER          3.0        149               0.03
+
+
+
+S44T.Q40 WHICH ONE OF THESE BRANCHES DO YOU THINK WOULD GIVE YOU THE BEST TRAINING FOR A CIVILIAN JOB AFTER THE WAR?
+           answer_label answer_value raw_counts relative_frequency
+0    NO CODE OR NO DATA          0.0         17                0.0
+1  TRANSPORTATION CORPS         10.0        750               0.17
+2   ORDNANCE DEPARTMENT         11.0        396               0.09
+
+
+
+S44T.Q41 WHICH ONE OF THESE BRANCHES WOULD YOU SAY HAS THE MOST DIRTY AND DISAGREEABLE JOBS?
+           answer_label answer_value raw_counts relative_frequency
+0    NO CODE OR NO DATA          0.0        151               0.03
+1             ENGINEERS          1.0         72               0.02
+2  TRANSPORTATION CORPS         10.0        785               0.18
+3   ORDNANCE DEPARTMENT         11.0        378               0.08
+
+
+
+S44T.Q42 WHICH ONE OF THESE BRANCHES DO YOU THINK WORKS ITS SOLDIERS THE HARDEST?
+           answer_label answer_value raw_counts relative_frequency
+0    NO CODE OR NO DATA          0.0         53               0.01
+1             ENGINEERS          1.0          5                0.0
+2  TRANSPORTATION CORPS         10.0       1237               0.28
+3   ORDNANCE DEPARTMENT         11.0         85               0.02
+
+
+
+S44T.Q43 WHICH ONE OF THESE BRANCHES WOULD YOU SAY GIVES THE SOLDIERS THE LEAST AMOUNT OF WORK TO DO?
+           answer_label answer_value raw_counts relative_frequency
+0    NO CODE OR NO DATA          0.0         21                0.0
+1             ENGINEERS          1.0          6                0.0
+2  TRANSPORTATION CORPS         10.0        484               0.11
+3   ORDNANCE DEPARTMENT         11.0        791               0.18
+
+
+
+S44T.Q44 WHICH ONE OF THESE BRANCHES DO YOU THINK HAS THE MOST DANGEROUS JOBS?
+           answer_label answer_value raw_counts relative_frequency
+0    NO CODE OR NO DATA          0.0         72               0.02
+1             ENGINEERS          1.0         10                0.0
+2  TRANSPORTATION CORPS         10.0        117               0.03
+3   ORDNANCE DEPARTMENT         11.0         20                0.0
+
+
+
+S44T.Q45 WHICH ONE OF THESE BRANCHES DO YOU THINK HAS THE LEAST DANGEROUS JOBS?
+           answer_label answer_value raw_counts relative_frequency
+0    NO CODE OR NO DATA          0.0         35               0.01
+1             ENGINEERS          1.0         24               0.01
+2  TRANSPORTATION CORPS         10.0        373               0.08
+3   ORDNANCE DEPARTMENT         11.0        593               0.13
+
+
+
+S44T.Q46 WHICH ONE OF THESE BRANCHES WILL BE NEEDED THE MOST TO WIN THE WAR?
+           answer_label answer_value raw_counts relative_frequency
+0    NO CODE OR NO DATA          0.0         52               0.01
+1             ENGINEERS          1.0          6                0.0
+2  TRANSPORTATION CORPS         10.0        434                0.1
+3   ORDNANCE DEPARTMENT         11.0         45               0.01
+
+
+
+S44T.Q47 WHICH ONE OF THESE BRANCHES WOULD YOU SAY WILL BE LEAST IMPORTANT IN WINNING THE WAR?
+           answer_label answer_value raw_counts relative_frequency
+0    NO CODE OR NO DATA          0.0         22                0.0
+1             ENGINEERS          1.0         82               0.02
+2  TRANSPORTATION CORPS         10.0          9                0.0
+3   ORDNANCE DEPARTMENT         11.0         94               0.02
+
+
+
+S44T.Q48 WRITE IN THE NAME OF THE ARMY BRANCH TO THE RIGHT OF EACH PICTURE OF THE INSIGNIA SHOWN. THE FOLLOWING LIST GIVES YOU THE NAMES OF THE DIFFERENT BRANCHES WHOSE INSIGNIA ARE SHOWN.
+       answer_label answer_value raw_counts relative_frequency
+0  ONE OR TWO RIGHT          1.0         25               0.01
+1      ELEVEN RIGHT         10.0         42               0.01
+2      TWELVE RIGHT         11.0         27               0.01
+
+
+
+S44T.Q49 WHICH BRANCH OF THE ARMY DO YOU THINK MOST HIGHLY OF?
+           answer_label answer_value raw_counts relative_frequency
+0    NO CODE OR NO DATA          0.0        428                0.1
+1             ENGINEERS          1.0         98               0.02
+2  TRANSPORTATION CORPS         10.0        229               0.05
+3   ORDNANCE DEPARTMENT         11.0         70               0.02
+
+
+
+S44T.Q49B.1 WHY DO YOU THINK MOST HIGHLY OF THIS BRANCH? E. ALTRUISTIC MOTIVATION:
+                                                                answer_label answer_value raw_counts relative_frequency
+0  MOST IMPORTANT WORK; MOST IMPORTANT IN WINNING THE WAR (EMPHASIS ON MOST)          1.0        305               0.07
+1                                                                 NOT CHOSEN          2.0        135               0.03
+
+
+
+S44T.Q49B.2WHY DO YOU THINK MOST HIGHLY OF THIS BRANCH? E. ALTRUISTIC MOTIVATION:
+                                                                                 answer_label answer_value raw_counts relative_frequency
+0  IMPORTANT (NO "MOST"); OTHERS DEPEND ON IT; SPECIFIC DUTIES ARE NECESSARY; IT IS NECESSARY          1.0        524               0.12
+1                                                                                  NOT CHOSEN          2.0       3927               0.88
+
+
+
+S44T.Q49B.3WHY DO YOU THINK MOST HIGHLY OF THIS BRANCH? E. ALTRUISTIC MOTIVATION:
+                                                                       answer_label answer_value raw_counts relative_frequency
+0  BECAUSE OF WHAT IT HAS DONE UP TO NOW; BEST RECORD SO FAR (EMPHASIS ON "SO FAR")          1.0        517               0.12
+1                                                                        NOT CHOSEN          2.0       3934               0.88
+
+
+
+S44T.Q49B.4WHY DO YOU THINK MOST HIGHLY OF THIS BRANCH? E. ALTRUISTIC MOTIVATION:
+                                                        answer_label answer_value raw_counts relative_frequency
+0  SIMPLE STATEMENT OF FUNCTIONS WITHOUT ANY REFERENCE TO IMPORTANCE          1.0         79               0.02
+1                                                         NOT CHOSEN          2.0       4372               0.98
+
+
+
+S44T.Q49B.5WHY DO YOU THINK MOST HIGHLY OF THIS BRANCH? E. ALTRUISTIC MOTIVATION:
+                                                                             answer_label answer_value raw_counts relative_frequency
+0  IT IS HIGHEST OR BEST OR SUPERIOR (NO REASON GIVEN SUCH AS "IMPORTANT" OR "I LIKE IT")          1.0        353               0.08
+1                                                                              NOT CHOSEN          2.0       4098               0.92
+
+
+
+S44T.Q49B.6WHY DO YOU THINK MOST HIGHLY OF THIS BRANCH? E. ALTRUISTIC MOTIVATION:
+                      answer_label answer_value raw_counts relative_frequency
+0  MOST DANGEROUS; HAS MOST COMBAT          1.0        125               0.03
+1                       NOT CHOSEN          2.0       4326               0.97
+
+
+
+S44T.Q49B.7WHY DO YOU THINK MOST HIGHLY OF THIS BRANCH? E. ALTRUISTIC MOTIVATION:
+                                                                                     answer_label answer_value raw_counts relative_frequency
+0  DOES THE HARDEST WORK; HARD WORK; ROUGH LIFE (BUT NO WORDS "DANGER" OR "COMBAT" OR "FIGHTING")          1.0        392               0.09
+1                                                                                      NOT CHOSEN          2.0       4059               0.91
+
+
+
+S44T.Q49B.8WHY DO YOU THINK MOST HIGHLY OF THIS BRANCH? E. ALTRUISTIC MOTIVATION:
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0  RUNS MOST EFFICIENTLY; "SATISFIED WITH WAY THINGS ARE REGULATED AND PUT IN ORDER"; "LIKES THE WAY THEY WORK" (EMPHASIS O          1.0        170               0.04
+1                                                                                                                NOT CHOSEN          2.0       4281               0.96
+
+
+
+S44T.Q49B.9WHY DO YOU THINK MOST HIGHLY OF THIS BRANCH? E. ALTRUISTIC MOTIVATION:
+                                                                     answer_label answer_value raw_counts relative_frequency
+0  MOST ADVANCED; UP-TO-DATE, MODERN (IN EQUIPMENT OR ACTIVITY, NOT ORGANIZATION)          1.0         45               0.01
+1                                                                      NOT CHOSEN          2.0       4406               0.99
+
+
+
+S44T.Q49B.10WHY DO YOU THINK MOST HIGHLY OF THIS BRANCH? E. ALTRUISTIC MOTIVATION:
+                                                       answer_label answer_value raw_counts relative_frequency
+0  COOPERATION BETWEEN MEN AND OFFICERS; MEN OR UNITS WORK TOGETHER          1.0        118               0.03
+1                                                        NOT CHOSEN          2.0       4333               0.97
+
+
+
+S44T.Q49B.12WHY DO YOU THINK MOST HIGHLY OF THIS BRANCH? E. ALTRUISTIC MOTIVATION:
+                                                                              answer_label answer_value raw_counts relative_frequency
+0  LIKES THE WORK; HAS MOST INTERESTING WORK; I LIKE IT THE BEST; I WOULD LIKE TO BE IN IT          1.0        216               0.05
+1                                                                               NOT CHOSEN          2.0       4235               0.95
+
+
+
+S44T.Q49B.13WHY DO YOU THINK MOST HIGHLY OF THIS BRANCH? E. ALTRUISTIC MOTIVATION:
+                                               answer_label answer_value raw_counts relative_frequency
+0  USEFUL IN PEACE TIME OR IN CIVILIAN LIFE; LEARN THE MOST          1.0        303               0.07
+1                                                NOT CHOSEN          2.0       4148               0.93
+
+
+
+S44T.Q49B.14WHY DO YOU THINK MOST HIGHLY OF THIS BRANCH? E. ALTRUISTIC MOTIVATION:
+                                               answer_label answer_value raw_counts relative_frequency
+0  RAPID PROMOTION; PAYS MOST MONEY; CHANCE FOR ADVANCEMENT          1.0        142               0.03
+1                                                NOT CHOSEN          2.0       4309               0.97
+
+
+
+S44T.Q49B.15WHY DO YOU THINK MOST HIGHLY OF THIS BRANCH? E. ALTRUISTIC MOTIVATION:
+                                     answer_label answer_value raw_counts relative_frequency
+0  I COULD DO MORE THERE; I AM BEST FITTED FOR IT          1.0         53               0.01
+1                                      NOT CHOSEN          2.0       4398               0.99
+
+
+
+S44T.Q49B.16WHY DO YOU THINK MOST HIGHLY OF THIS BRANCH? E. ALTRUISTIC MOTIVATION:
+         answer_label answer_value raw_counts relative_frequency
+0  KNOW MORE ABOUT IT          1.0         26               0.01
+1          NOT CHOSEN          2.0       4425               0.99
+
+
+
+S44T.Q49B.17 WHY DO YOU THINK MOST HIGHLY OF THIS BRANCH? E. ALTRUISTIC MOTIVATION: 426
+                                                                                                   answer_label answer_value raw_counts relative_frequency
+0  BEST MEN; BETTER CLASS MEN; MOST INTELLIGENT MEN; STRICTEST REQUIREMENTS; BEST TRAINED MEN (EMPHASIS ON MEN)          1.0         87               0.02
+1                                                                                                    NOT CHOSEN          2.0       4364               0.98
+
+
+
+S44T.Q49B.18WHY DO YOU THINK MOST HIGHLY OF THIS BRANCH? E. ALTRUISTIC MOTIVATION:
+                                          answer_label answer_value raw_counts relative_frequency
+0  IT IS THOUGHT MOST HIGHLY OF; MOST LIKED UP TO 4428          1.0        426                0.1
+1                                           NOT CHOSEN          2.0       4025                0.9
+
+
+
+S44T.Q49B.19WHY DO YOU THINK MOST HIGHLY OF THIS BRANCH? E. ALTRUISTIC MOTIVATION:
+                           answer_label answer_value raw_counts relative_frequency
+0  UNINTELLIGIBLE OR IRRELEVANT COMMENT          1.0         23               0.01
+1                            NOT CHOSEN          2.0       4428               0.99
+
+
+
+S44T.Q49B.20WHY DO YOU THINK MOST HIGHLY OF THIS BRANCH? E. ALTRUISTIC MOTIVATION:
+                           answer_label answer_value raw_counts relative_frequency
+0  DON'T KNOW; UNDECIDED; CAN'T SEE WHY          1.0         24               0.01
+1                            NOT CHOSEN          2.0       4427               0.99
+
+
+
+S44T.Q49B.21WHY DO YOU THINK MOST HIGHLY OF THIS BRANCH? E. ALTRUISTIC MOTIVATION:
+     answer_label answer_value raw_counts relative_frequency
+0  OTHER COMMENTS          1.0         27               0.01
+1      NOT CHOSEN          2.0       4424               0.99
+
+
+
+S44T.Q50 WHICH BRANCH OF THE ARMY DO YOU LIKE THE LEAST?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0       1464               0.33
+1           ENGINEERS          1.0       2987               0.67
+
+
+
+FORM..2S044TFORM.
+                                                                            answer_label answer_value raw_counts relative_frequency
+0                                                                  S-044T - TOTAL SAMPLE          1.0        446                0.1
+1                                                                 S-044X - CROSS SECTION          2.0        445                0.1
+2  S-044I - INFANTRY Q.50XXXXXX DO YOU LIKE THIS BRANCH THE LEAST\* E. UNDESIRABLE WORK:          3.0        445                0.1
+
+
+
+S44T.Q50X.1DO YOU LIKE THIS BRANCH THE LEAST? E. UNDESIRABLE WORK:
+                                                                                                              answer_label answer_value raw_counts relative_frequency
+0  UNPLEASANT DUTIES; DIRTIEST JOBS; DISLIKES THE DUTIES (INCLUDING SPECIFIC DUTIES, SUCH AS MARCHING, CARING FOR WOUNDED)          1.0       4451                1.0
+
+
+
+S44T.Q50X.2DO YOU LIKE THIS BRANCH THE LEAST? E. UNDESIRABLE WORK:
+                           answer_label answer_value raw_counts relative_frequency
+0  UNINTERESTED IN WORK; NOT INTERESTED          1.0        608               0.14
+1                            NOT CHOSEN          2.0       3843               0.86
+
+
+
+S44T.Q50X.3DO YOU LIKE THIS BRANCH THE LEAST? E. UNDESIRABLE WORK:
+                     answer_label answer_value raw_counts relative_frequency
+0  TOO TOUGH WORK; WORKS TOO HARD          1.0        152               0.03
+1                      NOT CHOSEN          2.0       4299               0.97
+
+
+
+S44T.Q50X.4DO YOU LIKE THIS BRANCH THE LEAST? E. UNDESIRABLE WORK:
+               answer_label answer_value raw_counts relative_frequency
+0  NO PROMOTIONS; NO FUTURE          1.0        225               0.05
+1                NOT CHOSEN          2.0       4226               0.95
+
+
+
+S44T.Q50X.5DO YOU LIKE THIS BRANCH THE LEAST? E. UNDESIRABLE WORK:
+                 answer_label answer_value raw_counts relative_frequency
+0  DANGEROUS; TOO MUCH COMBAT          1.0         51               0.01
+1                  NOT CHOSEN          2.0       4400               0.99
+
+
+
+S44T.Q50X.6DO YOU LIKE THIS BRANCH THE LEAST? E. UNDESIRABLE WORK:
+                        answer_label answer_value raw_counts relative_frequency
+0  NO FIGHTING; NO COMBAT; NO ACTION          1.0         71               0.02
+1                         NOT CHOSEN          2.0       4380               0.98
+
+
+
+S44T.Q50X.7DO YOU LIKE THIS BRANCH THE LEAST? E. UNDESIRABLE WORK:
+                                                       answer_label answer_value raw_counts relative_frequency
+0  CAN'T LEARN ANYTHING (IMPLYING NOTHING USEFUL FOR CIVILIAN LIFE)          1.0         91               0.02
+1                                                        NOT CHOSEN          2.0       4360               0.98
+
+
+
+S44T.Q50X.8DO YOU LIKE THIS BRANCH THE LEAST? E. UNDESIRABLE PERSONNEL:
+                                                                               answer_label answer_value raw_counts relative_frequency
+0  ARROGANT; "SHOW OFF"; ATTITUDE OF PERSONNEL UNFAIR; ABUSE THEIR POWER; BULLIES (BAD MEN)          1.0         63               0.01
+1                                                                                NOT CHOSEN          2.0       4388               0.99
+
+
+
+S44T.Q50X.9DO YOU LIKE THIS BRANCH THE LEAST? E. UNDESIRABLE PERSONNEL:
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0  MAKES ENEMIES; BAD RELATIONS WITH OTHER SOLDIERS; HARD TO KEEP FRIENDS; YOU CAN'T KEEP YOUR FRIENDS (AS PART OF JOB, NOT          1.0        501               0.11
+1                                                                                                                NOT CHOSEN          2.0       3950               0.89
+
+
+
+S44T.Q50X.10DO YOU LIKE THIS BRANCH THE LEAST? E. UNDESIRABLE PERSONNEL:
+                            answer_label answer_value raw_counts relative_frequency
+0  LOW QUALITY PERSONNEL; LEAST TRAINING          1.0        122               0.03
+1                             NOT CHOSEN          2.0       4329               0.97
+
+
+
+S44T.Q50X.11DO YOU LIKE THIS BRANCH THE LEAST? E. UNDESIRABLE PERSONNEL:
+                                             answer_label answer_value raw_counts relative_frequency
+0  "CHICKEN SHIT"; OBEYS LETTER OF LAW RATHER THAN SPIRIT          1.0        175               0.04
+1                                              NOT CHOSEN          2.0       4276               0.96
+
+
+
+S44T.Q50X.12DO YOU LIKE THIS BRANCH THE LEAST? E. UNDESIRABLE PERSONNEL:
+             answer_label answer_value raw_counts relative_frequency
+0  HAS POOREST DISCIPLINE          1.0         10                0.0
+1              NOT CHOSEN          2.0       4441                1.0
+
+
+
+S44T.Q50X.14DO YOU LIKE THIS BRANCH THE LEAST? E. OTHER:
+                 answer_label answer_value raw_counts relative_frequency
+0  UNIMPORTANT OR UNNECESSARY          1.0         40               0.01
+1                  NOT CHOSEN          2.0       4411               0.99
+
+
+
+S44T.Q50X.15DO YOU LIKE THIS BRANCH THE LEAST? E. OTHER:
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0  TOO MUCH RESPONSIBILITY; IT IS FOR A MORE EDUCATED MAN THAN I AM; I AM PERSONALLY NOT FITTED FOR IT; CAN'T MEET REQUIREM          1.0        204               0.05
+1                                                                                                                NOT CHOSEN          2.0       4247               0.95
+
+
+
+S44T.Q50X.16DO YOU LIKE THIS BRANCH THE LEAST? E. OTHER:
+                                                answer_label answer_value raw_counts relative_frequency
+0  NO RECOGNITION OF THE BRANCH; NO APPRECIATION; NO REWARDS          1.0         53               0.01
+1                                                 NOT CHOSEN          2.0       4398               0.99
+
+
+
+S44T.Q50X.17DO YOU LIKE THIS BRANCH THE LEAST? E. OTHER:
+                    answer_label answer_value raw_counts relative_frequency
+0  I AM IN IT; I HAVE BEEN IN IT          1.0         21                0.0
+1                     NOT CHOSEN          2.0       4430                1.0
+
+
+
+S44T.Q50X.18DO YOU LIKE THIS BRANCH THE LEAST? E. OTHER:
+  answer_label answer_value raw_counts relative_frequency
+0  INEFFICIENT          1.0         55               0.01
+1   NOT CHOSEN          2.0       4396               0.99
+
+
+
+S44T.Q50X.19DO YOU LIKE THIS BRANCH THE LEAST? E. GENERAL:
+                                                                               answer_label answer_value raw_counts relative_frequency
+0  MISUNDERSTOOD THE QUESTION (THOUGHT IT WAS THE BEST SINCE WANTED; REFER TO Q.20 OR Q.49)          1.0         39               0.01
+1                                                                                NOT CHOSEN          2.0       4412               0.99
+
+
+
+S44T.Q50X.20DO YOU LIKE THIS BRANCH THE LEAST? E. GENERAL:
+                       answer_label answer_value raw_counts relative_frequency
+0  REPETITION; I JUST DON'T LIKE IT          1.0        132               0.03
+1                        NOT CHOSEN          2.0       4319               0.97
+
+
+
+S44T.Q50X.21DO YOU LIKE THIS BRANCH THE LEAST? E. GENERAL:
+                           answer_label answer_value raw_counts relative_frequency
+0  UNINTELLIGIBLE OR IRRELEVANT COMMENT          1.0         57               0.01
+1                            NOT CHOSEN          2.0       4394               0.99
+
+
+
+S44T.Q50X.22DO YOU LIKE THIS BRANCH THE LEAST? E. GENERAL:
+            answer_label answer_value raw_counts relative_frequency
+0  DON'T KNOW; UNDECIDED          1.0         22                0.0
+1             NOT CHOSEN          2.0       4429                1.0
+
+
+
+S44T.Q50X.23DO YOU LIKE THIS BRANCH THE LEAST? E. GENERAL:
+                                     answer_label answer_value raw_counts relative_frequency
+0  I LIKE THEM ALL THE SAME; I LIKE THEM ALL WELL          1.0         57               0.01
+1                                      NOT CHOSEN          2.0       4394               0.99
+
+
+
+S44T.Q50X.24DO YOU LIKE THIS BRANCH THE LEAST? E. GENERAL:
+  answer_label answer_value raw_counts relative_frequency
+0       OTHERS          1.0         31               0.01
+1   NOT CHOSEN          2.0       4420               0.99
+
+
+
+S44T.Q51A WHICH OF THE FOLLOWING GENERALS IS CHIEF OF THE ARMY AIR FORCES?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0       4451                1.0
+
+
+
+S44T.Q51B WHICH OF THE FOLLOWING GENERALS IS CHIEF OF THE ARMY GROUND FORCES?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          9                0.0
+1           MACARTHUR          1.0        236               0.05
+2          EISENHOWER          2.0        283               0.06
+3           SOMERVELL          3.0        134               0.03
+4              PATTON          4.0         98               0.02
+5              ARNOLD          5.0       2177               0.49
+6              MCNAIR          6.0        226               0.05
+7            MARSHALL          7.0        329               0.07
+8          DON'T KNOW          8.0        811               0.18
+9           NO ANSWER          9.0        148               0.03
+
+
+
+S44T.Q51C WHICH OF THE FOLLOWING GENERALS IS CHIEF OF THE ARMY SERVICE FORCES (FORMERLY SERVICES OF SUPPLY)?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          9                0.0
+1           MACARTHUR          1.0       1032               0.23
+2          EISENHOWER          2.0        405               0.09
+3           SOMERVELL          3.0        154               0.03
+4              PATTON          4.0        125               0.03
+5              ARNOLD          5.0        154               0.03
+6              MCNAIR          6.0       1038               0.23
+7            MARSHALL          7.0        640               0.14
+8          DON'T KNOW          8.0        723               0.16
+9           NO ANSWER          9.0        171               0.04
+
+
+
+S44T.Q51D WHICH OF THE FOLLOWING GENERALS IS CHIEF OF STAFF?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          9                0.0
+1           MACARTHUR          1.0        157               0.04
+2          EISENHOWER          2.0        188               0.04
+3           SOMERVELL          3.0       1252               0.28
+4              PATTON          4.0        178               0.04
+5              ARNOLD          5.0        217               0.05
+6              MCNAIR          6.0        499               0.11
+7            MARSHALL          7.0        209               0.05
+8          DON'T KNOW          8.0       1505               0.34
+9           NO ANSWER          9.0        237               0.05
+
+
+
+S44T.V51E TOTAL SCORE QUESTIONS 51A-51D.
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0         10                0.0
+1           ONE RIGHT          1.0        183               0.04
+2           TWO RIGHT          2.0        122               0.03
+3         THREE RIGHT          3.0         84               0.02
+4          FOUR RIGHT          4.0         71               0.02
+5                NONE          5.0        149               0.03
+6                              7.0       2670                0.6
+
+
+
+S44T.V52A.1 HIGHEST SCORE IN SERVICE FORCES:
+              answer_label answer_value raw_counts relative_frequency
+0  C.W. (CHEMICAL WARFARE)          1.0       1041               0.23
+1               NOT CHOSEN          2.0        924               0.21
+
+
+
+S44T.V52A.2HIGHEST SCORE IN SERVICE FORCES:
+    answer_label answer_value raw_counts relative_frequency
+0  E (ENGINEERS)          1.0        232               0.05
+1     NOT CHOSEN          2.0       4219               0.95
+
+
+
+S44T.V52A.3HIGHEST SCORE IN SERVICE FORCES:
+                answer_label answer_value raw_counts relative_frequency
+0  M.D. (MEDICAL DEPARTMENT)          1.0       1170               0.26
+1                 NOT CHOSEN          2.0       3281               0.74
+
+
+
+S44T.V52A.4HIGHEST SCORE IN SERVICE FORCES:
+             answer_label answer_value raw_counts relative_frequency
+0  M.P. (MILITARY POLICE)          1.0        888                0.2
+1              NOT CHOSEN          2.0       3563                0.8
+
+
+
+S44T.V52A.5HIGHEST SCORE IN SERVICE FORCES:
+   answer_label answer_value raw_counts relative_frequency
+0  O (ORDNANCE)          1.0        168               0.04
+1    NOT CHOSEN          2.0       4283               0.96
+
+
+
+S44T.V52A.6HIGHEST SCORE IN SERVICE FORCES:
+              answer_label answer_value raw_counts relative_frequency
+0  Q (QUARTERMASTER CORPS)          1.0        484               0.11
+1               NOT CHOSEN          2.0       3967               0.89
+
+
+
+S44T.V52A.7HIGHEST SCORE IN SERVICE FORCES:
+       answer_label answer_value raw_counts relative_frequency
+0  S (SIGNAL CORPS)          1.0        425                0.1
+1        NOT CHOSEN          2.0       4026                0.9
+
+
+
+S44T.V52A.8HIGHEST SCORE IN SERVICE FORCES:
+                         answer_label answer_value raw_counts relative_frequency
+0  THREE OR MORE ARE TIED FOR HIGHEST          1.0        727               0.16
+1                          NOT CHOSEN          2.0       3724               0.84
+
+
+
+S44T.V52A.9HIGHEST SCORE IN SERVICE FORCES:
+                                           answer_label answer_value raw_counts relative_frequency
+0  NOTHING CODED BECAUSE FIVE OR MORE PAIRS CROSSED OUT          1.0        914               0.21
+1                                            NOT CHOSEN          2.0       3537               0.79
+
+
+
+S44T.V52B.1 LOWEST SCORE IN SERVICE FORCES:
+              answer_label answer_value raw_counts relative_frequency
+0  C.W. (CHEMICAL WARFARE)          1.0        304               0.07
+1               NOT CHOSEN          2.0       4147               0.93
+
+
+
+S44T.V52B.2LOWEST SCORE IN SERVICE FORCES:
+    answer_label answer_value raw_counts relative_frequency
+0  E (ENGINEERS)          1.0        425                0.1
+1     NOT CHOSEN          2.0       4026                0.9
+
+
+
+S44T.V52B.3LOWEST SCORE IN SERVICE FORCES:
+                answer_label answer_value raw_counts relative_frequency
+0  M.D. (MEDICAL DEPARTMENT)          1.0        141               0.03
+1                 NOT CHOSEN          2.0       4310               0.97
+
+
+
+S44T.V52B.4LOWEST SCORE IN SERVICE FORCES:
+             answer_label answer_value raw_counts relative_frequency
+0  M.P. (MILITARY POLICE)          1.0        198               0.04
+1              NOT CHOSEN          2.0       4253               0.96
+
+
+
+S44T.V52B.5LOWEST SCORE IN SERVICE FORCES:
+   answer_label answer_value raw_counts relative_frequency
+0  O (ORDNANCE)          1.0       1324                0.3
+1    NOT CHOSEN          2.0       3127                0.7
+
+
+
+S44T.V52B.6LOWEST SCORE IN SERVICE FORCES:
+              answer_label answer_value raw_counts relative_frequency
+0  Q (QUARTERMASTER CORPS)          1.0        207               0.05
+1               NOT CHOSEN          2.0       4244               0.95
+
+
+
+S44T.V52B.7LOWEST SCORE IN SERVICE FORCES:
+       answer_label answer_value raw_counts relative_frequency
+0  S (SIGNAL CORPS)          1.0        191               0.04
+1        NOT CHOSEN          2.0       4260               0.96
+
+
+
+S44T.V52B.8LOWEST SCORE IN SERVICE FORCES:
+                        answer_label answer_value raw_counts relative_frequency
+0  THREE OR MORE ARE TIED FOR LOWEST          1.0        122               0.03
+1                         NOT CHOSEN          2.0       4329               0.97
+
+
+
+S44T.V52B.9LOWEST SCORE IN SERVICE FORCES:
+                                           answer_label answer_value raw_counts relative_frequency
+0  NOTHING CODED BECAUSE FIVE OR MORE PAIRS CROSSED OUT          1.0       2353               0.53
+1                                            NOT CHOSEN          2.0       2098               0.47
+
+
+
+S44T.V52C.1 HIGHEST SCORE IN GROUND FORCES:
+           answer_label answer_value raw_counts relative_frequency
+0  A.F. (ARMORED FORCE)          1.0        304               0.07
+1            NOT CHOSEN          2.0       4147               0.93
+
+
+
+S44T.V52C.2HIGHEST SCORE IN GROUND FORCES:
+             answer_label answer_value raw_counts relative_frequency
+0  C.A. (COAST ARTILLERY)          1.0       1379               0.31
+1              NOT CHOSEN          2.0       3072               0.69
+
+
+
+S44T.V52C.3HIGHEST SCORE IN GROUND FORCES:
+             answer_label answer_value raw_counts relative_frequency
+0  F.A. (FIELD ARTILLERY)          1.0        962               0.22
+1              NOT CHOSEN          2.0       3489               0.78
+
+
+
+S44T.V52C.4 HIGHEST SCORE IN GROUND FORCES:
+    answer_label answer_value raw_counts relative_frequency
+0  I. (INFANTRY)          1.0        791               0.18
+1     NOT CHOSEN          2.0       3660               0.82
+
+
+
+S44T.V52C.5HIGHEST SCORE IN GROUND FORCES:
+                         answer_label answer_value raw_counts relative_frequency
+0  THREE OR MORE ARE TIED FOR HIGHEST          1.0       1111               0.25
+1                          NOT CHOSEN          2.0       3340               0.75
+
+
+
+S44T.V52C.6HIGHEST SCORE IN GROUND FORCES:
+                                           answer_label answer_value raw_counts relative_frequency
+0  NOTHING CODED BECAUSE FIVE OR MORE PAIRS CROSSED OUT          1.0        811               0.18
+1                                            NOT CHOSEN          2.0       3640               0.82
+
+
+
+S44T.V52D.1 LOWEST SCORE IN GROUND FORCES:
+           answer_label answer_value raw_counts relative_frequency
+0  A.F. (ARMORED FORCE)          1.0        303               0.07
+1            NOT CHOSEN          2.0       4148               0.93
+
+
+
+S44T.V52D.2LOWEST SCORE IN GROUND FORCES:
+             answer_label answer_value raw_counts relative_frequency
+0  C.A. (COAST ARTILLERY)          1.0        655               0.15
+1              NOT CHOSEN          2.0       3796               0.85
+
+
+
+S44T.V52D.3LOWEST SCORE IN GROUND FORCES:
+             answer_label answer_value raw_counts relative_frequency
+0  F.A. (FIELD ARTILLERY)          1.0       1261               0.28
+1              NOT CHOSEN          2.0       3190               0.72
+
+
+
+S44T.V52D.4LOWEST SCORE IN GROUND FORCES:
+    answer_label answer_value raw_counts relative_frequency
+0  I. (INFANTRY)          1.0        765               0.17
+1     NOT CHOSEN          2.0       3686               0.83
+
+
+
+S44T.V52D.5LOWEST SCORE IN GROUND FORCES:
+                        answer_label answer_value raw_counts relative_frequency
+0  THREE OR MORE ARE TIED FOR LOWEST          1.0       1591               0.36
+1                         NOT CHOSEN          2.0       2860               0.64
+
+
+
+S44T.V52D.6LOWEST SCORE IN GROUND FORCES:
+                                           answer_label answer_value raw_counts relative_frequency
+0  NOTHING CODED BECAUSE FIVE OR MORE PAIRS CROSSED OUT          1.0        703               0.16
+1                                            NOT CHOSEN          2.0       3748               0.84
+
+
+
+S44T.V52E COMPARISON:
+      answer_label answer_value raw_counts relative_frequency
+0      MEANINGLESS         10.0          2                0.0
+1  EVERYTHING ELSE         11.0        303               0.07
+
+
+
+S44T.Q53A FOR EVERY ONE COMBAT SOLDIER, HOW MANY NON-COMBAT SOLDIERS DO YOU THINK ARE USED BEHIND THE LINES (BOTH OVERSEAS AND IN THIS COUNTRY) TO KEEP HIM SUPPLIED?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          6                0.0
+1         LESS THAN 1          1.0          7                0.0
+2           51 TO 100         10.0        793               0.18
+3      101 UP TO 1000         11.0        180               0.04
+
+
+
+S44T.Q53B DO YOU THINK THE NUMBER OF SOLDIERS USED NOW TO SUPPLY THE FIGHTING SOLDIER IS TOO HIGH, TOO LOW OR ABOUT RIGHT?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0        115               0.03
+1            TOO HIGH          1.0         92               0.02
+2             TOO LOW          2.0       1035               0.23
+3         ABOUT RIGHT          3.0        623               0.14
+4           NO ANSWER          4.0        706               0.16
+
+
+
+S44T.Q54 ABOUT HOW MANY SOLDIERS DO YOU THINK THERE ARE IN THE ARMY NOW (NOT INCLUDING THE NAVY AND MARINES)?
+           answer_label answer_value raw_counts relative_frequency
+0    NO CODE OR NO DATA          0.0         13                0.0
+1     1 MILLION OR LESS          1.0          5                0.0
+2  13, 14 OR 15 MILLION         10.0        727               0.16
+3     16 TO 100 MILLION         11.0         96               0.02
+
+
+
+S44T.Q55 ABOUT HOW LARGE AN ARMY DO YOU THINK WE WILL NEED TO WIN THE WAR (NOT INCLUDING THE NAVY AND MARINES)?
+           answer_label answer_value raw_counts relative_frequency
+0    NO CODE OR NO DATA          0.0         21                0.0
+1     1 MILLION OR LESS          1.0         44               0.01
+2  13, 14 OR 15 MILLION         10.0         62               0.01
+3     16 TO 100 MILLION         11.0        151               0.03
+
+
+
+FORM..3FORM.
+             answer_label answer_value raw_counts relative_frequency
+0   S-044T - TOTAL SAMPLE          1.0        446                0.1
+1  S-044X - CROSS SECTION          2.0        445                0.1
+2       S-044I - INFANTRY          3.0        445                0.1
+
+
+
+S44T.Q56 FROM WHAT YOU HAVE HEARD, ABOUT HOW LARGE AN ARMY WOULD YOU SAY WE ARE PLANNING TO HAVE BY THE END OF THIS YEAR (NOT INCLUDING THE NAVY AND MARINES)?
+           answer_label answer_value raw_counts relative_frequency
+0  13, 14 OR 15 MILLION         10.0       3095                0.7
+1     16 TO 100 MILLION         11.0       1356                0.3
+
+
+
+S44T.Q57A WITH GERMANY?
+                                                                       answer_label answer_value raw_counts relative_frequency
+0                                                                NO CODE OR NO DATA          0.0        227               0.05
+1                                                   LESS THAN A YEAR OR JUST "1943"          1.0         26               0.01
+2  INDEFINITE ANSWER WITH NO INDICATION OF TIME - E.G. "WILL LAST UNTIL WE STOP IT"         10.0        215               0.05
+3                                                             DON'T KNOW, UNDECIDED         11.0         26               0.01
+
+
+
+S44T.Q57B WITH JAPAN?
+                                                                       answer_label answer_value raw_counts relative_frequency
+0                                                                NO CODE OR NO DATA          0.0         12                0.0
+1                                                   LESS THAN A YEAR OR JUST "1943"          1.0         35               0.01
+2  INDEFINITE ANSWER WITH NO INDICATION OF TIME - E.G. "WILL LAST UNTIL WE STOP IT"         10.0       1060               0.24
+3                                                             DON'T KNOW, UNDECIDED         11.0        324               0.07
+
+
+
+S44T.Q58A WHICH OF THE FOLLOWING DUTIES OR JOBS ARE PERFORMED MAINLY BY THE QUARTERMASTER CORPS? INSPECTS MEAT (SCORE AS -1) SUPPLIES CLOTHING (SCORE AS +1) TESTS WEAPONS AND AMMUNITION (SCORE AS -1) TRAINS COOKS AND BAKERS (SCORE AS +1)
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0         93               0.02
+1                  +2          1.0        821               0.18
+2                  +1          2.0       1037               0.23
+3                   0          3.0        749               0.17
+4                  -1          4.0        774               0.17
+5                  -2          5.0        257               0.06
+
+
+
+S44T.Q58B WHICH OF THE FOLLOWING DUTIES OR JOBS ARE PERFORMED MAINLY BY THE ORDNANCE DEPARTMENT? REPAIRS TRUCKS AND WEAPONS (SCORE AS +1) REPAIRS TELEGRAPH LINES (SCORE AS -1) BUILDS LANDING FIELDS (SCORE AS -1) MANUFACTURES AMMUNITION (SCORE AS +1)
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0         13                0.0
+1                  +2          1.0        340               0.08
+2                  +1          2.0       2664                0.6
+3                   0          3.0       1162               0.26
+4                  -1          4.0        261               0.06
+5                  -2          5.0         11                0.0
+
+
+
+S44T.Q58C WHICH OF THE FOLLOWING DUTIES OR JOBS ARE PERFORMED MAINLY BY THE MEDICAL DEPARTMENT? OPERATES FIELD HOSPITALS (SCORE AS +1) SELLS INSURANCE (SCORE AS -1) DRIVES AMBULANCES (SCORE AS +1) STERILIZES CLOTHING (SCORE AS -1)
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0         12                0.0
+1                  +2          1.0       1121               0.25
+2                  +1          2.0       2589               0.58
+3                   0          3.0        539               0.12
+4                  -1          4.0        175               0.04
+5                  -2          5.0         15                0.0
+
+
+
+S44T.Q58D WHICH OF THE FOLLOWING DUTIES OR JOBS ARE PERFORMED MAINLY BY THE SIGNAL CORPS? PLOTS ENEMY ARTILLERY FIRE (SCORE AS -1) OPERATES AIR CRAFT WARNING SERVICE (SCORE AS +1) PLANS TROOP MOVEMENTS (SCORE AS -1) OPERATES MESSAGE CENTERS (SCORE AS +1)
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0         12                0.0
+1                  +2          1.0       1362               0.31
+2                  +1          2.0       2767               0.62
+3                   0          3.0        271               0.06
+4                  -1          4.0         33               0.01
+5                  -2          5.0          6                0.0
+
+
+
+S44T.Q58E WHICH OF THE FOLLOWING DUTIES OR JOBS ARE PERFORMED MAINLY BY THE CHEMICAL WARFARE SERVICE? DECONTAMINATION (SCORE AS +1) TREATS GAS WOUNDS (SCORE AS -1) STERILIZES CLOTHING (SCORE AS -1) OPERATES FLAME THROWERS (SCORE AS +1)
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0         12                0.0
+1                  +2          1.0       1286               0.29
+2                  +1          2.0       2403               0.54
+3                   0          3.0        467                0.1
+4                  -1          4.0        261               0.06
+5                  -2          5.0         22                0.0
+
+
+
+S44T.Q58F WHICH OF THE FOLLOWING DUTIES OR JOBS ARE PERFORMED MAINLY BY THE FIELD ARTILLERY? LAYS LAND MINES (SCORE AS -1) COUNTERBATTERY FIRE (SCORE AS +1) PLOTS ENEMY ARTILLERY FIRE (SCORE AS +1) FIRES ANTI-AIRCRAFT GUNS (SCORE AS -1)
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0         10                0.0
+1                  +2          1.0        598               0.13
+2                  +1          2.0       2095               0.47
+3                   0          3.0       1019               0.23
+4                  -1          4.0        665               0.15
+5                  -2          5.0         64               0.01
+
+
+
+S44T.Q58G WHICH OF THE FOLLOWING DUTIES OR JOBS ARE PERFORMED MAINLY BY THE ENGINEERS? BUILDS BRIDGES (SCORE AS +1) LAYS LAND MINES (SCORE AS +1) SURVEYS ENEMY POSITIONS (SCORE AS -1) PUTS UP TELEGRAPH LINES (SCORE AS -1)
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0         12                0.0
+1                  +2          1.0        735               0.17
+2                  +1          2.0       2097               0.47
+3                   0          3.0        854               0.19
+4                  -1          4.0        695               0.16
+5                  -2          5.0         58               0.01
+
+
+
+S44T.Q58H WHICH OF THE FOLLOWING DUTIES OR JOBS ARE PERFORMED MAINLY BY THE ARMORED FORCES? LAYS LAND MINES (SCORE AS -1) PROTECTS TROOPS FROM MECHANIZED ATTACKS (SCORE AS +1) TRANSPORTS TROOPS TO THE FRONT (SCORE AS -1) USES HEAVY TANKS (SCORE AS +1)
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0         12                0.0
+1                  +2          1.0        936               0.21
+2                  +1          2.0       2408               0.54
+3                   0          3.0        856               0.19
+4                  -1          4.0        231               0.05
+5                  -2          5.0          8                0.0
+
+
+
+S44T.Q58I WHICH OF THE FOLLOWING DUTIES OR JOBS ARE PERFORMED MAINLY BY THE AIR CORPS? BUILDS LANDING FIELDS (SCORE AS -1) MAKES PHOTOGRAPHIC MAPS (SCORE AS +1) TESTS NEW AIRPLANES (SCORE AS +1) OPERATES ANTI-AIRCRAFT GUNS (SCORE AS -1)
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0         13                0.0
+1                  +2          1.0       1655               0.37
+2                  +1          2.0       2285               0.51
+3                   0          3.0        349               0.08
+4                  -1          4.0        145               0.03
+5                  -2          5.0          4                0.0
+
+
+
+S44T.Q58J WHICH OF THE FOLLOWING DUTIES OR JOBS ARE PERFORMED MAINLY BY THE MILITARY POLICE? MAKES TROOP INSPECTIONS (SCORE AS -1) SOLVES CODES AND SECRET MESSAGES (SCORE AS -1) CONTROLS TRAFFIC IN THE FIELD (SCORE AS +1) PRESERVES LAW AND ORDER (SCORE AS +1)
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0         13                0.0
+1                  +2          1.0       1391               0.31
+2                  +1          2.0       2225                0.5
+3                   0          3.0        518               0.12
+4                  -1          4.0        300               0.07
+5                  -2          5.0          4                0.0
+
+
+
+S44T.Q58K WHICH OF THE FOLLOWING DUTIES OR JOBS ARE PERFORMED MAINLY BY THE TRANSPORTATION CORPS? SHIPS MEN OVERSEAS (SCORE AS +1) LAYS RAILROAD TRACKS (SCORE AS -1) MOVES ADVANCE MATERIALS (SCORE AS +1) REPAIRS TRUCKS (SCORE AS -1)
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0         13                0.0
+1                  +2          1.0       1739               0.39
+2                  +1          2.0       2400               0.54
+3                   0          3.0        239               0.05
+4                  -1          4.0         58               0.01
+5                  -2          5.0          2                0.0
+
+
+
+S44T.Q58L WHICH OF THE FOLLOWING DUTIES OR JOBS ARE PERFORMED MAINLY BY THE COAST ARTILLERY CORPS? LAYS OFF-SHORE MINES (SCORE AS +1) GATHERS WEATHER INFORMATION (SCORE AS -1) LAYS LAND MINES (SCORE AS -1) FIRES ANTI-AIRCRAFT GUNS (SCORE AS +1)
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0         12                0.0
+1                  +2          1.0       1329                0.3
+2                  +1          2.0       2387               0.54
+3                   0          3.0        566               0.13
+4                  -1          4.0        154               0.03
+5                  -2          5.0          3                0.0
+
+
+
+S44T.Q58M WHICH OF THE FOLLOWING DUTIES OR JOBS ARE PERFORMED MAINLY BY THE INFANTRY? FORMS THE PARATROOPS (SCORE AS +1) USES RIFLE AND BAYONET (SCORE AS +1) DRIVES AMBULANCES (SCORE AS -1) DESTROYS MINE FIELDS (SCORE AS -1)
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0         12                0.0
+1                  +2          1.0        886                0.2
+2                  +1          2.0       2806               0.63
+3                   0          3.0        608               0.14
+4                  -1          4.0        129               0.03
+5                  -2          5.0         10                0.0
+
+
+
+S44T.V59A2 INFORMATION TEST SCORE (SECOND DIGIT) E. DERIVED FROM Q.58.
+          answer_label answer_value raw_counts relative_frequency
+0  ORIGINAL SCORE OF 0          1.0          9                0.0
+1  ORIGINAL SCORE OF 9         10.0          3                0.0
+2  ORIGINAL SCORE OF X         11.0          3                0.0
+
+
+
+S44T.V60 PERSONAL ADJUSTMENT SCORE E. DERIVED FROM QUESTIONS 26, 27, 30, 31, 32, 33.
+         answer_label answer_value raw_counts relative_frequency
+0          SCORE OF 4          4.0        372               0.08
+1          SCORE OF 5          5.0        349               0.08
+2          SCORE OF 6          6.0        371               0.08
+3  NO CODE OR NO DATA          7.0        395               0.09
+4          SCORE OF 0          0.0        422               0.09
+5          SCORE OF 1          1.0        618               0.14
+6          SCORE OF 2          2.0        365               0.08
+7          SCORE OF 3          3.0        748               0.17
+
+
+
+S44T.V61 JOB ADJUSTMENT SCALE E. DERIVED FROM QUESTIONS 18, 19, 21, 26, 28, 29.
+         answer_label answer_value raw_counts relative_frequency
+0          SCORE OF 0          0.0        371               0.08
+1          SCORE OF 1          1.0        444                0.1
+2          SCORE OF 2          2.0       1085               0.24
+3          SCORE OF 3          3.0        896                0.2
+4          SCORE OF 4          4.0        633               0.14
+5          SCORE OF 5          5.0        566               0.13
+6          SCORE OF 6          6.0        445                0.1
+7  NO CODE OR NO DATA          7.0         11                0.0
+
+
+
+S44T.V62 COMBAT ITEMS SCORE E. DERIVED FROM QUESTIONS 34, 35, 36.
+         answer_label answer_value raw_counts relative_frequency
+0          SCORE OF 0          0.0        286               0.06
+1          SCORE OF 1          1.0       1044               0.23
+2          SCORE OF 2          2.0        863               0.19
+3          SCORE OF 3          3.0        573               0.13
+4  NO CODE OR NO DATA          4.0        641               0.14
+
+
+
+S44T.V63 CROSS-SECTION IDENTIFICATION:
+      answer_label answer_value raw_counts relative_frequency
+0    CROSS-SECTION          1.0        751               0.17
+1  ALL OTHER CASES          2.0        968               0.22
+
+
+
+S44T.V64 FORCE IDENTIFICATION:
+          answer_label answer_value raw_counts relative_frequency
+0  ARMY SERVICE FORCES          1.0       1000               0.22
+1   ARMY GROUND FORCES          2.0       3451               0.78
+
+
+
+S44T.V65 CAMP, OUTFIT, BRANCH AND FORCE IDENTIFICATION: X. OUTFIT, BRANCH AND FORCE CANNOT BE SEPARATED.
+                                                                                                              answer_label answer_value raw_counts relative_frequency
+0  CAMP BEALE, CALIFORNIA A. 498 ARMD. FA BN. - FIELD ARTILLERY - AGF B. 45TH ARMD. REGT. - ARMORED - AGF C. 83RD MED. BN.          1.0          3                0.0
+1                                 PENSACOLA, FLORIDA A. 13TH CA REGT. - COAST ARTILLERY - DEF B. MED. DET. - MEDICAL - DEF         10.0       1355                0.3
+2   CAMP VAN DORN A. SIGNAL DET. (SCU) - SIGNAL - ASF B. 99TH DIV. ART. - FIELD ARTILLERY - AGF C. 393RD INF. DIV. - INFAN         11.0        144               0.03
+
+
+

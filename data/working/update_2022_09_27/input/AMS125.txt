@@ -1,0 +1,1132 @@
+S125.Q1 WHAT IS YOUR ARMY RANK OR GRADE?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0         37               0.01
+1                                 PRIVATE          1.0       1565               0.27
+2                     PRIVATE FIRST CLASS          2.0       1669               0.29
+3        TECHNICIAN 5TH GRADE OR CORPORAL          3.0       1130               0.19
+4        TECHNICIAN 4TH GRADE OR SERGEANT          4.0        816               0.14
+5  TECHNICIAN 3RD GRADE OR STAFF SERGEANT          5.0        386               0.07
+6                      TECHNICAL SERGEANT          6.0        111               0.02
+7       MASTER SERGEANT OR FIRST SERGEANT          7.0         84               0.01
+
+
+
+S125.Q2 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0        104               0.02
+1            18 YEARS          1.0         39               0.01
+2            19 YEARS          2.0        227               0.04
+3            20 YEARS          3.0        379               0.07
+4            21 YEARS          4.0        422               0.07
+5            22 YEARS          5.0        446               0.08
+6            23 YEARS          6.0        496               0.09
+7            24 YEARS          7.0        555                0.1
+8            25 YEARS          8.0        550               0.09
+9      26 TO 29 YEARS          9.0       1411               0.24
+10     30 TO 34 YEARS         10.0        748               0.13
+11  35 YEARS AND OVER         11.0        421               0.07
+
+
+
+S125.Q3 HOW FAR DID YOU GO IN SCHOOL?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0         38               0.01
+1                  LESS THAN 6TH GRADE          1.0        215               0.04
+2                   FINISHED 6TH GRADE          2.0        200               0.03
+3                   FINISHED 7TH GRADE          3.0        361               0.06
+4                   FINISHED 8TH GRADE          4.0        944               0.16
+5  SOME HIGH SCHOOL BUT DID NOT FINISH          5.0       1821               0.31
+6           GRADUATED FROM HIGH SCHOOL          6.0       1659               0.29
+7      SOME COLLEGE BUT DID NOT FINISH          7.0        459               0.08
+8               GRADUATED FROM COLLEGE          8.0        101               0.02
+
+
+
+S125.Q4 IN WHAT STATE OF THE UNITED STATES DID YOU SPEND MOST OF THE LAST FIVE YEARS OF YOUR CIVILIAN LIFE BEFORE YOU CAME INTO THE ARMY? E. SECTION:
+                                                                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                                                                  NO ANSWER          0.0        122               0.02
+1                                     NEW ENGLAND (MAINE, NEW HAMPSHIRE, VERMONT, MASSACHUSETTS, RHODE ISLAND, CONNECTICUT\)          1.0        290               0.05
+2                                                                      MIDDLE ATLANTIC (NEW YORK, NEW JERSEY, PENNSYLVANIA\)          2.0       1493               0.26
+3                                                         EAST NORTH CENTRAL (OHIO, INDIANA, ILLINOIS, MICHIGAN, WISCONSIN\)          3.0       1263               0.22
+4                              WEST NORTH CENTRAL (MINNESOTA, IOWA, MISSOURI, NORTH DAKOTA, SOUTH DAKOTA, NEBRASKA, KANSAS\)          4.0        594                0.1
+5   SOUTH ATLANTIC (DELAWARE, MARYLAND, NORTH CAROLINA, SOUTH CAROLINA, VIRGINIA, WEST VIRGINIA, DISTRICT OF COLUMBIA, FLORI          5.0        486               0.08
+6                                                             EAST SOUTH CENTRAL (KENTUCKY, TENNESSEE, ALABAMA, MISSISSIPPI)          6.0        442               0.08
+7                                                                  WEST SOUTH CENTRAL (ARKANSAS, LOUISIANA, OKLAHOMA, TEXAS)          7.0        407               0.07
+8                                            MOUNTAIN (MONTANA, IDAHO, WYOMING, COLORADO, NEW MEXICO, ARIZONA, UTAH, NEVADA)          8.0        196               0.03
+9                                                                                   PACIFIC (OREGON, CALIFORNIA, WASHINGTON)          9.0        480               0.08
+10                                                                                                              OUTSIDE U.S.         10.0         12                0.0
+11                                                                                         TERRITORIES BELONGING TO THE U.S.         11.0         13                0.0
+
+
+
+S125.Q5 WHERE WERE YOU LIVING MOST OF THE LAST FIVE YEARS OF YOUR CIVILIAN LIFE BEFORE YOU CAME INTO THE ARMY?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                NO CODE OR NO DATA          0.0          2                0.0
+1                       ON A FARM OR IN THE COUNTRY          1.0       1300               0.22
+2         IN A SMALL TOWN (FEWER THAN 2,500 PEOPLE)          2.0        693               0.12
+3  IN A TOWN (WITH BETWEEN 2,500 AND 25,000 PEOPLE)          3.0       1069               0.18
+4     IN A CITY (BETWEEN 25,000 AND 100,000 PEOPLE)          4.0        957               0.17
+5        IN A LARGE CITY (MORE THAN 100,000 PEOPLE)          5.0       1734                0.3
+6                                         NO ANSWER          6.0         43               0.01
+
+
+
+S125.Q6.x ARE YOU SINGLE, MARRIED, DIVORCED OR SEPARATED OR WIDOWED?  Q.7. WERE YOU MARRIED BEFORE OR AFTER ENTERING THE ARMY?
+                       answer_label answer_value raw_counts relative_frequency
+0                NO CODE OR NO DATA          0.0          3                0.0
+1                            SINGLE          1.0       4255               0.73
+2             DIVORCED OR SEPARATED          2.0        195               0.03
+3                           WIDOWED          3.0         24                0.0
+4  MARRIED BEFORE ENTERING THE ARMY          4.0        867               0.15
+5   MARRIED AFTER ENTERING THE ARMY          5.0        441               0.08
+6                         NO ANSWER          6.0         13                0.0
+
+
+
+S125.Q8 HOW MANY CHILDREN DO YOU HAVE?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         30               0.01
+1             HAVE NO CHILDREN          1.0        892               0.15
+2               HAVE ONE CHILD          2.0        452               0.08
+3            HAVE TWO CHILDREN          3.0         92               0.02
+4  HAVE THREE OR MORE CHILDREN          4.0         36               0.01
+5             I AM NOT MARRIED          5.0       4296               0.74
+
+
+
+S125.Q9 IS YOUR WIFE NOW EXPECTING A BABY?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          9                0.0
+1                 YES          1.0        121               0.02
+2                  NO          2.0       1190               0.21
+3    I AM NOT MARRIED          3.0       4432               0.76
+4           NO ANSWER          4.0         46               0.01
+
+
+
+S125.Q10 HOW DID YOU COME INTO THE ARMY?
+                  answer_label answer_value raw_counts relative_frequency
+0           NO CODE OR NO DATA          0.0          5                0.0
+1                I WAS DRAFTED          1.0       4145               0.71
+2                I VOLUNTEERED          2.0       1301               0.22
+3  I WAS IN THE NATIONAL GUARD          3.0        329               0.06
+4                    NO ANSWER          4.0         18                0.0
+
+
+
+S125.Q11 HOW LONG HAVE YOU BEEN IN THE ARMY? E. IF YOU HAVE BEEN IN THE ARMY BEFORE, THEN WERE OUT FOR A WHILE, JUST CHECK THE LENGTH OF TIME SINCE YOU ENTERED THIS LAST TIME. IF YOU WERE IN THE NATIONAL GUARD, CHECK THE LENGTH OF TIME SINCE YOUR OUTFIT CAME INTO
+                   answer_label answer_value raw_counts relative_frequency
+0            NO CODE OR NO DATA          0.0          2                0.0
+1              3 MONTHS OR LESS          1.0          7                0.0
+2  OVER 3 MONTHS UP TO 6 MONTHS          2.0         13                0.0
+3  OVER 6 MONTHS UP TO 9 MONTHS          3.0        178               0.03
+4    OVER 9 MONTHS UP TO 1 YEAR          4.0        467               0.08
+5     OVER 1 YEAR UP TO 2 YEARS          5.0       2250               0.39
+6    OVER 2 YEARS UP TO 3 YEARS          6.0       1675               0.29
+7                  OVER 3 YEARS          7.0       1193               0.21
+8                     NO ANSWER          8.0         13                0.0
+
+
+
+S125.Q12 HOW LONG HAVE YOU BEEN STATIONED IN THE CENTRAL PACIFIC AREA?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         17                0.0
+1              3 MONTHS OR LESS          1.0       1442               0.25
+2  OVER 3 MONTHS UP TO 6 MONTHS          2.0        680               0.12
+3  OVER 6 MONTHS UP TO 9 MONTHS          3.0        658               0.11
+4    OVER 9 MONTHS UP TO 1 YEAR          4.0        488               0.08
+5     OVER 1 YEAR UP TO 2 YEARS          5.0       1286               0.22
+6    OVER 2 YEARS UP TO 3 YEARS          6.0        961               0.17
+7                  OVER 3 YEARS          7.0        266               0.05
+
+
+
+S125.Q13 HOW LONG HAVE YOU BEEN STATIONED ON THIS ISLAND?
+                   answer_label answer_value raw_counts relative_frequency
+0            NO CODE OR NO DATA          0.0         11                0.0
+1               1 MONTH OR LESS          1.0        203               0.04
+2   OVER 1 MONTH UP TO 2 MONTHS          2.0        768               0.13
+3  OVER 2 MONTHS UP TO 3 MONTHS          3.0        702               0.12
+4  OVER 3 MONTHS UP TO 6 MONTHS          4.0        823               0.14
+5  OVER 6 MONTHS UP TO 9 MONTHS          5.0        566                0.1
+6    OVER 9 MONTHS UP TO 1 YEAR          6.0        366               0.06
+7     OVER 1 YEAR UP TO 2 YEARS          7.0       1480               0.26
+8                  OVER 2 YEARS          8.0        668               0.12
+9                     NO ANSWER          9.0        211               0.04
+
+
+
+S125.Q14 HOW LONG HAVE YOU BEEN WITH YOUR PRESENT OUTFIT?
+                    answer_label answer_value raw_counts relative_frequency
+0             NO CODE OR NO DATA          0.0          2                0.0
+1              ONE MONTH OR LESS          1.0        181               0.03
+2  OVER ONE MONTH UP TO 2 MONTHS          2.0        127               0.02
+3   OVER 2 MONTHS UP TO 3 MONTHS          3.0        185               0.03
+4   OVER 3 MONTHS UP TO 6 MONTHS          4.0        440               0.08
+5   OVER 6 MONTHS UP TO 9 MONTHS          5.0        548               0.09
+6     OVER 9 MONTHS UP TO 1 YEAR          6.0        965               0.17
+7      OVER 1 YEAR UP TO 2 YEARS          7.0       1766                0.3
+8                   OVER 2 YEARS          8.0       1546               0.27
+9                      NO ANSWER          9.0         38               0.01
+
+
+
+S125.Q15 HAVE YOU EVER BEEN STATIONED ON ONE OF THE OTHER ISLANDS IN THE CENTRAL PACIFIC AREA? IF YES, TELL WHERE?
+                                        answer_label answer_value raw_counts relative_frequency
+0                                          NO ANSWER          0.0         25                0.0
+1                                        YES, HAWAII          1.0        256               0.04
+2                                          YES, MAUI          2.0         58               0.01
+3                                YES, MOLOKAI, LANAI          3.0          5                0.0
+4                                         YES, KAUAI          4.0        173               0.03
+5                                        YES, CANTON          5.0         67               0.01
+6                                     YES, CHRISTMAS          6.0         59               0.01
+7                                      YES, GILBERTS          7.0         91               0.02
+8                                     YES, MARSHALLS          8.0        481               0.08
+9   YES, MORE THAN ONE PLACE IN CENTRAL PACIFIC AREA          9.0        378               0.07
+10              YES, ALL OTHERS NOT CLASSIFIED ABOVE         10.0         42               0.01
+11                                                NO         11.0       4163               0.72
+
+
+
+S125.Q16 WERE YOU STATIONED IN ANOTHER OVERSEAS THEATER BEFORE YOU CAME TO THE CENTRAL PACIFIC AREA? IF YES, TELL WHERE?
+                answer_label answer_value raw_counts relative_frequency
+0         NO CODE OR NO DATA          0.0          9                0.0
+1  YES, ALASKA AND ALEUTIANS          1.0        588                0.1
+2             YES, CARIBBEAN          2.0         45               0.01
+3            YES, ALL OTHERS          3.0         23                0.0
+4                         NO          4.0       5085               0.88
+5                  NO ANSWER          5.0         48               0.01
+
+
+
+S125.Q17 HOW LONG HAVE YOU BEEN STATIONED AT THIS PLACE? (THE PLACE WHERE YOU NOW ARE)
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         51               0.01
+1             ONE MONTH OR LESS          1.0       1048               0.18
+2   OVER 1 MONTH UP TO 2 MONTHS          2.0        608                0.1
+3  OVER 2 MONTHS UP TO 3 MONTHS          3.0        840               0.14
+4  OVER 3 MONTHS UP TO 6 MONTHS          4.0        861               0.15
+5  OVER 6 MONTHS UP TO 9 MONTHS          5.0        621               0.11
+6    OVER 9 MONTHS UP TO 1 YEAR          6.0        379               0.07
+7     OVER 1 YEAR UP TO 2 YEARS          7.0        983               0.17
+8                  OVER 2 YEARS          8.0        407               0.07
+
+
+
+S125.Q18 WHAT BRANCH OF THE ARMY ARE YOU IN NOW?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0         15                0.0
+1                  ENGINEERS          1.0        546               0.09
+2            FIELD ARTILLERY          2.0        395               0.07
+3              QUARTERMASTER          3.0        276               0.05
+4                   INFANTRY          4.0       1388               0.24
+5         MEDICAL DEPARTMENT          5.0        397               0.07
+6              ARMORED FORCE          6.0        180               0.03
+7               SIGNAL CORPS          7.0        356               0.06
+8            COAST ARTILLERY          8.0        421               0.07
+9              ANTI-AIRCRAFT          9.0        669               0.12
+10                 AIR CORPS         10.0        432               0.07
+11      TRANSPORTATION CORPS         11.0         67               0.01
+12       ORDNANCE DEPARTMENT         12.0        274               0.05
+13  CHEMICAL WARFARE SERVICE         13.0         67               0.01
+14           MILITARY POLICE         14.0        152               0.03
+15                   CAVALRY         15.0         11                0.0
+16                 ALL OTHER         16.0        152               0.03
+
+
+
+S125.Q19 IF YOU HAD A CHANCE, WHICH ONE OF THESE BRANCHES OF THE ARMY WOULD YOU LIKE TO BE IN?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0        112               0.02
+1                  ENGINEERS          1.0        340               0.06
+2            FIELD ARTILLERY          2.0        186               0.03
+3        QUARTERMASTER CORPS          3.0        420               0.07
+4                   INFANTRY          4.0        211               0.04
+5         MEDICAL DEPARTMENT          5.0        202               0.03
+6              ARMORED FORCE          6.0        169               0.03
+7               SIGNAL CORPS          7.0        294               0.05
+8            COAST ARTILLERY          8.0        261               0.05
+9              ANTI-AIRCRAFT          9.0        199               0.03
+10                 AIR CORPS         10.0       2363               0.41
+11      TRANSPORTATION CORPS         11.0        338               0.06
+12       ORDNANCE DEPARTMENT         12.0        467               0.08
+13  CHEMICAL WARFARE SERVICE         13.0         32               0.01
+14           MILITARY POLICE         14.0        169               0.03
+15                 ALL OTHER         15.0         35               0.01
+
+
+
+S125.Q20 DO YOU FEEL PROUD OF YOUR COMPANY (BATTERY, SQUADRON, TROOP)?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          3                0.0
+1     YES, VERY PROUD          1.0       1669               0.29
+2   YES, FAIRLY PROUD          2.0       1773               0.31
+3       NO, NOT PROUD          3.0       1221               0.21
+4           UNDECIDED          4.0       1092               0.19
+5           NO ANSWER          5.0         40               0.01
+
+
+
+S125.Q21 WOULD YOU CHANGE TO SOME OTHER ARMY JOB IF GIVEN A CHANCE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         27                0.0
+1          YES          1.0       3523               0.61
+2           NO          2.0       1354               0.23
+3    UNDECIDED          3.0        894               0.15
+
+
+
+S125.Q22 DO YOU USUALLY FEEL THAT WHAT YOU ARE DOING IN THE ARMY IS WORTHWHILE OR NOT?
+                          answer_label answer_value raw_counts relative_frequency
+0                   NO CODE OR NO DATA          0.0          2                0.0
+1  I USUALLY FEEL IT IS NOT WORTHWHILE          1.0       1567               0.27
+2      I USUALLY FEEL IT IS WORTHWHILE          2.0       3285               0.57
+3                            UNDECIDED          3.0        914               0.16
+4                            NO ANSWER          4.0         30               0.01
+
+
+
+S125.Q23 DO YOU THINK YOU CAN MAKE GOOD IN THE ARMY?
+                         answer_label answer_value raw_counts relative_frequency
+0                  NO CODE OR NO DATA          0.0          2                0.0
+1  I FEEL PRETTY SURE I CAN MAKE GOOD          1.0       3367               0.58
+2    I AM NOT SO SURE I CAN MAKE GOOD          2.0       1364               0.24
+3                           UNDECIDED          3.0       1013               0.17
+4                           NO ANSWER          4.0         52               0.01
+
+
+
+S125.Q24 IN GENERAL, HOW WOULD YOU SAY YOU FEEL MOST OF THE TIME, IN GOOD SPIRITS OR IN LOW SPIRITS?
+                                                                answer_label answer_value raw_counts relative_frequency
+0                                                         NO CODE OR NO DATA          0.0          4                0.0
+1                                               I AM USUALLY IN GOOD SPIRITS          1.0       1267               0.22
+2  I AM IN GOOD SPIRITS SOME OF THE TIME AND IN LOW SPIRITS SOME OF THE TIME          2.0       3322               0.57
+3                                                I AM USUALLY IN LOW SPIRITS          3.0       1190               0.21
+4                                                                  NO ANSWER          4.0         15                0.0
+
+
+
+S125.Q25 IF IT WERE UP TO YOU, WHAT KIND OF OUTFIT WOULD YOU RATHER BE IN?
+                        answer_label answer_value raw_counts relative_frequency
+0                 NO CODE OR NO DATA          0.0          8                0.0
+1        IN A COMBAT OUTFIT OVERSEAS          1.0       1461               0.25
+2    IN A NON-COMBAT OUTFIT OVERSEAS          2.0        597                0.1
+3  IN AN OUTFIT IN THE UNITED STATES          3.0       3622               0.62
+4                          NO ANSWER          4.0        110               0.02
+
+
+
+S125.Q26 IF IT WERE UP TO YOU TO CHOOSE, DO YOU THINK YOU COULD DO MORE FOR YOUR COUNTRY AS A SOLDIER OR AS A WORKER IN A WAR JOB?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         40               0.01
+1     AS A SOLDIER          1.0       1849               0.32
+2  AS A WAR WORKER          2.0       2991               0.52
+3        UNDECIDED          3.0        918               0.16
+
+
+
+S125.Q27 HOW SATISFIED ARE YOU ABOUT BEING IN YOUR PRESENT ARMY JOB INSTEAD OF SOME OTHER ARMY JOB?
+                            answer_label answer_value raw_counts relative_frequency
+0                              NO ANSWER          0.0         25                0.0
+1                         VERY SATISFIED          1.0        723               0.12
+2                              SATISFIED          2.0       1862               0.32
+3  IT DOES NOT MAKE ANY DIFFERENCE TO ME          3.0       1241               0.21
+4                           DISSATISFIED          4.0       1281               0.22
+5                      VERY DISSATISFIED          5.0        666               0.11
+
+
+
+S125.Q28 ON THE WHOLE, DO YOU THINK THE ARMY IS GIVING YOU A CHANCE TO SHOW WHAT YOU CAN DO?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0         23                0.0
+1    A VERY GOOD CHANCE          1.0        672               0.12
+2  A FAIRLY GOOD CHANCE          2.0       1886               0.33
+3  NOT MUCH OF A CHANCE          3.0       1937               0.33
+4      NO CHANCE AT ALL          4.0        984               0.17
+5             UNDECIDED          5.0        296               0.05
+
+
+
+S125.Q29 DO YOU THINK A SOLDIER WITH ABILITY HAS A GOOD CHANCE FOR PROMOTION IN THE ARMY?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0         55               0.01
+1    A VERY GOOD CHANCE          1.0       1260               0.22
+2  A FAIRLY GOOD CHANCE          2.0       2457               0.42
+3  NOT MUCH OF A CHANCE          3.0       1385               0.24
+4      NO CHANCE AT ALL          4.0        328               0.06
+5             UNDECIDED          5.0        313               0.05
+
+
+
+S125.Q30 DO YOU THINK A SOLDIER WITH ABILITY HAS A GOOD CHANCE FOR PROMOTION IN YOUR OUTFIT?
+           answer_label answer_value raw_counts relative_frequency
+0    NO CODE OR NO DATA          0.0          4                0.0
+1    A VERY GOOD CHANCE          1.0        549               0.09
+2  A FAIRLY GOOD CHANCE          2.0       1766                0.3
+3  NOT MUCH OF A CHANCE          3.0       2102               0.36
+4      NO CHANCE AT ALL          4.0       1032               0.18
+5             UNDECIDED          5.0        304               0.05
+6             NO ANSWER          6.0         41               0.01
+
+
+
+S125.Q31 DO YOU EVER FEEL THAT YOU ARE NOT AS GOOD A SOLDIER AS MOST OF THE OTHER MEN IN YOUR OUTFIT?
+                             answer_label answer_value raw_counts relative_frequency
+0                      NO CODE OR NO DATA          0.0          4                0.0
+1  I FEEL THAT WAY NEARLY ALL OF THE TIME          1.0        472               0.08
+2            I FEEL THAT WAY FAIRLY OFTEN          2.0        550               0.09
+3    I FEEL THAT WAY ONLY ONCE IN A WHILE          3.0       1569               0.27
+4            I ALMOST NEVER FEEL THAT WAY          4.0       3160               0.55
+5                               NO ANSWER          5.0         43               0.01
+
+
+
+S125.Q32 IF YOU WERE SENT INTO ACTUAL FIGHTING RIGHT NOW, HOW DO YOU THINK YOU WOULD DO?
+                                                               answer_label answer_value raw_counts relative_frequency
+0                                              I THINK I WOULD DO ALL RIGHT          1.0       1813               0.31
+1  I THINK I WOULD HAVE TROUBLE AT FIRST, BUT AFTER A WHILE I WOULD BE O.K.          2.0       1617               0.28
+2                                         I HAVEN'T ANY IDEA HOW I WOULD DO          4.0       1675               0.29
+3                                                                 NO ANSWER          0.0         26                0.0
+4                                        I DON'T THINK I WOULD DO VERY WELL          3.0        667               0.12
+
+
+
+S125.Q33 WHICH OF THE FOLLOWING STATEMENTS BEST TELLS THE WAY YOU FEEL ABOUT GETTING INTO THE FIGHTING?
+                                                                                  answer_label answer_value raw_counts relative_frequency
+0                                                                           NO CODE OR NO DATA          0.0          2                0.0
+1                               I AM READY TO GO AND I WANT TO GET INTO THE REAL FIGHTING SOON          1.0       1069               0.18
+2   I WOULD LIKE TO GET IN ON THE FIGHTING BEFORE IT IS OVER, BUT I DON'T THINK I AM READY YET          2.0        544               0.09
+3                          I HOPE I WON'T HAVE TO GO, BUT IF I DO, I THINK I WILL DO ALL RIGHT          3.0       2018               0.35
+4             I HOPE I WON'T HAVE TO GO BECAUSE I DON'T THINK I WILL EVER BE GOOD AS A FIGHTER          4.0        550               0.09
+5                                                                NOT PHYSICALLY FIT OR TOO OLD          5.0        225               0.04
+6                                                                 AFTER FURLOUGH WILLING TO GO          6.0        205               0.04
+7                                                            GO IF ORDERED (OR SIMILAR ANSWER)          7.0        324               0.06
+8                                                                    READY TO GO AS NON-COMBAT          8.0         19                0.0
+9                                                          READY TO GO WITH TRAINING IN COMBAT          9.0         55               0.01
+10                                                MAKES NO DIFFERENCE, DON'T KNOW OR UNDECIDED         10.0         34               0.01
+11                                                             ALL OTHERS NOT CLASSIFIED ABOVE         11.0        680               0.12
+12                                                                                   NO ANSWER         12.0         73               0.01
+
+
+
+S125.Q34A IF IT WERE UP TO YOU TO CHOOSE WOULD YOU RATHER BE SENT TO FIGHT THE GERMANS OR WOULD YOU RATHER BE SENT TO FIGHT THE JAPANESE?
+                                   answer_label answer_value raw_counts relative_frequency
+0                            NO CODE OR NO DATA          0.0          8                0.0
+1   I WOULD RATHER BE SENT TO FIGHT THE GERMANS          1.0       1469               0.25
+2  I WOULD RATHER BE SENT TO FIGHT THE JAPANESE          2.0       1748                0.3
+3        IT WOULD NOT MAKE ANY DIFFERENCE TO ME          3.0       2489               0.43
+4                                     NO ANSWER          4.0         84               0.01
+
+
+
+S125.Q34B WHAT ARE THE REASONS FOR YOUR ANSWER?
+                                                                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                                                                  NO ANSWER          0.0        976               0.17
+1                          GERMANS MORE CIVILIZED, MORE HUMAN, CLEANER FIGHTERS, NOT AS SAVAGE, OR JAPS LESS CIVILIZED, ETC.          1.0        789               0.14
+2                                                                      EASIER TO BEAT, NOT AS TOUGH FIGHTERS, GIVE UP EASIER          2.0        326               0.06
+3                                                                                           HARDER TO BEAT, TOUGHER FIGHTERS          3.0         51               0.01
+4                                                    PERSONAL VINDICTIVENESS - RELATIVES MISTREATED, "I WAS AT PEARL HARBOR"          4.0        394               0.07
+5                                                                    PREFERENCE FOR CLIMATE, TERRAIN, CONDITIONS OF FIGHTING          5.0        304               0.05
+6                                                                                                FAMILIARITY WITH THEIR WAYS          6.0        113               0.02
+7                                                             TRAINED TO FIGHT THEM; HERE IN CPA; CONVENIENCE OF THE SERVICE          7.0        297               0.05
+8   WAR GUILT; THEY ATTACKED US; THEY STARTED IT; BECAUSE I REMEMBER PEARL HARBOR; DEC. 7, 1941 - NOT MENTIONING PERSONAL EX          8.0        331               0.06
+9                                                                 BOTH OUR ENEMIES; BOTH HAVE TO BE BEATEN BEFORE WAR IS WON          9.0       1383               0.24
+10                                                                                                MORE THAN ONE REASON GIVEN         10.0        284               0.05
+11                                                                                                ALL OTHER AND UNCLASSIFIED         11.0        550               0.09
+
+
+
+S125.Q35 ABOUT HOW MUCH LONGER FROM NOW DO YOU GUESS THE WAR WILL LAST WITH GERMANY?
+                  answer_label answer_value raw_counts relative_frequency
+0           NO CODE OR NO DATA          0.0          4                0.0
+1             LESS THAN 1 YEAR          1.0       2419               0.42
+2                       1 YEAR          2.0       1488               0.26
+3         OVER 1 UP TO 2 YEARS          3.0        784               0.14
+4                      2 YEARS          4.0        390               0.07
+5   OVER 2 YEARS UP TO 3 YEARS          5.0         56               0.01
+6                      3 YEARS          6.0         39               0.01
+7                 OVER 3 YEARS          7.0         32               0.01
+8      INDEFINITE (SHORT TIME)          8.0         47               0.01
+9       INDEFINITE (LONG TIME)          9.0         34               0.01
+10  INDEFINITE (NO INDICATION)         10.0         86               0.01
+11       DON'T KNOW, UNDECIDED         11.0        344               0.06
+12                   NO ANSWER         12.0         75               0.01
+
+
+
+S125.Q36 WHICH COMES CLOSEST TO YOUR IDEA OF HOW HARD IT IS GOING TO BE TO BEAT THE GERMANS?
+                                                          answer_label answer_value raw_counts relative_frequency
+0                                                   NO CODE OR NO DATA          0.0          8                0.0
+1                                             IT WILL NOT BE VERY HARD          1.0        274               0.05
+2        IT WILL BE A TOUGH JOB, BUT OUR LOSSES SHOULDN'T BE TOO HEAVY          2.0       2196               0.38
+3  IT WILL BE A VERY TOUGH JOB, WITH HEAVY LOSSES OF MEN AND MATERIALS          3.0       3276               0.57
+4                                                            NO ANSWER          4.0         44               0.01
+
+
+
+S125.Q37 ABOUT HOW MUCH LONGER FROM NOW DO YOU GUESS THE WAR WILL LAST WITH JAPAN?
+                  answer_label answer_value raw_counts relative_frequency
+0           NO CODE OR NO DATA          0.0          5                0.0
+1             LESS THAN 1 YEAR          1.0        636               0.11
+2                       1 YEAR          2.0       1002               0.17
+3         OVER 1 UP TO 2 YEARS          3.0       1568               0.27
+4                      2 YEARS          4.0       1226               0.21
+5   OVER 2 YEARS UP TO 3 YEARS          5.0        315               0.05
+6                      3 YEARS          6.0        222               0.04
+7                 OVER 3 YEARS          7.0        192               0.03
+8      INDEFINITE (SHORT TIME)          8.0         49               0.01
+9       INDEFINITE (LONG TIME)          9.0         59               0.01
+10  INDEFINITE (NO INDICATION)         10.0         99               0.02
+11       DON'T KNOW, UNDECIDED         11.0        346               0.06
+12                   NO ANSWER         12.0         79               0.01
+
+
+
+S125.Q38 WHICH COMES CLOSEST TO YOUR IDEA OF HOW HARD IT IS GOING TO BE TO BEAT THE JAPANESE?
+                                                          answer_label answer_value raw_counts relative_frequency
+0                                                   NO CODE OR NO DATA          0.0          7                0.0
+1                                             IT WILL NOT BE VERY HARD          1.0        392               0.07
+2        IT WILL BE A TOUGH JOB, BUT OUR LOSSES SHOULDN'T BE TOO HEAVY          2.0       2788               0.48
+3  IT WILL BE A VERY TOUGH JOB, WITH HEAVY LOSSES OF MEN AND MATERIALS          3.0       2567               0.44
+4                                                            NO ANSWER          4.0         44               0.01
+
+
+
+S125.Q39 IF THE GERMANS WERE TO OFFER TO STOP FIGHTING NOW, AND TO GIVE UP ALL THE COUNTRIES AND TERRITORY THEY HAVE TAKEN OVER, WHAT DO YOU THINK WE SHOULD DO?
+                                                                       answer_label answer_value raw_counts relative_frequency
+0                                                                NO CODE OR NO DATA          0.0          6                0.0
+1                                  WE SHOULD ACCEPT THE OFFER AND STOP FIGHTING NOW          1.0        322               0.06
+2       WE SHOULD CONSIDER THE OFFER AND TRY TO WORK OUT SOME PEACE TERMS WITH THEM          2.0       1544               0.27
+3  WE SHOULD TURN DOWN THE OFFER AND KEEP ON FIGHTING UNTIL THEY GIVE UP COMPLETELY          3.0       3467                0.6
+4                                                                         UNDECIDED          4.0        438               0.08
+5                                                                         NO ANSWER          5.0         21                0.0
+
+
+
+S125.Q40 IF THE JAPANESE WERE TO OFFER TO STOP FIGHTING NOW AND TO GIVE UP ALL THE COUNTRIES AND TERRITORY THEY HAVE TAKEN OVER, WHAT DO YOU THINK WE SHOULD DO?
+                                                                       answer_label answer_value raw_counts relative_frequency
+0                                                                NO CODE OR NO DATA          0.0          4                0.0
+1                                  WE SHOULD ACCEPT THE OFFER AND STOP FIGHTING NOW          1.0        264               0.05
+2       WE SHOULD CONSIDER THE OFFER AND TRY TO WORK OUT SOME PEACE TERMS WITH THEM          2.0        856               0.15
+3  WE SHOULD TURN DOWN THE OFFER AND KEEP ON FIGHTING UNTIL THEY GIVE UP COMPLETELY          3.0       4320               0.75
+4                                                                         UNDECIDED          4.0        328               0.06
+5                                                                         NO ANSWER          5.0         26                0.0
+
+
+
+S125.Q41 WHICH DO YOU THINK ARE THE MOST DANGEROUS TO FIGHT AGAINST, THE GERMANS OR THE JAPANESE?
+                                           answer_label answer_value raw_counts relative_frequency
+0                                             NO ANSWER          0.0         38               0.01
+1   THE GERMANS ARE THE MOST DANGEROUS TO FIGHT AGAINST          1.0       1114               0.19
+2  THE JAPANESE ARE THE MOST DANGEROUS TO FIGHT AGAINST          2.0       3153               0.54
+3                               THEY ARE ABOUT THE SAME          3.0       1008               0.17
+4                                             UNDECIDED          4.0        485               0.08
+
+
+
+S125.Q42A "WE SHOULD SEE TO IT THAT THE GERMAN PEOPLE SUFFER PLENTY FOR ALL THE TROUBLE THEY ARE CAUSING US"?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          8                0.0
+1               AGREE          1.0       2695               0.46
+2            DISAGREE          2.0       3007               0.52
+3           NO ANSWER          3.0         88               0.02
+
+
+
+S125.Q42B "WE SHOULD SEE TO IT THAT THE JAPANESE PEOPLE SUFFER PLENTY FOR ALL THE TROUBLE THEY ARE CAUSING US"?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          6                0.0
+1               AGREE          1.0       3658               0.63
+2            DISAGREE          2.0       2025               0.35
+3           NO ANSWER          3.0        109               0.02
+
+
+
+S125.Q43 WOULD YOU SAY THAT MOST OF THE MEN IN YOUR OUTFIT USUALLY PUT ALL THEY HAVE INTO THEIR ARMY DUTIES, OR DO THEY USUALLY WORK JUST HARD ENOUGH TO GET BY?
+                                              answer_label answer_value raw_counts relative_frequency
+0                                       NO CODE OR NO DATA          0.0          2                0.0
+1        MOST OF THE MEN USUALLY PUT ALL THEY HAVE INTO IT          1.0       2032               0.35
+2  MOST OF THE MEN USUALLY WORK JUST HARD ENOUGH TO GET BY          2.0       3190               0.55
+3                                                UNDECIDED          3.0        538               0.09
+4                                                NO ANSWER          4.0         36               0.01
+
+
+
+S125.Q44 HOW ABOUT YOU YOURSELF - WOULD YOU HONESTLY SAY THAT YOU USUALLY PUT ALL YOU HAVE INTO YOUR ARMY DUTIES, OR DO YOU USUALLY WORK JUST HARD ENOUGH TO GET BY?
+                                answer_label answer_value raw_counts relative_frequency
+0                         NO CODE OR NO DATA          0.0          3                0.0
+1           I USUALLY PUT ALL I HAVE INTO IT          1.0       2734               0.47
+2  I USUALLY WORK JUST HARD ENOUGH TO GET BY          2.0       2500               0.43
+3                                  UNDECIDED          3.0        511               0.09
+4                                  NO ANSWER          4.0         50               0.01
+
+
+
+S125.Q45 ON THE WHOLE HOW DO YOU FEEL ABOUT THE ARMY?
+                   answer_label answer_value raw_counts relative_frequency
+0            NO CODE OR NO DATA          0.0          2                0.0
+1     I LIKE THE ARMY VERY MUCH          1.0        488               0.08
+2         I LIKE IT FAIRLY WELL          2.0       2341                0.4
+3           I RATHER DISLIKE IT          3.0       1707               0.29
+4  I DISLIKE THE ARMY VERY MUCH          4.0       1192               0.21
+5                     NO ANSWER          5.0         68               0.01
+
+
+
+S125.Q46 IN GENERAL, HOW WELL DO YOU THINK THE ARMY IS RUN?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0         44               0.01
+1    IT IS RUN VERY WELL          1.0       1025               0.18
+2  IT IS RUN PRETTY WELL          2.0       2260               0.39
+3  IT IS NOT RUN SO WELL          3.0       1347               0.23
+4  IT IS RUN VERY POORLY          4.0        690               0.12
+5              UNDECIDED          5.0        432               0.07
+
+
+
+S125.Q47 HOW MANY OF THE MEN IN YOUR COMPANY WOULD YOU SAY ARE GOOD ALL AROUND SOLDIERS?
+                   answer_label answer_value raw_counts relative_frequency
+0            NO CODE OR NO DATA          0.0          5                0.0
+1                       ALL ARE          1.0        357               0.06
+2                      MOST ARE          2.0       2750               0.47
+3  ABOUT HALF ARE, HALF ARE NOT          3.0       1573               0.27
+4                ONLY A FEW ARE          4.0        885               0.15
+5               ALMOST NONE ARE          5.0        186               0.03
+6                     NO ANSWER          6.0         42               0.01
+
+
+
+S125.Q48 HOW DO YOU FEEL ABOUT THE NONCOMS THAT HAVE BEEN PICKED FROM YOUR OUTFIT?
+                                          answer_label answer_value raw_counts relative_frequency
+0                                            NO ANSWER          0.0         43               0.01
+1   THEY ARE THE BEST ONES THAT COULD HAVE BEEN PICKED          1.0        445               0.08
+2  THEY ARE AS GOOD AS ANY THAT COULD HAVE BEEN PICKED          2.0       1958               0.34
+3          SOMEWHAT BETTER ONES COULD HAVE BEEN PICKED          3.0       2179               0.38
+4              MUCH BETTER ONES COULD HAVE BEEN PICKED          4.0        985               0.17
+5                                            UNDECIDED          5.0        188               0.03
+
+
+
+S125.Q49 HOW MANY OF THE NONCOMS YOU NOW SERVE UNDER ARE THE KIND YOU WOULD WANT TO SERVE UNDER IN COMBAT?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0         66               0.01
+1         ALL OF THEM ARE          1.0        522               0.09
+2        MOST OF THEM ARE          2.0       1722                0.3
+3  ABOUT HALF OF THEM ARE          3.0       1317               0.23
+4         FEW OF THEM ARE          4.0       1699               0.29
+5        NONE OF THEM ARE          5.0        472               0.08
+
+
+
+S125.Q50 HOW MANY OF THE OFFICERS IN YOUR COMPANY (BATTERY, SQUADRON, TROOP) ARE THE KIND YOU WOULD WANT TO SERVE UNDER IN COMBAT?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0         61               0.01
+1         ALL OF THEM ARE          1.0        686               0.12
+2        MOST OF THEM ARE          2.0       1543               0.27
+3  ABOUT HALF OF THEM ARE          3.0       1031               0.18
+4         FEW OF THEM ARE          4.0       1787               0.31
+5        NONE OF THEM ARE          5.0        690               0.12
+
+
+
+S125.Q51 HOW MANY OF YOUR COMPANY OFFICERS ARE THE KIND WHO ARE WILLING TO GO THROUGH ANYTHING THEY ASK THEIR MEN TO GO THROUGH?
+             answer_label answer_value raw_counts relative_frequency
+0      NO CODE OR NO DATA          0.0          3                0.0
+1         ALL OF THEM ARE          1.0        821               0.14
+2        MOST OF THEM ARE          2.0       1590               0.27
+3  ABOUT HALF OF THEM ARE          3.0        942               0.16
+4         FEW OF THEM ARE          4.0       1793               0.31
+5        NONE OF THEM ARE          5.0        552                0.1
+6               NO ANSWER          6.0         97               0.02
+
+
+
+S125.Q52 HOW MANY OF YOUR OFFICERS TAKE A PERSONAL INTEREST IN THEIR MEN?
+            answer_label answer_value raw_counts relative_frequency
+0     NO CODE OR NO DATA          0.0          8                0.0
+1         ALL OF THEM DO          1.0        551                0.1
+2        MOST OF THEM DO          2.0       1390               0.24
+3  ABOUT HALF OF THEM DO          3.0       1011               0.17
+4         FEW OF THEM DO          4.0       2103               0.36
+5        NONE OF THEM DO          5.0        679               0.12
+6              NO ANSWER          6.0         56               0.01
+
+
+
+S125.Q53A HAVE YOU EVER BEEN UNDER ENEMY FIRE? IF YES, TELL WHERE?
+                                         answer_label answer_value raw_counts relative_frequency
+0                                  NO CODE OR NO DATA          0.0          3                0.0
+1                      YES, HAWAII GROUP DECEMBER 7TH          1.0        367               0.06
+2                                       YES, GILBERTS          2.0        453               0.08
+3                           YES, ALASKA AND ALEUTIANS          3.0         78               0.01
+4                           YES, CANTON AND CHRISTMAS          4.0         35               0.01
+5                                      YES, MARSHALLS          5.0        265               0.05
+6   YES, ANY OTHER SINGLE AREA (CENTRAL PACIFIC AREA)          6.0          2                0.0
+7        YES, ALL OTHERS INCLUDING TWO OR MORE PLACES          7.0        355               0.06
+8                             YES, DOES NOT SAY WHERE          8.0         35               0.01
+9                                                  NO          9.0       4195               0.72
+10                                          NO ANSWER         10.0         10                0.0
+
+
+
+S125.Q53B CHECK ALL THE KINDS OF ENEMY FIRE YOU HAVE BEEN UNDER.
+                                   answer_label answer_value raw_counts relative_frequency
+0                            NO CODE OR NO DATA          0.0          3                0.0
+1                                 ANTI-AIRCRAFT          1.0         10                0.0
+2                                         BOMBS          2.0        148               0.03
+3                                        SHELLS          3.0         32               0.01
+4                                   MACHINE GUN          4.0         21                0.0
+5                                         RIFLE          5.0         64               0.01
+6                                      STRAFING          6.0         64               0.01
+7                            BOMBS AND STRAFING          7.0        265               0.05
+8   BOMBS, SHELLS, MACHINE GUN, RIFLE, STRAFING          8.0          9                0.0
+9         ALL OTHER COMBINATIONS OF ABOVE KINDS          9.0        720               0.12
+10                              ALL OTHER KINDS         10.0        248               0.04
+11          I HAVEN'T BEEN UNDER ANY ENEMY FIRE         11.0       4195               0.72
+12                                    NO ANSWER         12.0         19                0.0
+
+
+
+S125.Q54 DO YOU EVER WORRY ABOUT HOW WELL YOUR FAMILY IS GETTING ALONG BACK HOME?
+                    answer_label answer_value raw_counts relative_frequency
+0             NO CODE OR NO DATA          0.0          5                0.0
+1           I DON'T WORRY AT ALL          1.0        367               0.06
+2  I WORRY A LITTLE BUT NOT MUCH          2.0       1781               0.31
+3            I WORRY PRETTY MUCH          3.0       1558               0.27
+4                  I WORRY A LOT          4.0       2068               0.36
+5                      NO ANSWER          5.0         19                0.0
+
+
+
+S125.Q55 UP TO NOW, HAS THE WAR MADE THINGS BETTER OR WORSE FOR YOUR FAMILY AND FRIENDS BACK HOME (SUCH THINGS AS JOBS, PAY, AND LIVING CONDITIONS)?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0         36               0.01
+1                   THINGS ARE A LOT BETTER          1.0        448               0.08
+2  THINGS ARE A LITTLE BETTER, BUT NOT MUCH          2.0        960               0.17
+3                I DON'T SEE ANY DIFFERENCE          3.0       1141                0.2
+4                 THINGS ARE A LITTLE WORSE          4.0       1345               0.23
+5                    THINGS ARE A LOT WORSE          5.0       1092               0.19
+6                                DON'T KNOW          6.0        776               0.13
+
+
+
+S125.Q56 HOW MANY FURLOUGHS HAVE YOU HAD SINCE YOU HAVE BEEN IN THE ARMY?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          6                0.0
+1                 ONE          1.0       1622               0.28
+2                 TWO          2.0        710               0.12
+3               THREE          3.0        356               0.06
+4                FOUR          4.0        164               0.03
+5        FIVE OR OVER          5.0        293               0.05
+6                NONE          6.0       2627               0.45
+7           NO ANSWER          7.0         20                0.0
+
+
+
+S125.Q57 DO YOU FEEL THAT YOU HAVE BEEN GIVEN YOUR FAIR SHARE OF FURLOUGHS SINCE YOU HAVE BEEN IN THE ARMY?
+                                    answer_label answer_value raw_counts relative_frequency
+0                             NO CODE OR NO DATA          0.0         15                0.0
+1  NO, I HAVE NOT HAD MY FAIR SHARE OF FURLOUGHS          2.0       4323               0.75
+2     YES, I HAVE HAD MY FAIR SHARE OF FURLOUGHS          1.0       1397               0.24
+3                                      NO ANSWER          3.0         63               0.01
+
+
+
+S125.Q58A.x HAVE YOU HAD A FURLOUGH BACK TO THE STATES SINCE YOU HAVE BEEN IN THE CENTRAL PACIFIC AREA?  Q.58B. WAS THIS AN EMERGENCY FURLOUGH OR A REGULAR FURLOUGH?
+                            answer_label answer_value raw_counts relative_frequency
+0  YES, I HAVE HAD AN EMERGENCY FURLOUGH          1.0         65               0.01
+1     YES, I HAVE HAD A REGULAR FURLOUGH          2.0         78               0.01
+2                              NO ANSWER          4.0         12                0.0
+3                     NO CODE OR NO DATA          0.0          9                0.0
+4                                     NO          3.0       5634               0.97
+
+
+
+S125.Q59A IN THE LAST 30 DAYS ABOUT HOW MANY TIMES HAVE YOU HAD A PASS FOR 12 HOURS OR MORE?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          7                0.0
+1                 ONE          1.0       1601               0.28
+2                 TWO          2.0       1454               0.25
+3               THREE          3.0       1071               0.18
+4                FOUR          4.0        683               0.12
+5        FIVE OR OVER          5.0        207               0.04
+6                NONE          6.0        723               0.12
+7           NO ANSWER          7.0         52               0.01
+
+
+
+S125.Q59B IN THE LAST 30 DAYS HOW MANY OF EACH KIND OF PASS HAVE YOU HAD? E. TOTAL NUMBER OF HOURS ON PASS IN LAST 30 DAYS:
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0         87               0.02
+1               12 HOURS          1.0        884               0.15
+2               24 HOURS          2.0       1164                0.2
+3               36 HOURS          3.0        867               0.15
+4               48 HOURS          4.0        897               0.15
+5               60 HOURS          5.0        206               0.04
+6               72 HOURS          6.0        543               0.09
+7               84 HOURS          7.0        101               0.02
+8               96 HOURS          8.0        333               0.06
+9   ALL PERMANENT PASSES          9.0         27                0.0
+10            ALL OTHERS         10.0         95               0.02
+11                  NONE         11.0        594                0.1
+
+
+
+S125.Q60 HAVE YOU EVER HAD A D.S. (5 DAY PASS) SINCE YOU HAVE BEEN IN THE CENTRAL PACIFIC AREA? IF YES, TELL HOW MANY?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          7                0.0
+1            YES, ONE          1.0        346               0.06
+2            YES, TWO          2.0         35               0.01
+3          YES, THREE          3.0          6                0.0
+4           YES, FOUR          4.0          2                0.0
+5                  NO          6.0       5378               0.93
+6           NO ANSWER          7.0         24                0.0
+
+
+
+S125.Q61 WHERE DID YOU GO WHEN YOU HAD A D.S. (5 DAY PASS)?
+                      answer_label answer_value raw_counts relative_frequency
+0               NO CODE OR NO DATA          0.0         10                0.0
+1                           HAWAII          1.0        167               0.03
+2                             MAUI          2.0         27                0.0
+3                            KAUAI          3.0         43               0.01
+4                             OAHU          4.0        133               0.02
+5                       ALL OTHERS          5.0         15                0.0
+6  I NEVER HAD A D.S. (5 DAY PASS)          6.0       5364               0.93
+7                        NO ANSWER          7.0         39               0.01
+
+
+
+S125.Q62 DO YOU FEEL THAT YOU HAVE BEEN GIVEN YOUR FAIR SHARE OF PASSES SINCE YOU HAVE BEEN IN THE CENTRAL PACIFIC AREA?
+                                 answer_label answer_value raw_counts relative_frequency
+0                          NO CODE OR NO DATA          0.0          8                0.0
+1     YES, I HAVE HAD MY FAIR SHARE OF PASSES          1.0       3917               0.68
+2  NO, I HAVE NOT HAD MY FAIR SHARE OF PASSES          2.0       1792               0.31
+3                                   NO ANSWER          3.0         81               0.01
+
+
+
+S125.Q63 WHEN THE WAR IS OVER DO YOU THINK THE ARMY SHOULD RELEASE ALL SOLDIERS BACK TO CIVILIAN LIFE AS SOON AS POSSIBLE OR SHOULD IT RELEASE THEM ONLY WHEN THERE ARE JOBS FOR THEM?
+                                                             answer_label answer_value raw_counts relative_frequency
+0                                                      NO CODE OR NO DATA          0.0          6                0.0
+1                           RELEASE MEN ONLY WHEN THERE ARE JOBS FOR THEM          1.0       1236               0.21
+2  RELEASE MEN AS SOON AS POSSIBLE WHETHER THERE ARE JOBS FOR THEM OR NOT          2.0       3457                0.6
+3                                                               UNDECIDED          3.0       1008               0.17
+4                                                               NO ANSWER          4.0         91               0.02
+
+
+
+S125.V64G MEN WITH DEPENDENTS
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          7                0.0
+1             1 CHECK          1.0       1282               0.22
+2            2 CHECKS          2.0       1329               0.23
+3            3 CHECKS          3.0       1939               0.33
+4           NO CHECKS          4.0        565                0.1
+5           NO ANSWER          5.0        676               0.12
+
+
+
+S125.V64H MEN IN THE ARMY LONGEST
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          8                0.0
+1             1 CHECK          1.0       2189               0.38
+2            2 CHECKS          2.0       1349               0.23
+3            3 CHECKS          3.0        253               0.04
+4           NO CHECKS          4.0       1323               0.23
+5           NO ANSWER          5.0        676               0.12
+
+
+
+S125.V64I MEN WHO HAVE SERVED OVERSEAS
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0         10                0.0
+1             1 CHECK          1.0        298               0.05
+2            2 CHECKS          2.0       1972               0.34
+3            3 CHECKS          3.0       2789               0.48
+4           NO CHECKS          4.0         53               0.01
+5           NO ANSWER          5.0        676               0.12
+
+
+
+S125.V64J MEN OVER THIRTY YEARS OF AGE
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0         10                0.0
+1             1 CHECK          1.0       1345               0.23
+2            2 CHECKS          2.0        462               0.08
+3            3 CHECKS          3.0        131               0.02
+4           NO CHECKS          4.0       3174               0.55
+5           NO ANSWER          5.0        676               0.12
+
+
+
+S125.Q65 DO YOU THINK THERE IS SOME OTHER GROUP OF SOLDIERS BESIDES THOSE LISTED IN QUESTION 64 THAT SHOULD BE LET OUT OF THE ARMY FIRST? IF YES, WHAT GROUP OF SOLDIERS?
+                                                                     answer_label answer_value raw_counts relative_frequency
+0                                                              NO CODE OR NO DATA          0.0          6                0.0
+1                                                   YES, MEN WHO HAVE SEEN COMBAT          1.0        589                0.1
+2                                        YES, MEN WITH PHYSICAL DEFECTS - OLD MEN          2.0        277               0.05
+3  YES, MEN WITH POSTWAR PLANS: (SCHOOL, JOBS, FARMERS, OWNERS OF BUSINESS, ETC.)          3.0        214               0.04
+4                                     YES, ALL OTHERS, INCLUDING MULTIPLE ANSWERS          4.0        838               0.14
+5                                                                              NO          5.0       3559               0.61
+6                                                                       NO ANSWER          6.0        315               0.05
+
+
+
+S125.Q66 AFTER THE WAR DO YOU THINK SOLDIERS SHOULD BE GIVEN FIRST CHOICE OF THE JOBS THAT ARE OPEN OR DO YOU THINK EVERYBODY SHOULD HAVE AN EQUAL CHANCE TO GET JOBS?
+                            answer_label answer_value raw_counts relative_frequency
+0                     NO CODE OR NO DATA          0.0         12                0.0
+1       SOLDIERS SHOULD GET FIRST CHOICE          1.0       3881               0.67
+2  EVERYBODY SHOULD HAVE AN EQUAL CHANCE          2.0       1647               0.28
+3                              UNDECIDED          3.0        219               0.04
+4                              NO ANSWER          4.0         39               0.01
+
+
+
+S125.Q67 AFTER THE WAR, DO YOU THINK THE UNITED STATES COULD HAVE AN ARMY LARGE ENOUGH FOR THE COUNTRY'S NEEDS BY TAKING VOLUNTEERS ONLY?
+                  answer_label answer_value raw_counts relative_frequency
+0           NO CODE OR NO DATA          0.0         10                0.0
+1        YES, I THINK IT COULD          1.0       3063               0.53
+2  NO, I DO NOT THINK IT COULD          2.0       2065               0.36
+3                    UNDECIDED          3.0        622               0.11
+4                    NO ANSWER          4.0         38               0.01
+
+
+
+S125.Q68 AFTER THE WAR, DO YOU THINK THE UNITED STATES SHOULD DRAFT ALL YOUNG MEN FOR A CERTAIN AMOUNT OF ARMY TRAINING DURING PEACETIME OR SHOULD WE GO BACK TO THE REGULAR ARMY SYSTEM OF TAKING VOLUNTEERS ONLY?
+                                           answer_label answer_value raw_counts relative_frequency
+0                                    NO CODE OR NO DATA          0.0          9                0.0
+1  DRAFT ALL YOUNG MEN FOR A CERTAIN AMOUNT OF TRAINING          1.0       4030                0.7
+2                     GO BACK TO TAKING VOLUNTEERS ONLY          2.0       1377               0.24
+3                                             UNDECIDED          3.0        341               0.06
+4                                             NO ANSWER          4.0         41               0.01
+
+
+
+S125.Q69 WHICH OF THE FOLLOWING REASONS COMES CLOSEST TO SAYING WHY YOU THINK THE UNITED STATES SHOULD DRAFT ALL YOUNG MEN FOR A CERTAIN AMOUNT OF ARMY TRAINING DURING PEACE- TIME?
+                                                                                            answer_label answer_value raw_counts relative_frequency
+0                                                                                     NO CODE OR NO DATA          0.0         15                0.0
+1                                     I THINK THE UNITED STATES SHOULD GO BACK TO TAKING VOLUNTEERS ONLY          1.0       1258               0.22
+2                                        BECAUSE I THINK THE ARMY EXPERIENCE IS WORTHWHILE FOR YOUNG MEN          2.0        418               0.07
+3                                    BECAUSE I THINK IT IS NECESSARY FOR THE SAFETY OF THE UNITED STATES          3.0        820               0.14
+4  BECAUSE I THINK IT IS BOTH WORTHWHILE FOR YOUNG MEN AND NECESSARY FOR THE SAFETY OF THE UNITED STATES          4.0       3011               0.52
+5                                                                                  FOR SOME OTHER REASON          5.0        115               0.02
+6                                                                                              NO ANSWER          6.0        161               0.03
+
+
+
+S125.Q70 IF ALL YOUNG MEN IN THE UNITED STATES WERE TO BE GIVEN MILITARY TRAINING, AT ABOUT WHAT AGE DO YOU THINK THIS TRAINING SHOULD BE GIVEN?
+             answer_label answer_value raw_counts relative_frequency
+0      NO CODE OR NO DATA          0.0         10                0.0
+1  BEFORE 18 YEARS OF AGE          1.0        421               0.07
+2      AT 18 YEARS OF AGE          2.0       3292               0.57
+3      AT 19 YEARS OF AGE          3.0        799               0.14
+4      AT 20 YEARS OF AGE          4.0        573                0.1
+5      AT 21 YEARS OF AGE          5.0        425               0.07
+6   AFTER 21 YEARS OF AGE          6.0        145               0.03
+7               NO ANSWER          7.0        133               0.02
+
+
+
+S125.Q71 IF ALL YOUNG MEN IN THE UNITED STATES WERE TO BE GIVEN MILITARY TRAINING, FOR ABOUT HOW LONG A TIME DO YOU THINK THIS TRAINING SHOULD LAST?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0         10                0.0
+1      ABOUT 6 MONTHS          1.0       1270               0.22
+2        ABOUT 1 YEAR          2.0       3856               0.67
+3   ABOUT 1 1/2 YEARS          3.0        328               0.06
+4       ABOUT 2 YEARS          4.0        221               0.04
+5   MORE THAN 2 YEARS          5.0         39               0.01
+6           NO ANSWER          6.0         74               0.01
+
+
+
+S125.Q72 DO YOU THINK YOU MIGHT WANT TO STAY IN THE ARMY AFTER THE WAR?
+                              answer_label answer_value raw_counts relative_frequency
+0                       NO CODE OR NO DATA          0.0         11                0.0
+1           YES, I WOULD WANT TO VERY MUCH          1.0         81               0.01
+2  YES, I MIGHT WANT TO, BUT I AM NOT SURE          2.0        513               0.09
+3        NO, I DON'T THINK I WOULD WANT TO          3.0       1347               0.23
+4           NO, I WOULD NOT WANT TO AT ALL          4.0       3580               0.62
+5                                UNDECIDED          5.0        238               0.04
+6                                NO ANSWER          6.0         28                0.0
+
+
+
+S125.Q73 AFTER THE WAR DO YOU THINK YOU WOULD LIKE TO COME BACK TO THE ARMY FOR TWO WEEKS OF TRAINING EVERY YEAR?
+                              answer_label answer_value raw_counts relative_frequency
+0                       NO CODE OR NO DATA          0.0         10                0.0
+1           YES, I WOULD WANT TO VERY MUCH          1.0        804               0.14
+2  YES, I MIGHT WANT TO, BUT I AM NOT SURE          2.0       1219               0.21
+3        NO, I DON'T THINK I WOULD WANT TO          3.0       1092               0.19
+4           NO, I WOULD NOT WANT TO AT ALL          4.0       2344                0.4
+5                                UNDECIDED          5.0        284               0.05
+6                                NO ANSWER          6.0         45               0.01
+
+
+
+S125.Q74A "AFTER THE WAR THE UNITED STATES SHOULD CONTROL AND DOMINATE THE WORLD"?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0         10                0.0
+1               AGREE          1.0        861               0.15
+2            DISAGREE          2.0       4711               0.81
+3           NO ANSWER          3.0        216               0.04
+
+
+
+S125.Q74B "AFTER THE WAR THE UNITED STATES SHOULD STAY OUT OF WORLD AFFAIRS AND STICK TO THE PROBLEMS IN THE UNITED STATES"?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0         10                0.0
+1               AGREE          1.0       2095               0.36
+2            DISAGREE          2.0       3498                0.6
+3           NO ANSWER          3.0        195               0.03
+
+
+
+S125.Q74C "AFTER THE WAR THE NATIONS OF THE WORLD SHOULD SET UP A STRONG INTERNATIONAL ORGANIZATION"?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0         10                0.0
+1               AGREE          1.0       5015               0.86
+2            DISAGREE          2.0        539               0.09
+3           NO ANSWER          3.0        234               0.04
+
+
+
+S125.Q74D "AFTER THE WAR THE UNITED STATES SHOULD JOIN A STRONG INTERNATIONAL ORGANIZATION OF NATIONS EVEN IF IT MEANT THAT THIS ORGANIZATION WOULD HAVE SOME CONTROL OVER HOW THE UNITED STATES DEALS WITH OTHER COUNTRIES"?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0         11                0.0
+1               AGREE          1.0       3622               0.62
+2            DISAGREE          2.0       1879               0.32
+3           NO ANSWER          3.0        286               0.05
+
+
+
+S125.Q74E "AFTER THE WAR THERE SHOULD BE AN INTERNATIONALLY CONTROLLED ARMY TO POLICE THE WORLD"?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0         10                0.0
+1            DISAGREE          2.0       1756                0.3
+2               AGREE          1.0       3775               0.65
+3           NO ANSWER          3.0        257               0.04
+
+
+
+S125.Q75 WHICH DO YOU THINK WOULD BE THE BEST WAY FOR THE UNITED STATES TO KEEP OUT OF WAR IN THE FUTURE?
+                            answer_label answer_value raw_counts relative_frequency
+0                              NO ANSWER          0.0         93               0.02
+1              STAY OUT OF WORLD AFFAIRS          1.0        850               0.15
+2  JOIN A STRONG ORGANIZATION OF NATIONS          2.0       3596               0.62
+3                           ISOLATIONIST          3.0         67               0.01
+4                            IMPERIALIST          4.0         44               0.01
+5                       INTERNATIONALIST          5.0         72               0.01
+6                   STRONG ARMY AND NAVY          6.0        288               0.05
+7               SOME OTHER WAY - NO PLAN          7.0        161               0.03
+8                              UNDECIDED          8.0        627               0.11
+
+
+
+S125.Q76A HOW MANY TIMES DID YOU VISIT A POST EXCHANGE (A PX LOCATED ON A MAIN ARMY POST) LAST WEEK?
+                  answer_label answer_value raw_counts relative_frequency
+0           NO CODE OR NO DATA          0.0         10                0.0
+1                ONCE OR TWICE          1.0       1478               0.25
+2          THREE OR FOUR TIMES          2.0       1154                0.2
+3           FIVE TO NINE TIMES          3.0        646               0.11
+4            TEN OR MORE TIMES          4.0        569                0.1
+5                  NONE AT ALL          5.0        789               0.14
+6  I DON'T USE A POST EXCHANGE          6.0       1071               0.18
+7                    NO ANSWER          7.0         81               0.01
+
+
+
+S125.Q76B HOW MANY TIMES DID YOU VISIT A FIELD EXCHANGE (AN EXCHANGE LOCATED IN THE FIELD, AWAY FROM A MAIN ARMY POST) LAST WEEK?
+                   answer_label answer_value raw_counts relative_frequency
+0            NO CODE OR NO DATA          0.0         10                0.0
+1                 ONCE OR TWICE          1.0        774               0.13
+2           THREE OR FOUR TIMES          2.0        824               0.14
+3            FIVE TO NINE TIMES          3.0        602                0.1
+4             TEN OR MORE TIMES          4.0        603                0.1
+5                   NONE AT ALL          5.0        768               0.13
+6  I DON'T USE A FIELD EXCHANGE          6.0       2136               0.37
+7                     NO ANSWER          7.0         81               0.01
+
+
+
+S125.Q77A ARE THERE ARTICLES THAT YOU REGULARLY NEED THAT YOU CANNOT BUY IN A POST EXCHANGE (A PX LOCATED ON A MAIN ARMY POST)? IF YES, WHAT ARTICLES?
+                  answer_label answer_value raw_counts relative_frequency
+0           NO CODE OR NO DATA          0.0         10                0.0
+1      YES, ARTICLES MENTIONED          1.0        574                0.1
+2   YES, NO ARTICLES MENTIONED          2.0        138               0.02
+3                           NO          3.0       3871               0.67
+4  I DON'T USE A POST EXCHANGE          4.0       1063               0.18
+5                    NO ANSWER          5.0        142               0.02
+
+
+
+S125.Q77B ARE THERE ARTICLES THAT YOU REGULARLY NEED THAT YOU CANNOT BUY IN A FIELD EXCHANGE (AN EXCHANGE LOCATED IN THE FIELD, AWAY FROM A MAIN ARMY POST)? IF YES, WHAT ARTICLES?
+                   answer_label answer_value raw_counts relative_frequency
+0            NO CODE OR NO DATA          0.0          5                0.0
+1       YES, ARTICLES MENTIONED          1.0        417               0.07
+2    YES, NO ARTICLES MENTIONED          2.0        117               0.02
+3                            NO          3.0       2939               0.51
+4  I DON'T USE A FIELD EXCHANGE          4.0       2171               0.37
+5                     NO ANSWER          5.0        149               0.03
+
+
+
+S125.Q78A ARE THE HOURS OF OPENING AND CLOSING THE POST EXCHANGE (A PX LOCATED ON A MAIN ARMY POST) CONVENIENT FOR YOU, OR WOULD YOU LIKE TO SEE THEM CHANGED? IF HOURS ARE NOT CONVENIENT, HOW WOULD YOU LIKE TO SEE THEM CHANGED?
+                                           answer_label answer_value raw_counts relative_frequency
+0                                             NO ANSWER          0.0        115               0.02
+1                HOURS ARE NOT CONVENIENT, OPEN EARLIER          1.0         26                0.0
+2             HOURS ARE NOT CONVENIENT, STAY OPEN LATER          2.0       1010               0.17
+3  HOURS ARE NOT CONVENIENT, OPEN LATER AND CLOSE LATER          3.0        145               0.03
+4        HOURS ARE NOT CONVENIENT, CHANGE NOT SPECIFIED          4.0        159               0.03
+5                                  HOURS ARE CONVENIENT          5.0       3267               0.56
+6                           I DON'T USE A POST EXCHANGE          6.0       1076               0.19
+
+
+
+S125.Q78B ARE THE HOURS OF OPENING AND CLOSING THE FIELD EXCHANGE (AN EXCHANGE LOCATED IN THE FIELD, AWAY FROM A MAIN ARMY POST) CONVENIENT FOR YOU, OR WOULD YOU LIKE TO SEE THEM CHANGED? IF HOURS ARE NOT CONVENIENT, HOW WOULD YOU LIKE TO SEE THEM CHANGED?
+                                           answer_label answer_value raw_counts relative_frequency
+0                                    NO CODE OR NO DATA          0.0          5                0.0
+1                HOURS ARE NOT CONVENIENT, OPEN EARLIER          1.0         30               0.01
+2             HOURS ARE NOT CONVENIENT, STAY OPEN LATER          2.0        349               0.06
+3  HOURS ARE NOT CONVENIENT, OPEN LATER AND CLOSE LATER          3.0         80               0.01
+4        HOURS ARE NOT CONVENIENT, CHANGE NOT SPECIFIED          4.0        127               0.02
+5                                  HOURS ARE CONVENIENT          5.0       2872                0.5
+6                          I DON'T USE A FIELD EXCHANGE          6.0       2189               0.38
+7                                             NO ANSWER          7.0        146               0.03
+
+
+
+S125.V80 LOCATION:
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0  SOUTH SIDE - EVERY ORGANIZATION SOUTH OF A STRAIGHT LINE DRAWN BETWEEN KEPUHI PT. AND WAIAHOLE, EXCLUSIVE OF THOSE ORGAN          1.0       1763                0.3
+1                                                     HONOLULU - ALL ORGANIZATIONS WITHIN A FIVE MILE RADIUS OF ALOHA TOWER          2.0       1246               0.21
+2  NORTH SIDE - ALL ORGANIZATIONS ABOVE LINE DRAWN BETWEEN KEPUHI PT. AND WAIAHOLE, EXCLUSIVE OF THOSE ORGANIZATIONS WITHIN          3.0        853               0.15
+3                                                            SCHOFIELD - ALL ORGANIZATIONS WITHIN SCHOFIELD OR WHEELER AREA          4.0       1936               0.33
+
+
+
+S125.V81 RELATIVE ISOLATION FROM OR ACCESSIBILITY TO HONOLULU:
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0  VERY ISOLATED - DIFFICULT TRIP TO HONOLULU - NO VARIETY OF ENTERTAINMENT OR RECREATIONAL FACILITIES WITHIN TROOP AREA, A          1.0        369               0.06
+1  SEMI-ISOLATED - FAIRLY DIFFICULT TRIP TO HONOLULU - AT LEAST 45 MINUTES BY MOTOR VEHICLE - NO ADEQUATE OR CONVENIENT BUS          2.0       2042               0.35
+2  MEDIUM ACCESSIBLE - EASY TRIP TO HONOLULU - LESS THAN 45 MINUTES BY MOTOR VEHICLE; GOOD ENTERTAINMENT OR RECREATIONAL FA          3.0        997               0.17
+3                                                           VERY ACCESSIBLE - IN HONOLULU OR VERY LARGE TROOP CONCENTRATION          4.0       2390               0.41
+
+
+
+S125.V82 ECHELON:
+                  answer_label answer_value raw_counts relative_frequency
+0                 7TH DIVISION          1.0        591                0.1
+1                27TH DIVISION          2.0        565                0.1
+2                38TH DIVISION          3.0        618               0.11
+3             7TH AAF - COMBAT          4.0        521               0.09
+4            7TH AAF - SERVICE          5.0        420               0.07
+5                        HAAAC          6.0        748               0.13
+6                         HSAC          7.0        363               0.06
+7   A PORT AND SERVICE COMMAND          8.0        208               0.04
+8            REPLACEMENT DEPOT          9.0         94               0.02
+9                   UNASSIGNED         10.0          2                0.0
+10         NON-DIVISION COMBAT         11.0        691               0.12
+11             CPA AND SERVICE         12.0        977               0.17
+
+
+

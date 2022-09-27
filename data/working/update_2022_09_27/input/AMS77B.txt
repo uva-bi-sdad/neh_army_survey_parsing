@@ -1,0 +1,1232 @@
+FORMFORM
+      answer_label answer_value raw_counts relative_frequency
+0  S-0XXX - B FORM          2.0       1789                1.0
+
+
+
+S77B.Q1 WHAT IS YOUR ARMY RANK OR GRADE?
+                                               answer_label answer_value raw_counts relative_frequency
+0                                                 NO ANSWER          0.0         16               0.01
+1                                                   PRIVATE          1.0        781               0.44
+2                                       PRIVATE FIRST CLASS          2.0        359                0.2
+3  NONCOM (CORPORAL OR ANY GRADE OF SERGEANT OR TECHNICIAN)          3.0        620               0.35
+4                                  SOME OTHER RANK OR GRADE          4.0         13               0.01
+
+
+
+S77B.Q2 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0        152               0.08
+1   18 YEARS OR YOUNGER          1.0         26               0.01
+2              19 YEARS          2.0         53               0.03
+3              20 YEARS          3.0         91               0.05
+4              21 YEARS          4.0        134               0.07
+5              22 YEARS          5.0        114               0.06
+6              23 YEARS          6.0        143               0.08
+7              24 YEARS          7.0        130               0.07
+8              25 YEARS          8.0        125               0.07
+9           26-29 YEARS          9.0        360                0.2
+10          30-34 YEARS         10.0        271               0.15
+11    35 YEARS AND OVER         11.0        190               0.11
+
+
+
+S77B.Q3 HOW FAR DID YOU GO IN SCHOOL?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0         23               0.01
+1                  LESS THAN 6TH GRADE          1.0        111               0.06
+2                   FINISHED 6TH GRADE          2.0         87               0.05
+3                   FINISHED 7TH GRADE          3.0        150               0.08
+4                   FINISHED 8TH GRADE          4.0        269               0.15
+5  SOME HIGH SCHOOL BUT DID NOT FINISH          5.0        500               0.28
+6           GRADUATED FROM HIGH SCHOOL          6.0        409               0.23
+7      SOME COLLEGE BUT DID NOT FINISH          7.0        178                0.1
+8               GRADUATED FROM COLLEGE          8.0         62               0.03
+
+
+
+S77B.Q4.1 IN WHAT STATE OF THE UNITED STATES DID YOU SPEND MOST OF THE LAST FIVE YEARS OF YOUR CIVILIAN LIFE BEFORE YOU CAME INTO THE ARMY? E. FIRST COLUMN:
+           answer_label answer_value raw_counts relative_frequency
+0   ORIGINAL PUNCH OF 1          1.0        106               0.06
+1   ORIGINAL PUNCH OF 2          2.0        399               0.22
+2   ORIGINAL PUNCH OF 3          3.0        307               0.17
+3   ORIGINAL PUNCH OF 4          4.0        126               0.07
+4   ORIGINAL PUNCH OF 5          5.0        270               0.15
+5   ORIGINAL PUNCH OF 6          6.0        147               0.08
+6   ORIGINAL PUNCH OF 7          7.0        210               0.12
+7   ORIGINAL PUNCH OF 8          8.0         41               0.02
+8   ORIGINAL PUNCH OF 9          9.0         85               0.05
+9   ORIGINAL PUNCH OF 0         10.0          9               0.01
+10  ORIGINAL PUNCH OF X         11.0         87               0.05
+11  ORIGINAL PUNCH OF V         12.0          2                0.0
+
+
+
+S77B.Q4.2IN WHAT STATE OF THE UNITED STATES DID YOU SPEND MOST OF THE LAST FIVE YEARS OF YOUR CIVILIAN LIFE BEFORE YOU CAME INTO THE ARMY? E. SECOND COLUMN:
+           answer_label answer_value raw_counts relative_frequency
+0   ORIGINAL PUNCH OF 2          2.0        222               0.12
+1   ORIGINAL PUNCH OF 3          3.0        475               0.27
+2   ORIGINAL PUNCH OF 5          5.0         79               0.04
+3   ORIGINAL PUNCH OF 1          1.0        381               0.21
+4   ORIGINAL PUNCH OF 4          4.0        324               0.18
+5   ORIGINAL PUNCH OF 6          6.0         74               0.04
+6   ORIGINAL PUNCH OF 7          7.0         50               0.03
+7   ORIGINAL PUNCH OF 8          8.0         61               0.03
+8   ORIGINAL PUNCH OF 9          9.0         25               0.01
+9   ORIGINAL PUNCH OF 0         10.0          9               0.01
+10  ORIGINAL PUNCH OF X         11.0         87               0.05
+11  ORIGINAL PUNCH OF V         12.0          2                0.0
+
+
+
+S77B.Q5 WHERE WERE YOU LIVING MOST OF THE LAST FIVE YEARS OF YOUR CIVILIAN LIFE BEFORE YOU CAME INTO THE ARMY - WAS IT IN THE COUNTRY, IN A TOWN, OR IN A CITY?
+                                             answer_label answer_value raw_counts relative_frequency
+0                                               NO ANSWER          0.0         11               0.01
+1                             ON A FARM OR IN THE COUNTRY          1.0        368               0.21
+2               IN A SMALL TOWN (FEWER THAN 2,500 PEOPLE)          2.0        248               0.14
+3  IN A LARGE TOWN (WITH BETWEEN 2,500 AND 25,000 PEOPLE)          3.0        323               0.18
+4           IN A CITY (BETWEEN 25,000 AND 100,000 PEOPLE)          4.0        305               0.17
+5              IN A LARGE CITY (MORE THAN 100,000 PEOPLE)          5.0        534                0.3
+
+
+
+S77B.Q6.x ARE YOU SINGLE, MARRIED, DIVORCED OR SEPARATED, OR WIDOWED? Q.7. WERE YOU MARRIED BEFORE OR AFTER ENTERING THE ARMY?
+                       answer_label answer_value raw_counts relative_frequency
+0                         NO ANSWER          0.0          7                0.0
+1                            SINGLE          1.0       1091               0.61
+2             DIVORCED OR SEPARATED          2.0         94               0.05
+3                           WIDOWED          3.0          8                0.0
+4  MARRIED BEFORE ENTERING THE ARMY          4.0        359                0.2
+5   MARRIED AFTER ENTERING THE ARMY          5.0        227               0.13
+6     MARRIED, NO ANSWER AS TO WHEN          6.0          3                0.0
+
+
+
+S77B.Q8 HOW DID YOU COME INTO THE ARMY?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         14               0.01
+1                I WAS DRAFTED          1.0       1099               0.61
+2                I VOLUNTEERED          2.0        592               0.33
+3  I WAS IN THE NATIONAL GUARD          3.0         84               0.05
+
+
+
+S77B.Q9 HOW LONG HAVE YOU BEEN IN THE ARMY? E. IF YOU HAVE BEEN IN THE ARMY BEFORE, THEN WERE OUT FOR A WHILE, JUST CHECK THE LENGTH OF TIME SINCE YOU ENTERED THIS LAST TIME. IF YOU WERE IN THE NATIONAL GUARD, CHECK THE LENGTH OF TIME SINCE YOUR OUTFIT CAME INTO
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         10               0.01
+1              3 MONTHS OR LESS          1.0         31               0.02
+2  OVER 3 MONTHS UP TO 6 MONTHS          2.0         64               0.04
+3  OVER 6 MONTHS UP TO 9 MONTHS          3.0        139               0.08
+4    OVER 9 MONTHS UP TO 1 YEAR          4.0        218               0.12
+5     OVER 1 YEAR UP TO 2 YEARS          5.0        717                0.4
+6    OVER 2 YEARS UP TO 5 YEARS          6.0        537                0.3
+7                  OVER 5 YEARS          7.0         73               0.04
+
+
+
+S77B.Q10 WHAT BRANCH OF THE ARMY WERE YOU IN BEFORE YOU CAME TO THE HOSPITAL?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0         44               0.02
+1                           ENGINEERS          1.0        154               0.09
+2                     FIELD ARTILLERY          2.0         97               0.05
+3                 QUARTERMASTER CORPS          3.0        105               0.06
+4                            INFANTRY          4.0        524               0.29
+5                  MEDICAL DEPARTMENT          5.0        152               0.08
+6                       ARMORED FORCE          6.0         69               0.04
+7                        SIGNAL CORPS          7.0         67               0.04
+8   COAST ARTILLERY AND ANTI-AIRCRAFT          8.0         98               0.05
+9                           AIR CORPS          9.0        222               0.12
+10               TRANSPORTATION CORPS         10.0         32               0.02
+11                ORDNANCE DEPARTMENT         11.0         69               0.04
+12           CHEMICAL WARFARE SERVICE         12.0         28               0.02
+13                    MILITARY POLICE         13.0         64               0.04
+14                              OTHER         14.0         64               0.04
+
+
+
+S77B.Q11 HOW LONG HAVE YOU BEEN A PATIENT IN THIS HOSPITAL?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         17               0.01
+1             TWO WEEKS OR LESS          1.0        350                0.2
+2  OVER TWO WEEKS UP TO A MONTH          2.0        344               0.19
+3   OVER A MONTH UP TO 2 MONTHS          3.0        370               0.21
+4  OVER 2 MONTHS UP TO 3 MONTHS          4.0        261               0.15
+5  OVER 3 MONTHS UP TO 6 MONTHS          5.0        297               0.17
+6                 OVER 6 MONTHS          6.0        150               0.08
+
+
+
+S77B.Q12 HOW MUCH TIME - ALTOGETHER - HAVE YOU SPENT IN ARMY HOSPITALS (INCLUDING THIS ONE) ON ACCOUNT OF YOUR PRESENT SICKNESS OR INJURY?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0         36               0.02
+1             ONE MONTH OR LESS          1.0        172                0.1
+2   OVER A MONTH UP TO 2 MONTHS          2.0        194               0.11
+3  OVER 2 MONTHS UP TO 3 MONTHS          3.0        312               0.17
+4  OVER 3 MONTHS UP TO 6 MONTHS          4.0        583               0.33
+5                 OVER 6 MONTHS          5.0        492               0.28
+
+
+
+S77B.Q13 AS FAR AS YOU KNOW NOW, ABOUT HOW MUCH LONGER WOULD YOU GUESS YOU WILL HAVE TO STAY IN A HOSPITAL FOR YOUR PRESENT SICKNESS OR INJURY?
+                                           answer_label answer_value raw_counts relative_frequency
+0                                             NO ANSWER          0.0         67               0.04
+1                              PROBABLY JUST A FEW DAYS          1.0        270               0.15
+2                            PROBABLY LESS THAN A MONTH          2.0        342               0.19
+3                                PROBABLY ABOUT A MONTH          3.0        294               0.16
+4  PROBABLY MORE THAN A MONTH BUT NO MORE THAN 3 MONTHS          4.0        435               0.24
+5                           PROBABLY MORE THAN 3 MONTHS          5.0        381               0.21
+
+
+
+S77B.Q14 WHERE DID YOU GET THE SICKNESS OR INJURY THAT BROUGHT YOU TO THIS HOSPITAL?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0         13               0.01
+1              IN THE U.S., WHILE ON DUTY          1.0        716                0.4
+2             IN THE U.S., WHILE OFF DUTY          2.0        130               0.07
+3      OUTSIDE THE U.S. - BY ENEMY ACTION          3.0        300               0.17
+4  OUTSIDE THE U.S. - NOT BY ENEMY ACTION          4.0        274               0.15
+5    I HAD IT BEFORE I CAME INTO THE ARMY          5.0        356                0.2
+
+
+
+S77B.Q15 HAVE YOU EVER BEEN IN COMBAT?
+                      answer_label answer_value raw_counts relative_frequency
+0                        NO ANSWER          0.0         20               0.01
+1  NO, I HAVE NEVER BEEN IN COMBAT          1.0       1280               0.72
+2         YES, AGAINST THE GERMANS          2.0         83               0.05
+3        YES, AGAINST THE JAPANESE          3.0        254               0.14
+4        YES, AGAINST THE ITALIANS          4.0          7                0.0
+5        YES, AGAINST SOMEONE ELSE          5.0          8                0.0
+6                      YES, FRENCH          6.0          2                0.0
+7                      CHECKED TWO          7.0        110               0.06
+8            CHECKED THREE OR MORE          8.0         25               0.01
+
+
+
+S77B.Q17 DO YOU THINK YOUR PRESENT SICKNESS OR INJURY WILL AFFECT ANY PART OF YOUR BODY FOR THE REST OF YOUR LIFE IN A WAY THAT PEOPLE WILL NOTICE IT? IF YES, WHAT PART OF YOUR BODY AND IN WHAT WAY?
+                                                                                                        answer_label answer_value raw_counts relative_frequency
+0                                                                                                          NO ANSWER          0.0         15               0.01
+1   YES, ORTHOPEDIC DISABILITY (I.E. BONE INJURY, LOSS OF LIMB, PARALYSIS OF ANY KIND, LIMPING, BACK OR SPINE, ETC.)          1.0        395               0.22
+2                                    YES, FACIAL DISFIGUREMENT OR HEAD DISFIGUREMENT (I.E. "MY EYES STAY BLOODSHOT")          2.0         42               0.02
+3                                                                             YES, NERVOUSNESS (I.E. "ALWAYS JUMPY")          3.0         30               0.02
+4                                                              YES, DISFIGUREMENT OTHER THAN FACE (I.E. BURNS, ETC.)          4.0         12               0.01
+5                                                                                                 YES, MIND AFFECTED          5.0          5                0.0
+6                                                                                           YES, RESPIRATORY TROUBLE          6.0          8                0.0
+7                                                                                         YES, IMPAIRMENT OF HEARING          7.0          9               0.01
+8                                                                                                         YES, OTHER          8.0         35               0.02
+9                                                                         YES, NO ANSWER AS TO WHAT PART OR WHAT WAY          9.0         27               0.02
+10                                                                                                                NO         10.0        438               0.24
+11                                                                                                        DON'T KNOW         11.0        773               0.43
+
+
+
+S77B.Q18 HOW MUCH TIME DURING THE DAY DO YOU HAVE TO SPEND IN BED AT THE PRESENT TIME?
+                                      answer_label answer_value raw_counts relative_frequency
+0                                        NO ANSWER          0.0          8                0.0
+1                                          ALL DAY          1.0        162               0.09
+2                                  MOST OF THE DAY          2.0        136               0.08
+3                               ABOUT HALF THE DAY          3.0        118               0.07
+4                                A FEW HOURS A DAY          4.0        404               0.23
+5  I DON'T HAVE TO BE IN BED AT ALL DURING THE DAY          5.0        961               0.54
+
+
+
+S77B.Q19 SINCE YOU HAVE BEEN IN THE HOSPITAL, HOW WOULD YOU SAY YOU FEEL MOST OF THE TIME - IN GOOD SPIRITS OR IN LOW SPIRITS?
+                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                  NO ANSWER          0.0          4                0.0
+1                                               I AM USUALLY IN GOOD SPIRITS          1.0        584               0.33
+2  I AM IN GOOD SPIRITS SOME OF THE TIME AND IN LOW SPIRITS SOME OF THE TIME          2.0        896                0.5
+3                                                I AM USUALLY IN LOW SPIRITS          3.0        305               0.17
+
+
+
+S77B.Q20 SINCE YOU HAVE BEEN IN THE HOSPITAL, ARE YOU EVER WORRIED AND UPSET?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0          8                0.0
+1  I AM HARDLY EVER WORRIED AND UPSET          1.0        567               0.32
+2    I AM SOMETIMES WORRIED AND UPSET          2.0        857               0.48
+3        I AM OFTEN WORRIED AND UPSET          3.0        357                0.2
+
+
+
+S77B.Q21 SINCE YOU HAVE BEEN IN THE HOSPITAL, HOW OFTEN DO YOU FEEL LONESOME?
+                     answer_label answer_value raw_counts relative_frequency
+0                       NO ANSWER          0.0         10               0.01
+1  I AM LONESOME MOST OF THE TIME          1.0        398               0.22
+2  I AM LONESOME SOME OF THE TIME          2.0        891                0.5
+3       I AM HARDLY EVER LONESOME          3.0        490               0.27
+
+
+
+S77B.Q22 FROM WHAT YOU KNOW NOW, DO YOU THINK YOUR PRESENT SICKNESS OR INJURY IS SERIOUS ENOUGH THAT YOU OUGHT TO BE DISCHARGED FROM THE ARMY?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          5                0.0
+1          YES          1.0        928               0.52
+2           NO          2.0        303               0.17
+3   DON'T KNOW          3.0        553               0.31
+
+
+
+S77B.Q23 DO YOU THINK YOU REALLY WILL BE DISCHARGED FROM THE ARMY BECAUSE OF YOUR PRESENT SICKNESS OR INJURY?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0          6                0.0
+1           YES          1.0        636               0.36
+2            NO          2.0        349                0.2
+3  HAVE NO IDEA          3.0        798               0.45
+
+
+
+S77B.Q24 WHEN YOU GET OUT OF THE ARMY, DO YOU THINK YOU WILL HAVE A HARD TIME OR AN EASY TIME GETTING USED TO CIVILIAN LIFE AGAIN?
+                     answer_label answer_value raw_counts relative_frequency
+0                       NO ANSWER          0.0         10               0.01
+1    I WILL HAVE A VERY HARD TIME          1.0        132               0.07
+2  I WILL HAVE A PRETTY HARD TIME          2.0        229               0.13
+3  I WILL HAVE A PRETTY EASY TIME          3.0        436               0.24
+4    I WILL HAVE A VERY EASY TIME          4.0        384               0.21
+5                       UNDECIDED          5.0        598               0.33
+
+
+
+S77B.Q25 WHERE WOULD YOU LIKE TO LIVE WHEN YOU GET OUT OF THE ARMY - IN THE COUNTRY, IN A TOWN, OR IN A CITY?
+                                        answer_label answer_value raw_counts relative_frequency
+0                                          NO ANSWER          0.0          8                0.0
+1                        ON A FARM OR IN THE COUNTRY          1.0        443               0.25
+2          IN A SMALL TOWN (FEWER THAN 2,500 PEOPLE)          2.0        194               0.11
+3  IN A LARGE TOWN (BETWEEN 2,500 AND 25,000 PEOPLE)          3.0        280               0.16
+4      IN A CITY (BETWEEN 25,000 AND 100,000 PEOPLE)          4.0        259               0.14
+5         IN A LARGE CITY (MORE THAN 100,000 PEOPLE)          5.0        423               0.24
+6                                          UNDECIDED          6.0        182                0.1
+
+
+
+S77B.Q26A WHEN YOU GET OUT OF THE ARMY, DO YOU WANT TO GO BACK AND LIVE IN THE SAME COMMUNITY YOU LIVED IN MOST OF THE LAST FIVE YEARS BEFORE YOU CAME INTO THE ARMY?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          2                0.0
+1          YES          1.0       1172               0.66
+2           NO          2.0        306               0.17
+3    UNDECIDED          3.0        309               0.17
+
+
+
+S77B.Q26B.1 WHAT IS THE REASON FOR YOUR ANSWER? E. SECOND COLUMN:
+                                                             answer_label answer_value raw_counts relative_frequency
+0                                  WISH TO RETURN TO FRIENDS OR RELATIVES          1.0        264               0.15
+1                 THAT IS MY HOME (I.E. ALWAYS LIVED THERE, RAISED THERE)          2.0        385               0.22
+2                 CAN GET JOB THERE OR GO BACK TO JOB (INCLUDING FARMING)          3.0        212               0.12
+3                                                      JUST LIKE IT THERE          4.0        122               0.07
+4                                                 HOME AND FAMILY REASONS          5.0         24               0.01
+5  PREFER SMALL TOWN (SMALL PLACE QUIET, NOT UPSETTING TO NERVOUS PERSON)          6.0          7                0.0
+6                                           WANTED TO FINISH SCHOOL THERE          7.0          6                0.0
+7                                                                   OTHER          8.0         21               0.01
+8                                                 INAPPLICABLE, NO ANSWER          9.0        748               0.42
+
+
+
+S77B.Q26B.2WHAT IS THE REASON FOR YOUR ANSWER? E. IF QUESTION 26A IS ANSWERED NO:
+                                                                                                                answer_label answer_value raw_counts relative_frequency
+0   WANTS TO AVOID PEOPLE IN HOME TOWN BECAUSE OF ILLNESS, DISABILITY OR ARMY EXPERIENCE ("FOR THE SIMPLE REASON PEOPLE STAR          1.0         25               0.01
+1   BECAUSE OF WORK OR SCHOOL SITUATION ("THERE'S NO FACTORY OR DEFENSE PLANTS THERE", "MY PAST CIVILIAN LIFE, MY TYPE OF WO          2.0         85               0.05
+2                                 PREFERENCE FOR MOBILITY ("LIKE TO MOVE AROUND", "THE ARMY HAS GOT ME TO LIKING TRAVELING")          3.0         12               0.01
+3                                   DESIRE FOR CHANGE - NOT SPECIFICALLY EXPLAINED ("WANT A COMPLETE CHANGE IN ENVIRONMENT")          4.0         23               0.01
+4   HOME AND FAMILY REASONS ("FOLKS MOVED TO SMALL TOWN AND WANT TO GO THERE", "WANT TO GO BACK TO REGULAR HOME", "ALREADY M          5.0         38               0.02
+5                                                               HEALTH (CLIMATE REASONS) ("HEALTH BETTER IN HIGHER CLIMATE")          6.0         18               0.01
+6                                                 PREFERENCE FOR SIZE OF TOWN ("DON'T LIKE THE CITY"; "I LIKE A SMALL TOWN")          7.0         45               0.03
+7                                                                            DISLIKE - UNEXPLAINED ("I DON'T LIKE IT THERE")          8.0         15               0.01
+8                                                                                                               STAY IN ARMY          9.0          5                0.0
+9                                                                                                                      OTHER         10.0         18               0.01
+10                                                                                                   INAPPLICABLE, NO ANSWER         99.0       1505               0.84
+
+
+
+S77B.Q26B.3WHAT IS THE REASON FOR YOUR ANSWER? E. IF QUESTION 26A IS ANSWERED UNDECIDED:
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0  WANTS TO AVOID PEOPLE IN THE HOME TOWN BECAUSE OF ILLNESS, DISABILITY OR ARMY EXPERIENCE ("JUST DON'T FIT IN THERE SINCE          1.0         18               0.01
+1  BECAUSE OF WORK OR SCHOOL SITUATION ("DON'T KNOW WHERE I COULD FIND WORK", "DON'T KNOW WHETHER ABLE TO WORK ON OLD JOB",          2.0         96               0.05
+2  PREFERENCE FOR MOBILITY ("ALWAYS WANTED TO TRAVEL", "I HAVEN'T LIVED IN ANY ONE PLACE FOR MORE THAN A YEAR IN THE LAST F          3.0          9               0.01
+3  DESIRE FOR CHANGE - NOT SPECIFICALLY EXPLAINED ("HAVE BEEN AWAY SO LONG - I IMAGINE A CHANGE OF ATMOSPHERE WOULD DO ME G          4.0         12               0.01
+4                                                                                                  HEALTH (CLIMATE REASONS)          5.0          8                0.0
+5                                                                                               PREFERENCE FOR SIZE OF TOWN          6.0          6                0.0
+6                                        PREFERENCE FOR OTHER PLACES FOR MISCELLANEOUS REASONS (REASONS NOT ALREADY LISTED)          7.0         14               0.01
+7                                                                                                                     OTHER          8.0         10               0.01
+8                                                                                        INAPPLICABLE, UNDECIDED, NO ANSWER          9.0       1616                0.9
+
+
+
+S77B.Q27 IS THERE ANYONE IN THIS HOSPITAL THAT A PATIENT CAN GO TO FOR SOME HELP OR ADVICE ABOUT GETTING A CIVILIAN JOB OR BEING TRAINED FOR A CIVILIAN JOB? IF YES, WHO?
+                                     answer_label answer_value raw_counts relative_frequency
+0                                       NO ANSWER          0.0         20               0.01
+1                                   YES, CHAPLAIN          1.0         12               0.01
+2                                  YES, RED CROSS          2.0        293               0.16
+3                      YES, VETERANS ORGANIZATION          3.0         52               0.03
+4   YES, EMPLOYMENT BUREAU OR MANPOWER COMMISSION          4.0         70               0.04
+5                     YES, RED CROSS AND CHAPLAIN          5.0          5                0.0
+6            YES, RED CROSS AND EMPLOYMENT BUREAU          6.0         12               0.01
+7                        YES, RED CROSS AND OTHER          7.0          9               0.01
+8                                      YES, OTHER          8.0         21               0.01
+9                      YES, NO ANSWER AS TO "WHO"          9.0        129               0.07
+10                                             NO         10.0         89               0.05
+11                                     DON'T KNOW         11.0       1077                0.6
+
+
+
+S77B.Q28 WHILE YOU HAVE BEEN IN THIS HOSPITAL, HAVE YOU EVER WANTED ANY HELP OR ADVICE ABOUT GETTING A CIVILIAN JOB OR BEING TRAINED FOR A CIVILIAN JOB?
+                                             answer_label answer_value raw_counts relative_frequency
+0                                               NO ANSWER          0.0         25               0.01
+1                    YES, I HAVE WANTED SOME AND I GOT IT          1.0         88               0.05
+2             YES, I HAVE WANTED SOME BUT I DIDN'T GET IT          2.0        108               0.06
+3  YES, I HAVE WANTED SOME BUT I HAVEN'T TRIED TO GET ANY          3.0        354                0.2
+4                             NO, I NEVER HAVE WANTED ANY          4.0       1214               0.68
+
+
+
+S77B.Q29 WOULD YOU SAY THAT IT IS IMPORTANT OR NOT IMPORTANT TO YOU PERSONALLY TO HAVE SOMEONE IN THE HOSPITAL WHO CAN GIVE YOU HELP OR ADVICE ABOUT GETTING A CIVILIAN JOB OR BEING TRAINED FOR A CIVILIAN JOB?
+              answer_label answer_value raw_counts relative_frequency
+0                NO ANSWER          0.0         31               0.02
+1     YES, IT IS IMPORTANT          1.0       1071                0.6
+2  NO, IT IS NOT IMPORTANT          2.0        425               0.24
+3                UNDECIDED          3.0        262               0.15
+
+
+
+S77B.Q30 IS THERE ANYONE IN THIS HOSPITAL THAT A PATIENT CAN GO TO FOR SOME HELP OR ADVICE ABOUT OTHER PERSONAL PROBLEMS (NOT COUNTING JOB PROBLEMS)? IF YES, WHO?
+                                    answer_label answer_value raw_counts relative_frequency
+0                                      NO ANSWER          0.0         28               0.02
+1                                  YES, CHAPLAIN          1.0        363                0.2
+2                                 YES, RED CROSS          2.0        415               0.23
+3                       YES, RED CROSS AND OTHER          3.0         28               0.02
+4             YES, RED CROSS, CHAPLAIN AND OTHER          4.0         11               0.01
+5                    YES, RED CROSS AND CHAPLAIN          5.0        191               0.11
+6              YES, CHAPLAIN AND MEDICAL OFFICER          6.0          6                0.0
+7   YES, CHAPLAIN, RED CROSS AND MEDICAL OFFICER          7.0          5                0.0
+8                                     YES, OTHER          8.0         34               0.02
+9                     YES, NO ANSWER AS TO "WHO"          9.0         66               0.04
+10                                            NO         10.0         57               0.03
+11                                    DON'T KNOW         11.0        585               0.33
+
+
+
+S77B.Q31 WHILE YOU HAVE BEEN IN THIS HOSPITAL, HAVE YOU EVER WANTED ANY HELP OR ADVICE ON THESE OTHER PERSONAL PROBLEMS?
+                                             answer_label answer_value raw_counts relative_frequency
+0                                               NO ANSWER          0.0         30               0.02
+1                    YES, I HAVE WANTED SOME AND I GOT IT          1.0        296               0.17
+2             YES, I HAVE WANTED SOME BUT I DIDN'T GET IT          2.0        128               0.07
+3  YES, I HAVE WANTED SOME BUT I HAVEN'T TRIED TO GET ANY          3.0        163               0.09
+4                             NO, I HAVE NEVER WANTED ANY          4.0       1172               0.66
+
+
+
+S77B.Q32 WOULD YOU SAY THAT IT IS IMPORTANT OR NOT IMPORTANT TO YOU PERSONALLY TO HAVE SOMEONE IN THE HOSPITAL WHO CAN GIVE YOU HELP OR ADVICE ABOUT THESE OTHER PERSONAL PROBLEMS?
+              answer_label answer_value raw_counts relative_frequency
+0                NO ANSWER          0.0         26               0.01
+1     YES, IT IS IMPORTANT          1.0       1296               0.72
+2  NO, IT IS NOT IMPORTANT          2.0        218               0.12
+3                UNDECIDED          3.0        249               0.14
+
+
+
+S77B.Q33 HOW MANY YEARS WAS IT BETWEEN THE TIME YOU LEFT FULL-TIME SCHOOL AND THE TIME YOU CAME INTO THE ARMY?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0         23               0.01
+1                            1 YEAR OR LESS          1.0         99               0.06
+2                 OVER 1 YEAR UP TO 2 YEARS          2.0        145               0.08
+3                OVER 2 YEARS UP TO 5 YEARS          3.0        398               0.22
+4                              OVER 5 YEARS          4.0       1020               0.57
+5  I CAME INTO THE ARMY RIGHT OUT OF SCHOOL          5.0        104               0.06
+
+
+
+S77B.Q34 IF YOU COULD DO WHAT YOU WANT TO WHEN YOU GET OUT OF THE ARMY, WOULD YOU LIKE TO GO TO FULL-TIME SCHOOL (ANY KIND OF SCHOOL - TRADE OR TECHNICAL SCHOOL, BUSINESS SCHOOL, HIGH SCHOOL, COLLEGE, ETC.)?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         31               0.02
+1          YES          1.0        841               0.47
+2           NO          2.0        474               0.26
+3    UNDECIDED          3.0        443               0.25
+
+
+
+S77B.Q35 IF YOU WERE OFFERED A GOOD JOB WHEN YOU GET OUT OF THE ARMY, DO YOU THINK YOU WOULD TURN IT DOWN AND GO TO FULL-TIME SCHOOL, OR DO YOU THINK YOU WOULD TAKE THE JOB?
+                                                                            answer_label answer_value raw_counts relative_frequency
+0                                                                              NO ANSWER          0.0         43               0.02
+1                                             I WOULD TURN THE JOB DOWN AND GO TO SCHOOL          1.0        118               0.07
+2     IF THE GOVERNMENT PAID ALL MY EXPENSES, I WOULD TURN THE JOB DOWN AND GO TO SCHOOL          2.0        442               0.25
+3  I WOULD TAKE THE JOB AND NOT GO TO SCHOOL EVEN IF THE GOVERNMENT PAID ALL MY EXPENSES          3.0        652               0.36
+4                                                                              UNDECIDED          4.0        534                0.3
+
+
+
+S77B.Q36 IF YOU COULD DO WHAT YOU WANTED, WHICH WOULD YOU RATHER DO WHEN YOU GET OUT OF THE ARMY - GO TO FULL-TIME SCHOOL OR GO TO PART-TIME SCHOOL?
+                                                         answer_label answer_value raw_counts relative_frequency
+0                                                           NO ANSWER          0.0         24               0.01
+1                               I WOULD RATHER GO TO FULL-TIME SCHOOL          1.0        365                0.2
+2                               I WOULD RATHER GO TO PART-TIME SCHOOL          2.0        602               0.34
+3  I WOULD NOT LIKE TO GO TO SCHOOL AT ALL WHEN I GET OUT OF THE ARMY          3.0        396               0.22
+4                                                           UNDECIDED          4.0        402               0.22
+
+
+
+S77B.Q37 IF YOU GO TO FULL-TIME OR PART-TIME SCHOOL WHEN YOU GET OUT OF THE ARMY, WHAT KIND OF SCHOOL WILL YOU GO TO?
+                                                         answer_label answer_value raw_counts relative_frequency
+0                                                           NO ANSWER          0.0         29               0.02
+1                                                        GRADE SCHOOL          1.0         28               0.02
+2                                                        TRADE SCHOOL          2.0        526               0.29
+3                                                     BUSINESS SCHOOL          3.0        141               0.08
+4                                                         HIGH SCHOOL          4.0         42               0.02
+5                                             COLLEGE (UNDERGRADUATE)          5.0        182                0.1
+6                                           SOME OTHER KIND OF SCHOOL          6.0        125               0.07
+7                                   COMBINATION OF TRADE AND BUSINESS          7.0          2                0.0
+8  I WOULD NOT LIKE TO GO TO SCHOOL AT ALL WHEN I GET OUT OF THE ARMY          8.0        381               0.21
+9                                                           UNDECIDED          9.0        333               0.19
+
+
+
+S77B.Q38 HAVE YOU EVER HEARD ABOUT OR SEEN ANY NOTICE OF CORRESPONDENCE COURSES OR OF SELF-TEACHING COURSES OFFERED TO ENLISTED MEN BY THE ARMY (U.S. ARMED FORCES INSTITUTE)?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         18               0.01
+1          YES          1.0        746               0.42
+2           NO          2.0        695               0.39
+3   DON'T KNOW          3.0        330               0.18
+
+
+
+S77B.Q39 WHILE YOU HAVE BEEN IN THIS HOSPITAL, HAVE YOU EVER HEARD ABOUT OR SEEN ANY NOTICE OF CORRESPONDENCE COURSES OR OF SELF-TEACHING COURSES OFFERED TO ENLISTED MEN BY THE U.S. ARMED FORCES INSTITUTE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         19               0.01
+1          YES          1.0        393               0.22
+2           NO          2.0       1106               0.62
+3   DON'T KNOW          3.0        271               0.15
+
+
+
+S77B.Q40A IF YOU COULD GET THE SUBJECT YOU WANT TO STUDY, WOULD YOU TAKE A CORRESPONDENCE COURSE OR A SELF-TEACHING COURSE NOW WHILE YOU ARE IN THE HOSPITAL? (THE FIRST COURSE YOU TAKE COSTS YOU $2.00 - AND ALL THE OTHERS YOU TAKE ARE FREE.)
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         29               0.02
+1          YES          1.0        681               0.38
+2           NO          2.0        571               0.32
+3    UNDECIDED          3.0        508               0.28
+
+
+
+S77B.Q40B WHAT IS THE MAIN REASON FOR YOUR ANSWER?
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0                                                                                                 NO ANSWER TO QUESTION 40B          0.0         90               0.05
+1                                                                       TO HELP GET A JOB OR A BETTER JOB ("LEARN A TRADE")          1.0        158               0.09
+2                                                                                          TO PASS THE TIME ("OCCUPY MIND")          2.0         69               0.04
+3                                        WOULD BENEFIT ME OR HELP ME (JOB NOT SPECIFICALLY MENTIONED, "PREPARE FOR FUTURE")          3.0        147               0.08
+4  KEEP IN TOUCH WITH SCHOOLING ("GET IN PRACTICE FOR FULL-TIME SCHOOL AFTERWARD", "REVIEW AND CONTINUATION", "KEEP IN PRAC          4.0         44               0.02
+5                    TO IMPROVE MYSELF ("BROADEN KNOWLEDGE", "IMPROVE MIND", "TO READ AND SPEAK AMERICAN", "WANT TO LEARN")          5.0        130               0.07
+6                                                                                                                     OTHER          6.0         16               0.01
+7                                                                                                         IRRELEVANT ANSWER          7.0         28               0.02
+8                                                                                NO, UNDECIDED OR NO ANSWER ON QUESTION 40A          8.0       1107               0.62
+
+
+
+S77B.Q41 IF YOU COULD GET THE SUBJECT YOU WANT TO STUDY, WHICH KIND OF COURSE WOULD YOU RATHER TAKE IN THE HOSPITAL: A CORRESPONDENCE COURSE OR A SELF-TEACHING COURSE?
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0                                                                                                                 NO ANSWER          0.0        113               0.06
+1  A CORRESPONDENCE COURSE - THE TEACHER SENDS YOU THE LESSONS BY MAIL AND YOU SEND THEM BACK TO HIM BY MAIL TO BE CORRECTE          1.0        405               0.23
+2  A SELF-TEACHING COURSE - THEY GIVE YOU ALL THE BOOKS, TESTS, AND OTHER THINGS YOU NEED AND YOU DO ALL THE STUDYING BY YO          2.0        549               0.31
+3                                                                                  I WOULD NOT TAKE EITHER KIND OF A COURSE          3.0        722                0.4
+
+
+
+S77B.Q42A IF A CLASS WERE SET UP IN THE HOSPITAL TO TEACH SOME SUBJECT YOU WERE INTERESTED IN, DO YOU THINK YOU WOULD JOIN THIS CLASS AND GO REGULARLY?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         29               0.02
+1          YES          1.0       1094               0.61
+2           NO          2.0        315               0.18
+3    UNDECIDED          3.0        351                0.2
+
+
+
+S77B.Q42B WHAT IS THE MAIN REASON FOR YOUR ANSWER?
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0                                                                                                 NO ANSWER TO QUESTION 42B          0.0        245               0.14
+1                                                                       TO HELP GET A JOB OR A BETTER JOB ("LEARN A TRADE")          1.0         82               0.05
+2                                                                                          TO PASS THE TIME ("OCCUPY MIND")          2.0        118               0.07
+3                                        WOULD BENEFIT ME OR HELP ME (JOB NOT SPECIFICALLY MENTIONED, "PREPARE FOR FUTURE")          3.0        192               0.11
+4  KEEP IN TOUCH WITH SCHOOLING ("GET IN PRACTICE FOR FULL-TIME SCHOOL AFTERWARD", "REVIEW AND CONTINUATION", "KEEP IN PRAC          4.0         43               0.02
+5                    TO IMPROVE MYSELF ("BROADEN KNOWLEDGE", "IMPROVE MIND", "TO READ AND SPEAK AMERICAN", "WANT TO LEARN")          5.0        310               0.17
+6                                                                                                                     OTHER          6.0         20               0.01
+7                                                                                                         IRRELEVANT ANSWER          7.0         84               0.05
+8                                                                                NO, UNDECIDED OR NO ANSWER ON QUESTION 42A          8.0        695               0.39
+
+
+
+S77B.Q43 IF YOU WERE TO TAKE A COURSE WHILE YOU ARE IN THE HOSPITAL, HOW MUCH TIME COULD YOU SPEND NOW ON STUDYING AND WRITING?
+                                                      answer_label answer_value raw_counts relative_frequency
+0                                                        NO ANSWER          0.0         50               0.03
+1                                           ONE OR TWO HOURS A DAY          1.0        357                0.2
+2                                        THREE OR FOUR HOURS A DAY          2.0        494               0.28
+3                                         FIVE OR MORE HOURS A DAY          3.0        277               0.15
+4  I DON'T THINK I WILL TAKE ANY COURSE WHILE I AM IN THE HOSPITAL          4.0        611               0.34
+
+
+
+S77B.Q44 WHAT KIND OF SUBJECTS WOULD YOU LIKE TO TAKE UP WHILE YOU ARE IN THE HOSPITAL?
+                                                         answer_label answer_value raw_counts relative_frequency
+0                                                           NO ANSWER          0.0         35               0.02
+1                                               GRADE SCHOOL SUBJECTS          1.0         33               0.02
+2                                                HIGH SCHOOL SUBJECTS          2.0         72               0.04
+3                                               TRADE SCHOOL SUBJECTS          3.0        496               0.28
+4                                            BUSINESS SCHOOL SUBJECTS          4.0        163               0.09
+5                                                   MILITARY SUBJECTS          5.0         33               0.02
+6                                                    COLLEGE SUBJECTS          6.0        198               0.11
+7                                   COMBINATION OF TRADE AND BUSINESS          7.0          6                0.0
+8                                                               OTHER          8.0          3                0.0
+9   I DON'T THINK I WILL TAKE ANY SUBJECTS WHILE I AM IN THE HOSPITAL          9.0        582               0.33
+10                                                          UNDECIDED         10.0        168               0.09
+
+
+
+S77B.Q45 WHAT ONE SUBJECT WOULD YOU LIKE MOST OF ALL TO TAKE WHILE YOU ARE IN THE HOSPITAL?
+                                                      answer_label answer_value raw_counts relative_frequency
+0                                                        NO ANSWER          0.0         99               0.06
+1                                             A SUBJECT WRITTEN IN          1.0        769               0.43
+2  I WOULD NOT LIKE TO TAKE ANY SUBJECT WHILE I AM IN THE HOSPITAL          2.0        539                0.3
+3                   I DON'T KNOW WHAT SUBJECT I WOULD LIKE TO TAKE          3.0        382               0.21
+
+
+
+S77B.Q46 IF YOU TAKE ANY COURSES WHILE YOU ARE IN THE ARMY IS IT IMPORTANT OR IS IT NOT IMPORTANT TO YOU TO GET CREDITS FOR THEM TOWARD SCHOOL OR COLLEGE GRADUATION?
+                                                  answer_label answer_value raw_counts relative_frequency
+0                                                    NO ANSWER          0.0         59               0.03
+1                                         YES, IT IS IMPORTANT          1.0        623               0.35
+2                                      NO, IT IS NOT IMPORTANT          2.0        396               0.22
+3  I DON'T THINK I WILL TAKE ANY COURSES WHILE I'M IN THE ARMY          3.0        496               0.28
+4                                                    UNDECIDED          4.0        215               0.12
+
+
+
+S77B.Q47 AFTER YOU GET OUT OF THE ARMY, DO YOU THINK YOU WILL BE PHYSICALLY ABLE AND IN GOOD ENOUGH HEALTH TO DO THE SAME KIND OF WORK YOU DID BEFORE YOU CAME INTO THE ARMY?
+                                   answer_label answer_value raw_counts relative_frequency
+0                                     NO ANSWER          0.0         29               0.02
+1                                           YES          1.0        449               0.25
+2                  NOT RIGHT AWAY, BUT LATER ON          2.0        343               0.19
+3                                            NO          3.0        380               0.21
+4  I WASN'T WORKING BEFORE I CAME INTO THE ARMY          4.0         78               0.04
+5                                    DON'T KNOW          5.0        510               0.29
+
+
+
+S77B.Q48 IF YOU WANTED IT AND WERE ABLE TO DO THE WORK, DO YOU THINK YOU COULD GET THE SAME JOB BACK YOU HAD JUST BEFORE YOU CAME INTO THE ARMY?
+                                        answer_label answer_value raw_counts relative_frequency
+0                                          NO ANSWER          0.0         43               0.02
+1          YES, IF I WANTED IT AND COULD DO THE WORK          1.0       1166               0.65
+2  NO, NOT EVEN IF I WANTED IT AND COULD DO THE WORK          2.0        163               0.09
+3      DON'T KNOW WHETHER I COULD GET IT BACK OR NOT          3.0        304               0.17
+4       I WASN'T WORKING BEFORE I CAME INTO THE ARMY          4.0        113               0.06
+
+
+
+S77B.Q49 IF YOU COULD DO WHAT YOU WANT TO DO, WHAT WOULD YOU LIKE TO DO AFTER YOU GET OUT OF THE ARMY?
+                                                                                        answer_label answer_value raw_counts relative_frequency
+0                                                                                          NO ANSWER          0.0         46               0.03
+1                          I WANT TO DO THE SAME KIND OF WORK I DID JUST BEFORE COMING INTO THE ARMY          1.0        834               0.47
+2                                                               I WANT TO DO SOME OTHER KIND OF WORK          2.0        427               0.24
+3  I WASN'T WORKING BEFORE I CAME INTO THE ARMY BUT THE KIND OF WORK I WANT TO DO IS (WRITE IT HERE)          3.0         50               0.03
+4                                                                   I WANT TO GO TO FULL-TIME SCHOOL          4.0        188               0.11
+5                                                                                       HAVE NO IDEA          5.0        244               0.14
+
+
+
+S77B.Q50 WHAT DO YOU THINK YOU REALLY WILL DO AFTER YOU GET OF THE ARMY?
+                                                                                          answer_label answer_value raw_counts relative_frequency
+0                                                                                            NO ANSWER          0.0         50               0.03
+1                         I WILL DO THE SAME KIND OF WORK I WAS DOING JUST BEFORE I CAME INTO THE ARMY          1.0        752               0.42
+2                                                                    I WILL DO SOME OTHER KIND OF WORK          2.0        328               0.18
+3  I WASN'T WORKING BEFORE I CAME INTO THE ARMY BUT THE KIND OF WORK I EXPECT TO DO IS (WRITE IT HERE)          3.0         44               0.02
+4                                                                        I WILL GO TO FULL-TIME SCHOOL          4.0        111               0.06
+5                                                                                         HAVE NO IDEA          5.0        504               0.28
+
+
+
+S77B.Q51 HAVE YOU LEARNED ANY SKILLS IN THE ARMY WHICH WILL HELP YOU IN THE CIVILIAN WORK YOU EXPECT TO DO?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         30               0.02
+1          YES          1.0        416               0.23
+2           NO          2.0       1204               0.67
+3   DON'T KNOW          3.0        139               0.08
+
+
+
+S77B.Q52 DO YOU THINK YOU NEED ANY KIND OF TRAINING OR SCHOOLING IN ORDER TO GET INTO THE CIVILIAN WORK YOU EXPECT TO DO?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         36               0.02
+1          YES          1.0        598               0.33
+2           NO          2.0        894                0.5
+3   DON'T KNOW          3.0        261               0.15
+
+
+
+S77B.Q53 WHILE YOU ARE IN THE HOSPITAL, HOW INTERESTED ARE YOU IN HEARING TALKS ABOUT GETTING A JOB AFTER YOU GET OUT OF THE ARMY?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0         33               0.02
+1  VERY MUCH INTERESTED          1.0        763               0.43
+2   SOMEWHAT INTERESTED          2.0        465               0.26
+3   NOT MUCH INTERESTED          3.0        528                0.3
+
+
+
+S77B.Q54 WHILE YOU ARE IN THE HOSPITAL, HOW INTERESTED ARE YOU IN SEEING MOVIES ABOUT DIFFERENT KINDS OF JOBS THAT THERE WILL BE AFTER THE WAR?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0         28               0.02
+1  VERY MUCH INTERESTED          1.0        922               0.52
+2   SOMEWHAT INTERESTED          2.0        465               0.26
+3   NOT MUCH INTERESTED          3.0        374               0.21
+
+
+
+S77B.Q55 HAVE YOU EVER HEARD OF THE UNITED STATES VETERANS ADMINISTRATION?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         20               0.01
+1          YES          1.0       1301               0.73
+2           NO          2.0        468               0.26
+
+
+
+S77B.Q56 DO YOU KNOW WHETHER OR NOT MEN WHO ARE DISCHARGED FROM THE ARMY BECAUSE THEY HAVE BEEN DISABLED IN LINE OF DUTY CAN APPLY TO THE VETERANS ADMINISTRATION FOR A PENSION?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0          7                0.0
+1    YES, THEY CAN APPLY FOR A PENSION          1.0        915               0.51
+2  NO, THEY CANNOT APPLY FOR A PENSION          2.0         24               0.01
+3                           DON'T KNOW          3.0        843               0.47
+
+
+
+S77B.Q57 WOULD YOU LIKE TO KNOW MORE ABOUT FEDERAL LAWS AND THE LAWS OF YOUR STATE CONCERNING VETERANS, RIGHTS - OR DO YOU THINK YOU KNOW ENOUGH ABOUT THEM NOW?
+                                     answer_label answer_value raw_counts relative_frequency
+0                                       NO ANSWER          0.0         20               0.01
+1      I WOULD LIKE TO KNOW MORE ABOUT THESE LAWS          1.0       1542               0.86
+2  I KNOW ALL I CARE TO KNOW ABOUT THESE LAWS NOW          2.0        227               0.13
+
+
+
+S77B.Q58 WOULD YOU LIKE TO KNOW MORE ABOUT ALLOTMENTS FROM YOUR PAY OR DO YOU THINK YOU KNOW ENOUGH ABOUT THIS NOW?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0         29               0.02
+1  I WOULD LIKE TO KNOW MORE ABOUT ALLOTMENTS          1.0        698               0.39
+2                I KNOW ENOUGH ABOUT THIS NOW          2.0       1062               0.59
+
+
+
+FORM..1FORM.
+      answer_label answer_value raw_counts relative_frequency
+0  S-0XXX - B FORM          2.0       1789                1.0
+
+
+
+S77B.Q59 WOULD YOU LIKE TO KNOW MORE ABOUT ARMY INSURANCE OR DO YOU THINK YOU KNOW ENOUGH ABOUT THIS NOW?
+                                     answer_label answer_value raw_counts relative_frequency
+0                                       NO ANSWER          0.0         20               0.01
+1  I WOULD LIKE TO KNOW MORE ABOUT ARMY INSURANCE          1.0        758               0.42
+2                    I KNOW ENOUGH ABOUT THIS NOW          2.0       1011               0.57
+
+
+
+S77B.Q60 WOULD YOU LIKE TO KNOW MORE ABOUT THE RIGHTS OF YOUR DEPENDENTS TO GET ARMY MEDICAL CARE OR DO YOU THINK YOU KNOW ENOUGH ABOUT THIS NOW?
+                                                                 answer_label answer_value raw_counts relative_frequency
+0                                                                   NO ANSWER          0.0         18               0.01
+1  I WOULD LIKE TO KNOW MORE ABOUT MY DEPENDENTS, RIGHTS TO ARMY MEDICAL CARE          1.0        998               0.56
+2                                                I KNOW ENOUGH ABOUT THIS NOW          2.0        307               0.17
+3                                                        I HAVE NO DEPENDENTS          3.0        466               0.26
+
+
+
+S77B.Q61 DOES THE ARMY OWE YOU ANY BACK PAY? IF YES, HOW MANY MONTHS?
+                           answer_label answer_value raw_counts relative_frequency
+0                             NO ANSWER          0.0         30               0.02
+1                  YES, 1 MONTH OR LESS          1.0        199               0.11
+2                         YES, 2 MONTHS          2.0        183                0.1
+3                       YES, 3-4 MONTHS          3.0        151               0.08
+4                       YES, 5-6 MONTHS          4.0         73               0.04
+5               YES, MORE THAN 6 MONTHS          5.0         39               0.02
+6  YES, NO ANSWER AS TO HOW MANY MONTHS          6.0         67               0.04
+7                                    NO          7.0       1047               0.59
+
+
+
+S77B.Q62 WOULD YOU LIKE TO KNOW MORE ABOUT GETTING BACK PAY FROM THE ARMY OR DO YOU THINK YOU KNOW ENOUGH ABOUT THIS NOW?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                         NO ANSWER          0.0         31               0.02
+1  I WOULD LIKE TO KNOW MORE ABOUT GETTING BACK PAY          1.0        426               0.24
+2                      I KNOW ENOUGH ABOUT THIS NOW          2.0        542                0.3
+3              THE ARMY DOESN'T OWE ME ANY BACK PAY          3.0        790               0.44
+
+
+
+S77B.Q63 WOULD YOU LIKE TO KNOW MORE ABOUT HOW SOLDIERS CAN GET LEGAL HELP OR DO YOU THINK YOU KNOW ENOUGH ABOUT THIS NOW?
+                                         answer_label answer_value raw_counts relative_frequency
+0                                           NO ANSWER          0.0         29               0.02
+1  I WOULD LIKE TO KNOW MORE ABOUT GETTING LEGAL HELP          1.0       1211               0.68
+2                        I KNOW ENOUGH ABOUT THIS NOW          2.0        549               0.31
+
+
+
+S77B.Q64 DO YOU FEEL THAT YOU ARE WELL ENOUGH TO LEAVE THE HOSPITAL ON PASS OR FURLOUGH?
+                                              answer_label answer_value raw_counts relative_frequency
+0                                                NO ANSWER          0.0         15               0.01
+1     YES, WELL ENOUGH TO LEAVE ON EITHER PASS OR FURLOUGH          1.0       1149               0.64
+2    YES, WELL ENOUGH TO LEAVE ON PASS BUT NOT ON FURLOUGH          2.0        168               0.09
+3  NO, NOT WELL ENOUGH TO LEAVE ON EITHER PASS OR FURLOUGH          3.0        269               0.15
+4                                               DON'T KNOW          4.0        188               0.11
+
+
+
+S77B.Q65 DO THE DOCTORS THINK YOU ARE WELL ENOUGH TO LEAVE THE HOSPITAL ON PASS OR FURLOUGH?
+                                              answer_label answer_value raw_counts relative_frequency
+0                                                NO ANSWER          0.0         19               0.01
+1     YES, WELL ENOUGH TO LEAVE ON EITHER PASS OR FURLOUGH          1.0        784               0.44
+2    YES, WELL ENOUGH TO LEAVE ON PASS BUT NOT ON FURLOUGH          2.0        202               0.11
+3  NO, NOT WELL ENOUGH TO LEAVE ON EITHER PASS OR FURLOUGH          3.0        272               0.15
+4                                               DON'T KNOW          4.0        512               0.29
+
+
+
+S77B.Q66 HOW MANY FURLOUGHS HAVE YOU HAD SINCE YOU HAVE BEEN IN THIS HOSPITAL?
+    answer_label answer_value raw_counts relative_frequency
+0      NO ANSWER          0.0         31               0.02
+1           NONE          1.0       1320               0.74
+2            ONE          2.0        348               0.19
+3            TWO          3.0         69               0.04
+4  THREE OR MORE          4.0         21               0.01
+
+
+
+S77B.Q67 SINCE YOU HAVE BEEN IN THE HOSPITAL, DO YOU HAVE TROUBLE GETTING A FURLOUGH WHEN YOU WANT ONE?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                         NO ANSWER          0.0         51               0.03
+1                              USUALLY HAVE TROUBLE          1.0        301               0.17
+2                            SOMETIMES HAVE TROUBLE          2.0        110               0.06
+3                                NEVER HAVE TROUBLE          3.0        197               0.11
+4  I DON'T THINK I AM WELL ENOUGH TO GO ON FURLOUGH          4.0        211               0.12
+5                 I HAVEN'T TRIED TO GET A FURLOUGH          5.0        919               0.51
+
+
+
+S77B.Q68 DID THE FURLOUGH YOU HAD HELP YOU GET WELL FASTER OR NOT?
+                                           answer_label answer_value raw_counts relative_frequency
+0                                             NO ANSWER          0.0         61               0.03
+1                          IT HELPED ME GET WELL FASTER          1.0        222               0.12
+2         IT DIDN'T AFFECT MY HEALTH ONE WAY OR ANOTHER          2.0        182                0.1
+3  IT KEPT ME FROM GETTING WELL AS FAST AS I COULD HAVE          3.0         23               0.01
+4    I HAVEN'T HAD ANY FURLOUGHS WHILE IN THIS HOSPITAL          4.0       1301               0.73
+
+
+
+S77B.Q69 ABOUT HOW MANY TIMES IN THE LAST 30 DAYS HAVE YOU HAD AN OVERNIGHT OR 3-DAY PASS? (JUST COUNT PASSES YOU GOT IN THIS HOSPITAL IN THE LAST 30 DAYS.)
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0         36               0.02
+1                NONE          1.0       1194               0.67
+2                 ONE          2.0        245               0.14
+3                 TWO          3.0        129               0.07
+4               THREE          4.0         64               0.04
+5                FOUR          5.0         49               0.03
+6  FIVE OR MORE TIMES          6.0         72               0.04
+
+
+
+S77B.Q70 SINCE YOU HAVE BEEN IN THE HOSPITAL, DO YOU HAVE TROUBLE GETTING AN OVERNIGHT OR THREE-DAY PASS WHEN YOU WANT ONE?
+                                                             answer_label answer_value raw_counts relative_frequency
+0                                                               NO ANSWER          0.0         47               0.03
+1                                                    USUALLY HAVE TROUBLE          1.0        262               0.15
+2                                                  SOMETIMES HAVE TROUBLE          2.0        170                0.1
+3                                                      NEVER HAVE TROUBLE          3.0        305               0.17
+4  I DON'T THINK I AM WELL ENOUGH TO GO ON AN OVERNIGHT OR THREE-DAY PASS          4.0        220               0.12
+5                   I HAVEN'T TRIED TO GET AN OVERNIGHT OR THREE-DAY PASS          5.0        785               0.44
+
+
+
+S77B.Q71 ABOUT HOW MANY TIMES IN THE LAST 30 DAYS HAVE YOU HAD A PASS FOR 12 HOURS OR LESS? (JUST COUNT PASSES YOU GOT IN THIS HOSPITAL IN THE LAST 30 DAYS.)
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0         42               0.02
+1                NONE          1.0        931               0.52
+2                ONCE          2.0        288               0.16
+3               TWICE          3.0        178                0.1
+4        3 OR 4 TIMES          4.0        185                0.1
+5        5 OR 6 TIMES          5.0         87               0.05
+6        7 OR 8 TIMES          6.0         36               0.02
+7       9 OR 10 TIMES          7.0         14               0.01
+8  MORE THAN 10 TIMES          8.0         28               0.02
+
+
+
+S77B.Q72 SINCE YOU HAVE BEEN IN THE HOSPITAL, DO YOU HAVE TROUBLE GETTING A PASS FOR 12 HOURS OR LESS WHEN YOU WANT ONE?
+                                         answer_label answer_value raw_counts relative_frequency
+0                                           NO ANSWER          0.0         50               0.03
+1                                USUALLY HAVE TROUBLE          1.0        153               0.09
+2                              SOMETIMES HAVE TROUBLE          2.0        200               0.11
+3                                  NEVER HAVE TROUBLE          3.0        603               0.34
+4        I DON'T THINK I AM WELL ENOUGH TO GO ON PASS          4.0        205               0.11
+5  I HAVEN'T TRIED TO GET A PASS FOR 12 HOURS OR LESS          5.0        578               0.32
+
+
+
+S77B.Q73 WHICH WAY DO YOU THINK YOU WOULD GET WELL THE FASTEST?
+                                                                                   answer_label answer_value raw_counts relative_frequency
+0                                                                                     NO ANSWER          0.0         53               0.03
+1                            BY STAYING IN THE HOSPITAL ALL THE TIME UNTIL I AM COMPLETELY WELL          1.0        214               0.12
+2  BY STAYING IN THE HOSPITAL MOST OF THE TIME AND GOING ON SICK FURLOUGH EVERY ONCE IN A WHILE          2.0        380               0.21
+3       BY STAYING HOME MOST OF THE TIME AND MAKING REGULAR VISITS TO THE NEAREST ARMY HOSPITAL          3.0        560               0.31
+4                                                                  BY STAYING HOME ALL THE TIME          4.0        174                0.1
+5                                                                                    DON'T KNOW          5.0        408               0.23
+
+
+
+S77B.Q74 DO YOU EVER GET SO BLUE AND DISCOURAGED THAT YOU WONDER WHETHER ANYTHING IS WORTHWHILE?
+   answer_label answer_value raw_counts relative_frequency
+0     NO ANSWER          0.0         51               0.03
+1    VERY OFTEN          1.0        442               0.25
+2  PRETTY OFTEN          2.0        338               0.19
+3  NOT SO OFTEN          3.0        363                0.2
+4   HARDLY EVER          4.0        595               0.33
+
+
+
+S77B.Q75 HOW MUCH INTERESTED ARE YOU IN KEEPING UP WITH WHAT'S GOING ON IN THE WORLD?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0         16               0.01
+1    VERY MUCH INTERESTED          1.0       1187               0.66
+2  PRETTY MUCH INTERESTED          2.0        388               0.22
+3  NOT SO MUCH INTERESTED          3.0        145               0.08
+4   NOT AT ALL INTERESTED          4.0         53               0.03
+
+
+
+S77B.Q76 DO YOU LOOK FORWARD TO YOUR FUTURE LIFE WITH AS MUCH INTEREST AS YOU DID BEFORE YOU GOT YOUR PRESENT SICKNESS OR INJURY?
+                            answer_label answer_value raw_counts relative_frequency
+0                              NO ANSWER          0.0         22               0.01
+1                      MORE INTEREST NOW          1.0        884               0.49
+2  ABOUT THE SAME AMOUNT OF INTEREST NOW          2.0        616               0.34
+3                      LESS INTEREST NOW          3.0        267               0.15
+
+
+
+S77B.Q77 WHILE YOU HAVE BEEN IN THIS HOSPITAL HAVE YOU HEARD ANYONE GIVE A TALK ON WHY WE ARE FIGHTING THIS WAR?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         26               0.01
+1          YES          1.0        441               0.25
+2           NO          2.0       1322               0.74
+
+
+
+S77B.Q78 WHILE YOU ARE IN THE HOSPITAL, HOW INTERESTED ARE YOU IN HEARING REGULAR TALKS ON WHY WE ARE FIGHTING THIS WAR?
+               answer_label answer_value raw_counts relative_frequency
+0                 NO ANSWER          0.0         34               0.02
+1      VERY MUCH INTERESTED          1.0        758               0.42
+2       SOMEWHAT INTERESTED          2.0        546               0.31
+3  HARDLY INTERESTED AT ALL          3.0        451               0.25
+
+
+
+S77B.Q79 HOW IMPORTANT IS IT TO YOU PERSONALLY TO HAVE A CLEAR UNDERSTANDING OF WHY WE ARE FIGHTING THIS WAR?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0         37               0.02
+1     IT IS ABSOLUTELY NECESSARY          1.0        739               0.41
+2      IT IS OF GREAT IMPORTANCE          2.0        619               0.35
+3     IT IS OF MEDIUM IMPORTANCE          3.0        199               0.11
+4     IT IS OF LITTLE IMPORTANCE          4.0         87               0.05
+5  IT IS OF NO IMPORTANCE AT ALL          5.0        108               0.06
+
+
+
+S77B.Q80 SOME HOSPITALS HAVE HAD TALKS BY OFFICERS OR ENLISTED MEN WHO HAVE RETURNED FROM THE FIGHTING OVERSEAS. HAVE YOU HEARD ANY OF THESE TALKS HERE IN THIS HOSPITAL?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         26               0.01
+1          YES          1.0        332               0.19
+2           NO          2.0       1376               0.77
+3   DON'T KNOW          3.0         55               0.03
+
+
+
+S77B.Q81 HOW INTERESTED ARE YOU IN HEARING MEN WHO HAVE JUST COME BACK FROM THE FIGHTING OVERSEAS GIVE REGULAR TALKS OR LECTURES HERE IN THE HOSPITAL?
+               answer_label answer_value raw_counts relative_frequency
+0                 NO ANSWER          0.0         25               0.01
+1      VERY MUCH INTERESTED          1.0        977               0.55
+2       SOMEWHAT INTERESTED          2.0        404               0.23
+3  HARDLY INTERESTED AT ALL          3.0        383               0.21
+
+
+
+S77B.Q82 SOME HOSPITALS HAVE ORGANIZED GROUPS OF PATIENTS THAT MEET ONCE A WEEK OR SO AND DISCUSS THE PROBLEMS OF SOLDIERS, AND THINGS THAT ARE GOING ON IN THE WORLD IN GENERAL. IF THIS IS DONE HERE IN THIS HOSPITAL, WOULD YOU BE INTERESTED IN GOING TO ONE OF THE
+               answer_label answer_value raw_counts relative_frequency
+0                 NO ANSWER          0.0         37               0.02
+1      VERY MUCH INTERESTED          1.0        669               0.37
+2       SOMEWHAT INTERESTED          2.0        623               0.35
+3  HARDLY INTERESTED AT ALL          3.0        460               0.26
+
+
+
+S77B.Q83 DO YOU THINK THIS HOSPITAL IS DOING ALL IT CAN TO MAKE IT EASY FOR FRIENDS AND RELATIVES TO COME TO VISIT PATIENTS?
+                                                                            answer_label answer_value raw_counts relative_frequency
+0                                                                              NO ANSWER          0.0         93               0.05
+1                           THIS HOSPITAL IS DOING ALL IT CAN FOR THE PATIENTS, VISITORS          1.0       1124               0.63
+2  THIS HOSPITAL IS DOING SOME THINGS FOR THE PATIENTS, VISITORS, BUT COULD DO SOME MORE          2.0        361                0.2
+3                           THIS HOSPITAL COULD DO A LOT MORE FOR THE PATIENTS, VISITORS          3.0        211               0.12
+
+
+
+S77B.Q84 WHAT THINGS DO YOU THINK THIS HOSPITAL COULD DO TO MAKE IT EASIER FOR FRIENDS AND RELATIVES TO COME TO VISIT PATIENTS?
+                                                                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                                                                  NO ANSWER          0.0        204               0.11
+1                                                                                          "THEY ARE DOING ALL THEY CAN NOW"          1.0       1076                0.6
+2    HAVE A PLACE FOR VISITORS TO STAY ("THEY COULD PUT IN A GUEST HOUSE WHERE FRIENDS AND RELATIVES WOULD STAY - THE HOTELS          2.0         83               0.05
+3   HAVE A PLACE TO SIT AND TALK; LOUNGE ("HAVE SOMEPLACE BESIDES THE NOISY RED CROSS WHERE THEY COULD SIT DOWN", "BETTER FA          3.0         45               0.03
+4   LONGER VISITING HOURS ("I THINK THEY SHOULD EXTEND VISITING HOURS", "BY LETTING THEM VISIT A PATIENT ONCE IN THE DAYTIME          4.0        125               0.07
+5   BY GIVING PATIENTS PASSES TO GO OUT WITH VISITORS ("THEY COULD ALLOW WEEK-END PASSES SO YOU COULD STAY WITH YOUR RELATIV          5.0         15               0.01
+6   GIVE V.D. PATIENTS OR PATIENTS IN OTHER RESTRICTED WARDS A CHANCE TO SEE VISITORS ("A PATIENT WITH GON. SHOULD BE ALLOWE          6.0          3                0.0
+7   HOSPITAL SHOULD SHOW GREATER HOSPITALITY TO VISITORS ("ADOPT A MORE HOSPITABLE ATTITUDE", "AT LEAST IT COULD HAVE A RECE          7.0         38               0.02
+8                                                                                            BETTER TRANSPORTATION FROM TOWN          8.0          5                0.0
+9                                                                                                      MISCELLANEOUS REASONS          9.0        102               0.06
+10                                                                                      SOME FAVORABLE OR IRRELEVANT COMMENT         10.0         16               0.01
+11  DON'T KNOW ("I KNOW VERY LITTLE OF ARRANGEMENTS CONCERNING VISITORS", "I DON'T KNOW ABOUT THIS HOSPITAL, HAVEN'T BEEN HE         11.0         77               0.04
+
+
+
+S77B.Q85 HOW IMPORTANT IS IT TO YOU PERSONALLY TO HAVE FRIENDS AND RELATIVES COME TO VISIT YOU?
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0         55               0.03
+1  IT IS ABSOLUTELY NECESSARY          1.0        356                0.2
+2   IT IS OF GREAT IMPORTANCE          2.0        810               0.45
+3  IT IS OF MEDIUM IMPORTANCE          3.0        276               0.15
+4  IT IS OF LITTLE IMPORTANCE          4.0        124               0.07
+5      IT IS OF NO IMPORTANCE          5.0        168               0.09
+
+
+
+S77B.Q86 DO YOU LIKE TO HAVE CIVILIAN GROUPS OR ORGANIZATIONS COME TO VISIT THE HOSPITAL - OR WOULD YOU RATHER NOT HAVE THEM COME?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                         NO ANSWER          0.0         38               0.02
+1                          I LIKE TO HAVE THEM COME          1.0       1184               0.66
+2                    I DON'T LIKE TO HAVE THEM COME          2.0         78               0.04
+3  IT DOESN'T MATTER TO ME WHETHER THEY COME OR NOT          3.0        489               0.27
+
+
+
+S77B.Q87A FROM WHAT YOU HAVE SEEN OR HEARD, WOULD YOU SAY THAT THIS HOSPITAL IS FAIR OR NOT FAIR IN GIVING MEN DISCHARGES FROM THE ARMY?
+                                     answer_label answer_value raw_counts relative_frequency
+0                                       NO ANSWER          0.0         38               0.02
+1                                     ALWAYS FAIR          1.0        362                0.2
+2                                    USUALLY FAIR          2.0        460               0.26
+3  FAIR ABOUT HALF THE TIME, UNFAIR HALF THE TIME          3.0        245               0.14
+4                                USUALLY NOT FAIR          4.0         67               0.04
+5                                 ALWAYS NOT FAIR          5.0         25               0.01
+6                                      DON'T KNOW          6.0        592               0.33
+
+
+
+S77B.Q87B WHY DO YOU THINK SO?
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0                                                                                NO ANSWER OR "HAVEN'T BEEN HERE VERY LONG"          0.0       1020               0.57
+1  HARDER FOR OVERSEAS MEN TO BE DISCHARGED ("IT SEEMS A MAN WHO WAS OVERSEAS HAS A HARDER TIME GETTING DISCHARGED THAN A M          1.0         20               0.01
+2   ZEALOUSNESS OF MEDICAL STAFF TO RETURN MAN TO DUTY ("MEDICAL STAFF IS OVERANXIOUS TO GET MEN BACK TO DUTY, CONSEQUENTLY          2.0         17               0.01
+3  POOR DECISIONS BY MEDICAL STAFF - NO EXPLANATION ("I HAVE SEEN MEN THAT WERE VERY SICK, BUT THEY WERE SENT BACK TO DUTY"          3.0        205               0.11
+4  COMPLAINT ON "LINE OF DUTY" DECISIONS ("SOME MEN WHO ARE WOUNDED IN LINE OF DUTY ARE DISCHARGED FOR OTHER REASONS AND NO          4.0         13               0.01
+5                                                                                             INDIFFERENT ATTITUDE OF STAFF          5.0         10               0.01
+6                                                                                                                YES, OTHER          6.0         56               0.03
+7                                                                                                        IRRELEVANT COMMENT          7.0         17               0.01
+8                                                                                                         FAVORABLE COMMENT          8.0        431               0.24
+
+
+
+S77B.Q88 ON THE WHOLE, DO YOU THINK MEN WHO ARE GOING TO BE DISCHARGED FROM THE ARMY ARE KEPT IN THE HOSPITAL TOO LONG, NOT LONG ENOUGH OR ABOUT THE RIGHT LENGTH OF TIME?
+                                                   answer_label answer_value raw_counts relative_frequency
+0                                                     NO ANSWER          0.0        101               0.06
+1                        THEY ARE KEPT IN THE HOSPITAL TOO LONG          1.0        838               0.47
+2  THEY ARE KEPT IN THE HOSPITAL ABOUT THE RIGHT LENGTH OF TIME          2.0        782               0.44
+3                 THEY ARE NOT KEPT IN THE HOSPITAL LONG ENOUGH          3.0         68               0.04
+
+
+
+S77B.Q89 ON THE WHOLE, DO YOU THINK MEN WHO ARE GOING TO BE SENT BACK TO DUTY ARE KEPT IN THE HOSPITAL TOO LONG, NOT LONG ENOUGH OR ABOUT THE RIGHT LENGTH OF TIME?
+                                                   answer_label answer_value raw_counts relative_frequency
+0                                                     NO ANSWER          0.0        138               0.08
+1                        THEY ARE KEPT IN THE HOSPITAL TOO LONG          1.0        451               0.25
+2  THEY ARE KEPT IN THE HOSPITAL ABOUT THE RIGHT LENGTH OF TIME          2.0        977               0.55
+3                 THEY ARE NOT KEPT IN THE HOSPITAL LONG ENOUGH          3.0        223               0.12
+
+
+
+S77B.Q90 HOW DO YOU FEEL ABOUT THE FOOD IN THIS HOSPITAL?
+                              answer_label answer_value raw_counts relative_frequency
+0                                NO ANSWER          0.0         39               0.02
+1     IT IS GOOD QUALITY AND WELL PREPARED          1.0       1232               0.69
+2  IT IS GOOD QUALITY, BUT POORLY PREPARED          2.0        313               0.17
+3    IT IS POOR QUALITY, BUT WELL PREPARED          3.0         29               0.02
+4  IT IS POOR QUALITY, AND POORLY PREPARED          4.0         36               0.02
+5                                UNDECIDED          5.0        140               0.08
+
+
+
+S77B.Q91 DO YOU GET ENOUGH TO EAT?
+       answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER          0.0         30               0.02
+1           USUALLY          1.0       1543               0.86
+2  PART OF THE TIME          2.0        192               0.11
+3       HARDLY EVER          3.0         24               0.01
+
+
+
+S77B.Q92 DO YOU FEEL THAT YOUR DOCTORS TAKE YOUR SICKNESS OR INJURY SERIOUSLY ENOUGH?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         40               0.02
+1          YES          1.0        987               0.55
+2           NO          2.0        427               0.24
+3   DON'T KNOW          3.0        335               0.19
+
+
+
+S77B.Q93 DO YOU FEEL THAT YOUR NURSES TAKE YOUR SICKNESS OR INJURY SERIOUSLY ENOUGH?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         53               0.03
+1          YES          1.0       1015               0.57
+2           NO          2.0        359                0.2
+3   DON'T KNOW          3.0        362                0.2
+
+
+
+S77B.Q94 DO THE NURSES DO ALL THEY CAN TO MAKE YOU COMFORTABLE?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         55               0.03
+1   ALL OF THEM DO          1.0        593               0.33
+2  MOST OF THEM DO          2.0        599               0.33
+3  SOME OF THEM DO          3.0        322               0.18
+4   FEW OF THEM DO          4.0        182                0.1
+5  NONE OF THEM DO          5.0         38               0.02
+
+
+
+S77B.Q95 DO THE WARD BOYS DO ALL THEY CAN TO MAKE YOU COMFORTABLE?
+      answer_label answer_value raw_counts relative_frequency
+0  MOST OF THEM DO          2.0        564               0.32
+1  SOME OF THEM DO          3.0        354                0.2
+2  NONE OF THEM DO          5.0         79               0.04
+3        NO ANSWER          0.0         35               0.02
+4   ALL OF THEM DO          1.0        541                0.3
+5   FEW OF THEM DO          4.0        216               0.12
+
+
+
+S77B.Q97 HOW DO YOU FEEL ABOUT GOING BACK TO DUTY - DO YOU WANT TO GO BACK OR WOULD YOU RATHER NOT?
+                                    answer_label answer_value raw_counts relative_frequency
+0                                      NO ANSWER          0.0         75               0.04
+1  I WANT TO GO BACK TO DUTY AS SOON AS POSSIBLE          1.0        377               0.21
+2  I DON'T CARE WHETHER I GO BACK TO DUTY OR NOT          2.0        156               0.09
+3             I WOULD RATHER NOT GO BACK TO DUTY          3.0        329               0.18
+4                                      UNDECIDED          4.0        226               0.13
+5                                   INAPPLICABLE          9.0        626               0.35
+
+
+
+S77B.Q98 IF YOU GO BACK TO DUTY, WOULD YOU WANT TO GO BACK TO YOUR OWN OUTFIT OR WOULD YOU RATHER BE IN SOME OTHER OUTFIT?
+                                                               answer_label answer_value raw_counts relative_frequency
+0                                                                 NO ANSWER          0.0         87               0.05
+1  I WOULD RATHER GO BACK TO MY OWN OUTFIT - IN THE SAME BRANCH OF THE ARMY          1.0        527               0.29
+2                                    I WOULD RATHER BE IN SOME OTHER OUTFIT          2.0        416               0.23
+3                                                                DON'T CARE          3.0        133               0.07
+4                                                              INAPPLICABLE          9.0        626               0.35
+
+
+
+S77B.Q99 IF IT WERE UP TO YOU TO CHOOSE, WHAT KIND OF OUTFIT WOULD YOU RATHER BE IN IF YOU GO BACK TO DUTY?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                         NO ANSWER          0.0        125               0.07
+1                       IN A COMBAT OUTFIT OVERSEAS          1.0        409               0.23
+2                   IN A NON-COMBAT OUTFIT OVERSEAS          2.0        148               0.08
+3  IN AN OUTFIT THAT WILL STAY IN THE UNITED STATES          3.0        481               0.27
+4                                      INAPPLICABLE          9.0        626               0.35
+
+
+
+S77B.Q100 WHAT BRANCH OF THE ARMY WOULD YOU LIKE TO BE IN IF YOU GO BACK TO DUTY?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0        120               0.07
+1                           ENGINEERS          1.0         59               0.03
+2                     FIELD ARTILLERY          2.0         37               0.02
+3                 QUARTERMASTER CORPS          3.0         83               0.05
+4                            INFANTRY          4.0        115               0.06
+5                  MEDICAL DEPARTMENT          5.0         71               0.04
+6                       ARMORED FORCE          6.0         34               0.02
+7                        SIGNAL CORPS          7.0         53               0.03
+8   COAST ARTILLERY AND ANTI-AIRCRAFT          8.0         53               0.03
+9                           AIR CORPS          9.0        291               0.16
+10               TRANSPORTATION CORPS         10.0         48               0.03
+11                ORDNANCE DEPARTMENT         11.0         78               0.04
+12           CHEMICAL WARFARE SERVICE         12.0         13               0.01
+13                    MILITARY POLICE         13.0         60               0.03
+14                         SOME OTHER         14.0         48               0.03
+15                       INAPPLICABLE         99.0        626               0.35
+
+
+
+S77B.Q101 IF IT WERE UP TO YOU TO CHOOSE AFTER YOU GET OUT OF THE HOSPITAL, WOULD YOU RATHER BE A SOLDIER OR WOULD YOU RATHER BE A CIVILIAN DOING SOME KIND OF WORK NEEDED TO WIN THE WAR?
+                                                                 answer_label answer_value raw_counts relative_frequency
+0                                                                   NO ANSWER          0.0         55               0.03
+1                                                 I WOULD RATHER BE A SOLDIER          1.0        321               0.18
+2  I WOULD RATHER BE A CIVILIAN DOING SOME KIND OF WORK NEEDED TO WIN THE WAR          2.0        644               0.36
+3                                                                   UNDECIDED          3.0        143               0.08
+4                                                                INAPPLICABLE          9.0        626               0.35
+
+
+
+S77B.Q102 IF YOU GO BACK TO DUTY, DO YOU THINK YOU WILL HAVE A HARD TIME OR AN EASY TIME GETTING USED TO ARMY LIFE AGAIN?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0         62               0.03
+1    IT WILL BE VERY HARD          1.0        230               0.13
+2  IT WILL BE PRETTY HARD          2.0        211               0.12
+3     IT WON'T BE SO HARD          3.0        316               0.18
+4    IT WILL BE VERY EASY          4.0        229               0.13
+5               UNDECIDED          5.0        115               0.06
+6            INAPPLICABLE          9.0        626               0.35
+
+
+
+S77B.V104 PERSONAL ADJUSTMENT SCORE
+                            answer_label answer_value raw_counts relative_frequency
+0                             SCORE OF 1          1.0        872               0.49
+1                             SCORE OF 2          2.0        413               0.23
+2                             SCORE OF 3          3.0        284               0.16
+3  SCORE OF 4 - HIGH PERSONAL ADJUSTMENT          4.0        220               0.12
+
+
+
+S77B.V105 INTEREST IN LIFE SCORE
+                         answer_label answer_value raw_counts relative_frequency
+0                          SCORE OF 6          1.0         37               0.02
+1                          SCORE OF 7          2.0        228               0.13
+2                          SCORE OF 8          3.0        985               0.55
+3  SCORE OF 9 - HIGH INTEREST IN LIFE          4.0        539                0.3
+
+
+
+S77B.V106 DESIRE FOR POST-WAR EDUCATION SCORE
+                                  answer_label answer_value raw_counts relative_frequency
+0                                   SCORE OF 1          1.0        931               0.52
+1                                   SCORE OF 2          2.0        614               0.34
+2                                   SCORE OF 3          3.0        128               0.07
+3                                   SCORE OF 4          4.0         76               0.04
+4  SCORE OF 5 - HIGH DESIRE POST-WAR EDUCATION          5.0         40               0.02
+
+
+
+S77B.V107 TYPE OF WARD IDENTIFICATION FOR WALTER REED HOSPITAL:
+                                                                                                    answer_label answer_value raw_counts relative_frequency
+0                                                                                 FOREST GLEN - NEUROPSYCHIATRIC          1.0         15               0.01
+1                                                                                       FOREST GLEN - ORTHOPEDIC          2.0        146               0.08
+2                                         FOREST GLEN - RECON. \(REHABILITATION\) MOSTLY REHABILITATION PATIENTS          3.0        156               0.09
+3  FOREST GLEN - NEURO; THORACIC; OTHER SURGICAL G.U. AND GENERAL SURGICAL, MEDICAL AND EARS, NOSE, THROAT AND D          4.0         67               0.04
+4                                                                            GENERAL HOSPITAL - NEUROPSYCHIATRIC          5.0        205               0.11
+5                                                                                  GENERAL HOSPITAL - ORTHOPEDIC          6.0        442               0.25
+6                                                                                GENERAL HOSPITAL - CONVALESCENT          7.0         70               0.04
+7                              GENERAL HOSPITAL - GENERAL MEDICAL, GENERAL SURGICAL, EARS, EYES, NOSE AND THROAT          8.0        576               0.32
+8                                                                           GENERAL HOSPITAL - SKIN AND VENEREAL          9.0        112               0.06
+
+
+
+S77B.V108 HOSPITAL IDENTIFICATION:
+                            answer_label answer_value raw_counts relative_frequency
+0        WALTER REED HOSPITAL - PATIENTS          1.0        615               0.34
+1     LAWSON GENERAL HOSPITAL - PATIENTS          2.0        410               0.23
+2  MCCLOSKEY GENERAL HOSPITAL - PATIENTS          3.0        764               0.43
+
+
+

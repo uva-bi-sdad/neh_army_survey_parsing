@@ -1,0 +1,1331 @@
+S115A.Q83B.22 WHAT IS THE REASON FOR YOUR ANSWER?
+          answer_label answer_value raw_counts relative_frequency
+0  CAN'T SPEAK ENGLISH          1.0          9               0.01
+1           NOT CHOSEN          2.0       1686               0.99
+
+
+
+S115A.Q1 WHAT IS YOUR ARMY RANK OR GRADE?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0          2                0.0
+1                                 PRIVATE          1.0        304               0.18
+2                     PRIVATE FIRST CLASS          2.0        364               0.21
+3        TECHNICIAN 5TH GRADE OR CORPORAL          3.0        426               0.25
+4        TECHNICIAN 4TH GRADE OR SERGEANT          4.0        339                0.2
+5  TECHNICIAN 3RD GRADE OR STAFF SERGEANT          5.0        181               0.11
+6                      TECHNICAL SERGEANT          6.0         48               0.03
+7       MASTER SERGEANT OR FIRST SERGEANT          7.0         31               0.02
+
+
+
+S115A.Q2 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0         53               0.03
+1   18 YEARS OR LESS          1.0          5                0.0
+2           19 YEARS          2.0         37               0.02
+3           20 YEARS          3.0         64               0.04
+4           21 YEARS          4.0        127               0.07
+5           22 YEARS          5.0        196               0.12
+6           23 YEARS          6.0        196               0.12
+7           24 YEARS          7.0        194               0.11
+8           25 YEARS          8.0        156               0.09
+9   26 THRU 29 YEARS          9.0        400               0.24
+10  30 THRU 34 YEARS         10.0        166                0.1
+11  35 YEARS OR MORE         11.0        101               0.06
+
+
+
+S115A.Q3 HOW FAR DID YOU GO IN SCHOOL?
+                          answer_label answer_value raw_counts relative_frequency
+0                   NO CODE OR NO DATA          0.0          1                0.0
+1                  LESS THAN 6TH GRADE          1.0         31               0.02
+2                   FINISHED 6TH GRADE          2.0         42               0.02
+3                   FINISHED 7TH GRADE          3.0         85               0.05
+4                   FINISHED 8TH GRADE          4.0        237               0.14
+5  SOME HIGH SCHOOL BUT DID NOT FINISH          5.0        528               0.31
+6           GRADUATED FROM HIGH SCHOOL          6.0        528               0.31
+7      SOME COLLEGE BUT DID NOT FINISH          7.0        193               0.11
+8               GRADUATED FROM COLLEGE          8.0         47               0.03
+9                            NO ANSWER          9.0          3                0.0
+
+
+
+S115A.Q4 IN WHAT STATE OF THE UNITED STATES DID YOU SPEND MOST OF THE LAST FIVE YEARS OF YOUR CIVILIAN LIFE BEFORE YOU CAME INTO THE ARMY? E. SECTION:
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0         25               0.01
+1                 NEW ENGLAND          1.0        118               0.07
+2             MIDDLE ATLANTIC          2.0        503                0.3
+3          EAST NORTH CENTRAL          3.0        347                0.2
+4          WEST NORTH CENTRAL          4.0        152               0.09
+5              SOUTH ATLANTIC          5.0        254               0.15
+6          EAST SOUTH CENTRAL          6.0        129               0.08
+7          WEST SOUTH CENTRAL          7.0         76               0.04
+8                    MOUNTAIN          8.0         25               0.01
+9                     PACIFIC          9.0         64               0.04
+10  FOREIGN - U.S. POSSESSION         10.0          1                0.0
+11         FOREIGN - NOT U.S.         11.0          1                0.0
+
+
+
+S115A.Q5 WHERE WERE YOU LIVING MOST OF THE LAST FIVE YEARS OF YOUR CIVILIAN LIFE BEFORE YOU CAME INTO THE ARMY?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                         NO ANSWER          0.0          2                0.0
+1                       ON A FARM OR IN THE COUNTRY          1.0        326               0.19
+2         IN A SMALL TOWN (FEWER THAN 2,500 PEOPLE)          2.0        205               0.12
+3  IN A TOWN (WITH BETWEEN 2,500 AND 25,000 PEOPLE)          3.0        336                0.2
+4     IN A CITY (BETWEEN 25,000 AND 100,000 PEOPLE)          4.0        306               0.18
+5        IN A LARGE CITY (MORE THAN 100,000 PEOPLE)          5.0        520               0.31
+
+
+
+S115A.Q6 ARE YOU:
+            answer_label answer_value raw_counts relative_frequency
+0     NO CODE OR NO DATA          0.0          1                0.0
+1                 SINGLE          1.0       1371               0.81
+2                MARRIED          2.0        274               0.16
+3  DIVORCED OR SEPARATED          3.0         43               0.03
+4                WIDOWED          4.0          5                0.0
+5              NO ANSWER          5.0          1                0.0
+
+
+
+S115A.Q7 WHAT BRANCH OF THE ARMY ARE YOU IN NOW?
+                         answer_label answer_value raw_counts relative_frequency
+0                           ENGINEERS          1.0         27               0.02
+1            CHEMICAL WARFARE SERVICE          2.0         10               0.01
+2                 QUARTERMASTER CORPS          3.0         90               0.05
+3                            INFANTRY          4.0        135               0.08
+4                  MEDICAL DEPARTMENT          5.0         86               0.05
+5                        SIGNAL CORPS          6.0        208               0.12
+6   COAST ARTILLERY AND ANTI-AIRCRAFT          7.0        514                0.3
+7                           AIR CORPS          8.0        436               0.26
+8                 ORDNANCE DEPARTMENT          9.0        106               0.06
+9                     MILITARY POLICE         10.0         39               0.02
+10                              OTHER         11.0         44               0.03
+
+
+
+S115A.Q8 IF YOU HAD A CHOICE, WHICH ONE OF THESE BRANCHES OF THE ARMY WOULD YOU LIKE TO BE IN?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0         28               0.02
+1                           ENGINEERS          1.0         80               0.05
+2            CHEMICAL WARFARE SERVICE          2.0          7                0.0
+3                 QUARTERMASTER CORPS          3.0         92               0.05
+4                            INFANTRY          4.0         56               0.03
+5                  MEDICAL DEPARTMENT          5.0         44               0.03
+6                        SIGNAL CORPS          6.0        105               0.06
+7   COAST ARTILLERY AND ANTI-AIRCRAFT          7.0        145               0.09
+8                           AIR CORPS          8.0        877               0.52
+9                 ORDNANCE DEPARTMENT          9.0        116               0.07
+10                    MILITARY POLICE         10.0         40               0.02
+11                              OTHER         11.0        105               0.06
+
+
+
+S115A.Q9 HOW DID YOU COME INTO THE ARMY?
+                           answer_label answer_value raw_counts relative_frequency
+0                    NO CODE OR NO DATA          0.0          1                0.0
+1    I WAS DRAFTED, BEFORE PEARL HARBOR          1.0        329               0.19
+2     I WAS DRAFTED, AFTER PEARL HARBOR          2.0        769               0.45
+3    I VOLUNTEERED, BEFORE PEARL HARBOR          3.0        293               0.17
+4     I VOLUNTEERED, AFTER PEARL HARBOR          4.0        253               0.15
+5  I CAME IN THROUGH THE NATIONAL GUARD          5.0         48               0.03
+6                             NO ANSWER          6.0          2                0.0
+
+
+
+S115A.Q10 HOW LONG HAVE YOU BEEN IN THE ARMY? P. IF YOU HAVE BEEN IN THE ARMY BEFORE, THEN WERE OUT FOR A WHILE, JUST CHECK THE LENGTH OF TIME SINCE YOU ENTERED THIS LAST TIME. IF YOU WERE IN THE NATIONAL GUARD, CHECK THE LENGTH OF TIME SINCE YOUR OUTFIT CAME INTO
+                     answer_label answer_value raw_counts relative_frequency
+0                  OVER 48 MONTHS          0.0         52               0.03
+1                9 MONTHS OR LESS          1.0         20               0.01
+2   OVER 9 MONTHS UP TO 12 MONTHS          2.0         73               0.04
+3  OVER 12 MONTHS UP TO 15 MONTHS          3.0        175                0.1
+4  OVER 15 MONTHS UP TO 18 MONTHS          4.0        276               0.16
+5  OVER 18 MONTHS UP TO 24 MONTHS          5.0        375               0.22
+6  OVER 24 MONTHS UP TO 30 MONTHS          6.0        362               0.21
+7  OVER 30 MONTHS UP TO 36 MONTHS          7.0        202               0.12
+8  OVER 36 MONTHS UP TO 42 MONTHS          8.0        135               0.08
+9  OVER 42 MONTHS UP TO 48 MONTHS          9.0         25               0.01
+
+
+
+S115A.Q11 HOW MANY MONTHS HAVE YOU BEEN STATIONED IN THE CARIBBEAN AREA (COVERING PANAMA CANAL DEPARTMENT, AND ANTILLES DEPARTMENT - WHICH INCLUDES THE PUERTO RICAN DEPARTMENT, AND TRINIDAD SECTOR AND BASE COMMAND)?  ANP (MONTHS)
+              answer_label answer_value raw_counts relative_frequency
+0                NO ANSWER          0.0          3                0.0
+1  ONE MONTH OR LESS . . .          1.0         15               0.01
+
+
+
+S115A.Q12 ARE YOU NOW STATIONED AT A POST OR OUTLYING POSITION?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0          4                0.0
+1               POST          1.0       1191                0.7
+2  OUTLYING POSITION          2.0        500               0.29
+
+
+
+S115A.V12A EXPLANATION OF POST:
+                                      answer_label answer_value raw_counts relative_frequency
+0                               NO CODE OR NO DATA          0.0          1                0.0
+1                                        TRUE POST          1.0        835               0.49
+2     IN BETWEEN POST AND OUTPOST - MORE LIKE POST          2.0        455               0.27
+3  IN BETWEEN POST AND OUTPOST - MORE LIKE OUTPOST          3.0        142               0.08
+4                                     TRUE OUTPOST          4.0        262               0.15
+
+
+
+S115A.Q13 HOW MANY MONTHS IN ALL HAVE YOU BEEN AT YOUR PRESENT POST OR POSITION WHERE YOU ARE NOW STATIONED? (LEAVE OUT THE MONTHS YOU MAY HAVE BEEN STATIONED AWAY FROM YOUR POST OR POSITION)  ANP (MONTHS)
+              answer_label answer_value raw_counts relative_frequency
+0                NO ANSWER          0.0          4                0.0
+1  ONE MONTH OR LESS . . .          1.0        148               0.09
+
+
+
+S115A.Q14 IN YOUR OPINION HOW LONG CAN A MAN STAY IN THE TROPICS AND STILL DO HIS JOB WELL?
+               answer_label answer_value raw_counts relative_frequency
+0                 NO ANSWER          0.0         21               0.01
+1     NO MORE THAN 6 MONTHS          1.0         50               0.03
+2       NO MORE THAN 1 YEAR          2.0        376               0.22
+3  NO MORE THAN 1 1/2 YEARS          3.0        563               0.33
+4      NO MORE THAN 2 YEARS          4.0        504                0.3
+5  NO MORE THAN 2 1/2 YEARS          5.0         56               0.03
+6      NO MORE THAN 3 YEARS          6.0         52               0.03
+7  NO MORE THAN 3 1/2 YEARS          7.0          3                0.0
+8      NO MORE THAN 4 YEARS          8.0         11               0.01
+9         MORE THAN 4 YEARS          9.0         59               0.03
+
+
+
+S115A.Q15 WOULD YOU LIKE IT BETTER OR WORSE IF YOUR OUTFIT MOVED AROUND EVERY SIX MONTHS OR SO, TO SOME OTHER PLACE WITHIN THIS TROPICAL AREA?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                         NO ANSWER          0.0         13               0.01
+1  I WOULD LIKE IT BETTER IF MY OUTFIT MOVED AROUND          1.0        997               0.59
+2   I WOULD LIKE IT WORSE IF MY OUTFIT MOVED AROUND          2.0        685                0.4
+
+
+
+S115A.Q17 HOW INTERESTED ARE YOU IN YOUR ARMY JOB?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0          3                0.0
+1   VERY MUCH INTERESTED          1.0        905               0.53
+2  A LITTLE BUT NOT MUCH          2.0        586               0.35
+3  NOT INTERESTED AT ALL          3.0        201               0.12
+
+
+
+S115A.Q18 WOULD YOU CHANGE TO SOME OTHER ARMY JOB IF GIVEN A CHANCE?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          5                0.0
+1          YES          1.0        862               0.51
+2           NO          2.0        499               0.29
+3    UNDECIDED          3.0        329               0.19
+
+
+
+S115A.Q19 CONSIDERING EVERYTHING, DO YOU THINK THE ARMY DOES ALL IT CAN TO PROVIDE INTERESTING THINGS FOR YOU TO DO IN YOUR OFF-DUTY TIME?
+                                    answer_label answer_value raw_counts relative_frequency
+0                                      NO ANSWER          0.0          6                0.0
+1                        YES, IT DOES ALL IT CAN          1.0        376               0.22
+2            DOES QUITE A BIT, BUT COULD DO MORE          2.0        848                0.5
+3  DOESN'T DO NEARLY ENOUGH, COULD DO A LOT MORE          3.0        465               0.27
+
+
+
+S115A.Q20 IN GENERAL, WHAT SORT OF A TIME DO YOU HAVE IN THE ARMY?
+                  answer_label answer_value raw_counts relative_frequency
+0           NO CODE OR NO DATA          0.0          1                0.0
+1    I HAVE A PRETTY GOOD TIME          1.0        283               0.17
+2       IT'S ABOUT FIFTY-FIFTY          2.0       1049               0.62
+3  I HAVE A PRETTY ROTTEN TIME          3.0        358               0.21
+4                    NO ANSWER          4.0          4                0.0
+
+
+
+S115A.Q21 DO YOU USUALLY FEEL THAT WHAT YOU ARE DOING IN THE ARMY IS WORTHWHILE OR NOT?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0          3                0.0
+1  I USUALLY FEEL IT IS NOT WORTHWHILE          1.0        360               0.21
+2      I USUALLY FEEL IT IS WORTHWHILE          2.0       1050               0.62
+3                            UNDECIDED          3.0        282               0.17
+
+
+
+S115A.Q22 ON THE WHOLE, DO YOU THINK THE ARMY IS GIVING YOU A CHANCE TO SHOW WHAT YOU CAN DO?
+           answer_label answer_value raw_counts relative_frequency
+0             NO ANSWER          0.0          3                0.0
+1    A VERY GOOD CHANCE          1.0        269               0.16
+2  A FAIRLY GOOD CHANCE          2.0        623               0.37
+3  NOT MUCH OF A CHANCE          3.0        499               0.29
+4      NO CHANCE AT ALL          4.0        224               0.13
+5             UNDECIDED          5.0         77               0.05
+
+
+
+S115A.Q23 WOULD YOU SAY THAT MOST OF THE MEN IN YOUR OUTFIT USUALLY PUT ALL THEY HAVE INTO THEIR ARMY DUTIES, OR DO THEY USUALLY WORK JUST HARD ENOUGH TO GET BY?
+                                              answer_label answer_value raw_counts relative_frequency
+0                                                NO ANSWER          0.0          3                0.0
+1        MOST OF THE MEN USUALLY PUT ALL THEY HAVE INTO IT          1.0        463               0.27
+2  MOST OF THE MEN USUALLY WORK JUST HARD ENOUGH TO GET BY          2.0       1089               0.64
+3                                                UNDECIDED          3.0        140               0.08
+
+
+
+S115A.Q24 HOW ABOUT YOU YOURSELF - WOULD YOU HONESTLY SAY THAT YOU USUALLY PUT ALL YOU HAVE INTO YOUR ARMY DUTIES, OR DO YOU USUALLY WORK JUST HARD ENOUGH TO GET BY?
+                                answer_label answer_value raw_counts relative_frequency
+0                                  NO ANSWER          0.0         10               0.01
+1           I USUALLY PUT ALL I HAVE INTO IT          1.0        889               0.52
+2  I USUALLY WORK JUST HARD ENOUGH TO GET BY          2.0        688               0.41
+3                                  UNDECIDED          3.0        108               0.06
+
+
+
+S115A.Q25 IN GENERAL, HOW WOULD YOU SAY YOU FEEL MOST OF THE TIME, IN GOOD SPIRITS OR IN LOW SPIRITS?
+                                                                answer_label answer_value raw_counts relative_frequency
+0                                               I AM USUALLY IN GOOD SPIRITS          1.0        354               0.21
+1  I AM IN GOOD SPIRITS SOME OF THE TIME AND IN LOW SPIRITS SOME OF THE TIME          2.0       1037               0.61
+2                                                I AM USUALLY IN LOW SPIRITS          3.0        304               0.18
+
+
+
+S115A.Q26 IF IT WERE UP TO YOU TO CHOOSE, DO YOU THINK YOU COULD DO MORE FOR YOUR COUNTRY AS A SOLDIER OR AS A WORKER IN A WAR JOB?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0          8                0.0
+1     AS A SOLDIER          1.0        698               0.41
+2  AS A WAR WORKER          2.0        696               0.41
+3        UNDECIDED          3.0        293               0.17
+
+
+
+S115A.Q27 SINCE YOU HAVE BEEN IN THIS AREA, HAVE YOU EVER HAD A FURLOUGH OF ANY KIND? (INCLUDE REGULAR, EMERGENCY, LOCAL FURLOUGHS, AND FURLOUGHS TO THE U.S.)
+                                                 answer_label answer_value raw_counts relative_frequency
+0                                                   NO ANSWER          0.0          3                0.0
+1       NO, I HAVE NEVER HAD A FURLOUGH OF ANY KIND FROM HERE          1.0       1564               0.92
+2     YES, I HAVE HAD A REGULAR FURLOUGH TO THE UNITED STATES          2.0         29               0.02
+3  YES, I HAVE HAD AN EMERGENCY FURLOUGH TO THE UNITED STATES          3.0         56               0.03
+4                            YES, I HAVE HAD A LOCAL FURLOUGH          4.0         43               0.03
+
+
+
+S115A.Q28 UNDER THE CIRCUMSTANCES, WHAT DO YOU THINK ABOUT THE WAY FURLOUGHS HAVE BEEN HANDLED IN THIS AREA?
+                                           answer_label answer_value raw_counts relative_frequency
+0                                             NO ANSWER          0.0         15               0.01
+1  HANDLED AS WELL AS POSSIBLE, UNDER THE CIRCUMSTANCES          1.0        156               0.09
+2          HANDLED PRETTY WELL, UNDER THE CIRCUMSTANCES          2.0        320               0.19
+3         HANDLED PRETTY BADLY, UNDER THE CIRCUMSTANCES          3.0        499               0.29
+4           HANDLED VERY BADLY, UNDER THE CIRCUMSTANCES          4.0        701               0.41
+5                                            DON'T KNOW          5.0          4                0.0
+
+
+
+S115A.Q29 IN CASE YOU NEEDED AN EMERGENCY FURLOUGH, WHAT DO YOU THINK YOUR CHANCES WOULD BE OF GETTING ONE, IF IT HAD ALREADY BEEN LOOKED INTO AND APPROVED BY THE RED CROSS?
+                                     answer_label answer_value raw_counts relative_frequency
+0                                       NO ANSWER          0.0          2                0.0
+1    ODDS WOULD BE VERY HIGH THAT I WOULD GET ONE          1.0        320               0.19
+2  ODDS WOULD BE FAIRLY HIGH THAT I WOULD GET ONE          2.0        363               0.21
+3  ODDS WOULD BE FIFTY-FIFTY THAT I WOULD GET ONE          3.0        503                0.3
+4   ODDS WOULD BE FAIRLY LOW THAT I WOULD GET ONE          4.0        156               0.09
+5     ODDS WOULD BE VERY LOW THAT I WOULD GET ONE          5.0        189               0.11
+6           HAVE NO IDEA WHAT MY CHANCES WOULD BE          6.0        162                0.1
+
+
+
+S115A.Q30 ACCORDING TO THE PRESENT POLICY, HOW MANY MONTHS DOES A MAN HAVE TO SPEND IN THIS AREA BEFORE HE CAN BE REASSIGNED?
+                                                   answer_label answer_value raw_counts relative_frequency
+0                                                     NO ANSWER          0.0         10               0.01
+1          24 MONTHS OR "24 MONTHS OR MORE" OR "OVER 24 MONTHS"          1.0        772               0.46
+2          18 MONTHS OR "18 MONTHS OR MORE" OR "OVER 18 MONTHS"          2.0        238               0.14
+3                    6 MONTHS UP TO BUT NOT INCLUDING 12 MONTHS          4.0         17               0.01
+4                   12 MONTHS UP TO BUT NOT INCLUDING 18 MONTHS          5.0         27               0.02
+5              OVER 18 MONTHS UP TO BUT NOT INCLUDING 24 MONTHS          6.0         38               0.02
+6  OVER 24 MONTHS - A NUMBER OVER 24 IS STATED - E.G. 26 MONTHS          7.0         97               0.06
+7     DEPENDS ON OUTFIT, NO LIMIT, WHEN WAR DEPARTMENT SEES FIT          8.0          9               0.01
+8                                                    DON'T KNOW          9.0        463               0.27
+9             18-24 MONTHS (THESE 2 FIGURES SPECIFICALLY NAMED)         10.0         24               0.01
+
+
+
+S115A.Q31 IF RIGHT NOW, YOU WERE GIVEN YOUR CHOICE OF ASKING FOR REASSIGNMENT OR STAYING HERE FOR ANOTHER 6 MONTHS, WHICH WOULD YOU DO?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0         10               0.01
+1  I WOULD STAY HERE FOR ANOTHER 6 MONTHS          1.0        368               0.22
+2            I WOULD ASK FOR REASSIGNMENT          2.0       1315               0.78
+3                               UNDECIDED          3.0          2                0.0
+
+
+
+S115A.Q32 WHEN YOU HAVE PUT IN THE AMOUNT OF TIME REQUIRED BY THE ARMY FOR REASSIGNMENT, DO YOU THINK THAT THE ARMY WILL OR WILL NOT KEEP ITS PROMISE TO SEND YOU BACK TO THE UNITED STATES FOR REASSIGNMENT?
+                                                        answer_label answer_value raw_counts relative_frequency
+0                                                 NO CODE OR NO DATA          0.0          1                0.0
+1             I AM SURE THAT WHEN MY TIME IS UP, I WILL BE SENT BACK          1.0        208               0.12
+2      I AM FAIRLY SURE THAT WHEN MY TIME IS UP, I WILL BE SENT BACK          2.0        403               0.24
+3    I AM NOT VERY SURE THAT WHEN MY TIME IS UP, I WILL BE SENT BACK          3.0        523               0.31
+4  I AM NOT AT ALL SURE THAT WHEN MY TIME IS UP, I WILL BE SENT BACK          4.0        547               0.32
+5                                                          NO ANSWER          5.0         13               0.01
+
+
+
+S115A.Q33 HAVE YOU HAD ANY LECTURES OR CLASSES GIVEN BY OFFICERS OR NONCOMS IN YOUR OUTFIT ON THE IMPORTANCE OF THE PANAMA CANAL?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0          4                0.0
+1     NO, I HAVE NEVER HEARD ANY          1.0        506                0.3
+2   YES, I HAVE HEARD ONE OR TWO          2.0        614               0.36
+3  YES, I HAVE HEARD QUITE A FEW          3.0        571               0.34
+
+
+
+S115A.Q34 HOW MANY OF YOUR OFFICERS TAKE A PERSONAL INTEREST IN THEIR MEN?
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0          5                0.0
+1         ALL OF THEM DO          1.0        197               0.12
+2        MOST OF THEM DO          2.0        397               0.23
+3  ABOUT HALF OF THEM DO          3.0        257               0.15
+4         FEW OF THEM DO          4.0        670                0.4
+5        NONE OF THEM DO          5.0        169                0.1
+
+
+
+S115A.Q35 DO YOU FEEL PROUD OF YOUR COMPANY (BATTERY, SQUADRON, TROOP)?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0          4                0.0
+1    YES, VERY PROUD          1.0        565               0.33
+2  YES, FAIRLY PROUD          2.0        548               0.32
+3      NO, NOT PROUD          3.0        392               0.23
+4          UNDECIDED          4.0        186               0.11
+
+
+
+S115A.Q36 HOW MUCH OF YOUR TRAINING OR DUTY TIME IS USED IN DOING THINGS THAT DO NOT SEEM IMPORTANT TO YOU?
+          answer_label answer_value raw_counts relative_frequency
+0            NO ANSWER          0.0          2                0.0
+1          A LOT OF IT          1.0        467               0.28
+2           SOME OF IT          2.0        709               0.42
+3  ONLY A LITTLE OF IT          3.0        335                0.2
+4           NONE OF IT          4.0        182               0.11
+
+
+
+S115A.Q37 IF YOU WERE SENT INTO ACTUAL FIGHTING RIGHT NOW, HOW DO YOU THINK YOU WOULD DO?
+                                                               answer_label answer_value raw_counts relative_frequency
+0                                                                 NO ANSWER          0.0          2                0.0
+1                                              I THINK I WOULD DO ALL RIGHT          1.0        419               0.25
+2  I THINK I WOULD HAVE TROUBLE AT FIRST, BUT AFTER A WHILE I WOULD BE O.K.          2.0        636               0.38
+3                                        I DON'T THINK I WOULD DO VERY WELL          3.0        252               0.15
+4                                         I HAVEN'T ANY IDEA HOW I WOULD DO          4.0        386               0.23
+
+
+
+S115A.Q38 DO YOU THINK YOU MIGHT WANT TO STAY IN THE ARMY AFTER THE WAR?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0          2                0.0
+1          YES, I WOULD WANT TO VERY MUCH          1.0         56               0.03
+2  YES, I MIGHT WANT TO, BUT I'M NOT SURE          2.0        160               0.09
+3       NO, I DON'T THINK I WOULD WANT TO          3.0        350               0.21
+4          NO, I WOULD NOT WANT TO AT ALL          4.0        998               0.59
+5                               UNDECIDED          5.0        129               0.08
+
+
+
+S115A.Q39 HOW MUCH DOES IT BOTHER YOU WHEN YOU ARE ORDERED TO DO THINGS WHICH YOU DON'T SEE A GOOD REASON FOR DOING?
+               answer_label answer_value raw_counts relative_frequency
+0   BOTHERS ME A GREAT DEAL          1.0        341                0.2
+1    BOTHERS ME QUITE A BIT          2.0        462               0.27
+2    DOESN'T BOTHER ME MUCH          3.0        648               0.38
+3  DOESN'T BOTHER ME AT ALL          4.0        244               0.14
+
+
+
+S115A.Q40 HOW MANY OF THE MEN IN YOUR COMPANY WOULD YOU SAY ARE GOOD ALL-AROUND SOLDIERS?
+                   answer_label answer_value raw_counts relative_frequency
+0                     NO ANSWER          0.0          4                0.0
+1                       ALL ARE          1.0        117               0.07
+2                      MOST ARE          2.0        745               0.44
+3  ABOUT HALF ARE, HALF ARE NOT          3.0        445               0.26
+4                ONLY A FEW ARE          4.0        319               0.19
+5               ALMOST NONE ARE          5.0         65               0.04
+
+
+
+S115A.Q41 DO YOU EVER FEEL THAT YOU ARE NOT AS GOOD A SOLDIER AS MOST OF THE OTHER MEN IN YOUR OUTFIT?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0          6                0.0
+1  I FEEL THAT WAY NEARLY ALL OF THE TIME          1.0        105               0.06
+2            I FEEL THAT WAY FAIRLY OFTEN          2.0        163                0.1
+3    I FEEL THAT WAY ONLY ONCE IN A WHILE          3.0        487               0.29
+4            I ALMOST NEVER FEEL THAT WAY          4.0        934               0.55
+
+
+
+S115A.Q42 HAVE YOU RECEIVED COMPANY PUNISHMENT ANY TIME IN THE PAST 6 MONTHS?
+  answer_label answer_value raw_counts relative_frequency
+0          YES          1.0        207               0.12
+1           NO          2.0       1488               0.88
+
+
+
+S115A.Q43 DO TOO MANY OF THE ARMY RULES AND REGULATIONS SEEM USELESS TO YOU?
+                            answer_label answer_value raw_counts relative_frequency
+0                              NO ANSWER          0.0          6                0.0
+1                 NO, I NEVER THOUGHT SO          1.0        509                0.3
+2  NO, I USED TO THINK SO, BUT DON'T NOW          2.0        421               0.25
+3             YES, TOO MANY SEEM USELESS          3.0        571               0.34
+4                              UNDECIDED          4.0        188               0.11
+
+
+
+S115A.Q44A IF YOU HAD YOUR CHOICE, WHAT KIND OF AN OUTFIT WOULD YOU RATHER BE IN?
+                           answer_label answer_value raw_counts relative_frequency
+0                             NO ANSWER          0.0         12               0.01
+1  IN A COMBAT OUTFIT (FIGHTING OUTFIT)          1.0       1052               0.62
+2                IN A NON-COMBAT OUTFIT          2.0        604               0.36
+3             DOESN'T MATTER, UNDECIDED          3.0         27               0.02
+
+
+
+S115A.Q44B WHERE WOULD YOU LIKE THIS OUTFIT YOU JUST CHOSE, TO SERVE?
+                                    answer_label answer_value raw_counts relative_frequency
+0                                      NO ANSWER          0.0         11               0.01
+1                           IN THE UNITED STATES          1.0        533               0.31
+2  OVERSEAS IN A ZONE WHERE THERE IS NO FIGHTING          2.0        149               0.09
+3                             IN A FIGHTING ZONE          3.0        985               0.58
+4                      DOESN'T MATTER, UNDECIDED          4.0         17               0.01
+
+
+
+S115A.Q45 ABOUT HOW MUCH LONGER FROM NOW DO YOU GUESS THE WAR WILL LAST WITH GERMANY?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0         19               0.01
+1                            3 MONTHS OR LESS          1.0         44               0.03
+2                       OVER 3 UP TO 6 MONTHS          2.0        675                0.4
+3                      OVER 9 UP TO 15 MONTHS          3.0        569               0.34
+4                     OVER 15 UP TO 21 MONTHS          4.0        139               0.08
+5                     OVER 21 UP TO 27 MONTHS          5.0         88               0.05
+6                     OVER 27 UP TO 33 MONTHS          6.0         11               0.01
+7                     OVER 33 UP TO 39 MONTHS          7.0          6                0.0
+8                              OVER 39 MONTHS          8.0          5                0.0
+9   INDEFINITE ANSWER INDICATING 'SHORT TIME'          9.0         26               0.02
+10   INDEFINITE ANSWER INDICATING 'LONG TIME'         10.0          9               0.01
+11                      DON'T KNOW, UNDECIDED         11.0        104               0.06
+
+
+
+S115A.Q46 WHICH COMES CLOSEST TO YOUR IDEA OF HOW HARD IT IS GOING TO BE TO BEAT THE GERMANS?
+                                                     answer_label answer_value raw_counts relative_frequency
+0                                                       NO ANSWER          0.0          9               0.01
+1                                        IT WILL NOT BE VERY HARD          1.0         90               0.05
+2       IT WILL BE A TOUGH JOB, BUT OUR LOSSES WON'T BE TOO HEAVY          2.0        510                0.3
+3  IT WILL BE A TOUGH JOB, WITH HEAVY LOSSES OF MEN AND EQUIPMENT          3.0       1086               0.64
+
+
+
+S115A.Q47 ABOUT HOW MUCH LONGER FROM NOW DO YOU GUESS THE WAR WILL LAST WITH JAPAN?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0         20               0.01
+1                            3 MONTHS OR LESS          1.0          2                0.0
+2                       OVER 3 UP TO 6 MONTHS          2.0         49               0.03
+3                      OVER 9 UP TO 15 MONTHS          3.0        345                0.2
+4                     OVER 15 UP TO 21 MONTHS          4.0        423               0.25
+5                     OVER 21 UP TO 27 MONTHS          5.0        438               0.26
+6                     OVER 27 UP TO 33 MONTHS          6.0         98               0.06
+7                     OVER 33 UP TO 39 MONTHS          7.0        108               0.06
+8                              OVER 39 MONTHS          8.0         61               0.04
+9   INDEFINITE ANSWER INDICATING 'SHORT TIME'          9.0          7                0.0
+10   INDEFINITE ANSWER INDICATING 'LONG TIME'         10.0         19               0.01
+11                      DON'T KNOW, UNDECIDED         11.0        125               0.07
+
+
+
+S115A.Q48 WHICH COMES CLOSEST TO YOUR IDEA OF HOW HARD IT IS GOING TO BE TO BEAT THE JAPANESE?
+                                                     answer_label answer_value raw_counts relative_frequency
+0                                                       NO ANSWER          0.0          6                0.0
+1                                        IT WILL NOT BE VERY HARD          1.0        113               0.07
+2       IT WILL BE A TOUGH JOB, BUT OUR LOSSES WON'T BE TOO HEAVY          2.0        539               0.32
+3  IT WILL BE A TOUGH JOB, WITH HEAVY LOSSES OF MEN AND EQUIPMENT          3.0       1037               0.61
+
+
+
+S115A.Q49 DO YOU THINK THERE WILL BE ANOTHER WAR IN THE NEXT 25 YEARS OR SO?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0          5                0.0
+1             YES          1.0        676                0.4
+2              NO          2.0        393               0.23
+3       UNDECIDED          3.0        602               0.36
+4  YES, QUALIFIED          4.0          8                0.0
+5   NO, QUALIFIED          5.0         11               0.01
+
+
+
+S115A.Q50 IF GERMANY OR JAPAN WERE TO COME OVER AND ATTACK THIS PART OF THE WORLD (CARIBBEAN DEFENSE COMMAND) WHAT DO YOU THINK WOULD BE THE MAIN THING THEY WOULD WANT TO DESTROY?
+                                            answer_label answer_value raw_counts relative_frequency
+0                                     NO CODE OR NO DATA          0.0          2                0.0
+1                                           PANAMA CANAL          1.0       1624               0.96
+2                                AIR FIELDS OR AIR BASES          2.0         18               0.01
+3                    BOMB PROOF, HQ. CO., QUARRY HEIGHTS          3.0          7                0.0
+4  MISCELLANEOUS - INCORRECT - E.G. VIRGIN ISLANDS, N.Y.          4.0         18               0.01
+5                                              NO ANSWER          5.0         26               0.02
+
+
+
+S115A.Q51 SINCE YOU'VE BEEN IN YOUR OUTFIT, HOW DO YOU FEEL ABOUT THE NUMBER OF TALKS THAT HAVE BEEN GIVEN ON WAR NEWS OR ABOUT WHY WE ARE FIGHTING THE WAR?
+                                      answer_label answer_value raw_counts relative_frequency
+0                                        NO ANSWER          0.0          5                0.0
+1                   THERE HAVE BEEN TOO MANY TALKS          1.0        190               0.11
+2  THERE HAVE BEEN ABOUT THE RIGHT AMOUNT OF TALKS          2.0        703               0.41
+3                    THERE HAVE BEEN TOO FEW TALKS          3.0        506                0.3
+4                     THERE HAVEN'T BEEN ANY TALKS          4.0        291               0.17
+
+
+
+S115A.Q52 WHAT DO YOU THINK YOUR CHANCES ARE OF BEING SENT INTO AN ACTIVE COMBAT ZONE BEFORE THE END OF THE WAR?
+                                     answer_label answer_value raw_counts relative_frequency
+0                                       NO ANSWER          0.0         15               0.01
+1                   I'M ALMOST CERTAIN TO BE SENT          1.0        158               0.09
+2                   I'M FAIRLY CERTAIN TO BE SENT          2.0        248               0.15
+3  THE CHANCES ARE ABOUT FIFTY-FIFTY I'LL BE SENT          3.0        943               0.56
+4               I'M FAIRLY CERTAIN NOT TO BE SENT          4.0        216               0.13
+5               I'M ALMOST CERTAIN NOT TO BE SENT          5.0        115               0.07
+
+
+
+S115A.Q53 DO YOU THINK THE EQUIPMENT OF THE AMERICAN ARMY IS BETTER OR WORSE THAN THE EQUIPMENT OF THE GERMAN ARMY?
+                                                 answer_label answer_value raw_counts relative_frequency
+0                                                   NO ANSWER          0.0          4                0.0
+1                              ALL OF OUR EQUIPMENT IS BETTER          1.0        645               0.38
+2                             MOST OF OUR EQUIPMENT IS BETTER          2.0        821               0.48
+3  OUR EQUIPMENT IS ABOUT THE SAME AS THAT OF THE GERMAN ARMY          3.0        112               0.07
+4                              MOST OF OUR EQUIPMENT IS WORSE          4.0          6                0.0
+5                                                  DON'T KNOW          6.0        107               0.06
+
+
+
+S115A.Q54 DO YOU FEEL THAT MOST MEN IN YOUR OUTFIT ARE WELL ENOUGH TRAINED, OR NOT WELL ENOUGH TRAINED, TO GO INTO AN ACTIVE COMBAT ZONE IN THE NEAR FUTURE?
+                           answer_label answer_value raw_counts relative_frequency
+0                             NO ANSWER          0.0          1                0.0
+1      MOST MEN ARE WELL ENOUGH TRAINED          1.0        530               0.31
+2  MOST MEN ARE NOT WELL ENOUGH TRAINED          2.0        972               0.57
+3                          HAVE NO IDEA          3.0        192               0.11
+
+
+
+S115A.Q55 HOW DO YOU FEEL ABOUT THE AMOUNT OF FIRING (SHOOTING) YOUR OUTFIT DOES?
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0         15               0.01
+1        WE DO TOO MUCH FIRING (SHOOTING)          1.0         31               0.02
+2    WE DON'T DO ENOUGH FIRING (SHOOTING)          2.0       1195               0.71
+3  WE FIRE (SHOOT) ABOUT THE RIGHT AMOUNT          3.0        384               0.23
+4                       DON'T FIRE AT ALL          4.0         70               0.04
+
+
+
+S115A.Q56.1 SOME OUTFITS ARE PRETTY SNAPPY AND SOME ARE NOT SO SNAPPY. NOW THINK ABOUT YOUR OWN OUTFIT ALONG THESE LINES, AND THEN CHECK THE STATEMENTS BELOW THAT COME CLOSEST TO WHAT YOU THINK ABOUT YOUR OWN OUTFIT. E. DRESS AND APPEARANCE:
+                                                    answer_label answer_value raw_counts relative_frequency
+0                                                      NO ANSWER          0.0          6                0.0
+1  WE SHOULD PAY MORE ATTENTION TO DRESS AND PERSONAL APPEARANCE          1.0        641               0.38
+2  WE SHOULD PAY LESS ATTENTION TO DRESS AND PERSONAL APPEARANCE          2.0         95               0.06
+3   WE PAY ENOUGH ATTENTION NOW TO DRESS AND PERSONAL APPEARANCE          3.0        953               0.56
+
+
+
+S115A.Q56.2S115AQ56. SOME OUTFITS ARE PRETTY SNAPPY AND SOME ARE NOT SO SNAPPY. NOW THINK ABOUT YOUR OWN OUTFIT ALONG THESE LINES, AND THEN CHECK THE STATEMENTS BELOW THAT COME CLOSEST TO WHAT YOU THINK ABOUT YOUR OWN OUTFIT. E. PARADES AND CEREMONIES:
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0         38               0.02
+1  WE SHOULD HAVE MORE PARADES AND CEREMONIES          1.0        360               0.21
+2  WE SHOULD HAVE LESS PARADES AND CEREMONIES          2.0        241               0.14
+3   WE HAVE ENOUGH PARADES AND CEREMONIES NOW          3.0       1056               0.62
+
+
+
+S115A.Q56.3S115AQ56. SOME OUTFITS ARE PRETTY SNAPPY AND SOME ARE NOT SO SNAPPY. NOW THINK ABOUT YOUR OWN OUTFIT ALONG THESE LINES, AND THEN CHECK THE STATEMENTS BELOW THAT COME CLOSEST TO WHAT YOU THINK ABOUT YOUR OWN OUTFIT. E. ORDERS:
+                                                       answer_label answer_value raw_counts relative_frequency
+0                                                         NO ANSWER          0.0          6                0.0
+1  ORDERS SHOULD BE GIVEN AND CARRIED OUT IN A MORE MILITARY MANNER          1.0        674                0.4
+2  ORDERS SHOULD BE GIVEN AND CARRIED OUT IN A LESS MILITARY MANNER          2.0         77               0.05
+3                  ORDERS ARE GIVEN AND CARRIED OUT WELL ENOUGH NOW          3.0        938               0.55
+
+
+
+S115A.Q57 HOW DO YOU FEEL ABOUT YOUR PRESENT WORKING HOURS? (INCLUDE REGULAR DUTY, TRAINING, AND SPECIAL DETAILS.)
+                             answer_label answer_value raw_counts relative_frequency
+0                               NO ANSWER          0.0          6                0.0
+1               I WORK WAY TOO MANY HOURS          1.0        198               0.12
+2              I WORK SOME TOO MANY HOURS          2.0        324               0.19
+3  I WORK ABOUT THE RIGHT NUMBER OF HOURS          3.0       1138               0.67
+4                    I WORK TOO FEW HOURS          4.0         29               0.02
+
+
+
+S115A.Q58 SINCE YOU HAVE BEEN AT YOUR PRESENT STATION, ABOUT HOW OFTEN DO YOU READ "YANK", THE ARMY WEEKLY MAGAZINE?
+                                                    answer_label answer_value raw_counts relative_frequency
+0                                                      NO ANSWER          0.0          4                0.0
+1                                                     EVERY WEEK          1.0        779               0.46
+2                                          ONCE OR TWICE A MONTH          2.0        651               0.38
+3                                         LESS THAN ONCE A MONTH          3.0        188               0.11
+4  I HAVEN'T READ "YANK" SINCE I HAVE BEEN AT MY PRESENT STATION          4.0         73               0.04
+
+
+
+FORM..1FORM:
+  answer_label answer_value raw_counts relative_frequency
+0       S-115A          1.0       1695                1.0
+
+
+
+S115A.Q59 SINCE YOU HAVE BEEN AT YOUR PRESENT STATION, WHERE DO YOU USUALLY GET A COPY OF "YANK"?
+                                                    answer_label answer_value raw_counts relative_frequency
+0                                                      NO ANSWER          0.0          5                0.0
+1                                      I SUBSCRIBE TO IT BY MAIL          1.0         17               0.01
+2                                           I BUY IT AT THE P.X.          2.0        937               0.55
+3         I READ A FRIEND'S COPY OR A COPY FOUND IN THE DAY ROOM          3.0        555               0.33
+4                                      I GET IT SOME OTHER PLACE          4.0        108               0.06
+5  I HAVEN'T READ "YANK" SINCE I HAVE BEEN AT MY PRESENT STATION          5.0         73               0.04
+
+
+
+S115A.Q63 ARE YOU SATISFIED OR NOT WITH THE WAY THE G.I. LAUNDRY DOES YOUR CLOTHES?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0          3                0.0
+1                       I AM SATISFIED          1.0        352               0.21
+2                   I AM NOT SATISFIED          2.0        970               0.57
+3  I DO NOT MAKE USE OF A G.I. LAUNDRY          3.0        370               0.22
+
+
+
+S115A.Q64A WOULD YOU BE WILLING TO PAY AN EXTRA DOLLAR A MONTH FOR BETTER G.I. LAUNDRY SERVICE?
+                                        answer_label answer_value raw_counts relative_frequency
+0                                          NO ANSWER          0.0         11               0.01
+1  NO, I WOULD NOT BE WILLING TO PAY AN EXTRA DOLLAR          2.0        251               0.15
+2     YES, I WOULD BE WILLING TO PAY AN EXTRA DOLLAR          1.0       1109               0.65
+3                I DO NOT MAKE USE OF A G.I. LAUNDRY          3.0        324               0.19
+
+
+
+S115A.Q65 THE ARMY MAKES IT POSSIBLE FOR SOLDIERS TO STUDY EDUCATIONAL SUBJECTS IN THEIR OFF-DUTY TIME. (THE UNITED STATES ARMED FORCES INSTITUTE IS IN CHARGE OF THIS PLAN). SOME SOLDIERS HAVE BEEN TOLD ABOUT THIS, OTHERS HAVE NOT. SINCE YOU HAVE BEEN IN THE ARMY,
+                            answer_label answer_value raw_counts relative_frequency
+0                              NO ANSWER          0.0          8                0.0
+1       YES, I HAVE BEEN TOLD ABOUT THEM          1.0       1023                0.6
+2  NO, I NEVER HAVE BEEN TOLD ABOUT THEM          2.0        473               0.28
+3  I'M NOT SURE IF I'VE BEEN TOLD OR NOT          3.0        191               0.11
+
+
+
+S115A.Q66 DRAW A LINE ON THE MAP AS CLOSE AS YOU CAN, TO SHOW WHERE THE PANAMA CANAL IS LOCATED.
+              answer_label answer_value raw_counts relative_frequency
+0                NO ANSWER          0.0        144               0.08
+1    VERY CLOSE TO CORRECT          1.0       1212               0.72
+2  FAIRLY CLOSE TO CORRECT          2.0        229               0.14
+3  SOME IDEA BUT NOT CLOSE          3.0         15               0.01
+4           NO IDEA AT ALL          4.0         95               0.06
+
+
+
+S115A.Q67 NOW PUT A VERY SMALL X TO SHOW AS CLOSE AS YOU CAN WHERE YOU ARE NOW STATIONED.
+              answer_label answer_value raw_counts relative_frequency
+0                NO ANSWER          0.0        149               0.09
+1    VERY CLOSE TO CORRECT          1.0        796               0.47
+2  FAIRLY CLOSE TO CORRECT          2.0        492               0.29
+3  SOME IDEA BUT NOT CLOSE          3.0        153               0.09
+4           NO IDEA AT ALL          4.0        105               0.06
+
+
+
+S115A.Q68 WHAT IS THE NAME OF THE COUNTRY (SHADED IN BLACK), THAT THE SMALL ARROW POINTS TO?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         62               0.04
+1  PUERTO RICO          1.0        113               0.07
+2      ECUADOR          2.0         93               0.05
+3     COLOMBIA          3.0        120               0.07
+4    GUATEMALA          4.0       1278               0.75
+5    VENEZUELA          5.0         29               0.02
+
+
+
+S115A.Q69 WHAT IS THE NAME OF THE ISLAND THAT THE LONG ARROW POINTS TO?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         53               0.03
+1     TRINIDAD          1.0         44               0.03
+2  PUERTO RICO          2.0         38               0.02
+3  WEST INDIES          3.0         20               0.01
+4       TABOGA          4.0         88               0.05
+5    GALAPAGOS          5.0       1452               0.86
+
+
+
+S115A.Q70.1 WHICH OF THE FOLLOWING COUNTRIES HAS NOT BROKEN OFF RELATIONS WITH GERMANY AND JAPAN?
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0  INDICATES THAT ALL HAVE BROKEN RELATIONS OR THAT ARGENTINA HAS NOW BROKEN RELATIONS (ARGENTINA BROKE RELATIONS IN MIDDLE          1.0        256               0.15
+1                                                                                                                NOT CHOSEN          2.0       1439               0.85
+
+
+
+S115A.Q70.2WHICH OF THE FOLLOWING COUNTRIES HAS NOT BROKEN OFF RELATIONS WITH GERMANY AND JAPAN?
+  answer_label answer_value raw_counts relative_frequency
+0         PERU          1.0         80               0.05
+1   NOT CHOSEN          2.0       1615               0.95
+
+
+
+S115A.Q70.3WHICH OF THE FOLLOWING COUNTRIES HAS NOT BROKEN OFF RELATIONS WITH GERMANY AND JAPAN?
+  answer_label answer_value raw_counts relative_frequency
+0       BRAZIL          1.0        104               0.06
+1   NOT CHOSEN          2.0       1591               0.94
+
+
+
+S115A.Q70.4WHICH OF THE FOLLOWING COUNTRIES HAS NOT BROKEN OFF RELATIONS WITH GERMANY AND JAPAN?
+  answer_label answer_value raw_counts relative_frequency
+0    ARGENTINA          1.0       1107               0.65
+1   NOT CHOSEN          2.0        588               0.35
+
+
+
+S115A.Q70.5WHICH OF THE FOLLOWING COUNTRIES HAS NOT BROKEN OFF RELATIONS WITH GERMANY AND JAPAN?
+  answer_label answer_value raw_counts relative_frequency
+0       MEXICO          1.0         24               0.01
+1   NOT CHOSEN          2.0       1671               0.99
+
+
+
+S115A.Q70.6WHICH OF THE FOLLOWING COUNTRIES HAS NOT BROKEN OFF RELATIONS WITH GERMANY AND JAPAN?
+  answer_label answer_value raw_counts relative_frequency
+0     COLOMBIA          1.0         42               0.02
+1   NOT CHOSEN          2.0       1653               0.98
+
+
+
+S115A.Q70.7WHICH OF THE FOLLOWING COUNTRIES HAS NOT BROKEN OFF RELATIONS WITH GERMANY AND JAPAN?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0        115               0.07
+1   NOT CHOSEN          2.0       1580               0.93
+
+
+
+S115A.Q71 UP TO NOW, HAS THE WAR MADE THINGS BETTER OR WORSE FOR YOUR FAMILY AND FRIENDS BACK HOME (SUCH THINGS AS JOBS, PAY, AND LIVING CONDITIONS)?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0          5                0.0
+1                   THINGS ARE A LOT BETTER          1.0        155               0.09
+2  THINGS ARE A LITTLE BETTER, BUT NOT MUCH          2.0        271               0.16
+3                I DON'T SEE ANY DIFFERENCE          3.0        269               0.16
+4                 THINGS ARE A LITTLE WORSE          4.0        439               0.26
+5                    THINGS ARE A LOT WORSE          5.0        314               0.19
+6                                DON'T KNOW          6.0        242               0.14
+
+
+
+S115A.Q72A "AFTER THE WAR, SOLDIERS WHO WANT IT SHOULD BE GIVEN ONE YEAR IN SCHOOL AT THE EXPENSE OF THE GOVERNMENT."
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1               AGREE          1.0       1468               0.87
+2            DISAGREE          2.0        207               0.12
+3           NO ANSWER          3.0         18               0.01
+
+
+
+S115A.Q72B "AFTER THE WAR, THE NATIONS OF THE WORLD SHOULD SET UP A STRONG ORGANIZATION WITH AN INTERNATIONAL ARMY TO POLICE THE WORLD."
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         17               0.01
+1        AGREE          1.0       1238               0.73
+2     DISAGREE          2.0        440               0.26
+
+
+
+S115A.Q72C "AFTER THE WAR, THE UNITED STATES SHOULD STAY OUT OF WORLD AFFAIRS AND STICK TO THE PROBLEMS WE HAVE IN OUR OWN COUNTRY."
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          3                0.0
+1               AGREE          1.0        515                0.3
+2            DISAGREE          2.0       1152               0.68
+3           NO ANSWER          3.0         25               0.01
+
+
+
+S115A.Q72D "AFTER THE WAR, THE ALLIES SHOULD SEE TO IT THAT GERMANY IS DIVIDED UP SO THAT IT IS NO LONGER A NATION."
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1               AGREE          1.0       1178               0.69
+2            DISAGREE          2.0        497               0.29
+3           NO ANSWER          3.0         19               0.01
+
+
+
+S115A.Q72E "WE SHOULD SEE TO IT THAT THE GERMAN PEOPLE SUFFER PLENTY FOR ALL THE TROUBLE THEY ARE CAUSING US."
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1               AGREE          1.0        647               0.38
+2            DISAGREE          2.0       1010                0.6
+3           NO ANSWER          3.0         36               0.02
+
+
+
+S115A.Q72F "WE SHOULD SEE TO IT THAT THE JAPANESE PEOPLE SUFFER PLENTY FOR ALL THE TROUBLE THEY ARE CAUSING US."
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1               AGREE          1.0       1128               0.67
+2            DISAGREE          2.0        538               0.32
+3           NO ANSWER          3.0         28               0.02
+
+
+
+S115A.Q73 AFTER THE WAR, DO YOU THINK THE UNITED STATES SHOULD DRAFT ALL YOUNG MEN FOR A CERTAIN AMOUNT OF ARMY TRAINING, OR SHOULD WE GO BACK TO THE REGULAR ARMY SYSTEM OF TAKING VOLUNTEERS ONLY?
+                                                answer_label answer_value raw_counts relative_frequency
+0                                                  NO ANSWER          0.0          4                0.0
+1  DRAFT ALL YOUNG MEN FOR A CERTAIN AMOUNT OF ARMY TRAINING          1.0       1118               0.66
+2                          GO BACK TO TAKING VOLUNTEERS ONLY          2.0        418               0.25
+3                                                  UNDECIDED          3.0        155               0.09
+
+
+
+S115A.Q74 AFTER THE WAR, IF ALL YOUNG MEN IN THE UNITED STATES WERE TO BE GIVEN MILITARY TRAINING, FOR ABOUT HOW LONG A TIME DO YOU THINK EACH MAN SHOULD GET TRAINING?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0          9               0.01
+1     ABOUT 6 MONTHS          1.0        410               0.24
+2       ABOUT 1 YEAR          2.0       1103               0.65
+3  ABOUT 1 1/2 YEARS          3.0        116               0.07
+4      ABOUT 2 YEARS          4.0         49               0.03
+5  MORE THAN 2 YEARS          5.0          8                0.0
+
+
+
+S115A.Q75 AFTER THE WAR, IF THE GOVERNMENT WAS TO DECIDE TO GIVE ALL YOUNG MEN ONE YEAR OF MILITARY TRAINING, WHICH ONE OF THESE PLANS WOULD COME CLOSEST TO YOUR OWN OPINION OF WHAT SHOULD BE DONE?
+                                                                                                               answer_label answer_value raw_counts relative_frequency
+0                                                                                                        NO CODE OR NO DATA          0.0          2                0.0
+1                                      THE YEAR SHOULD BE PICKED BY THE MAN HIMSELF AT ANY TIME BETWEEN 17 AND 24 YEARS OLD          1.0        293               0.17
+2  THE YEAR SHOULD BE SERVED AFTER HIGH SCHOOL, OR IF THE MAN DOES NOT GO TO OR FINISH HIGH SCHOOL, TO BE SERVED WHEN HE IS          2.0        964               0.57
+3                                        THE YEAR SHOULD BE SERVED WHEN THE MAN IS 21 YEARS OLD, OR AFTER FINISHING COLLEGE          3.0        341                0.2
+4                                                                                                                     OTHER          4.0         80               0.05
+5                                                                                               NO TRAINING SHOULD BE GIVEN          5.0          4                0.0
+6                                                                                                                 NO ANSWER          6.0         11               0.01
+
+
+
+S115A.Q76 DO YOU THINK THAT THINGS WILL BE BETTER OR WORSE FOR YOU PERSONALLY AFTER THE WAR THAN THEY WERE BEFORE THE WAR?
+                                      answer_label answer_value raw_counts relative_frequency
+0                                        NO ANSWER          0.0          3                0.0
+1  BETTER FOR ME AFTER THE WAR THAN BEFORE THE WAR          1.0        307               0.18
+2      SAME FOR ME AFTER THE WAR AS BEFORE THE WAR          2.0        320               0.19
+3   WORSE FOR ME AFTER THE WAR THAN BEFORE THE WAR          3.0        493               0.29
+4                                        UNDECIDED          4.0        572               0.34
+
+
+
+S115A.Q77.1 WE WANT TO FIND OUT HOW MEN SPEND THE HOURS THEY HAVE TO THEMSELVES. THINK OF HOW YOU SPENT YOUR OFF-DUTY TIME YESTERDAY. THEN LOOK OVER THE LIST OF ITEMS BELOW AND CHECK EITHER "YES" OR "NO" FOR EACH ITEM, TO SHOW WHETHER YOU ACTUALLY DID A THING OR NOT
+                answer_label answer_value raw_counts relative_frequency
+0  WROTE A LETTER OR LETTERS          1.0        930               0.55
+1                 NOT CHOSEN          2.0        765               0.45
+
+
+
+S115A.Q77.2 WE WANT TO FIND OUT HOW MEN SPEND THE HOURS THEY HAVE TO THEMSELVES. THINK OF HOW YOU SPENT YOUR OFF-DUTY TIME YESTERDAY. THEN LOOK OVER THE LIST OF ITEMS BELOW AND CHECK EITHER "YES" OR "NO" FOR EACH ITEM, TO SHOW WHETHER YOU ACTUALLY DID A THING OR NOT
+                                     answer_label answer_value raw_counts relative_frequency
+0  READ OR LOOKED THROUGH A MAGAZINE OR MAGAZINES          1.0       1048               0.62
+1                                      NOT CHOSEN          2.0        647               0.38
+
+
+
+S115A.Q77.3 WE WANT TO FIND OUT HOW MEN SPEND THE HOURS THEY HAVE TO THEMSELVES. THINK OF HOW YOU SPENT YOUR OFF-DUTY TIME YESTERDAY. THEN LOOK OVER THE LIST OF ITEMS BELOW AND CHECK EITHER "YES" OR "NO" FOR EACH ITEM, TO SHOW WHETHER YOU ACTUALLY DID A THING OR NOT
+                    answer_label answer_value raw_counts relative_frequency
+0  WENT INTO THE TOWN OR VILLAGE          1.0        339                0.2
+1                     NOT CHOSEN          2.0       1356                0.8
+
+
+
+S115A.Q77.4 WE WANT TO FIND OUT HOW MEN SPEND THE HOURS THEY HAVE TO THEMSELVES. THINK OF HOW YOU SPENT YOUR OFF-DUTY TIME YESTERDAY. THEN LOOK OVER THE LIST OF ITEMS BELOW AND CHECK EITHER "YES" OR "NO" FOR EACH ITEM, TO SHOW WHETHER YOU ACTUALLY DID A THING OR NOT
+  answer_label answer_value raw_counts relative_frequency
+0  SAW A MOVIE          1.0        852                0.5
+1   NOT CHOSEN          2.0        843                0.5
+
+
+
+S115A.Q77.5 WE WANT TO FIND OUT HOW MEN SPEND THE HOURS THEY HAVE TO THEMSELVES. THINK OF HOW YOU SPENT YOUR OFF-DUTY TIME YESTERDAY. THEN LOOK OVER THE LIST OF ITEMS BELOW AND CHECK EITHER "YES" OR "NO" FOR EACH ITEM, TO SHOW WHETHER YOU ACTUALLY DID A THING OR NOT
+                          answer_label answer_value raw_counts relative_frequency
+0  PLAYED CARDS, DICE OR SIMILAR GAMES          1.0        324               0.19
+1                           NOT CHOSEN          2.0       1371               0.81
+
+
+
+S115A.Q77.6 WE WANT TO FIND OUT HOW MEN SPEND THE HOURS THEY HAVE TO THEMSELVES. THINK OF HOW YOU SPENT YOUR OFF-DUTY TIME YESTERDAY. THEN LOOK OVER THE LIST OF ITEMS BELOW AND CHECK EITHER "YES" OR "NO" FOR EACH ITEM, TO SHOW WHETHER YOU ACTUALLY DID A THING OR NOT
+            answer_label answer_value raw_counts relative_frequency
+0  LISTENED TO THE RADIO          1.0        912               0.54
+1             NOT CHOSEN          2.0        783               0.46
+
+
+
+S115A.Q77.7 WE WANT TO FIND OUT HOW MEN SPEND THE HOURS THEY HAVE TO THEMSELVES. THINK OF HOW YOU SPENT YOUR OFF-DUTY TIME YESTERDAY. THEN LOOK OVER THE LIST OF ITEMS BELOW AND CHECK EITHER "YES" OR "NO" FOR EACH ITEM, TO SHOW WHETHER YOU ACTUALLY DID A THING OR NOT
+  answer_label answer_value raw_counts relative_frequency
+0  READ A BOOK          1.0        537               0.32
+1   NOT CHOSEN          2.0       1158               0.68
+
+
+
+S115A.Q77.8 WE WANT TO FIND OUT HOW MEN SPEND THE HOURS THEY HAVE TO THEMSELVES. THINK OF HOW YOU SPENT YOUR OFF-DUTY TIME YESTERDAY. THEN LOOK OVER THE LIST OF ITEMS BELOW AND CHECK EITHER "YES" OR "NO" FOR EACH ITEM, TO SHOW WHETHER YOU ACTUALLY DID A THING OR NOT
+               answer_label answer_value raw_counts relative_frequency
+0  WENT SWIMMING OR FISHING          1.0        110               0.06
+1                NOT CHOSEN          2.0       1585               0.94
+
+
+
+S115A.Q77.9 WE WANT TO FIND OUT HOW MEN SPEND THE HOURS THEY HAVE TO THEMSELVES. THINK OF HOW YOU SPENT YOUR OFF-DUTY TIME YESTERDAY. THEN LOOK OVER THE LIST OF ITEMS BELOW AND CHECK EITHER "YES" OR "NO" FOR EACH ITEM, TO SHOW WHETHER YOU ACTUALLY DID A THING OR NOT
+                answer_label answer_value raw_counts relative_frequency
+0  DRANK BEER OR LIQUOR 1185          1.0        510                0.3
+1                 NOT CHOSEN          2.0       1185                0.7
+
+
+
+S115A.Q77.10 WE WANT TO FIND OUT HOW MEN SPEND THE HOURS THEY HAVE TO THEMSELVES. THINK OF HOW YOU SPENT YOUR OFF-DUTY TIME YESTERDAY. THEN LOOK OVER THE LIST OF ITEMS BELOW AND CHECK EITHER "YES" OR "NO" FOR EACH ITEM, TO SHOW WHETHER YOU ACTUALLY DID A THING OR NOT
+               answer_label answer_value raw_counts relative_frequency
+0  PLAYED POOL OR PING-PONG          1.0        364               0.21
+1                NOT CHOSEN          2.0       1331               0.79
+
+
+
+S115A.Q77.11 WE WANT TO FIND OUT HOW MEN SPEND THE HOURS THEY HAVE TO THEMSELVES. THINK OF HOW YOU SPENT YOUR OFF-DUTY TIME YESTERDAY. THEN LOOK OVER THE LIST OF ITEMS BELOW AND CHECK EITHER "YES" OR "NO" FOR EACH ITEM, TO SHOW WHETHER YOU ACTUALLY DID A THING OR NOT
+               answer_label answer_value raw_counts relative_frequency
+0  TOOK PART IN OTHER SPORT          1.0        376               0.22
+1                NOT CHOSEN          2.0       1319               0.78
+
+
+
+S115A.Q77.12 WE WANT TO FIND OUT HOW MEN SPEND THE HOURS THEY HAVE TO THEMSELVES. THINK OF HOW YOU SPENT YOUR OFF-DUTY TIME YESTERDAY. THEN LOOK OVER THE LIST OF ITEMS BELOW AND CHECK EITHER "YES" OR "NO" FOR EACH ITEM, TO SHOW WHETHER YOU ACTUALLY DID A THING OR NOT
+             answer_label answer_value raw_counts relative_frequency
+0  SPENT TIME WITH A GIRL          1.0        154               0.09
+1              NOT CHOSEN          2.0       1541               0.91
+
+
+
+S115A.Q77.13 WE WANT TO FIND OUT HOW MEN SPEND THE HOURS THEY HAVE TO THEMSELVES. THINK OF HOW YOU SPENT YOUR OFF-DUTY TIME YESTERDAY. THEN LOOK OVER THE LIST OF ITEMS BELOW AND CHECK EITHER "YES" OR "NO" FOR EACH ITEM, TO SHOW WHETHER YOU ACTUALLY DID A THING OR NOT
+                 answer_label answer_value raw_counts relative_frequency
+0  TOOK PART IN GROUP SINGING          1.0         66               0.04
+1                  NOT CHOSEN          2.0       1629               0.96
+
+
+
+S115A.Q77.14 WE WANT TO FIND OUT HOW MEN SPEND THE HOURS THEY HAVE TO THEMSELVES. THINK OF HOW YOU SPENT YOUR OFF-DUTY TIME YESTERDAY. THEN LOOK OVER THE LIST OF ITEMS BELOW AND CHECK EITHER "YES" OR "NO" FOR EACH ITEM, TO SHOW WHETHER YOU ACTUALLY DID A THING OR NOT
+         answer_label answer_value raw_counts relative_frequency
+0  CAUGHT UP ON SLEEP          1.0        634               0.37
+1          NOT CHOSEN          2.0       1061               0.63
+
+
+
+S115A.Q77.15 WE WANT TO FIND OUT HOW MEN SPEND THE HOURS THEY HAVE TO THEMSELVES. THINK OF HOW YOU SPENT YOUR OFF-DUTY TIME YESTERDAY. THEN LOOK OVER THE LIST OF ITEMS BELOW AND CHECK EITHER "YES" OR "NO" FOR EACH ITEM, TO SHOW WHETHER YOU ACTUALLY DID A THING OR NOT
+       answer_label answer_value raw_counts relative_frequency
+0  NO OFF-DUTY TIME          1.0         35               0.02
+1        NOT CHOSEN          2.0       1660               0.98
+
+
+
+S115A.Q77.16 WE WANT TO FIND OUT HOW MEN SPEND THE HOURS THEY HAVE TO THEMSELVES. THINK OF HOW YOU SPENT YOUR OFF-DUTY TIME YESTERDAY. THEN LOOK OVER THE LIST OF ITEMS BELOW AND CHECK EITHER "YES" OR "NO" FOR EACH ITEM, TO SHOW WHETHER YOU ACTUALLY DID A THING OR NOT
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0          3                0.0
+1   NOT CHOSEN          2.0       1692                1.0
+
+
+
+S115A.Q78 ON THE AVERAGE, HOW MANY LETTERS DO YOU WRITE EACH WEEK?
+                           answer_label answer_value raw_counts relative_frequency
+0                             NO ANSWER          0.0          2                0.0
+1   LESS THAN ONE A WEEK ON THE AVERAGE          1.0        213               0.13
+2                        ABOUT 1 A WEEK          2.0        184               0.11
+3                        ABOUT 2 A WEEK          3.0        244               0.14
+4                        ABOUT 3 A WEEK          4.0        247               0.15
+5                        ABOUT 4 A WEEK          5.0        242               0.14
+6                        ABOUT 5 A WEEK          6.0        136               0.08
+7                        ABOUT 6 A WEEK          7.0        117               0.07
+8                        ABOUT 7 A WEEK          8.0         84               0.05
+9                        ABOUT 8 A WEEK          9.0         80               0.05
+10                     9 OR MORE A WEEK         10.0        146               0.09
+
+
+
+S115A.Q79 HOW MANY DAYS DOES IT USUALLY TAKE THE LETTERS YOU RECEIVE FROM HOME TO REACH YOU?
+       answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER          0.0          4                0.0
+1    2 DAYS OR LESS          1.0          2                0.0
+2            3 DAYS          2.0         45               0.03
+3            4 DAYS          3.0        237               0.14
+4            5 DAYS          4.0        430               0.25
+5            6 DAYS          5.0        357               0.21
+6            7 DAYS          6.0        274               0.16
+7            8 DAYS          7.0        166                0.1
+8            9 DAYS          8.0         60               0.04
+9           10 DAYS          9.0         62               0.04
+10  11 DAYS OR MORE         10.0         58               0.03
+
+
+
+S115A.Q80 CONSIDERING EVERYTHING, DO YOU THINK THIS IS A REASON- ABLE NUMBER OF DAYS FOR YOUR MAIL TO GET HERE, OR NOT?
+                             answer_label answer_value raw_counts relative_frequency
+0                      NO CODE OR NO DATA          0.0          1                0.0
+1  YES, IT IS A REASONABLE NUMBER OF DAYS          1.0       1287               0.76
+2      NO, IT TAKES LONGER THAN IT SHOULD          2.0        400               0.24
+3                               NO ANSWER          3.0          7                0.0
+
+
+
+S115A.Q81 HAVE YOU SEEN ANY USO TRAVELING CAMP SHOWS SINCE YOU LEFT THE UNITED STATES?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0          4                0.0
+1                                    1 SHOW          1.0        232               0.14
+2                                   2 SHOWS          2.0        303               0.18
+3                                   3 SHOWS          3.0        314               0.19
+4                                   4 SHOWS          4.0        239               0.14
+5                                   5 SHOWS          5.0        122               0.07
+6                                   6 SHOWS          6.0         99               0.06
+7                                   7 SHOWS          7.0         15               0.01
+8                                   8 SHOWS          8.0         15               0.01
+9                           9 SHOWS OR MORE          9.0         25               0.01
+10  CHECKED YES, BUT DID NOT STATE HOW MANY         10.0         27               0.02
+11              HAVE NOT SEEN ANY USO SHOWS         11.0        292               0.17
+12                               DON'T KNOW         12.0          8                0.0
+
+
+
+S115A.Q82A DO YOU LIKE TO SING? THIS DOESN'T HAVE ANYTHING TO DO WITH HOW WELL YOU CAN SING - JUST TELL WHETHER YOU ENJOY SINGING OR NOT.
+               answer_label answer_value raw_counts relative_frequency
+0        NO CODE OR NO DATA          0.0          1                0.0
+1       YES, I LIKE TO SING          1.0       1371               0.81
+2  NO, I DON'T LIKE TO SING          2.0        319               0.19
+3                 NO ANSWER          3.0          4                0.0
+
+
+
+S115A.Q82B DO YOU THINK THE ARMY SHOULD OFFER MORE CHANCES FOR THE MEN TO DO GROUP SINGING?
+                        answer_label answer_value raw_counts relative_frequency
+0                 NO CODE OR NO DATA          0.0          1                0.0
+1     YES, SHOULD OFFER MORE CHANCES          1.0        710               0.42
+2  NO, SHOULD NOT OFFER MORE CHANCES          2.0         95               0.06
+3             IT DOESN'T MATTER MUCH          3.0        883               0.52
+4                          NO ANSWER          4.0          6                0.0
+
+
+
+S115A.Q83A HOW DO YOU FEEL ABOUT THE PRESENT ARMY POLICY OF REPLACING SOLDIERS IN THIS AREA WITH PUERTO RICAN TROOPS?
+                    answer_label answer_value raw_counts relative_frequency
+0             NO CODE OR NO DATA          0.0          1                0.0
+1      I THINK IT IS A GOOD IDEA          1.0       1292               0.76
+2  I THINK IT IS NOT A GOOD IDEA          2.0        376               0.22
+3                      UNDECIDED          3.0          8                0.0
+4                      NO ANSWER          4.0         18               0.01
+
+
+
+S115A.Q83B.1 WHAT IS THE REASON FOR YOUR ANSWER?
+                                                                 answer_label answer_value raw_counts relative_frequency
+0  THEY HELP CONTINENTALS TO GET HOME, FURLOUGH, REPLACEMENT FOR REASSIGNMENT          1.0        290               0.17
+1                                                                  NOT CHOSEN          2.0       1405               0.83
+
+
+
+S115A.Q83B.2WHAT IS THE REASON FOR YOUR ANSWER?
+                                               answer_label answer_value raw_counts relative_frequency
+0  THEY KNOW THE LANGUAGE, GET ALONG WITH THE NATIVES, ETC.          1.0        353               0.21
+1                                                NOT CHOSEN          2.0       1342               0.79
+
+
+
+S115A.Q83B.3WHAT IS THE REASON FOR YOUR ANSWER?
+                                                   answer_label answer_value raw_counts relative_frequency
+0  THEY ARE ACCLIMATED - USED TO JUNGLE, ENVIRONMENT SUITS THEM          1.0        655               0.39
+1                                                    NOT CHOSEN          2.0       1040               0.61
+
+
+
+S115A.Q83B.4WHAT IS THE REASON FOR YOUR ANSWER?
+                                                                                                              answer_label answer_value raw_counts relative_frequency
+0  THEY HELP CONTINENTALS TO GET INTO COMBAT, TO SERVE ELSEWHERE, HELP CONTINENTALS TO GO ELSEWHERE WHERE THEY CAN DO GOOD          1.0        180               0.11
+1                                                                                                               NOT CHOSEN          2.0       1515               0.89
+
+
+
+S115A.Q83B.5WHAT IS THE REASON FOR YOUR ANSWER?
+                                   answer_label answer_value raw_counts relative_frequency
+0  THEY CAN DO THE JOB - THEY ARE GOOD SOLDIERS          1.0         76               0.04
+1                                    NOT CHOSEN          2.0       1619               0.96
+
+
+
+S115A.Q83B.6WHAT IS THE REASON FOR YOUR ANSWER?
+                                                                           answer_label answer_value raw_counts relative_frequency
+0  O.K., PROVIDED THEY AREN'T GIVEN KEY POSITION, OR PLACED IN CERTAIN TECHNICAL FIELDS          1.0         33               0.02
+1                                                                            NOT CHOSEN          2.0       1662               0.98
+
+
+
+S115A.Q83B.7WHAT IS THE REASON FOR YOUR ANSWER?
+                                                                                           answer_label answer_value raw_counts relative_frequency
+0  O.K., PROVIDED THEY AREN'T MIXED WITH CONTINENTALS, THEY SHOULD TAKE OVER COMPLETELY (BUT NOT MIXED)          1.0         48               0.03
+1                                                                                            NOT CHOSEN          2.0       1647               0.97
+
+
+
+S115A.Q83B.8WHAT IS THE REASON FOR YOUR ANSWER?
+                                                   answer_label answer_value raw_counts relative_frequency
+0  THERE IS NO LONGER DANGER TO THE CANAL - THEY CAN DO THE JOB          1.0         51               0.03
+1                                                    NOT CHOSEN          2.0       1644               0.97
+
+
+
+S115A.Q83B.9WHAT IS THE REASON FOR YOUR ANSWER?
+                       answer_label answer_value raw_counts relative_frequency
+0  IT IS THEIR DUTY AS WELL AS OURS          1.0          6                0.0
+1                        NOT CHOSEN          2.0       1689                1.0
+
+
+
+S115A.Q83B.10WHAT IS THE REASON FOR YOUR ANSWER?
+                                                     answer_label answer_value raw_counts relative_frequency
+0  CHANCE FOR CONTINENTALS AND PUERTO RICANS TO BECOME ACQUAINTED          1.0          6                0.0
+1                                                      NOT CHOSEN          2.0       1689                1.0
+
+
+
+S115A.Q83B.11WHAT IS THE REASON FOR YOUR ANSWER?
+                       answer_label answer_value raw_counts relative_frequency
+0  MISCELLANEOUS FAVORABLE COMMENTS          1.0          8                0.0
+1                        NOT CHOSEN          2.0       1687                1.0
+
+
+
+S115A.Q83B.12WHAT IS THE REASON FOR YOUR ANSWER?
+                           answer_label answer_value raw_counts relative_frequency
+0  CHECKED FAVORABLE BUT GAVE NO REASON          1.0         84               0.05
+1                            NOT CHOSEN          2.0       1611               0.95
+
+
+
+S115A.Q83B.13WHAT IS THE REASON FOR YOUR ANSWER?
+                                                 answer_label answer_value raw_counts relative_frequency
+0  NOT FIT FOR JOB - TRAINING, DISCIPLINE - NOT GOOD SOLDIERS          1.0         66               0.04
+1                                                  NOT CHOSEN          2.0       1629               0.96
+
+
+
+S115A.Q83B.14WHAT IS THE REASON FOR YOUR ANSWER?
+                                          answer_label answer_value raw_counts relative_frequency
+0  DON'T GET ON WITH CONTINENTALS - SHOULDN'T BE MIXED          1.0        147               0.09
+1                                           NOT CHOSEN          2.0       1548               0.91
+
+
+
+S115A.Q83B.15WHAT IS THE REASON FOR YOUR ANSWER?
+                  answer_label answer_value raw_counts relative_frequency
+0  WE CAN HANDLE JOB OURSELVES          1.0         20               0.01
+1                   NOT CHOSEN          2.0       1675               0.99
+
+
+
+S115A.Q83B.16WHAT IS THE REASON FOR YOUR ANSWER?
+                                                                                                answer_label answer_value raw_counts relative_frequency
+0  HAVE NO FAITH IN THEM, CAN'T BE TRUSTED - NO INTEREST IN CANAL - MIX WITH AND CONFIDE IN NATIVES TOO MUCH          1.0         79               0.05
+1                                                                                                 NOT CHOSEN          2.0       1616               0.95
+
+
+
+S115A.Q83B.17WHAT IS THE REASON FOR YOUR ANSWER?
+                                     answer_label answer_value raw_counts relative_frequency
+0  THEY SHOULD BE USED FOR COMBAT WHEREVER NEEDED          1.0         12               0.01
+1                                      NOT CHOSEN          2.0       1683               0.99
+
+
+
+S115A.Q83B.18WHAT IS THE REASON FOR YOUR ANSWER?
+                                      answer_label answer_value raw_counts relative_frequency
+0  DON'T GET ALONG WITH NATIVES OR LOCAL CIVILIANS          1.0         15               0.01
+1                                       NOT CHOSEN          2.0       1680               0.99
+
+
+
+FORM..2FORM:
+  answer_label answer_value raw_counts relative_frequency
+0       S-115A          1.0       1695                1.0
+
+
+
+S115A.Q83B.19WHAT IS THE REASON FOR YOUR ANSWER?
+                         answer_label answer_value raw_counts relative_frequency
+0  MISCELLANEOUS UNFAVORABLE COMMENTS          1.0         14               0.01
+1                          NOT CHOSEN          2.0       1681               0.99
+
+
+
+S115A.Q83B.20 WHAT IS THE REASON FOR YOUR ANSWER?
+                             answer_label answer_value raw_counts relative_frequency
+0  CHECKED UNFAVORABLE BUT GAVE NO REASON          1.0         39               0.02
+1                              NOT CHOSEN          2.0       1656               0.98
+
+
+
+S115A.Q83B.21WHAT IS THE REASON FOR YOUR ANSWER?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0         23               0.01
+1   NOT CHOSEN          2.0       1672               0.99
+
+
+
+S115A.Q84 HOW MANY SOLDIERS FROM THE STATES NOW IN THIS AREA, DO YOU THINK THE WAR DEPARTMENT EXPECTS TO FINALLY REPLACE WITH PUERTO RICANS?
+                                            answer_label answer_value raw_counts relative_frequency
+0                                              NO ANSWER          0.0         32               0.02
+1          ALL SOLDIERS FROM THE STATES WILL BE REPLACED          1.0         92               0.05
+2         MOST SOLDIERS FROM THE STATES WILL BE REPLACED          2.0        724               0.43
+3  HALF OF THE SOLDIERS FROM THE STATES WILL BE REPLACED          3.0        500               0.29
+4          FEW SOLDIERS FROM THE STATES WILL BE REPLACED          4.0        317               0.19
+5                                             DON'T KNOW          5.0         30               0.02
+
+
+
+S115A.V86 SCHEDULE:
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          2                0.0
+1          A SCHEDULE          1.0       1693                1.0
+
+
+
+S115A.V87 POST:
+                        answer_label answer_value raw_counts relative_frequency
+0       NEW MEN AT DAVIS (FROM PINA)          1.0         12               0.01
+1                           RANDOLPH          2.0         33               0.02
+2                           RANDOLPH          3.0         64               0.04
+3                       FRANCE FIELD          4.0         54               0.03
+4                             GULICK          5.0         58               0.03
+5                              DAVIS          6.0         25               0.01
+6                         DE LESSEPS          7.0         15               0.01
+7                            SHERMAN          8.0        128               0.08
+8   NEW MEN AT DAVIS (NOT FROM PINA)          9.0         19               0.01
+9                       HOWARD-KOBBE         10.0        146               0.09
+10                           ALBROOK         11.0        155               0.09
+11                            AMADOR         12.0         93               0.05
+12                           COROZAL         13.0        142               0.08
+13                           CLAYTON         14.0        177                0.1
+14                    QUARRY HEIGHTS         15.0         44               0.03
+15                      PEDRO MIGUEL         16.0         13               0.01
+16                NEW MEN AT CLAYTON         17.0         35               0.02
+17                         GALAPAGOS         18.0         92               0.05
+18                           SALINAS         19.0         18               0.01
+19                         GUATEMALA         20.0         27               0.02
+20                          RIO HATO         21.0         51               0.03
+21                        AGUA DULCE         22.0         20               0.01
+22                             CHAME         23.0         19               0.01
+23                          CHORRERA         24.0         23               0.01
+24                           LA JOYA         25.0         13               0.01
+25                             GATUN         26.0         20               0.01
+26                        MADDEN DAM         27.0         10               0.01
+27                             DAVID         28.0         39               0.02
+28                            PACORA         29.0         15               0.01
+29                               REY         30.0         20               0.01
+30                             JAQUE         31.0         18               0.01
+31                        STATION #3         32.0         15               0.01
+32                       STATION #48         33.0         18               0.01
+33                       STATION #49         34.0         10               0.01
+34                               REY         35.0         11               0.01
+35                             JAQUE         36.0         10               0.01
+36                      MADDEN FIELD         37.0         16               0.01
+37                          SAN JOSE         38.0         17               0.01
+
+
+
+S115A.V89 MAJOR COMMAND IDENTIFICATION:
+                                    answer_label answer_value raw_counts relative_frequency
+0                          AIR FORCE - AIR CORPS          1.0        434               0.26
+1                      AIR FORCE - NOT AIR CORPS          2.0        261               0.15
+2                           MOBILE FORCE COMMAND          3.0        139               0.08
+3                        COAST ARTILLERY COMMAND          4.0        533               0.31
+4  DEPARTMENT TROOPS AND PANAMA CANAL DEPARTMENT          5.0        328               0.19
+
+
+

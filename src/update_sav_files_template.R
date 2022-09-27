@@ -2,11 +2,11 @@ library(data.table)
 library(haven)
 
 # load new questions and answers
-answers <- fread("data/working/update_2022_08_29/answers.csv", header = T)
-questions <- fread("data/working/update_2022_08_29/questions.csv", header = T)
+answers <- fread("data/working/update_2022_09_27/answers.csv", header = T)
+questions <- fread("data/working/update_2022_09_27/questions.csv", header = T)
 
 # set directories for input and output files
-base_dir <- "data/working/update_2022_08_29"
+base_dir <- "data/working/update_2022_09_27"
 input_dir <- file.path(base_dir, "input") 
 output_dir <- file.path(base_dir, "output")
 
@@ -15,7 +15,7 @@ sav_files <- list.files(input_dir, pattern = "*.sav", full.names = T)
 
 # get unique survey identifiers
 surveys_unq <- unique(questions[parent_id!= "" & parent_id!= "X"]$parent_id)
-surveys_unq <- surveys_unq[surveys_unq %like% "S32N"]
+#surveys_unq <- surveys_unq[surveys_unq %like% "S32N"]
 
 
 # start log

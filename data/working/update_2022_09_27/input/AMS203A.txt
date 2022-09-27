@@ -1,0 +1,917 @@
+FORMFORM:
+  answer_label answer_value raw_counts relative_frequency
+0         203A          1.0       1229                1.0
+
+
+
+S203A.Qi1 WHAT IS YOUR ARMY RANK OR GRADE?
+                                           answer_label answer_value raw_counts relative_frequency
+0                                    NO CODE OR NO DATA          0.0          7               0.01
+1                        PRIVATE OR PRIVATE FIRST CLASS          1.0        602               0.49
+2                      CORPORAL OR TECHNICIAN 5TH GRADE          2.0        187               0.15
+3                      SERGEANT OR TECHNICIAN 4TH GRADE          3.0        221               0.18
+4                STAFF SERGEANT OR TECHNICIAN 3RD GRADE          4.0        143               0.12
+5  TECHNICAL SERGEANT, MASTER SERGEANT, OR 1ST SERGEANT          5.0         66               0.05
+6                                             NO ANSWER          6.0          3                0.0
+
+
+
+S203A.Qi2 HOW LONG HAVE YOU BEEN OVERSEAS?
+                   answer_label answer_value raw_counts relative_frequency
+0            NO CODE OR NO DATA          0.0          1                0.0
+1              3 MONTHS OR LESS          1.0        103               0.08
+2  OVER 3 MONTHS UP TO 6 MONTHS          2.0        295               0.24
+3    OVER 6 MONTHS UP TO 1 YEAR          3.0        315               0.26
+4   OVER 1 YEAR UP TO 18 MONTHS          4.0        286               0.23
+5  OVER 18 MONTHS UP TO 2 YEARS          5.0         94               0.08
+6                  OVER 2 YEARS          6.0        130               0.11
+7                     NO ANSWER          7.0          5                0.0
+
+
+
+S203A.Qi3 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+           answer_label answer_value raw_counts relative_frequency
+0    NO CODE OR NO DATA          0.0          1                0.0
+1   18 YEARS OR YOUNGER          1.0         21               0.02
+2                    19          2.0         96               0.08
+3                    20          3.0        125                0.1
+4                    21          4.0        120                0.1
+5                    22          5.0        119                0.1
+6                    23          6.0         90               0.07
+7                    24          7.0         87               0.07
+8                    25          8.0         82               0.07
+9                 26-29          9.0        222               0.18
+10                30-34         10.0        182               0.15
+11          35 AND OVER         11.0         71               0.06
+12            NO ANSWER         12.0         13               0.01
+
+
+
+S203A.Qi4 HOW FAR DID YOU GO IN SCHOOL?
+                          answer_label answer_value raw_counts relative_frequency
+0                   NO CODE OR NO DATA          0.0          1                0.0
+1                  LESS THAN 6TH GRADE          1.0         22               0.02
+2                   FINISHED 6TH GRADE          2.0         32               0.03
+3                   FINISHED 7TH GRADE          3.0         55               0.04
+4                   FINISHED 8TH GRADE          4.0        138               0.11
+5  SOME HIGH SCHOOL BUT DID NOT FINISH          5.0        348               0.28
+6           GRADUATED FROM HIGH SCHOOL          6.0        391               0.32
+7      SOME COLLEGE BUT DID NOT FINISH          7.0        200               0.16
+8               GRADUATED FROM COLLEGE          8.0         37               0.03
+9                            NO ANSWER          9.0          5                0.0
+
+
+
+S203A.Qi5 DURING THE LAST FEW WEEKS ABOUT HOW OFTEN DID YOU GET TO READ THE DAILY ISSUE OF "THE STARS AND STRIPES"?
+                answer_label answer_value raw_counts relative_frequency
+0         NO CODE OR NO DATA          0.0          3                0.0
+1          USUALLY EVERY DAY          1.0        899               0.73
+2  ABOUT 3 OR 4 TIMES A WEEK          2.0        234               0.19
+3  ABOUT 1 OR 2 TIMES A WEEK          3.0         78               0.06
+4            SELDOM OR NEVER          4.0          9               0.01
+5                  NO ANSWER          5.0          6                0.0
+
+
+
+S203A.Qi6A THE CARTOON IN "THE STARS AND STRIPES" THAT I LIKE BEST IS:
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0         50               0.04
+1                 HUBERT          1.0        239               0.19
+2  UP FRONT WITH MAULDIN          2.0        713               0.58
+3         PRIVATE BREGER          3.0        227               0.18
+
+
+
+S203A.Qi6B THE CARTOON THAT I LIKE LEAST IS:
+            answer_label answer_value raw_counts relative_frequency
+0     NO CODE OR NO DATA          0.0          1                0.0
+1                 HUBERT          1.0        428               0.35
+2  UP FRONT WITH MAULDIN          2.0        187               0.15
+3         PRIVATE BREGER          3.0        430               0.35
+4              NO ANSWER          4.0        183               0.15
+
+
+
+S203A.Qi7A WHICH ONE OF THESE TWO FEATURES DO YOU LIKE BETTER?
+                       answer_label answer_value raw_counts relative_frequency
+0                NO CODE OR NO DATA          0.0          3                0.0
+1  "THE 'B' BAG - BLOW IT OUT HERE"          1.0        803               0.65
+2             THE PICTURE EDITORIAL          2.0        375               0.31
+3                         NO ANSWER          3.0         48               0.04
+
+
+
+S203A.Qi7B WHICH ONE OF THE FOLLOWING TWO FEATURES DO YOU LIKE BETTER?
+            answer_label answer_value raw_counts relative_frequency
+0     NO CODE OR NO DATA          0.0          1                0.0
+1  THE PICTURE EDITORIAL          1.0        471               0.38
+2  "SOMEWHERE IN EUROPE"          2.0        696               0.57
+3              NO ANSWER          3.0         61               0.05
+
+
+
+S203A.Qi7C WHICH ONE OF THE FOLLOWING TWO FEATURES DO YOU LIKE BETTER?
+                       answer_label answer_value raw_counts relative_frequency
+0                NO CODE OR NO DATA          0.0          1                0.0
+1             "SOMEWHERE IN EUROPE"          1.0        451               0.37
+2  "THE 'B' BAG - BLOW IT OUT HERE"          2.0        710               0.58
+3                         NO ANSWER          3.0         67               0.05
+
+
+
+S203A.Qi8 ABOUT HOW OFTEN, WHEN YOU DO READ "THE STARS AND STRIPES", DO YOU READ THE PICTURE EDITORIALS?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0         26               0.02
+1         READ IT EVERY TIME I READ THE PAPER          1.0        559               0.45
+2  READ IT MOST OF THE TIMES I READ THE PAPER          2.0        326               0.27
+3              READ IT ABOUT HALF OF THE TIME          3.0        140               0.11
+4                JUST READ IT ONCE IN A WHILE          4.0        161               0.13
+5                     SELDOM OR NEVER READ IT          5.0         17               0.01
+
+
+
+S203A.Qi9A1 WAR NEWS: PACIFIC?
+                               answer_label answer_value raw_counts relative_frequency
+0                        NO CODE OR NO DATA          0.0          1                0.0
+1                   GETS TOO MUCH SPACE NOW          1.0         69               0.06
+2  GETS ABOUT THE RIGHT AMOUNT OF SPACE NOW          2.0        765               0.62
+3                     SHOULD GET MORE SPACE          3.0        253               0.21
+4                                 UNDECIDED          4.0         73               0.06
+5                                 NO ANSWER          5.0         68               0.06
+
+
+
+S203A.Qi9A2 WAR NEWS: THE RUSSIAN FRONT?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0         59               0.05
+1                   GETS TOO MUCH SPACE NOW          1.0         36               0.03
+2  GETS ABOUT THE RIGHT AMOUNT OF SPACE NOW          2.0        807               0.66
+3                     SHOULD GET MORE SPACE          3.0        278               0.23
+4                                 UNDECIDED          4.0         49               0.04
+
+
+
+S203A.Qi9A3 WAR NEWS: ETO FRONT?
+                               answer_label answer_value raw_counts relative_frequency
+0                        NO CODE OR NO DATA          0.0          1                0.0
+1                   GETS TOO MUCH SPACE NOW          1.0         71               0.06
+2  GETS ABOUT THE RIGHT AMOUNT OF SPACE NOW          2.0        765               0.62
+3                     SHOULD GET MORE SPACE          3.0        262               0.21
+4                                 UNDECIDED          4.0         42               0.03
+5                                 NO ANSWER          5.0         88               0.07
+
+
+
+S203A.Qi9A4 NEWS ABOUT PARTICULAR OUTFITS IN ETO?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0         86               0.07
+1                   GETS TOO MUCH SPACE NOW          1.0        249                0.2
+2  GETS ABOUT THE RIGHT AMOUNT OF SPACE NOW          2.0        420               0.34
+3                     SHOULD GET MORE SPACE          3.0        375               0.31
+4                                 UNDECIDED          4.0         99               0.08
+
+
+
+S203A.Qi9A5 SPECIAL STORIES ABOUT THINGS THAT HAPPEN IN THE ETO?
+                               answer_label answer_value raw_counts relative_frequency
+0                        NO CODE OR NO DATA          0.0          1                0.0
+1                   GETS TOO MUCH SPACE NOW          1.0        226               0.18
+2  GETS ABOUT THE RIGHT AMOUNT OF SPACE NOW          2.0        583               0.47
+3                     SHOULD GET MORE SPACE          3.0        216               0.18
+4                                 UNDECIDED          4.0        113               0.09
+5                                 NO ANSWER          5.0         90               0.07
+
+
+
+S203A.Qi9A6 U.S. NEWS: THE HOME FRONT?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0         75               0.06
+1                   GETS TOO MUCH SPACE NOW          1.0         71               0.06
+2  GETS ABOUT THE RIGHT AMOUNT OF SPACE NOW          2.0        428               0.35
+3                     SHOULD GET MORE SPACE          3.0        601               0.49
+4                                 UNDECIDED          4.0         54               0.04
+
+
+
+S203A.Qi9A7 SPORTS NEWS?
+                               answer_label answer_value raw_counts relative_frequency
+0                        NO CODE OR NO DATA          0.0          2                0.0
+1                   GETS TOO MUCH SPACE NOW          1.0        393               0.32
+2  GETS ABOUT THE RIGHT AMOUNT OF SPACE NOW          2.0        548               0.45
+3                     SHOULD GET MORE SPACE          3.0        132               0.11
+4                                 UNDECIDED          4.0         70               0.06
+5                                 NO ANSWER          5.0         84               0.07
+
+
+
+S203A.Qi9A8 NEWS OF OTHER COUNTRIES?
+                               answer_label answer_value raw_counts relative_frequency
+0                        NO CODE OR NO DATA          0.0          1                0.0
+1                   GETS TOO MUCH SPACE NOW          1.0        239               0.19
+2  GETS ABOUT THE RIGHT AMOUNT OF SPACE NOW          2.0        624               0.51
+3                     SHOULD GET MORE SPACE          3.0         91               0.07
+4                                 UNDECIDED          4.0        176               0.14
+5                                 NO ANSWER          5.0         98               0.08
+
+
+
+S203A.Qi9A9 COMIC STRIPS?
+                               answer_label answer_value raw_counts relative_frequency
+0                        NO CODE OR NO DATA          0.0          1                0.0
+1                   GETS TOO MUCH SPACE NOW          1.0         96               0.08
+2  GETS ABOUT THE RIGHT AMOUNT OF SPACE NOW          2.0        744               0.61
+3                     SHOULD GET MORE SPACE          3.0        278               0.23
+4                                 UNDECIDED          4.0         29               0.02
+5                                 NO ANSWER          5.0         81               0.07
+
+
+
+S203A.Qi9A10 CARTOONS (BREGER, MAULDIN, HUBERT, ETC.)?
+                               answer_label answer_value raw_counts relative_frequency
+0                        NO CODE OR NO DATA          0.0          1                0.0
+1                   GETS TOO MUCH SPACE NOW          1.0         46               0.04
+2  GETS ABOUT THE RIGHT AMOUNT OF SPACE NOW          2.0        811               0.66
+3                     SHOULD GET MORE SPACE          3.0        259               0.21
+4                                 UNDECIDED          4.0         32               0.03
+5                                 NO ANSWER          5.0         80               0.07
+
+
+
+S203A.Qi9B ARE THERE ANY OTHER THINGS THAT YOU THINK SHOULD GET MORE SPACE THAN THEY GET AT PRESENT IN "THE STARS AND STRIPES"?
+                answer_label answer_value raw_counts relative_frequency
+0         NO CODE OR NO DATA          0.0          2                0.0
+1   NO, I CAN'T THINK OF ANY          1.0        920               0.75
+2  YES, SOMETHING WRITTEN IN          2.0        172               0.14
+3    YES, NOTHING WRITTEN IN          3.0          5                0.0
+4                  NO ANSWER          4.0        130               0.11
+
+
+
+S203A.Qi10A.1 WHICH TWO OF THE FOLLOWING COMIC STRIPS IN "THE STARS AND STRIPES" DO YOU LIKE BEST?
+  answer_label answer_value raw_counts relative_frequency
+0      BLONDIE          1.0        592               0.48
+1   NOT CHOSEN          2.0        637               0.52
+
+
+
+S203A.Qi10A.2WHICH TWO OF THE FOLLOWING COMIC STRIPS IN "THE STARS AND STRIPES" DO YOU LIKE BEST?
+      answer_label answer_value raw_counts relative_frequency
+0  ABBIE AND SLATS          1.0        114               0.09
+1       NOT CHOSEN          2.0       1115               0.91
+
+
+
+S203A.Qi10A.3WHICH TWO OF THE FOLLOWING COMIC STRIPS IN "THE STARS AND STRIPES" DO YOU LIKE BEST?
+  answer_label answer_value raw_counts relative_frequency
+0   LI'L ABNER          1.0        656               0.53
+1   NOT CHOSEN          2.0        573               0.47
+
+
+
+S203A.Qi10A.4WHICH TWO OF THE FOLLOWING COMIC STRIPS IN "THE STARS AND STRIPES" DO YOU LIKE BEST?
+  answer_label answer_value raw_counts relative_frequency
+0         JANE          1.0        129                0.1
+1   NOT CHOSEN          2.0       1100                0.9
+
+
+
+S203A.Qi10A.5WHICH TWO OF THE FOLLOWING COMIC STRIPS IN "THE STARS AND STRIPES" DO YOU LIKE BEST?
+  answer_label answer_value raw_counts relative_frequency
+0   DICK TRACY          1.0        306               0.25
+1   NOT CHOSEN          2.0        923               0.75
+
+
+
+S203A.Qi10A.6WHICH TWO OF THE FOLLOWING COMIC STRIPS IN "THE STARS AND STRIPES" DO YOU LIKE BEST?
+            answer_label answer_value raw_counts relative_frequency
+0  TERRY AND THE PIRATES          1.0        476               0.39
+1             NOT CHOSEN          2.0        753               0.61
+
+
+
+S203A.Qi10A.7WHICH TWO OF THE FOLLOWING COMIC STRIPS IN "THE STARS AND STRIPES" DO YOU LIKE BEST?
+                         answer_label answer_value raw_counts relative_frequency
+0  SECOND CODE IF ONLY ONE IS CHECKED          1.0        135               0.11
+1                          NOT CHOSEN          2.0       1094               0.89
+
+
+
+S203A.Qi10A.8WHICH TWO OF THE FOLLOWING COMIC STRIPS IN "THE STARS AND STRIPES" DO YOU LIKE BEST?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0         23               0.02
+1   NOT CHOSEN          2.0       1206               0.98
+
+
+
+S203A.Qi10B.1 IF TWO OF THESE COMIC STRIPS HAD TO BE DROPPED FROM "THE STARS AND STRIPES", WHICH TWO WOULD YOU LEAVE OUT?
+            answer_label answer_value raw_counts relative_frequency
+0  TERRY AND THE PIRATES          1.0        328               0.27
+1             NOT CHOSEN          2.0        901               0.73
+
+
+
+S203A.Qi10B.2IF TWO OF THESE COMIC STRIPS HAD TO BE DROPPED FROM "THE STARS AND STRIPES", WHICH TWO WOULD YOU LEAVE OUT?
+  answer_label answer_value raw_counts relative_frequency
+0   DICK TRACY          1.0        311               0.25
+1   NOT CHOSEN          2.0        918               0.75
+
+
+
+S203A.Qi10B.3IF TWO OF THESE COMIC STRIPS HAD TO BE DROPPED FROM "THE STARS AND STRIPES", WHICH TWO WOULD YOU LEAVE OUT?
+  answer_label answer_value raw_counts relative_frequency
+0         JANE          1.0        723               0.59
+1   NOT CHOSEN          2.0        506               0.41
+
+
+
+S203A.Qi10B.4IF TWO OF THESE COMIC STRIPS HAD TO BE DROPPED FROM "THE STARS AND STRIPES", WHICH TWO WOULD YOU LEAVE OUT?
+  answer_label answer_value raw_counts relative_frequency
+0   LI'L ABNER          1.0        139               0.11
+1   NOT CHOSEN          2.0       1090               0.89
+
+
+
+S203A.Qi10B.5IF TWO OF THESE COMIC STRIPS HAD TO BE DROPPED FROM "THE STARS AND STRIPES", WHICH TWO WOULD YOU LEAVE OUT?
+      answer_label answer_value raw_counts relative_frequency
+0  ABBIE AND SLATS          1.0        698               0.57
+1       NOT CHOSEN          2.0        531               0.43
+
+
+
+S203A.Qi10B.6IF TWO OF THESE COMIC STRIPS HAD TO BE DROPPED FROM "THE STARS AND STRIPES", WHICH TWO WOULD YOU LEAVE OUT?
+  answer_label answer_value raw_counts relative_frequency
+0      BLONDIE          1.0        168               0.14
+1   NOT CHOSEN          2.0       1061               0.86
+
+
+
+S203A.Qi10B.7IF TWO OF THESE COMIC STRIPS HAD TO BE DROPPED FROM "THE STARS AND STRIPES", WHICH TWO WOULD YOU LEAVE OUT?
+                         answer_label answer_value raw_counts relative_frequency
+0  SECOND CODE IF ONLY ONE IS CHECKED          1.0         34               0.03
+1                          NOT CHOSEN          2.0       1195               0.97
+
+
+
+S203A.Qi10B.8IF TWO OF THESE COMIC STRIPS HAD TO BE DROPPED FROM "THE STARS AND STRIPES", WHICH TWO WOULD YOU LEAVE OUT?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0         26               0.02
+1   NOT CHOSEN          2.0       1203               0.98
+
+
+
+S203A.Qi10C ARE THERE ANY OTHER COMIC STRIPS YOU WOULD LIKE TO HAVE IN "THE STARS AND STRIPES" EVEN IF IT MEANT LEAVING OUT SOME OF THE ONES THAT NOW APPEAR?
+                answer_label answer_value raw_counts relative_frequency
+0         NO CODE OR NO DATA          0.0          5                0.0
+1                   NO, NONE          1.0        891               0.72
+2  YES, SOMETHING WRITTEN IN          2.0        254               0.21
+3    YES, NOTHING WRITTEN IN          3.0          5                0.0
+4                  NO ANSWER          4.0         74               0.06
+
+
+
+S203A.Qi11 HOW WELL DOES "THE STARS AND STRIPES" COVER THE SPORTS NEWS YOU PERSONALLY ARE INTERESTED IN?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0         11               0.01
+1                    IT COVERS IT VERY WELL          1.0        475               0.39
+2                  IT COVERS IT FAIRLY WELL          2.0        438               0.36
+3          IT DOES NOT COVER IT AT ALL WELL          3.0         59               0.05
+4  I AM NOT ESPECIALLY INTERESTED IN SPORTS          4.0        246                0.2
+
+
+
+S203A.Qi12A IN YOUR OPINION, WHAT IS THE MAIN PURPOSE OF "THE STARS AND STRIPES"?
+                                                              answer_label answer_value raw_counts relative_frequency
+0                                                                NO ANSWER          0.0         15               0.01
+1                     TO FURNISH SOLDIERS WITH ENTERTAINING READING MATTER          1.0        201               0.16
+2                                  TO GIVE SOLDIERS THE NEWS AS IT HAPPENS          2.0        872               0.71
+3  TO TRY TO GET SOLDIERS TO BELIEVE THINGS THE ARMY WANTS THEM TO BELIEVE          3.0        119                0.1
+4                                                           SOMETHING ELSE          4.0         22               0.02
+
+
+
+S203A.Qi12B DO YOU THINK "THE STARS AND STRIPES" HAS ANY OTHER PURPOSE IN ADDITION TO THE ONE YOU CHECKED AS THE MAIN PURPOSE?
+                answer_label answer_value raw_counts relative_frequency
+0         NO CODE OR NO DATA          0.0          6                0.0
+1                         NO          1.0        738                0.6
+2  YES, SOMETHING WRITTEN IN          2.0        311               0.25
+3    YES, NOTHING WRITTEN IN          3.0         16               0.01
+4                  NO ANSWER          4.0        158               0.13
+
+
+
+S203A.Qi13 IN GENERAL, WHEN YOU READ THE PICTURE EDITORIAL IN "THE STARS AND STRIPES", DO YOU READ ALL THE WAY THROUGH IT OR DO YOU JUST SKIP THROUGH AND READ PART OF IT?
+                                          answer_label answer_value raw_counts relative_frequency
+0                                            NO ANSWER          0.0         14               0.01
+1  I SELDOM OR NEVER READ THE PICTURE EDITORIAL AT ALL          1.0         76               0.06
+2                I USUALLY READ ALL THE WAY THROUGH IT          2.0        641               0.52
+3                            I USUALLY READ MOST OF IT          3.0        300               0.24
+4                       I USUALLY JUST SKIP THROUGH IT          4.0        198               0.16
+
+
+
+S203A.Qi14A IN GENERAL, WHAT DO YOU THINK OF THE PICTURE EDITORIALS?
+                                                          answer_label answer_value raw_counts relative_frequency
+0                                                   NO CODE OR NO DATA          0.0          1                0.0
+1                                            I LIKE ALMOST ALL OF THEM          1.0        432               0.35
+2                           I LIKE MOST OF THEM, BUT ALSO DISLIKE SOME          2.0        416               0.34
+3                     I LIKE ABOUT HALF OF THEM AND DISLIKE ABOUT HALF          3.0        151               0.12
+4                        I DISLIKE MOST OF THEM, BUT LIKE SOME OF THEM          4.0         55               0.04
+5                                         I DISLIKE ALMOST ALL OF THEM          5.0         55               0.04
+6  I DON'T HAVE ANY PARTICULAR FEELING ABOUT THEM ONE WAY OR THE OTHER          6.0         79               0.06
+7                                                            NO ANSWER          7.0         40               0.03
+
+
+
+S203A.Qi14B DO YOU REMEMBER ANY OF THE PICTURE EDITORIALS YOU PARTICULARLY LIKED?
+                    answer_label answer_value raw_counts relative_frequency
+0             NO CODE OR NO DATA          0.0          7               0.01
+1  NO, NONE I LIKED PARTICULARLY          1.0        807               0.66
+2      YES, SOMETHING WRITTEN IN          2.0        190               0.15
+3        YES, NOTHING WRITTEN IN          3.0         22               0.02
+4                      NO ANSWER          4.0        203               0.17
+
+
+
+S203A.Qi14C DO YOU REMEMBER ANY OF THE PICTURE EDITORIALS YOU PARTICULARLY DISLIKED?
+                       answer_label answer_value raw_counts relative_frequency
+0                NO CODE OR NO DATA          0.0          6                0.0
+1  NO, NONE I DISLIKED PARTICULARLY          1.0        980                0.8
+2         YES, SOMETHING WRITTEN IN          2.0         52               0.04
+3           YES, NOTHING WRITTEN IN          3.0         12               0.01
+4                         NO ANSWER          4.0        179               0.15
+
+
+
+S203A.Qi15 HOW INTERESTING TO YOU ARE THE KINDS OF THINGS THEY WRITE ABOUT IN THE PICTURE EDITORIALS?
+                                                      answer_label answer_value raw_counts relative_frequency
+0                                                        NO ANSWER          0.0         65               0.05
+1                    I SELDOM OR NEVER READ THE PICTURE EDITORIALS          1.0         91               0.07
+2  THE KINDS OF THINGS THEY WRITE ABOUT ARE VERY INTERESTING TO ME          2.0        295               0.24
+3                                THEY ARE FAIRLY INTERESTING TO ME          3.0        654               0.53
+4                              THEY ARE NOT VERY INTERESTING TO ME          4.0        103               0.08
+5                                    THEY DON'T INTEREST ME AT ALL          5.0         21               0.02
+
+
+
+S203A.Qi16 DO YOU DISCUSS THE DAILY PICTURE EDITORIALS WITH OTHER SOLDIERS?
+                     answer_label answer_value raw_counts relative_frequency
+0              NO CODE OR NO DATA          0.0          1                0.0
+1    WE VERY OFTEN TALK THEM OVER          1.0        196               0.16
+2  WE TALK THEM OVER FAIRLY OFTEN          2.0        226               0.18
+3  WE OCCASIONALLY TALK THEM OVER          3.0        471               0.38
+4  WE ALMOST NEVER TALK THEM OVER          4.0        277               0.23
+5                       NO ANSWER          5.0         58               0.05
+
+
+
+S203A.Qi17A HAVE YOU CUT OUT ANY OF THE PICTURE EDITORIALS TO SEND HOME?
+                               answer_label answer_value raw_counts relative_frequency
+0                        NO CODE OR NO DATA          0.0          2                0.0
+1  YES, I HAVE CUT OUT SEVERAL TO SEND HOME          1.0        138               0.11
+2            YES, I HAVE CUT OUT ONE OR TWO          2.0        148               0.12
+3                NO, I HAVE NOT CUT OUT ANY          3.0        889               0.72
+4                                 NO ANSWER          4.0         52               0.04
+
+
+
+S203A.Qi17B HAVE YOU SENT HOME ANY COPIES OF "THE STARS AND STRIPES"?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0         50               0.04
+1  I HAVE SENT HOME PRACTICALLY EVERY ISSUE          1.0         23               0.02
+2       I HAVE SENT HOME QUITE A FEW ISSUES          2.0        112               0.09
+3         I HAVE SENT HOME ONE OCCASIONALLY          3.0        300               0.24
+4         I HAVE NEVER SENT ANY ISSUES HOME          4.0        744               0.61
+
+
+
+S203A.Qi18 IN YOUR OPINION, HOW IMPORTANT ARE THE KINDS OF THINGS THEY WRITE ABOUT IN THE PICTURE EDITORIALS?
+                                    answer_label answer_value raw_counts relative_frequency
+0                             NO CODE OR NO DATA          0.0          1                0.0
+1  I SELDOM OR NEVER READ THE PICTURE EDITORIALS          1.0         96               0.08
+2                THEY ARE USUALLY VERY IMPORTANT          2.0        290               0.24
+3              THEY ARE USUALLY FAIRLY IMPORTANT          3.0        613                0.5
+4            THEY ARE USUALLY NOT VERY IMPORTANT          4.0        133               0.11
+5          THEY ARE USUALLY NOT IMPORTANT AT ALL          5.0         39               0.03
+6                                      NO ANSWER          6.0         57               0.05
+
+
+
+S203A.Qi19 IN YOUR OPINION, SHOULD "THE STARS AND STRIPES" CARRY EDITORIALS?
+                                                                answer_label answer_value raw_counts relative_frequency
+0                                                         NO CODE OR NO DATA          0.0          1                0.0
+1                       YES, "THE STARS AND STRIPES" SHOULD CARRY EDITORIALS          1.0        777               0.63
+2                    NO, "THE STARS AND STRIPES" SHOULD NOT CARRY EDITORIALS          2.0        103               0.08
+3  IT DOESN'T MAKE ANY DIFFERENCE TO ME WHETHER THEY CARRY EDITORIALS OR NOT          3.0        299               0.24
+4                                                                  NO ANSWER          4.0         49               0.04
+
+
+
+S203A.Qi20 WOULD YOU RATHER HAVE ANOTHER CARTOON IN "THE STARS AND STRIPES" INSTEAD OF THE PICTURE EDITORIAL?
+                                answer_label answer_value raw_counts relative_frequency
+0                         NO CODE OR NO DATA          0.0          1                0.0
+1  I WOULD RATHER HAVE THE PICTURE EDITORIAL          1.0        794               0.65
+2        I WOULD RATHER HAVE ANOTHER CARTOON          2.0        333               0.27
+3                                  NO ANSWER          3.0        101               0.08
+
+
+
+S203A.Qi21 HOW DO YOU FEEL ABOUT THE STYLE OR WAY IN WHICH THE PICTURE EDITORIALS ARE WRITTEN?
+                                          answer_label answer_value raw_counts relative_frequency
+0                                            NO ANSWER          0.0         91               0.07
+1  I HAVEN'T READ THE PICTURE EDITORIALS ENOUGH TO SAY          1.0        271               0.22
+2  I LIKE THE MAN-TO-MAN WAY IN WHICH THEY ARE WRITTEN          2.0        720               0.59
+3    I DISLIKE THE WAY IN WHICH THEY WRITE DOWN TO MEN          3.0         82               0.07
+4                                      SOME OTHER IDEA          4.0         65               0.05
+
+
+
+S203A.Qi22 EVERYTHING CONSIDERED, HOW WOULD YOU RATE "THE STARS AND STRIPES"?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         32               0.03
+1    EXCELLENT          1.0        391               0.32
+2         GOOD          2.0        574               0.47
+3         FAIR          3.0        212               0.17
+4   NO SO GOOD          4.0         12               0.01
+5   QUITE POOR          5.0          8               0.01
+
+
+
+S203A.Qi23A IN YOUR OPINION, DOES "THE STARS AND STRIPES" MAKE MISTAKES IN TELLING ABOUT WAR NEWS?
+                                  answer_label answer_value raw_counts relative_frequency
+0                                    NO ANSWER          0.0         44               0.04
+1                      IT OFTEN MAKES MISTAKES          1.0        175               0.14
+2            IT MAKES MISTAKES ONCE IN A WHILE          2.0        599               0.49
+3               IT ALMOST NEVER MAKES MISTAKES          3.0        155               0.13
+4  DON'T KNOW WHETHER IT MAKES MISTAKES OR NOT          4.0        256               0.21
+
+
+
+S203A.Qi24 WHAT KIND OF A PICTURE DO YOU THINK "THE STARS AND STRIPES" GIVES ON HOW THE WAR IS GOING?
+                                                       answer_label answer_value raw_counts relative_frequency
+0                                                NO CODE OR NO DATA          0.0          1                0.0
+1  IT GIVES THE IDEA THAT THE WAR IS GOING BETTER THAN IT REALLY IS          1.0        397               0.32
+2   IT GIVES THE IDEA THAT THE WAR IS GOING WORSE THAN IT REALLY IS          2.0         23               0.02
+3             IT GIVES ABOUT THE RIGHT IDEA OF HOW THE WAR IS GOING          3.0        745               0.61
+4                                                         NO ANSWER          4.0         63               0.05
+
+
+
+S203A.Qii1 DID YOU READ THIS EDITORIAL WHEN IT APPEARED IN "THE STARS AND STRIPES"?
+                        answer_label answer_value raw_counts relative_frequency
+0                 NO CODE OR NO DATA          0.0          2                0.0
+1  NOT SURE WHETHER I READ IT OR NOT          1.0        233               0.19
+2                     YES, I READ IT          2.0        636               0.52
+3              NO, I DID NOT READ IT          3.0        315               0.26
+4                          NO ANSWER          4.0         43               0.03
+
+
+
+S203A.Qii2 DO YOU REMEMBER HEARING ANY OF THE MEN IN YOUR OUTFIT TALKING ABOUT THIS EDITORIAL OR DISCUSSING WHAT IT SAID?
+                                   answer_label answer_value raw_counts relative_frequency
+0                                     NO ANSWER          0.0         51               0.04
+1          I HEARD A LOT OF DISCUSSION ABOUT IT          1.0        111               0.09
+2                    I HEARD SOME TALK ABOUT IT          2.0        342               0.28
+3      THERE WAS HARDLY ANY DISCUSSION ABOUT IT          3.0        127                0.1
+4  I DON'T REMEMBER HEARING IT DISCUSSED AT ALL          4.0        598               0.49
+
+
+
+S203A.Qii3A IN GENERAL, DO YOU LIKE OR DISLIKE THIS EDITORIAL?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0         46               0.04
+1                         LIKE IT VERY MUCH          1.0        341               0.28
+2                       LIKE IT FAIRLY WELL          2.0        453               0.37
+3  DON'T PARTICULARLY LIKE IT OR DISLIKE IT          3.0        323               0.26
+4                    DISLIKE IT PRETTY MUCH          4.0         39               0.03
+5                      DISLIKE IT VERY MUCH          5.0         27               0.02
+
+
+
+S203A.Qii3B ARE THERE ANY PARTICULAR THINGS ABOUT IT OR THE WAY IT IS PRESENTED THAT YOU LIKE?
+                answer_label answer_value raw_counts relative_frequency
+0         NO CODE OR NO DATA          0.0          2                0.0
+1                         NO          1.0        758               0.62
+2  YES, SOMETHING WRITTEN IN          2.0        313               0.25
+3    YES, NOTHING WRITTEN IN          3.0         28               0.02
+4                  NO ANSWER          4.0        128                0.1
+
+
+
+S203A.Qii3C ARE THERE ANY PARTICULAR THINGS ABOUT IT OR THE WAY IT IS PRESENTED THAT YOU DISLIKE?
+                answer_label answer_value raw_counts relative_frequency
+0         NO CODE OR NO DATA          0.0          1                0.0
+1                         NO          1.0        975               0.79
+2  YES, SOMETHING WRITTEN IN          2.0        115               0.09
+3    YES, NOTHING WRITTEN IN          3.0         11               0.01
+4                  NO ANSWER          4.0        127                0.1
+
+
+
+S203A.Qii4 IN GENERAL, DO YOU AGREE, OR DISAGREE, WITH WHAT THE WRITER SAYS IN THIS EDITORIAL?
+                                                answer_label answer_value raw_counts relative_frequency
+0                                                  NO ANSWER          0.0         92               0.07
+1                             AGREE WITH ALL OF WHAT HE SAYS          1.0        343               0.28
+2                            AGREE WITH MOST OF WHAT HE SAYS          2.0        495                0.4
+3  AGREE WITH SOME AND DISAGREE WITH SOME, ABOUT FIFTY-FIFTY          3.0        257               0.21
+4                         DISAGREE WITH MOST OF WHAT HE SAYS          4.0         36               0.03
+5                          DISAGREE WITH ALL OF WHAT HE SAYS          5.0          6                0.0
+
+
+
+S203A.Qiii1 WHAT IS THE DATE ON YOUR COPY OF "TOMORROW"?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0        254               0.21
+1  DECEMBER 20, 1944          1.0        179               0.15
+2  DECEMBER 27, 1944          2.0        149               0.12
+3    JANUARY 3, 1945          3.0        159               0.13
+4   JANUARY 10, 1945          4.0        125                0.1
+5   JANUARY 24, 1945          5.0        151               0.12
+6   JANUARY 31, 1945          6.0        133               0.11
+7   FEBRUARY 7, 1945          7.0         79               0.06
+
+
+
+S203A.Qiii2 DO YOU REMEMBER HAVING SEEN "TOMORROW" BEFORE?
+                                          answer_label answer_value raw_counts relative_frequency
+0                                   NO CODE OR NO DATA          0.0          1                0.0
+1  DON'T REMEMBER WHETHER I HAVE SEEN IT BEFORE OR NOT          1.0        180               0.15
+2                           YES, I HAVE SEEN IT BEFORE          2.0        711               0.58
+3                        NO, I HAVE NOT SEEN IT BEFORE          3.0        221               0.18
+4                                            NO ANSWER          4.0        116               0.09
+
+
+
+S203A.Qiii3 DURING THE LAST FEW WEEKS, HOW OFTEN HAVE YOU READ PART OR ALL OF "TOMORROW"?
+                              answer_label answer_value raw_counts relative_frequency
+0                                NO ANSWER          0.0        136               0.11
+1     HAVE READ SOMETHING IN IT EVERY WEEK          1.0        379               0.31
+2  HAVE READ SOMETHING IN IT SEVERAL TIMES          2.0        229               0.19
+3  HAVE READ SOMETHING IN IT ONCE OR TWICE          3.0        189               0.15
+4           HAVE NEVER READ ANYTHING IN IT          4.0        202               0.16
+5                                UNCERTAIN          5.0         94               0.08
+
+
+
+S203A.Qiii4 WHEN YOU SEE A COPY OF "TOMORROW", DO YOU USUALLY LOOK AT EVERYTHING IN IT, OR DO YOU SKIP THROUGH IT AND JUST LOOK AT SOME PARTS OF IT?
+                                                   answer_label answer_value raw_counts relative_frequency
+0                                            NO CODE OR NO DATA          0.0          2                0.0
+1      I USUALLY SKIP THROUGH AND JUST LOOK AT SOME PARTS OF IT          1.0        351               0.29
+2  I USUALLY LOOK AT NEARLY EVERYTHING, BUT I DON'T READ IT ALL          2.0        330               0.27
+3                               I USUALLY READ NEARLY ALL OF IT          3.0        169               0.14
+4                 I HAVEN'T SEEN "TOMORROW" OFTEN ENOUGH TO SAY          4.0        226               0.18
+5                                                     NO ANSWER          5.0        151               0.12
+
+
+
+S203A.Qiii5 HOW INTERESTING DO YOU PERSONALLY FIND MOST OF THE THINGS YOU SEE IN "TOMORROW"?
+                                answer_label answer_value raw_counts relative_frequency
+0                         NO CODE OR NO DATA          0.0          2                0.0
+1    MOST OF THEM ARE VERY INTERESTING TO ME          1.0        227               0.18
+2  MOST OF THEM ARE FAIRLY INTERESTING TO ME          2.0        527               0.43
+3     MOST OF THEM DO NOT INTEREST ME AT ALL          3.0         75               0.06
+4    I HAVEN'T SEEN "TOMORROW" ENOUGH TO SAY          4.0        246                0.2
+5                                  NO ANSWER          5.0        152               0.12
+
+
+
+S203A.Qiii6 HOW IMPORTANT TO YOU PERSONALLY DO YOU FEEL MOST OF THE THINGS IN "TOMORROW" ARE?
+                                  answer_label answer_value raw_counts relative_frequency
+0                                    NO ANSWER          0.0        159               0.13
+1        MOST OF THEM ARE VERY IMPORTANT TO ME          1.0        148               0.12
+2      MOST OF THEM ARE FAIRLY IMPORTANT TO ME          2.0        481               0.39
+3    MOST OF THEM ARE NOT VERY IMPORTANT TO ME          3.0        154               0.13
+4  MOST OF THEM ARE NOT AT ALL IMPORTANT TO ME          4.0         41               0.03
+5      I HAVEN'T SEEN "TOMORROW" ENOUGH TO SAY          5.0        246                0.2
+
+
+
+FORM..1FORM:
+  answer_label answer_value raw_counts relative_frequency
+0         203A          1.0       1229                1.0
+
+
+
+S203A.Qiii7 HAVE YOU EVER SENT HOME ANY ISSUES OF "TOMORROW" OR PARTS OF THEM?
+                                                        answer_label answer_value raw_counts relative_frequency
+0                                                 NO CODE OR NO DATA          0.0          1                0.0
+1  YES, I HAVE SENT SEVERAL ISSUES OF "TOMORROW" (OR CLIPPINGS) HOME          1.0         43               0.03
+2                                   YES, I HAVE SENT ONE OR TWO HOME          2.0         60               0.05
+3                                       NO, I HAVE NOT SENT ANY HOME          3.0        970               0.79
+4                                                          NO ANSWER          4.0        155               0.13
+
+
+
+S203A.Qiii8 DO YOU REMEMBER HEARING ANY OF THE MEN IN YOUR OUTFIT TALKING ABOUT ARTICLES IN "TOMORROW" OR DISCUSSING WHAT THE ARTICLES SAID?
+                                                                   answer_label answer_value raw_counts relative_frequency
+0                                                                     NO ANSWER          0.0        159               0.13
+1                 YES, I HEARD A LOT OF DISCUSSION ABOUT ARTICLES IN "TOMORROW"          1.0         56               0.05
+2                        YES, I HEARD SOME DISCUSSION ABOUT "TOMORROW" ARTICLES          2.0        339               0.28
+3                    NO, THERE WAS HARDLY ANY DISCUSSION ON "TOMORROW" ARTICLES          3.0        136               0.11
+4  NO, I DON'T REMEMBER HEARING ANY DISCUSSION AT ALL ABOUT "TOMORROW" ARTICLES          4.0        539               0.44
+
+
+
+S203A.Qiii9 CAN YOU REMEMBER READING ANY PARTICULAR ARTICLE IN "TOMORROW" THAT SEEMED ESPECIALLY INTERESTING TO YOU PERSONALLY? (IF YES, WHAT WAS THE ARTICLE?)
+                                          answer_label answer_value raw_counts relative_frequency
+0                                      NO CODE NO DATA          0.0          9               0.01
+1                                 YES, SOMETHING NAMED          1.0        132               0.11
+2          YES, I DO REMEMBER ONE, BUT DOESN'T NAME IT          2.0         33               0.03
+3  NO, I DON'T REMEMBER ANY THAT INTERESTED ME GREATLY          3.0        835               0.68
+4                                            NO ANSWER          4.0        220               0.18
+
+
+
+S203A.Qiii10 IS THERE SOME PARTICULAR THING IN "TOMORROW" YOU DISLIKE?
+                answer_label answer_value raw_counts relative_frequency
+0         NO CODE OR NO DATA          0.0         14               0.01
+1  YES, SOMETHING WRITTEN IN          1.0         46               0.04
+2    YES, NOTHING WRITTEN IN          2.0         11               0.01
+3                         NO          3.0        797               0.65
+4                  NO ANSWER          4.0        361               0.29
+
+
+
+S203A.Qiii11A1 "TOMORROW THE WORLD" (CARTOONS)?
+                               answer_label answer_value raw_counts relative_frequency
+0                        NO CODE OR NO DATA          0.0          1                0.0
+1                   GETS TOO MUCH SPACE NOW          1.0         96               0.08
+2  GETS ABOUT THE RIGHT AMOUNT OF SPACE NOW          2.0        555               0.45
+3                     SHOULD GET MORE SPACE          3.0        146               0.12
+4                                 UNDECIDED          4.0        112               0.09
+5                                 NO ANSWER          5.0        319               0.26
+
+
+
+S203A.Qiii11A2 "GI HUDDLE"?
+                               answer_label answer_value raw_counts relative_frequency
+0                        NO CODE OR NO DATA          0.0          1                0.0
+1                   GETS TOO MUCH SPACE NOW          1.0        105               0.09
+2  GETS ABOUT THE RIGHT AMOUNT OF SPACE NOW          2.0        583               0.47
+3                     SHOULD GET MORE SPACE          3.0        113               0.09
+4                                 UNDECIDED          4.0        106               0.09
+5                                 NO ANSWER          5.0        321               0.26
+
+
+
+S203A.Qiii11A3 "HEPCATS AND BOOKWORMS"?
+                               answer_label answer_value raw_counts relative_frequency
+0                        NO CODE OR NO DATA          0.0          1                0.0
+1                   GETS TOO MUCH SPACE NOW          1.0        316               0.26
+2  GETS ABOUT THE RIGHT AMOUNT OF SPACE NOW          2.0        370                0.3
+3                     SHOULD GET MORE SPACE          3.0         60               0.05
+4                                 UNDECIDED          4.0        150               0.12
+5                                 NO ANSWER          5.0        332               0.27
+
+
+
+S203A.Qiii11A4 "MAIN STREET"?
+                               answer_label answer_value raw_counts relative_frequency
+0                        NO CODE OR NO DATA          0.0          1                0.0
+1                   GETS TOO MUCH SPACE NOW          1.0        107               0.09
+2  GETS ABOUT THE RIGHT AMOUNT OF SPACE NOW          2.0        507               0.41
+3                     SHOULD GET MORE SPACE          3.0        117                0.1
+4                                 UNDECIDED          4.0        145               0.12
+5                                 NO ANSWER          5.0        352               0.29
+
+
+
+S203A.Qiii11A5 ARTICLES ABOUT NEW DEVELOPMENTS IN INDUSTRY?
+                               answer_label answer_value raw_counts relative_frequency
+0                        NO CODE OR NO DATA          0.0          2                0.0
+1                   GETS TOO MUCH SPACE NOW          1.0        121                0.1
+2  GETS ABOUT THE RIGHT AMOUNT OF SPACE NOW          2.0        446               0.36
+3                     SHOULD GET MORE SPACE          3.0        211               0.17
+4                                 UNDECIDED          4.0        126                0.1
+5                                 NO ANSWER          5.0        323               0.26
+
+
+
+S203A.Qiii11A6 ARTICLES ABOUT FARMING?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0        333               0.27
+1                   GETS TOO MUCH SPACE NOW          1.0        218               0.18
+2  GETS ABOUT THE RIGHT AMOUNT OF SPACE NOW          2.0        409               0.33
+3                     SHOULD GET MORE SPACE          3.0        101               0.08
+4                                 UNDECIDED          4.0        168               0.14
+
+
+
+S203A.Qiii11A7 ARTICLES ABOUT WHAT PEOPLE ARE DOING ON THE HOME FRONT?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0        321               0.26
+1                   GETS TOO MUCH SPACE NOW          1.0         91               0.07
+2  GETS ABOUT THE RIGHT AMOUNT OF SPACE NOW          2.0        456               0.37
+3                     SHOULD GET MORE SPACE          3.0        263               0.21
+4                                 UNDECIDED          4.0         98               0.08
+
+
+
+S203A.Qiii11A8 ARTICLES ABOUT POST-WAR JOBS?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0        317               0.26
+1                   GETS TOO MUCH SPACE NOW          1.0        121                0.1
+2  GETS ABOUT THE RIGHT AMOUNT OF SPACE NOW          2.0        348               0.28
+3                     SHOULD GET MORE SPACE          3.0        337               0.27
+4                                 UNDECIDED          4.0        106               0.09
+
+
+
+S203A.Qiii11B ARE THERE ANY OTHER THINGS THAT YOU THINK SHOULD GET MORE SPACE THAN THEY GET AT PRESENT IN "TOMORROW"?
+                answer_label answer_value raw_counts relative_frequency
+0         NO CODE OR NO DATA          0.0          1                0.0
+1   NO, I CAN'T THINK OF ANY          1.0        807               0.66
+2  YES, SOMETHING WRITTEN IN          2.0         57               0.05
+3    YES, NOTHING WRITTEN IN          3.0          3                0.0
+4                  NO ANSWER          4.0        361               0.29
+
+
+
+S203A.Qiii11C HOW ABOUT PICTURES - WOULD YOU LIKE "TOMORROW" TO CARRY MORE PICTURES IF IT MEANT CUTTING DOWN ON THE AMOUNT OF READING MATTER?
+                                                                   answer_label answer_value raw_counts relative_frequency
+0                                                            NO CODE OR NO DATA          0.0          1                0.0
+1                                             YES, THE MORE PICTURES THE BETTER          1.0        268               0.22
+2  YES, A FEW MORE PICTURES, BUT THERE STILL SHOULD BE PLENTY OF READING MATTER          2.0        269               0.22
+3                             NO, IT HAS ABOUT THE RIGHT AMOUNT OF PICTURES NOW          3.0        370                0.3
+4                     NO, IT SHOULD HAVE FEWER PICTURES AND MORE READING MATTER          4.0         66               0.05
+5                                                                     NO ANSWER          5.0        255               0.21
+
+
+
+S203A.Qiii12 EVERYTHING CONSIDERED, HOW WOULD YOU RATE "TOMORROW"?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0        194               0.16
+1                      EXCELLENT          1.0        131               0.11
+2                           GOOD          2.0        417               0.34
+3                           FAIR          3.0        271               0.22
+4                    NOT SO GOOD          4.0         41               0.03
+5                     QUITE POOR          5.0         16               0.01
+6  HAVEN'T READ IT ENOUGH TO SAY          6.0        159               0.13
+
+
+
+S203A.Qiii13A IN YOUR OPINION WHAT IS THE MAIN PURPOSE OF "TOMORROW?
+                                                              answer_label answer_value raw_counts relative_frequency
+0                                                                NO ANSWER          0.0        231               0.19
+1                                                         HAVEN'T ANY IDEA          1.0        183               0.15
+2                TO FURNISH SOLDIERS WITH USEFUL AND IMPORTANT INFORMATION          2.0        561               0.46
+3  TO TRY TO GET SOLDIERS TO BELIEVE THINGS THE ARMY WANTS THEM TO BELIEVE          3.0         52               0.04
+4                     TO FURNISH SOLDIERS WITH ENTERTAINING READING MATTER          4.0        172               0.14
+5                                                           SOMETHING ELSE          5.0         30               0.02
+
+
+
+S203A.Qiii13B DO YOU THINK "TOMORROW" HAS ANY OTHER PURPOSE IN ADDITION TO THE ONE YOU CHECKED AS THE MAIN PURPOSE?
+                answer_label answer_value raw_counts relative_frequency
+0         NO CODE OR NO DATA          0.0          4                0.0
+1           HAVEN'T ANY IDEA          1.0        393               0.32
+2                         NO          2.0        477               0.39
+3  YES, SOMETHING WRITTEN IN          3.0         83               0.07
+4    YES, NOTHING WRITTEN IN          4.0          2                0.0
+5                  NO ANSWER          5.0        270               0.22
+
+
+
+S203A.Qiii14 HAVE YOU BEEN IN ACTUAL COMBAT IN THIS WAR?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          4                0.0
+1                 YES          1.0        705               0.57
+2                  NO          2.0        377               0.31
+3           NO ANSWER          3.0        143               0.12
+
+
+
+S203A.Qiii15 WHAT BRANCH OF THE ARMY ARE YOU IN NOW?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0         49               0.04
+1                           ENGINEERS          1.0        108               0.09
+2                     FIELD ARTILLERY          2.0         20               0.02
+3                 QUARTERMASTER CORPS          3.0         58               0.05
+4                            INFANTRY          4.0        549               0.45
+5                  MEDICAL DEPARTMENT          5.0         54               0.04
+6                       ARMORED FORCE          6.0         31               0.03
+7   COAST ARTILLERY AND ANTI-AIRCRAFT          7.0         10               0.01
+8                TRANSPORTATION CORPS          8.0          1                0.0
+9                 ORDNANCE DEPARTMENT          9.0         53               0.04
+10           CHEMICAL WARFARE SERVICE         10.0          1                0.0
+11                    MILITARY POLICE         11.0         29               0.02
+12                       SIGNAL CORPS         12.0         28               0.02
+13                          AIR CORPS         13.0        198               0.16
+14                              OTHER         14.0         40               0.03
+
+
+
+S203A.Viii16 LIST OF EDITORIALS SENT TO THE FIELD:
+                                                                           answer_label answer_value raw_counts relative_frequency
+0                                                                    NO CODE OR NO DATA          0.0          1                0.0
+1                      THOSE NAZI WELCOMES, NOVEMBER 2; A WORD TO THE WORLD, JANUARY 12          1.0        159               0.13
+2               THE MAN ON THE STREET, NOVEMBER 10; CHECK LIST FOR OFFICERS, JANUARY 13          2.0        152               0.12
+3                WE ARE MONGRELS, NOVEMBER 17; NOTES ON TRENCH FOOT TYPE II, JANUARY 19          3.0        154               0.13
+4  NO PURPLE HEART FOR PURPLE FEET, DECEMBER 6; HOME FOLKS KNOW A WAR IS ON, JANUARY 22          4.0        154               0.13
+5                  STRETCH THAT RUBBER, DECEMBER 8; SUBJECT: YOUR INTEGRITY, JANUARY 27          5.0        157               0.13
+6           LETS LOOK AT THE RECORD, DECEMBER 14; BREAD, BULLETS AND BELIEF, JANUARY 29          6.0        163               0.13
+7                                        HOME SWEET HOME, DECEMBER 17; AMEN, JANUARY 29          7.0        153               0.12
+8                                                 GREEK PAPERS PLEASE COPY, DECEMBER 28          8.0         66               0.05
+9                                                        A TOOT ON THE BRASS, JANUARY 6          9.0         70               0.06
+
+
+

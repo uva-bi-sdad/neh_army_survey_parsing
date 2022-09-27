@@ -1,0 +1,888 @@
+S170.Q1 WHAT IS YOUR ARMY RANK OR GRADE?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0         21               0.01
+1                              PRIVATE          1.0        251               0.17
+2                  PRIVATE FIRST CLASS          2.0        275               0.19
+3        TECHNICIAN 5TH GRADE CORPORAL          3.0        376               0.26
+4        TECHNICIAN 4TH GRADE SERGEANT          4.0        290                0.2
+5  TECHNICIAN 3RD GRADE STAFF SERGEANT          5.0        170               0.12
+6                  TECHNICIAN SERGEANT          6.0         49               0.03
+7    MASTER SERGEANT OR FIRST SERGEANT          7.0         37               0.03
+
+
+
+S170.Q2 HOW OLD WERE YOU ON YOUR LAST BIRTHDAY?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0         23               0.02
+1    18 YEARS OR LESS          1.0          2                0.0
+2            19 YEARS          2.0         39               0.03
+3            20 YEARS          3.0        118               0.08
+4            21 YEARS          4.0        173               0.12
+5            22 YEARS          5.0        147                0.1
+6            23 YEARS          6.0        155               0.11
+7            24 YEARS          7.0        117               0.08
+8            25 YEARS          8.0         86               0.06
+9         26-29 YEARS          9.0        283               0.19
+10        30-34 YEARS         10.0        200               0.14
+11  35 YEARS AND OVER         11.0        126               0.09
+
+
+
+S170.Q3 HOW FAR DID YOU GO IN SCHOOL?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0         22               0.01
+1                  LESS THAN 6TH GRADE          1.0         49               0.03
+2                   FINISHED 6TH GRADE          2.0         39               0.03
+3                   FINISHED 7TH GRADE          3.0         62               0.04
+4                   FINISHED 8TH GRADE          4.0        160               0.11
+5  SOME HIGH SCHOOL BUT DID NOT FINISH          5.0        391               0.27
+6           GRADUATED FROM HIGH SCHOOL          6.0        479               0.33
+7      SOME COLLEGE BUT DID NOT FINISH          7.0        221               0.15
+8               GRADUATED FROM COLLEGE          8.0         46               0.03
+
+
+
+S170.Q4 IN WHAT STATE OF THE UNITED STATES DID YOU SPEND MOST OF THE LAST FIVE YEARS OF YOUR CIVILIAN LIFE BEFORE YOU CAME INTO THE ARMY?
+                                                                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                                      NO ANSWER OR U.S., BUT NO STATE NAMED          0.0         33               0.02
+1                                       NEW ENGLAND: CONNECTICUT, MAINE, MASSACHUSETTS, NEW HAMPSHIRE, RHODE ISLAND, VERMONT          1.0        108               0.07
+2                                                                        MIDDLE ATLANTIC: NEW JERSEY, NEW YORK, PENNSYLVANIA          2.0        336               0.23
+3                                                           EAST NORTH CENTRAL: ILLINOIS, INDIANA, MICHIGAN, OHIO, WISCONSIN          3.0        291                0.2
+4                                WEST NORTH CENTRAL: IOWA, KANSAS, MINNESOTA, MISSOURI, NEBRASKA, NORTH DAKOTA, SOUTH DAKOTA          4.0        135               0.09
+5   SOUTH ATLANTIC: DELAWARE, DISTRICT OF COLUMBIA, FLORIDA, GEORGIA, MARYLAND, NORTH CAROLINA, SOUTH CAROLINA, VIRGINIA, WE          5.0        171               0.12
+6                                                              EAST SOUTH CENTRAL: ALABAMA, KENTUCKY, MISSISSIPPI, TENNESSEE          6.0        106               0.07
+7                                                                   WEST SOUTH CENTRAL: ARKANSAS, LOUISIANA, OKLAHOMA, TEXAS          7.0        141                0.1
+8                                             MOUNTAIN: ARIZONA, COLORADO, IDAHO, MONTANA, NEVADA, NEW MEXICO, UTAH, WYOMING          8.0         37               0.03
+9                                                                                    PACIFIC: CALIFORNIA, OREGON, WASHINGTON          9.0        110               0.07
+10                                                                                                         FOREIGN, NOT U.S.         11.0          1                0.0
+
+
+
+S170.Q5 WHERE WERE YOU LIVING MOST OF THE LAST FIVE YEARS OF YOUR CIVILIAN LIFE BEFORE YOU CAME INTO THE ARMY?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                         NO ANSWER          0.0         23               0.02
+1                       ON A FARM OR IN THE COUNTRY          1.0        199               0.14
+2         IN A SMALL TOWN (FEWER THAN 2,500 PEOPLE)          2.0        142                0.1
+3  IN A TOWN (WITH BETWEEN 2,500 AND 25,000 PEOPLE)          3.0        297                0.2
+4     IN A CITY (BETWEEN 25,000 AND 100,000 PEOPLE)          4.0        320               0.22
+5        IN A LARGE CITY (MORE THAN 100,000 PEOPLE)          5.0        488               0.33
+
+
+
+S170.Q6 ARE YOU:
+            answer_label answer_value raw_counts relative_frequency
+0              NO ANSWER          0.0          8               0.01
+1                 SINGLE          1.0        931               0.63
+2                MARRIED          2.0        486               0.33
+3  DIVORCED OR SEPARATED          3.0         41               0.03
+4                WIDOWED          4.0          3                0.0
+
+
+
+S170.Q7 WERE YOU MARRIED BEFORE OR AFTER ENTERING THE ARMY?
+                       answer_label answer_value raw_counts relative_frequency
+0                         NO ANSWER          0.0         10               0.01
+1                   I'M NOT MARRIED          1.0        975               0.66
+2  MARRIED BEFORE ENTERING THE ARMY          2.0        345               0.23
+3   MARRIED AFTER ENTERING THE ARMY          3.0        139               0.09
+
+
+
+S170.Q8 HOW MANY CHILDREN DO YOU HAVE?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         21               0.01
+1              I'M NOT MARRIED          1.0        925               0.63
+2             HAVE NO CHILDREN          2.0        315               0.21
+3               HAVE ONE CHILD          3.0        156               0.11
+4            HAVE TWO CHILDREN          4.0         44               0.03
+5  HAVE THREE OR MORE CHILDREN          5.0          8               0.01
+
+
+
+S170.Q9 HOW DID YOU COME INTO THE ARMY?
+                  answer_label answer_value raw_counts relative_frequency
+0                    NO ANSWER          0.0         12               0.01
+1                I WAS DRAFTED          1.0       1076               0.73
+2                I VOLUNTEERED          2.0        368               0.25
+3  I WAS IN THE NATIONAL GUARD          3.0         12               0.01
+4     OTHER \(ERC, RAR, ROTC\)          4.0          1                0.0
+
+
+
+S170.Q10 HOW LONG HAVE YOU BEEN IN THE ARMY? P. IF YOU HAVE BEEN IN THE ARMY BEFORE, THEN WERE OUT FOR A WHILE, JUST CHECK THE LENGTH OF TIME SINCE YOU ENTERED THIS LAST TIME. IF YOU WERE IN THE NATIONAL GUARD, CHECK THE LENGTH OF TIME SINCE YOUR OUTFIT CAME INTO
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0         13               0.01
+1           6 MONTHS OR LESS          1.0          1                0.0
+2  OVER 6 MONTHS TO 9 MONTHS          2.0          5                0.0
+3    OVER 9 MONTHS TO 1 YEAR          3.0         17               0.01
+4     OVER 1 YEAR TO 2 YEARS          4.0        720               0.49
+5    OVER 2 YEARS TO 3 YEARS          5.0        535               0.36
+6               OVER 3 YEARS          6.0        178               0.12
+
+
+
+S170.Q11 HOW LONG HAVE YOU BEEN IN THE C-B-I THEATER?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0         13               0.01
+1           3 MONTHS OR LESS          1.0         84               0.06
+2  OVER 3 MONTHS TO 6 MONTHS          2.0        248               0.17
+3  OVER 6 MONTHS TO 9 MONTHS          3.0        408               0.28
+4    OVER 9 MONTHS TO 1 YEAR          4.0        327               0.22
+5   OVER 1 YEAR TO 18 MONTHS          5.0        282               0.19
+6             OVER 18 MONTHS          6.0        107               0.07
+
+
+
+S170.Q12 HOW LONG HAVE YOU BEEN STATIONED AT THIS PARTICULAR PLACE?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0         11               0.01
+1           3 MONTHS OR LESS          1.0        324               0.22
+2  OVER 3 MONTHS TO 6 MONTHS          2.0        326               0.22
+3  OVER 6 MONTHS TO 9 MONTHS          3.0        374               0.25
+4    OVER 9 MONTHS TO 1 YEAR          4.0        267               0.18
+5                OVER 1 YEAR          5.0        167               0.11
+
+
+
+S170.Q13 WHAT BRANCH OF THE ARMY ARE YOU IN NOW?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0          4                0.0
+1                           ENGINEERS          1.0        185               0.13
+2                     FIELD ARTILLERY          2.0          4                0.0
+3                 QUARTERMASTER CORPS          3.0        136               0.09
+4                            INFANTRY          4.0         38               0.03
+5                  MEDICAL DEPARTMENT          5.0         99               0.07
+6                       ARMORED FORCE          6.0          2                0.0
+7                        SIGNAL CORPS          7.0        136               0.09
+8                  FINANCE DEPARTMENT          8.0          6                0.0
+9   COAST ARTILLERY AND ANTI-AIRCRAFT          9.0         33               0.02
+10                          AIR CORPS         10.0        567               0.39
+11               TRANSPORTATION CORPS         11.0         70               0.05
+12                ORDNANCE DEPARTMENT         12.0        102               0.07
+13           CHEMICAL WARFARE SERVICE         13.0         10               0.01
+14                    MILITARY POLICE         14.0         35               0.02
+15                           D.E.M.L.         15.0         37               0.03
+16                            CAVALRY         16.0          4                0.0
+17                     OTHER (WHICH?)         17.0          1                0.0
+
+
+
+S170.Q14 HOW SATISFIED ARE YOU ABOUT BEING IN YOUR PRESENT ARMY JOB INSTEAD OF SOME OTHER ARMY JOB?
+                            answer_label answer_value raw_counts relative_frequency
+0                              NO ANSWER          0.0         23               0.02
+1                         VERY SATISFIED          1.0        326               0.22
+2                              SATISFIED          2.0        660               0.45
+3  IT DOES NOT MAKE ANY DIFFERENCE TO ME          3.0        170               0.12
+4                           DISSATISFIED          4.0        211               0.14
+5                      VERY DISSATISFIED          5.0         79               0.05
+
+
+
+S170.Q15 DO YOU FEEL PROUD OF YOUR COMPANY (BATTERY, SQUADRON, TROOP)?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0         22               0.01
+1    YES, VERY PROUD          1.0        484               0.33
+2  YES, FAIRLY PROUD          2.0        523               0.36
+3      NO, NOT PROUD          3.0        241               0.16
+4          UNDECIDED          4.0        199               0.14
+
+
+
+S170.Q16 IF IT WERE UP TO YOU, WHAT KIND OF AN OUTFIT WOULD YOU RATHER BE IN?
+                                  answer_label answer_value raw_counts relative_frequency
+0                                    NO ANSWER          0.0         52               0.04
+1                  IN A COMBAT OUTFIT OVERSEAS          1.0        336               0.23
+2              IN A NON-COMBAT OUTFIT OVERSEAS          2.0        288                0.2
+3  IN AN OUTFIT STATIONED IN THE UNITED STATES          3.0        793               0.54
+
+
+
+S170.Q17 HOW MANY OF YOUR COMPANY OFFICERS ARE THE KIND WHO ARE WILLING TO GO THROUGH ANYTHING THEY ASK THEIR MEN TO GO THROUGH?
+             answer_label answer_value raw_counts relative_frequency
+0               NO ANSWER          0.0         72               0.05
+1         ALL OF THEM ARE          1.0        153                0.1
+2        MOST OF THEM ARE          2.0        410               0.28
+3  ABOUT HALF OF THEM ARE          3.0        211               0.14
+4         FEW OF THEM ARE          4.0        498               0.34
+5        NONE OF THEM ARE          5.0        125               0.09
+
+
+
+S170.Q18 DO YOU FEEL THAT YOUR OFFICERS HAVE AN INTEREST IN YOUR PERSONAL PROBLEMS AND WELFARE?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0         42               0.03
+1   THEY HAVE A GREAT DEAL OF INTEREST          1.0        164               0.11
+2  THEY HAVE A FAIR AMOUNT OF INTEREST          2.0        604               0.41
+3        THEY DON'T HAVE MUCH INTEREST          3.0        472               0.32
+4         THEY HAVE NO INTEREST AT ALL          4.0        187               0.13
+
+
+
+S170.Q19 IF IT WERE UP TO YOU TO CHOOSE, DO YOU THINK YOU COULD DO MORE FOR YOUR COUNTRY AS A SOLDIER OR AS A WORKER IN A WAR JOB?
+      answer_label answer_value raw_counts relative_frequency
+0        NO ANSWER          0.0         27               0.02
+1     AS A SOLDIER          1.0        495               0.34
+2  AS A WAR WORKER          2.0        643               0.44
+3        UNDECIDED          3.0        304               0.21
+
+
+
+S170.Q20 ARE THE MESS FACILITIES AND FOOD IN YOUR OUTFIT AS GOOD AS THEY COULD BE UNDER PRESENT CIRCUMSTANCES?
+                       answer_label answer_value raw_counts relative_frequency
+0                         NO ANSWER          0.0         20               0.01
+1     YES, AS GOOD AS THEY COULD BE          1.0        552               0.38
+2  NO, NOT AS GOOD AS THEY COULD BE          2.0        790               0.54
+3                         UNDECIDED          3.0        107               0.07
+
+
+
+S170.Q21 IF YOU COULD DO WHAT YOU WANTED, WOULD YOU LIKE TO GO BACK TO SCHOOL OR COLLEGE AFTER THE WAR?
+                                                     answer_label answer_value raw_counts relative_frequency
+0                                                       NO ANSWER          0.0         31               0.02
+1  YES, I WOULD LIKE TO GO BACK TO FULL TIME SCHOOL AFTER THE WAR          1.0        312               0.21
+2  YES, I WOULD LIKE TO GO BACK TO PART TIME SCHOOL AFTER THE WAR          2.0        541               0.37
+3             NO, I DON'T CARE TO GO BACK TO SCHOOL AFTER THE WAR          3.0        585                0.4
+
+
+
+S170.Q22 REGARDLESS OF WHAT YOU WANT TO DO, DO YOU THINK YOU WILL ACTUALLY GO BACK TO SCHOOL OR COLLEGE AFTER THE WAR?
+                                               answer_label answer_value raw_counts relative_frequency
+0                                                 NO ANSWER          0.0         41               0.03
+1  YES, I THINK I WILL GO TO FULL TIME SCHOOL AFTER THE WAR          1.0        188               0.13
+2  YES, I THINK I WILL GO TO PART TIME SCHOOL AFTER THE WAR          2.0        450               0.31
+3       NO, I DON'T THINK I WILL GO TO SCHOOL AFTER THE WAR          3.0        790               0.54
+
+
+
+S170.Q23 HAVE YOU EVER HEARD OF THE LAW PASSED BY CONGRESS KNOWN AS THE G.I. BILL OF RIGHTS?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         56               0.04
+1          YES          1.0       1304               0.89
+2           NO          2.0        109               0.07
+
+
+
+S170.Q24A IF A MAN WAS LESS THAN TWENTY-FIVE YEARS OLD WHEN HE ENTERED THE ARMY, HE CAN GO BACK TO SCHOOL AFTER THE WAR AND THE GOVERNMENT WILL PAY THE FULL COST OF TUITION AND BOOKS UP TO $500 A YEAR.
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        107               0.07
+1          YES          1.0       1218               0.83
+2           NO          2.0        144                0.1
+
+
+
+S170.Q24B THE GOVERNMENT WILL PAY THE COST OF A COLLEGE EDUCATION FOR THE CHILDREN OF VETERANS OF THIS WAR.
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        149                0.1
+1          YES          1.0        119               0.08
+2           NO          2.0       1201               0.82
+
+
+
+S170.Q24C THE GOVERNMENT WILL HELP VETERANS SECURE LOANS IN ORDER TO BUILD HOMES, START SMALL BUSINESSES, OR EQUIP AND OPERATE FARMS.
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         94               0.06
+1          YES          1.0       1344               0.91
+2           NO          2.0         31               0.02
+
+
+
+S170.Q24D THE GOVERNMENT WILL GIVE FREE TO ANY SERVICEMAN THAT REQUESTS IT A SMALL PLOT OF GOVERNMENT-OWNED FARM LAND.
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        155               0.11
+1          YES          1.0        288                0.2
+2           NO          2.0       1026                0.7
+
+
+
+S170.Q24E MEN WHO RETURN TO SCHOOL OR COLLEGE UNDER THE PROVISIONS OF THE "G.I. BILL OF RIGHTS" WILL RECEIVE A MONTHLY ALLOWANCE TO HELP PAY THE COST OF LIVING EXPENSES.
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0        134               0.09
+1          YES          1.0       1127               0.77
+2           NO          2.0        208               0.14
+
+
+
+S170.Q25 IF THE GOVERNMENT WOULD PAY THE COST FOR YOU TO CONTINUE YOUR EDUCATION DO YOU THINK YOU WOULD GO BACK TO SCHOOL OR COLLEGE AFTER THE WAR?
+                                        answer_label answer_value raw_counts relative_frequency
+0                                          NO ANSWER          0.0         56               0.04
+1  YES, I WOULD GO TO FULL TIME SCHOOL AFTER THE WAR          1.0        304               0.21
+2  YES, I WOULD GO TO PART TIME SCHOOL AFTER THE WAR          2.0        519               0.35
+3         NO, I WOULD NOT GO TO SCHOOL AFTER THE WAR          3.0        590                0.4
+
+
+
+S170.Q26A ANN SHERIDAN SHOW?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0         36               0.02
+1        SAW IT AND LIKED IT          1.0        227               0.15
+2  SAW IT AND DIDN'T LIKE IT          2.0         64               0.04
+3       DID NOT SEE THE SHOW          3.0       1142               0.78
+
+
+
+S170.Q26B JOE E. BROWN?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0         40               0.03
+1        SAW IT AND LIKED IT          1.0        225               0.15
+2  SAW IT AND DIDN'T LIKE IT          2.0         15               0.01
+3       DID NOT SEE THE SHOW          3.0       1189               0.81
+
+
+
+S170.Q26C SWING PATROL ORCHESTRA?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0         48               0.03
+1        SAW IT AND LIKED IT          1.0        303               0.21
+2  SAW IT AND DIDN'T LIKE IT          2.0         11               0.01
+3       DID NOT SEE THE SHOW          3.0       1107               0.75
+
+
+
+S170.Q26D PAULETTE GODDARD SHOW?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0         41               0.03
+1        SAW IT AND LIKED IT          1.0        305               0.21
+2  SAW IT AND DIDN'T LIKE IT          2.0        102               0.07
+3       DID NOT SEE THE SHOW          3.0       1021                0.7
+
+
+
+S170.Q26E HEY ROOKIE (YARD BIRDS)?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0         45               0.03
+1        SAW IT AND LIKED IT          1.0        459               0.31
+2  SAW IT AND DIDN'T LIKE IT          2.0         16               0.01
+3       DID NOT SEE THE SHOW          3.0        949               0.65
+
+
+
+S170.Q27.1 SOME PEOPLE HAVE SAID THAT SEVERAL OF THE SHOWS LISTED ABOVE HAD REMARKS THAT WERE DIRTY OR IMMORAL. DO YOU PERSONALLY THINK THAT ANY OF THESE SHOWS WERE TOO DIRTY?
+  answer_label answer_value raw_counts relative_frequency
+0           NO          1.0        786               0.54
+1   NOT CHOSEN          2.0        683               0.46
+
+
+
+S170.Q27.2SOME PEOPLE HAVE SAID THAT SEVERAL OF THE SHOWS LISTED ABOVE HAD REMARKS THAT WERE DIRTY OR IMMORAL. DO YOU PERSONALLY THINK THAT ANY OF THESE SHOWS WERE TOO DIRTY?
+             answer_label answer_value raw_counts relative_frequency
+0  YES, ANN SHERIDAN SHOW          1.0         14               0.01
+1              NOT CHOSEN          2.0       1455               0.99
+
+
+
+S170.Q27.3SOME PEOPLE HAVE SAID THAT SEVERAL OF THE SHOWS LISTED ABOVE HAD REMARKS THAT WERE DIRTY OR IMMORAL. DO YOU PERSONALLY THINK THAT ANY OF THESE SHOWS WERE TOO DIRTY?
+        answer_label answer_value raw_counts relative_frequency
+0  YES, JOE E. BROWN          1.0          7                0.0
+1         NOT CHOSEN          2.0       1462                1.0
+
+
+
+S170.Q27.4SOME PEOPLE HAVE SAID THAT SEVERAL OF THE SHOWS LISTED ABOVE HAD REMARKS THAT WERE DIRTY OR IMMORAL. DO YOU PERSONALLY THINK THAT ANY OF THESE SHOWS WERE TOO DIRTY?
+                  answer_label answer_value raw_counts relative_frequency
+0  YES, SWING PATROL ORCHESTRA          1.0          3                0.0
+1                   NOT CHOSEN          2.0       1466                1.0
+
+
+
+S170.Q27.5SOME PEOPLE HAVE SAID THAT SEVERAL OF THE SHOWS LISTED ABOVE HAD REMARKS THAT WERE DIRTY OR IMMORAL. DO YOU PERSONALLY THINK THAT ANY OF THESE SHOWS WERE TOO DIRTY?
+                 answer_label answer_value raw_counts relative_frequency
+0  YES, PAULETTE GODDARD SHOW          1.0         14               0.01
+1                  NOT CHOSEN          2.0       1455               0.99
+
+
+
+S170.Q27.6SOME PEOPLE HAVE SAID THAT SEVERAL OF THE SHOWS LISTED ABOVE HAD REMARKS THAT WERE DIRTY OR IMMORAL. DO YOU PERSONALLY THINK THAT ANY OF THESE SHOWS WERE TOO DIRTY?
+                     answer_label answer_value raw_counts relative_frequency
+0  YES, HEY ROOKIE \(YARD BIRDS\)          1.0          6                0.0
+1                      NOT CHOSEN          2.0       1463                1.0
+
+
+
+S170.Q27.7SOME PEOPLE HAVE SAID THAT SEVERAL OF THE SHOWS LISTED ABOVE HAD REMARKS THAT WERE DIRTY OR IMMORAL. DO YOU PERSONALLY THINK THAT ANY OF THESE SHOWS WERE TOO DIRTY?
+                    answer_label answer_value raw_counts relative_frequency
+0  I DIDN'T SEE ANY OF THE SHOWS          1.0        547               0.37
+1                     NOT CHOSEN          2.0        922               0.63
+
+
+
+S170.Q27.8SOME PEOPLE HAVE SAID THAT SEVERAL OF THE SHOWS LISTED ABOVE HAD REMARKS THAT WERE DIRTY OR IMMORAL. DO YOU PERSONALLY THINK THAT ANY OF THESE SHOWS WERE TOO DIRTY?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          1.0        104               0.07
+1   NOT CHOSEN          2.0       1365               0.93
+
+
+
+S170.Q28 ONE OF THE JOBS OF THE RED CROSS IS TO HELP SOLDIERS WITH THEIR PERSONAL PROBLEMS BACK HOME. SINCE YOU HAVE BEEN IN C.B.I. HAVE YOU EVER GONE TO THE RED CROSS FOR HELP ON AN EMERGENCY PERSONAL OR FAMILY PROBLEM?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         22               0.01
+1          YES          1.0        119               0.08
+2           NO          2.0       1328                0.9
+
+
+
+S170.Q29 FROM WHAT YOU KNOW, HOW WELL DO YOU THINK THE RED CROSS IS HANDLING EMERGENCY PERSONAL AND FAMILY PROBLEMS?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0         38               0.03
+1      THEY ARE DOING A VERY GOOD JOB          1.0        292                0.2
+2    THEY ARE DOING A FAIRLY GOOD JOB          2.0        346               0.24
+3  THEY ARE NOT DOING SUCH A GOOD JOB          3.0        159               0.11
+4           THEY ARE DOING A POOR JOB          4.0        168               0.11
+5                           UNDECIDED          5.0        466               0.32
+
+
+
+S170.Q30 HOW GOOD A JOB DO YOU THINK THE RED CROSS CLUB YOU GO TO IS DOING IN PROVIDING OFF DUTY ENTERTAINMENT AND RECREATION FOR SOLDIERS?
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0         55               0.04
+1      THEY ARE DOING A VERY GOOD JOB          1.0        279               0.19
+2    THEY ARE DOING A PRETTY GOOD JOB          2.0        454               0.31
+3  THEY ARE NOT DOING SUCH A GOOD JOB          3.0        174               0.12
+4           THEY ARE DOING A POOR JOB          4.0        205               0.14
+5                           UNDECIDED          5.0        101               0.07
+6      I NEVER GO TO A RED CROSS CLUB          6.0        201               0.14
+
+
+
+S170.Q31 WHEN THE RED CROSS SENDS OUT WORKERS TO OPERATE A SERVICEMEN'S CLUB DO YOU THINK THEY SHOULD SEND:
+              answer_label answer_value raw_counts relative_frequency
+0                NO ANSWER          0.0         99               0.07
+1  SOME MEN AND SOME WOMEN          1.0        622               0.42
+2                  ALL MEN          2.0        130               0.09
+3                ALL WOMEN          3.0        618               0.42
+
+
+
+S170.Q32 HOW DO YOU THINK THE ENLISTED MEN'S SERVICE CLUBS SHOULD BE RUN?
+                                                                                           answer_label answer_value raw_counts relative_frequency
+0                                                                                             NO ANSWER          0.0        195               0.13
+1    HAVE THE RED CROSS IN CHARGE OF PLANNING THE PROGRAM AND RED CROSS WORKERS CARRY ON THE ACTIVITIES          1.0        631               0.43
+2  HAVE THE ARMY IN CHARGE OF PLANNING THE PROGRAM AND USE RED CROSS WORKERS TO CARRY ON THE ACTIVITIES          2.0        420               0.29
+3      HAVE THE ARMY IN CHARGE OF PLANNING THE PROGRAM AND USE ONLY SOLDIERS TO CARRY ON THE ACTIVITIES          3.0        223               0.15
+
+
+
+S170.Q33 MEN AND WOMEN RED CROSS WORKERS WHO VOLUNTEER FOR OVERSEAS SERVICE ARE TRANSPORTED OVERSEAS AND BACK AGAIN BY THE ARMY. WHEN RED CROSS WORKERS COME TO THE C-B-I THEATER HOW LONG DO YOU THINK THEY SHOULD STAY HERE BEFORE BEING ALLOWED TO GO HOME?
+                                           answer_label answer_value raw_counts relative_frequency
+0                                             NO ANSWER          0.0         88               0.06
+1  THEY SHOULD BE ALLOWED TO GO HOME WHENEVER THEY WISH          1.0        317               0.22
+2                                              6 MONTHS          2.0        118               0.08
+3                                                1 YEAR          3.0        361               0.25
+4                                             18 MONTHS          4.0        254               0.17
+5                                               2 YEARS          5.0        131               0.09
+6                               SOME OTHER IDEA (WHAT?)          6.0        200               0.14
+
+
+
+S170.Q34 HOW OFTEN DO YOU THINK THE RED CROSS GIRLS WORKING IN SERVICE CLUBS SHOULD BE CHANGED AROUND FROM ONE CLUB TO ANOTHER IN THE C-B-I THEATER?
+         answer_label answer_value raw_counts relative_frequency
+0           NO ANSWER          0.0         82               0.06
+1  EVERY THREE MONTHS          1.0        395               0.27
+2      EVERY 6 MONTHS          2.0        438                0.3
+3      EVERY 9 MONTHS          3.0         36               0.02
+4         ONCE A YEAR          4.0         70               0.05
+5               NEVER          5.0         50               0.03
+6          DON'T KNOW          6.0        398               0.27
+
+
+
+S170.Q35 HOW DO MOST OF THE RED CROSS GIRLS YOU KNOW ACT TOWARD ENLISTED MEN?
+                                              answer_label answer_value raw_counts relative_frequency
+0                                                NO ANSWER          0.0        151                0.1
+1  THEY TREAT US AS THOUGH WE WERE REALLY IMPORTANT PEOPLE          1.0        129               0.09
+2                            THEY TREAT US AS THEIR EQUALS          2.0        588                0.4
+3   THEY TREAT US AS THOUGH THEY WERE DOING US A BIG FAVOR          3.0        601               0.41
+
+
+
+S170.Q36 WHAT HAVE THE RED CROSS GIRLS WHOM YOU HAVE KNOWN HERE IN C-B-I DONE ABOUT DATES?
+                                     answer_label answer_value raw_counts relative_frequency
+0                                       NO ANSWER          0.0        327               0.22
+1              THEY HAVE DATES WITH OFFICERS ONLY          1.0        492               0.33
+2  THEY HAVE DATES WITH OFFICERS AND ENLISTED MEN          2.0        619               0.42
+3          THEY HAVE DATES WITH ENLISTED MEN ONLY          3.0         31               0.02
+
+
+
+S170.Q37 WHAT DO YOU THINK THE RED CROSS GIRLS SHOULD DO ABOUT DATES?
+                                            answer_label answer_value raw_counts relative_frequency
+0                                              NO ANSWER          0.0        173               0.12
+1              THEY SHOULD HAVE DATES WITH OFFICERS ONLY          1.0          7                0.0
+2  THEY SHOULD HAVE DATES WITH OFFICERS AND ENLISTED MEN          2.0        841               0.57
+3          THEY SHOULD HAVE DATES WITH ENLISTED MEN ONLY          3.0        448                0.3
+
+
+
+S170.Q38 WHEN THE RED CROSS CHOOSES GIRLS AND WOMEN TO WORK AT ENLISTED MEN'S SERVICE CLUBS, WHAT KIND OF GIRLS OR WOMEN SHOULD THEY CHOOSE?
+                                                                                  answer_label answer_value raw_counts relative_frequency
+0                                                                                    NO ANSWER          0.0        131               0.09
+1  THEY SHOULD CHOOSE THE SCHOOL-TEACHER TYPE WHO CAN GIVE HELP AND MOTHERLY ADVICE TO THE MEN          1.0        272               0.19
+2             THEY SHOULD CHOOSE THE ATTRACTIVE TYPE THAT THE MEN WILL WANT TO HAVE DATES WITH          2.0        550               0.37
+3                                                                       IT MAKES NO DIFFERENCE          3.0        516               0.35
+
+
+
+S170.Q39 WHICH KIND OF WOMEN RED CROSS WORKERS WOULD YOU MOST LIKE TO HAVE AT THE CLUBS?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0         72               0.05
+1      WOMEN OLDER THAN I AM          1.0        152                0.1
+2  WOMEN OF ABOUT MY OWN AGE          2.0        645               0.44
+3    WOMEN YOUNGER THAN I AM          3.0        112               0.08
+4     IT MAKES NO DIFFERENCE          4.0        488               0.33
+
+
+
+S170.Q40 IN CHOOSING ITS WOMEN CLUB-WORKERS SHOULD THE RED CROSS CHOOSE MOST OF THEM:
+                         answer_label answer_value raw_counts relative_frequency
+0                           NO ANSWER          0.0         70               0.05
+1            FROM AMONG SOCIETY GIRLS          1.0         37               0.03
+2  FROM AMONG GIRLS OF AVERAGE INCOME          2.0        815               0.55
+3       FROM AMONG GIRLS WHO ARE POOR          3.0         81               0.06
+4              IT MAKES NO DIFFERENCE          4.0        466               0.32
+
+
+
+S170.Q41 THE RED CROSS IS REQUESTED BY THE SECRETARY OF WAR TO MAKE SOME CHARGE FOR THE REFRESHMENTS SERVED IN ITS CANTEENS. THE PURPOSE OF THIS CHARGE IS TO COVER THE COST OF THE REFRESHMENTS AND THEIR PREPARATION; IT IS NOT FOR THE PURPOSE OF MAKING PROFIT. DO
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0        167               0.11
+1  MAKE A PROFIT ON REFRESHMENTS          1.0        392               0.27
+2     BREAK EVEN ON REFRESHMENTS          2.0        828               0.56
+3     LOSE MONEY ON REFRESHMENTS          3.0         82               0.06
+
+
+
+S170.Q42 CONSIDERING THAT THE RED CROSS MUST CHARGE SOMETHING FOR THE REFRESHMENTS SERVED, WHAT DO YOU THINK SHOULD BE THE POLICY?
+                                                  answer_label answer_value raw_counts relative_frequency
+0                                                    NO ANSWER          0.0         72               0.05
+1    THE MONEY TAKEN IN SHOULD MORE THAN COVER THE ACTUAL COST          1.0        314               0.21
+2   THE MONEY TAKEN IN SHOULD JUST ABOUT COVER THE ACTUAL COST          2.0        927               0.63
+3  THE MONEY TAKEN IN SHOULD ONLY PARTLY COVER THE ACTUAL COST          3.0        156               0.11
+
+
+
+S170.Q43 DO YOU THINK THE RED CROSS IN C-B-I TRIES TOO HARD TO GET ITS NAME BEFORE THE SOLDIER'S EYES ON ITS SIGNS, POSTERS, BOOKS, STATIONERY ETC.?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0         50               0.03
+1                            YES          1.0        222               0.15
+2                             NO          2.0        430               0.29
+3  I HAVE NEVER THOUGHT ABOUT IT          3.0        767               0.52
+
+
+
+S170.Q44 SUPPOSE YOUR FAMILY BACK HOME WROTE ASKING YOU WHETHER OR NOT THEY SHOULD GIVE MONEY TO THE RED CROSS THIS YEAR. ON THE BASIS OF YOUR EXPERIENCE WITH THE RED CROSS IN C-B-I, WHAT WOULD YOU TELL THEM?
+                     answer_label answer_value raw_counts relative_frequency
+0                       NO ANSWER          0.0         46               0.03
+1     YES, THEY SHOULD GIVE MONEY          1.0        585                0.4
+2  NO, THEY SHOULD NOT GIVE MONEY          2.0        485               0.33
+3                       UNDECIDED          3.0        353               0.24
+
+
+
+S170.Q45 A CLASS F FAMILY ALLOTMENT IS THE KIND WHERE THE SOLDIER HAS 22 DOLLARS TAKEN OUT OF HIS PAY EACH MONTH AND THEN THE GOVERNMENT ADDS SOMETHING TO IT AND SENDS THE MONEY TO HIS WIFE OR FAMILY BACK HOME. DO YOU HAVE A CLASS F ALLOTMENT NOW?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         35               0.02
+1          YES          1.0        676               0.46
+2           NO          2.0        758               0.52
+
+
+
+S170.Q46 A CLASS E ALLOTMENT IS THE KIND WHERE THE SOLDIER HAS SOME MONEY TAKEN OUT OF HIS PAY EACH MONTH, AND THE GOVERNMENT SENDS THAT EXACT AMOUNT OF MONEY DIRECTLY TO HIS FOLKS BACK HOME. DO YOU HAVE A CLASS E ALLOTMENT NOW?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         48               0.03
+1          YES          1.0        699               0.48
+2           NO          2.0        722               0.49
+
+
+
+S170.Q47 A CLASS B ALLOTMENT IS THE KIND WHERE THE SOLDIER HAS SOME MONEY TAKEN OUT OF HIS PAY EACH MONTH TO BUY WAR BONDS. DO YOU HAVE A CLASS B ALLOTMENT NOW?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0         43               0.03
+1          YES          1.0        289                0.2
+2           NO          2.0       1137               0.77
+
+
+
+S170.Q48 OUT OF THE CASH MONEY YOU GET IN YOUR ARMY PAY ENVELOPE EACH MONTH, DO YOU USUALLY SEND ANY OF IT HOME?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0         27               0.02
+1           I SEND SOME CASH HOME EVERY MONTH          1.0        306               0.21
+2  I SEND SOME CASH HOME, BUT NOT EVERY MONTH          2.0        742               0.51
+3        I DON'T SEND ANY OF MY CASH PAY HOME          3.0        394               0.27
+
+
+
+S170.Q49 IF YOU SEND ANY CASH HOME, WHAT METHOD DO YOU USUALLY USE TO SEND IT (CHECK THE ONE METHOD YOU HAVE USED MOST OFTEN)?
+                                      answer_label answer_value raw_counts relative_frequency
+0                                        NO ANSWER          0.0         36               0.02
+1             I DON'T SEND ANY OF MY CASH PAY HOME          1.0        394               0.27
+2                                      MONEY ORDER          2.0        963               0.66
+3  PTA (PERSONAL TRANSFER ACCOUNT RUN BY THE ARMY)          3.0         70               0.05
+4                        SOME OTHER METHOD (WHAT?)          4.0          6                0.0
+
+
+
+S170.Q50 OF ALL THE MONEY THAT GOES TO YOUR FAMILY EITHER FROM THE GOVERNMENT OR FROM YOUR ARMY PAY, (EITHER IN THE FORM OF ALLOTMENTS OR CASH) HOW MUCH OF IT IS USED FOR LIVING EXPENSES AND HOW MUCH IS PUT ASIDE AS SAVINGS?
+                                                     answer_label answer_value raw_counts relative_frequency
+0                                                       NO ANSWER          0.0         52               0.04
+1                           ALL OF IT IS USED FOR LIVING EXPENSES          1.0        299                0.2
+2  SOME OF IT IS USED FOR LIVING EXPENSES AND SOME OF IT IS SAVED          2.0        538               0.37
+3                                              ALL OF IT IS SAVED          3.0        452               0.31
+4                               I DON'T KNOW WHAT IS DONE WITH IT          4.0         87               0.06
+5             I HAVE NO ALLOTMENT AND I DON'T SEND ANY MONEY HOME          5.0         41               0.03
+
+
+
+S170.Q51 WHAT DO YOU THINK IS THE ONE BEST WAY FOR A SOLDIER TO MAKE SURE THAT HE WILL HAVE SOME SAVINGS FOR THE PERIOD AFTER THE WAR?
+                                 answer_label answer_value raw_counts relative_frequency
+0                                   NO ANSWER          0.0        123               0.08
+1               PUT MONEY IN A BANK BACK HOME          1.0        618               0.42
+2                               BUY WAR BONDS          2.0        394               0.27
+3  DEPOSIT MONEY WITH THE ARMY FINANCE OFFICE          3.0        257               0.17
+4                               BUY INSURANCE          4.0          8               0.01
+5                    SOME OTHER WAY \(WHAT?\)          5.0         69               0.05
+
+
+
+S170.Q52 SINCE YOU HAVE BEEN IN C-B-I, WHAT METHOD HAVE YOU USUALLY USED TO BUY WAR BONDS (CHECK THE ONE METHOD YOU HAVE USED MOST OFTEN)?
+                                                                     answer_label answer_value raw_counts relative_frequency
+0                                                                       NO ANSWER          0.0         73               0.05
+1                               I HAVE NOT BOUGHT ANY BONDS SINCE COMING TO C-B-I          1.0        817               0.56
+2                         ALLOTMENT (MONEY TAKEN OUT OF PAY EACH MONTH FOR BONDS)          2.0        411               0.28
+3     SEND MONEY BACK HOME AND HAVE SOMEONE IN THE UNITED STATES BUY BONDS FOR ME          3.0        155               0.11
+4  SEND A MONEY ORDER TO THE U.S. TREASURY WHENEVER I FEEL LIKE BUYING A WAR BOND          4.0         13               0.01
+
+
+
+S170.Q54 DO YOU CARRY LIFE INSURANCE?
+                                                          answer_label answer_value raw_counts relative_frequency
+0                                                            NO ANSWER          0.0         28               0.02
+1                           YES, I HAVE GOVERNMENT LIFE INSURANCE ONLY          1.0        626               0.43
+2                     YES, I HAVE OTHER (CIVILIAN) LIFE INSURANCE ONLY          2.0         26               0.02
+3  YES, I HAVE BOTH GOVERNMENT LIFE INSURANCE AND OTHER LIFE INSURANCE          3.0        778               0.53
+4                                  NO, I HAVE NO LIFE INSURANCE AT ALL          4.0         11               0.01
+
+
+
+S170.Q55 IF YOU DO NOT HAVE ANY LIFE INSURANCE AT ALL, WHAT IS YOUR MAIN REASON (CHECK THE ONE MOST IMPORTANT REASON WHY YOU DO NOT CARRY ANY LIFE INSURANCE)?
+                                                   answer_label answer_value raw_counts relative_frequency
+0                                              NO ANSWER CARD 2          0.0         31               0.02
+1                                    I HAVE SOME LIFE INSURANCE          1.0       1430               0.97
+2                                          IT'S TOO MUCH BOTHER          3.0          1                0.0
+3  I HAVE HAD DIFFICULTY IN GETTING AN INSURANCE ALLOTMENT MADE          4.0          3                0.0
+4                             SOME OTHER REASON \(WHAT IS IT?\)          5.0          4                0.0
+
+
+
+S170.Q56 HAVE YOU EVER OPENED A "SOLDIERS DEPOSIT" ACCOUNT AT THE ARMY FINANCE OFFICE UNDER THE SOLDIERS, "4% INTEREST ON DEPOSITS" PLAN?
+                                         answer_label answer_value raw_counts relative_frequency
+0                                           NO ANSWER          0.0         43               0.03
+1       YES, I HAVE A "SOLDIERS, DEPOSIT" ACCOUNT NOW          1.0        129               0.09
+2      YES, I HAD AN ACCOUNT, BUT I DON'T HAVE IT NOW          2.0         23               0.02
+3  NO, I HAVE NEVER HAD A "SOLDIERS, DEPOSIT" ACCOUNT          3.0       1274               0.87
+
+
+
+S170.Q57 IF YOU HAVE NEVER HAD A "SOLDIERS, DEPOSIT" ACCOUNT WHICH PAYS 4% INTEREST AT THE FINANCE OFFICE, IS IT MAINLY BECAUSE (CHECK ONLY THE ONE MOST IMPORTANT REASON):
+                                                            answer_label answer_value raw_counts relative_frequency
+0                                                              NO ANSWER          0.0        121               0.08
+1                   I HAVE MADE SOLDIERS, DEPOSITS AT THE FINANCE OFFICE          1.0        153                0.1
+2                       YOU DON'T KNOW ENOUGH ABOUT THIS MEANS OF SAVING          2.0        330               0.22
+3                              YOU FEEL THERE ARE BETTER MEANS OF SAVING          3.0        278               0.19
+4                        YOU ARE NOT INTERESTED IN SAVING WHILE OVERSEAS          4.0         68               0.05
+5                            YOU FEEL THERE'S TOO MUCH RED TAPE INVOLVED          5.0        132               0.09
+6  YOU AREN'T SATISFIED WITH THE MANNER IN WHICH WITHDRAWALS CAN BE MADE          6.0        149                0.1
+7                                                  HAVE NO MONEY TO SAVE          7.0        143                0.1
+8                                        SOME OTHER REASON (WHAT IS IT?)          8.0         95               0.06
+
+
+
+S170.Q58 WHICH ONE OF THESE FEATURES IN THE C-B-I ROUND UP DO YOU LIKE BEST?
+                                            answer_label answer_value raw_counts relative_frequency
+0                                              NO ANSWER          0.0         99               0.07
+1                BROADWAY AT VINE (ENTERTAINMENT COLUMN)          1.0        210               0.14
+2                  WAR WARMED OVER (BACK PAGE EDITORIAL)          2.0        394               0.27
+3  QUIRKS IN THE NEWS (PEOPLE ARE MORE FUN THAN ANYBODY)          3.0        245               0.17
+4                  "CHEESECAKE" ("PIN-UP" GIRL PICTURES)          4.0        246               0.17
+5                                          SPORTS COLUMN          5.0        251               0.17
+6                    I HAVE NEVER SEEN THE C-B-I ROUNDUP          6.0         24               0.02
+
+
+
+S170.Q59 THE PRESENT POLICY OF C-B-I ROUNDUP IS TO PRINT "CHEESECAKE" ("PIN-UP" GIRL PICTURES) IN EACH ISSUE. IF IT WERE UP TO YOU TO DECIDE, HOW MANY "PIN-UP" PICTURES WOULD YOU PRINT?
+                                                                answer_label answer_value raw_counts relative_frequency
+0                                                                  NO ANSWER          0.0         67               0.05
+1           I WOULD PRINT LESS "PIN-UP" PICTURES THAN THE ROUNDUP NOW PRINTS          1.0        125               0.09
+2  I WOULD PRINT THE SAME NUMBER OF "PIN-UP" PICTURES THE ROUNDUP NOW PRINTS          2.0        810               0.55
+3           I WOULD PRINT MORE "PIN-UP" PICTURES THAN THE ROUNDUP NOW PRINTS          3.0        443                0.3
+4                                        I HAVE NEVER SEEN THE C-B-I ROUNDUP          4.0         24               0.02
+
+
+
+S170.Q60 DO YOU THINK THAT THE "PIN-UP" PICTURES IN THE C-B-I ROUNDUP SHOULD BE:
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0         68               0.05
+1        LESS "SEXY" THAN THEY ARE NOW          1.0         88               0.06
+2       ABOUT THE SAME AS THEY ARE NOW          2.0        947               0.64
+3        MORE "SEXY" THAN THEY ARE NOW          3.0        342               0.23
+4  I HAVE NEVER SEEN THE C-B-I ROUNDUP          4.0         24               0.02
+
+
+
+S170.Q61 ABOUT HOW OFTEN DO YOU READ "YANK" MAGAZINE?
+                    answer_label answer_value raw_counts relative_frequency
+0                      NO ANSWER          0.0         59               0.04
+1  PRACTICALLY NEVER READ "YANK"          1.0         58               0.04
+2         LESS THAN ONCE A MONTH          2.0         67               0.05
+3             ABOUT ONCE A MONTH          3.0        253               0.17
+4     TWO OR THREE TIMES A MONTH          4.0        436                0.3
+5                     EVERY WEEK          5.0        596               0.41
+
+
+
+S170.Q62 HOW DO YOU USUALLY GET "YANK" MAGAZINE?
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0         61               0.04
+1    I SUBSCRIBE TO IT MYSELF          1.0         53               0.04
+2          I BUY IT AT THE PX          2.0        799               0.54
+3  I READ SOMEONE ELSE'S COPY          3.0        454               0.31
+4               OTHER (WHAT?)          4.0         84               0.06
+5         I DON'T READ "YANK"          5.0         18               0.01
+
+
+
+S170.Q66 "YANK" MAGAZINE SOMETIMES HAS ARTICLES ON WHAT THE ENEMY IS DOING ON SOME IMPORTANT FRONT AND THE PLANS OF THE ALLIES FOR DEFEATING THEM. HOW OFTEN DO YOU THINK "YANK" SHOULD HAVE AN ARTICLE LIKE THIS?
+                      answer_label answer_value raw_counts relative_frequency
+0                        NO ANSWER          0.0         83               0.06
+1                 EVERY WEEK OR SO          1.0        805               0.55
+2               ABOUT ONCE A MONTH          2.0        382               0.26
+3  ABOUT EVERY TWO OR THREE MONTHS          3.0         65               0.04
+4                PRACTICALLY NEVER          4.0        134               0.09
+
+
+
+S170.Q67 "YANK" MAGAZINE SOMETIMES HAS ARTICLES ON SERIOUS SUBJECTS LIKE WHY WE ARE FIGHTING THIS WAR, HOW SCIENCE IS CONTRIBUTING TO THE WAR, WHAT KINDS OF WEAPONS THE ENEMY USES, AND OTHER TOPICS OF THAT SORT. HOW MUCH OF "YANK" SHOULD HAVE ARTICLES OF THIS SOR
+                            answer_label answer_value raw_counts relative_frequency
+0                              NO ANSWER          0.0         88               0.06
+1  ALMOST ALL SHOULD BE SERIOUS ARTICLES          1.0        167               0.11
+2                    ABOUT THREE-FOURTHS          2.0        108               0.07
+3                             ABOUT HALF          3.0        566               0.39
+4                          JUST A LITTLE          4.0        488               0.33
+5                       PRACTICALLY NONE          5.0         52               0.04
+
+
+
+S170.Q68 HOW MUCH OF "YANK" MAGAZINE SHOULD HAVE LIGHT AND AMUSING STUFF?
+                                   answer_label answer_value raw_counts relative_frequency
+0                                     NO ANSWER          0.0         93               0.06
+1  ALMOST ALL SHOULD BE LIGHT AND AMUSING STUFF          1.0        147                0.1
+2                           ABOUT THREE-FOURTHS          2.0        158               0.11
+3                                    ABOUT HALF          3.0        757               0.52
+4                                 JUST A LITTLE          4.0        297                0.2
+5                              PRACTICALLY NONE          5.0         17               0.01
+
+
+
+S170.Q69 "YANK" MAGAZINE SOMETIMES HAS AN ARTICLE TELLING ALL ABOUT WHAT HAPPENED TO A PARTICULAR UNIT OF SOLDIERS IN A BIG BATTLE IN THIS THEATER. HOW OFTEN DO YOU THINK "YANK" SHOULD HAVE AN ARTICLE LIKE THIS?
+                      answer_label answer_value raw_counts relative_frequency
+0                        NO ANSWER          0.0         90               0.06
+1                 EVERY WEEK OR SO          1.0        619               0.42
+2               ABOUT ONCE A MONTH          2.0        521               0.35
+3  ABOUT EVERY TWO OR THREE MONTHS          3.0        157               0.11
+4                PRACTICALLY NEVER          4.0         82               0.06
+
+
+
+S170.Q70 HOW OFTEN SHOULD "YANK" MAGAZINE HAVE AN ARTICLE TELLING ABOUT VARIOUS PLANS FOR THE POST-WAR WORLD?
+                     answer_label answer_value raw_counts relative_frequency
+0                       NO ANSWER          0.0         86               0.06
+1                EVERY WEEK OR SO          1.0        615               0.42
+2              ABOUT ONCE A MONTH          2.0        513               0.35
+3  ABOUT ONCE EVERY 2 OR 3 MONTHS          3.0        182               0.12
+4               PRACTICALLY NEVER          4.0         73               0.05
+
+
+
+S170.Q71 DO YOU THINK "YANK" MAGAZINE SHOULD CARRY A LOT OF SPORTS NEWS?
+                                                answer_label answer_value raw_counts relative_frequency
+0                                                  NO ANSWER          0.0         80               0.05
+1               YES, IT SHOULD CARRY ALL THE BIG SPORTS NEWS          1.0        515               0.35
+2    YES, IT SHOULD CARRY QUITE A BIT OF THE BIG SPORTS NEWS          2.0        492               0.33
+3  NO, THE RADIO AND THE NEWSPAPERS CARRY ENOUGH SPORTS NEWS          3.0        201               0.14
+4               NO, I AM NOT ESPECIALLY INTERESTED IN SPORTS          4.0        181               0.12
+
+
+
+S170.Q72 WHICH ONE OF THE FOLLOWING TWO KINDS OF SPORTS NEWS WOULD YOU RATHER READ IN "YANK" MAGAZINE?
+                                  answer_label answer_value raw_counts relative_frequency
+0                                    NO ANSWER          0.0        136               0.09
+1  BIG TIME SPORTS EVENTS IN THE UNITED STATES          1.0       1164               0.79
+2           ARMY SPORTS EVENTS IN THIS THEATER          2.0        169               0.12
+
+
+
+S170.Q73 WHICH ONE OF THE FOLLOWING TWO KINDS OF SPORTS NEWS WOULD YOU RATHER READ IN "YANK" MAGAZINE?
+                              answer_label answer_value raw_counts relative_frequency
+0                                NO ANSWER          0.0        168               0.11
+1       ARMY SPORTS EVENTS IN THIS THEATER          1.0        558               0.38
+2  FAMOUS ATHLETES NOW IN THE ARMED FORCES          2.0        743               0.51
+
+
+
+S170.Q74 WHICH ONE OF THE FOLLOWING TWO KINDS OF SPORTS NEWS WOULD YOU RATHER READ IN "YANK" MAGAZINE?
+                                  answer_label answer_value raw_counts relative_frequency
+0                                    NO ANSWER          0.0        152                0.1
+1      FAMOUS ATHLETES NOW IN THE ARMED FORCES          1.0        285               0.19
+2  BIG TIME SPORTS EVENTS IN THE UNITED STATES          2.0       1032                0.7
+
+
+
+S170.Q75 WHICH ONE OF THE FOLLOWING ARTICLES WOULD YOU RATHER READ IN "YANK" MAGAZINE?
+                                  answer_label answer_value raw_counts relative_frequency
+0                                    NO ANSWER          0.0        117               0.08
+1        HOW GI'S LIVE UNDER BATTLE CONDITIONS          1.0        837               0.57
+2  NEW "WONDER DRUGS" THAT ARE CURING DISEASES          2.0        515               0.35
+
+
+
+S170.Q76 WHICH ONE OF THE FOLLOWING ARTICLES WOULD YOU RATHER READ IN "YANK" MAGAZINE?
+                                                    answer_label answer_value raw_counts relative_frequency
+0                                                      NO ANSWER          0.0         97               0.07
+1  HOW FARMERS IN THE U.S. ARE GETTING ALONG WITH SO FEW HELPERS          1.0        207               0.14
+2                               THE INVASION OF A PACIFIC ISLAND          2.0       1165               0.79
+
+
+
+S170.Q77 WHICH ONE OF THE FOLLOWING ARTICLES WOULD YOU RATHER READ IN "YANK" MAGAZINE?
+                                        answer_label answer_value raw_counts relative_frequency
+0                                          NO ANSWER          0.0        101               0.07
+1  PLANS FOR MAKING NEW HOUSES QUICKLY AFTER THE WAR          1.0        576               0.39
+2            A BOMBING MISSION AGAINST AN ENEMY CITY          2.0        792               0.54
+
+
+
+S170.Q78 WHICH ONE OF THE FOLLOWING ARTICLES WOULD YOU RATHER READ IN "YANK" MAGAZINE?
+                                                         answer_label answer_value raw_counts relative_frequency
+0                                                           NO ANSWER          0.0        121               0.08
+1  NEW WEAPONS BEING DEVELOPED (WHICH ARE NO LONGER MILITARY SECRETS)          1.0        959               0.65
+2                        LATEST IMPROVEMENTS IN TELEVISION RADIO SETS          2.0        389               0.26
+
+
+
+S170.N80 LOCATION?
+                    answer_label answer_value raw_counts relative_frequency
+0                          CHINA          1.0        177               0.12
+1                          BURMA          2.0        160               0.11
+2                          ASSAM          3.0        537               0.37
+3  INDIA, EXCLUDING LARGE CITIES          4.0        394               0.27
+4          LARGE CITIES IN INDIA          5.0        201               0.14
+
+
+
+S170.N82 MAJOR COMMAND?
+                                  answer_label answer_value raw_counts relative_frequency
+0                               THEATER TROOPS          0.0        164               0.11
+1                           SERVICES OF SUPPLY          1.0        439                0.3
+2  AIR FORCES, EXCLUDING AIR TRANSPORT COMMAND          2.0        749               0.51
+3                        AIR TRANSPORT COMMAND          3.0        117               0.08
+
+
+

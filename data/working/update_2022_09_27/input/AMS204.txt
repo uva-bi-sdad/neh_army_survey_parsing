@@ -1,0 +1,278 @@
+S204.Q1 HOW FAR DID YOU GO IN SCHOOL?
+                          answer_label answer_value raw_counts relative_frequency
+0                            NO ANSWER          0.0          4               0.01
+1                  LESS THAN 6TH GRADE          1.0         14               0.05
+2                   FINISHED 6TH GRADE          2.0         16               0.06
+3                   FINISHED 7TH GRADE          3.0         18               0.06
+4                   FINISHED 8TH GRADE          4.0         45               0.16
+5  SOME HIGH SCHOOL BUT DID NOT FINISH          5.0         83                0.3
+6           GRADUATED FROM HIGH SCHOOL          6.0         67               0.24
+7      SOME COLLEGE BUT DID NOT FINISH          7.0         29                0.1
+8               GRADUATED FROM COLLEGE          8.0          2               0.01
+
+
+
+S204.Q2 HOW LONG HAVE YOU BEEN IN THIS REINFORCEMENT DEPOT?
+     answer_label answer_value raw_counts relative_frequency
+0       NO ANSWER          0.0         18               0.06
+1        1-7 DAYS          1.0        111                0.4
+2       8-14 DAYS          2.0         64               0.23
+3      15-21 DAYS          3.0         28                0.1
+4      22-28 DAYS          4.0          6               0.02
+5      29-35 DAYS          5.0          5               0.02
+6      36-42 DAYS          6.0          3               0.01
+7      50-56 DAYS          8.0          5               0.02
+8      57-90 DAYS          9.0         20               0.07
+9     91-180 DAYS         10.0         15               0.05
+10  OVER 180 DAYS         11.0          3               0.01
+
+
+
+S204.Q3 HOW MANY REINFORCEMENT DEPOTS HAVE YOU BEEN IN SINCE YOU GOT OUT OF THE HOSPITAL?
+                       answer_label answer_value raw_counts relative_frequency
+0                         NO ANSWER          0.0          8               0.03
+1                     ONLY THIS ONE          1.0         21               0.08
+2              ONE BESIDES THIS ONE          2.0        115               0.41
+3              TWO BESIDES THIS ONE          3.0         90               0.32
+4            THREE BESIDES THIS ONE          4.0         34               0.12
+5  MORE THAN THREE BESIDES THIS ONE          5.0          5               0.02
+6                                 4          6.0          2               0.01
+7                                 5          7.0          1                0.0
+8                                 7          9.0          1                0.0
+9                                 9         11.0          1                0.0
+
+
+
+S204.Q4 WHEN DID YOU LAST LEAVE THE HOSPITAL?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0         23               0.08
+1      FEBRUARY 1945          1.0        107               0.38
+2       JANUARY 1945          2.0         62               0.22
+3      DECEMBER 1944          3.0         31               0.11
+4      NOVEMBER 1944          4.0         26               0.09
+5       OCTOBER 1944          5.0         11               0.04
+6     SEPTEMBER 1944          6.0          9               0.03
+7        AUGUST 1944          7.0          3               0.01
+8          JULY 1944          8.0          2               0.01
+9          JUNE 1944          9.0          1                0.0
+10  BEFORE JUNE 1944         10.0          2               0.01
+11     NEVER OR NONE         11.0          1                0.0
+
+
+
+S204.Q5 WHEN DID YOU LAST LEAVE YOUR OLD OUTFIT?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0          9               0.03
+1      FEBRUARY 1945          1.0          2               0.01
+2       JANUARY 1945          2.0         43               0.15
+3      DECEMBER 1944          3.0         86               0.31
+4      NOVEMBER 1944          4.0         49               0.18
+5       OCTOBER 1944          5.0         27                0.1
+6     SEPTEMBER 1944          6.0         20               0.07
+7        AUGUST 1944          7.0         17               0.06
+8          JULY 1944          8.0         14               0.05
+9          JUNE 1944          9.0          4               0.01
+10  BEFORE JUNE 1944         10.0          4               0.01
+11     NEVER OR NONE         11.0          3               0.01
+
+
+
+S204.Q6 ARE YOU GENERAL SERVICE OR LIMITED ASSIGNMENT?
+         answer_label answer_value raw_counts relative_frequency
+0  NO CODE OR NO DATA          0.0          1                0.0
+1     GENERAL SERVICE          1.0          2               0.01
+2  LIMITED ASSIGNMENT          2.0        270               0.97
+3           NO ANSWER          3.0          5               0.02
+
+
+
+S204.Q7 IF YOU ARE LIMITED ASSIGNMENT, WHAT CLASS ARE YOU IN?
+                        answer_label answer_value raw_counts relative_frequency
+0  LIMITED ASSIGNMENT CLASS 2 (LA-2)          1.0         10               0.04
+1  LIMITED ASSIGNMENT CLASS 3 (LA-3)          2.0         12               0.04
+2  LIMITED ASSIGNMENT CLASS 4 (LA-4)          3.0          4               0.01
+3  LIMITED ASSIGNMENT CLASS 5 (LA-5)          4.0         60               0.22
+4      DON'T KNOW WHAT CLASS I AM IN          5.0        182               0.65
+5                          NO ANSWER          6.0         10               0.04
+
+
+
+S204.Q8 FOR MEN IN YOUR CLASS OF LIMITED ASSIGNMENT, HOW LONG IS IT FROM THE TIME THEY ARE PUT ON LIMITED ASSIGNMENT BEFORE THEY ARE EXAMINED AGAIN BY A MEDICAL BOARD?
+                              answer_label answer_value raw_counts relative_frequency
+0                                NO ANSWER          0.0         15               0.05
+1                            3 TO 6 MONTHS          1.0         24               0.09
+2                       6 MONTHS TO 1 YEAR          2.0          7               0.03
+3  IN MY CLASS THEY ARE NOT EXAMINED AGAIN          4.0         23               0.08
+4                DON'T KNOW HOW LONG IT IS          5.0        209               0.75
+
+
+
+S204.Q9 WHAT WAS THE REASON WHY YOU WERE PUT ON LIMITED ASSIGNMENT?
+              answer_label answer_value raw_counts relative_frequency
+0                NO ANSWER          0.0          9               0.03
+1                  WOUNDED          1.0         53               0.19
+2        COMBAT EXHAUSTION          2.0        126               0.45
+3              TRENCH FOOT          3.0         24               0.09
+4  OTHER NON-BATTLE INJURY          4.0         64               0.23
+5        SOME OTHER REASON          5.0          2               0.01
+
+
+
+S204.Q10 SINCE YOU HAVE BEEN AT THIS REINFORCEMENT DEPOT HAVE YOU BEEN INTERVIEWED BY ANYONE ABOUT THE KIND OF ARMY JOB YOU MIGHT DO HERE IN THE ETO?
+  answer_label answer_value raw_counts relative_frequency
+0    NO ANSWER          0.0          4               0.01
+1          YES          1.0         64               0.23
+2           NO          2.0        210               0.76
+
+
+
+S204.Q11 DO YOU THINK THAT MOST LIMITED ASSIGNMENT REINFORCEMENTS ARE ASSIGNED TO AN ARMY JOB FOR WHICH THEY ARE WELL SUITED?
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0         31               0.11
+1      ALMOST ALL OF THEM ARE          1.0         25               0.09
+2            MOST OF THEM ARE          2.0         84                0.3
+3     ALMOST HALF OF THEM ARE          3.0         53               0.19
+4        MOST OF THEM ARE NOT          4.0         63               0.23
+5  ALMOST ALL OF THEM ARE NOT          5.0         22               0.08
+
+
+
+S204.Q13 DO YOU FEEL THAT YOU HAVE BEEN TOLD AS MUCH AS IT IS POSSIBLE TO TELL YOU ABOUT WHAT TYPE OF JOB YOU ARE GOING TO BE ASSIGNED TO?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                NO CODE OR NO DATA          0.0          1                0.0
+1  YES, THEY HAVE TOLD US ABOUT AS MUCH AS THEY CAN          1.0         83                0.3
+2            NO, THEY COULD HAVE TOLD US A LOT MORE          2.0        180               0.65
+3                                         NO ANSWER          3.0         14               0.05
+
+
+
+S204.Q14 DO YOU THINK IT IS NECESSARY TO PUT LIMITED ASSIGNMENT MEN IN REAR ECHELON JOBS IN THE ETO OR SHOULD THEY BE SENT BACK TO THE U.S.?
+                               answer_label answer_value raw_counts relative_frequency
+0                                 NO ANSWER          0.0         19               0.07
+1  IT IS NECESSARY TO PUT THEM ON JOBS HERE          1.0         91               0.33
+2      THEY SHOULD BE SENT BACK TO THE U.S.          2.0        168                0.6
+
+
+
+S204.Q15 IN GENERAL, DO YOU THINK THE ARMY HAS TRIED ITS BEST TO SEE THAT MEN GET AS SQUARE DEAL AS POSSIBLE?
+                            answer_label answer_value raw_counts relative_frequency
+0                              NO ANSWER          0.0         11               0.04
+1             YES, IT HAS TRIED ITS BEST          1.0         67               0.24
+2  IT HAS TRIED SOME BUT NOT HARD ENOUGH          2.0        168                0.6
+3             IT HAS HARDLY TRIED AT ALL          3.0         32               0.12
+
+
+
+S204.Q16 IN GENERAL, DO YOU THINK THAT YOU YOURSELF HAVE GOTTEN A SQUARE DEAL FROM THE ARMY?
+                                       answer_label answer_value raw_counts relative_frequency
+0                                         NO ANSWER          0.0         11               0.04
+1                          YES, IN MOST WAYS I HAVE          1.0         79               0.28
+2              IN SOME WAYS, YES, IN OTHER WAYS, NO          2.0        147               0.53
+3  NO, ON THE WHOLE I HAVE NOT GOTTEN A SQUARE DEAL          3.0         41               0.15
+
+
+
+S204.Q17 DO YOU EVER GET THE FEELING THAT THIS WAR IS NOT WORTH FIGHTING?
+                 answer_label answer_value raw_counts relative_frequency
+0                   NO ANSWER          0.0         13               0.05
+1                  VERY OFTEN          1.0         29                0.1
+2                   SOMETIMES          2.0         77               0.28
+3  ONLY ONCE IN A GREAT WHILE          3.0         65               0.23
+4                       NEVER          4.0         94               0.34
+
+
+
+S204.Q18 HOW DO YOU FEEL ABOUT THE WAY THE CADRE IS TREATED HERE AS COMPARED WITH THE WAY THE CASUAL MEN IN THE COMPANY ARE TREATED?
+                                                answer_label answer_value raw_counts relative_frequency
+0                                                  NO ANSWER          0.0         21               0.08
+1                   THE CADRE ARE TREATED QUITE A BIT BETTER          1.0         67               0.24
+2                      THE CADRE ARE TREATED A LITTLE BETTER          2.0         71               0.26
+3                        THEY ARE ALL TREATED ABOUT THE SAME          3.0        112                0.4
+4     THE CASUALS ARE TREATED A LITTLE BETTER THAN THE CADRE          4.0          5               0.02
+5  THE CASUALS ARE TREATED QUITE A BIT BETTER THAN THE CADRE          5.0          2               0.01
+
+
+
+S204.Q19 WHEN WAS THE LAST TIME YOU RECEIVED AT LEAST A FULL MONTH'S PAY?
+        answer_label answer_value raw_counts relative_frequency
+0          NO ANSWER          0.0         12               0.04
+1      FEBRUARY 1945          1.0         36               0.13
+2       JANUARY 1945          2.0         36               0.13
+3      DECEMBER 1944          3.0         21               0.08
+4      NOVEMBER 1944          4.0         68               0.24
+5       OCTOBER 1944          5.0         50               0.18
+6     SEPTEMBER 1944          6.0         14               0.05
+7        AUGUST 1944          7.0         13               0.05
+8          JULY 1944          8.0         11               0.04
+9          JUNE 1944          9.0          8               0.03
+10  BEFORE JUNE 1944         10.0          9               0.03
+
+
+
+S204.Q20 WHEN WAS THE LAST TIME YOU RECEIVED A PARTIAL PAYMENT?
+       answer_label answer_value raw_counts relative_frequency
+0         NO ANSWER          0.0         38               0.14
+1     FEBRUARY 1945          1.0        153               0.55
+2      JANUARY 1945          2.0         37               0.13
+3     DECEMBER 1944          3.0         22               0.08
+4     NOVEMBER 1944          4.0          8               0.03
+5      OCTOBER 1944          5.0          6               0.02
+6    SEPTEMBER 1944          6.0          2               0.01
+7         JUNE 1944          9.0          1                0.0
+8  BEFORE JUNE 1944         10.0          7               0.03
+9     NEVER OR NONE         11.0          4               0.01
+
+
+
+S204.Q21 ARE YOUR MESS FACILITIES AND FOOD ABOUT AS GOOD AS THEY COULD BE UNDER PRESENT CIRCUMSTANCES?
+                     answer_label answer_value raw_counts relative_frequency
+0                       NO ANSWER          0.0          4               0.01
+1  ABOUT AS GOOD AS THEY COULD BE          1.0         62               0.22
+2           COULD BE A BIT BETTER          2.0        109               0.39
+3           COULD BE A LOT BETTER          3.0        103               0.37
+
+
+
+S204.Q22 ARE YOUR HOUSING AND SANITARY CONDITIONS ABOUT AS GOOD AS THEY COULD BE UNDER PRESENT CIRCUMSTANCES?
+                     answer_label answer_value raw_counts relative_frequency
+0                       NO ANSWER          0.0          6               0.02
+1  ABOUT AS GOOD AS THEY COULD BE          1.0        101               0.36
+2           COULD BE A BIT BETTER          2.0         92               0.33
+3           COULD BE A LOT BETTER          3.0         79               0.28
+
+
+
+S204.Q23 ARE YOU GETTING ABOUT AS MUCH TIME OFF (FURLOUGH AND PASSES) AS YOU SHOULD HAVE UNDER PRESENT CIRCUMSTANCES?
+                      answer_label answer_value raw_counts relative_frequency
+0                        NO ANSWER          0.0          8               0.03
+1  ABOUT AS MUCH AS WE SHOULD HAVE          1.0         82               0.29
+2           SHOULD HAVE A BIT MORE          2.0        106               0.38
+3           SHOULD HAVE A LOT MORE          3.0         82               0.29
+
+
+
+S204.Q24 IS THE TRANSPORTATION PROVIDED FROM YOUR CAMP TO TOWN ABOUT AS GOOD AS IT COULD BE UNDER PRESENT CIRCUMSTANCES?
+                answer_label answer_value raw_counts relative_frequency
+0                  NO ANSWER          0.0         22               0.08
+1  ABOUT AS GOOD AS COULD BE          1.0        150               0.54
+2      COULD BE A BIT BETTER          2.0         43               0.15
+3      COULD BE A LOT BETTER          3.0         63               0.23
+
+
+
+S204.Q25 ARE YOUR RECREATION AND ENTERTAINMENT NEEDS ABOUT AS WELL TAKEN CARE OF AS THEY COULD BE UNDER PRESENT CIRCUMSTANCES?
+                     answer_label answer_value raw_counts relative_frequency
+0                       NO ANSWER          0.0         12               0.04
+1  ABOUT AS GOOD AS THEY COULD BE          1.0        135               0.49
+2           COULD BE A BIT BETTER          2.0         75               0.27
+3           COULD BE A LOT BETTER          3.0         56                0.2
+
+
+
+S204.Q26 IF YOU HAVE ANY COMMENTS OR SUGGESTIONS ON THE WAY LIMITED ASSIGNMENT MEN SHOULD BE HANDLED, WRITE THEM HERE:
+  answer_label answer_value raw_counts relative_frequency
+0      COMMENT          1.0        157               0.56
+1   NO COMMENT          2.0        121               0.44
+
+
+
